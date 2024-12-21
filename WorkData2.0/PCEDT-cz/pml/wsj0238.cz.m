@@ -613,7 +613,7 @@
 </w.rf>
 <form>Tento</form>
 <lemma>tento</lemma>
-<tag>PDIS4----------</tag>
+<tag>PDYS1----------</tag>
 </m>
 <m id="m-wsj0238-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -622,7 +622,7 @@
 </w.rf>
 <form>týden</form>
 <lemma>týden_^(jednotka_času)</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0238-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -822,7 +822,7 @@
 </w.rf>
 <form>nereagovaly</form>
 <lemma>reagovat</lemma>
-<tag>VpTP----R-NAI--</tag>
+<tag>VpTP----R-NAB--</tag>
 </m>
 <m id="m-wsj0238-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1075,8 +1075,8 @@
 <LM>w#w-wsj0238-001-p1s5W13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0238-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2092,7 +2092,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0238-001-p1s11W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3187,7 +3187,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0238-001-p1s19W12-Ta">
 <src.rf>tagger-a</src.rf>

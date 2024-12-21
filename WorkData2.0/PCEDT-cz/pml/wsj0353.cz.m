@@ -34,7 +34,7 @@
 <LM>w#w-wsj0353-001-p1s0W3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj0353-001-p1s0W4-Ta">
@@ -97,8 +97,8 @@
 <LM>w#w-wsj0353-001-p1s0W10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0353-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>

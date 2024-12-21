@@ -120,8 +120,8 @@
 <LM>w#w-d1t254-3</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m128-d1t254-4">
 <w.rf>
@@ -494,8 +494,8 @@
 <LM>w#w-d1t274-7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m128-d1t274-8">
 <w.rf>
@@ -642,8 +642,8 @@
 <LM>w#w-d1t290-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m128-d1t290-3">
 <w.rf>
@@ -1304,8 +1304,8 @@
 <LM>w#w-d1t350-8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m128-d1t350-9">
 <w.rf>
@@ -1453,7 +1453,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m128-d1t357-6">
 <w.rf>
@@ -1648,8 +1648,8 @@
 <LM>w#w-d1t371-9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m128-d1t371-10">
 <w.rf>
@@ -2222,8 +2222,8 @@
 <LM>w#w-d1t410-14</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m128-d-id68491-punct">
 <w.rf>
@@ -2896,7 +2896,7 @@
 <LM>w#w-d1t461-4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m128-d1t461-5">
@@ -3620,8 +3620,8 @@
 <LM>w#w-195-224</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m128-195-223">
 <w.rf>
@@ -3898,8 +3898,8 @@
 <LM>w#w-d1t521-3</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m128-d1t521-4">
 <w.rf>

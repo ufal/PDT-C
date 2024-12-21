@@ -1098,7 +1098,7 @@
 </w.rf>
 <form>předčili</form>
 <lemma>předčit</lemma>
-<tag>VpMP----R-AAP--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-mf930709-093-p2s8w13">
 <src.rf>manual</src.rf>

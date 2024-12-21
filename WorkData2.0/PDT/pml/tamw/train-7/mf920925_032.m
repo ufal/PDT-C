@@ -296,7 +296,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-mf920925-032-p2s3w2">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-mf920925-032-p2s3w25">
 <src.rf>manual</src.rf>
@@ -612,8 +612,8 @@
 <LM>w#w-mf920925-032-p2s4w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920925-032-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-032-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1733,7 +1733,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-032-p5s1w25">
 <src.rf>manual</src.rf>

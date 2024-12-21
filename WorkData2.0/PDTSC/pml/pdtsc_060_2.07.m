@@ -240,7 +240,7 @@
 <LM>w#w-d1t1698-4</LM>
 </w.rf>
 <form>Ořech</form>
-<lemma>ořech</lemma>
+<lemma>ořech-1</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m129-d1t1700-1">
@@ -320,8 +320,8 @@
 <LM>w#w-d1t1700-12</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m129-d1t1700-10">
 <w.rf>
@@ -1038,8 +1038,8 @@
 <LM>w#w-d1t1737-2</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m129-d1t1737-3">
 <w.rf>
@@ -3121,8 +3121,8 @@
 <LM>w#w-d1t1870-7</LM>
 </w.rf>
 <form>To</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m129-d1t1870-9">
 <w.rf>
@@ -3307,7 +3307,7 @@
 <LM>w#w-d1t1879-22</LM>
 </w.rf>
 <form>plínky</form>
-<lemma>plínka</lemma>
+<lemma>plínka_,s_^(^DD**plenka)</lemma>
 <tag>NNFP4-----A----</tag>
 </m>
 <m id="m129-d-id132964-punct">
@@ -3562,7 +3562,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m129-d1t1890-20">
 <w.rf>
@@ -4139,8 +4139,8 @@
 <LM>w#w-d1t1928-7</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m129-d1t1928-8">
 <w.rf>

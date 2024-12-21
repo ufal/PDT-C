@@ -112,7 +112,7 @@
 </w.rf>
 <form>Vážení</form>
 <lemma>vážený_^(*3it)</lemma>
-<tag>AAMP1----1A----</tag>
+<tag>AAMP5----1A----</tag>
 </m>
 <m id="m-ln95047-043-p2s1w8">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-043-p2s3Aw2">
 <src.rf>manual</src.rf>

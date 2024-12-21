@@ -531,8 +531,8 @@
 <LM>w#w-lnd94104-081-p1s4w9</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-081-p1s4w10">
 <src.rf>manual</src.rf>
@@ -2708,7 +2708,7 @@
 </w.rf>
 <form>vztahu</form>
 <lemma>vztah</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94104-081-p1s12w61">
 <src.rf>manual</src.rf>
@@ -4571,7 +4571,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-081-p1s21w2">
 <src.rf>manual</src.rf>
@@ -5069,8 +5069,8 @@
 <LM>w#w-lnd94104-081-p1s23w6</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-081-p1s23w7">
 <src.rf>manual</src.rf>

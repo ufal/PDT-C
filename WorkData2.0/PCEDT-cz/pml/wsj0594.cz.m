@@ -254,8 +254,8 @@
 <LM>w#w-wsj0594-001-p1s2W7</LM>
 </w.rf>
 <form>věda</form>
-<lemma>věda</lemma>
-<tag>NNFS1-----A----</tag>
+<lemma>vědět</lemma>
+<tag>VeYS------A-I--</tag>
 </m>
 <m id="m-wsj0594-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -525,7 +525,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0594-001-p1s2W38-Ta">
 <src.rf>tagger-a</src.rf>

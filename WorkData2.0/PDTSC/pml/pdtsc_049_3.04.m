@@ -100,8 +100,8 @@
 <LM>w#w-d1t653-5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m135-7-12">
 <w.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-d1t693-4</LM>
 </w.rf>
 <form>Dozvěděla</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m135-d1t693-2">
@@ -1141,8 +1141,8 @@
 <LM>w#w-d1t697-20</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m135-d1t697-21">
 <w.rf>
@@ -1535,8 +1535,8 @@
 <LM>w#w-d1t702-14</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m135-d1t702-15">
 <w.rf>
@@ -1567,8 +1567,8 @@
 <LM>w#w-d1t702-18</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m135-d1t702-19">
 <w.rf>
@@ -2284,7 +2284,7 @@
 </w.rf>
 <form>vdala</form>
 <lemma>vdát</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m135-d-id104265-punct">
 <w.rf>
@@ -2731,8 +2731,8 @@
 <LM>w#w-d1t749-5</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m135-d1t749-6">
 <w.rf>
@@ -2748,7 +2748,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m135-d1t749-8">
 <w.rf>
@@ -4088,8 +4088,8 @@
 <LM>w#w-d1t793-7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m135-d1t793-8">
 <w.rf>

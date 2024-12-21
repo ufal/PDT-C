@@ -601,7 +601,7 @@
 <LM>w#w-cmpr9413-005-p2s4w17</LM>
 </w.rf>
 <form>avizo</form>
-<lemma>avizo</lemma>
+<lemma>avizo_,s_^(^DD**avízo)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-005-p2s4w18">
@@ -676,7 +676,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-005-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-005-p2s7w11">
 <src.rf>manual</src.rf>

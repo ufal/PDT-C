@@ -18,7 +18,7 @@
 <children>
 <LM id="a-mf920925-096-p1s1w1">
 <m.rf>m#m-mf920925-096-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -30,7 +30,7 @@
 <children>
 <LM id="a-mf920925-096-p2s1w1">
 <m.rf>m#m-mf920925-096-p2s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -42,7 +42,7 @@
 <children>
 <LM id="a-mf920925-096-p3s1w1">
 <m.rf>m#m-mf920925-096-p3s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -62,7 +62,7 @@
 <children>
 <LM id="a-mf920925-096-p5s1w1">
 <m.rf>m#m-mf920925-096-p5s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -82,7 +82,7 @@
 <children>
 <LM id="a-mf920925-096-p7s1w1">
 <m.rf>m#m-mf920925-096-p7s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -94,7 +94,7 @@
 <children>
 <LM id="a-mf920925-096-p8s1w1">
 <m.rf>m#m-mf920925-096-p8s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -106,7 +106,7 @@
 <children>
 <LM id="a-mf920925-096-p10s1w1">
 <m.rf>m#m-mf920925-096-p10s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>

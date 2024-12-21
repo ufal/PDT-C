@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_005.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -25,6 +25,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -37,8 +38,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p1s1w1">
 <a>
@@ -128,7 +129,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w6953f1</val_frame.rf>
+<val_frame.rf>v#v41merA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p2s1w10">
 <a>
@@ -196,7 +197,7 @@
 <lex.rf>a#a-ln95045-005-p2s1w14</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Amp</t_lemma>
+<t_lemma>&amp;</t_lemma>
 <functor>FPHR</functor>
 <deepord>5</deepord>
 </LM>
@@ -222,6 +223,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_dsp_root>1</is_dsp_root>
 <gram>
@@ -235,7 +237,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p2s1w2">
 <a>
@@ -420,7 +422,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>35</deepord>
-<val_frame.rf>v#v-w1508f1</val_frame.rf>
+<val_frame.rf>v#v41bqnA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p2s2w7">
 <a>
@@ -450,13 +452,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-005-p2s2w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6953f1</val_frame.rf>
+<val_frame.rf>v#v41merA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p2s2w3">
 <a>
@@ -516,8 +519,9 @@
 <lex.rf>a#a-ln95045-005-p2s2w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>některý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>indef1</indeftype>
@@ -548,7 +552,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w311f2</val_frame.rf>
+<val_frame.rf>v#v41mtF</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p2s2w11">
 <a>
@@ -794,6 +798,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <is_member>1</is_member>
 <gram>
 <sempos>adj.quant.def</sempos>
@@ -914,7 +919,7 @@
 <lex.rf>a#a-ln95045-005-p2s2w34</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Amp</t_lemma>
+<t_lemma>&amp;</t_lemma>
 <functor>FPHR</functor>
 <deepord>27</deepord>
 </LM>
@@ -932,7 +937,7 @@
 <lex.rf>a#a-ln95045-005-p2s2w36</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Period</t_lemma>
+<t_lemma>.</t_lemma>
 <functor>FPHR</functor>
 <deepord>29</deepord>
 </LM>
@@ -1037,6 +1042,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>mít</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>hrt</deontmod>
@@ -1048,7 +1054,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>38</deepord>
-<val_frame.rf>v#v-w1855f6</val_frame.rf>
+<val_frame.rf>v#v41chlAX</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p2s2w49">
 <a>
@@ -1110,7 +1116,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>40</deepord>
-<val_frame.rf>v#v-w8835f1</val_frame.rf>
+<val_frame.rf>v#v41pvlB</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p2s2a1">
 <nodetype>qcomplex</nodetype>
@@ -1178,6 +1184,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -1210,8 +1217,9 @@
 <lex.rf>a#a-ln95045-005-p2s2w57</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dva</t_lemma>
+<t_lemma>druhý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -1344,7 +1352,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w6666f2</val_frame.rf>
+<val_frame.rf>v#v41lqoA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p2s3w6">
 <a>
@@ -1487,7 +1495,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>24</deepord>
-<val_frame.rf>v#v-w3143f1</val_frame.rf>
+<val_frame.rf>v#v41ewrB</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p2s3w18">
 <a>
@@ -1736,6 +1744,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -1754,8 +1763,9 @@
 <lex.rf>a#a-ln95045-005-p2s3w36</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>houfný</t_lemma>
+<t_lemma>houfně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>houfný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -1901,7 +1911,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w2060f1</val_frame.rf>
+<val_frame.rf>v#v41csoA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p3s1w3">
 <a>
@@ -1926,7 +1936,7 @@
 <deepord>5</deepord>
 <discourse_comment>wrongTR? proc tento podstrom nevisi na "a_to"
 a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
-<val_frame.rf>v#v-w6958f1</val_frame.rf>
+<val_frame.rf>v#v41mexA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p3s1w1">
 <a>
@@ -1935,6 +1945,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -2222,13 +2233,14 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p3s1w25</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w2060f1</val_frame.rf>
+<val_frame.rf>v#v41csoA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p3s1a2">
 <nodetype>complex</nodetype>
@@ -2509,7 +2521,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w4971f1</val_frame.rf>
+<val_frame.rf>v#v41ijeA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p3s2w2">
 <a>
@@ -2525,8 +2537,9 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <lex.rf>a#a-ln95045-005-p3s2w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>teď</t_lemma>
+<t_lemma>nyní</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>teď</proto_lemma>
 <subfunctor>basic</subfunctor>
 <is_member>1</is_member>
 <gram>
@@ -2844,6 +2857,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -2855,7 +2869,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>24</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p3s2a1">
 <nodetype>qcomplex</nodetype>
@@ -2914,13 +2928,14 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p3s2w28</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1560f1</val_frame.rf>
+<val_frame.rf>v#v41bssA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p3s2w30">
 <a>
@@ -3130,7 +3145,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w9154f2</val_frame.rf>
+<val_frame.rf>v#v41qlzC</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p4s1w2">
 <a>
@@ -3147,7 +3162,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w2332f1</val_frame.rf>
+<val_frame.rf>v#v41dibB</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p4s1w4">
 <a>
@@ -3338,6 +3353,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p4s3w2</LM>
@@ -3352,6 +3368,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -3365,7 +3382,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p4s2w1">
 <a>
@@ -3449,7 +3466,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w2607f1</val_frame.rf>
+<val_frame.rf>v#v41dvbA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p4s2a0">
 <nodetype>qcomplex</nodetype>
@@ -3570,6 +3587,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -3614,13 +3632,14 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p4s2w15</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w3701f1</val_frame.rf>
+<val_frame.rf>v#v41fyhA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p4s2w17">
 <a>
@@ -3674,8 +3693,9 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <lex.rf>a#a-ln95045-005-p4s2w21</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dlouhodobý</t_lemma>
+<t_lemma>dlouhodobě</t_lemma>
 <functor>THL</functor>
+<proto_lemma>dlouhodobý</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -3825,7 +3845,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w672f1</val_frame.rf>
+<val_frame.rf>v#v41addA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p4s3w2">
 <a>
@@ -4031,7 +4051,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w5167f1</val_frame.rf>
+<val_frame.rf>v#v41ispA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s1w2">
 <a>
@@ -4080,8 +4100,9 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <lex.rf>a#a-ln95045-005-p5s1w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>stejný</t_lemma>
+<t_lemma>stejně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>stejný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -4114,12 +4135,10 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w5167f1</val_frame.rf>
+<val_frame.rf>v#v41ispA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s1a1">
-<a>
-<lex.rf>a#a-ln95045-005-p5s1w9</lex.rf>
-</a>
+<a/>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -4218,7 +4237,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
-<val_frame.rf>v#v-w1339f12</val_frame.rf>
+<val_frame.rf>v#v41bikAF</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s1w14">
 <a>
@@ -4240,7 +4259,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w7432f2</val_frame.rf>
+<val_frame.rf>v#v41ncsA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s1a2">
 <nodetype>qcomplex</nodetype>
@@ -4303,8 +4322,9 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <lex.rf>a#a-ln95045-005-p5s1w17</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dva</t_lemma>
+<t_lemma>druhý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -4477,7 +4497,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w2228f1</val_frame.rf>
+<val_frame.rf>v#v41dcgA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s2w2">
 <a>
@@ -4592,7 +4612,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w7432f2</val_frame.rf>
+<val_frame.rf>v#v41ncsA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s2a0">
 <nodetype>qcomplex</nodetype>
@@ -4662,6 +4682,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>CAUS</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -4680,13 +4701,14 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-005-p5s2w15</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s2w17">
 <a>
@@ -4952,6 +4974,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>říkat</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>říkat</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -4965,7 +4988,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5882f1</val_frame.rf>
+<val_frame.rf>v#v41kejB</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3a1">
 <nodetype>qcomplex</nodetype>
@@ -5006,7 +5029,8 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <start_group_id>1</start_group_id>
 <start_range>group</start_range>
 <target_range>0</target_range>
-<discourse_type>f_opp</discourse_type>
+<discourse_type>conc</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-005-p5s3w2</LM>
@@ -5023,7 +5047,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </LM>
 </discourse_groups>
 <discourse_comment>wrongTR? proc ma tento podstrom is_parenthesis=1?</discourse_comment>
-<val_frame.rf>v#v-w1981f1</val_frame.rf>
+<val_frame.rf>v#v41cobA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w24">
 <a>
@@ -5059,7 +5083,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w8657f1</val_frame.rf>
+<val_frame.rf>v#v41pmaAO</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3a0">
 <nodetype>complex</nodetype>
@@ -5117,6 +5141,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>mít</proto_lemma>
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <gram>
@@ -5130,7 +5155,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w1855f1</val_frame.rf>
+<val_frame.rf>v#v41chlQ</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w10">
 <a>
@@ -5238,6 +5263,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <gram>
@@ -5258,13 +5284,14 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p5s3w15</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w17">
 <a>
@@ -5499,8 +5526,9 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <lex.rf>a#a-ln95045-005-p5s3w34</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>vysoký</t_lemma>
+<t_lemma>vysoce</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>vysoký</proto_lemma>
 <subfunctor>basic</subfunctor>
 <is_parenthesis>1</is_parenthesis>
 <gram>
@@ -5521,8 +5549,9 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <lex.rf>a#a-ln95045-005-p5s3w33</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>stálý</t_lemma>
+<t_lemma>stále</t_lemma>
 <functor>THL</functor>
+<proto_lemma>stálý</proto_lemma>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>adj.denot</sempos>
@@ -5568,6 +5597,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-005-p5s3w42</LM>
@@ -5577,7 +5607,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </LM>
 </discourse>
 <discourse_comment>konektor+secondary</discourse_comment>
-<val_frame.rf>v#v-w536f1</val_frame.rf>
+<val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w48">
 <a>
@@ -5602,7 +5632,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <tfa>f</tfa>
 <deepord>34</deepord>
 <secondary_NP_type>spec</secondary_NP_type>
-<val_frame.rf>v#v-w6958f1</val_frame.rf>
+<val_frame.rf>v#v41mexA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w45">
 <a>
@@ -5627,6 +5657,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -5735,7 +5766,7 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w714f1</val_frame.rf>
+<val_frame.rf>v#v41afbA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s4w2">
 <a>
@@ -5887,8 +5918,9 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <lex.rf>a#a-ln95045-005-p5s4w8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>obecný</t_lemma>
+<t_lemma>obecně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>obecný</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>

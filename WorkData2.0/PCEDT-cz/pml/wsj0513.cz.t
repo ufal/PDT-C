@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0513.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
+<meta/>
 <trees>
 <LM id="T-wsj0513-001-p1s0">
 <atree.rf>a#a-wsj0513-001-p1s0</atree.rf>
@@ -22,11 +23,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>očekávat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w2608f2</val_frame.rf>
+<val_frame.rf>v#v41dvcD</val_frame.rf>
 <children>
 <LM id="T-wsj0513-001-p1s0a32">
 <nodetype>qcomplex</nodetype>
@@ -44,6 +46,18 @@
 <functor>ADVS</functor>
 <deepord>13</deepord>
 <children>
+<LM id="T-wsj0513-001-p1s0a7">
+<a>
+<lex.rf>a#a-wsj0513-001-p1s0W5-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>inflace</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>3</deepord>
+</LM>
 <LM id="T-wsj0513-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj0513-001-p1s0W8-Ta</lex.rf>
@@ -59,20 +73,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w8687f1</val_frame.rf>
+<val_frame.rf>v#v41pnkA</val_frame.rf>
 <children>
-<LM id="T-wsj0513-001-p1s0a7">
-<a>
-<lex.rf>a#a-wsj0513-001-p1s0W5-Ta</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>inflace</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
-<deepord>3</deepord>
-</LM>
 <LM id="T-wsj0513-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0513-001-p1s0W7-Ta</lex.rf>
@@ -148,18 +150,6 @@
 </LM>
 </children>
 </LM>
-<LM id="T-wsj0513-001-p1s0a18">
-<a>
-<lex.rf>a#a-wsj0513-001-p1s0W15-Ta</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>až</t_lemma>
-<functor>RHEM</functor>
-<gram>
-<sempos>adv.denot.ngrad.nneg</sempos>
-</gram>
-<deepord>10</deepord>
-</LM>
 <LM id="T-wsj0513-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0513-001-p1s0W18-Ta</lex.rf>
@@ -183,6 +173,20 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+<children>
+<LM id="T-wsj0513-001-p1s0a18">
+<a>
+<lex.rf>a#a-wsj0513-001-p1s0W15-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>až</t_lemma>
+<functor>EXT</functor>
+<gram>
+<sempos>adv.denot.ngrad.nneg</sempos>
+</gram>
+<deepord>10</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -204,25 +208,24 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>16</deepord>
-<val_frame.rf>v#v-w6304f4</val_frame.rf>
-<children>
-<LM id="T-wsj0513-001-p1s0a35">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>14</deepord>
-<coref_text>
+<deepord>15</deepord>
+<discourse>
 <LM>
-<target_node.rf>T-wsj0513-001-p1s0a7</target_node.rf>
-<type>SPEC</type>
+<target_node.rf>T-wsj0513-001-p1s0a6</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
+<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>T-wsj0513-001-p1s0a1</LM>
+</t-connectors.rf>
 </LM>
-</coref_text>
-</LM>
+</discourse>
+<val_frame.rf>v#v41kzvA</val_frame.rf>
+<children>
 <LM id="T-wsj0513-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0513-001-p1s0W22-Ta</lex.rf>
@@ -236,7 +239,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>15</deepord>
+<deepord>14</deepord>
 </LM>
 <LM id="T-wsj0513-001-p1s0a29">
 <a>
@@ -248,7 +251,7 @@
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
-<deepord>17</deepord>
+<deepord>16</deepord>
 <children>
 <LM id="T-wsj0513-001-p1s0a27">
 <a>
@@ -260,7 +263,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>18</deepord>
+<deepord>17</deepord>
 <children>
 <LM id="T-wsj0513-001-p1s0a28">
 <a>
@@ -272,7 +275,7 @@
 <gram>
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
-<deepord>19</deepord>
+<deepord>18</deepord>
 </LM>
 </children>
 </LM>
@@ -288,10 +291,11 @@
 <nodetype>complex</nodetype>
 <t_lemma>ekonom</t_lemma>
 <functor>CRIT</functor>
+<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>20</deepord>
+<deepord>19</deepord>
 </LM>
 </children>
 </LM>
@@ -313,11 +317,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>prohlásit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w4354f1</val_frame.rf>
+<val_frame.rf>v#v41hddB</val_frame.rf>
 <children>
 <LM id="T-wsj0513-001-p1s1a3">
 <a>
@@ -393,7 +398,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w8687f1</val_frame.rf>
+<val_frame.rf>v#v41pnkA</val_frame.rf>
 <children>
 <LM id="T-wsj0513-001-p1s1a8">
 <a>
@@ -528,7 +533,22 @@
 <sempos>v</sempos>
 </gram>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w8687f1</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>T-wsj0513-001-p1s1a6</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>T-wsj0513-001-p1s1a1</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41pnkA</val_frame.rf>
 <children>
 <LM id="T-wsj0513-001-p1s1a23">
 <a>

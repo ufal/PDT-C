@@ -241,8 +241,8 @@
 <LM>w#w-wsj0918-001-p1s0W26</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0918-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -397,7 +397,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0918-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1828,8 +1828,8 @@
 <LM>w#w-wsj0918-001-p1s7W7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0918-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2801,7 +2801,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0918-001-p1s11W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3201,7 +3201,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0918-001-p1s12W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6829,7 +6829,7 @@
 </w.rf>
 <form>listopadu</form>
 <lemma>listopad</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS3-----A----</tag>
 </m>
 <m id="m-wsj0918-001-p1s27W14-Ta">
 <src.rf>tagger-a</src.rf>

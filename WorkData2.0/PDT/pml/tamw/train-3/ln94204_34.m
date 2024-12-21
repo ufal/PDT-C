@@ -364,8 +364,8 @@
 <LM>w#w-ln94204-34-p2s5w2</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-34-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1112,8 +1112,8 @@
 <LM>w#w-ln94204-34-p3s4w23</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-34-p3s4w24">
 <src.rf>manual</src.rf>

@@ -902,8 +902,8 @@
 <LM>w#w-wsj2031-001-p1s2W19</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2031-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -968,7 +968,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2031-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1202,7 +1202,7 @@
 </w.rf>
 <form>sponzoroval</form>
 <lemma>sponzorovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj2031-001-p1s3W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3733,8 +3733,8 @@
 <LM>w#w-wsj2031-001-p1s13W14</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2031-001-p1s13W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5022,8 +5022,8 @@
 <LM>w#w-wsj2031-001-p1s18W6</LM>
 </w.rf>
 <form>Riegle</form>
-<lemma>Riegl_;Y</lemma>
-<tag>NNMS5-----A----</tag>
+<lemma>Riegle_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2031-001-p1s18W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5158,7 +5158,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2031-001-p1s18W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5187,7 +5187,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2031-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6167,7 +6167,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2031-001-p1s23W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -388,8 +388,8 @@
 <LM>w#w-mf920925-042-p2s3w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-042-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1020,8 +1020,8 @@
 <LM>w#w-mf920925-042-p3s2w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-042-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1489,7 +1489,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-042-p4s3w4">
 <src.rf>manual</src.rf>

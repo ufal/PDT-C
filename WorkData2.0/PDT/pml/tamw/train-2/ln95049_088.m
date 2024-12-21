@@ -624,8 +624,8 @@
 <LM>w#w-ln95049-088-p3s2w4</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-088-p3s2w5">
 <src.rf>manual</src.rf>

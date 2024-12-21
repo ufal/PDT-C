@@ -421,8 +421,8 @@
 <LM>w#w-ln94210-121-p2s2w22</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-121-p2s2w23">
 <src.rf>manual</src.rf>
@@ -1195,8 +1195,8 @@
 <LM>w#w-ln94210-121-p4s1w3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-121-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1321,8 +1321,8 @@
 <LM>w#w-ln94210-121-p4s1w17</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-121-p4s1w18">
 <src.rf>manual</src.rf>

@@ -102,8 +102,8 @@
 <LM>w#w-ln95040-055-p2s1w7</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95040-055-p2s1w8">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-055-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1161,7 +1161,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-055-p4s2w11">
 <src.rf>manual</src.rf>

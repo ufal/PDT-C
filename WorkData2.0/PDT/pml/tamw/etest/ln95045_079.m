@@ -201,7 +201,7 @@
 <LM>w#w-ln95045-079-p2s1w11</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln95045-079-p2s1w12">
@@ -484,8 +484,8 @@
 <LM>w#w-ln95045-079-p3s1w5</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-079-p3s1w6">
 <src.rf>manual</src.rf>
@@ -803,8 +803,8 @@
 <LM>w#w-ln95045-079-p3s3w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-079-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1169,8 +1169,8 @@
 <LM>w#w-ln95045-079-p3s6w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-079-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1178,8 +1178,8 @@
 <LM>w#w-ln95045-079-p3s6w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95045-079-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1369,8 +1369,8 @@
 <LM>w#w-ln95045-079-p3s7w3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-079-p3s7w4">
 <src.rf>manual</src.rf>
@@ -1560,8 +1560,8 @@
 <LM>w#w-ln95045-079-p3s8w5</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-079-p3s8w6">
 <src.rf>manual</src.rf>
@@ -1725,7 +1725,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-079-p3s9w7">
 <src.rf>manual</src.rf>
@@ -1733,8 +1733,8 @@
 <LM>w#w-ln95045-079-p3s9w7</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-079-p3s9w8">
 <src.rf>manual</src.rf>

@@ -551,7 +551,7 @@
 <LM>w#w-mf920922-126-p3s1w3</LM>
 </w.rf>
 <form>abchazský</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m-mf920922-126-p3s1w4">
@@ -659,8 +659,8 @@
 <LM>w#w-mf920922-126-p3s1w15</LM>
 </w.rf>
 <form>věřících</form>
-<lemma>věřící_^(*3it)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>věřící-1</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-mf920922-126-p3s1w16">
 <src.rf>manual</src.rf>

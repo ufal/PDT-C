@@ -573,7 +573,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-035-p2s2w10">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-mf920902-035-p2s3w22</LM>
 </w.rf>
 <form>gentlemanů</form>
-<lemma>gentleman</lemma>
+<lemma>gentleman_,s_^(^DD**džentlmen)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-035-p2s3w23">

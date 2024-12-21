@@ -557,7 +557,6 @@
 <w.rf>
 <LM>w#w-wsj1707-001-p1s1W12</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>52.7</form>
 <lemma>52.7</lemma>
 <tag>C=-------------</tag>
@@ -1310,8 +1309,8 @@
 <LM>w#w-wsj1707-001-p1s3W2</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1707-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1354,7 +1353,6 @@
 <w.rf>
 <LM>w#w-wsj1707-001-p1s3W7</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>29.8</form>
 <lemma>29.8</lemma>
 <tag>C=-------------</tag>
@@ -1472,7 +1470,6 @@
 <w.rf>
 <LM>w#w-wsj1707-001-p1s3W20</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>22.9</form>
 <lemma>22.9</lemma>
 <tag>C=-------------</tag>

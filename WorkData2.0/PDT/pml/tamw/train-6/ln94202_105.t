@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_105.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -49,14 +49,15 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>zřejmě is_photo description</discourse_comment>
-<val_frame.rf>v#v-w4995f1</val_frame.rf>
+<val_frame.rf>v#v41ikfB</val_frame.rf>
 <children>
 <LM id="t-ln94202-105-p1s1Aw7">
 <a>
 <lex.rf>a#a-ln94202-105-p1s1Aw7</lex.rf>
 <aux.rf>
+<LM>a#a-ln94202-105-p1s1Aw6</LM>
 <LM>a#a-ln94202-105-p1s1Aw1</LM>
 <LM>a#a-ln94202-105-p1s1Aw2</LM>
 </aux.rf>
@@ -75,7 +76,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w4512f1</val_frame.rf>
+<val_frame.rf>v#v41hlqA</val_frame.rf>
 <children>
 <LM id="t-ln94202-105-p1s1Aa0">
 <nodetype>qcomplex</nodetype>
@@ -90,8 +91,9 @@
 <lex.rf>a#a-ln94202-105-p1s1Aw5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>těžký</t_lemma>
+<t_lemma>těžce</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>těžký</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -107,6 +109,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>jak</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>jak</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>

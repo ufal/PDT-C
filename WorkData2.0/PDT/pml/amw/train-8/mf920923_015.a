@@ -64,7 +64,8 @@
 <children>
 <LM id="a-mf920923-015-p1s1w8">
 <m.rf>m#m-mf920923-015-p1s1w8</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>8</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -188,9 +189,16 @@
 </LM>
 </children>
 </LM>
+<LM id="a-mf920923-015-p2s1w19">
+<m.rf>m#m-mf920923-015-p2s1w19</m.rf>
+<afun>Apos</afun>
+<ord>19</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-mf920923-015-p2s1w17">
 <m.rf>m#m-mf920923-015-p2s1w17</m.rf>
 <afun>Sb</afun>
+<is_member>1</is_member>
 <ord>17</ord>
 <clause_number>1</clause_number>
 <children>
@@ -200,18 +208,15 @@
 <ord>18</ord>
 <clause_number>1</clause_number>
 </LM>
+</children>
+</LM>
 <LM id="a-mf920923-015-p2s1w22">
 <m.rf>m#m-mf920923-015-p2s1w22</m.rf>
-<afun>Atr</afun>
+<afun>Sb</afun>
+<is_member>1</is_member>
 <ord>22</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920923-015-p2s1w19">
-<m.rf>m#m-mf920923-015-p2s1w19</m.rf>
-<afun>AuxX</afun>
-<ord>19</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-mf920923-015-p2s1w20">
 <m.rf>m#m-mf920923-015-p2s1w20</m.rf>
 <afun>Atr</afun>
@@ -398,10 +403,10 @@
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920923-015-p2s3w11">
-<m.rf>m#m-mf920923-015-p2s3w11</m.rf>
-<afun>Sb</afun>
-<ord>11</ord>
+<LM id="a-mf920923-015-p2s3w1">
+<m.rf>m#m-mf920923-015-p2s3w1</m.rf>
+<afun>AuxC</afun>
+<ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920923-015-p2s3w2">
@@ -410,12 +415,6 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920923-015-p2s3w1">
-<m.rf>m#m-mf920923-015-p2s3w1</m.rf>
-<afun>AuxY</afun>
-<ord>1</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-mf920923-015-p2s3w3">
 <m.rf>m#m-mf920923-015-p2s3w3</m.rf>
 <afun>Atr</afun>
@@ -473,6 +472,12 @@
 </children>
 </LM>
 </children>
+</LM>
+<LM id="a-mf920923-015-p2s3w11">
+<m.rf>m#m-mf920923-015-p2s3w11</m.rf>
+<afun>Sb</afun>
+<ord>11</ord>
+<clause_number>1</clause_number>
 </LM>
 <LM id="a-mf920923-015-p2s3w12">
 <m.rf>m#m-mf920923-015-p2s3w12</m.rf>

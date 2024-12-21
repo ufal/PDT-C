@@ -2666,8 +2666,8 @@
 <LM>w#w-wsj0271-001-p1s13W18</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)</lemma>
-<tag>NNIS1-----A----</tag>
+<lemma>plus-3_^(plus_dva_stupně)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0271-001-p1s13W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4311,8 +4311,8 @@
 <LM>w#w-wsj0271-001-p1s22W20</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj0271-001-p1s22W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4491,8 +4491,8 @@
 <LM>w#w-wsj0271-001-p1s22W40</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj0271-001-p1s22W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8174,7 +8174,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0271-001-p1s43W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8390,7 +8390,7 @@
 <LM>w#w-wsj0271-001-p1s43W25</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIS4-----A----</tag>
 </m>
 <m id="m-wsj0271-001-p1s43W26-Ta">
@@ -9099,7 +9099,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0271-001-p1s46W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9306,7 +9306,7 @@
 <LM>w#w-wsj0271-001-p1s46W24</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIS4-----A----</tag>
 </m>
 <m id="m-wsj0271-001-p1s46W25-Ta">
@@ -9868,7 +9868,7 @@
 <LM>w#w-wsj0271-001-p1s48W27</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj0271-001-p1s48W28-Ta">

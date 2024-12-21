@@ -1203,8 +1203,8 @@
 <LM>w#w-wsj1939-001-p1s4W1</LM>
 </w.rf>
 <form>Proto</form>
-<lemma>proto-2_^(proto_že)</lemma>
-<tag>Db-------------</tag>
+<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1939-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3494,8 +3494,8 @@
 <LM>w#w-wsj1939-001-p1s15W2</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1939-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3614,7 +3614,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj1939-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6597,8 +6597,8 @@
 <LM>w#w-wsj1939-001-p1s32W1</LM>
 </w.rf>
 <form>Přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1939-001-p1s32W2-Ta">
 <src.rf>tagger-a</src.rf>

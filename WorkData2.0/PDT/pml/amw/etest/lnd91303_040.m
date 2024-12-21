@@ -743,7 +743,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-040-p3s3Aw4">
 <src.rf>manual</src.rf>

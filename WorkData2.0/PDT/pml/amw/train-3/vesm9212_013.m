@@ -586,7 +586,7 @@
 <LM>w#w-vesm9212-013-p3s3w6</LM>
 </w.rf>
 <form>znova</form>
-<lemma>znova</lemma>
+<lemma>znova_,s_^(^DD**znovu)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-vesm9212-013-p3s3w7">
@@ -3272,7 +3272,7 @@
 </w.rf>
 <form>Island</form>
 <lemma>Island_;G</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9212-013-p9s3w11">
 <src.rf>manual</src.rf>
@@ -3290,7 +3290,7 @@
 </w.rf>
 <form>Azory</form>
 <lemma>Azory_;G</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9212-013-p9s3w13">
 <src.rf>manual</src.rf>
@@ -3317,7 +3317,7 @@
 </w.rf>
 <form>Špicberky</form>
 <lemma>Špicberky_;G</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9212-013-p9s3w16">
 <src.rf>manual</src.rf>

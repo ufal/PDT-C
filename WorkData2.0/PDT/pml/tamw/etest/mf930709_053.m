@@ -557,7 +557,7 @@
 <LM>w#w-mf930709-053-p2s3w23</LM>
 </w.rf>
 <form>Babylónská</form>
-<lemma>babylónský</lemma>
+<lemma>babylónský_,s_^(^DD**babylonský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-mf930709-053-p2s3w24">
@@ -940,7 +940,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-mf930709-053-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1166,7 +1166,7 @@
 <LM>w#w-mf930709-053-p2s8w4</LM>
 </w.rf>
 <form>Babylónské</form>
-<lemma>babylónský</lemma>
+<lemma>babylónský_,s_^(^DD**babylonský)</lemma>
 <tag>AAFS3----1A----</tag>
 </m>
 <m id="m-mf930709-053-p2s8w5">
@@ -2366,8 +2366,8 @@
 <LM>w#w-mf930709-053-p2s14w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-053-p2s14w5">
 <src.rf>manual</src.rf>
@@ -2521,8 +2521,8 @@
 <LM>w#w-mf930709-053-p2s15w10</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-1</lemma>
-<tag>Db-------------</tag>
+<lemma>třeba-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-053-p2s15w11">
 <src.rf>manual</src.rf>
@@ -2893,8 +2893,8 @@
 <LM>w#w-mf930709-053-p2s16w19</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-053-p2s16w20">
 <src.rf>manual</src.rf>

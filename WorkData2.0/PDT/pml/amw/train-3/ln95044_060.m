@@ -399,8 +399,8 @@
 <LM>w#w-ln95044-060-p2s1w37</LM>
 </w.rf>
 <form>statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP1----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP1---------1</tag>
 </m>
 <m id="m-ln95044-060-p2s1w38">
 <src.rf>manual</src.rf>
@@ -864,8 +864,8 @@
 <LM>w#w-ln95044-060-p3s1w26</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-060-p3s1w27">
 <src.rf>manual</src.rf>
@@ -2391,7 +2391,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95044-060-p5s3w7">
 <src.rf>manual</src.rf>
@@ -2701,7 +2701,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-060-p6s1w10">
 <src.rf>manual</src.rf>

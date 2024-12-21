@@ -73,8 +73,8 @@
 <LM>w#w-mf930713-146-p1s1w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-146-p1s1w8">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 </w.rf>
 <form>distribuováno</form>
 <lemma>distribuovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-mf930713-146-p2s1Bw13">
 <src.rf>manual</src.rf>

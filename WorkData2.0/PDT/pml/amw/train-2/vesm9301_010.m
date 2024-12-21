@@ -963,7 +963,7 @@
 <LM>w#w-vesm9301-010-p1s5w24</LM>
 </w.rf>
 <form>neeukleidovských</form>
-<lemma>eukleidovský</lemma>
+<lemma>eukleidovský_,s_^(^DD**euklidovský)</lemma>
 <tag>AAFP2----1N----</tag>
 </m>
 <m id="m-vesm9301-010-p1s5w25">
@@ -1046,7 +1046,7 @@
 <LM>w#w-vesm9301-010-p1s6w7</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-vesm9301-010-p1s6w8">

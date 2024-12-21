@@ -496,7 +496,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1001-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11523,8 +11523,8 @@
 <LM>w#w-wsj1001-001-p1s42W44</LM>
 </w.rf>
 <form>vedoucího</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS2-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS2-----A----</tag>
 </m>
 <m id="m-wsj1001-001-p1s42W45-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11813,7 +11813,7 @@
 <LM>w#w-wsj1001-001-p1s43W26</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIP1-----A----</tag>
 </m>
 <m id="m-wsj1001-001-p1s43W27-Ta">
@@ -12032,7 +12032,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1001-001-p1s44W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12248,7 +12248,7 @@
 <LM>w#w-wsj1001-001-p1s44W25</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIS4-----A----</tag>
 </m>
 <m id="m-wsj1001-001-p1s44W26-Ta">
@@ -13121,7 +13121,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj1001-001-p1s48W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15276,8 +15276,8 @@
 <LM>w#w-wsj1001-001-p1s58W23</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1001-001-p1s58W24-Ta">
 <src.rf>tagger-a</src.rf>

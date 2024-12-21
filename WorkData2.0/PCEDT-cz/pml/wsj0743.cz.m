@@ -415,7 +415,7 @@
 </w.rf>
 <form>domácím</form>
 <lemma>domácí-1</lemma>
-<tag>AAIS7----1A----</tag>
+<tag>AAMS7----1A----</tag>
 </m>
 <m id="m-wsj0743-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>

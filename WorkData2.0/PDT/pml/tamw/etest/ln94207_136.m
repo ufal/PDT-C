@@ -839,7 +839,7 @@
 </w.rf>
 <form>zachována</form>
 <lemma>zachovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94207-136-p2s3w21">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-136-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-136-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1430,7 +1430,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-136-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1710,8 +1710,8 @@
 <LM>w#w-ln94207-136-p4s2w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-136-p4s2w13">
 <src.rf>manual</src.rf>

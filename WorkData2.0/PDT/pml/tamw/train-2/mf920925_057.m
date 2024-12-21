@@ -239,8 +239,8 @@
 <LM>w#w-mf920925-057-p2s2w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-057-p2s2w3">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-mf920925-057-p2s8w6</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf920925-057-p2s8w7">
@@ -1073,7 +1073,7 @@
 <LM>w#w-mf920925-057-p2s9w1</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf920925-057-p2s9w2">
@@ -1228,8 +1228,8 @@
 <LM>w#w-mf920925-057-p2s10Aw13</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-057-p2s10Aw14">
 <src.rf>manual</src.rf>
@@ -1340,8 +1340,8 @@
 <LM>w#w-mf920925-057-p2s11w2</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-057-p2s11w3">
 <src.rf>manual</src.rf>
@@ -1450,8 +1450,8 @@
 <LM>w#w-mf920925-057-p2s12w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-057-p2s12w4">
 <src.rf>manual</src.rf>

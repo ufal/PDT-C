@@ -978,8 +978,8 @@
 <LM>w#w-wsj0091-001-p1s4W5</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0091-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-wsj0091-001-p1s5W5</LM>
 </w.rf>
 <form>mikrofon</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj0091-001-p1s5W6-Ta">
@@ -1187,7 +1187,7 @@
 <LM>w#w-wsj0091-001-p1s5W18</LM>
 </w.rf>
 <form>mikrofon</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0091-001-p1s5W19-Ta">

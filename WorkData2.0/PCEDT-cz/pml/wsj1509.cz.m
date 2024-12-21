@@ -732,8 +732,8 @@
 <LM>w#w-wsj1509-001-p1s2W3</LM>
 </w.rf>
 <form>zjevně</form>
-<lemma>zjevně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zjevně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1509-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

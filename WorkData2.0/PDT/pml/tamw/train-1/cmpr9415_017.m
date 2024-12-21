@@ -1417,8 +1417,8 @@
 <LM>w#w-cmpr9415-017-p8s1w1</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-33</lemma>
-<tag>Q3-------------</tag>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9415-017-p8s1w2">
 <src.rf>manual</src.rf>
@@ -2615,7 +2615,7 @@
 <LM>w#w-cmpr9415-017-p21s1w2</LM>
 </w.rf>
 <form>zjednodušených</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9415-017-p21s1w3">
@@ -2669,8 +2669,8 @@
 <LM>w#w-cmpr9415-017-p21s1w8</LM>
 </w.rf>
 <form>hotové</form>
-<lemma>hotový</lemma>
-<tag>AAIP4----1A----</tag>
+<lemma>hotové</lemma>
+<tag>NNIP4-----A----</tag>
 </m>
 <m id="m-cmpr9415-017-p21s1w9">
 <src.rf>manual</src.rf>
@@ -3006,8 +3006,8 @@
 <LM>w#w-cmpr9415-017-p23s1w12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9415-017-p23s1w13">
 <src.rf>manual</src.rf>
@@ -4094,8 +4094,8 @@
 <LM>w#w-cmpr9415-017-p27s3w5</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9415-017-p27s3w6">
 <src.rf>manual</src.rf>

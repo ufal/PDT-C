@@ -3053,8 +3053,8 @@
 <LM>w#w-wsj1852-001-p1s11W11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1852-001-p1s11W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5114,7 +5114,7 @@
 <LM>w#w-wsj1852-001-p1s20W43</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1852-001-p1s20W44-Ta">
@@ -5661,7 +5661,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1852-001-p1s23W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5815,7 +5815,7 @@
 <LM>w#w-wsj1852-001-p1s24W13</LM>
 </w.rf>
 <form>dceřinné</form>
-<lemma>dceřinný_,a_^(chybné_od_dceřiný)</lemma>
+<lemma>dceřinný_,i_^(^DS**dceřiný)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-wsj1852-001-p1s24W14-Ta">
@@ -5888,7 +5888,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1852-001-p1s24W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6052,7 +6052,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj1852-001-p1s25W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7387,8 +7387,8 @@
 <LM>w#w-wsj1852-001-p1s31W4</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1852-001-p1s31W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8275,8 +8275,8 @@
 <LM>w#w-wsj1852-001-p1s34W24</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1852-001-p1s34W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8633,7 +8633,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1852-001-p1s37W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8866,8 +8866,8 @@
 <LM>w#w-wsj1852-001-p1s37W28</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1852-001-p1s37W29-Ta">
 <src.rf>tagger-a</src.rf>

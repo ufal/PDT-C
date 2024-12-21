@@ -221,8 +221,8 @@
 <LM>w#w-ln95046-070-p2s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95046-070-p2s2w2">
 <src.rf>manual</src.rf>
@@ -392,8 +392,8 @@
 <LM>w#w-ln95046-070-p2s2w20</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-070-p2s2w21">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-070-p3s1w4">
 <src.rf>manual</src.rf>
@@ -956,8 +956,8 @@
 <LM>w#w-ln95046-070-p3s2w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-070-p3s2w5">
 <src.rf>manual</src.rf>

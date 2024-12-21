@@ -176,8 +176,8 @@
 <LM>w#w-d1t2359-3</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m126-d-m-d1e2356-x2-punct-punct">
 <w.rf>
@@ -260,8 +260,8 @@
 <LM>w#w-d1t2375-4</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m126-d-id187526-punct">
 <w.rf>
@@ -276,8 +276,8 @@
 <LM>w#w-d1t2375-6</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m126-d1t2375-7">
 <w.rf>
@@ -424,8 +424,8 @@
 <LM>w#w-d1t2377-3</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m126-d1t2377-1">
 <w.rf>

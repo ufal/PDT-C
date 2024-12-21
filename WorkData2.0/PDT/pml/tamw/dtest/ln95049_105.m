@@ -723,7 +723,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-105-p2s4w22">
 <src.rf>manual</src.rf>
@@ -976,8 +976,8 @@
 <LM>w#w-ln95049-105-p2s5w25</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-105-p2s5w26">
 <src.rf>manual</src.rf>

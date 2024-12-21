@@ -700,8 +700,8 @@
 <LM>w#w-ln94210-84-p2s3w12</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-84-p2s3w13">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-84-p2s4w4">
 <src.rf>manual</src.rf>

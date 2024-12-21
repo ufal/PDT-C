@@ -433,7 +433,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1806-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -697,7 +697,7 @@
 </w.rf>
 <form>listopadu</form>
 <lemma>listopad</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS3-----A----</tag>
 </m>
 <m id="m-wsj1806-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>

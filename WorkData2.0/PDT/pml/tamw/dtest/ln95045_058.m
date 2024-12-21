@@ -459,8 +459,8 @@
 <LM>w#w-ln95045-058-p2s3w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95045-058-p2s3w3">
 <src.rf>manual</src.rf>

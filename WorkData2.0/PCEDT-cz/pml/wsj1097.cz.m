@@ -704,7 +704,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj1097-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1113,8 +1113,8 @@
 <LM>w#w-wsj1097-001-p1s5W18</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1097-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1549,8 +1549,8 @@
 <LM>w#w-wsj1097-001-p1s7W5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1097-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2976,8 +2976,8 @@
 <LM>w#w-wsj1097-001-p1s12W7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1097-001-p1s12W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4056,7 +4056,7 @@
 </w.rf>
 <form>devět</form>
 <lemma>devět`9</lemma>
-<tag>Cl-S4----------</tag>
+<tag>Cl-S1----------</tag>
 </m>
 <m id="m-wsj1097-001-p1s17W3-Ta">
 <src.rf>tagger-a</src.rf>

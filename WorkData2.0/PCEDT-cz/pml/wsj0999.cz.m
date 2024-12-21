@@ -1652,7 +1652,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0999-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4246,7 +4246,7 @@
 <LM>w#w-wsj0999-001-p1s22W6</LM>
 </w.rf>
 <form>sehnala</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0999-001-p1s22W7-Ta">
@@ -6278,7 +6278,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0999-001-p1s34W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7471,7 +7471,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0999-001-p1s41W2-Ta">
 <src.rf>tagger-a</src.rf>

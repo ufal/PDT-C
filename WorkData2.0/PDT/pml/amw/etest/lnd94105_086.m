@@ -759,8 +759,8 @@
 <LM>w#w-lnd94105-086-p1s3Aw1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94105-086-p1s3Aw2">
 <src.rf>manual</src.rf>
@@ -2287,7 +2287,7 @@
 <LM>w#w-lnd94105-086-p1s9w12</LM>
 </w.rf>
 <form>čtvrtfinalový</form>
-<lemma>čtvrtfinalový</lemma>
+<lemma>čtvrtfinalový_,s_^(^DD**čtvrtfinálový)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-lnd94105-086-p1s9w13">
@@ -3341,8 +3341,8 @@
 <LM>w#w-lnd94105-086-p1s12w8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94105-086-p1s12w9">
 <src.rf>manual</src.rf>
@@ -3541,8 +3541,8 @@
 <LM>w#w-lnd94105-086-p1s13Aw1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94105-086-p1s13Aw2">
 <src.rf>manual</src.rf>
@@ -4872,7 +4872,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-086-p1s19Aw11">
 <src.rf>manual</src.rf>

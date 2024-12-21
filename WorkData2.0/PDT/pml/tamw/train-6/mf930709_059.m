@@ -1067,7 +1067,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-mf930709-059-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1275,8 +1275,8 @@
 <LM>w#w-mf930709-059-p2s7w13</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-059-p2s7w14">
 <src.rf>manual</src.rf>
@@ -1450,8 +1450,8 @@
 <LM>w#w-mf930709-059-p2s9w4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-059-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1843,8 +1843,8 @@
 <LM>w#w-mf930709-059-p2s12w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-059-p2s12w17">
 <src.rf>manual</src.rf>
@@ -1953,8 +1953,8 @@
 <LM>w#w-mf930709-059-p2s14w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-059-p2s14w4">
 <src.rf>manual</src.rf>

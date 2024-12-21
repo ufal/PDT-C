@@ -295,8 +295,8 @@
 <LM>w#w-ln95046-067-p2s2w9</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-067-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1621,8 +1621,8 @@
 <LM>w#w-ln95046-067-p4s3w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-067-p4s3w8">
 <src.rf>manual</src.rf>

@@ -18,7 +18,8 @@
 <children>
 <LM id="a-ln94200-74-p1s1w1">
 <m.rf>m#m-ln94200-74-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -154,34 +155,6 @@
 </LM>
 </children>
 </LM>
-<LM id="a-ln94200-74-p2s1w27">
-<m.rf>m#m-ln94200-74-p2s1w27</m.rf>
-<afun>Atv</afun>
-<ord>27</ord>
-<clause_number>1</clause_number>
-<children>
-<LM id="a-ln94200-74-p2s1w26">
-<m.rf>m#m-ln94200-74-p2s1w26</m.rf>
-<afun>AuxY</afun>
-<ord>26</ord>
-<clause_number>1</clause_number>
-</LM>
-<LM id="a-ln94200-74-p2s1w29">
-<m.rf>m#m-ln94200-74-p2s1w29</m.rf>
-<afun>Atr</afun>
-<ord>29</ord>
-<clause_number>1</clause_number>
-<children>
-<LM id="a-ln94200-74-p2s1w28">
-<m.rf>m#m-ln94200-74-p2s1w28</m.rf>
-<afun>Atr</afun>
-<ord>28</ord>
-<clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
 </children>
 </LM>
 <LM id="a-ln94200-74-p2s1w19">
@@ -231,6 +204,36 @@
 <afun>Atr</afun>
 <ord>25</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-ln94200-74-p2s1w26">
+<m.rf>m#m-ln94200-74-p2s1w26</m.rf>
+<afun>AuxC</afun>
+<ord>26</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-ln94200-74-p2s1w27">
+<m.rf>m#m-ln94200-74-p2s1w27</m.rf>
+<afun>Atv</afun>
+<ord>27</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-ln94200-74-p2s1w29">
+<m.rf>m#m-ln94200-74-p2s1w29</m.rf>
+<afun>Atr</afun>
+<ord>29</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-ln94200-74-p2s1w28">
+<m.rf>m#m-ln94200-74-p2s1w28</m.rf>
+<afun>Atr</afun>
+<ord>28</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -448,7 +451,7 @@
 <children>
 <LM id="a-ln94200-74-p3s1w30">
 <m.rf>m#m-ln94200-74-p3s1w30</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>30</ord>
 <clause_number>1</clause_number>
 <children>
@@ -511,7 +514,7 @@
 <children>
 <LM id="a-ln94200-74-p4s1w3">
 <m.rf>m#m-ln94200-74-p4s1w3</m.rf>
-<afun>Atr</afun>
+<afun>AuxY</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>

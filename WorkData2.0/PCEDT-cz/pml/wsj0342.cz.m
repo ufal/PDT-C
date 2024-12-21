@@ -316,7 +316,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0342-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -324,8 +324,8 @@
 <LM>w#w-wsj0342-001-p1s0W35</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0342-001-p1s0W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1359,8 +1359,8 @@
 <LM>w#w-wsj0342-001-p1s5W22</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0342-001-p1s5W23-Ta">
 <src.rf>tagger-a</src.rf>

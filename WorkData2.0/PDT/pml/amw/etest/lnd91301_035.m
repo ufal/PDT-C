@@ -233,7 +233,7 @@
 </w.rf>
 <form>pravil</form>
 <lemma>pravit</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd91301-035-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1377,8 +1377,8 @@
 <LM>w#w-lnd91301-035-p6s3Bw7</LM>
 </w.rf>
 <form>Přikryla</form>
-<lemma>přikrýt</lemma>
-<tag>VpQW----R-AAP--</tag>
+<lemma>Přikryl_;Y</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-035-p6s3Bw8">
 <src.rf>manual</src.rf>
@@ -1396,7 +1396,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-035-p6s3Bw10">
 <src.rf>manual</src.rf>
@@ -1551,7 +1551,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-035-p6s4Aw3">
 <src.rf>manual</src.rf>

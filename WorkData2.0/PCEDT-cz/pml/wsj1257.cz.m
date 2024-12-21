@@ -1429,7 +1429,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj1257-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1501,7 +1501,7 @@
 </w.rf>
 <form>dolar</form>
 <lemma>dolar</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj1257-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1683,7 +1683,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1257-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

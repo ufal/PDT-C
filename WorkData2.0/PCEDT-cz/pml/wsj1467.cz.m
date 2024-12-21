@@ -2282,7 +2282,7 @@
 </w.rf>
 <form>Citovala</form>
 <lemma>citovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj1467-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4233,7 +4233,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj1467-001-p1s17W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6137,7 +6137,7 @@
 <LM>w#w-wsj1467-001-p1s24W9</LM>
 </w.rf>
 <form>záři</form>
-<lemma>zář</lemma>
+<lemma>záře</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj1467-001-p1s24W10-Ta">
@@ -6773,8 +6773,8 @@
 <LM>w#w-wsj1467-001-p1s27W10</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-wsj1467-001-p1s27W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8560,8 +8560,8 @@
 <LM>w#w-wsj1467-001-p1s34W23</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1467-001-p1s34W24-Ta">
 <src.rf>tagger-a</src.rf>

@@ -312,7 +312,7 @@
 <LM>w#w-id58476-1</LM>
 </w.rf>
 <form>Oddych</form>
-<lemma>oddych</lemma>
+<lemma>oddych_,s_^(^DD**oddech)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m976-id58467-1">
@@ -506,8 +506,8 @@
 <LM>w#w-id58541-6</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m976-id58541-7">
 <w.rf>
@@ -720,8 +720,8 @@
 <LM>w#w-id58595-2</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m976-id58595-3">
 <w.rf>
@@ -786,8 +786,8 @@
 <LM>w#w-id58632-1</LM>
 </w.rf>
 <form>Zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m976-id58632-2">
 <w.rf>
@@ -1657,7 +1657,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m976-id58807-6">
 <w.rf>
@@ -2015,8 +2015,8 @@
 <LM>w#w-id58917-4</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m976-id58917-5">
 <w.rf>
@@ -2275,8 +2275,8 @@
 <LM>w#w-id58971-3</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m976-id58989-3">
 <w.rf>
@@ -2827,8 +2827,8 @@
 <LM>w#w-id59116-2</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m976-id59107-2">
 <w.rf>
@@ -3014,7 +3014,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m976-id59160-3">
 <w.rf>
@@ -3496,7 +3496,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m976-id59324-6">
 <w.rf>
@@ -3912,7 +3912,7 @@
 </w.rf>
 <form>snajperů</form>
 <lemma>snajper_,s_^(^DD**snajpr)</lemma>
-<tag>NNMP2-----A----</tag>
+<tag>NNMP2-----A---2</tag>
 </m>
 <m id="m976-d-id64781">
 <w.rf>
@@ -3928,7 +3928,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m976-id59428-8">
 <w.rf>
@@ -4561,8 +4561,8 @@
 <LM>w#w-id59662-x1-810</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m976-id59662-x1-817">
 <w.rf>
@@ -5256,7 +5256,7 @@
 </w.rf>
 <form>to</form>
 <lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m976-1402-1408">
 <w.rf>

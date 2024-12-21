@@ -404,8 +404,8 @@
 <LM>w#w-mf930709-131-p3s1w8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-131-p3s1w9">
 <src.rf>manual</src.rf>

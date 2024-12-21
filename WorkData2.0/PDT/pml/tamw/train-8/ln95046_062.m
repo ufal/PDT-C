@@ -967,8 +967,8 @@
 <LM>w#w-ln95046-062-p2s5w13</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-062-p2s5w14">
 <src.rf>manual</src.rf>

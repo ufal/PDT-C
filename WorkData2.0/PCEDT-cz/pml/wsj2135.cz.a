@@ -105,12 +105,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj2135-001-p1s0W16-Ta">
 <m.rf>m#m-wsj2135-001-p1s0W16-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>16</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -135,7 +135,7 @@
 <children>
 <LM id="a-wsj2135-001-p1s1W1-Ta">
 <m.rf>m#m-wsj2135-001-p1s1W1-Ta</m.rf>
-<afun>Adv</afun>
+<afun>AuxY</afun>
 <ord>1</ord>
 </LM>
 </children>
@@ -159,7 +159,7 @@
 <children>
 <LM id="a-wsj2135-001-p1s1W5-Ta">
 <m.rf>m#m-wsj2135-001-p1s1W5-Ta</m.rf>
-<afun>Adv</afun>
+<afun>AuxY</afun>
 <ord>6</ord>
 </LM>
 </children>
@@ -261,12 +261,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj2135-001-p1s1W22-Ta">
 <m.rf>m#m-wsj2135-001-p1s1W22-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -327,27 +327,27 @@
 <afun>AuxP</afun>
 <ord>9</ord>
 <children>
-<LM id="a-wsj2135-001-p1s2W10-Ta">
-<m.rf>m#m-wsj2135-001-p1s2W10-Ta</m.rf>
-<afun>Adv</afun>
-<ord>10</ord>
-<children>
 <LM id="a-wsj2135-001-p1s2W16-Ta">
 <m.rf>m#m-wsj2135-001-p1s2W16-Ta</m.rf>
 <afun>Apos</afun>
 <ord>16</ord>
 <children>
-<LM id="a-wsj2135-001-p1s2W11-Ta">
-<m.rf>m#m-wsj2135-001-p1s2W11-Ta</m.rf>
-<afun>Atr</afun>
+<LM id="a-wsj2135-001-p1s2W10-Ta">
+<m.rf>m#m-wsj2135-001-p1s2W10-Ta</m.rf>
+<afun>Adv</afun>
 <is_member>1</is_member>
-<ord>11</ord>
+<ord>10</ord>
 <children>
 <LM id="a-wsj2135-001-p1s2W14-Ta">
 <m.rf>m#m-wsj2135-001-p1s2W14-Ta</m.rf>
 <afun>Atr</afun>
 <ord>14</ord>
 <children>
+<LM id="a-wsj2135-001-p1s2W11-Ta">
+<m.rf>m#m-wsj2135-001-p1s2W11-Ta</m.rf>
+<afun>Atr</afun>
+<ord>11</ord>
+</LM>
 <LM id="a-wsj2135-001-p1s2W12-Ta">
 <m.rf>m#m-wsj2135-001-p1s2W12-Ta</m.rf>
 <afun>Atr</afun>
@@ -369,7 +369,7 @@
 </LM>
 <LM id="a-wsj2135-001-p1s2W19-Ta">
 <m.rf>m#m-wsj2135-001-p1s2W19-Ta</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <is_member>1</is_member>
 <ord>19</ord>
 <children>
@@ -389,14 +389,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-wsj2135-001-p1s2W20-Ta">
 <m.rf>m#m-wsj2135-001-p1s2W20-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>20</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

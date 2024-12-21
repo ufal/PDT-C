@@ -950,7 +950,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-083-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-083-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1178,8 +1178,8 @@
 <LM>w#w-ln95042-083-p2s7w7</LM>
 </w.rf>
 <form>pokladní</form>
-<lemma>pokladní-1</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>pokladní-3</lemma>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-083-p2s7w8">
 <src.rf>manual</src.rf>

@@ -1277,8 +1277,8 @@
 <LM>w#w-mf920901-065-p2s8w9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920901-065-p2s8w10">
 <src.rf>manual</src.rf>

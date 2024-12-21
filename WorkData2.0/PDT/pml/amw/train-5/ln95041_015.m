@@ -1562,8 +1562,8 @@
 <LM>w#w-ln95041-015-p5s1w6</LM>
 </w.rf>
 <form>nemocný</form>
-<lemma>nemocný-1_^(pacient)</lemma>
-<tag>NNMS1-----A----</tag>
+<lemma>nemocný-2_^(vlastnost)</lemma>
+<tag>AAMS1----1A----</tag>
 </m>
 <m id="m-ln95041-015-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1935,7 +1935,7 @@
 <LM>w#w-ln95041-015-p5s3w4</LM>
 </w.rf>
 <form>znova</form>
-<lemma>znova</lemma>
+<lemma>znova_,s_^(^DD**znovu)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95041-015-p5s3w5">

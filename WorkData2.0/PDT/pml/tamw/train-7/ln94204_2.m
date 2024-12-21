@@ -3226,8 +3226,8 @@
 <LM>w#w-ln94204-2-p9s2w12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-2-p9s2w13">
 <src.rf>manual</src.rf>
@@ -3307,8 +3307,8 @@
 <LM>w#w-ln94204-2-p9s2w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-2-p9s2w22">
 <src.rf>manual</src.rf>
@@ -3372,8 +3372,8 @@
 <LM>w#w-ln94204-2-p9s3w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-2-p9s3w4">
 <src.rf>manual</src.rf>
@@ -4319,7 +4319,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-2-p10s6w10">
 <src.rf>manual</src.rf>
@@ -4887,7 +4887,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-2-p12s2w9">
 <src.rf>manual</src.rf>
@@ -5859,8 +5859,8 @@
 <LM>w#w-ln94204-2-p13s3w30</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-2-p13s3w31">
 <src.rf>manual</src.rf>
@@ -6041,8 +6041,8 @@
 <LM>w#w-ln94204-2-p13s4w8</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-2-p13s4w9">
 <src.rf>manual</src.rf>
@@ -6413,7 +6413,7 @@
 </w.rf>
 <form>situovaných</form>
 <lemma>situovaný_^(*2t)</lemma>
-<tag>AAFP2----1A----</tag>
+<tag>AAIP2----1A----</tag>
 </m>
 <m id="m-ln94204-2-p14s1w13">
 <src.rf>manual</src.rf>
@@ -6666,8 +6666,8 @@
 <LM>w#w-ln94204-2-p14s2w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-2-p14s2w2">
 <src.rf>manual</src.rf>
@@ -7775,8 +7775,8 @@
 <LM>w#w-ln94204-2-p17s1w20</LM>
 </w.rf>
 <form>kupujícím</form>
-<lemma>kupující_^(*5ovat)</lemma>
-<tag>AGMP3-----A----</tag>
+<lemma>kupující-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-ln94204-2-p17s1w21">
 <src.rf>manual</src.rf>

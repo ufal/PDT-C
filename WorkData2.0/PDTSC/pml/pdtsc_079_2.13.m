@@ -12,8 +12,8 @@
 <LM>w#w-d1t1258-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1258-2">
 <w.rf>
@@ -827,8 +827,8 @@
 <LM>w#w-d1t1275-1</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1275-2">
 <w.rf>
@@ -1383,7 +1383,7 @@
 </w.rf>
 <form>nepřesáhlo</form>
 <lemma>přesáhnout</lemma>
-<tag>VpNS----R-NAP--</tag>
+<tag>VpNS----R-NAP-1</tag>
 </m>
 <m id="m147-691-692">
 <w.rf>
@@ -1424,8 +1424,8 @@
 <LM>w#w-d1t1285-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1285-7">
 <w.rf>
@@ -1882,8 +1882,8 @@
 <LM>w#w-d1t1292-12</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1292-13">
 <w.rf>
@@ -1932,8 +1932,8 @@
 <LM>w#w-d1t1294-2</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1294-3">
 <w.rf>

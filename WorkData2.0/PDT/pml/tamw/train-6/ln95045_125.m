@@ -466,8 +466,8 @@
 <LM>w#w-ln95045-125-p2s2w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-125-p2s2w14">
 <src.rf>manual</src.rf>

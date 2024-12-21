@@ -1548,8 +1548,8 @@
 <LM>w#w-mf920925-063-p2s3w6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-063-p2s3w7">
 <src.rf>manual</src.rf>

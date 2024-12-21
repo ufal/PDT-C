@@ -189,7 +189,7 @@
 <children>
 <LM id="a-wsj0582-001-p1s0W29-Ta">
 <m.rf>m#m-wsj0582-001-p1s0W29-Ta</m.rf>
-<afun>AuxZ</afun>
+<afun>Atr</afun>
 <ord>29</ord>
 </LM>
 <LM id="a-wsj0582-001-p1s0W31-Ta">
@@ -214,12 +214,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0582-001-p1s0W33-Ta">
 <m.rf>m#m-wsj0582-001-p1s0W33-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>33</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -354,12 +354,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0582-001-p1s1W22-Ta">
 <m.rf>m#m-wsj0582-001-p1s1W22-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>22</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -406,12 +406,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0582-001-p1s2W8-Ta">
 <m.rf>m#m-wsj0582-001-p1s2W8-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>8</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -491,12 +491,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0582-001-p1s3W13-Ta">
 <m.rf>m#m-wsj0582-001-p1s3W13-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>13</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -661,22 +661,27 @@
 <m.rf>m#m-wsj0582-001-p1s4W27-Ta</m.rf>
 <afun>Sb</afun>
 <ord>27</ord>
+</LM>
+<LM id="a-wsj0582-001-p1s4W29-Ta">
+<m.rf>m#m-wsj0582-001-p1s4W29-Ta</m.rf>
+<afun>Pnom</afun>
+<ord>29</ord>
+</LM>
+<LM id="a-wsj0582-001-p1s4W30-Ta">
+<m.rf>m#m-wsj0582-001-p1s4W30-Ta</m.rf>
+<afun>AuxC</afun>
+<ord>30</ord>
 <children>
 <LM id="a-wsj0582-001-p1s4W31-Ta">
 <m.rf>m#m-wsj0582-001-p1s4W31-Ta</m.rf>
 <afun>Atv</afun>
 <ord>31</ord>
 <children>
-<LM id="a-wsj0582-001-p1s4W30-Ta">
-<m.rf>m#m-wsj0582-001-p1s4W30-Ta</m.rf>
-<afun>AuxY</afun>
-<ord>30</ord>
-</LM>
 <LM id="a-wsj0582-001-p1s4W32-Ta">
 <m.rf>m#m-wsj0582-001-p1s4W32-Ta</m.rf>
 <afun>Atr</afun>
 <ord>32</ord>
-<children>
+</LM>
 <LM id="a-wsj0582-001-p1s4W33-Ta">
 <m.rf>m#m-wsj0582-001-p1s4W33-Ta</m.rf>
 <afun>AuxP</afun>
@@ -709,15 +714,6 @@
 </LM>
 </children>
 </LM>
-<LM id="a-wsj0582-001-p1s4W29-Ta">
-<m.rf>m#m-wsj0582-001-p1s4W29-Ta</m.rf>
-<afun>Pnom</afun>
-<ord>29</ord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
 </children>
 </LM>
 </children>
@@ -734,6 +730,8 @@
 <m.rf>m#m-wsj0582-001-p1s4W37-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>37</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

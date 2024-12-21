@@ -387,8 +387,8 @@
 <LM>w#w-lnd94104-067-p1s2Dw21</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-lnd94104-067-p1s2Dw22">
 <src.rf>manual</src.rf>

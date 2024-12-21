@@ -176,8 +176,8 @@
 <LM>w#w-mf930709-139-p2s1Bw11</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-139-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -257,8 +257,8 @@
 <LM>w#w-mf930709-139-p2s1Bw20</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-139-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -412,8 +412,8 @@
 <LM>w#w-mf930709-139-p2s2w7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-139-p2s2w8">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AAIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-mf930709-139-p2s2w25">
 <src.rf>manual</src.rf>
@@ -1019,8 +1019,8 @@
 <LM>w#w-mf930709-139-p3s2w15</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-139-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1256,7 +1256,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-139-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1877,7 +1877,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-139-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1957,8 +1957,8 @@
 <LM>w#w-mf930709-139-p5s2w13</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-139-p5s2w14">
 <src.rf>manual</src.rf>

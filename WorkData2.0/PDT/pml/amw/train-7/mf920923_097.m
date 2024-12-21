@@ -2129,8 +2129,8 @@
 <LM>w#w-mf920923-097-p3s5Aw53</LM>
 </w.rf>
 <form>obžalovaný</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-097-p3s5Aw54">
 <src.rf>manual</src.rf>
@@ -2794,8 +2794,8 @@
 <LM>w#w-mf920923-097-p5s1w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920923-097-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2821,7 +2821,7 @@
 <LM>w#w-mf920923-097-p5s1w4</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-097-p5s1w5">
@@ -5501,8 +5501,8 @@
 <LM>w#w-mf920923-097-p7s4w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920923-097-p7s4w2">
 <src.rf>manual</src.rf>
@@ -5528,7 +5528,7 @@
 <LM>w#w-mf920923-097-p7s4w4</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-097-p7s4w5">
@@ -6395,8 +6395,8 @@
 <LM>w#w-mf920923-097-p8s1w1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920923-097-p8s1w2">
 <src.rf>manual</src.rf>

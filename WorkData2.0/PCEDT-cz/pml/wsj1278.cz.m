@@ -542,8 +542,8 @@
 <LM>w#w-wsj1278-001-p1s2W12</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1278-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

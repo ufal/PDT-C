@@ -1239,7 +1239,7 @@
 </w.rf>
 <form>zachovali</form>
 <lemma>zachovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0676-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1465,8 +1465,8 @@
 <LM>w#w-wsj0676-001-p1s9W21</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0676-001-p1s9W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2456,8 +2456,8 @@
 <LM>w#w-wsj0676-001-p1s14W8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0676-001-p1s14W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2602,8 +2602,8 @@
 <LM>w#w-wsj0676-001-p1s15W8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0676-001-p1s15W9-Ta">
 <src.rf>tagger-a</src.rf>

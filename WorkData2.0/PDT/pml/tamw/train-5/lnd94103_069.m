@@ -150,7 +150,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94103-069-p1s3w7">
 <src.rf>manual</src.rf>
@@ -466,8 +466,8 @@
 <LM>w#w-lnd94103-069-p1s4w10</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-069-p1s4w11">
 <src.rf>manual</src.rf>
@@ -649,8 +649,8 @@
 <LM>w#w-lnd94103-069-p1s5w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-069-p1s5w14">
 <src.rf>manual</src.rf>
@@ -996,7 +996,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AANS6----1A----</tag>
+<tag>PLNS6----------</tag>
 </m>
 <m id="m-lnd94103-069-p1s7w6">
 <src.rf>manual</src.rf>
@@ -1085,8 +1085,8 @@
 <LM>w#w-lnd94103-069-p1s7w15</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-069-p1s7w16">
 <src.rf>manual</src.rf>
@@ -1249,8 +1249,8 @@
 <LM>w#w-lnd94103-069-p1s8w14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-069-p1s8w15">
 <src.rf>manual</src.rf>

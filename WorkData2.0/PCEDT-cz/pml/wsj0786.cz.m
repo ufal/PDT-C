@@ -407,7 +407,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0786-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1818,7 +1818,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0786-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2656,7 +2656,7 @@
 </w.rf>
 <form>vyčkávání</form>
 <lemma>vyčkávání_^(*3at)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj0786-001-p1s13W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2982,7 +2982,7 @@
 <LM>w#w-wsj0786-001-p1s14W11</LM>
 </w.rf>
 <form>dozvěděla</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0786-001-p1s14W12-Ta">

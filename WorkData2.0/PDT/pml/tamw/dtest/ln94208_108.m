@@ -503,7 +503,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-108-p2s2w8">
 <src.rf>manual</src.rf>
@@ -891,8 +891,8 @@
 <LM>w#w-ln94208-108-p2s3w38</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-108-p2s3w39">
 <src.rf>manual</src.rf>

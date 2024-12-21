@@ -720,8 +720,8 @@
 <LM>w#w-mf920922-135-p2s4w9</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-135-p2s4w10">
 <src.rf>manual</src.rf>
@@ -940,8 +940,8 @@
 <LM>w#w-mf920922-135-p2s6w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-135-p2s6w3">
 <src.rf>manual</src.rf>
@@ -2214,8 +2214,8 @@
 <LM>w#w-mf920922-135-p2s13w5</LM>
 </w.rf>
 <form>stěží</form>
-<lemma>stěží</lemma>
-<tag>Db-------------</tag>
+<lemma>stěží-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-135-p2s13w6">
 <src.rf>manual</src.rf>

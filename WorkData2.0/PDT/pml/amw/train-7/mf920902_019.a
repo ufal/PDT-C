@@ -210,7 +210,7 @@
 <children>
 <LM id="a-mf920902-019-p1s1w30">
 <m.rf>m#m-mf920902-019-p1s1w30</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>30</ord>
 <clause_number>2</clause_number>
 <children>
@@ -402,7 +402,7 @@
 <children>
 <LM id="a-mf920902-019-p2s3w12">
 <m.rf>m#m-mf920902-019-p2s3w12</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>12</ord>
 <clause_number>2</clause_number>
 </LM>

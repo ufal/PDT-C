@@ -550,7 +550,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0198-001-p1s1W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1740,7 +1740,7 @@
 <LM>w#w-wsj0198-001-p1s7W7</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0198-001-p1s7W8-Ta">
@@ -2069,7 +2069,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0198-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>

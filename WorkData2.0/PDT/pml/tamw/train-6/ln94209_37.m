@@ -230,7 +230,7 @@
 <LM>w#w-ln94209-37-p2s1Bw16</LM>
 </w.rf>
 <form>baseballovou</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAFS7----1A----</tag>
 </m>
 <m id="m-ln94209-37-p2s1Bw17">

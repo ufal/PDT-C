@@ -931,8 +931,8 @@
 <LM>w#w-ln94205-21-p4s2w16</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-21-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1359,7 +1359,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln94205-21-p5s1w22">
 <src.rf>manual</src.rf>

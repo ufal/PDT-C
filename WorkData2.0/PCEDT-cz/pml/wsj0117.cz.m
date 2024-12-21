@@ -1197,7 +1197,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0117-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1287,7 +1287,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0117-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3052,7 +3052,7 @@
 </w.rf>
 <form>Hammersmith</form>
 <lemma>Hammersmith_;m</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0117-001-p1s14W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3386,8 +3386,8 @@
 <LM>w#w-wsj0117-001-p1s15W8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0117-001-p1s15W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3467,8 +3467,8 @@
 <LM>w#w-wsj0117-001-p1s15W17</LM>
 </w.rf>
 <form>zjevně</form>
-<lemma>zjevně-2</lemma>
-<tag>TT-------------</tag>
+<lemma>zjevně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj0117-001-p1s15W18-Ta">
 <src.rf>tagger-a</src.rf>

@@ -313,8 +313,8 @@
 <LM>w#w-ln95049-072-p2s2w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-072-p2s2w10">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-072-p3s1w12">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-072-p4s1w12">
 <src.rf>manual</src.rf>

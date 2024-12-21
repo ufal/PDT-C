@@ -152,8 +152,8 @@
 <LM>w#w-d1t993-25</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t993-26">
 <w.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-d1t1081-8</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m105-d1t1081-9">
@@ -992,7 +992,7 @@
 <LM>w#w-d1t1083-9</LM>
 </w.rf>
 <form>zasazené</form>
-<lemma>zasazený_^(*3it)_(*4dit)</lemma>
+<lemma>zasazený_^(*4dit)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m105-d1t1083-6">
@@ -1748,8 +1748,8 @@
 <LM>w#w-d1t1122-7</LM>
 </w.rf>
 <form>Určitě</form>
-<lemma>určitě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>určitě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t1122-4">
 <w.rf>
@@ -1796,8 +1796,8 @@
 <LM>w#w-d1t1122-14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t1122-13">
 <w.rf>
@@ -2030,8 +2030,8 @@
 <LM>w#w-d1t1137-10</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t1137-11">
 <w.rf>
@@ -2096,8 +2096,8 @@
 <LM>w#w-d1t1141-4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t1141-6">
 <w.rf>
@@ -2228,8 +2228,8 @@
 <LM>w#w-d1t1152-13</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t1152-12">
 <w.rf>
@@ -2269,7 +2269,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m105-d1t1154-3">
 <w.rf>
@@ -2284,7 +2284,7 @@
 <LM>w#w-d1t1154-4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m105-d1t1154-6">
@@ -2344,7 +2344,7 @@
 <LM>w#w-d1t1154-13</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m105-d1t1154-14">
@@ -2600,7 +2600,7 @@
 <LM>w#w-d1t1175-3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m105-d1t1175-4">

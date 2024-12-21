@@ -507,7 +507,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0187-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1151,7 +1151,7 @@
 <LM>w#w-wsj0187-001-p1s5W20</LM>
 </w.rf>
 <form>předejetí</form>
-<lemma>předejetí_^(*1)</lemma>
+<lemma>předejetí_^(^DD**předjetí)_(*1)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj0187-001-p1s5W21-Ta">
@@ -1297,8 +1297,8 @@
 <LM>w#w-wsj0187-001-p1s6W5</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj0187-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1416,7 +1416,7 @@
 <form_change>spell</form_change>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0187-001-p1s6W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1808,7 +1808,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--6----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-wsj0187-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -821,7 +821,7 @@
 <LM>w#w-ln94200-23-p3s3w9</LM>
 </w.rf>
 <form>napjaté</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-ln94200-23-p3s3w10">

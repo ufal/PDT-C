@@ -510,7 +510,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1449-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2908,8 +2908,8 @@
 <LM>w#w-wsj1449-001-p1s13W1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1449-001-p1s13W2-Ta">
 <src.rf>tagger-a</src.rf>

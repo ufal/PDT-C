@@ -111,7 +111,7 @@
 <LM>w#w-lnd94104-023-p1s2w9</LM>
 </w.rf>
 <form>Oscarů</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94104-023-p1s2w10">

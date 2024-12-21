@@ -614,8 +614,8 @@
 <LM>w#w-ln94211-66-p2s3Aw7</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-66-p2s3Aw8">
 <src.rf>manual</src.rf>
@@ -623,8 +623,8 @@
 <LM>w#w-ln94211-66-p2s3Aw8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94211-66-p2s3Aw9">
 <src.rf>manual</src.rf>
@@ -1282,7 +1282,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-66-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1674,8 +1674,8 @@
 <LM>w#w-ln94211-66-p2s10w3</LM>
 </w.rf>
 <form>obžalovaného</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS2----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-66-p2s10w4">
 <src.rf>manual</src.rf>

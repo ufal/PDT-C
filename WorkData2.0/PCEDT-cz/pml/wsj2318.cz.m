@@ -168,7 +168,6 @@
 <w.rf>
 <LM>w#w-wsj2318-001-p1s0W18</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>0.7</form>
 <lemma>0.7</lemma>
 <tag>C=-------------</tag>
@@ -214,7 +213,6 @@
 <w.rf>
 <LM>w#w-wsj2318-001-p1s0W23</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>7.6</form>
 <lemma>7.6</lemma>
 <tag>C=-------------</tag>

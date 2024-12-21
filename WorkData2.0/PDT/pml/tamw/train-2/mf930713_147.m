@@ -1138,8 +1138,8 @@
 <LM>w#w-mf930713-147-p4s2w25</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-147-p4s2w26">
 <src.rf>manual</src.rf>
@@ -1510,7 +1510,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-147-p5s1w35">
 <src.rf>manual</src.rf>

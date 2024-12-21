@@ -498,7 +498,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-018-p1s5w13">
 <src.rf>manual</src.rf>
@@ -569,8 +569,8 @@
 <LM>w#w-lnd94103-018-p1s5w20</LM>
 </w.rf>
 <form>cestující</form>
-<lemma>cestující_^(*5ovat)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>cestující-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-018-p1s5w21">
 <src.rf>manual</src.rf>
@@ -787,8 +787,8 @@
 <LM>w#w-lnd94103-018-p1s6w20</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-018-p1s6w21">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-018-p1s7w2">
 <src.rf>manual</src.rf>
@@ -998,8 +998,8 @@
 <LM>w#w-lnd94103-018-p1s8w6</LM>
 </w.rf>
 <form>cestující</form>
-<lemma>cestující_^(*5ovat)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>cestující-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-018-p1s8w7">
 <src.rf>manual</src.rf>

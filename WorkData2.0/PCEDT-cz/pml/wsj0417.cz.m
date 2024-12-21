@@ -976,8 +976,8 @@
 <LM>w#w-wsj0417-001-p1s3W6</LM>
 </w.rf>
 <form>spojení</form>
-<lemma>spojení_^(*3it)</lemma>
-<tag>NNNS4-----A----</tag>
+<lemma>spojený_^(*3it)</lemma>
+<tag>AAMP1----1A----</tag>
 </m>
 <m id="m-wsj0417-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-wsj0417-001-p1s3W26</LM>
 </w.rf>
 <form>nedozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-NAP--</tag>
 </m>
 <m id="m-wsj0417-001-p1s3W27-Ta">

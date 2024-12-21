@@ -88,23 +88,21 @@
 <ord>10</ord>
 <clause_number>2</clause_number>
 </LM>
+<LM id="a-mf920922-136-p1s1w12">
+<m.rf>m#m-mf920922-136-p1s1w12</m.rf>
+<afun>Adv</afun>
+<ord>12</ord>
+<clause_number>2</clause_number>
+</LM>
 <LM id="a-mf920922-136-p1s1w13">
 <m.rf>m#m-mf920922-136-p1s1w13</m.rf>
 <afun>Adv</afun>
 <ord>13</ord>
 <clause_number>2</clause_number>
-<children>
-<LM id="a-mf920922-136-p1s1w12">
-<m.rf>m#m-mf920922-136-p1s1w12</m.rf>
-<afun>AuxZ</afun>
-<ord>12</ord>
-<clause_number>2</clause_number>
-</LM>
-</children>
 </LM>
 <LM id="a-mf920922-136-p1s1w14">
 <m.rf>m#m-mf920922-136-p1s1w14</m.rf>
-<afun>AtvV</afun>
+<afun>Obj</afun>
 <ord>14</ord>
 <clause_number>2</clause_number>
 </LM>

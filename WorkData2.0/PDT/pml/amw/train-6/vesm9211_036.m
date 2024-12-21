@@ -3662,7 +3662,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-036-p12s1w11">
 <src.rf>manual</src.rf>

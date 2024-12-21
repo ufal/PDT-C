@@ -498,7 +498,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2365-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -623,8 +623,8 @@
 <LM>w#w-wsj2365-001-p1s2W35</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2365-001-p1s2W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1755,7 +1755,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--6----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-wsj2365-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2627,7 +2627,7 @@
 </w.rf>
 <form>Též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2365-001-p1s12W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3379,8 +3379,8 @@
 <LM>w#w-wsj2365-001-p1s15W35</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2365-001-p1s15W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8149,8 +8149,8 @@
 <LM>w#w-wsj2365-001-p1s40W4</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2365-001-p1s40W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9439,7 +9439,7 @@
 <LM>w#w-wsj2365-001-p1s46W10</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj2365-001-p1s46W11-Ta">
@@ -9711,8 +9711,8 @@
 <LM>w#w-wsj2365-001-p1s47W19</LM>
 </w.rf>
 <form>ženou</form>
-<lemma>žena</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>hnát-1_^(tvar_slovesa;_[utíkat])</lemma>
+<tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj2365-001-p1s47W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9940,8 +9940,8 @@
 <LM>w#w-wsj2365-001-p1s49W9</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2365-001-p1s49W10-Ta">
 <src.rf>tagger-a</src.rf>

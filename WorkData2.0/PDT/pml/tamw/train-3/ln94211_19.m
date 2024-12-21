@@ -203,8 +203,8 @@
 <LM>w#w-ln94211-19-p2s1Bw15</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94211-19-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -1099,8 +1099,8 @@
 <LM>w#w-ln94211-19-p4s2w6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94211-19-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1272,8 +1272,8 @@
 <LM>w#w-ln94211-19-p4s3w9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94211-19-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1545,7 +1545,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-19-p5s1w6">
 <src.rf>manual</src.rf>

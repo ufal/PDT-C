@@ -98,7 +98,7 @@
 </w.rf>
 <form>referovat</form>
 <lemma>referovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1266-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2322,8 +2322,8 @@
 <LM>w#w-wsj1266-001-p1s9W3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1266-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>

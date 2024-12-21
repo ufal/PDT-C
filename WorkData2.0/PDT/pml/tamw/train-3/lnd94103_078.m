@@ -1967,8 +1967,8 @@
 <LM>w#w-lnd94103-078-p1s15w5</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-078-p1s15w6">
 <src.rf>manual</src.rf>

@@ -1775,8 +1775,8 @@
 <LM>w#w-wsj2151-001-p1s11W2</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2151-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2149,8 +2149,8 @@
 <LM>w#w-wsj2151-001-p1s13W7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2151-001-p1s13W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2450,8 +2450,8 @@
 <LM>w#w-wsj2151-001-p1s15W2</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2151-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3790,8 +3790,8 @@
 <LM>w#w-wsj2151-001-p1s23W29</LM>
 </w.rf>
 <form>cestujících</form>
-<lemma>cestující_^(*5ovat)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>cestující-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj2151-001-p1s23W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4094,7 +4094,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AAIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-wsj2151-001-p1s26W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6689,7 +6689,7 @@
 <LM>w#w-wsj2151-001-p1s41W9</LM>
 </w.rf>
 <form>žížnivá</form>
-<lemma>žížnivý_,n</lemma>
+<lemma>žížnivý_,n_^(^DD**žíznivý)</lemma>
 <tag>AANP4----1A----</tag>
 </m>
 <m id="m-wsj2151-001-p1s41W10-Ta">
@@ -8024,8 +8024,8 @@
 <LM>w#w-wsj2151-001-p1s47W3</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2151-001-p1s47W4-Ta">
 <src.rf>tagger-a</src.rf>

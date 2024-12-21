@@ -1470,8 +1470,8 @@
 <LM>w#w-wsj0986-001-p1s11W9</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0986-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1480,7 +1480,7 @@
 </w.rf>
 <form>společnost</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS4-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0986-001-p1s11W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2180,8 +2180,8 @@
 <LM>w#w-wsj0986-001-p1s12W15</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0986-001-p1s12W16-Ta">
 <src.rf>tagger-a</src.rf>

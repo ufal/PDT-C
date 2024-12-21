@@ -264,8 +264,8 @@
 <LM>w#w-mf920925-006-p2s1w18</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920925-006-p2s1w19">
 <src.rf>manual</src.rf>
@@ -664,8 +664,8 @@
 <LM>w#w-mf920925-006-p3s1w20</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920925-006-p3s1w21">
 <src.rf>manual</src.rf>
@@ -837,8 +837,8 @@
 <LM>w#w-mf920925-006-p3s2w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-006-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920925-006-p3s4Aw3">
 <src.rf>manual</src.rf>
@@ -1529,8 +1529,8 @@
 <LM>w#w-mf920925-006-p4s1w5</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-006-p4s1w6">
 <src.rf>manual</src.rf>

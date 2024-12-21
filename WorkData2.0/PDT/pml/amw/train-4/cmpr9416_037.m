@@ -334,7 +334,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-cmpr9416-037-p3s4w17">
 <src.rf>manual</src.rf>

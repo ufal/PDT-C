@@ -44,8 +44,8 @@
 <LM>w#w-d1t3013-6</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m035-d1t3023-3">
 <w.rf>
@@ -248,8 +248,8 @@
 <LM>w#w-985-986</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m035-d1t3036-5">
 <w.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-d1t3036-10</LM>
 </w.rf>
 <form>šampony</form>
-<lemma>šampon</lemma>
+<lemma>šampon_,s_^(^DD**šampón)</lemma>
 <tag>NNIP1-----A----</tag>
 </m>
 <m id="m035-985-987">
@@ -716,8 +716,8 @@
 <LM>w#w-d1t3063-2</LM>
 </w.rf>
 <form>Skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m035-d1t3063-4">
 <w.rf>
@@ -984,8 +984,8 @@
 <LM>w#w-d1t3069-8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m035-d1t3069-9">
 <w.rf>
@@ -2210,8 +2210,8 @@
 <LM>w#w-d1t3135-3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m035-d1t3135-4">
 <w.rf>
@@ -3696,8 +3696,8 @@
 <LM>w#w-d1t3214-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m035-d1t3214-7">
 <w.rf>
@@ -3910,7 +3910,7 @@
 <LM>w#w-d1t3226-9</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m035-d1t3226-10">
@@ -4040,8 +4040,8 @@
 <LM>w#w-d1t3231-6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m035-d1t3231-7">
 <w.rf>
@@ -4112,8 +4112,8 @@
 <LM>w#w-d1t3233-6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m035-d1t3233-7">
 <w.rf>
@@ -4260,7 +4260,7 @@
 <LM>w#w-d1t3237-17</LM>
 </w.rf>
 <form>lítá</form>
-<lemma>lítat</lemma>
+<lemma>lítat_,s_^(^DD**létat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m035-d1t3237-6">
@@ -4382,7 +4382,7 @@
 <LM>w#w-d1t3256-1</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m035-d1t3256-2">

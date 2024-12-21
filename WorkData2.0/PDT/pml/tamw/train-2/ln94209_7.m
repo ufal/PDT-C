@@ -323,7 +323,7 @@
 </w.rf>
 <form>reaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94209-7-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-7-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1888,8 +1888,8 @@
 <LM>w#w-ln94209-7-p6s1w12</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-7-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1945,7 +1945,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-7-p6s2w4">
 <src.rf>manual</src.rf>

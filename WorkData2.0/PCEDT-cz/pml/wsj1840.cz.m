@@ -1118,8 +1118,8 @@
 <LM>w#w-wsj1840-001-p1s6W12</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1840-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1697,7 +1697,7 @@
 </w.rf>
 <form>řízenými</form>
 <lemma>řízený_^(*4dit)</lemma>
-<tag>AAIP7----1A----</tag>
+<tag>AAMP7----1A----</tag>
 </m>
 <m id="m-wsj1840-001-p1s7W31-Ta">
 <src.rf>tagger-a</src.rf>

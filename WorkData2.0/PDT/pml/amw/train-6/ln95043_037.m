@@ -799,8 +799,8 @@
 <LM>w#w-ln95043-037-p3s2w5</LM>
 </w.rf>
 <form>navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-ln95043-037-p3s2w6">
 <src.rf>manual</src.rf>
@@ -4032,7 +4032,7 @@
 <LM>w#w-ln95043-037-p7s2w8</LM>
 </w.rf>
 <form>oscarového</form>
-<lemma>oscarový</lemma>
+<lemma>oscarový_,s_^(^DD**oskarový)</lemma>
 <tag>AAMS2----1A----</tag>
 </m>
 <m id="m-ln95043-037-p7s2w9">

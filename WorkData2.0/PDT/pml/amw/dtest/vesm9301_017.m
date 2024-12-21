@@ -433,7 +433,7 @@
 </w.rf>
 <form>zachovali</form>
 <lemma>zachovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-017-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1226,7 +1226,7 @@
 </w.rf>
 <form>zachovali</form>
 <lemma>zachovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-017-p3s4w13">
 <src.rf>manual</src.rf>
@@ -2936,7 +2936,7 @@
 </w.rf>
 <form>utéct</form>
 <lemma>utéci</lemma>
-<tag>Vf--------A-P--</tag>
+<tag>Vf--------A-P-1</tag>
 </m>
 <m id="m-vesm9301-017-p4s5w9">
 <src.rf>manual</src.rf>
@@ -3180,7 +3180,7 @@
 <LM>w#w-vesm9301-017-p4s6w7</LM>
 </w.rf>
 <form>dozvíme</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---1P-AAP--</tag>
 </m>
 <m id="m-vesm9301-017-p4s6w8">

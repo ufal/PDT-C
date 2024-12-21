@@ -940,8 +940,8 @@
 <LM>w#w-ln94203-122-p3s2w26</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-122-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1167,8 +1167,8 @@
 <LM>w#w-ln94203-122-p3s3w14</LM>
 </w.rf>
 <form>domácí</form>
-<lemma>domácí-1</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>domácí-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94203-122-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1176,8 +1176,8 @@
 <LM>w#w-ln94203-122-p3s3w15</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94203-122-p3s3w16">
 <src.rf>manual</src.rf>
@@ -2124,8 +2124,8 @@
 <LM>w#w-ln94203-122-p3s9w25</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-122-p3s9w26">
 <src.rf>manual</src.rf>

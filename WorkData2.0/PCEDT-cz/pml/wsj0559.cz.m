@@ -1791,7 +1791,7 @@
 </w.rf>
 <form>představitele</form>
 <lemma>představitel</lemma>
-<tag>NNMS4-----A----</tag>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-wsj0559-001-p1s9W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2233,8 +2233,8 @@
 <LM>w#w-wsj0559-001-p1s10W24</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0559-001-p1s10W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2706,7 +2706,7 @@
 <LM>w#w-wsj0559-001-p1s12W15</LM>
 </w.rf>
 <form>znovudosažení</form>
-<lemma>znovudosažení</lemma>
+<lemma>znovudosažení_^(*5áhnout)</lemma>
 <tag>NNNS3-----A----</tag>
 </m>
 <m id="m-wsj0559-001-p1s12W16-Ta">
@@ -3417,7 +3417,7 @@
 </w.rf>
 <form>citován</form>
 <lemma>citovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj0559-001-p1s16W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3569,8 +3569,8 @@
 <LM>w#w-wsj0559-001-p1s16W35</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0559-001-p1s16W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3760,8 +3760,8 @@
 <LM>w#w-wsj0559-001-p1s17W3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0559-001-p1s17W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4041,8 +4041,8 @@
 <LM>w#w-wsj0559-001-p1s18W11</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0559-001-p1s18W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4178,8 +4178,8 @@
 <LM>w#w-wsj0559-001-p1s19W8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0559-001-p1s19W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4943,7 +4943,7 @@
 <LM>w#w-wsj0559-001-p1s23W6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj0559-001-p1s23W7-Ta">
@@ -6455,7 +6455,7 @@
 </w.rf>
 <form>týkající</form>
 <lemma>týkající_^(*4t)</lemma>
-<tag>AGIP4-----A----</tag>
+<tag>AGNP4-----A----</tag>
 </m>
 <m id="m-wsj0559-001-p1s31W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7392,7 +7392,7 @@
 </w.rf>
 <form>angažují</form>
 <lemma>angažovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-wsj0559-001-p1s36W24-Ta">
 <src.rf>tagger-a</src.rf>

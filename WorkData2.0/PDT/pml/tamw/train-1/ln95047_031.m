@@ -685,7 +685,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95047-031-p2s3w9">
 <src.rf>manual</src.rf>
@@ -996,8 +996,8 @@
 <LM>w#w-ln95047-031-p3s3w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-031-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1140,8 +1140,8 @@
 <LM>w#w-ln95047-031-p3s3w17</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-031-p3s3w18">
 <src.rf>manual</src.rf>
@@ -1304,8 +1304,8 @@
 <LM>w#w-ln95047-031-p4s1w8</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-031-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1504,8 +1504,8 @@
 <LM>w#w-ln95047-031-p4s2w18</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-031-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1650,7 +1650,7 @@
 <LM>w#w-ln95047-031-p4s3w13</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-031-p4s3w14">
@@ -2572,7 +2572,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-031-p4s9w19">
 <src.rf>manual</src.rf>
@@ -2617,7 +2617,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95047-031-p4s9w24">
 <src.rf>manual</src.rf>
@@ -2808,7 +2808,7 @@
 </w.rf>
 <form>každému</form>
 <lemma>každý</lemma>
-<tag>AAMS3----1A----</tag>
+<tag>PLMS3----------</tag>
 </m>
 <m id="m-ln95047-031-p5s1w14">
 <src.rf>manual</src.rf>
@@ -3347,7 +3347,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95047-031-p5s5w4">
 <src.rf>manual</src.rf>

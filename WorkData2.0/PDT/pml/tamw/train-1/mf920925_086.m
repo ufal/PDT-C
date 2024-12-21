@@ -228,8 +228,8 @@
 <LM>w#w-mf920925-086-p3s1w13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-086-p3s1w14">
 <src.rf>manual</src.rf>
@@ -401,8 +401,8 @@
 <LM>w#w-mf920925-086-p4s1w14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-086-p4s1w15">
 <src.rf>manual</src.rf>

@@ -1010,7 +1010,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0374-001-p1s4W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1179,8 +1179,8 @@
 <LM>w#w-wsj0374-001-p1s6W4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0374-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1400,7 +1400,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0374-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2601,7 +2601,7 @@
 <LM>w#w-wsj0374-001-p1s13W6</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0374-001-p1s13W7-Ta">
@@ -4055,7 +4055,7 @@
 </w.rf>
 <form>jméno</form>
 <lemma>jméno</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj0374-001-p1s18W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4063,8 +4063,8 @@
 <LM>w#w-wsj0374-001-p1s18W23</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0374-001-p1s18W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7248,7 +7248,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0374-001-p1s35W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8052,7 +8052,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0374-001-p1s41W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8096,8 +8096,8 @@
 <LM>w#w-wsj0374-001-p1s41W8</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0374-001-p1s41W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8516,7 +8516,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0374-001-p1s43W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9970,8 +9970,8 @@
 <LM>w#w-wsj0374-001-p1s50W12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0374-001-p1s50W13-Ta">
 <src.rf>tagger-a</src.rf>

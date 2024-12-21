@@ -336,7 +336,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0651-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -937,7 +937,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0651-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -991,7 +991,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-wsj0651-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1128,7 +1128,7 @@
 </w.rf>
 <form>aktivován</form>
 <lemma>aktivovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj0651-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>

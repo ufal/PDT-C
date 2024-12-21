@@ -401,8 +401,8 @@
 <LM>w#w-mf920902-077-p1s2w16</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-077-p1s2w17">
 <src.rf>manual</src.rf>

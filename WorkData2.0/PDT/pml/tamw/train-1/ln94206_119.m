@@ -1057,8 +1057,8 @@
 <LM>w#w-ln94206-119-p2s6w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-119-p2s6w22">
 <src.rf>manual</src.rf>

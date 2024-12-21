@@ -108,7 +108,7 @@
 <LM>w#w-wsj2415-001-p1s1W7</LM>
 </w.rf>
 <form>nadechni</form>
-<lemma>nadechnout</lemma>
+<lemma>nadechnout_,s_^(^DD**nadýchnout)</lemma>
 <tag>Vi-S---2--A-P--</tag>
 </m>
 <m id="m-wsj2415-001-p1s1W8-Ta">
@@ -1642,7 +1642,7 @@
 <LM>w#w-wsj2415-001-p1s12W7</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj2415-001-p1s12W8-Ta">
@@ -1851,8 +1851,8 @@
 <LM>w#w-wsj2415-001-p1s13W8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2415-001-p1s13W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4230,8 +4230,8 @@
 <LM>w#w-wsj2415-001-p1s23W7</LM>
 </w.rf>
 <form>venku</form>
-<lemma>venku</lemma>
-<tag>Db-------------</tag>
+<lemma>venek</lemma>
+<tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj2415-001-p1s23W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6209,8 +6209,8 @@
 <LM>w#w-wsj2415-001-p1s36W6</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2415-001-p1s36W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6527,7 +6527,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2415-001-p1s37W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8209,8 +8209,8 @@
 <LM>w#w-wsj2415-001-p1s46W13</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2415-001-p1s46W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8747,7 +8747,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2415-001-p1s49W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8836,7 +8836,7 @@
 <LM>w#w-wsj2415-001-p1s49W11</LM>
 </w.rf>
 <form>rozdmýchání</form>
-<lemma>rozdmýchání_^(*3at)</lemma>
+<lemma>rozdmýchání_^(^DD**rozdmychání)_(*3at)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-wsj2415-001-p1s49W12-Ta">
@@ -10282,7 +10282,7 @@
 <LM>w#w-wsj2415-001-p1s56W4</LM>
 </w.rf>
 <form>premium</form>
-<lemma>premium_,l</lemma>
+<lemma>premium</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj2415-001-p1s56W5-Ta">
@@ -10366,7 +10366,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2415-001-p1s57W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10648,7 +10648,7 @@
 <LM>w#w-wsj2415-001-p1s59W4</LM>
 </w.rf>
 <form>premium</form>
-<lemma>premium_,l</lemma>
+<lemma>premium</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj2415-001-p1s59W5-Ta">
@@ -10856,7 +10856,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2415-001-p1s59W28-Ta">
 <src.rf>tagger-a</src.rf>

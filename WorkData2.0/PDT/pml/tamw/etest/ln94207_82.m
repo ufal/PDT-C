@@ -613,7 +613,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-82-p2s3w19">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-82-p3s3w9">
 <src.rf>manual</src.rf>
@@ -2593,8 +2593,8 @@
 <LM>w#w-ln94207-82-p3s7w1</LM>
 </w.rf>
 <form>Statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP1----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP1---------1</tag>
 </m>
 <m id="m-ln94207-82-p3s7w2">
 <src.rf>manual</src.rf>
@@ -4530,8 +4530,8 @@
 <LM>w#w-ln94207-82-p4s5w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-82-p4s5w11">
 <src.rf>manual</src.rf>
@@ -4730,8 +4730,8 @@
 <LM>w#w-ln94207-82-p4s6w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94207-82-p4s6w3">
 <src.rf>manual</src.rf>
@@ -4849,8 +4849,8 @@
 <LM>w#w-ln94207-82-p4s7w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-82-p4s7w6">
 <src.rf>manual</src.rf>
@@ -5138,7 +5138,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-82-p4s7w38">
 <src.rf>manual</src.rf>

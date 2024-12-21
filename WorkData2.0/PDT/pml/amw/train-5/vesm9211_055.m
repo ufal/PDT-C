@@ -572,8 +572,8 @@
 <LM>w#w-vesm9211-055-p2s2w13</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-055-p2s2w14">
 <src.rf>manual</src.rf>

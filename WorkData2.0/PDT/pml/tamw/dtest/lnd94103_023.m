@@ -136,8 +136,8 @@
 <LM>w#w-lnd94103-023-p1s1w14</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-023-p1s1w15">
 <src.rf>manual</src.rf>

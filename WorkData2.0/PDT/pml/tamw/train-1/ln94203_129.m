@@ -73,8 +73,8 @@
 <LM>w#w-ln94203-129-p1s1w7</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-129-p1s1w8">
 <src.rf>manual</src.rf>

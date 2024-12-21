@@ -37,8 +37,8 @@
 <LM>w#w-ln94211-53-p1s1w3</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94211-53-p1s1w4">
 <src.rf>manual</src.rf>
@@ -230,7 +230,7 @@
 <LM>w#w-ln94211-53-p2s1Bw10</LM>
 </w.rf>
 <form>lídrem</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-53-p2s1Bw11">
@@ -549,8 +549,8 @@
 <LM>w#w-ln94211-53-p3s2w4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-53-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1214,8 +1214,8 @@
 <LM>w#w-ln94211-53-p5s2w8</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-53-p5s2w9">
 <src.rf>manual</src.rf>

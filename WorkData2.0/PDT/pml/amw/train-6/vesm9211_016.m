@@ -1219,7 +1219,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-016-p5s6w17">
 <src.rf>manual</src.rf>
@@ -1291,7 +1291,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-016-p5s6w25">
 <src.rf>manual</src.rf>
@@ -4986,8 +4986,8 @@
 <LM>w#w-vesm9211-016-p34s3w18</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9211-016-p34s3w19">
 <src.rf>manual</src.rf>
@@ -5729,7 +5729,7 @@
 <LM>w#w-vesm9211-016-p37s1w3</LM>
 </w.rf>
 <form>LYMSKÁ</form>
-<lemma>lymský</lemma>
+<lemma>lymský_,s_^(^DD**lymeský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9211-016-p37s1w4">

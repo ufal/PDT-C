@@ -3019,7 +3019,7 @@
 <LM>w#w-vesm9211-028-p8s7w7</LM>
 </w.rf>
 <form>representujících</form>
-<lemma>representující_^(*5ovat)</lemma>
+<lemma>representující_^(^DD**reprezentující)_(*5ovat)</lemma>
 <tag>AGMP2-----A----</tag>
 </m>
 <m id="m-vesm9211-028-p8s7w8">
@@ -3779,7 +3779,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-028-p10s1w7">
 <src.rf>manual</src.rf>
@@ -6693,7 +6693,7 @@
 </w.rf>
 <form>citovat</form>
 <lemma>citovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9211-028-p13s3w30">
 <src.rf>manual</src.rf>
@@ -7236,7 +7236,7 @@
 <LM>w#w-vesm9211-028-p13s5w27</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-028-p13s5w28">
@@ -7585,7 +7585,7 @@
 </w.rf>
 <form>věnována</form>
 <lemma>věnovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-vesm9211-028-p14s3w4">
 <src.rf>manual</src.rf>
@@ -8873,8 +8873,8 @@
 <LM>w#w-vesm9211-028-p14s8w13</LM>
 </w.rf>
 <form>přednášejících</form>
-<lemma>přednášející_^(*4t)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>přednášející-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9211-028-p14s8w14">
 <src.rf>manual</src.rf>
@@ -9706,7 +9706,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--6----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-vesm9211-028-p15s1w48">
 <src.rf>manual</src.rf>
@@ -9950,7 +9950,7 @@
 <LM>w#w-vesm9211-028-p15s2w11</LM>
 </w.rf>
 <form>mikrofonem</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9211-028-p15s2w12">
@@ -9977,8 +9977,8 @@
 <LM>w#w-vesm9211-028-p15s2w14</LM>
 </w.rf>
 <form>diskutujícího</form>
-<lemma>diskutující_^(*5ovat)</lemma>
-<tag>AGMS2-----A----</tag>
+<lemma>diskutující-2</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-028-p15s2w15">
 <src.rf>manual</src.rf>
@@ -10024,8 +10024,8 @@
 <LM>w#w-vesm9211-028-p15s3w2</LM>
 </w.rf>
 <form>přednášející</form>
-<lemma>přednášející_^(*4t)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>přednášející-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9211-028-p15s3w3">
 <src.rf>manual</src.rf>
@@ -10714,7 +10714,7 @@
 <LM>w#w-vesm9211-028-p16s3w21</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-028-p16s3w22">

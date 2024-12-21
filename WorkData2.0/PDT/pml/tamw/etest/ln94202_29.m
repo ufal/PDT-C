@@ -868,8 +868,8 @@
 <LM>w#w-ln94202-29-p3s3w12</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-29-p3s3w13">
 <src.rf>manual</src.rf>
@@ -2696,7 +2696,7 @@
 <LM>w#w-ln94202-29-p5s3w17</LM>
 </w.rf>
 <form>hájili</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94202-29-p5s3w18">

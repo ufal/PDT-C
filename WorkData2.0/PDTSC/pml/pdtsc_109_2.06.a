@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_109_2.06.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="hg-27638_03.06-SCzechA-hg-27638_03-d1e2297-x4-root">
 <s.rf>m#m783-27638_03-d1e2297-x4</s.rf>
@@ -15,11 +18,12 @@
 <LM id="hg-27638_03.06-SCzechA-m-d1t2317-2">
 <m.rf>m#m783-d1t2317-2</m.rf>
 <afun>Coord</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>4</ord>
 <children>
 <LM id="hg-27638_03.06-SCzechA-m-d1t2315-1">
 <m.rf>m#m783-d1t2315-1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 </LM>
@@ -30,22 +34,22 @@
 </LM>
 <LM id="hg-27638_03.06-SCzechA-m-d1t2317-1">
 <m.rf>m#m783-d1t2317-1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <is_member>1</is_member>
 <ord>3</ord>
 </LM>
 <LM id="hg-27638_03.06-SCzechA-m-d1t2317-3">
 <m.rf>m#m783-d1t2317-3</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <is_member>1</is_member>
 <ord>5</ord>
-</LM>
-</children>
 </LM>
 <LM id="hg-27638_03.06-SCzechA-m-d-id131335">
 <m.rf>m#m783-d-id131335</m.rf>
 <afun>AuxK</afun>
 <ord>6</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -55,7 +59,7 @@
 <children>
 <LM id="hg-27638_03.06-SCzechA-m-d1t2323-1">
 <m.rf>m#m783-d1t2323-1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <children>
 <LM id="hg-27638_03.06-SCzechA-m-d1t2323-3">
@@ -70,12 +74,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="hg-27638_03.06-SCzechA-m-d-id131453">
 <m.rf>m#m783-d-id131453</m.rf>
 <afun>AuxK</afun>
 <ord>4</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

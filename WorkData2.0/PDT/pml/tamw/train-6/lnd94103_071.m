@@ -123,7 +123,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-lnd94103-071-p1s3w3">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-071-p1s13w8">
 <src.rf>manual</src.rf>
@@ -1801,8 +1801,8 @@
 <LM>w#w-lnd94103-071-p1s15w6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-071-p1s15w7">
 <src.rf>manual</src.rf>
@@ -1857,8 +1857,8 @@
 <LM>w#w-lnd94103-071-p1s16w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94103-071-p1s16w2">
 <src.rf>manual</src.rf>
@@ -2372,7 +2372,7 @@
 </w.rf>
 <form>přesáhl</form>
 <lemma>přesáhnout</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94103-071-p1s20w7">
 <src.rf>manual</src.rf>
@@ -2914,8 +2914,8 @@
 <LM>w#w-lnd94103-071-p1s23w23</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94103-071-p1s23w24">
 <src.rf>manual</src.rf>
@@ -3033,8 +3033,8 @@
 <LM>w#w-lnd94103-071-p1s24w10</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94103-071-p1s24w11">
 <src.rf>manual</src.rf>
@@ -3164,7 +3164,7 @@
 <form_change>spell</form_change>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-071-p1s25w4">
 <src.rf>manual</src.rf>

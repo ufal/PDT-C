@@ -1392,8 +1392,8 @@
 <LM>w#w-ln94210-19-p4s3w3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-19-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1465,7 +1465,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-19-p4s3w12">
 <src.rf>manual</src.rf>

@@ -1981,7 +1981,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-028-p2s2w23">
 <src.rf>manual</src.rf>

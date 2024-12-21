@@ -185,7 +185,7 @@
 <LM>w#w-ln95045-099-p2s1Bw10</LM>
 </w.rf>
 <form>umisťuje</form>
-<lemma>umisťovat</lemma>
+<lemma>umisťovat_,s_^(^DD**umísťovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-099-p2s1Bw11">

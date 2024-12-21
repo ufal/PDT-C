@@ -497,8 +497,8 @@
 <LM>w#w-wsj1373-001-p1s2W26</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1373-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -897,8 +897,8 @@
 <LM>w#w-wsj1373-001-p1s4W7</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1373-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2644,8 +2644,8 @@
 <LM>w#w-wsj1373-001-p1s13W8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1373-001-p1s13W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3117,7 +3117,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1373-001-p1s15W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3873,8 +3873,8 @@
 <LM>w#w-wsj1373-001-p1s20W14</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1373-001-p1s20W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8477,7 +8477,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-wsj1373-001-p1s43W30-Ta">
 <src.rf>tagger-a</src.rf>

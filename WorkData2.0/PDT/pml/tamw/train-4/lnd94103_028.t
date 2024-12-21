@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_028.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -47,8 +47,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w6148f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41kslD</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s1w6">
 <a>
@@ -314,6 +314,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -326,15 +327,16 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s3w1">
 <a>
 <lex.rf>a#a-lnd94103-028-p1s3w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>poprvé</t_lemma>
 <functor>THO</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -512,7 +514,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w6496f1</val_frame.rf>
+<val_frame.rf>v#v41lioA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s4w4">
 <a>
@@ -739,6 +741,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>říkat</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>říkat</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -751,7 +754,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w5882f1</val_frame.rf>
+<val_frame.rf>v#v41kejB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s5a1">
 <nodetype>complex</nodetype>
@@ -827,7 +830,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w7612f1</val_frame.rf>
+<val_frame.rf>v#v41nlfH</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s5w2">
 <a>
@@ -953,6 +956,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-028-p1s5w9</LM>
@@ -1014,7 +1018,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w5945f1</val_frame.rf>
+<val_frame.rf>v#v41khtE</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s5w14">
 <a>
@@ -1209,21 +1213,23 @@ nebo to v textu opravdu je?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-028-p1s5w22</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1062f1</val_frame.rf>
+<val_frame.rf>v#v41avsA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s5w23">
 <a>
 <lex.rf>a#a-lnd94103-028-p1s5w23</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>podobný</t_lemma>
+<t_lemma>podobně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>podobný</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -1267,21 +1273,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>21</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-lnd94103-028-p1s5w29</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>conj</discourse_type>
-<src>pdit20</src>
-<t-connectors.rf>
-<LM>t-lnd94103-028-p1s5w23</LM>
-</t-connectors.rf>
-<is_secondary>1</is_secondary>
-</LM>
-</discourse>
-<val_frame.rf>v#v-w1062f1</val_frame.rf>
+<val_frame.rf>v#v41avsA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s5a7">
 <nodetype>complex</nodetype>
@@ -1368,8 +1360,9 @@ nebo to v textu opravdu je?</discourse_comment>
 <lex.rf>a#a-lnd94103-028-p1s5w26</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jaký</t_lemma>
+<t_lemma>jakýkoliv</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jaký</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -1432,7 +1425,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>28</deepord>
-<val_frame.rf>v#v-w542f1</val_frame.rf>
+<val_frame.rf>v#v41xhA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s5a4">
 <nodetype>qcomplex</nodetype>
@@ -1528,7 +1521,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w7190f1</val_frame.rf>
+<val_frame.rf>v#v41mqnC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s6w2">
 <a>
@@ -1635,7 +1628,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w735f1</val_frame.rf>
+<val_frame.rf>v#v41afyI</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s6a0">
 <nodetype>complex</nodetype>
@@ -1734,13 +1727,14 @@ nebo to v textu opravdu je?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-028-p1s6w11</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1370f1</val_frame.rf>
+<val_frame.rf>v#v41bjyA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s6w12">
 <a>
@@ -1749,6 +1743,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -1816,6 +1811,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>ten</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -1929,7 +1925,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7548f2</val_frame.rf>
+<val_frame.rf>v#v41nihB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s7w3">
 <a>
@@ -1988,8 +1984,9 @@ nebo to v textu opravdu je?</discourse_comment>
 <lex.rf>a#a-lnd94103-028-p1s7w5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdo</t_lemma>
+<t_lemma>nikdo</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>kdo</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -2087,7 +2084,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w6234f1</val_frame.rf>
+<val_frame.rf>v#v41kwuA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s8w3">
 <a>
@@ -2123,13 +2120,14 @@ nebo to v textu opravdu je?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-028-p1s8w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6923f1</val_frame.rf>
+<val_frame.rf>v#v41mdbC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s8w2">
 <a>
@@ -2229,6 +2227,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>THL</functor>
+<proto_lemma>být</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -2247,15 +2246,16 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s8w7">
 <a>
 <lex.rf>a#a-lnd94103-028-p1s8w7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>což</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -2308,6 +2308,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>ten</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -2327,8 +2328,9 @@ nebo to v textu opravdu je?</discourse_comment>
 <lex.rf>a#a-lnd94103-028-p1s8w13</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dlouhý</t_lemma>
+<t_lemma>dlouho</t_lemma>
 <functor>THL</functor>
+<proto_lemma>dlouhý</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -2348,8 +2350,9 @@ nebo to v textu opravdu je?</discourse_comment>
 <lex.rf>a#a-lnd94103-028-p1s8w12</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>hrozný</t_lemma>
+<t_lemma>hrozně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>hrozný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <quot>
 <LM>
@@ -2438,7 +2441,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w9204f1</val_frame.rf>
+<val_frame.rf>v#v41qooC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s8a2">
 <nodetype>qcomplex</nodetype>
@@ -2494,6 +2497,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-028-p1s8w19</LM>
@@ -2501,7 +2505,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w8551f1</val_frame.rf>
+<val_frame.rf>v#v41pgrB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s8w19">
 <a>
@@ -2576,7 +2580,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>23</deepord>
-<val_frame.rf>v#v-w6228f1</val_frame.rf>
+<val_frame.rf>v#v41kwoA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s8a3">
 <nodetype>qcomplex</nodetype>
@@ -2619,7 +2623,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>25</deepord>
-<val_frame.rf>v#v-w9615f1</val_frame.rf>
+<val_frame.rf>v#v41rkdA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s8a4">
 <nodetype>qcomplex</nodetype>
@@ -2696,7 +2700,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w647f1</val_frame.rf>
+<val_frame.rf>v#v41abzE</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s9w4">
 <a>
@@ -2727,13 +2731,14 @@ nebo to v textu opravdu je?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-028-p1s9w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w735f1</val_frame.rf>
+<val_frame.rf>v#v41afyI</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s9a1">
 <nodetype>complex</nodetype>
@@ -2807,6 +2812,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -2834,8 +2840,9 @@ nebo to v textu opravdu je?</discourse_comment>
 <lex.rf>a#a-lnd94103-028-p1s9w13</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tragický</t_lemma>
+<t_lemma>tragicky</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>tragický</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -2851,6 +2858,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tak</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>tak</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -2900,7 +2908,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w1868f1</val_frame.rf>
+<val_frame.rf>v#v41chxD</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s10w2">
 <a>
@@ -3059,6 +3067,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>říkat</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>říkat</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -3071,7 +3080,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w5882f1</val_frame.rf>
+<val_frame.rf>v#v41kejB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s11Aa0">
 <nodetype>complex</nodetype>
@@ -3124,7 +3133,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w5598f1</val_frame.rf>
+<val_frame.rf>v#v41jocB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s11Aw4">
 <a>
@@ -3230,7 +3239,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w7230f1</val_frame.rf>
+<val_frame.rf>v#v41mspA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s11Bw3">
 <a>
@@ -3253,20 +3262,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-lnd94103-028-p1s11Bw13</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>cond</discourse_type>
-<src>pdit10</src>
-<a-connectors.rf>
-<LM>a#a-lnd94103-028-p1s11Bw2</LM>
-</a-connectors.rf>
-</LM>
-</discourse>
-<val_frame.rf>v#v-w1339f1</val_frame.rf>
+<val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s11Bw5">
 <a>
@@ -3454,6 +3450,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tam</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>tam</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -3472,6 +3469,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <lex.rf>a#a-lnd94103-028-p1s11Bw20</lex.rf>
 <aux.rf>
 <LM>a#a-lnd94103-028-p1s11Bw15</LM>
+<LM>a#a-lnd94103-028-p1s11Bw18</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -3489,15 +3487,16 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w1325f2</val_frame.rf>
+<val_frame.rf>v#v41bhuB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s11Bw21">
 <a>
 <lex.rf>a#a-lnd94103-028-p1s11Bw21</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>čtrnáct</t_lemma>
+<t_lemma>čtrnáctkrát</t_lemma>
 <functor>THO</functor>
+<proto_lemma>čtrnáct</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -3512,6 +3511,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <lex.rf>a#a-lnd94103-028-p1s11Bw20</lex.rf>
 <aux.rf>
 <LM>a#a-lnd94103-028-p1s11Bw15</LM>
+<LM>a#a-lnd94103-028-p1s11Bw18</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -3537,21 +3537,23 @@ nebo to v textu opravdu je?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-028-p1s11Bw22</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1325f2</val_frame.rf>
+<val_frame.rf>v#v41bhuB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s11Bw23">
 <a>
 <lex.rf>a#a-lnd94103-028-p1s11Bw23</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>poprvé</t_lemma>
 <functor>THO</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -3602,6 +3604,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tak</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>tak</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -3632,6 +3635,7 @@ nebo to v textu opravdu je?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <quot>
 <LM>
@@ -3651,7 +3655,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s11Cw2">
 <a>
@@ -3791,13 +3795,14 @@ nebo to v textu opravdu je?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-028-p1s12w5</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w4866f1</val_frame.rf>
+<val_frame.rf>v#v41idlB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s12w5">
 <a>
@@ -3999,7 +4004,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w1323f1</val_frame.rf>
+<val_frame.rf>v#v41bhrA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s13w2">
 <a>
@@ -4026,7 +4031,7 @@ nebo to v textu opravdu je?</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w3111f1</val_frame.rf>
+<val_frame.rf>v#v41euvB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-028-p1s13w4">
 <a>

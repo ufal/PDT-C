@@ -171,8 +171,8 @@
 <LM>w#w-wsj2349-001-p1s1W6</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2349-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -518,8 +518,8 @@
 <LM>w#w-wsj2349-001-p1s3W15</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2349-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1045,8 +1045,8 @@
 <LM>w#w-wsj2349-001-p1s4W32</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2349-001-p1s4W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1372,8 +1372,8 @@
 <LM>w#w-wsj2349-001-p1s5W15</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2349-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1572,8 +1572,8 @@
 <LM>w#w-wsj2349-001-p1s6W8</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2349-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>

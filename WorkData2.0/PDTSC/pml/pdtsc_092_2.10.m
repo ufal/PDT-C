@@ -120,8 +120,8 @@
 <LM>w#w-d1t1258-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m142-d1e1255-x2-355">
 <w.rf>

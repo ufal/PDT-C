@@ -160,8 +160,8 @@
 <LM>w#w-wsj0154-001-p1s0W17</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0154-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -298,7 +298,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0154-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -814,8 +814,8 @@
 <LM>w#w-wsj0154-001-p1s3W9</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj0154-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>

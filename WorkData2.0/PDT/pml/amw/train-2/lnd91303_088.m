@@ -1008,7 +1008,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-088-p3s7w10">
 <src.rf>manual</src.rf>
@@ -1016,7 +1016,7 @@
 <LM>w#w-lnd91303-088-p3s7w10</LM>
 </w.rf>
 <form>pozitívní</form>
-<lemma>pozitívní</lemma>
+<lemma>pozitívní_,s_^(^DD**pozitivní)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-lnd91303-088-p3s7w11">
@@ -2526,8 +2526,8 @@
 <LM>w#w-lnd91303-088-p5s4w8</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-088-p5s4w9">
 <src.rf>manual</src.rf>
@@ -4509,8 +4509,8 @@
 <LM>w#w-lnd91303-088-p7s1w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91303-088-p7s1w2">
 <src.rf>manual</src.rf>
@@ -6013,7 +6013,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-088-p10s2w9">
 <src.rf>manual</src.rf>

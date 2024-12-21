@@ -187,8 +187,8 @@
 <LM>w#w-wsj0334-001-p1s0W20</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0334-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -600,7 +600,7 @@
 </w.rf>
 <form>předčily</form>
 <lemma>předčit</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-wsj0334-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

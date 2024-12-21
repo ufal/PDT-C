@@ -28,8 +28,8 @@
 <LM>w#w-ln94209-85-p1s1w2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-85-p1s1w3">
 <src.rf>manual</src.rf>

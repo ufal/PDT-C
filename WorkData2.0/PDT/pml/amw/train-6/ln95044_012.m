@@ -638,7 +638,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-012-p2s2w45">
 <src.rf>manual</src.rf>
@@ -4002,8 +4002,8 @@
 <LM>w#w-ln95044-012-p8s1w18</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-012-p8s1w19">
 <src.rf>manual</src.rf>
@@ -4247,8 +4247,8 @@
 <LM>w#w-ln95044-012-p8s2w18</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-012-p8s2w19">
 <src.rf>manual</src.rf>

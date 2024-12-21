@@ -296,8 +296,8 @@
 <LM>w#w-d1t1402-9</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1e1395-x2-634">
 <w.rf>
@@ -1234,8 +1234,8 @@
 <LM>w#w-d1t1505-8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1505-9">
 <w.rf>
@@ -1444,8 +1444,8 @@
 <LM>w#w-d1t1516-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1516-6">
 <w.rf>
@@ -2904,8 +2904,8 @@
 <LM>w#w-d1t1632-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1632-3">
 <w.rf>
@@ -2988,8 +2988,8 @@
 <LM>w#w-d1t1642-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1642-4">
 <w.rf>
@@ -3046,8 +3046,8 @@
 <LM>w#w-d1t1648-4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1648-5">
 <w.rf>
@@ -3112,8 +3112,8 @@
 <LM>w#w-d1t1652-1</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1652-2">
 <w.rf>
@@ -3136,8 +3136,8 @@
 <LM>w#w-d1t1652-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1652-7">
 <w.rf>
@@ -3240,8 +3240,8 @@
 <LM>w#w-d1t1654-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1654-4">
 <w.rf>
@@ -3272,8 +3272,8 @@
 <LM>w#w-d1t1654-8</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1654-9">
 <w.rf>

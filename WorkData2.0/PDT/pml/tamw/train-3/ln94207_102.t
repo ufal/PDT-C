@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_102.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -55,13 +55,11 @@
 <a>
 <lex.rf>a#a-ln94207-102-p1s1Aw6</lex.rf>
 </a>
-<nodetype>qcomplex</nodetype>
+<nodetype>coap</nodetype>
 <t_lemma>#Colon</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<tfa>t</tfa>
+<functor>APPS</functor>
 <deepord>6</deepord>
-<discourse_special>caption</discourse_special>
+<discourse_feature>caption</discourse_feature>
 <children>
 <LM id="t-ln94207-102-p1s1Aw3">
 <a>
@@ -70,6 +68,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
+<is_member>1</is_member>
 <deepord>3</deepord>
 <children>
 <LM id="t-ln94207-102-p1s1Aw2">
@@ -78,7 +77,8 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Bollesová</t_lemma>
-<functor>ACT</functor>
+<functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <is_name_of_person>1</is_name_of_person>
 <gram>
@@ -87,7 +87,7 @@
 <number>sg</number>
 <typgroup>single</typgroup>
 </gram>
-<tfa>c</tfa>
+<tfa>f</tfa>
 <deepord>1</deepord>
 <children>
 <LM id="t-ln94207-102-p1s1Aw1">
@@ -115,7 +115,8 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Wilson</t_lemma>
-<functor>ACT</functor>
+<functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <is_name_of_person>1</is_name_of_person>
 <gram>
@@ -124,7 +125,7 @@
 <number>sg</number>
 <typgroup>single</typgroup>
 </gram>
-<tfa>c</tfa>
+<tfa>f</tfa>
 <deepord>4</deepord>
 <children>
 <LM id="t-ln94207-102-p1s1Aw4">
@@ -148,13 +149,25 @@
 </LM>
 </children>
 </LM>
+<LM id="t-ln94207-102-p1s1Aa1">
+<a>
+<lex.rf>a#a-ln94207-102-p1s1Aw15</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Comma</t_lemma>
+<functor>CONJ</functor>
+<is_member>1</is_member>
+<deepord>12</deepord>
+<children>
 <LM id="t-ln94207-102-p1s1Aw8">
 <a>
 <lex.rf>a#a-ln94207-102-p1s1Aw8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>školka</t_lemma>
-<functor>PAT</functor>
+<functor>DENOM</functor>
+<sentmod>enunc</sentmod>
+<is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -236,19 +249,23 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="t-ln94207-102-p1s1Aw16">
 <a>
 <lex.rf>a#a-ln94207-102-p1s1Aw16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1992</t_lemma>
-<functor>RSTR</functor>
+<functor>DENOM</functor>
+<sentmod>enunc</sentmod>
+<is_member>1</is_member>
 <gram>
-<sempos>adj.quant.def</sempos>
+<sempos>n.quant.def</sempos>
 <numertype>basic</numertype>
 </gram>
 <tfa>f</tfa>
-<deepord>12</deepord>
+<deepord>13</deepord>
 </LM>
 </children>
 </LM>

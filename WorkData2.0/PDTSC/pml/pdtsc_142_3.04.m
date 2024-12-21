@@ -1266,8 +1266,8 @@
 <LM>w#w-d1t639-6</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m111-d1t639-7">
 <w.rf>
@@ -1432,8 +1432,8 @@
 <LM>w#w-d1t652-15</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t652-17">
 <w.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-d1t656-3</LM>
 </w.rf>
 <form>támhle</form>
-<lemma>támhle</lemma>
+<lemma>támhle_,s_^(^DD**tamhle)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m111-d1t656-5">
@@ -2120,8 +2120,8 @@
 <LM>w#w-d1t686-5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t686-6">
 <w.rf>
@@ -2292,8 +2292,8 @@
 <LM>w#w-d1t688-9</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t688-8">
 <w.rf>
@@ -2418,8 +2418,8 @@
 <LM>w#w-d1t690-21</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t690-22">
 <w.rf>
@@ -2484,7 +2484,7 @@
 <LM>w#w-d1t690-31</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m111-d1t690-32">
@@ -2688,8 +2688,8 @@
 <LM>w#w-d1t697-4</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t697-5">
 <w.rf>
@@ -2844,8 +2844,8 @@
 <LM>w#w-d1t710-8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t710-9">
 <w.rf>
@@ -3197,7 +3197,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m111-d1t716-37">
 <w.rf>

@@ -212,8 +212,8 @@
 <LM>w#w-ln95043-058-p2s1Bw13</LM>
 </w.rf>
 <form>poblíž</form>
-<lemma>poblíž-1</lemma>
-<tag>Db-------------</tag>
+<lemma>poblíž-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-058-p2s1Bw14">
 <src.rf>manual</src.rf>

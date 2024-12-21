@@ -103,7 +103,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95043-061-p2s1w2">
 <src.rf>manual</src.rf>
@@ -2238,7 +2238,7 @@
 </w.rf>
 <form>věnována</form>
 <lemma>věnovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-ln95043-061-p5s1w25">
 <src.rf>manual</src.rf>
@@ -3292,8 +3292,8 @@
 <LM>w#w-ln95043-061-p6s2w1</LM>
 </w.rf>
 <form>Počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-061-p6s2w2">
 <src.rf>manual</src.rf>

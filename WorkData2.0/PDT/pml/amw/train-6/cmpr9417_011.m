@@ -2615,7 +2615,7 @@
 </w.rf>
 <form>zaspala</form>
 <lemma>zaspat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-011-p13s5w10">
 <src.rf>manual</src.rf>
@@ -2851,7 +2851,7 @@
 </w.rf>
 <form>nevěnovala</form>
 <lemma>věnovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAB--</tag>
 </m>
 <m id="m-cmpr9417-011-p13s6w24">
 <src.rf>manual</src.rf>
@@ -6811,7 +6811,7 @@
 <LM>w#w-cmpr9417-011-p23s3w7</LM>
 </w.rf>
 <form>sežeňte</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vi-P---2--A-P--</tag>
 </m>
 <m id="m-cmpr9417-011-p23s3w8">
@@ -7445,7 +7445,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-011-p29s1Bw3">
 <src.rf>manual</src.rf>
@@ -7900,7 +7900,7 @@
 </w.rf>
 <form>práce</form>
 <lemma>práce_^(jako_činnost_i_místo)</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9417-011-p35s1">

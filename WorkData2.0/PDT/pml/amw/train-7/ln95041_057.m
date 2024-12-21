@@ -712,7 +712,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-057-p3s2w3">
 <src.rf>manual</src.rf>

@@ -1208,7 +1208,7 @@
 <LM>w#w-mf920901-074-p1s5w11</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920901-074-p1s5w12">

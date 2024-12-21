@@ -1523,7 +1523,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2060-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1830,8 +1830,8 @@
 <LM>w#w-wsj2060-001-p1s8W21</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2060-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2020,7 +2020,7 @@
 </w.rf>
 <form>přerušení</form>
 <lemma>přerušení_^(*3it)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj2060-001-p1s8W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2085,7 +2085,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2060-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>

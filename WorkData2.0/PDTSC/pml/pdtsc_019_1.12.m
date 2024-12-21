@@ -78,8 +78,8 @@
 <LM>w#w-d1t4722-4</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t4722-2">
 <w.rf>
@@ -2050,8 +2050,8 @@
 <LM>w#w-d1t4870-13</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t4870-14">
 <w.rf>
@@ -2724,8 +2724,8 @@
 <LM>w#w-d1t4928-1</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t4928-2">
 <w.rf>
@@ -2825,7 +2825,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d-m-d1e4933-x2-punct-punct">
 <w.rf>

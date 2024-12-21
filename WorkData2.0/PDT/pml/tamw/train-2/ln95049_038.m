@@ -666,8 +666,8 @@
 <LM>w#w-ln95049-038-p3s1w8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-038-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1022,8 +1022,8 @@
 <LM>w#w-ln95049-038-p3s3w8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-038-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1303,8 +1303,8 @@
 <LM>w#w-ln95049-038-p3s4w18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-038-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1624,8 +1624,8 @@
 <LM>w#w-ln95049-038-p3s7w9</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-038-p3s7w10">
 <src.rf>manual</src.rf>
@@ -1698,8 +1698,8 @@
 <LM>w#w-ln95049-038-p3s8w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-038-p3s8w6">
 <src.rf>manual</src.rf>
@@ -1918,7 +1918,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-038-p3s9w11">
 <src.rf>manual</src.rf>
@@ -2155,8 +2155,8 @@
 <LM>w#w-ln95049-038-p3s11w13</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-038-p3s11w14">
 <src.rf>manual</src.rf>
@@ -2474,8 +2474,8 @@
 <LM>w#w-ln95049-038-p3s13w4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-038-p3s13w5">
 <src.rf>manual</src.rf>
@@ -2654,8 +2654,8 @@
 <LM>w#w-ln95049-038-p3s13w24</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-038-p3s13w25">
 <src.rf>manual</src.rf>

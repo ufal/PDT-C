@@ -385,8 +385,8 @@
 <LM>w#w-lnd94101-107-p1s4w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-107-p1s4w4">
 <src.rf>manual</src.rf>
@@ -1191,8 +1191,8 @@
 <LM>w#w-lnd94101-107-p1s6w11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-107-p1s6w12">
 <src.rf>manual</src.rf>
@@ -1699,8 +1699,8 @@
 <LM>w#w-lnd94101-107-p1s8w11</LM>
 </w.rf>
 <form>obviněný</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-107-p1s8w12">
 <src.rf>manual</src.rf>

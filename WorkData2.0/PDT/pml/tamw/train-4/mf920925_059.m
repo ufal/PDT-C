@@ -264,8 +264,8 @@
 <LM>w#w-mf920925-059-p2s1w26</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-059-p2s1w27">
 <src.rf>manual</src.rf>
@@ -1241,8 +1241,8 @@
 <LM>w#w-mf920925-059-p2s7w1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-059-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1468,8 +1468,8 @@
 <LM>w#w-mf920925-059-p2s8Aw8</LM>
 </w.rf>
 <form>zrovna</form>
-<lemma>zrovna-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zrovna-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-059-p2s8Aw9">
 <src.rf>manual</src.rf>
@@ -1551,8 +1551,8 @@
 <LM>w#w-mf920925-059-p2s8Bw1</LM>
 </w.rf>
 <form>Tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-059-p2s8Bw2">
 <src.rf>manual</src.rf>

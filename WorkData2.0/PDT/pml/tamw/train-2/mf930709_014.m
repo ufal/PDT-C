@@ -538,8 +538,8 @@
 <LM>w#w-mf930709-014-p4s2w1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-014-p4s2w2">
 <src.rf>manual</src.rf>

@@ -1545,8 +1545,8 @@
 <LM>w#w-wsj1390-001-p1s8W23</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s8W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1581,8 +1581,8 @@
 <LM>w#w-wsj1390-001-p1s8W27</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s8W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1617,8 +1617,8 @@
 <LM>w#w-wsj1390-001-p1s8W31</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s8W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2125,8 +2125,8 @@
 <LM>w#w-wsj1390-001-p1s10W7</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2761,8 +2761,8 @@
 <LM>w#w-wsj1390-001-p1s13W15</LM>
 </w.rf>
 <form>jasně</form>
-<lemma>jasně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jasně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s13W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3214,7 +3214,7 @@
 </w.rf>
 <form>zachovaly</form>
 <lemma>zachovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1390-001-p1s14W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3751,7 +3751,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s17W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6193,7 +6193,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s31W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7688,8 +7688,8 @@
 <LM>w#w-wsj1390-001-p1s40W7</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1390-001-p1s40W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7789,8 +7789,8 @@
 <LM>w#w-wsj1390-001-p1s41W1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1390-001-p1s41W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9588,7 +9588,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1390-001-p1s49W4-Ta">
 <src.rf>tagger-a</src.rf>

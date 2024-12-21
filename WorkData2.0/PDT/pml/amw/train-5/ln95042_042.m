@@ -988,8 +988,8 @@
 <LM>w#w-ln95042-042-p3s4w4</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-042-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1397,8 +1397,8 @@
 <LM>w#w-ln95042-042-p3s6w16</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-042-p3s6w17">
 <src.rf>manual</src.rf>

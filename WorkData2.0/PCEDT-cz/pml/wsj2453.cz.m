@@ -151,8 +151,8 @@
 <LM>w#w-wsj2453-001-p1s0W16</LM>
 </w.rf>
 <form>vlivem</form>
-<lemma>vliv</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>vlivem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2453-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -405,8 +405,8 @@
 <LM>w#w-wsj2453-001-p1s1W22</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2453-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -496,8 +496,8 @@
 <LM>w#w-wsj2453-001-p1s1W32</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2453-001-p1s1W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -915,7 +915,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2453-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1381,7 +1381,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2453-001-p1s5W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1781,8 +1781,8 @@
 <LM>w#w-wsj2453-001-p1s6W13</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2453-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3010,8 +3010,8 @@
 <LM>w#w-wsj2453-001-p1s11W21</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2453-001-p1s11W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -909,7 +909,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1491-001-p1s3W34-Ta">
 <src.rf>tagger-a</src.rf>

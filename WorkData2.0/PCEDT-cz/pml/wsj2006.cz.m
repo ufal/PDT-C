@@ -619,7 +619,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2006-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -947,7 +947,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2006-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1286,7 +1286,7 @@
 </w.rf>
 <form>září</form>
 <lemma>září</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS3-----A----</tag>
 </m>
 <m id="m-wsj2006-001-p1s8W21-Ta">
 <src.rf>tagger-a</src.rf>

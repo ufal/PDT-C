@@ -1508,7 +1508,7 @@
 </w.rf>
 <form>série</form>
 <lemma>série</lemma>
-<tag>NNFS1-----A----</tag>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m-wsj0704-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3692,7 +3692,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj0704-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4327,7 +4327,7 @@
 </w.rf>
 <form>značící</form>
 <lemma>značící_^(*3it)</lemma>
-<tag>AGIS1-----A----</tag>
+<tag>AGFP1-----A----</tag>
 </m>
 <m id="m-wsj0704-001-p1s17W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4482,7 +4482,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj0704-001-p1s18W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5034,7 +5034,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj0704-001-p1s19W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5848,7 +5848,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0704-001-p1s24W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6387,7 +6387,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0704-001-p1s27W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7280,7 +7280,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0704-001-p1s31W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8180,7 +8180,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0704-001-p1s34W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9171,7 +9171,7 @@
 <LM>w#w-wsj0704-001-p1s38W12</LM>
 </w.rf>
 <form>hypotéčními</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAIP7----1A----</tag>
 </m>
 <m id="m-wsj0704-001-p1s38W13-Ta">
@@ -10773,7 +10773,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj0704-001-p1s46W9-Ta">
 <src.rf>tagger-a</src.rf>

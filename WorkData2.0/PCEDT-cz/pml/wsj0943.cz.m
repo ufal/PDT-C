@@ -836,7 +836,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj0943-001-p1s4W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1273,8 +1273,8 @@
 <LM>w#w-wsj0943-001-p1s7W1</LM>
 </w.rf>
 <form>Začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0943-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>

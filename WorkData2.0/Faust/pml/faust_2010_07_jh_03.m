@@ -908,8 +908,8 @@
 <LM>w#w-jh_03-SCzechM-p0211-s1-w13</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_03-SCzechM-p0211-s1-w14">
 <w.rf>
@@ -1571,7 +1571,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="jh_03-SCzechM-p0232-s1-w13">
 <w.rf>
@@ -1611,7 +1611,7 @@
 </w.rf>
 <form>Motýli</form>
 <lemma>motýl</lemma>
-<tag>NNMP1-----A---1</tag>
+<tag>NNMP5-----A---1</tag>
 </m>
 <m id="jh_03-SCzechM-p0232-s1-w18">
 <w.rf>
@@ -2297,8 +2297,8 @@
 <LM>w#w-jh_03-SCzechM-p0247-s1-w22</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_03-SCzechM-p0247-s1-w23">
 <w.rf>
@@ -2451,8 +2451,8 @@
 <LM>w#w-jh_03-SCzechM-p0248-s1-w5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_03-SCzechM-p0248-s1-w6">
 <w.rf>
@@ -3427,8 +3427,8 @@
 <LM>w#w-jh_03-SCzechM-p0282-s1-w3</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_03-SCzechM-p0282-s1-w4">
 <w.rf>
@@ -3521,8 +3521,8 @@
 <LM>w#w-jh_03-SCzechM-p0288-s1-w1</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_03-SCzechM-p0288-s1-w2">
 <w.rf>
@@ -3679,8 +3679,8 @@
 <LM>w#w-jh_03-SCzechM-p0298-s1-w1</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_03-SCzechM-p0298-s1-w2">
 <w.rf>
@@ -3705,8 +3705,8 @@
 <LM>w#w-jh_03-SCzechM-p0302-s1-w2</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 </s>
 <s id="s-jh_03-SCzechM-p0308-s1-w2">

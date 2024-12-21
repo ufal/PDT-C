@@ -226,8 +226,8 @@
 <LM>w#w-d1t377-1</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>ten</lemma>
+<tag>PDNS4----------</tag>
 </m>
 <m id="m031-d1t377-2">
 <w.rf>
@@ -490,8 +490,8 @@
 <LM>w#w-d1t403-8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t403-9">
 <w.rf>
@@ -921,7 +921,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m031-d1t430-4">
 <w.rf>
@@ -1068,8 +1068,8 @@
 <LM>w#w-d1t432-8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t432-9">
 <w.rf>
@@ -1210,8 +1210,8 @@
 <LM>w#w-d1t455-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t455-4">
 <w.rf>
@@ -2108,8 +2108,8 @@
 <LM>w#w-d1t528-16</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m031-d1t528-18">
 <w.rf>
@@ -2280,8 +2280,8 @@
 <LM>w#w-d1t528-10</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t528-11">
 <w.rf>
@@ -2372,7 +2372,7 @@
 <LM>w#w-d1t539-8</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m031-d1t539-9">
@@ -2852,7 +2852,7 @@
 <LM>w#w-d1t566-5</LM>
 </w.rf>
 <form>znova</form>
-<lemma>znova</lemma>
+<lemma>znova_,s_^(^DD**znovu)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m031-d1t564-23">
@@ -3230,16 +3230,16 @@
 <LM>w#w-d1t579-7</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t579-9">
 <w.rf>
 <LM>w#w-d1t579-9</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t579-13">
 <w.rf>
@@ -3562,8 +3562,8 @@
 <LM>w#w-d1t585-20</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m031-d1t585-21">
 <w.rf>
@@ -3788,8 +3788,8 @@
 <LM>w#w-d1t594-1</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t594-6">
 <w.rf>
@@ -4106,8 +4106,8 @@
 <LM>w#w-d1t616-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t616-2">
 <w.rf>
@@ -4271,7 +4271,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m031-d1t622-1">
 <w.rf>
@@ -4304,8 +4304,8 @@
 <LM>w#w-d1t632-5</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t636-3">
 <w.rf>
@@ -4328,8 +4328,8 @@
 <LM>w#w-d1t636-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t636-1">
 <w.rf>
@@ -4376,8 +4376,8 @@
 <LM>w#w-d1t638-3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t638-4">
 <w.rf>
@@ -4500,8 +4500,8 @@
 <LM>w#w-d1t651-4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m031-d1t651-6">
 <w.rf>
@@ -4564,7 +4564,7 @@
 <LM>w#w-d1t651-14</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m031-d1t651-17">

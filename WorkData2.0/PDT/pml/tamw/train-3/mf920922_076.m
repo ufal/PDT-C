@@ -147,8 +147,8 @@
 <LM>w#w-mf920922-076-p2s1w12</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-076-p2s1w13">
 <src.rf>manual</src.rf>
@@ -156,8 +156,8 @@
 <LM>w#w-mf920922-076-p2s1w13</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-076-p2s1w14">
 <src.rf>manual</src.rf>
@@ -646,8 +646,8 @@
 <LM>w#w-mf920922-076-p2s3w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-076-p2s3w17">
 <src.rf>manual</src.rf>

@@ -1070,8 +1070,8 @@
 <LM>w#w-ln95046-003-p3s3w22</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-003-p3s3w23">
 <src.rf>manual</src.rf>

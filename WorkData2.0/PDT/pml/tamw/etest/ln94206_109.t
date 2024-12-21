@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_109.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -45,7 +45,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1739f1</val_frame.rf>
+<val_frame.rf>v#v41ccdA</val_frame.rf>
 <children>
 <LM id="t-ln94206-109-p1s1a0">
 <nodetype>qcomplex</nodetype>
@@ -196,7 +196,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5953f2</val_frame.rf>
+<val_frame.rf>v#v41kifB</val_frame.rf>
 <children>
 <LM id="t-ln94206-109-p1s2w2">
 <a>
@@ -267,6 +267,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tisíc</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>tisíc</proto_lemma>
 <gram>
 <sempos>n.quant.def</sempos>
 <gender>inan</gender>
@@ -312,8 +313,9 @@
 <lex.rf>a#a-ln94206-109-p1s2w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>správný</t_lemma>
+<t_lemma>správně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>správný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -336,6 +338,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>osmdesát</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>osmdesát</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -382,7 +385,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w131f1</val_frame.rf>
+<val_frame.rf>v#v41elA</val_frame.rf>
 <children>
 <LM id="t-ln94206-109-p1s3w2">
 <a>
@@ -426,7 +429,7 @@
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w1739f1</val_frame.rf>
+<val_frame.rf>v#v41ccdA</val_frame.rf>
 <children>
 <LM id="t-ln94206-109-p1s3a1">
 <nodetype>qcomplex</nodetype>
@@ -524,7 +527,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>caption</discourse_special>
+<discourse_feature>caption</discourse_feature>
 </LM>
 </children>
 </LM>

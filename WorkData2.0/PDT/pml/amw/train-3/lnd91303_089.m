@@ -1337,8 +1337,8 @@
 <LM>w#w-lnd91303-089-p5s5w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-089-p5s5w2">
 <src.rf>manual</src.rf>
@@ -1883,7 +1883,7 @@
 </w.rf>
 <form>gólmani</form>
 <lemma>gólman</lemma>
-<tag>NNMP1-----A----</tag>
+<tag>NNMP1-----A---1</tag>
 </m>
 <m id="m-lnd91303-089-p5s7w10">
 <src.rf>manual</src.rf>

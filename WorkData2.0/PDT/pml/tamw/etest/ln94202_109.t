@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_109.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>defektní soubor,
 mnoho případů špatné segmentace,
 48-51 a 55 jsou jen interpunkční 
@@ -3825,7 +3825,7 @@ není seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w1755f1</val_frame.rf>
+<val_frame.rf>v#v41ccvA</val_frame.rf>
 <children>
 <LM id="t-ln94202-109-p27s1a1">
 <nodetype>qcomplex</nodetype>
@@ -4193,7 +4193,7 @@ není seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w7046f1</val_frame.rf>
+<val_frame.rf>v#v41mjiA</val_frame.rf>
 <children>
 <LM id="t-ln94202-109-p36s1a0">
 <nodetype>complex</nodetype>

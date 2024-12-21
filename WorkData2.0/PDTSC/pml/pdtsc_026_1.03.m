@@ -96,8 +96,8 @@
 <LM>w#w-d1t1051-5</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m026-d1t1051-6">
 <w.rf>
@@ -490,8 +490,8 @@
 <LM>w#w-d1t1065-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m026-d1t1065-7">
 <w.rf>

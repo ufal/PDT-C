@@ -264,7 +264,7 @@
 <LM>w#w-wsj0076-001-p1s2W7</LM>
 </w.rf>
 <form>zmražených</form>
-<lemma>zmražený</lemma>
+<lemma>zmražený_,s_^(^DD**zmrazený)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-wsj0076-001-p1s2W8-Ta">

@@ -2012,8 +2012,8 @@
 <LM>w#w-lnd94104-074-p1s9w8</LM>
 </w.rf>
 <form>obžalovaný</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-074-p1s9w9">
 <src.rf>manual</src.rf>
@@ -3857,8 +3857,8 @@
 <LM>w#w-lnd94104-074-p1s18w24</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-074-p1s18w25">
 <src.rf>manual</src.rf>
@@ -5097,7 +5097,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-074-p1s25w3">
 <src.rf>manual</src.rf>

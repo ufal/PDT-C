@@ -590,7 +590,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj1258-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1300,8 +1300,8 @@
 <LM>w#w-wsj1258-001-p1s6W17</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ještě-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1258-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>

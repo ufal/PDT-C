@@ -36,8 +36,8 @@
 <LM>w#w-d1t561-1</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t561-5">
 <w.rf>
@@ -102,8 +102,8 @@
 <LM>w#w-d1t568-4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t568-5">
 <w.rf>
@@ -273,7 +273,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t574-5">
 <w.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-d1t576-7</LM>
 </w.rf>
 <form>sukýnku</form>
-<lemma>sukýnka</lemma>
+<lemma>sukýnka_,s_^(^DD**sukénka)</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m133-d1t576-9">
@@ -508,8 +508,8 @@
 <LM>w#w-d1t587-3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m133-7-11">
 <w.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-d1t587-7</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m133-d1t587-8">
@@ -662,8 +662,8 @@
 <LM>w#w-d1t589-17</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t589-19">
 <w.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-d1t589-18</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m133-d1t589-20">
@@ -728,8 +728,8 @@
 <LM>w#w-d1t593-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t593-4">
 <w.rf>
@@ -910,8 +910,8 @@
 <LM>w#w-d1t610-1</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t610-3">
 <w.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-d1t610-8</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m133-d1t610-9">
@@ -1136,7 +1136,7 @@
 <LM>w#w-d1t616-8</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m133-d1t616-9">
@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>věnovali</form>
 <lemma>věnovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m133-27-31">
 <w.rf>
@@ -2416,8 +2416,8 @@
 <LM>w#w-d1t710-4</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m133-d1t710-5">
 <w.rf>
@@ -2728,8 +2728,8 @@
 <LM>w#w-d1t725-5</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t725-6">
 <w.rf>
@@ -2784,8 +2784,8 @@
 <LM>w#w-d1t727-3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m133-d1t727-4">
 <w.rf>
@@ -2890,8 +2890,8 @@
 <LM>w#w-d1t729-4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m133-139-149">
 <w.rf>
@@ -3276,8 +3276,8 @@
 <LM>w#w-d1t768-7</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t768-9">
 <w.rf>
@@ -3905,7 +3905,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m133-d1t794-4">
 <w.rf>
@@ -4238,8 +4238,8 @@
 <LM>w#w-d1t817-3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m133-d1t817-5">
 <w.rf>

@@ -3782,7 +3782,7 @@
 <LM>w#w-wsj1210-001-p1s13W21</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-wsj1210-001-p1s13W22-Ta">

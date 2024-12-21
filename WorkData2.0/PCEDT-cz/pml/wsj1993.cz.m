@@ -547,8 +547,8 @@
 <LM>w#w-wsj1993-001-p1s2W6</LM>
 </w.rf>
 <form>nepatrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nepatrně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj1993-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

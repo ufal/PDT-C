@@ -85,7 +85,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95040-140-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1844,7 +1844,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95040-140-p4s8w18">
 <src.rf>manual</src.rf>

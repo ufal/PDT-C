@@ -1029,7 +1029,7 @@
 <LM>w#w-ln94207-33-p2s4w14</LM>
 </w.rf>
 <form>vichistické</form>
-<lemma>vichistický</lemma>
+<lemma>vichistický_,s_^(^DD**vichystický)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln94207-33-p2s4w15">
@@ -1157,8 +1157,8 @@
 <LM>w#w-ln94207-33-p2s5w8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-33-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1346,8 +1346,8 @@
 <LM>w#w-ln94207-33-p2s5w29</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-33-p2s5w30">
 <src.rf>manual</src.rf>
@@ -1438,8 +1438,8 @@
 <LM>w#w-ln94207-33-p2s6w7</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-33-p2s6w8">
 <src.rf>manual</src.rf>

@@ -1136,8 +1136,8 @@
 <LM>w#w-lnd94101-101-p1s5w7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-101-p1s5w8">
 <src.rf>manual</src.rf>
@@ -1954,7 +1954,7 @@
 <LM>w#w-lnd94101-101-p1s9w17</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-lnd94101-101-p1s9w18">
@@ -2590,8 +2590,8 @@
 <LM>w#w-lnd94101-101-p1s12w16</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94101-101-p1s12w17">
 <src.rf>manual</src.rf>

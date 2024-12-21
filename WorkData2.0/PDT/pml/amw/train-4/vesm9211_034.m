@@ -19,7 +19,7 @@
 <LM>w#w-vesm9211-034-p1s1Aw1</LM>
 </w.rf>
 <form>Využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9211-034-p1s1Aw2">
@@ -390,7 +390,7 @@
 <LM>w#w-vesm9211-034-p1s1Bw35</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9211-034-p1s1Bw36">
@@ -644,7 +644,7 @@
 <LM>w#w-vesm9211-034-p1s2w13</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-vesm9211-034-p1s2w14">

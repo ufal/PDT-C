@@ -423,8 +423,8 @@
 <LM>w#w-wsj2023-001-p1s1W13</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2023-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3243,7 +3243,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2023-001-p1s15W14-Ta">
 <src.rf>tagger-a</src.rf>

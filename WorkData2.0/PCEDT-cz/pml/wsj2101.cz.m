@@ -1296,7 +1296,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2101-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1720,8 +1720,8 @@
 <LM>w#w-wsj2101-001-p1s6W23</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2101-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3081,7 +3081,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj2101-001-p1s11W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3099,7 +3099,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj2101-001-p1s11W15-Ta">
 <src.rf>tagger-a</src.rf>

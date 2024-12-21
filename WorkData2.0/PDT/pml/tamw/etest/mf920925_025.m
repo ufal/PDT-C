@@ -412,8 +412,8 @@
 <LM>w#w-mf920925-025-p3s2w10</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-025-p3s2w11">
 <src.rf>manual</src.rf>
@@ -958,8 +958,8 @@
 <LM>w#w-mf920925-025-p3s5w1</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-025-p3s5w2">
 <src.rf>manual</src.rf>
@@ -985,8 +985,8 @@
 <LM>w#w-mf920925-025-p3s5w4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-025-p3s5w5">
 <src.rf>manual</src.rf>

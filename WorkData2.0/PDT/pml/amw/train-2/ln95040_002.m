@@ -938,8 +938,8 @@
 <LM>w#w-ln95040-002-p4s1w16</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-002-p4s1w17">
 <src.rf>manual</src.rf>

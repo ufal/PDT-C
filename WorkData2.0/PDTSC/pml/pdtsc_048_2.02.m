@@ -12,8 +12,8 @@
 <LM>w#w-d1t421-1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m116-d1t421-3">
 <w.rf>
@@ -60,8 +60,8 @@
 <LM>w#w-d1t421-8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m116-d1t421-9">
 <w.rf>
@@ -1108,8 +1108,8 @@
 <LM>w#w-d1t519-2</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m116-d1t519-4">
 <w.rf>
@@ -1660,8 +1660,8 @@
 <LM>w#w-d1t550-6</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m116-d1t550-3">
 <w.rf>
@@ -1890,8 +1890,8 @@
 <LM>w#w-d1t571-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m116-d1t571-6">
 <w.rf>
@@ -2082,8 +2082,8 @@
 <LM>w#w-d1t589-6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m116-d1t589-7">
 <w.rf>
@@ -2130,8 +2130,8 @@
 <LM>w#w-d1t589-12</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ještě-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m116-d1t589-13">
 <w.rf>
@@ -2678,8 +2678,8 @@
 <LM>w#w-d1t607-14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m116-d1t607-13">
 <w.rf>
@@ -2858,8 +2858,8 @@
 <LM>w#w-d1t617-11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m116-d1t617-12">
 <w.rf>
@@ -3007,7 +3007,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m116-d1t621-3">
 <w.rf>

@@ -484,8 +484,8 @@
 <LM>w#w-ln95044-089-p2s3w4</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-089-p2s3w5">
 <src.rf>manual</src.rf>
@@ -538,8 +538,8 @@
 <LM>w#w-ln95044-089-p2s3w10</LM>
 </w.rf>
 <form>napadených</form>
-<lemma>napadený</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>napadený-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln95044-089-p2s3w11">
 <src.rf>manual</src.rf>

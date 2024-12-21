@@ -740,8 +740,8 @@
 <LM>w#w-ln94208-68-p3s3w4</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-68-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1040,7 +1040,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-68-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1268,8 +1268,8 @@
 <LM>w#w-ln94208-68-p4s3w9</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94208-68-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1579,7 +1579,7 @@
 </w.rf>
 <form>Ulsteru</form>
 <lemma>Ulster_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln94208-68-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2869,7 +2869,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-68-p6s3w18">
 <src.rf>manual</src.rf>
@@ -3287,7 +3287,7 @@
 </w.rf>
 <form>Ulsteru</form>
 <lemma>Ulster_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln94208-68-p7s1w28">
 <src.rf>manual</src.rf>

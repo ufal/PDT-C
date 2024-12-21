@@ -596,8 +596,8 @@
 <LM>w#w-ln94205-123-p2s3w1</LM>
 </w.rf>
 <form>Alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-123-p2s3w2">
 <src.rf>manual</src.rf>

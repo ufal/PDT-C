@@ -622,7 +622,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-102-p3s2w3">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-102-p3s3w14">
 <src.rf>manual</src.rf>
@@ -922,8 +922,8 @@
 <LM>w#w-ln94209-102-p3s4w6</LM>
 </w.rf>
 <form>aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-102-p3s4w7">
 <src.rf>manual</src.rf>

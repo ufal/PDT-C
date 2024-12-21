@@ -896,7 +896,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-048-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-ln95044-048-p3s3w16</LM>
 </w.rf>
 <form>vypjaté</form>
-<lemma>vypjatý</lemma>
+<lemma>vypjatý_,s_^(^DD**vypnutý)</lemma>
 <tag>AANS4----1A----</tag>
 </m>
 <m id="m-ln95044-048-p3s3w17">
@@ -1249,7 +1249,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-048-p3s3w31">
 <src.rf>manual</src.rf>
@@ -1814,7 +1814,7 @@
 <LM>w#w-ln95044-048-p4s3w11</LM>
 </w.rf>
 <form>mikrofonu</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95044-048-p4s3w12">

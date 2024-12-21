@@ -554,8 +554,8 @@
 <LM>w#w-lnd94103-044-p1s3w54</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-044-p1s3w55">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS3----1A----</tag>
+<tag>PLFS3----------</tag>
 </m>
 <m id="m-lnd94103-044-p1s4w9">
 <src.rf>manual</src.rf>

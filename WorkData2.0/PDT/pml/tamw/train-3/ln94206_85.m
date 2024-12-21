@@ -496,7 +496,7 @@
 <LM>w#w-ln94206-85-p2s2Bw12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-ln94206-85-p2s2Bw13">
@@ -1219,8 +1219,8 @@
 <LM>w#w-ln94206-85-p2s8w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-85-p2s8w8">
 <src.rf>manual</src.rf>
@@ -2447,8 +2447,8 @@
 <LM>w#w-ln94206-85-p2s19w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-85-p2s19w10">
 <src.rf>manual</src.rf>
@@ -2485,8 +2485,8 @@
 <LM>w#w-ln94206-85-p2s20w1</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94206-85-p2s20w2">
 <src.rf>manual</src.rf>
@@ -3058,8 +3058,8 @@
 <LM>w#w-ln94206-85-p2s23w21</LM>
 </w.rf>
 <form>Sociálně</form>
-<lemma>sociálně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>sociálně-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-ln94206-85-p2s23w22">
 <src.rf>manual</src.rf>
@@ -3651,8 +3651,8 @@
 <LM>w#w-ln94206-85-p2s27w10</LM>
 </w.rf>
 <form>Sociálně</form>
-<lemma>sociálně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>sociálně-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-ln94206-85-p2s27w11">
 <src.rf>manual</src.rf>
@@ -3825,7 +3825,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-85-p2s28w6">
 <src.rf>manual</src.rf>

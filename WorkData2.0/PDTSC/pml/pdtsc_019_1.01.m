@@ -292,8 +292,8 @@
 <LM>w#w-d1t410-4</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t410-5">
 <w.rf>
@@ -976,8 +976,8 @@
 <LM>w#w-d1t458-2</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t466-1">
 <w.rf>
@@ -1390,8 +1390,8 @@
 <LM>w#w-d1t506-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t506-3">
 <w.rf>
@@ -1753,8 +1753,8 @@
 <LM>w#w-d1t545-9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t545-12">
 <w.rf>
@@ -1853,7 +1853,7 @@
 <LM>w#w-d1t566-2</LM>
 </w.rf>
 <form>Doubravce</form>
-<lemma>Doubravka_;G</lemma>
+<lemma>Doubravka_;G_;Y</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m052-d1e555-x2-93">
@@ -2037,8 +2037,8 @@
 <LM>w#w-d1t604-3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m052-d1t604-4">
 <w.rf>
@@ -2821,7 +2821,7 @@
 <LM>w#w-d1t688-1</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-2</lemma>
+<lemma>zvlášť-2_,s_^(^DD**zvláště-2)</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m052-d1t688-3">
@@ -2959,8 +2959,8 @@
 <LM>w#w-d1t692-6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t692-5">
 <w.rf>

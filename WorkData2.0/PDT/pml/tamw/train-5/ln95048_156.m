@@ -570,8 +570,8 @@
 <LM>w#w-ln95048-156-p3s2w11</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-156-p3s2w12">
 <src.rf>manual</src.rf>

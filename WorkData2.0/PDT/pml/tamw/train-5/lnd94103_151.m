@@ -1292,8 +1292,8 @@
 <LM>w#w-lnd94103-151-p1s11w7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-151-p1s11w8">
 <src.rf>manual</src.rf>

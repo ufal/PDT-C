@@ -37,8 +37,8 @@
 <LM>w#w-ln95044-059-p1s1w3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-059-p1s1w4">
 <src.rf>manual</src.rf>
@@ -266,8 +266,8 @@
 <LM>w#w-ln95044-059-p2s2w4</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-059-p2s2w5">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-059-p4s1w17">
 <src.rf>manual</src.rf>
@@ -2214,8 +2214,8 @@
 <LM>w#w-ln95044-059-p6s1w10</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95044-059-p6s1w11">
 <src.rf>manual</src.rf>

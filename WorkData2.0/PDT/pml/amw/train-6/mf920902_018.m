@@ -351,8 +351,8 @@
 <LM>w#w-mf920902-018-p2s2w8</LM>
 </w.rf>
 <form>Pokorný</form>
-<lemma>pokorný</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>Pokorný_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-018-p2s2w9">
 <src.rf>manual</src.rf>

@@ -131,8 +131,8 @@
 <LM>w#w-ln94206-104-p2s1w1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-104-p2s1w2">
 <src.rf>manual</src.rf>
@@ -731,8 +731,8 @@
 <LM>w#w-ln94206-104-p2s4w11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-104-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1444,7 +1444,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-104-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1489,7 +1489,7 @@
 </w.rf>
 <form>kapitalismu</form>
 <lemma>kapitalismus_,s_^(^DD**kapitalizmus)</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-104-p3s4w22">
 <src.rf>manual</src.rf>

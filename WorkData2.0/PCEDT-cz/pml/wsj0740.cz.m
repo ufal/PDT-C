@@ -489,7 +489,7 @@
 </w.rf>
 <form>Doveru</form>
 <lemma>Dover_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0740-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>

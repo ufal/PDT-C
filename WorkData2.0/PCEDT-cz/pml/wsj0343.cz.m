@@ -533,8 +533,8 @@
 <LM>w#w-wsj0343-001-p1s2W2</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0343-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1620,7 +1620,7 @@
 <LM>w#w-wsj0343-001-p1s5W21</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj0343-001-p1s5W22-Ta">
@@ -1683,8 +1683,8 @@
 <LM>w#w-wsj0343-001-p1s5W28</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0343-001-p1s5W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3330,7 +3330,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0343-001-p1s12W22-Ta">
 <src.rf>tagger-a</src.rf>

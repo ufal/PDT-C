@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_030.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -176,7 +176,7 @@ wrongTR chybna segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>24</deepord>
-<val_frame.rf>v#v-w7420f3</val_frame.rf>
+<val_frame.rf>v#v41nccI</val_frame.rf>
 <children>
 <LM id="t-mf920922-030-p1s1Bw1">
 <a>
@@ -267,7 +267,7 @@ wrongTR chybna segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w4148f1</val_frame.rf>
+<val_frame.rf>v#v41gtsA</val_frame.rf>
 <children>
 <LM id="t-mf920922-030-p1s1Bw8">
 <a>
@@ -302,6 +302,7 @@ wrongTR chybna segmentace</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>APP</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -406,7 +407,7 @@ wrongTR chybna segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w597f1</val_frame.rf>
+<val_frame.rf>v#v41zsA</val_frame.rf>
 <children>
 <LM id="t-mf920922-030-p1s1Ba1">
 <nodetype>complex</nodetype>
@@ -726,7 +727,7 @@ wrongTR chybna segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w4766f1</val_frame.rf>
+<val_frame.rf>v#v41hylC</val_frame.rf>
 <children>
 <LM id="t-mf920922-030-p1s2w10">
 <a>
@@ -796,7 +797,7 @@ wrongTR chybna segmentace</discourse_comment>
 <lex.rf>a#a-mf920922-030-p1s2w6</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Dash</t_lemma>
+<t_lemma>-</t_lemma>
 <functor>FPHR</functor>
 <deepord>7</deepord>
 </LM>
@@ -1000,6 +1001,7 @@ wrongTR chybna segmentace</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>hrát</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>hrát</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1012,7 +1014,7 @@ wrongTR chybna segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w1122f4</val_frame.rf>
+<val_frame.rf>v#v41aypE</val_frame.rf>
 <children>
 <LM id="t-mf920922-030-p1s3w17">
 <a>
@@ -1368,7 +1370,7 @@ wrongTR chybna segmentace</discourse_comment>
 <lex.rf>a#a-mf920922-030-p1s3w27</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Dash</t_lemma>
+<t_lemma>-</t_lemma>
 <functor>FPHR</functor>
 <deepord>22</deepord>
 </LM>
@@ -1528,9 +1530,12 @@ wrongTR chybna segmentace</discourse_comment>
 <LM id="t-mf920922-030-p1s4Bw5">
 <a>
 <lex.rf>a#a-mf920922-030-p1s4Bw5</lex.rf>
+<aux.rf>
+<LM>a#a-mf920922-030-p1s4Bw4</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>představovat</t_lemma>
+<t_lemma>představovat_se</t_lemma>
 <functor>PRED</functor>
 <sentmod>enunc</sentmod>
 <gram>
@@ -1543,8 +1548,8 @@ wrongTR chybna segmentace</discourse_comment>
 <factmod>asserted</factmod>
 </gram>
 <tfa>f</tfa>
-<deepord>5</deepord>
-<val_frame.rf>v#v-w4766f2</val_frame.rf>
+<deepord>4</deepord>
+<val_frame.rf>v#v41hymA</val_frame.rf>
 <children>
 <LM id="t-mf920922-030-p1s4Bw3">
 <a>
@@ -1555,7 +1560,7 @@ wrongTR chybna segmentace</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>název</t_lemma>
-<functor>MANN</functor>
+<functor>MEANS</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>inan</gender>
@@ -1578,6 +1583,7 @@ wrongTR chybna segmentace</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -1590,29 +1596,9 @@ wrongTR chybna segmentace</discourse_comment>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Gen</t_lemma>
-<functor>ADDR</functor>
+<functor>PAT</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
-</LM>
-<LM id="t-mf920922-030-p1s4Bw4">
-<a>
-<lex.rf>a#a-mf920922-030-p1s4Bw4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>inher</gender>
-<number>inher</number>
-<person>inher</person>
-<politeness>inher</politeness>
-</gram>
-<tfa>t</tfa>
-<deepord>4</deepord>
-<coref_gram.rf>
-<LM>t-mf920922-030-p1s4Bw10</LM>
-</coref_gram.rf>
 </LM>
 <LM id="t-mf920922-030-p1s4Bw8">
 <a>
@@ -1632,7 +1618,7 @@ wrongTR chybna segmentace</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>6</deepord>
+<deepord>5</deepord>
 <children>
 <LM id="t-mf920922-030-p1s4Bw7">
 <a>
@@ -1647,7 +1633,7 @@ wrongTR chybna segmentace</discourse_comment>
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>7</deepord>
+<deepord>6</deepord>
 </LM>
 </children>
 </LM>
@@ -1665,7 +1651,7 @@ wrongTR chybna segmentace</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>8</deepord>
+<deepord>7</deepord>
 <children>
 <LM id="t-mf920922-030-p1s4Bw9">
 <a>
@@ -1680,7 +1666,7 @@ wrongTR chybna segmentace</discourse_comment>
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>9</deepord>
+<deepord>8</deepord>
 <bridging>
 <LM>
 <target_node.rf>t-mf920922-030-p1s4Aw1</target_node.rf>
@@ -1695,6 +1681,7 @@ wrongTR chybna segmentace</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -1705,8 +1692,8 @@ wrongTR chybna segmentace</discourse_comment>
 <factmod>asserted</factmod>
 </gram>
 <tfa>f</tfa>
-<deepord>13</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<deepord>12</deepord>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920922-030-p1s4Bw12">
 <a>
@@ -1715,6 +1702,7 @@ wrongTR chybna segmentace</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -1723,7 +1711,7 @@ wrongTR chybna segmentace</discourse_comment>
 <person>inher</person>
 </gram>
 <tfa>t</tfa>
-<deepord>10</deepord>
+<deepord>9</deepord>
 <coref_gram.rf>
 <LM>t-mf920922-030-p1s4Bw10</LM>
 </coref_gram.rf>
@@ -1746,7 +1734,7 @@ wrongTR chybna segmentace</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>t</tfa>
-<deepord>12</deepord>
+<deepord>11</deepord>
 <coref_text>
 <LM>
 <target_node.rf>t-mf920922-030-p1s4Aw4</target_node.rf>
@@ -1769,7 +1757,7 @@ wrongTR chybna segmentace</discourse_comment>
 <politeness>inher</politeness>
 </gram>
 <tfa>t</tfa>
-<deepord>11</deepord>
+<deepord>10</deepord>
 <coref_gram.rf>
 <LM>t-mf920922-030-p1s4Bw12</LM>
 </coref_gram.rf>
@@ -1784,7 +1772,7 @@ wrongTR chybna segmentace</discourse_comment>
 <t_lemma>přinejmenším</t_lemma>
 <functor>RHEM</functor>
 <tfa>f</tfa>
-<deepord>14</deepord>
+<deepord>13</deepord>
 </LM>
 <LM id="t-mf920922-030-p1s4Bw19">
 <a>
@@ -1800,7 +1788,7 @@ wrongTR chybna segmentace</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>15</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="t-mf920922-030-p1s4Bw18">
 <a>
@@ -1815,7 +1803,7 @@ wrongTR chybna segmentace</discourse_comment>
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>16</deepord>
+<deepord>15</deepord>
 </LM>
 </children>
 </LM>
@@ -1859,7 +1847,7 @@ wrongTR chybna segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w6923f1</val_frame.rf>
+<val_frame.rf>v#v41mdbC</val_frame.rf>
 <children>
 <LM id="t-mf920922-030-p1s5w1">
 <a>

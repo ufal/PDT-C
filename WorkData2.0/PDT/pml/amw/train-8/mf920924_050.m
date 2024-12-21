@@ -210,8 +210,8 @@
 <LM>w#w-mf920924-050-p2s1w13</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920924-050-p2s1w14">
 <src.rf>manual</src.rf>
@@ -1158,8 +1158,8 @@
 <LM>w#w-mf920924-050-p2s7w1</LM>
 </w.rf>
 <form>Včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920924-050-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1431,7 +1431,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-050-p2s8w17">
 <src.rf>manual</src.rf>
@@ -3282,7 +3282,7 @@
 </w.rf>
 <form>zachováme</form>
 <lemma>zachovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAP--</tag>
 </m>
 <m id="m-mf920924-050-p2s18w3">
 <src.rf>manual</src.rf>
@@ -3318,7 +3318,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-050-p2s18w7">
 <src.rf>manual</src.rf>
@@ -5070,7 +5070,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-050-p2s28w7">
 <src.rf>manual</src.rf>

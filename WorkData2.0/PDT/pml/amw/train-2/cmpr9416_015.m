@@ -38,7 +38,7 @@
 </w.rf>
 <form>dolary</form>
 <lemma>dolar</lemma>
-<tag>NNIP7-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-015-p2s1">
@@ -3217,7 +3217,7 @@
 </w.rf>
 <form>dolary</form>
 <lemma>dolar</lemma>
-<tag>NNIP7-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9416-015-p10s1w14">
 <src.rf>manual</src.rf>
@@ -4677,8 +4677,8 @@
 <LM>w#w-cmpr9416-015-p20s1w4</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-015-p20s1w5">
 <src.rf>manual</src.rf>
@@ -5308,8 +5308,8 @@
 <LM>w#w-cmpr9416-015-p21s1w2</LM>
 </w.rf>
 <form>Přeučil</form>
-<lemma>přeučit</lemma>
-<tag>VpYS----R-AAP--</tag>
+<lemma>Přeučil_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-015-p22s1">

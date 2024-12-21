@@ -205,8 +205,8 @@
 <LM>w#w-wsj0176-001-p1s0W22</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0176-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>

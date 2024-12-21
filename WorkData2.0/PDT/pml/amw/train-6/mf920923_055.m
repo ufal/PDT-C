@@ -679,8 +679,8 @@
 <LM>w#w-mf920923-055-p8s1w14</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920923-055-p8s1w15">
 <src.rf>manual</src.rf>
@@ -5972,7 +5972,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-055-p32s4w7">
 <src.rf>manual</src.rf>
@@ -6154,7 +6154,7 @@
 </w.rf>
 <form>uspala</form>
 <lemma>uspat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-055-p32s5w5">
 <src.rf>manual</src.rf>
@@ -6400,7 +6400,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-055-p32s6w16">
 <src.rf>manual</src.rf>

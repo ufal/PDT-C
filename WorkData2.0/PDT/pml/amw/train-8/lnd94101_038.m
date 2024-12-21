@@ -172,7 +172,7 @@
 <LM>w#w-lnd94101-038-p1s1w18</LM>
 </w.rf>
 <form>Tanzanie</form>
-<lemma>Tanzanie_;G</lemma>
+<lemma>Tanzanie_;G_,s_^(^DD**Tanzánie)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-038-p1s1w19">

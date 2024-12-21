@@ -1811,8 +1811,8 @@
 <LM>w#w-cmpr9406-040-p8s4w1</LM>
 </w.rf>
 <form>Začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-040-p8s4w2">
 <src.rf>manual</src.rf>
@@ -2409,7 +2409,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-040-p11s2w3">
 <src.rf>manual</src.rf>

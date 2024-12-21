@@ -709,7 +709,7 @@
 <LM>w#w-vesm9212-010-p2s3w10</LM>
 </w.rf>
 <form>vleklou</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-vesm9212-010-p2s3w11">
@@ -835,8 +835,8 @@
 <LM>w#w-vesm9212-010-p2s3w24</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9212-010-p2s3w25">
 <src.rf>manual</src.rf>
@@ -889,8 +889,8 @@
 <LM>w#w-vesm9212-010-p2s3w30</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9212-010-p2s3w31">
 <src.rf>manual</src.rf>
@@ -2509,7 +2509,7 @@
 <LM>w#w-vesm9212-010-p4s5w8</LM>
 </w.rf>
 <form>depresívní</form>
-<lemma>depresívní</lemma>
+<lemma>depresívní_,s_^(^DD**depresivní)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-vesm9212-010-p4s5w9">

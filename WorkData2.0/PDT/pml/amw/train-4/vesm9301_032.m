@@ -598,8 +598,8 @@
 <LM>w#w-vesm9301-032-p3s5w29</LM>
 </w.rf>
 <form>chýši</form>
-<lemma>chýše</lemma>
-<tag>NNFS4-----A----</tag>
+<lemma>chýš</lemma>
+<tag>NNFS4-----A---1</tag>
 </m>
 <m id="m-vesm9301-032-p3s5w30">
 <src.rf>manual</src.rf>
@@ -1777,8 +1777,8 @@
 <LM>w#w-vesm9301-032-p5s1w12</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>s-1</lemma>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-vesm9301-032-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2170,7 +2170,7 @@
 <LM>w#w-vesm9301-032-p5s4w10</LM>
 </w.rf>
 <form>slouhovské</form>
-<lemma>slouhovský</lemma>
+<lemma>slouhovský_,s_^(^DD**sluhovský)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-vesm9301-032-p5s4w11">
@@ -3035,7 +3035,7 @@
 <LM>w#w-vesm9301-032-p6s1w10</LM>
 </w.rf>
 <form>začouzenými</form>
-<lemma>začouzený</lemma>
+<lemma>začouzený_,s_^(^DD**začouděný)</lemma>
 <tag>AAFP7----1A----</tag>
 </m>
 <m id="m-vesm9301-032-p6s1w11">
@@ -3575,7 +3575,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9301-032-p7s1w6">
 <src.rf>manual</src.rf>
@@ -5006,7 +5006,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9301-032-p7s9w6">
 <src.rf>manual</src.rf>

@@ -445,8 +445,9 @@
 </LM>
 <LM id="a-ln94204-152-p1s3w11">
 <m.rf>m#m-ln94204-152-p1s3w11</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>11</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -454,12 +455,13 @@
 <m.rf>m#m-ln94204-152-p1s3w12</m.rf>
 <afun>AuxP</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94204-152-p1s3w15">
 <m.rf>m#m-ln94204-152-p1s3w15</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
 <children>
@@ -497,21 +499,19 @@
 <children>
 <LM id="a-ln94204-152-p1s4w2">
 <m.rf>m#m-ln94204-152-p1s4w2</m.rf>
-<afun>Coord</afun>
+<afun>Pred</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94204-152-p1s4w1">
 <m.rf>m#m-ln94204-152-p1s4w1</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Pnom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94204-152-p1s4w3">
 <m.rf>m#m-ln94204-152-p1s4w3</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Sb</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>

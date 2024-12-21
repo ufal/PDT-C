@@ -858,8 +858,8 @@
 <LM>w#w-ln95043-042-p4s1w13</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-042-p4s1w14">
 <src.rf>manual</src.rf>

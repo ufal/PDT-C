@@ -542,8 +542,8 @@
 <LM>w#w-wsj0427-001-p1s2W1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0427-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -950,7 +950,6 @@
 <w.rf>
 <LM>w#w-wsj0427-001-p1s4W8</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>17.00</form>
 <lemma>17.00</lemma>
 <tag>C=-------------</tag>
@@ -1753,7 +1752,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0427-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>

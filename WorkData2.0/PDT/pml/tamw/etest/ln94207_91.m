@@ -646,7 +646,7 @@
 <LM>w#w-ln94207-91-p1s4w3</LM>
 </w.rf>
 <form>vleklého</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-ln94207-91-p1s4w4">

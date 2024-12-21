@@ -223,8 +223,8 @@
 <LM>w#w-wsj0544-001-p1s0W24</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj0544-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -632,9 +632,10 @@
 <w.rf>
 <LM>w#w-wsj0544-001-p1s2W11</LM>
 </w.rf>
-<form>společnostech</form>
+<form_change>spell</form_change>
+<form>společnost</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFP6-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0544-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>

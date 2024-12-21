@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_112.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -37,8 +37,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w6551f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41lljA</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p1s1w1">
 <a>
@@ -127,8 +127,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w839f10</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41alcR</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p2s1Aw1">
 <a>
@@ -310,7 +310,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w8687f1</val_frame.rf>
+<val_frame.rf>v#v41pnkA</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p2s1Cw3">
 <a>
@@ -528,7 +528,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w3917f1</val_frame.rf>
+<val_frame.rf>v#v41gjgA</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p2s1Ca2">
 <nodetype>qcomplex</nodetype>
@@ -612,7 +612,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w3328f2</val_frame.rf>
+<val_frame.rf>v#v41fgeD</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p2s2w2">
 <a>
@@ -621,6 +621,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -870,7 +871,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w6551f1</val_frame.rf>
+<val_frame.rf>v#v41lljA</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p3s1w3">
 <a>
@@ -1053,13 +1054,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-112-p3s1w16</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6551f1</val_frame.rf>
+<val_frame.rf>v#v41lljA</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p3s1w19">
 <a>
@@ -1305,6 +1307,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -1318,7 +1321,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p4s1w4">
 <a>
@@ -1473,13 +1476,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-112-p4s1w17</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w714f1</val_frame.rf>
+<val_frame.rf>v#v41afbA</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p4s1w20">
 <a>
@@ -1626,20 +1630,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln95045-112-p5s1w44</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>confr</discourse_type>
-<src>pdit10</src>
-<a-connectors.rf>
-<LM>a#a-ln95045-112-p5s1w24</LM>
-</a-connectors.rf>
-</LM>
-</discourse>
-<val_frame.rf>v#v-w714f1</val_frame.rf>
+<val_frame.rf>v#v41afbA</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p5s1w3">
 <a>
@@ -1937,7 +1928,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w714f1</val_frame.rf>
+<val_frame.rf>v#v41afbA</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p5s1a1">
 <nodetype>complex</nodetype>
@@ -2001,7 +1992,21 @@
 <nodetype>coap</nodetype>
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
-<deepord>38</deepord>
+<deepord>39</deepord>
+<discourse>
+<LM>
+<target_node.rf>t-ln95045-112-p5s1w7</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>confr</discourse_type>
+<sense_PDTB3>Comparison.Contrast</sense_PDTB3>
+<src>pdit10</src>
+<a-connectors.rf>
+<LM>a#a-ln95045-112-p5s1w24</LM>
+</a-connectors.rf>
+</LM>
+</discourse>
 <children>
 <LM id="t-ln95045-112-p5s1w26">
 <a>
@@ -2101,6 +2106,16 @@
 </LM>
 </children>
 </LM>
+<LM id="t-ln95045-112-p5s1w36">
+<a>
+<lex.rf>a#a-ln95045-112-p5s1w36</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Comma</t_lemma>
+<functor>APPS</functor>
+<is_member>1</is_member>
+<deepord>29</deepord>
+<children>
 <LM id="t-ln95045-112-p5s1w31">
 <a>
 <lex.rf>a#a-ln95045-112-p5s1w31</lex.rf>
@@ -2123,16 +2138,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>26</deepord>
-<val_frame.rf>v#v-w1396f1</val_frame.rf>
-<children>
-<LM id="t-ln95045-112-p5s1w36">
-<a>
-<lex.rf>a#a-ln95045-112-p5s1w36</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>APPS</functor>
-<deepord>30</deepord>
+<val_frame.rf>v#v41blkA</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p5s1w34">
 <a>
@@ -2144,7 +2150,6 @@
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
 <functor>PAT</functor>
-<is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
 <gender>inan</gender>
@@ -2182,10 +2187,37 @@
 <numertype>basic</numertype>
 </gram>
 <tfa>f</tfa>
-<deepord>29</deepord>
+<deepord>30</deepord>
 </LM>
 </children>
 </LM>
+</children>
+</LM>
+<LM id="t-ln95045-112-p5s1a9">
+<a>
+<lex.rf>a#a-ln95045-112-p5s1w31</lex.rf>
+<aux.rf>
+<LM>a#a-ln95045-112-p5s1w24</LM>
+</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>klesnout</t_lemma>
+<functor>CONTRD</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>v</sempos>
+<deontmod>decl</deontmod>
+<tense>ant</tense>
+<aspect>cpl</aspect>
+<iterativeness>it0</iterativeness>
+<diatgram>act</diatgram>
+<factmod>asserted</factmod>
+</gram>
+<tfa>t</tfa>
+<deepord>31</deepord>
+<val_frame.rf>v#v41blkA</val_frame.rf>
+<children>
 <LM id="t-ln95045-112-p5s1w39">
 <a>
 <lex.rf>a#a-ln95045-112-p5s1w39</lex.rf>
@@ -2196,7 +2228,6 @@
 <nodetype>complex</nodetype>
 <t_lemma>procento</t_lemma>
 <functor>DIFF</functor>
-<is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
 <gender>neut</gender>
@@ -2204,7 +2235,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>t</tfa>
-<deepord>31</deepord>
+<deepord>32</deepord>
 <children>
 <LM id="t-ln95045-112-p5s1w38">
 <a>
@@ -2218,7 +2249,9 @@
 <numertype>basic</numertype>
 </gram>
 <tfa>f</tfa>
-<deepord>32</deepord>
+<deepord>33</deepord>
+</LM>
+</children>
 </LM>
 <LM id="t-ln95045-112-p5s1w42">
 <a>
@@ -2238,8 +2271,8 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>36</deepord>
-<val_frame.rf>v#v-w3917f1</val_frame.rf>
+<deepord>37</deepord>
+<val_frame.rf>v#v41gjgA</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p5s1a7">
 <nodetype>qcomplex</nodetype>
@@ -2247,7 +2280,7 @@
 <t_lemma>#Gen</t_lemma>
 <functor>ACT</functor>
 <tfa>t</tfa>
-<deepord>33</deepord>
+<deepord>34</deepord>
 </LM>
 <LM id="t-ln95045-112-p5s1a6">
 <nodetype>qcomplex</nodetype>
@@ -2255,7 +2288,7 @@
 <t_lemma>#Gen</t_lemma>
 <functor>PAT</functor>
 <tfa>t</tfa>
-<deepord>34</deepord>
+<deepord>35</deepord>
 </LM>
 <LM id="t-ln95045-112-p5s1a5">
 <nodetype>qcomplex</nodetype>
@@ -2263,7 +2296,7 @@
 <t_lemma>#Gen</t_lemma>
 <functor>EFF</functor>
 <tfa>t</tfa>
-<deepord>35</deepord>
+<deepord>36</deepord>
 </LM>
 <LM id="t-ln95045-112-p5s1w41">
 <a>
@@ -2278,9 +2311,7 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>37</deepord>
-</LM>
-</children>
+<deepord>38</deepord>
 </LM>
 </children>
 </LM>
@@ -2298,6 +2329,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>CONTRD</functor>
+<proto_lemma>být</proto_lemma>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -2309,21 +2341,23 @@
 <factmod>asserted</factmod>
 </gram>
 <tfa>f</tfa>
-<deepord>39</deepord>
+<deepord>40</deepord>
 <discourse>
 <LM>
-<target_node.rf>t-ln95045-112-p5s1w31</target_node.rf>
+<target_node.rf>t-ln95045-112-p5s1w36</target_node.rf>
 <type>discourse</type>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
+<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-112-p5s1w44</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p5s1w49">
 <a>
@@ -2338,7 +2372,7 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>42</deepord>
+<deepord>43</deepord>
 <children>
 <LM id="t-ln95045-112-p5s1w48">
 <a>
@@ -2357,7 +2391,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>t</tfa>
-<deepord>40</deepord>
+<deepord>41</deepord>
 <children>
 <LM id="t-ln95045-112-p5s1w47">
 <a>
@@ -2371,7 +2405,7 @@
 <numertype>basic</numertype>
 </gram>
 <tfa>f</tfa>
-<deepord>41</deepord>
+<deepord>42</deepord>
 </LM>
 </children>
 </LM>
@@ -2386,6 +2420,7 @@
 <is_generated>1</is_generated>
 <t_lemma>být</t_lemma>
 <functor>CPR</functor>
+<proto_lemma>být</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>v</sempos>
@@ -2397,8 +2432,8 @@
 <factmod>asserted</factmod>
 </gram>
 <tfa>t</tfa>
-<deepord>45</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<deepord>46</deepord>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95045-112-p5s1a3">
 <nodetype>complex</nodetype>
@@ -2413,7 +2448,7 @@
 <politeness>basic</politeness>
 </gram>
 <tfa>t</tfa>
-<deepord>43</deepord>
+<deepord>44</deepord>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95045-112-p5s1w26</target_node.rf>
@@ -2435,7 +2470,7 @@
 <negation>neg0</negation>
 </gram>
 <tfa>t</tfa>
-<deepord>44</deepord>
+<deepord>45</deepord>
 </LM>
 <LM id="t-ln95045-112-p5s1w52">
 <a>
@@ -2455,7 +2490,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>46</deepord>
+<deepord>47</deepord>
 <children>
 <LM id="t-ln95045-112-p5s1w53">
 <a>
@@ -2471,7 +2506,7 @@
 <numertype>basic</numertype>
 </gram>
 <tfa>f</tfa>
-<deepord>47</deepord>
+<deepord>48</deepord>
 </LM>
 </children>
 </LM>

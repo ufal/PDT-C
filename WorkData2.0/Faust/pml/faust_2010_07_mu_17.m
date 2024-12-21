@@ -862,8 +862,8 @@
 <LM>w#w-mu_17-SCzechM-p1763-s1-w3</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="mu_17-SCzechM-p1763-s1-w4">
 <w.rf>
@@ -1444,8 +1444,8 @@
 <LM>w#w-mu_17-SCzechM-p1769-s1-w33</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="mu_17-SCzechM-p1769-s1-w34">
 <w.rf>
@@ -1553,8 +1553,8 @@
 <LM>w#w-mu_17-SCzechM-p1771-s1-w5</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_17-SCzechM-p1771-s1-w6">
 <w.rf>
@@ -2161,7 +2161,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_17-SCzechM-p1779-s1-w11">
 <w.rf>
@@ -2592,8 +2592,8 @@
 <LM>w#w-mu_17-SCzechM-p1786-s1-w25</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_17-SCzechM-p1786-s1-w26">
 <w.rf>
@@ -3457,8 +3457,8 @@
 <LM>w#w-mu_17-SCzechM-p1806-s1-w1</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 </s>
 <s id="s-mu_17-SCzechM-p1808-s1-w10">
@@ -4121,8 +4121,8 @@
 <LM>w#w-mu_17-SCzechM-p1815-s1-w13</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_17-SCzechM-p1815-s1-w14">
 <w.rf>
@@ -4259,8 +4259,8 @@
 <LM>w#w-mu_17-SCzechM-p1816-s1-w5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_17-SCzechM-p1816-s1-w6">
 <w.rf>
@@ -4756,7 +4756,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="mu_17-SCzechM-p1840-s1-w2">
 <w.rf>

@@ -94,7 +94,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95041-075-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1102,8 +1102,8 @@
 <LM>w#w-ln95041-075-p4s3w9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95041-075-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1985,8 +1985,8 @@
 <LM>w#w-ln95041-075-p4s8w19</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-075-p4s8w20">
 <src.rf>manual</src.rf>
@@ -2012,7 +2012,7 @@
 <LM>w#w-ln95041-075-p4s8w22</LM>
 </w.rf>
 <form>napjaty</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>ACTP------A----</tag>
 </m>
 <m id="m-ln95041-075-p4s8w23">

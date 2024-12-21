@@ -960,8 +960,8 @@
 <LM>w#w-ln94202-99-p3s2w1</LM>
 </w.rf>
 <form>Vždyť</form>
-<lemma>vždyť-1</lemma>
-<tag>J^-------------</tag>
+<lemma>vždyť-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-99-p3s2w2">
 <src.rf>manual</src.rf>
@@ -969,8 +969,8 @@
 <LM>w#w-ln94202-99-p3s2w2</LM>
 </w.rf>
 <form>sotva</form>
-<lemma>sotva-1</lemma>
-<tag>Db-------------</tag>
+<lemma>sotva-3</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-99-p3s2w3">
 <src.rf>manual</src.rf>

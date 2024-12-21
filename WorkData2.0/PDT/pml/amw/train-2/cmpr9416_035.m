@@ -653,7 +653,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-035-p5s1w11">
 <src.rf>manual</src.rf>
@@ -3777,7 +3777,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-035-p15s3w10">
 <src.rf>manual</src.rf>
@@ -4314,7 +4314,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-035-p17s2w27">
 <src.rf>manual</src.rf>
@@ -4342,7 +4342,7 @@
 <form_change>spell</form_change>
 <form>faksimile</form>
 <lemma>faksimile</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p17s2w30">
 <src.rf>manual</src.rf>

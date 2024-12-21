@@ -1241,7 +1241,7 @@
 <LM>w#w-mf920924-104-p2s7w1</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf920924-104-p2s7w2">

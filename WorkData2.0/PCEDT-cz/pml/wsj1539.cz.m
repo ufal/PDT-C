@@ -934,7 +934,7 @@
 <LM>w#w-wsj1539-001-p1s4W12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj1539-001-p1s4W13-Ta">

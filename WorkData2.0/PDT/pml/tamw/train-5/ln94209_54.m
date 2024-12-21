@@ -46,8 +46,8 @@
 <LM>w#w-ln94209-54-p1s1w4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-54-p1s1w5">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln94209-54-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-54-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1151,8 +1151,8 @@
 <LM>w#w-ln94209-54-p4s2w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-54-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1514,7 +1514,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-54-p4s3w20">
 <src.rf>manual</src.rf>
@@ -2149,8 +2149,8 @@
 <LM>w#w-ln94209-54-p5s2w9</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-54-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2695,8 +2695,8 @@
 <LM>w#w-ln94209-54-p6s3w7</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-54-p6s3w8">
 <src.rf>manual</src.rf>
@@ -3448,8 +3448,8 @@
 <LM>w#w-ln94209-54-p6s6w12</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-54-p6s6w13">
 <src.rf>manual</src.rf>
@@ -3614,8 +3614,8 @@
 <LM>w#w-ln94209-54-p6s8w1</LM>
 </w.rf>
 <form>Rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-54-p6s8w2">
 <src.rf>manual</src.rf>
@@ -3753,8 +3753,8 @@
 <LM>w#w-ln94209-54-p6s10w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94209-54-p6s10w4">
 <src.rf>manual</src.rf>

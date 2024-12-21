@@ -568,7 +568,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-112-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1075,8 +1075,8 @@
 <LM>w#w-ln95040-112-p3s3w26</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-112-p3s3w27">
 <src.rf>manual</src.rf>

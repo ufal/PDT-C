@@ -100,8 +100,8 @@
 <LM>w#w-jh_01-SCzechM-p0007-s1-w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 </s>
 <s id="s-jh_01-SCzechM-p0008-s1-w2">
@@ -905,7 +905,7 @@
 </w.rf>
 <form>zvýšení</form>
 <lemma>zvýšení_^(*3it)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="jh_01-SCzechM-p0023-s1-w8">
 <w.rf>
@@ -1085,7 +1085,7 @@
 </w.rf>
 <form>oblasti</form>
 <lemma>oblast</lemma>
-<tag>NNFS6-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="jh_01-SCzechM-p0029-s1-w6">
 <w.rf>
@@ -1165,7 +1165,7 @@
 </w.rf>
 <form>KOMPETENCE</form>
 <lemma>kompetence</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 </s>
 <s id="s-jh_01-SCzechM-p0032-s1-w2">
@@ -1598,7 +1598,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="jh_01-SCzechM-p0047-s1-w3">
 <w.rf>
@@ -3313,8 +3313,8 @@
 <LM>w#w-jh_01-SCzechM-p0092-s1-w15</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_01-SCzechM-p0092-s1-w16">
 <w.rf>
@@ -3377,8 +3377,8 @@
 <LM>w#w-jh_01-SCzechM-p0092-s1-w23</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_01-SCzechM-p0092-s1-w24">
 <w.rf>
@@ -3425,8 +3425,8 @@
 <LM>w#w-jh_01-SCzechM-p0092-s1-w29</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_01-SCzechM-p0092-s1-w30">
 <w.rf>
@@ -3853,7 +3853,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="jh_01-SCzechM-p0094-s1-w40">
 <w.rf>

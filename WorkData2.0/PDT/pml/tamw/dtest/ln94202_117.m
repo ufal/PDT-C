@@ -475,8 +475,8 @@
 <LM>w#w-ln94202-117-p2s2w19</LM>
 </w.rf>
 <form>klidně</form>
-<lemma>klidně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>klidně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-117-p2s2w20">
 <src.rf>manual</src.rf>

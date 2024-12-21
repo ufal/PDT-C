@@ -297,8 +297,8 @@
 <LM>w#w-ln95047-092-p2s2w1</LM>
 </w.rf>
 <form>Patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-092-p2s2w2">
 <src.rf>manual</src.rf>

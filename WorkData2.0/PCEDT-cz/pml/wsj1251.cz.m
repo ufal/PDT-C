@@ -1321,8 +1321,8 @@
 <LM>w#w-wsj1251-001-p1s4W21</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1251-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2093,8 +2093,8 @@
 <LM>w#w-wsj1251-001-p1s7W1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1251-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2139,7 +2139,7 @@
 </w.rf>
 <form>zachovaly</form>
 <lemma>zachovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1251-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>

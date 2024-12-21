@@ -95,8 +95,8 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1t842-23">
 <w.rf>
@@ -201,8 +201,8 @@
 <LM>w#w-d1t846-10</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1t846-11">
 <w.rf>
@@ -479,8 +479,8 @@
 <LM>w#w-d1t855-6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m104-d1t855-8">
 <w.rf>
@@ -1079,8 +1079,8 @@
 <LM>w#w-d1t889-2</LM>
 </w.rf>
 <form>mladí</form>
-<lemma>mladý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>mladý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m104-d1e884-x2-388">
 <w.rf>
@@ -1137,8 +1137,8 @@
 <LM>w#w-d1t889-11</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1t889-12">
 <w.rf>
@@ -1533,7 +1533,7 @@
 <LM>w#w-d1t902-23</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m104-d1t902-24">
@@ -1557,8 +1557,8 @@
 <LM>w#w-d1t902-26</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m104-d1t902-27">
 <w.rf>
@@ -1645,8 +1645,8 @@
 <LM>w#w-d1t904-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1t904-2">
 <w.rf>
@@ -1711,8 +1711,8 @@
 <LM>w#w-46-47</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1t904-12">
 <w.rf>
@@ -2317,7 +2317,7 @@
 <LM>w#w-d1t911-34</LM>
 </w.rf>
 <form>ořechy</form>
-<lemma>ořech</lemma>
+<lemma>ořech-1</lemma>
 <tag>NNIP4-----A----</tag>
 </m>
 <m id="m104-91-102">
@@ -2629,7 +2629,7 @@
 <LM>w#w-d1t917-7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m104-d1t917-8">
@@ -2857,7 +2857,7 @@
 <LM>w#w-d1t921-10</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m104-d1t921-9">
@@ -3205,7 +3205,7 @@
 <LM>w#w-d1t924-27</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m104-d1t924-26">
@@ -3597,8 +3597,8 @@
 <LM>w#w-d1t951-6</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1t951-7">
 <w.rf>

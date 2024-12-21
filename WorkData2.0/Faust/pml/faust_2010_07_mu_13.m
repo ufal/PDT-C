@@ -459,7 +459,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AANS6----1A----</tag>
+<tag>PLNS6----------</tag>
 </m>
 <m id="mu_13-SCzechM-p1302-s1-w9">
 <w.rf>
@@ -1319,7 +1319,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_13-SCzechM-p1341-s1-w3">
 <w.rf>
@@ -2718,8 +2718,8 @@
 <LM>w#w-mu_13-SCzechM-p1382-s1-w5</LM>
 </w.rf>
 <form>díky</form>
-<lemma>díky</lemma>
-<tag>RR--3----------</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="mu_13-SCzechM-p1382-s1-w6">
 <w.rf>
@@ -2766,8 +2766,8 @@
 <LM>w#w-mu_13-SCzechM-p1382-s1-w11</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_13-SCzechM-p1382-s1-w12">
 <w.rf>

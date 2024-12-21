@@ -438,8 +438,8 @@
 <LM>w#w-wsj1517-001-p1s4W1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1517-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -787,7 +787,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1517-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>

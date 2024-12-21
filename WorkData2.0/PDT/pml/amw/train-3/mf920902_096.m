@@ -477,8 +477,8 @@
 <LM>w#w-mf920902-096-p2s4w12</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-096-p2s4w13">
 <src.rf>manual</src.rf>

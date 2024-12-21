@@ -1430,8 +1430,8 @@
 <LM>w#w-wsj2073-001-p1s5W19</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2073-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1505,7 +1505,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2073-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>

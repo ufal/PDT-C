@@ -672,8 +672,8 @@
 <LM>w#w-mf920922-113-p4s4w11</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-113-p4s4w12">
 <src.rf>manual</src.rf>

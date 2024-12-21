@@ -1789,7 +1789,7 @@
 </w.rf>
 <form>miliardy</form>
 <lemma>miliarda`1000000000</lemma>
-<tag>CzFS2----------</tag>
+<tag>CzFP4----------</tag>
 </m>
 <m id="m-wsj1047-001-p1s8W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1818,7 +1818,7 @@
 </w.rf>
 <form>Mezi</form>
 <lemma>mezi-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-wsj1047-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2279,7 +2279,7 @@
 </w.rf>
 <form>řídícího</form>
 <lemma>řídící_^(*3it)</lemma>
-<tag>AGMS2-----A----</tag>
+<tag>AGIS2-----A----</tag>
 </m>
 <m id="m-wsj1047-001-p1s10W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3718,8 +3718,8 @@
 <LM>w#w-wsj1047-001-p1s18W7</LM>
 </w.rf>
 <form>vlastní</form>
-<lemma>vlastní</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1047-001-p1s18W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3764,7 +3764,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1047-001-p1s18W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4171,7 +4171,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1047-001-p1s19W32-Ta">
 <src.rf>tagger-a</src.rf>

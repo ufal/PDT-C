@@ -128,7 +128,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s2w3">
 <m.rf>m#m-lnd94103-086-p1s2w3</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -248,7 +248,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s3w7">
 <m.rf>m#m-lnd94103-086-p1s3w7</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -468,7 +468,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s5w12">
 <m.rf>m#m-lnd94103-086-p1s5w12</m.rf>
-<afun>AuxZ</afun>
+<afun>Atr</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -593,7 +593,8 @@
 <children>
 <LM id="a-lnd94103-086-p1s6w2">
 <m.rf>m#m-lnd94103-086-p1s6w2</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -608,13 +609,7 @@
 <afun>Pnom</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
-</LM>
-<LM id="a-lnd94103-086-p1s6w4">
-<m.rf>m#m-lnd94103-086-p1s6w4</m.rf>
-<afun>AuxX</afun>
-<ord>4</ord>
-<clause_number>0</clause_number>
-</LM>
+<children>
 <LM id="a-lnd94103-086-p1s6w5">
 <m.rf>m#m-lnd94103-086-p1s6w5</m.rf>
 <afun>AuxG</afun>
@@ -622,6 +617,17 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
+</LM>
+<LM id="a-lnd94103-086-p1s6w4">
+<m.rf>m#m-lnd94103-086-p1s6w4</m.rf>
+<afun>AuxX</afun>
+<ord>4</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 <LM id="a-lnd94103-086-p1s6w7">
 <m.rf>m#m-lnd94103-086-p1s6w7</m.rf>
@@ -666,6 +672,14 @@
 <afun>Adv</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-086-p1s7Aw7">
+<m.rf>m#m-lnd94103-086-p1s7Aw7</m.rf>
+<afun>AuxG</afun>
+<ord>7</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -673,12 +687,6 @@
 <m.rf>m#m-lnd94103-086-p1s7Aw6</m.rf>
 <afun>AuxK</afun>
 <ord>6</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-lnd94103-086-p1s7Aw7">
-<m.rf>m#m-lnd94103-086-p1s7Aw7</m.rf>
-<afun>AuxG</afun>
-<ord>7</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
@@ -691,7 +699,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s7Bw2">
 <m.rf>m#m-lnd94103-086-p1s7Bw2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -715,7 +723,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s7Bw6">
 <m.rf>m#m-lnd94103-086-p1s7Bw6</m.rf>
-<afun>AtrAtr</afun>
+<afun>Atr</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -747,7 +755,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s8w1">
 <m.rf>m#m-lnd94103-086-p1s8w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -767,7 +775,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s9w1">
 <m.rf>m#m-lnd94103-086-p1s9w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -787,7 +795,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s10w2">
 <m.rf>m#m-lnd94103-086-p1s10w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -953,9 +961,16 @@
 <ord>9</ord>
 <clause_number>2</clause_number>
 <children>
+<LM id="a-lnd94103-086-p1s12w15">
+<m.rf>m#m-lnd94103-086-p1s12w15</m.rf>
+<afun>Coord</afun>
+<ord>15</ord>
+<clause_number>2</clause_number>
+<children>
 <LM id="a-lnd94103-086-p1s12w10">
 <m.rf>m#m-lnd94103-086-p1s12w10</m.rf>
 <afun>Atr</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>2</clause_number>
 <children>
@@ -967,32 +982,29 @@
 <children>
 <LM id="a-lnd94103-086-p1s12w11">
 <m.rf>m#m-lnd94103-086-p1s12w11</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>11</ord>
 <clause_number>2</clause_number>
 </LM>
 <LM id="a-lnd94103-086-p1s12w12">
 <m.rf>m#m-lnd94103-086-p1s12w12</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>12</ord>
 <clause_number>2</clause_number>
 </LM>
-<LM id="a-lnd94103-086-p1s12w15">
-<m.rf>m#m-lnd94103-086-p1s12w15</m.rf>
-<afun>Coord</afun>
-<ord>15</ord>
-<clause_number>2</clause_number>
-<children>
 <LM id="a-lnd94103-086-p1s12w14">
 <m.rf>m#m-lnd94103-086-p1s12w14</m.rf>
-<afun>AtrAdv</afun>
-<is_member>1</is_member>
+<afun>Atr</afun>
 <ord>14</ord>
 <clause_number>2</clause_number>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-lnd94103-086-p1s12w16">
 <m.rf>m#m-lnd94103-086-p1s12w16</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>16</ord>
 <clause_number>2</clause_number>
@@ -1014,10 +1026,6 @@
 <afun>Atr</afun>
 <ord>18</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -1062,18 +1070,18 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-lnd94103-086-p1s13w3">
-<m.rf>m#m-lnd94103-086-p1s13w3</m.rf>
-<afun>Adv</afun>
-<ord>3</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-lnd94103-086-p1s13w1">
 <m.rf>m#m-lnd94103-086-p1s13w1</m.rf>
 <afun>AuxZ</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-lnd94103-086-p1s13w3">
+<m.rf>m#m-lnd94103-086-p1s13w3</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-lnd94103-086-p1s13w4">
 <m.rf>m#m-lnd94103-086-p1s13w4</m.rf>
 <afun>Atr</afun>
@@ -1322,7 +1330,7 @@
 <afun>Adv</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-lnd94103-086-p1s14w8">
 <m.rf>m#m-lnd94103-086-p1s14w8</m.rf>
 <afun>AuxP</afun>
@@ -1340,8 +1348,6 @@
 <afun>Atr</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -1475,6 +1481,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-lnd94103-086-p1s15w15">
 <m.rf>m#m-lnd94103-086-p1s15w15</m.rf>
 <afun>Adv</afun>
@@ -1501,7 +1509,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s15w17">
 <m.rf>m#m-lnd94103-086-p1s15w17</m.rf>
-<afun>Sb</afun>
+<afun>Obj</afun>
 <ord>17</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -1528,8 +1536,6 @@
 <afun>Atr</afun>
 <ord>21</ord>
 <clause_number>3</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -1619,6 +1625,7 @@
 <m.rf>m#m-lnd94103-086-p1s16w8</m.rf>
 <afun>AuxP</afun>
 <is_member>1</is_member>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1630,7 +1637,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s16w7">
 <m.rf>m#m-lnd94103-086-p1s16w7</m.rf>
-<afun>AuxZ</afun>
+<afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1642,13 +1649,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd94103-086-p1s16w11">
 <m.rf>m#m-lnd94103-086-p1s16w11</m.rf>
 <afun>AuxG</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1696,7 +1703,7 @@
 </LM>
 <LM id="a-lnd94103-086-p1s16w20">
 <m.rf>m#m-lnd94103-086-p1s16w20</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>20</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -1781,7 +1788,8 @@
 <children>
 <LM id="a-lnd94103-086-p1s17w6">
 <m.rf>m#m-lnd94103-086-p1s17w6</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1933,12 +1941,6 @@
 </LM>
 </children>
 </LM>
-<LM id="a-lnd94103-086-p1s18w4">
-<m.rf>m#m-lnd94103-086-p1s18w4</m.rf>
-<afun>Adv</afun>
-<ord>4</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-lnd94103-086-p1s18w7">
 <m.rf>m#m-lnd94103-086-p1s18w7</m.rf>
 <afun>Coord</afun>
@@ -1950,6 +1952,14 @@
 <afun>Adv</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-086-p1s18w4">
+<m.rf>m#m-lnd94103-086-p1s18w4</m.rf>
+<afun>AuxZ</afun>
+<ord>4</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-lnd94103-086-p1s18w6">
 <m.rf>m#m-lnd94103-086-p1s18w6</m.rf>
@@ -1973,7 +1983,8 @@
 <children>
 <LM id="a-lnd94103-086-p1s18w10">
 <m.rf>m#m-lnd94103-086-p1s18w10</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>10</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -2043,12 +2054,6 @@
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-lnd94103-086-p1s19w7">
-<m.rf>m#m-lnd94103-086-p1s19w7</m.rf>
-<afun>AuxZ</afun>
-<ord>7</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-lnd94103-086-p1s19w9">
 <m.rf>m#m-lnd94103-086-p1s19w9</m.rf>
 <afun>Coord</afun>
@@ -2061,6 +2066,14 @@
 <is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-086-p1s19w7">
+<m.rf>m#m-lnd94103-086-p1s19w7</m.rf>
+<afun>AuxZ</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-lnd94103-086-p1s19w10">
 <m.rf>m#m-lnd94103-086-p1s19w10</m.rf>
@@ -2207,7 +2220,7 @@
 </LM>
 <LM id="a-lnd94103-086-p1s21w3">
 <m.rf>m#m-lnd94103-086-p1s21w3</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -2222,9 +2235,7 @@
 <afun>Adv</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-lnd94103-086-p1s21w7">
 <m.rf>m#m-lnd94103-086-p1s21w7</m.rf>
 <afun>AuxC</afun>
@@ -2349,6 +2360,10 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-lnd94103-086-p1s21w24">
 <m.rf>m#m-lnd94103-086-p1s21w24</m.rf>
 <afun>AuxK</afun>
@@ -2395,17 +2410,19 @@
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-lnd94103-086-p1s22w6">
+<m.rf>m#m-lnd94103-086-p1s22w6</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-lnd94103-086-p1s22w5">
 <m.rf>m#m-lnd94103-086-p1s22w5</m.rf>
 <afun>AuxZ</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-lnd94103-086-p1s22w6">
-<m.rf>m#m-lnd94103-086-p1s22w6</m.rf>
-<afun>Atr</afun>
-<ord>6</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 </children>
 </LM>
@@ -2495,19 +2512,18 @@
 <s.rf>m#m-lnd94103-086-p1s24</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-lnd94103-086-p1s24w1">
-<m.rf>m#m-lnd94103-086-p1s24w1</m.rf>
-<afun>Coord</afun>
-<ord>1</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-lnd94103-086-p1s24w15">
 <m.rf>m#m-lnd94103-086-p1s24w15</m.rf>
 <afun>Pred</afun>
-<is_member>1</is_member>
 <ord>15</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-lnd94103-086-p1s24w1">
+<m.rf>m#m-lnd94103-086-p1s24w1</m.rf>
+<afun>AuxZ</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-lnd94103-086-p1s24w3">
 <m.rf>m#m-lnd94103-086-p1s24w3</m.rf>
 <afun>Sb</afun>
@@ -2628,8 +2644,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd94103-086-p1s24w20">
 <m.rf>m#m-lnd94103-086-p1s24w20</m.rf>
 <afun>AuxK</afun>
@@ -2650,18 +2664,18 @@
 <ord>17</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-lnd94103-086-p1s25w1">
-<m.rf>m#m-lnd94103-086-p1s25w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-lnd94103-086-p1s25w2">
 <m.rf>m#m-lnd94103-086-p1s25w2</m.rf>
 <afun>Sb</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-lnd94103-086-p1s25w1">
+<m.rf>m#m-lnd94103-086-p1s25w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-lnd94103-086-p1s25w3">
 <m.rf>m#m-lnd94103-086-p1s25w3</m.rf>
 <afun>AuxP</afun>
@@ -2676,19 +2690,19 @@
 </LM>
 </children>
 </LM>
-<LM id="a-lnd94103-086-p1s25w5">
-<m.rf>m#m-lnd94103-086-p1s25w5</m.rf>
-<afun>ExD</afun>
-<ord>5</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-lnd94103-086-p1s25w8">
 <m.rf>m#m-lnd94103-086-p1s25w8</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-lnd94103-086-p1s25w5">
+<m.rf>m#m-lnd94103-086-p1s25w5</m.rf>
+<afun>AuxX</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-lnd94103-086-p1s25w6">
 <m.rf>m#m-lnd94103-086-p1s25w6</m.rf>
 <afun>AuxP</afun>
@@ -2704,35 +2718,41 @@
 </children>
 </LM>
 </children>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 <LM id="a-lnd94103-086-p1s25w9">
 <m.rf>m#m-lnd94103-086-p1s25w9</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd94103-086-p1s25w11">
 <m.rf>m#m-lnd94103-086-p1s25w11</m.rf>
-<afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Atr</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd94103-086-p1s25w10">
 <m.rf>m#m-lnd94103-086-p1s25w10</m.rf>
-<afun>Adv</afun>
+<afun>Atr</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd94103-086-p1s25w12">
 <m.rf>m#m-lnd94103-086-p1s25w12</m.rf>
-<afun>ExD</afun>
+<afun>AuxX</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 </children>
 </LM>
@@ -2845,17 +2865,19 @@
 <afun>Pnom</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-086-p1s26w7">
+<m.rf>m#m-lnd94103-086-p1s26w7</m.rf>
+<afun>AuxG</afun>
+<ord>7</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-lnd94103-086-p1s26w6">
 <m.rf>m#m-lnd94103-086-p1s26w6</m.rf>
 <afun>AuxX</afun>
 <ord>6</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-lnd94103-086-p1s26w7">
-<m.rf>m#m-lnd94103-086-p1s26w7</m.rf>
-<afun>AuxG</afun>
-<ord>7</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
@@ -2964,12 +2986,6 @@
 <ord>18</ord>
 <clause_number>0</clause_number>
 <children>
-<LM id="a-lnd94103-086-p1s27w1">
-<m.rf>m#m-lnd94103-086-p1s27w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-lnd94103-086-p1s27w13">
 <m.rf>m#m-lnd94103-086-p1s27w13</m.rf>
 <afun>Coord</afun>
@@ -2989,6 +3005,14 @@
 <afun>Sb</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-lnd94103-086-p1s27w1">
+<m.rf>m#m-lnd94103-086-p1s27w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-lnd94103-086-p1s27w3">
 <m.rf>m#m-lnd94103-086-p1s27w3</m.rf>
@@ -3089,7 +3113,7 @@
 </LM>
 <LM id="a-lnd94103-086-p1s27w19">
 <m.rf>m#m-lnd94103-086-p1s27w19</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>19</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -3138,7 +3162,7 @@
 </LM>
 <LM id="a-lnd94103-086-p1s27w27">
 <m.rf>m#m-lnd94103-086-p1s27w27</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>27</ord>
 <clause_number>4</clause_number>
 </LM>
@@ -3156,7 +3180,7 @@
 </LM>
 <LM id="a-lnd94103-086-p1s27w30">
 <m.rf>m#m-lnd94103-086-p1s27w30</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>30</ord>
 <clause_number>4</clause_number>
 <children>
@@ -3214,19 +3238,18 @@
 <s.rf>m#m-lnd94103-086-p1s28A</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-lnd94103-086-p1s28Aw1">
-<m.rf>m#m-lnd94103-086-p1s28Aw1</m.rf>
-<afun>Coord</afun>
-<ord>1</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-lnd94103-086-p1s28Aw9">
 <m.rf>m#m-lnd94103-086-p1s28Aw9</m.rf>
 <afun>Pred</afun>
-<is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-lnd94103-086-p1s28Aw1">
+<m.rf>m#m-lnd94103-086-p1s28Aw1</m.rf>
+<afun>AuxZ</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-lnd94103-086-p1s28Aw2">
 <m.rf>m#m-lnd94103-086-p1s28Aw2</m.rf>
 <afun>Obj</afun>
@@ -3242,19 +3265,20 @@
 <LM id="a-lnd94103-086-p1s28Aw5">
 <m.rf>m#m-lnd94103-086-p1s28Aw5</m.rf>
 <afun>Coord</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd94103-086-p1s28Aw4">
 <m.rf>m#m-lnd94103-086-p1s28Aw4</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-lnd94103-086-p1s28Aw7">
 <m.rf>m#m-lnd94103-086-p1s28Aw7</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
@@ -3272,8 +3296,6 @@
 <afun>AuxX</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -3299,11 +3321,11 @@
 <s.rf>m#m-lnd94103-086-p1s28B</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-lnd94103-086-p1s28Bw7">
-<m.rf>m#m-lnd94103-086-p1s28Bw7</m.rf>
-<afun>Pred</afun>
-<ord>7</ord>
-<clause_number>1</clause_number>
+<LM id="a-lnd94103-086-p1s28Bw24">
+<m.rf>m#m-lnd94103-086-p1s28Bw24</m.rf>
+<afun>Coord</afun>
+<ord>23</ord>
+<clause_number>3</clause_number>
 <children>
 <LM id="a-lnd94103-086-p1s28Bw2">
 <m.rf>m#m-lnd94103-086-p1s28Bw2</m.rf>
@@ -3349,6 +3371,13 @@
 </LM>
 </children>
 </LM>
+<LM id="a-lnd94103-086-p1s28Bw7">
+<m.rf>m#m-lnd94103-086-p1s28Bw7</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>7</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-lnd94103-086-p1s28Bw9">
 <m.rf>m#m-lnd94103-086-p1s28Bw9</m.rf>
 <afun>Pnom</afun>
@@ -3451,12 +3480,8 @@
 </LM>
 </children>
 </LM>
-<LM id="a-lnd94103-086-p1s28Bw24">
-<m.rf>m#m-lnd94103-086-p1s28Bw24</m.rf>
-<afun>AuxC</afun>
-<ord>23</ord>
-<clause_number>3</clause_number>
-<children>
+</children>
+</LM>
 <LM id="a-lnd94103-086-p1s28Bw23">
 <m.rf>m#m-lnd94103-086-p1s28Bw23</m.rf>
 <afun>AuxX</afun>
@@ -3465,7 +3490,8 @@
 </LM>
 <LM id="a-lnd94103-086-p1s28Bw34">
 <m.rf>m#m-lnd94103-086-p1s28Bw34</m.rf>
-<afun>Adv</afun>
+<afun>Pred</afun>
+<is_member>1</is_member>
 <ord>33</ord>
 <clause_number>3</clause_number>
 <children>
@@ -3525,11 +3551,9 @@
 </LM>
 <LM id="a-lnd94103-086-p1s28Bw33">
 <m.rf>m#m-lnd94103-086-p1s28Bw33</m.rf>
-<afun>AuxZ</afun>
+<afun>Adv</afun>
 <ord>32</ord>
 <clause_number>3</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -3600,14 +3624,12 @@
 <afun>Adv</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-lnd94103-086-p1s29Aw8">
 <m.rf>m#m-lnd94103-086-p1s29Aw8</m.rf>
 <afun>Adv</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 <LM id="a-lnd94103-086-p1s29Aw10">
 <m.rf>m#m-lnd94103-086-p1s29Aw10</m.rf>
@@ -3639,9 +3661,14 @@
 <ord>13</ord>
 <clause_number>1</clause_number>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-lnd94103-086-p1s29Aw27">
 <m.rf>m#m-lnd94103-086-p1s29Aw27</m.rf>
 <afun>Coord</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>27</ord>
 <clause_number>0</clause_number>
 <children>
@@ -3651,19 +3678,19 @@
 <ord>15</ord>
 <clause_number>0</clause_number>
 </LM>
+<LM id="a-lnd94103-086-p1s29Aw17">
+<m.rf>m#m-lnd94103-086-p1s29Aw17</m.rf>
+<afun>Obj</afun>
+<is_member>1</is_member>
+<ord>17</ord>
+<clause_number>2</clause_number>
+<children>
 <LM id="a-lnd94103-086-p1s29Aw16">
 <m.rf>m#m-lnd94103-086-p1s29Aw16</m.rf>
 <afun>AuxG</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
 </LM>
-<LM id="a-lnd94103-086-p1s29Aw17">
-<m.rf>m#m-lnd94103-086-p1s29Aw17</m.rf>
-<afun>Atr</afun>
-<is_member>1</is_member>
-<ord>17</ord>
-<clause_number>2</clause_number>
-<children>
 <LM id="a-lnd94103-086-p1s29Aw18">
 <m.rf>m#m-lnd94103-086-p1s29Aw18</m.rf>
 <afun>AuxV</afun>
@@ -3672,7 +3699,7 @@
 </LM>
 <LM id="a-lnd94103-086-p1s29Aw19">
 <m.rf>m#m-lnd94103-086-p1s29Aw19</m.rf>
-<afun>AtvV</afun>
+<afun>Atv</afun>
 <ord>19</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -3732,7 +3759,7 @@
 </LM>
 <LM id="a-lnd94103-086-p1s29Aw28">
 <m.rf>m#m-lnd94103-086-p1s29Aw28</m.rf>
-<afun>Atr</afun>
+<afun>Obj</afun>
 <is_member>1</is_member>
 <ord>28</ord>
 <clause_number>3</clause_number>
@@ -3754,11 +3781,7 @@
 <afun>Pnom</afun>
 <ord>31</ord>
 <clause_number>3</clause_number>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-lnd94103-086-p1s29Aw33">
 <m.rf>m#m-lnd94103-086-p1s29Aw33</m.rf>
 <afun>AuxG</afun>
@@ -3776,6 +3799,8 @@
 <afun>AuxK</afun>
 <ord>32</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -3997,13 +4022,6 @@
 <ord>17</ord>
 <clause_number>0</clause_number>
 <children>
-<LM id="a-lnd94103-086-p1s30w13">
-<m.rf>m#m-lnd94103-086-p1s30w13</m.rf>
-<afun>Atr</afun>
-<is_member>1</is_member>
-<ord>13</ord>
-<clause_number>2</clause_number>
-<children>
 <LM id="a-lnd94103-086-p1s30w10">
 <m.rf>m#m-lnd94103-086-p1s30w10</m.rf>
 <afun>Sb</afun>
@@ -4024,9 +4042,16 @@
 </LM>
 </children>
 </LM>
+<LM id="a-lnd94103-086-p1s30w13">
+<m.rf>m#m-lnd94103-086-p1s30w13</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>13</ord>
+<clause_number>2</clause_number>
+<children>
 <LM id="a-lnd94103-086-p1s30w11">
 <m.rf>m#m-lnd94103-086-p1s30w11</m.rf>
-<afun>AuxR</afun>
+<afun>AuxZ</afun>
 <ord>11</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -4117,17 +4142,18 @@
 <children>
 <LM id="a-lnd94103-086-p1s31w1">
 <m.rf>m#m-lnd94103-086-p1s31w1</m.rf>
-<afun>Coord</afun>
+<afun>AuxZ</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-lnd94103-086-p1s31w2">
 <m.rf>m#m-lnd94103-086-p1s31w2</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-lnd94103-086-p1s31w3">
 <m.rf>m#m-lnd94103-086-p1s31w3</m.rf>
 <afun>AuxK</afun>
@@ -4161,19 +4187,17 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-lnd94103-086-p1s32w3">
-<m.rf>m#m-lnd94103-086-p1s32w3</m.rf>
-<afun>Adv</afun>
-<ord>3</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-lnd94103-086-p1s32w1">
 <m.rf>m#m-lnd94103-086-p1s32w1</m.rf>
 <afun>AuxZ</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
-</children>
+<LM id="a-lnd94103-086-p1s32w3">
+<m.rf>m#m-lnd94103-086-p1s32w3</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
 </LM>
 </children>
 </LM>
@@ -4268,18 +4292,18 @@
 <ord>22</ord>
 <clause_number>5</clause_number>
 <children>
-<LM id="a-lnd94103-086-p1s33w1">
-<m.rf>m#m-lnd94103-086-p1s33w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-lnd94103-086-p1s33w2">
 <m.rf>m#m-lnd94103-086-p1s33w2</m.rf>
 <afun>AuxC</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-lnd94103-086-p1s33w1">
+<m.rf>m#m-lnd94103-086-p1s33w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-lnd94103-086-p1s33w3">
 <m.rf>m#m-lnd94103-086-p1s33w3</m.rf>
 <afun>Adv</afun>
@@ -4456,6 +4480,14 @@
 <afun>Obj</afun>
 <ord>28</ord>
 <clause_number>6</clause_number>
+<children>
+<LM id="a-lnd94103-086-p1s33w30">
+<m.rf>m#m-lnd94103-086-p1s33w30</m.rf>
+<afun>AuxG</afun>
+<ord>30</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -4465,12 +4497,6 @@
 <m.rf>m#m-lnd94103-086-p1s33w29</m.rf>
 <afun>AuxX</afun>
 <ord>29</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-lnd94103-086-p1s33w30">
-<m.rf>m#m-lnd94103-086-p1s33w30</m.rf>
-<afun>AuxG</afun>
-<ord>30</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
@@ -4528,14 +4554,12 @@
 <afun>Sb</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-lnd94103-086-p1s34w2">
 <m.rf>m#m-lnd94103-086-p1s34w2</m.rf>
 <afun>Atv</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 <LM id="a-lnd94103-086-p1s34w4">
 <m.rf>m#m-lnd94103-086-p1s34w4</m.rf>
@@ -4575,14 +4599,14 @@
 <children>
 <LM id="a-lnd94103-086-p1s34w9">
 <m.rf>m#m-lnd94103-086-p1s34w9</m.rf>
-<afun>AdvAtr</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-lnd94103-086-p1s34w13">
 <m.rf>m#m-lnd94103-086-p1s34w13</m.rf>
-<afun>AdvAtr</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>13</ord>
 <clause_number>1</clause_number>
@@ -4598,6 +4622,8 @@
 <afun>Atr</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-lnd94103-086-p1s34w16">
 <m.rf>m#m-lnd94103-086-p1s34w16</m.rf>
@@ -4657,7 +4683,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s34w22">
 <m.rf>m#m-lnd94103-086-p1s34w22</m.rf>
-<afun>AuxZ</afun>
+<afun>Adv</afun>
 <ord>22</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -4700,8 +4726,6 @@
 <afun>Atr</afun>
 <ord>29</ord>
 <clause_number>3</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -4779,7 +4803,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s35w9">
 <m.rf>m#m-lnd94103-086-p1s35w9</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -4921,7 +4945,7 @@
 <children>
 <LM id="a-lnd94103-086-p1s36w9">
 <m.rf>m#m-lnd94103-086-p1s36w9</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -5035,12 +5059,6 @@
 <ord>7</ord>
 <clause_number>0</clause_number>
 <children>
-<LM id="a-lnd94103-086-p1s38w1">
-<m.rf>m#m-lnd94103-086-p1s38w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-lnd94103-086-p1s38w2">
 <m.rf>m#m-lnd94103-086-p1s38w2</m.rf>
 <afun>Pred</afun>
@@ -5048,6 +5066,12 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-lnd94103-086-p1s38w1">
+<m.rf>m#m-lnd94103-086-p1s38w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-lnd94103-086-p1s38w3">
 <m.rf>m#m-lnd94103-086-p1s38w3</m.rf>
 <afun>AuxV</afun>
@@ -5136,6 +5160,7 @@
 <LM id="a-lnd94103-086-p1s38w18">
 <m.rf>m#m-lnd94103-086-p1s38w18</m.rf>
 <afun>Adv</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>18</ord>
 <clause_number>4</clause_number>
 <children>
@@ -5195,10 +5220,10 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-lnd94103-086-p1s39Aw4">
-<m.rf>m#m-lnd94103-086-p1s39Aw4</m.rf>
-<afun>AuxC</afun>
-<ord>4</ord>
+<LM id="a-lnd94103-086-p1s39Aw8">
+<m.rf>m#m-lnd94103-086-p1s39Aw8</m.rf>
+<afun>Sb</afun>
+<ord>8</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-lnd94103-086-p1s39Aw3">
@@ -5207,12 +5232,12 @@
 <ord>3</ord>
 <clause_number>0</clause_number>
 </LM>
-<LM id="a-lnd94103-086-p1s39Aw8">
-<m.rf>m#m-lnd94103-086-p1s39Aw8</m.rf>
-<afun>Sb</afun>
-<ord>8</ord>
+<LM id="a-lnd94103-086-p1s39Aw4">
+<m.rf>m#m-lnd94103-086-p1s39Aw4</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
 <clause_number>2</clause_number>
-<children>
+</LM>
 <LM id="a-lnd94103-086-p1s39Aw5">
 <m.rf>m#m-lnd94103-086-p1s39Aw5</m.rf>
 <afun>Obj</afun>
@@ -5261,9 +5286,16 @@
 <children>
 <LM id="a-lnd94103-086-p1s39Aw13">
 <m.rf>m#m-lnd94103-086-p1s39Aw13</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>13</ord>
 <clause_number>2</clause_number>
+<children>
+<LM id="a-lnd94103-086-p1s39Aw15">
+<m.rf>m#m-lnd94103-086-p1s39Aw15</m.rf>
+<afun>AuxG</afun>
+<ord>15</ord>
+<clause_number>0</clause_number>
 </LM>
 </children>
 </LM>
@@ -5277,12 +5309,6 @@
 <m.rf>m#m-lnd94103-086-p1s39Aw14</m.rf>
 <afun>AuxK</afun>
 <ord>14</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-lnd94103-086-p1s39Aw15">
-<m.rf>m#m-lnd94103-086-p1s39Aw15</m.rf>
-<afun>AuxG</afun>
-<ord>15</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>

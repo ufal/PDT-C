@@ -204,7 +204,7 @@
 </w.rf>
 <form>triumfovaly</form>
 <lemma>triumfovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-mf920923-050-p2s2w3">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 </w.rf>
 <form>dominovaly</form>
 <lemma>dominovat</lemma>
-<tag>VpTP----R-AAB--</tag>
+<tag>VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920923-050-p2s6w6">
 <src.rf>manual</src.rf>

@@ -668,7 +668,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1372-001-p1s1W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1108,7 +1108,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1372-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2867,7 +2867,7 @@
 </w.rf>
 <form>prohlášení</form>
 <lemma>prohlášení_^(*4sit)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj1372-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3259,7 +3259,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1372-001-p1s12W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3522,8 +3522,8 @@
 <LM>w#w-wsj1372-001-p1s13W12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1372-001-p1s13W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3586,7 +3586,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1372-001-p1s13W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6321,8 +6321,8 @@
 <LM>w#w-wsj1372-001-p1s25W8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1372-001-p1s25W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6812,7 +6812,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1372-001-p1s27W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7419,8 +7419,8 @@
 <LM>w#w-wsj1372-001-p1s29W14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1372-001-p1s29W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7873,8 +7873,8 @@
 <LM>w#w-wsj1372-001-p1s31W12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1372-001-p1s31W13-Ta">
 <src.rf>tagger-a</src.rf>

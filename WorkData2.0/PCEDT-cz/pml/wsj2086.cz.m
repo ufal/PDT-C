@@ -635,7 +635,7 @@
 <LM>w#w-wsj2086-001-p1s3W1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj2086-001-p1s3W2-Ta">
@@ -1618,8 +1618,8 @@
 <LM>w#w-wsj2086-001-p1s8W4</LM>
 </w.rf>
 <form>kupujícím</form>
-<lemma>kupující_^(*5ovat)</lemma>
-<tag>AGNP3-----A----</tag>
+<lemma>kupující-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-wsj2086-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3286,7 +3286,7 @@
 <LM>w#w-wsj2086-001-p1s18W1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj2086-001-p1s18W2-Ta">
@@ -5763,7 +5763,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj2086-001-p1s27W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7527,8 +7527,8 @@
 <LM>w#w-wsj2086-001-p1s35W11</LM>
 </w.rf>
 <form>postupem</form>
-<lemma>postup</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>postupem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2086-001-p1s35W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8070,8 +8070,8 @@
 <LM>w#w-wsj2086-001-p1s36W26</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2086-001-p1s36W27-Ta">
 <src.rf>tagger-a</src.rf>

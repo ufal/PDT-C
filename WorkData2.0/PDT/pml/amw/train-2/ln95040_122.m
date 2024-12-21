@@ -689,7 +689,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95040-122-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-122-p2s10w9">
 <src.rf>manual</src.rf>
@@ -1535,8 +1535,8 @@
 <LM>w#w-ln95040-122-p2s11w5</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-122-p2s11w6">
 <src.rf>manual</src.rf>

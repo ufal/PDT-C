@@ -116,8 +116,8 @@
 <LM>w#w-wsj0244-001-p1s0W12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0244-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>

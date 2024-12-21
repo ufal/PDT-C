@@ -978,8 +978,8 @@
 <LM>w#w-ln95042-013-p2s7w1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-013-p2s7w2">
 <src.rf>manual</src.rf>
@@ -987,8 +987,8 @@
 <LM>w#w-ln95042-013-p2s7w2</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-013-p2s7w3">
 <src.rf>manual</src.rf>
@@ -996,8 +996,8 @@
 <LM>w#w-ln95042-013-p2s7w3</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-013-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1815,7 +1815,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-013-p2s11w29">
 <src.rf>manual</src.rf>
@@ -5624,7 +5624,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-013-p2s28w2">
 <src.rf>manual</src.rf>
@@ -5841,8 +5841,8 @@
 <LM>w#w-ln95042-013-p2s29w12</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-013-p2s29w13">
 <src.rf>manual</src.rf>
@@ -6955,8 +6955,8 @@
 <LM>w#w-ln95042-013-p3s4w14</LM>
 </w.rf>
 <form>klérus</form>
-<lemma>klérus</lemma>
-<tag>NNIS4-----A----</tag>
+<lemma>klér</lemma>
+<tag>NNIS4-----A---1</tag>
 </m>
 <m id="m-ln95042-013-p3s4w15">
 <src.rf>manual</src.rf>
@@ -7037,7 +7037,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-013-p3s4w24">
 <src.rf>manual</src.rf>
@@ -7158,7 +7158,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-013-p3s6w3">
 <src.rf>manual</src.rf>

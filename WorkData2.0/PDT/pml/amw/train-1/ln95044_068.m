@@ -806,7 +806,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-068-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1250,7 +1250,7 @@
 <LM>w#w-ln95044-068-p3s3w8</LM>
 </w.rf>
 <form>opravňoval</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-068-p3s3w9">
@@ -3151,8 +3151,8 @@
 <LM>w#w-ln95044-068-p5s3w15</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95044-068-p5s3w16">
 <src.rf>manual</src.rf>

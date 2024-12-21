@@ -80,7 +80,7 @@
 <children>
 <LM id="a-ln94204-26-p1s1w9">
 <m.rf>m#m-ln94204-26-p1s1w9</m.rf>
-<afun>AuxZ</afun>
+<afun>Atr</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -192,21 +192,19 @@
 <children>
 <LM id="a-ln94204-26-p1s3w2">
 <m.rf>m#m-ln94204-26-p1s3w2</m.rf>
-<afun>Coord</afun>
+<afun>Pred</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94204-26-p1s3w1">
 <m.rf>m#m-ln94204-26-p1s3w1</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Pnom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94204-26-p1s3w3">
 <m.rf>m#m-ln94204-26-p1s3w3</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Sb</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>

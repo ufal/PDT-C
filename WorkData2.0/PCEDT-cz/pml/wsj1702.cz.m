@@ -1498,8 +1498,8 @@
 <LM>w#w-wsj1702-001-p1s5W9</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1702-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>

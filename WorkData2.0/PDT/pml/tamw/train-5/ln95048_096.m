@@ -572,8 +572,8 @@
 <LM>w#w-ln95048-096-p2s3Bw9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-096-p2s3Bw10">
 <src.rf>manual</src.rf>
@@ -784,8 +784,8 @@
 <LM>w#w-ln95048-096-p2s5w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-096-p2s5w13">
 <src.rf>manual</src.rf>
@@ -885,8 +885,8 @@
 <LM>w#w-ln95048-096-p2s6w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-096-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1438,8 +1438,8 @@
 <LM>w#w-ln95048-096-p2s8w18</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-096-p2s8w19">
 <src.rf>manual</src.rf>
@@ -1468,7 +1468,7 @@
 </w.rf>
 <form>Trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-096-p2s9w2">
 <src.rf>manual</src.rf>
@@ -2132,8 +2132,8 @@
 <LM>w#w-ln95048-096-p3s4w9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-096-p3s4w10">
 <src.rf>manual</src.rf>

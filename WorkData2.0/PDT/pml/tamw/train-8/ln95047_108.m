@@ -165,8 +165,8 @@
 <LM>w#w-ln95047-108-p1s2w5</LM>
 </w.rf>
 <form>postižení</form>
-<lemma>postižený</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>postižený-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-108-p1s2w6">
 <src.rf>manual</src.rf>

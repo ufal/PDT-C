@@ -1160,7 +1160,7 @@
 <LM>w#w-cmpr9407-046-p9s2w1</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9407-046-p9s2w2">
@@ -1600,8 +1600,8 @@
 <LM>w#w-cmpr9407-046-p11s1w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9407-046-p11s1w2">
 <src.rf>manual</src.rf>
@@ -2082,7 +2082,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-046-p11s3w26">
 <src.rf>manual</src.rf>
@@ -2394,7 +2394,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-046-p13s1w3">
 <src.rf>manual</src.rf>
@@ -2594,7 +2594,7 @@
 </w.rf>
 <form>minimalizovat</form>
 <lemma>minimalizovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-cmpr9407-046-p13s2w21">
 <src.rf>manual</src.rf>
@@ -2641,7 +2641,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-046-p13s3w3">
 <src.rf>manual</src.rf>
@@ -2823,7 +2823,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-046-p13s4w3">
 <src.rf>manual</src.rf>
@@ -5899,7 +5899,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-046-p21s3w3">
 <src.rf>manual</src.rf>
@@ -6106,7 +6106,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-046-p21s3w26">
 <src.rf>manual</src.rf>
@@ -6852,7 +6852,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-046-p23s3w13">
 <src.rf>manual</src.rf>
@@ -9345,7 +9345,7 @@
 <LM>w#w-cmpr9407-046-p28s3w16</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-cmpr9407-046-p28s3w17">

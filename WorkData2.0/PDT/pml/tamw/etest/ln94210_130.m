@@ -234,8 +234,8 @@
 <LM>w#w-ln94210-130-p2s1Dw3</LM>
 </w.rf>
 <form>konečně</form>
-<lemma>konečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>konečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-130-p2s1Dw4">
 <src.rf>manual</src.rf>
@@ -1259,8 +1259,8 @@
 <LM>w#w-ln94210-130-p3s3w24</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-130-p3s3w25">
 <src.rf>manual</src.rf>
@@ -1351,8 +1351,8 @@
 <LM>w#w-ln94210-130-p3s4w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-130-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-130-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1614,8 +1614,8 @@
 <LM>w#w-ln94210-130-p3s5w19</LM>
 </w.rf>
 <form>konečně</form>
-<lemma>konečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>konečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-130-p3s5w20">
 <src.rf>manual</src.rf>
@@ -1641,7 +1641,7 @@
 <LM>w#w-ln94210-130-p3s5w22</LM>
 </w.rf>
 <form>čtvrtfinalový</form>
-<lemma>čtvrtfinalový</lemma>
+<lemma>čtvrtfinalový_,s_^(^DD**čtvrtfinálový)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-ln94210-130-p3s5w23">
@@ -2223,8 +2223,8 @@
 <LM>w#w-ln94210-130-p4s3w11</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-130-p4s3w12">
 <src.rf>manual</src.rf>

@@ -459,8 +459,8 @@
 <LM>w#w-wsj0408-001-p1s1W6</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0408-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -468,8 +468,8 @@
 <LM>w#w-wsj0408-001-p1s1W7</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0408-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -559,7 +559,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0408-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1402,7 +1402,7 @@
 </w.rf>
 <form>distribuovány</form>
 <lemma>distribuovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-wsj0408-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1918,8 +1918,8 @@
 <LM>w#w-wsj0408-001-p1s6W25</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0408-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2970,8 +2970,8 @@
 <LM>w#w-wsj0408-001-p1s10W24</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0408-001-p1s10W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3063,7 +3063,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0408-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>

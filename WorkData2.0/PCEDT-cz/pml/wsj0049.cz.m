@@ -1158,8 +1158,8 @@
 <LM>w#w-wsj0049-001-p1s3W9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1575,7 +1575,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s4W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1657,8 +1657,8 @@
 <LM>w#w-wsj0049-001-p1s5W1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2011,7 +2011,7 @@
 </w.rf>
 <form>citovali</form>
 <lemma>citovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj0049-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2147,8 +2147,8 @@
 <LM>w#w-wsj0049-001-p1s7W10</LM>
 </w.rf>
 <form>jakkoli</form>
-<lemma>jakkoli-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jakkoli-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4741,8 +4741,8 @@
 <LM>w#w-wsj0049-001-p1s17W17</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s17W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6020,8 +6020,8 @@
 <LM>w#w-wsj0049-001-p1s22W26</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s22W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7207,7 +7207,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0049-001-p1s30W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8590,7 +8590,7 @@
 <LM>w#w-wsj0049-001-p1s37W7</LM>
 </w.rf>
 <form>baseballu</form>
-<lemma>baseball</lemma>
+<lemma>baseball_,s_^(^DD**basebal)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj0049-001-p1s37W8-Ta">
@@ -9920,7 +9920,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s44W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10784,8 +10784,8 @@
 <LM>w#w-wsj0049-001-p1s49W15</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s49W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10802,8 +10802,8 @@
 <LM>w#w-wsj0049-001-p1s49W17</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s49W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12047,8 +12047,8 @@
 <LM>w#w-wsj0049-001-p1s55W27</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s55W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12158,7 +12158,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s56W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13266,7 +13266,7 @@
 </w.rf>
 <form>citován</form>
 <lemma>citovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj0049-001-p1s61W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14244,7 +14244,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s64W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16173,7 +16173,7 @@
 </w.rf>
 <form>specializovat</form>
 <lemma>specializovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0049-001-p1s74W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16275,7 +16275,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0049-001-p1s75W4-Ta">
 <src.rf>tagger-a</src.rf>

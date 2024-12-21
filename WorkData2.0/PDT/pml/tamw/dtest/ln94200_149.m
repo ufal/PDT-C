@@ -122,8 +122,8 @@
 <LM>w#w-ln94200-149-p2s1Bw6</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-149-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 </w.rf>
 <form>neobléci</form>
 <lemma>obléci</lemma>
-<tag>Vf--------N-P-2</tag>
+<tag>Vf--------N-P--</tag>
 </m>
 <m id="m-ln94200-149-p2s1Bw9">
 <src.rf>manual</src.rf>

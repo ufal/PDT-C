@@ -1103,8 +1103,8 @@
 <LM>w#w-ln94207-68-p4s1w4</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-68-p4s1w5">
 <src.rf>manual</src.rf>

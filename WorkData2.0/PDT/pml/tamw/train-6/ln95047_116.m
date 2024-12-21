@@ -421,8 +421,8 @@
 <LM>w#w-ln95047-116-p2s2w11</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-116-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-116-p2s5w11">
 <src.rf>manual</src.rf>

@@ -564,7 +564,7 @@
 <LM>w#w-ln95041-032-p2s4w4</LM>
 </w.rf>
 <form>vyzývatelem</form>
-<lemma>vyzývatel</lemma>
+<lemma>vyzývatel_,s_^(^DD**vyzyvatel)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-032-p2s4w5">

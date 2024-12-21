@@ -621,8 +621,8 @@
 <LM>w#w-ln94210-12-p2s4w9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94210-12-p2s4w10">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 </w.rf>
 <form>upravující</form>
 <lemma>upravující_^(*5ovat)</lemma>
-<tag>AGIS1-----A----</tag>
+<tag>AGIP1-----A----</tag>
 </m>
 <m id="m-ln94210-12-p2s4w17">
 <src.rf>manual</src.rf>

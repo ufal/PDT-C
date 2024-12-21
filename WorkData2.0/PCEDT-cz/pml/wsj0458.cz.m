@@ -1358,8 +1358,8 @@
 <LM>w#w-wsj0458-001-p1s5W32</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0458-001-p1s5W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1812,7 +1812,7 @@
 <LM>w#w-wsj0458-001-p1s7W10</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0458-001-p1s7W11-Ta">

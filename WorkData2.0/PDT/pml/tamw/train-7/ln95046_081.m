@@ -433,8 +433,8 @@
 <LM>w#w-ln95046-081-p2s3w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-081-p2s3w6">
 <src.rf>manual</src.rf>
@@ -669,8 +669,8 @@
 <LM>w#w-ln95046-081-p3s1w10</LM>
 </w.rf>
 <form>obžalovaná</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>obžalovaná-2_^(*3ý-2)</lemma>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-081-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1224,8 +1224,8 @@
 <LM>w#w-ln95046-081-p4s1w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-081-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1525,7 +1525,7 @@
 <LM>w#w-ln95046-081-p4s3w4</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-081-p4s3w5">
@@ -1852,7 +1852,7 @@
 </w.rf>
 <form>referoval</form>
 <lemma>referovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95046-081-p5s1w16">
 <src.rf>manual</src.rf>
@@ -3372,8 +3372,8 @@
 <LM>w#w-ln95046-081-p5s9w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-081-p5s9w11">
 <src.rf>manual</src.rf>

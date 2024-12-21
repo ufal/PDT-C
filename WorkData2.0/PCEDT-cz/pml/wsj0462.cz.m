@@ -414,8 +414,8 @@
 <LM>w#w-wsj0462-001-p1s1W10</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0462-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2692,7 +2692,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-wsj0462-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>

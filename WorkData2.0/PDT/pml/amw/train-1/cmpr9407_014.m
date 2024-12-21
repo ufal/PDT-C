@@ -325,7 +325,7 @@
 </w.rf>
 <form>věnovali</form>
 <lemma>věnovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-cmpr9407-014-p5s2w11">
 <src.rf>manual</src.rf>
@@ -3965,7 +3965,7 @@
 <LM>w#w-cmpr9407-014-p16s2w11</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-014-p16s2w12">
@@ -4175,7 +4175,7 @@
 </w.rf>
 <form>radiátory</form>
 <lemma>radiátor</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9407-014-p16s3w14">
 <src.rf>manual</src.rf>
@@ -4523,7 +4523,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--6----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-cmpr9407-014-p16s6w8">
 <src.rf>manual</src.rf>
@@ -4550,7 +4550,7 @@
 </w.rf>
 <form>neděli</form>
 <lemma>neděle</lemma>
-<tag>NNFS6-----A----</tag>
+<tag>NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9407-014-p16s6w11">
 <src.rf>manual</src.rf>
@@ -5607,7 +5607,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-014-p21s4w2">
 <src.rf>manual</src.rf>
@@ -8372,8 +8372,8 @@
 <LM>w#w-cmpr9407-014-p29s4w10</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-014-p29s4w11">
 <src.rf>manual</src.rf>
@@ -8985,7 +8985,7 @@
 </w.rf>
 <form>nereagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-NAI--</tag>
+<tag>VpMP----R-NAB--</tag>
 </m>
 <m id="m-cmpr9407-014-p30s1w21">
 <src.rf>manual</src.rf>

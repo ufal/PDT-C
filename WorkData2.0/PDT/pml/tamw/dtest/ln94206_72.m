@@ -441,8 +441,8 @@
 <LM>w#w-ln94206-72-p2s2w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-72-p2s2w4">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-72-p2s3w4">
 <src.rf>manual</src.rf>

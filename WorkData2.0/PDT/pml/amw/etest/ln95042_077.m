@@ -314,8 +314,8 @@
 <LM>w#w-ln95042-077-p2s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95042-077-p2s2w2">
 <src.rf>manual</src.rf>
@@ -413,8 +413,8 @@
 <LM>w#w-ln95042-077-p2s2w12</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-077-p2s2w13">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-077-p2s5w23">
 <src.rf>manual</src.rf>

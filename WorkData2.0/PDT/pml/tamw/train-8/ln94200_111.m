@@ -1207,8 +1207,8 @@
 <LM>w#w-ln94200-111-p2s8w5</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-111-p2s8w6">
 <src.rf>manual</src.rf>

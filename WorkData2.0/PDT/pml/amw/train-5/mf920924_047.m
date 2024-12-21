@@ -590,7 +590,7 @@
 <LM>w#w-mf920924-047-p2s2w26</LM>
 </w.rf>
 <form>metalu</form>
-<lemma>metal</lemma>
+<lemma>metal_,s_^(^DD**metál)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-047-p2s2w27">
@@ -1722,7 +1722,7 @@
 <LM>w#w-mf920924-047-p2s10w12</LM>
 </w.rf>
 <form>podtrhávají</form>
-<lemma>podtrhávat_^(*4at)</lemma>
+<lemma>podtrhávat-2_^(*6at-2)</lemma>
 <tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-047-p2s10w13">

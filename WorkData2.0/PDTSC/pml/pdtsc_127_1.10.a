@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_127_1.10.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="ml_013.10-SCzechA-ml_013-d1e3819-x2-root">
 <s.rf>m#m013-d1e3819-x2</s.rf>
@@ -14,13 +17,16 @@
 <children>
 <LM id="ml_013.10-SCzechA-m-d1t3822-1">
 <m.rf>m#m013-d1t3822-1</m.rf>
-<afun>ExD</afun>
+<afun>AuxZ</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
-</LM>
+<children>
 <LM id="ml_013.10-SCzechA-m-d1e3819-x2-1313">
 <m.rf>m#m013-d1e3819-x2-1313</m.rf>
 <afun>AuxK</afun>
 <ord>2</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -30,13 +36,15 @@
 <children>
 <LM id="ml_013.10-SCzechA-m-d1t3822-2">
 <m.rf>m#m013-d1t3822-2</m.rf>
-<afun>ExD</afun>
+<afun>Partl</afun>
 <ord>1</ord>
-</LM>
+<children>
 <LM id="ml_013.10-SCzechA-m-d-m-d1e3819-x2-punct-punct">
 <m.rf>m#m013-d-m-d1e3819-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>2</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -47,19 +55,20 @@
 <LM id="ml_013.10-SCzechA-m-d1e3823-x2-1126">
 <m.rf>m#m013-d1e3823-x2-1126</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <children>
 <LM id="ml_013.10-SCzechA-m-d1t3828-1">
 <m.rf>m#m013-d1t3828-1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="ml_013.10-SCzechA-m-d-m-d1e3823-x2-punct-punct">
 <m.rf>m#m013-d-m-d1e3823-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -70,19 +79,20 @@
 <LM id="ml_013.10-SCzechA-m-d1e3823-x3-1128">
 <m.rf>m#m013-d1e3823-x3-1128</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <children>
 <LM id="ml_013.10-SCzechA-m-d1t3830-1">
 <m.rf>m#m013-d1t3830-1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="ml_013.10-SCzechA-m-d-m-d1e3823-x3-punct-punct">
 <m.rf>m#m013-d-m-d1e3823-x3-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

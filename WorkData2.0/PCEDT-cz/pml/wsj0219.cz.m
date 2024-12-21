@@ -1361,8 +1361,8 @@
 <LM>w#w-wsj0219-001-p1s11W5</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0219-001-p1s11W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5876,7 +5876,7 @@
 <LM>w#w-wsj0219-001-p1s25W16</LM>
 </w.rf>
 <form>hypotéčních</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-wsj0219-001-p1s25W17-Ta">

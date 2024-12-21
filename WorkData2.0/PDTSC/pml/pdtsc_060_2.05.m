@@ -1262,7 +1262,7 @@
 <LM>w#w-d1t1240-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m129-d1t1240-3">
@@ -2286,8 +2286,8 @@
 <LM>w#w-d1t1299-3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m129-d1t1299-4">
 <w.rf>
@@ -2384,8 +2384,8 @@
 <LM>w#w-d1t1305-4</LM>
 </w.rf>
 <form>spoustu</form>
-<lemma>spousta</lemma>
-<tag>NNFS4-----A----</tag>
+<lemma>spoustu</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m129-d1t1305-5">
 <w.rf>
@@ -2416,8 +2416,8 @@
 <LM>w#w-d1t1305-7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m129-d1t1305-8">
 <w.rf>
@@ -2985,7 +2985,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m129-d1t1338-2">
 <w.rf>

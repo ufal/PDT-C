@@ -19,8 +19,8 @@
 <LM>w#w-lnd91303-041-p1s1Aw1</LM>
 </w.rf>
 <form>Počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-lnd91303-041-p1s1Aw2">
 <src.rf>manual</src.rf>

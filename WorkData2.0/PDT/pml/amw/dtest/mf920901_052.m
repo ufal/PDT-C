@@ -587,8 +587,8 @@
 <LM>w#w-mf920901-052-p3s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920901-052-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1846,7 +1846,7 @@
 </w.rf>
 <form>reagovalo</form>
 <lemma>reagovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf920901-052-p7s1w6">
 <src.rf>manual</src.rf>

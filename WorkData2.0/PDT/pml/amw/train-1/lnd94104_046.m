@@ -1662,7 +1662,7 @@
 <LM>w#w-lnd94104-046-p1s11w31</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-046-p1s11w32">

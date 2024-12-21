@@ -675,8 +675,8 @@
 <LM>w#w-ln94208-114-p3s1w27</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-114-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1376,8 +1376,8 @@
 <LM>w#w-ln94208-114-p3s5w28</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-114-p3s5w29">
 <src.rf>manual</src.rf>

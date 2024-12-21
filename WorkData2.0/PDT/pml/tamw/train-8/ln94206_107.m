@@ -1999,8 +1999,8 @@
 <LM>w#w-ln94206-107-p3s3w11</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-107-p3s3w12">
 <src.rf>manual</src.rf>
@@ -2498,8 +2498,8 @@
 <LM>w#w-ln94206-107-p4s2w8</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-107-p4s2w9">
 <src.rf>manual</src.rf>
@@ -3525,8 +3525,8 @@
 <LM>w#w-ln94206-107-p5s5w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-107-p5s5w2">
 <src.rf>manual</src.rf>

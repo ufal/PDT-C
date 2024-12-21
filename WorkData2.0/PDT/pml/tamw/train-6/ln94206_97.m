@@ -439,8 +439,8 @@
 <LM>w#w-ln94206-97-p2s2w7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-97-p2s2w8">
 <src.rf>manual</src.rf>
@@ -729,8 +729,8 @@
 <LM>w#w-ln94206-97-p3s1w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-97-p3s1w20">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-97-p3s1w35">
 <src.rf>manual</src.rf>
@@ -2201,8 +2201,8 @@
 <LM>w#w-ln94206-97-p4s4w10</LM>
 </w.rf>
 <form>cestující</form>
-<lemma>cestující_^(*5ovat)</lemma>
-<tag>AGMP4-----A----</tag>
+<lemma>cestující-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-ln94206-97-p4s4w11">
 <src.rf>manual</src.rf>
@@ -2545,8 +2545,8 @@
 <LM>w#w-ln94206-97-p4s5w15</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-97-p4s5w16">
 <src.rf>manual</src.rf>
@@ -2828,8 +2828,8 @@
 <LM>w#w-ln94206-97-p5s1w3</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94206-97-p5s1w4">
 <src.rf>manual</src.rf>
@@ -3091,8 +3091,8 @@
 <LM>w#w-ln94206-97-p5s2w6</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-97-p5s2w7">
 <src.rf>manual</src.rf>

@@ -432,8 +432,8 @@
 <LM>w#w-ln94210-15-p3s1w1</LM>
 </w.rf>
 <form>Závěrem</form>
-<lemma>závěr_^(př._z_jednání,_úvah)</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>závěrem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-15-p3s1w2">
 <src.rf>manual</src.rf>

@@ -803,8 +803,8 @@
 <LM>w#w-ln95047-075-p2s4w13</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-075-p2s4w14">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-075-p2s4w18">
 <src.rf>manual</src.rf>

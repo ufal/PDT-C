@@ -496,7 +496,7 @@
 <LM>w#w-ln94205-82-p2s3w3</LM>
 </w.rf>
 <form>domnělých</form>
-<lemma>domnělý_^(*3ít)</lemma>
+<lemma>domnělý</lemma>
 <tag>AAMP2----1A----</tag>
 </m>
 <m id="m-ln94205-82-p2s3w4">
@@ -995,7 +995,7 @@
 <LM>w#w-ln94205-82-p2s5w6</LM>
 </w.rf>
 <form>napjaté</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-ln94205-82-p2s5w7">

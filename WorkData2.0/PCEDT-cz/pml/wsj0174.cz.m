@@ -1598,7 +1598,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0174-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2493,7 +2493,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0174-001-p1s13W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2528,8 +2528,8 @@
 <LM>w#w-wsj0174-001-p1s13W14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0174-001-p1s13W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4420,8 +4420,8 @@
 <LM>w#w-wsj0174-001-p1s22W16</LM>
 </w.rf>
 <form>podezřelých</form>
-<lemma>podezřelý</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>podezřelý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0174-001-p1s22W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6294,7 +6294,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0174-001-p1s31W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6467,7 +6467,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0174-001-p1s32W6-Ta">
 <src.rf>tagger-a</src.rf>

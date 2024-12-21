@@ -282,8 +282,8 @@
 <LM>w#w-ln94207-111-p1s2w12</LM>
 </w.rf>
 <form>nesporně</form>
-<lemma>sporně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nesporně</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-111-p1s2w13">
 <src.rf>manual</src.rf>
@@ -300,8 +300,8 @@
 <LM>w#w-ln94207-111-p1s2w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-111-p1s2w15">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 </w.rf>
 <form>Foto</form>
 <lemma>foto</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln94207-111-p1s5Bw2">
 <src.rf>manual</src.rf>

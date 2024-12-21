@@ -1311,8 +1311,8 @@
 <LM>w#w-ln94206-48-p4s1w6</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-48-p4s1w7">
 <src.rf>manual</src.rf>

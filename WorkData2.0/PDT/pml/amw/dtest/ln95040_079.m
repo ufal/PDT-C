@@ -1456,7 +1456,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-079-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1464,8 +1464,8 @@
 <LM>w#w-ln95040-079-p4s1w16</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-079-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1873,8 +1873,8 @@
 <LM>w#w-ln95040-079-p4s3w29</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95040-079-p4s3w30">
 <src.rf>manual</src.rf>
@@ -1927,7 +1927,7 @@
 <LM>w#w-ln95040-079-p4s3w35</LM>
 </w.rf>
 <form>Québeku</form>
-<lemma>Québek_;G_,s_^(^DD**Québec)</lemma>
+<lemma>Québek_;G_,s_^(^DD**Quebec)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-079-p4s3w36">
@@ -3944,7 +3944,7 @@
 <LM>w#w-ln95040-079-p7s3w11</LM>
 </w.rf>
 <form>Québeku</form>
-<lemma>Québek_;G_,s_^(^DD**Québec)</lemma>
+<lemma>Québek_;G_,s_^(^DD**Quebec)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-079-p7s3w12">
@@ -5029,8 +5029,8 @@
 <LM>w#w-ln95040-079-p8s3w7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95040-079-p8s3w8">
 <src.rf>manual</src.rf>

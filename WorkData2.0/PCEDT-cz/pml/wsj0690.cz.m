@@ -1347,8 +1347,8 @@
 <LM>w#w-wsj0690-001-p1s4W31</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0690-001-p1s4W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4617,7 +4617,7 @@
 </w.rf>
 <form>nereagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-NAI--</tag>
+<tag>VpMP----R-NAB--</tag>
 </m>
 <m id="m-wsj0690-001-p1s18W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4771,8 +4771,8 @@
 <LM>w#w-wsj0690-001-p1s19W15</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0690-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5226,7 +5226,7 @@
 </w.rf>
 <form>dominuje</form>
 <lemma>dominovat</lemma>
-<tag>VB-S---3P-AAB--</tag>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0690-001-p1s21W16-Ta">
 <src.rf>tagger-a</src.rf>

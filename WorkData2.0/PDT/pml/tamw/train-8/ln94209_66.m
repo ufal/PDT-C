@@ -738,8 +738,8 @@
 <LM>w#w-ln94209-66-p2s2w30</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-66-p2s2w31">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 </w.rf>
 <form>Joaoa</form>
 <lemma>Joao-2_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<tag>NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94209-66-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-ln94209-66-p3s1w32</LM>
 </w.rf>
 <form>jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln94209-66-p3s1w33">
@@ -1658,7 +1658,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-66-p3s5w7">
 <src.rf>manual</src.rf>
@@ -2264,8 +2264,8 @@
 <LM>w#w-ln94209-66-p4s2w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-66-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2300,7 +2300,7 @@
 <LM>w#w-ln94209-66-p4s2w16</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-66-p4s2w17">
@@ -2591,7 +2591,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-66-p5s1w15">
 <src.rf>manual</src.rf>

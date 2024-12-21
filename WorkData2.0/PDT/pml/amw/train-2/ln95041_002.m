@@ -670,8 +670,8 @@
 <LM>w#w-ln95041-002-p2s3w7</LM>
 </w.rf>
 <form>postupem</form>
-<lemma>postup</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>postupem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-002-p2s3w8">
 <src.rf>manual</src.rf>
@@ -4524,8 +4524,8 @@
 <LM>w#w-ln95041-002-p7s1w12</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-002-p7s1w13">
 <src.rf>manual</src.rf>
@@ -4607,7 +4607,7 @@
 <LM>w#w-ln95041-002-p7s2w2</LM>
 </w.rf>
 <form>zmrazeného</form>
-<lemma>zmrazený_^(*3it)</lemma>
+<lemma>zmrazený_^(^DD**zmražený)_(*3it)</lemma>
 <tag>AAMS4----1A----</tag>
 </m>
 <m id="m-ln95041-002-p7s2w3">
@@ -5524,8 +5524,8 @@
 <LM>w#w-ln95041-002-p8s4w15</LM>
 </w.rf>
 <form>favorita</form>
-<lemma>favorit-1_^(vozidlo)</lemma>
-<tag>NNIS4-----A---1</tag>
+<lemma>favorit-2</lemma>
+<tag>NNMS4-----A----</tag>
 </m>
 <m id="m-ln95041-002-p8s4w16">
 <src.rf>manual</src.rf>

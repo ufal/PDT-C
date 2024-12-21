@@ -430,7 +430,7 @@
 <LM>w#w-ln95045-059-p2s2w13</LM>
 </w.rf>
 <form>zapřísáhlý</form>
-<lemma>zapřísáhlý_^(*2nout)</lemma>
+<lemma>zapřísáhlý_^(^GC**zapřisáhlý)_(*2nout)</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m-ln95045-059-p2s2w14">
@@ -496,7 +496,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-059-p3s1w4">
 <src.rf>manual</src.rf>

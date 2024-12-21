@@ -2248,7 +2248,7 @@
 </w.rf>
 <form>věnují</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf920901-101-p5s1w34">
 <src.rf>manual</src.rf>
@@ -2456,8 +2456,8 @@
 <LM>w#w-mf920901-101-p5s2w9</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-101-p5s2w10">
 <src.rf>manual</src.rf>

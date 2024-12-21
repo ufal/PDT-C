@@ -121,7 +121,7 @@
 </w.rf>
 <form>věnován</form>
 <lemma>věnovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-ln95043-018-p2s1w12">
 <src.rf>manual</src.rf>

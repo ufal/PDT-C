@@ -185,8 +185,8 @@
 <LM>w#w-mf920901-010-p2s1w8</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-010-p2s1w9">
 <src.rf>manual</src.rf>
@@ -3469,8 +3469,8 @@
 <LM>w#w-mf920901-010-p6s1w12</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-010-p6s1w13">
 <src.rf>manual</src.rf>

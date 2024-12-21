@@ -770,7 +770,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0489-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -31,15 +31,16 @@
 <children>
 <LM id="a-ln94211-94-p1s1w1">
 <m.rf>m#m-ln94211-94-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94211-94-p1s1w3">
 <m.rf>m#m-ln94211-94-p1s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -57,8 +58,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94211-94-p1s1w6">
 <m.rf>m#m-ln94211-94-p1s1w6</m.rf>
 <afun>AuxG</afun>
@@ -67,9 +66,11 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-ln94211-94-p1s1w10">
 <m.rf>m#m-ln94211-94-p1s1w10</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
@@ -136,12 +137,13 @@
 <m.rf>m#m-ln94211-94-p1s2w1</m.rf>
 <afun>AuxP</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94211-94-p1s2w2">
 <m.rf>m#m-ln94211-94-p1s2w2</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -149,8 +151,9 @@
 </LM>
 <LM id="a-ln94211-94-p1s2w4">
 <m.rf>m#m-ln94211-94-p1s2w4</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
@@ -164,15 +167,17 @@
 </LM>
 <LM id="a-ln94211-94-p1s2w6">
 <m.rf>m#m-ln94211-94-p1s2w6</m.rf>
-<afun>Pred</afun>
+<afun>Adv</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94211-94-p1s2w8">
 <m.rf>m#m-ln94211-94-p1s2w8</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -200,7 +205,7 @@
 <children>
 <LM id="a-ln94211-94-p1s3w1">
 <m.rf>m#m-ln94211-94-p1s3w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>

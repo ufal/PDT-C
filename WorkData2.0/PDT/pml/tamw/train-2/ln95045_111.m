@@ -1566,8 +1566,8 @@
 <LM>w#w-ln95045-111-p4s1w9</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95045-111-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1650,8 +1650,8 @@
 <LM>w#w-ln95045-111-p4s2w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-111-p4s2w2">
 <src.rf>manual</src.rf>
@@ -2409,8 +2409,8 @@
 <LM>w#w-ln95045-111-p4s8w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-111-p4s8w4">
 <src.rf>manual</src.rf>
@@ -2637,7 +2637,7 @@
 </w.rf>
 <form>reagovaly</form>
 <lemma>reagovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln95045-111-p4s9w18">
 <src.rf>manual</src.rf>
@@ -2800,8 +2800,8 @@
 <LM>w#w-ln95045-111-p4s10w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-111-p4s10w9">
 <src.rf>manual</src.rf>

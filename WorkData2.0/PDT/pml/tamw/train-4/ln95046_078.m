@@ -351,8 +351,8 @@
 <LM>w#w-ln95046-078-p2s4w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-078-p2s4w2">
 <src.rf>manual</src.rf>

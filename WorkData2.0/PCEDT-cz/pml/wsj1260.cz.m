@@ -379,7 +379,7 @@
 </w.rf>
 <form>Citujete</form>
 <lemma>citovat</lemma>
-<tag>VB-P---2P-AAI--</tag>
+<tag>VB-P---2P-AAB--</tag>
 </m>
 <m id="m-wsj1260-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -774,8 +774,8 @@
 <LM>w#w-wsj1260-001-p1s1W45</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1260-001-p1s1W46-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1783,8 +1783,8 @@
 <LM>w#w-wsj1260-001-p1s6W1</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1260-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>

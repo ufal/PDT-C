@@ -387,8 +387,8 @@
 <LM>w#w-ln95045-107-p2s3w3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-107-p2s3w4">
 <src.rf>manual</src.rf>
@@ -677,8 +677,8 @@
 <LM>w#w-ln95045-107-p2s4w5</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-107-p2s4w6">
 <src.rf>manual</src.rf>

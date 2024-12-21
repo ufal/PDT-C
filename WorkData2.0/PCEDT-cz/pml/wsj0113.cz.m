@@ -907,16 +907,16 @@
 </w.rf>
 <form>o</form>
 <lemma>o-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj0113-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0113-001-p1s3W7</LM>
 </w.rf>
-<form>příjmů</form>
+<form>příjmech</form>
 <lemma>příjem</lemma>
-<tag>NNIP2-----A----</tag>
+<tag>NNIP6-----A----</tag>
 </m>
 <m id="m-wsj0113-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1679,8 +1679,8 @@
 <LM>w#w-wsj0113-001-p1s7W16</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0113-001-p1s7W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2436,7 +2436,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0113-001-p1s11W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4632,8 +4632,8 @@
 <LM>w#w-wsj0113-001-p1s21W7</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0113-001-p1s21W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5022,8 +5022,8 @@
 <LM>w#w-wsj0113-001-p1s22W28</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0113-001-p1s22W29-Ta">
 <src.rf>tagger-a</src.rf>

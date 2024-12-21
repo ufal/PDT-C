@@ -478,7 +478,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0812-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2142,8 +2142,8 @@
 <LM>w#w-wsj0812-001-p1s5W22</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0812-001-p1s5W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3816,7 +3816,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-wsj0812-001-p1s12W6-Ta">
 <src.rf>tagger-a</src.rf>

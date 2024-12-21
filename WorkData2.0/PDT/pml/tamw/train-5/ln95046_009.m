@@ -1144,7 +1144,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-009-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1949,7 +1949,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95046-009-p4s1w5">
 <src.rf>manual</src.rf>
@@ -2086,7 +2086,7 @@
 </w.rf>
 <form>citován</form>
 <lemma>citovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-ln95046-009-p4s2w12">
 <src.rf>manual</src.rf>
@@ -2231,8 +2231,8 @@
 <LM>w#w-ln95046-009-p4s3w3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-009-p4s3w4">
 <src.rf>manual</src.rf>
@@ -2715,8 +2715,8 @@
 <LM>w#w-ln95046-009-p4s6w3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-009-p4s6w4">
 <src.rf>manual</src.rf>
@@ -2945,7 +2945,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-009-p4s8w4">
 <src.rf>manual</src.rf>
@@ -3145,8 +3145,8 @@
 <LM>w#w-ln95046-009-p4s9w13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-009-p4s9w14">
 <src.rf>manual</src.rf>

@@ -1092,7 +1092,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-mf920922-090-p1s5w9">
 <src.rf>manual</src.rf>
@@ -1145,8 +1145,8 @@
 <LM>w#w-mf920922-090-p1s5w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-090-p1s5w15">
 <src.rf>manual</src.rf>

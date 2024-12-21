@@ -641,8 +641,8 @@
 <LM>w#w-wsj1901-001-p1s2W14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1901-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -724,8 +724,8 @@
 <LM>w#w-wsj1901-001-p1s3W4</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1901-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -850,8 +850,8 @@
 <LM>w#w-wsj1901-001-p1s3W18</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1901-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -952,7 +952,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1901-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1096,7 +1096,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1901-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1450,7 +1450,7 @@
 <LM>w#w-wsj1901-001-p1s6W15</LM>
 </w.rf>
 <form>hovězí</form>
-<lemma>hovězí</lemma>
+<lemma>hovězí-2</lemma>
 <tag>AANS4----1A----</tag>
 </m>
 <m id="m-wsj1901-001-p1s6W16-Ta">

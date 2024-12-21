@@ -1572,7 +1572,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0331-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2645,8 +2645,8 @@
 <LM>w#w-wsj0331-001-p1s12W13</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0331-001-p1s12W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3339,7 +3339,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0331-001-p1s16W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4546,8 +4546,8 @@
 <LM>w#w-wsj0331-001-p1s21W28</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0331-001-p1s21W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6489,7 +6489,7 @@
 </w.rf>
 <form>Citováno</form>
 <lemma>citovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-wsj0331-001-p1s33W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7695,8 +7695,8 @@
 <LM>w#w-wsj0331-001-p1s38W1</LM>
 </w.rf>
 <form>Tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0331-001-p1s38W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8105,7 +8105,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0331-001-p1s40W2-Ta">
 <src.rf>tagger-a</src.rf>

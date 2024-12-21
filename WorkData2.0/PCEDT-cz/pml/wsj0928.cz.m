@@ -873,7 +873,7 @@
 </w.rf>
 <form>předčily</form>
 <lemma>předčit</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-wsj0928-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1984,7 +1984,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0928-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2565,7 +2565,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0928-001-p1s11W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2956,7 +2956,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0928-001-p1s13W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3108,8 +3108,8 @@
 <LM>w#w-wsj0928-001-p1s13W26</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0928-001-p1s13W27-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1648,7 +1648,6 @@
 <w.rf>
 <LM>w#w-wsj1973-001-p1s6W35</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.1</form>
 <lemma>1.1</lemma>
 <tag>C=-------------</tag>
@@ -1949,7 +1948,6 @@
 <w.rf>
 <LM>w#w-wsj1973-001-p1s7W22</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.1</form>
 <lemma>1.1</lemma>
 <tag>C=-------------</tag>
@@ -2132,7 +2130,6 @@
 <w.rf>
 <LM>w#w-wsj1973-001-p1s8W19</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.1</form>
 <lemma>1.1</lemma>
 <tag>C=-------------</tag>
@@ -2687,8 +2684,8 @@
 <LM>w#w-wsj1973-001-p1s10W24</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1973-001-p1s10W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3252,7 +3249,6 @@
 <w.rf>
 <LM>w#w-wsj1973-001-p1s14W10</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.1</form>
 <lemma>1.1</lemma>
 <tag>C=-------------</tag>
@@ -4126,8 +4122,8 @@
 <LM>w#w-wsj1973-001-p1s18W21</LM>
 </w.rf>
 <form>li</form>
-<lemma>li-2</lemma>
-<tag>J,-------------</tag>
+<lemma>li-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1973-001-p1s18W22-Ta">
 <src.rf>tagger-a</src.rf>

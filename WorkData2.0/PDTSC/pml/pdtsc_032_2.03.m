@@ -567,7 +567,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m973-id62528-6">
 <w.rf>
@@ -1648,8 +1648,8 @@
 <LM>w#w-id62789-4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m973-id62789-5">
 <w.rf>
@@ -2374,8 +2374,8 @@
 <LM>w#w-id62961-5</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m973-id62961-3">
 <w.rf>
@@ -2438,8 +2438,8 @@
 <LM>w#w-id62961-11</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m973-id62961-13">
 <w.rf>
@@ -2606,8 +2606,8 @@
 <LM>w#w-id63050-2</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m973-id63050-3">
 <w.rf>
@@ -3279,7 +3279,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m973-id63250-5">
 <w.rf>
@@ -3499,7 +3499,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m973-id63289-3">
 <w.rf>
@@ -3778,8 +3778,8 @@
 <LM>w#w-id63378-10</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m973-id63378-8">
 <w.rf>
@@ -3990,8 +3990,8 @@
 <LM>w#w-id63452-9</LM>
 </w.rf>
 <form>nedělo</form>
-<lemma>dít-2_^(říkat)</lemma>
-<tag>VpNS----R-NAP--</tag>
+<lemma>dít-1_^(dít_se)</lemma>
+<tag>VpNS----R-NAI--</tag>
 </m>
 <m id="m973-id63437-x1-20826">
 <w.rf>
@@ -4096,7 +4096,7 @@
 <LM>w#w-id63490-4</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m973-d-id101426">
@@ -4226,8 +4226,8 @@
 <LM>w#w-id63500-10</LM>
 </w.rf>
 <form>si</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--3----------</tag>
+<lemma>být</lemma>
+<tag>VB-S---2P-AAI-8</tag>
 </m>
 <m id="m973-id63500-11">
 <w.rf>

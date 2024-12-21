@@ -740,8 +740,8 @@
 <LM>w#w-lnd94103-107-p1s2w22</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-107-p1s2w23">
 <src.rf>manual</src.rf>
@@ -913,8 +913,8 @@
 <LM>w#w-lnd94103-107-p1s3w15</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-107-p1s3w16">
 <src.rf>manual</src.rf>
@@ -1450,8 +1450,8 @@
 <LM>w#w-lnd94103-107-p1s6w7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-107-p1s6w8">
 <src.rf>manual</src.rf>

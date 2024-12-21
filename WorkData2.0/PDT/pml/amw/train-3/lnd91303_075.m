@@ -995,7 +995,7 @@
 <LM>w#w-lnd91303-075-p3s4w1</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd91303-075-p3s4w2">

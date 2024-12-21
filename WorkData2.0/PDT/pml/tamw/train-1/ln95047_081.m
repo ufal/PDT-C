@@ -757,7 +757,7 @@
 </w.rf>
 <form>rozdal</form>
 <lemma>rozdat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-081-p2s4w4">
 <src.rf>manual</src.rf>

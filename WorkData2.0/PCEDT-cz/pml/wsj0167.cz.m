@@ -543,7 +543,7 @@
 </w.rf>
 <form>distribuuje</form>
 <lemma>distribuovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0167-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

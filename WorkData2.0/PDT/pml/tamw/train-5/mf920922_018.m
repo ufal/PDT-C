@@ -891,8 +891,8 @@
 <LM>w#w-mf920922-018-p2s4w4</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-018-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1427,7 +1427,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-018-p2s6w21">
 <src.rf>manual</src.rf>
@@ -1518,8 +1518,8 @@
 <LM>w#w-mf920922-018-p2s7w4</LM>
 </w.rf>
 <form>totiž</form>
-<lemma>totiž-2</lemma>
-<tag>TT-------------</tag>
+<lemma>totiž-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-018-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1689,7 +1689,7 @@
 <LM>w#w-mf920922-018-p2s7w23</LM>
 </w.rf>
 <form>dumpingu</form>
-<lemma>dumping</lemma>
+<lemma>dumping_,s_^(^DD**damping)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-018-p2s7w24">
@@ -2462,7 +2462,7 @@
 <LM>w#w-mf920922-018-p2s11w23</LM>
 </w.rf>
 <form>dumpingu</form>
-<lemma>dumping</lemma>
+<lemma>dumping_,s_^(^DD**damping)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-018-p2s11w24">
@@ -2543,8 +2543,8 @@
 <LM>w#w-mf920922-018-p2s11w32</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-018-p2s11w33">
 <src.rf>manual</src.rf>
@@ -2752,8 +2752,8 @@
 <LM>w#w-mf920922-018-p2s12w20</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-018-p2s12w21">
 <src.rf>manual</src.rf>
@@ -2935,7 +2935,7 @@
 </w.rf>
 <form>věnováno</form>
 <lemma>věnovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-mf920922-018-p3s1w11">
 <src.rf>manual</src.rf>

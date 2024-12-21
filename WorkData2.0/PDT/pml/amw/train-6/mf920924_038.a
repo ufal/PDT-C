@@ -88,7 +88,7 @@
 </LM>
 <LM id="a-mf920924-038-p1s1w11">
 <m.rf>m#m-mf920924-038-p1s1w11</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>11</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -166,25 +166,23 @@
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920924-038-p3s1w11">
-<m.rf>m#m-mf920924-038-p3s1w11</m.rf>
-<afun>Atr</afun>
-<ord>11</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-mf920924-038-p3s1w12">
 <m.rf>m#m-mf920924-038-p3s1w12</m.rf>
 <afun>Atr</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920924-038-p3s1w11">
+<m.rf>m#m-mf920924-038-p3s1w11</m.rf>
+<afun>Atr</afun>
+<ord>11</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-mf920924-038-p3s1w13">
 <m.rf>m#m-mf920924-038-p3s1w13</m.rf>
 <afun>Atr</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -235,7 +233,7 @@
 </LM>
 <LM id="a-mf920924-038-p3s2w4">
 <m.rf>m#m-mf920924-038-p3s2w4</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>4</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -385,14 +383,12 @@
 <afun>Sb</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-mf920924-038-p3s3w5">
 <m.rf>m#m-mf920924-038-p3s3w5</m.rf>
-<afun>AuxZ</afun>
+<afun>Adv</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 <LM id="a-mf920924-038-p3s3w6">
 <m.rf>m#m-mf920924-038-p3s3w6</m.rf>
@@ -474,18 +470,18 @@
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920924-038-p3s4w9">
-<m.rf>m#m-mf920924-038-p3s4w9</m.rf>
-<afun>Obj</afun>
-<ord>9</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-mf920924-038-p3s4w5">
 <m.rf>m#m-mf920924-038-p3s4w5</m.rf>
 <afun>AuxZ</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-mf920924-038-p3s4w9">
+<m.rf>m#m-mf920924-038-p3s4w9</m.rf>
+<afun>Obj</afun>
+<ord>9</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-mf920924-038-p3s4w8">
 <m.rf>m#m-mf920924-038-p3s4w8</m.rf>
 <afun>Atr</afun>
@@ -812,7 +808,7 @@
 </LM>
 <LM id="a-mf920924-038-p3s5w19">
 <m.rf>m#m-mf920924-038-p3s5w19</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>19</ord>
 <clause_number>3</clause_number>
 </LM>

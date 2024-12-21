@@ -26,11 +26,6 @@
 <afun>Sb</afun>
 <ord>1</ord>
 <children>
-<LM id="a-wsj1340-001-p1s0W3-Ta">
-<m.rf>m#m-wsj1340-001-p1s0W3-Ta</m.rf>
-<afun>Atr</afun>
-<ord>3</ord>
-</LM>
 <LM id="a-wsj1340-001-p1s0W6-Ta">
 <m.rf>m#m-wsj1340-001-p1s0W6-Ta</m.rf>
 <afun>Atr</afun>
@@ -40,6 +35,11 @@
 <m.rf>m#m-wsj1340-001-p1s0W2-Ta</m.rf>
 <afun>Atr</afun>
 <ord>2</ord>
+</LM>
+<LM id="a-wsj1340-001-p1s0W3-Ta">
+<m.rf>m#m-wsj1340-001-p1s0W3-Ta</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
 </LM>
 <LM id="a-wsj1340-001-p1s0W4-Ta">
 <m.rf>m#m-wsj1340-001-p1s0W4-Ta</m.rf>
@@ -146,7 +146,7 @@
 <m.rf>m#m-wsj1340-001-p1s0W23-Ta</m.rf>
 <afun>Atr</afun>
 <ord>23</ord>
-<children>
+</LM>
 <LM id="a-wsj1340-001-p1s0W24-Ta">
 <m.rf>m#m-wsj1340-001-p1s0W24-Ta</m.rf>
 <afun>AuxP</afun>
@@ -156,8 +156,6 @@
 <m.rf>m#m-wsj1340-001-p1s0W25-Ta</m.rf>
 <afun>Atr</afun>
 <ord>25</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -174,8 +172,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1340-001-p1s0W28-Ta">
 <m.rf>m#m-wsj1340-001-p1s0W28-Ta</m.rf>
 <afun>AuxP</afun>
@@ -183,12 +179,12 @@
 <children>
 <LM id="a-wsj1340-001-p1s0W27-Ta">
 <m.rf>m#m-wsj1340-001-p1s0W27-Ta</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>27</ord>
 </LM>
 <LM id="a-wsj1340-001-p1s0W29-Ta">
 <m.rf>m#m-wsj1340-001-p1s0W29-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Atr</afun>
 <ord>29</ord>
 <children>
 <LM id="a-wsj1340-001-p1s0W30-Ta">
@@ -291,6 +287,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-wsj1340-001-p1s1">
 <s.rf>m#m-wsj1340-001-p1s1</s.rf>
 <ord>0</ord>
@@ -372,7 +370,7 @@
 <m.rf>m#m-wsj1340-001-p1s1W14-Ta</m.rf>
 <afun>Atr</afun>
 <ord>14</ord>
-<children>
+</LM>
 <LM id="a-wsj1340-001-p1s1W15-Ta">
 <m.rf>m#m-wsj1340-001-p1s1W15-Ta</m.rf>
 <afun>AuxP</afun>
@@ -382,8 +380,6 @@
 <m.rf>m#m-wsj1340-001-p1s1W16-Ta</m.rf>
 <afun>Atr</afun>
 <ord>16</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -433,12 +429,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1340-001-p1s1W23-Ta">
 <m.rf>m#m-wsj1340-001-p1s1W23-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>23</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -527,7 +523,7 @@
 <children>
 <LM id="a-wsj1340-001-p1s2W13-Ta">
 <m.rf>m#m-wsj1340-001-p1s2W13-Ta</m.rf>
-<afun>AuxZ</afun>
+<afun>Atr</afun>
 <ord>13</ord>
 </LM>
 <LM id="a-wsj1340-001-p1s2W15-Ta">
@@ -546,12 +542,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1340-001-p1s2W17-Ta">
 <m.rf>m#m-wsj1340-001-p1s2W17-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>17</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -631,7 +627,7 @@
 <children>
 <LM id="a-wsj1340-001-p1s3W13-Ta">
 <m.rf>m#m-wsj1340-001-p1s3W13-Ta</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>13</ord>
 </LM>
 </children>
@@ -662,12 +658,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1340-001-p1s3W18-Ta">
 <m.rf>m#m-wsj1340-001-p1s3W18-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>18</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -846,12 +842,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1340-001-p1s4W28-Ta">
 <m.rf>m#m-wsj1340-001-p1s4W28-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>28</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -947,12 +943,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1340-001-p1s5W15-Ta">
 <m.rf>m#m-wsj1340-001-p1s5W15-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>15</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1006,7 +1002,7 @@
 <children>
 <LM id="a-wsj1340-001-p1s6W10-Ta">
 <m.rf>m#m-wsj1340-001-p1s6W10-Ta</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>10</ord>
 <children>
 <LM id="a-wsj1340-001-p1s6W9-Ta">
@@ -1022,12 +1018,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1340-001-p1s6W11-Ta">
 <m.rf>m#m-wsj1340-001-p1s6W11-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>11</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1152,12 +1148,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1340-001-p1s7W20-Ta">
 <m.rf>m#m-wsj1340-001-p1s7W20-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>20</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

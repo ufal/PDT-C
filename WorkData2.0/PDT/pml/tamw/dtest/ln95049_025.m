@@ -228,8 +228,8 @@
 <LM>w#w-ln95049-025-p2s1w13</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p2s1w14">
 <src.rf>manual</src.rf>
@@ -531,8 +531,8 @@
 <LM>w#w-ln95049-025-p3s1w1</LM>
 </w.rf>
 <form>Právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p3s1w2">
 <src.rf>manual</src.rf>
@@ -940,8 +940,8 @@
 <LM>w#w-ln95049-025-p3s3w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1654,8 +1654,8 @@
 <LM>w#w-ln95049-025-p4s4w4</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95049-025-p4s4w5">
 <src.rf>manual</src.rf>
@@ -2393,7 +2393,7 @@
 <LM>w#w-ln95049-025-p5s1w9</LM>
 </w.rf>
 <form>výhružných</form>
-<lemma>výhružný</lemma>
+<lemma>výhružný_,s_^(^DD**výhrůžný)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-ln95049-025-p5s1w10">
@@ -2512,8 +2512,8 @@
 <LM>w#w-ln95049-025-p5s2w1</LM>
 </w.rf>
 <form>Stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2521,8 +2521,8 @@
 <LM>w#w-ln95049-025-p5s2w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p5s2w3">
 <src.rf>manual</src.rf>
@@ -2584,8 +2584,8 @@
 <LM>w#w-ln95049-025-p5s2w9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2593,8 +2593,8 @@
 <LM>w#w-ln95049-025-p5s2w10</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2683,8 +2683,8 @@
 <LM>w#w-ln95049-025-p5s2w20</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p5s2w21">
 <src.rf>manual</src.rf>
@@ -3231,8 +3231,8 @@
 <LM>w#w-ln95049-025-p6s3w2</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p6s3w3">
 <src.rf>manual</src.rf>
@@ -3386,7 +3386,7 @@
 <LM>w#w-ln95049-025-p6s4w3</LM>
 </w.rf>
 <form>výhružkami</form>
-<lemma>výhružka</lemma>
+<lemma>výhružka_,s_^(^DD**výhrůžka)</lemma>
 <tag>NNFP7-----A----</tag>
 </m>
 <m id="m-ln95049-025-p6s4w4">
@@ -3424,8 +3424,8 @@
 <LM>w#w-ln95049-025-p6s5w3</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p6s5w4">
 <src.rf>manual</src.rf>
@@ -3945,8 +3945,8 @@
 <LM>w#w-ln95049-025-p7s2w11</LM>
 </w.rf>
 <form>obviněný</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-025-p7s2w12">
 <src.rf>manual</src.rf>
@@ -4300,8 +4300,8 @@
 <LM>w#w-ln95049-025-p7s4w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p7s4w18">
 <src.rf>manual</src.rf>
@@ -4393,7 +4393,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-025-p7s5w6">
 <src.rf>manual</src.rf>

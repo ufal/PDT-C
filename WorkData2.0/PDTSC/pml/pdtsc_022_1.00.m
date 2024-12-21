@@ -414,7 +414,7 @@
 <LM>w#w-d1t49-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m057-d1t49-3">
@@ -604,8 +604,8 @@
 <LM>w#w-d1t61-9</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m057-d1t61-10">
 <w.rf>
@@ -636,8 +636,8 @@
 <LM>w#w-d1t61-13</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ani-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m057-d1t61-12">
 <w.rf>
@@ -793,7 +793,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m057-d1t74-16">
 <w.rf>
@@ -1031,7 +1031,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m057-d1t88-7">
 <w.rf>
@@ -1110,8 +1110,8 @@
 <LM>w#w-d1t88-18</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m057-d1t88-17">
 <w.rf>
@@ -1286,8 +1286,8 @@
 <LM>w#w-d1t106-1</LM>
 </w.rf>
 <form>Alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m057-d1t106-2">
 <w.rf>
@@ -1884,8 +1884,8 @@
 <LM>w#w-d1t157-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m057-d1t157-5">
 <w.rf>
@@ -2202,8 +2202,8 @@
 <LM>w#w-d1t189-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m057-d1t189-4">
 <w.rf>
@@ -2260,8 +2260,8 @@
 <LM>w#w-d1t193-3</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m057-d1t193-4">
 <w.rf>
@@ -2342,8 +2342,8 @@
 <LM>w#w-d1t197-1</LM>
 </w.rf>
 <form>Aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m057-d1t197-2">
 <w.rf>

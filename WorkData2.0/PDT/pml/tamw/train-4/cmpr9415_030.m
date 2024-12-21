@@ -392,8 +392,8 @@
 <LM>w#w-cmpr9415-030-p3s2w19</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-030-p3s2w20">
 <src.rf>manual</src.rf>

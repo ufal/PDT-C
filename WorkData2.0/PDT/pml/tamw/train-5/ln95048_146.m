@@ -66,7 +66,7 @@
 <LM>w#w-ln95048-146-p2s1w3</LM>
 </w.rf>
 <form>dozvědělo</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-146-p2s1w4">

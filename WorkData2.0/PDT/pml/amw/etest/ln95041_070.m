@@ -87,7 +87,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95041-070-p2s1w2">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-ln95041-070-p3s1Bw7</LM>
 </w.rf>
 <form>Jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln95041-070-p3s1Bw8">
@@ -453,7 +453,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-070-p4s1w7">
 <src.rf>manual</src.rf>

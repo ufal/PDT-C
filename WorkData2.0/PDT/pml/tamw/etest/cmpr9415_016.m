@@ -654,7 +654,7 @@
 <LM>w#w-cmpr9415-016-p7s1w14</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9415-016-p7s1w15">
@@ -699,8 +699,8 @@
 <LM>w#w-cmpr9415-016-p7s1w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-016-p7s1w20">
 <src.rf>manual</src.rf>
@@ -1872,8 +1872,8 @@
 <LM>w#w-cmpr9415-016-p9s2w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-016-p9s2w20">
 <src.rf>manual</src.rf>

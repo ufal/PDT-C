@@ -2842,7 +2842,7 @@
 <LM>w#w-vesm9211-026-p4s5w20</LM>
 </w.rf>
 <form>anilinem</form>
-<lemma>anilin</lemma>
+<lemma>anilin_,s_^(^DD**anilín)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9211-026-p4s5w21">

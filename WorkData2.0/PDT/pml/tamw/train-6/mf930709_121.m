@@ -376,8 +376,8 @@
 <LM>w#w-mf930709-121-p2s2w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-121-p2s2w18">
 <src.rf>manual</src.rf>
@@ -522,8 +522,8 @@
 <LM>w#w-mf930709-121-p2s3w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-121-p2s3w15">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-121-p2s6w3">
 <src.rf>manual</src.rf>

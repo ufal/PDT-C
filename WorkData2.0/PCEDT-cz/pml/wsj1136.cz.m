@@ -599,7 +599,7 @@
 </w.rf>
 <form>Údaje</form>
 <lemma>údaj</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-wsj1136-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2994,7 +2994,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1136-001-p1s10W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3130,8 +3130,8 @@
 <LM>w#w-wsj1136-001-p1s11W11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1136-001-p1s11W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4898,8 +4898,8 @@
 <LM>w#w-wsj1136-001-p1s17W19</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1136-001-p1s17W20-Ta">
 <src.rf>tagger-a</src.rf>

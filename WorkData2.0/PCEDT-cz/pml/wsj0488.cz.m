@@ -4528,8 +4528,8 @@
 <LM>w#w-wsj0488-001-p1s19W16</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0488-001-p1s19W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4773,8 +4773,8 @@
 <LM>w#w-wsj0488-001-p1s20W13</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0488-001-p1s20W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5147,7 +5147,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0488-001-p1s22W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5666,7 +5666,7 @@
 </w.rf>
 <form>dominovaly</form>
 <lemma>dominovat</lemma>
-<tag>VpTP----R-AAB--</tag>
+<tag>VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0488-001-p1s25W8-Ta">
 <src.rf>tagger-a</src.rf>

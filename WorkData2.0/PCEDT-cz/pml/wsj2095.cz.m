@@ -197,7 +197,7 @@
 </w.rf>
 <form>předčila</form>
 <lemma>předčit</lemma>
-<tag>VpQW----R-AAP--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj2095-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -731,8 +731,8 @@
 <LM>w#w-wsj2095-001-p1s2W20</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2095-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1621,8 +1621,8 @@
 <LM>w#w-wsj2095-001-p1s5W17</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ani-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2095-001-p1s5W18-Ta">
 <src.rf>tagger-a</src.rf>

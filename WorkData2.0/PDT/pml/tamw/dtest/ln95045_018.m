@@ -1012,8 +1012,8 @@
 <LM>w#w-ln95045-018-p3s1w29</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-018-p3s1w30">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95045-018-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1396,8 +1396,8 @@
 <LM>w#w-ln95045-018-p3s4w2</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95045-018-p3s4w3">
 <src.rf>manual</src.rf>

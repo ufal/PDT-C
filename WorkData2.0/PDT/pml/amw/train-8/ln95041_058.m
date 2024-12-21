@@ -658,7 +658,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95041-058-p3s1w7">
 <src.rf>manual</src.rf>
@@ -2123,7 +2123,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-058-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2195,7 +2195,7 @@
 </w.rf>
 <form>rozdán</form>
 <lemma>rozdat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-058-p6s1w14">
 <src.rf>manual</src.rf>

@@ -1241,8 +1241,8 @@
 <LM>w#w-wsj0647-001-p1s4W14</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0647-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1660,7 +1660,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0647-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1266,8 +1266,8 @@
 <LM>w#w-mf930709-050-p3s6w39</LM>
 </w.rf>
 <form>přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf930709-050-p3s6w40">
 <src.rf>manual</src.rf>

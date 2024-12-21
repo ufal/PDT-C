@@ -192,8 +192,8 @@
 <LM>w#w-mf920925-027-p2s1w17</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-027-p2s1w18">
 <src.rf>manual</src.rf>
@@ -273,8 +273,8 @@
 <LM>w#w-mf920925-027-p2s1w26</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-027-p2s1w27">
 <src.rf>manual</src.rf>

@@ -1983,8 +1983,8 @@
 <LM>w#w-lnd94103-149-p1s11Aw13</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-149-p1s11Aw14">
 <src.rf>manual</src.rf>
@@ -3381,8 +3381,8 @@
 <LM>w#w-lnd94103-149-p1s16w18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-149-p1s16w19">
 <src.rf>manual</src.rf>
@@ -3945,8 +3945,8 @@
 <LM>w#w-lnd94103-149-p1s19w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-149-p1s19w5">
 <src.rf>manual</src.rf>

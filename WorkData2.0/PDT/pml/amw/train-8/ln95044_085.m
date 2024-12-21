@@ -4069,7 +4069,7 @@
 <LM>w#w-ln95044-085-p6s4w18</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-ln95044-085-p6s4w19">

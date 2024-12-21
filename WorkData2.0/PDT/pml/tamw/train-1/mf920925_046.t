@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_046.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -30,42 +30,14 @@
 </LM>
 </mwes>
 <children>
-<LM id="t-mf920925-046-p1s1a0">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#EmpVerb</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<tfa>t</tfa>
-<deepord>2</deepord>
-<children>
-<LM id="t-mf920925-046-p1s1w2">
-<a>
-<lex.rf>a#a-mf920925-046-p1s1w2</lex.rf>
-<aux.rf>
-<LM>a#a-mf920925-046-p1s1w1</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>bugina</t_lemma>
-<functor>LOC</functor>
-<subfunctor>basic</subfunctor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<typgroup>single</typgroup>
-</gram>
-<tfa>c</tfa>
-<deepord>1</deepord>
-</LM>
 <LM id="t-mf920925-046-p1s1w8">
 <a>
 <lex.rf>a#a-mf920925-046-p1s1w8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Bartoš</t_lemma>
-<functor>ACT</functor>
+<functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_name_of_person>1</is_name_of_person>
 <gram>
 <sempos>n.denot</sempos>
@@ -74,7 +46,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>3</deepord>
+<deepord>1</deepord>
 <children>
 <LM id="t-mf920925-046-p1s1w7">
 <a>
@@ -91,7 +63,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>4</deepord>
+<deepord>2</deepord>
 </LM>
 <LM id="t-mf920925-046-p1s1w5">
 <a>
@@ -107,7 +79,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>5</deepord>
+<deepord>3</deepord>
 <children>
 <LM id="t-mf920925-046-p1s1w6">
 <a>
@@ -123,7 +95,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>6</deepord>
+<deepord>4</deepord>
 </LM>
 <LM id="t-mf920925-046-p1s1w4">
 <a>
@@ -138,7 +110,7 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>7</deepord>
+<deepord>5</deepord>
 </LM>
 <LM id="t-mf920925-046-p1s1w3">
 <a>
@@ -153,9 +125,26 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>8</deepord>
+<deepord>6</deepord>
 </LM>
-</children>
+<LM id="t-mf920925-046-p1s1w2">
+<a>
+<lex.rf>a#a-mf920925-046-p1s1w2</lex.rf>
+<aux.rf>
+<LM>a#a-mf920925-046-p1s1w1</LM>
+</aux.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>bugina</t_lemma>
+<functor>REG</functor>
+<gram>
+<sempos>n.denot</sempos>
+<gender>fem</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
+<deepord>7</deepord>
 </LM>
 </children>
 </LM>

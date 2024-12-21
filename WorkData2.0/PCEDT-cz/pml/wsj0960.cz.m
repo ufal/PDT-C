@@ -442,7 +442,7 @@
 </w.rf>
 <form>blokoval</form>
 <lemma>blokovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0960-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -576,8 +576,8 @@
 <LM>w#w-wsj0960-001-p1s1W36</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0960-001-p1s1W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -630,8 +630,8 @@
 <LM>w#w-wsj0960-001-p1s1W42</LM>
 </w.rf>
 <form>hotové</form>
-<lemma>hotový</lemma>
-<tag>AAIP4----1A----</tag>
+<lemma>hotové</lemma>
+<tag>NNIP4-----A----</tag>
 </m>
 <m id="m-wsj0960-001-p1s1W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -704,8 +704,8 @@
 <LM>w#w-wsj0960-001-p1s2W7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0960-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

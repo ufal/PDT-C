@@ -160,8 +160,8 @@
 <LM>w#w-wsj1644-001-p1s0W17</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1644-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -755,8 +755,8 @@
 <LM>w#w-wsj1644-001-p1s4W9</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1644-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -863,8 +863,8 @@
 <LM>w#w-wsj1644-001-p1s4W21</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1644-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2814,7 +2814,7 @@
 <LM>w#w-wsj1644-001-p1s12W21</LM>
 </w.rf>
 <form>vyladění</form>
-<lemma>vyladění</lemma>
+<lemma>vyladění_,s_^(^DD**vylazení)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj1644-001-p1s12W22-Ta">
@@ -3061,7 +3061,7 @@
 <LM>w#w-wsj1644-001-p1s14W9</LM>
 </w.rf>
 <form>hájila</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1644-001-p1s14W10-Ta">

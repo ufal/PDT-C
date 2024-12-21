@@ -697,8 +697,8 @@
 <LM>w#w-wsj1952-001-p1s3W14</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1952-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -753,8 +753,8 @@
 <LM>w#w-wsj1952-001-p1s4W2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1952-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1061,8 +1061,8 @@
 <LM>w#w-wsj1952-001-p1s5W15</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1952-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1618,8 +1618,8 @@
 <LM>w#w-wsj1952-001-p1s9W8</LM>
 </w.rf>
 <form>chudé</form>
-<lemma>chudý-1</lemma>
-<tag>AAMP4----1A----</tag>
+<lemma>chudý-2_^(osoba)</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-wsj1952-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3104,8 +3104,8 @@
 <LM>w#w-wsj1952-001-p1s18W6</LM>
 </w.rf>
 <form>vždyť</form>
-<lemma>vždyť-2</lemma>
-<tag>TT-------------</tag>
+<lemma>vždyť-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1952-001-p1s18W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3783,8 +3783,8 @@
 <LM>w#w-wsj1952-001-p1s20W21</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1952-001-p1s20W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4082,7 +4082,7 @@
 <LM>w#w-wsj1952-001-p1s21W22</LM>
 </w.rf>
 <form>neslučitelnými</form>
-<lemma>slučitelný</lemma>
+<lemma>slučitelný_^(*8oučit)</lemma>
 <tag>AAFP7----1N----</tag>
 </m>
 <m id="m-wsj1952-001-p1s21W23-Ta">
@@ -4426,8 +4426,8 @@
 <LM>w#w-wsj1952-001-p1s22W20</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1952-001-p1s22W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5810,7 +5810,7 @@
 </w.rf>
 <form>každému</form>
 <lemma>každý</lemma>
-<tag>AAMS3----1A----</tag>
+<tag>PLMS3----------</tag>
 </m>
 <m id="m-wsj1952-001-p1s29W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6608,7 +6608,7 @@
 </w.rf>
 <form>Zachovejte</form>
 <lemma>zachovat</lemma>
-<tag>Vi-P---2--A-I--</tag>
+<tag>Vi-P---2--A-P--</tag>
 </m>
 <m id="m-wsj1952-001-p1s32W2-Ta">
 <src.rf>tagger-a</src.rf>

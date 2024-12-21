@@ -776,7 +776,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-060-p3s2w70">
 <src.rf>manual</src.rf>
@@ -784,8 +784,8 @@
 <LM>w#w-lnd91303-060-p3s2w70</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91303-060-p3s2w71">
 <src.rf>manual</src.rf>
@@ -3279,7 +3279,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-060-p5s1w19">
 <src.rf>manual</src.rf>
@@ -4392,7 +4392,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-060-p5s3Bw10">
 <src.rf>manual</src.rf>

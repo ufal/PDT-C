@@ -266,8 +266,8 @@
 <LM>w#w-ln94205-144-p2s1Bw17</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94205-144-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -940,8 +940,8 @@
 <LM>w#w-ln94205-144-p3s2w9</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-144-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1510,8 +1510,8 @@
 <LM>w#w-ln94205-144-p4s3w9</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94205-144-p4s3w10">
 <src.rf>manual</src.rf>

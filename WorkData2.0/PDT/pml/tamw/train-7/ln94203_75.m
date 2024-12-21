@@ -1513,8 +1513,8 @@
 <LM>w#w-ln94203-75-p4s3w6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94203-75-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1540,8 +1540,8 @@
 <LM>w#w-ln94203-75-p4s3w9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94203-75-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1949,7 +1949,7 @@
 <LM>w#w-ln94203-75-p4s5w10</LM>
 </w.rf>
 <form>džamáhíríji</form>
-<lemma>džamáhíríja</lemma>
+<lemma>džamáhíríja_,s_^(^DD**džamáhírija)</lemma>
 <tag>NNFS4-----A---1</tag>
 </m>
 <m id="m-ln94203-75-p4s5w11">
@@ -2077,8 +2077,8 @@
 <LM>w#w-ln94203-75-p4s6w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-75-p4s6w14">
 <src.rf>manual</src.rf>

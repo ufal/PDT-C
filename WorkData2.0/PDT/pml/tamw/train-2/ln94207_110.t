@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_110.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -26,7 +26,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94207-110-p1s1w3">
 <a>
@@ -106,7 +106,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>ale je za tim tecka!!
 adept na seznam</discourse_comment>
 <bridging>
@@ -159,7 +159,7 @@ adept na seznam</discourse_comment>
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <is_parenthesis>1</is_parenthesis>
-<deepord>11</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="t-ln94207-110-p2s1a0">
 <nodetype>qcomplex</nodetype>
@@ -229,24 +229,15 @@ adept na seznam</discourse_comment>
 </LM>
 </children>
 </LM>
-<LM id="t-ln94207-110-p2s1a1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#EmpVerb</t_lemma>
-<functor>PAR</functor>
-<sentmod>enunc</sentmod>
-<is_member>1</is_member>
-<is_parenthesis>1</is_parenthesis>
-<tfa>t</tfa>
-<deepord>8</deepord>
-<children>
 <LM id="t-ln94207-110-p2s1w12">
 <a>
 <lex.rf>a#a-ln94207-110-p2s1w12</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>strana</t_lemma>
-<functor>ACT</functor>
+<functor>PAR</functor>
+<sentmod>enunc</sentmod>
+<is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
@@ -255,7 +246,7 @@ adept na seznam</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>9</deepord>
+<deepord>8</deepord>
 <bridging>
 <LM>
 <target_node.rf>t-ln94207-110-p2s1w1</target_node.rf>
@@ -276,9 +267,7 @@ adept na seznam</discourse_comment>
 <numertype>basic</numertype>
 </gram>
 <tfa>f</tfa>
-<deepord>10</deepord>
-</LM>
-</children>
+<deepord>9</deepord>
 </LM>
 </children>
 </LM>
@@ -291,7 +280,7 @@ adept na seznam</discourse_comment>
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
-<deepord>13</deepord>
+<deepord>12</deepord>
 <children>
 <LM id="t-ln94207-110-p2s1w14">
 <a>
@@ -308,7 +297,7 @@ adept na seznam</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>c</tfa>
-<deepord>12</deepord>
+<deepord>11</deepord>
 </LM>
 <LM id="t-ln94207-110-p2s1w16">
 <a>
@@ -325,7 +314,7 @@ adept na seznam</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>14</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="t-ln94207-110-p2s1w15">
 <a>
@@ -340,7 +329,7 @@ adept na seznam</discourse_comment>
 <numertype>basic</numertype>
 </gram>
 <tfa>f</tfa>
-<deepord>15</deepord>
+<deepord>14</deepord>
 </LM>
 </children>
 </LM>
@@ -395,7 +384,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w4789f1</val_frame.rf>
+<val_frame.rf>v#v41hzlA</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s1w1">
 <a>
@@ -440,8 +429,9 @@ adept na seznam</discourse_comment>
 <lex.rf>a#a-ln94207-110-p3s1w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dva</t_lemma>
+<t_lemma>druhý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -501,7 +491,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w7951f3</val_frame.rf>
+<val_frame.rf>v#v41ocbP</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s1a0">
 <nodetype>complex</nodetype>
@@ -530,8 +520,9 @@ adept na seznam</discourse_comment>
 <lex.rf>a#a-ln94207-110-p3s1w8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>šest</t_lemma>
+<t_lemma>šestkrát</t_lemma>
 <functor>THO</functor>
+<proto_lemma>šest</proto_lemma>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>adj.quant.def</sempos>
@@ -545,8 +536,9 @@ adept na seznam</discourse_comment>
 <lex.rf>a#a-ln94207-110-p3s1w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>roční</t_lemma>
+<t_lemma>ročně</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>roční</proto_lemma>
 <subfunctor>basic</subfunctor>
 <is_parenthesis>1</is_parenthesis>
 <gram>
@@ -606,7 +598,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w9542f1</val_frame.rf>
+<val_frame.rf>v#v41rgrA</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s1a1">
 <nodetype>qcomplex</nodetype>
@@ -723,7 +715,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w4766f2</val_frame.rf>
+<val_frame.rf>v#v41hylA</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s2w2">
 <a>
@@ -984,7 +976,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w9247f3</val_frame.rf>
+<val_frame.rf>v#v41qrhB</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s3w2">
 <a>
@@ -1080,7 +1072,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w5388f1</val_frame.rf>
+<val_frame.rf>v#v41jebB</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s3w8">
 <a>
@@ -1089,6 +1081,7 @@ adept na seznam</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -1209,7 +1202,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w1111f1</val_frame.rf>
+<val_frame.rf>v#v41aybB</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s4w4">
 <a>
@@ -1385,6 +1378,7 @@ adept na seznam</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1397,7 +1391,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s5w3">
 <a>
@@ -1503,6 +1497,7 @@ adept na seznam</discourse_comment>
 <a>
 <lex.rf>a#a-ln94207-110-p3s5w17</lex.rf>
 <aux.rf>
+<LM>a#a-ln94207-110-p3s5w16</LM>
 <LM>a#a-ln94207-110-p3s5w10</LM>
 <LM>a#a-ln94207-110-p3s5w9</LM>
 </aux.rf>
@@ -1521,7 +1516,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w975f1</val_frame.rf>
+<val_frame.rf>v#v41arrB</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s5a0">
 <nodetype>qcomplex</nodetype>
@@ -1559,7 +1554,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w7766f1</val_frame.rf>
+<val_frame.rf>v#v41nteB</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s5w13">
 <a>
@@ -1568,6 +1563,7 @@ adept na seznam</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>jaký</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jaký</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>inter</indeftype>
@@ -1669,7 +1665,7 @@ adept na seznam</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1204f3</val_frame.rf>
+<val_frame.rf>v#v41bcpE</val_frame.rf>
 <children>
 <LM id="t-ln94207-110-p3s6a0">
 <nodetype>atom</nodetype>

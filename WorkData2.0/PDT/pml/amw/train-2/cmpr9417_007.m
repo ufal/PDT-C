@@ -2381,8 +2381,8 @@
 <LM>w#w-cmpr9417-007-p8s4w24</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9417-007-p8s4w25">
 <src.rf>manual</src.rf>
@@ -3359,7 +3359,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-007-p13s2w3">
 <src.rf>manual</src.rf>

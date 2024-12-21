@@ -1700,8 +1700,8 @@
 <LM>w#w-ln95044-022-p4s1w37</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-022-p4s1w38">
 <src.rf>manual</src.rf>
@@ -1730,7 +1730,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-022-p4s2w2">
 <src.rf>manual</src.rf>

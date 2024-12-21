@@ -37,8 +37,8 @@
 <LM>w#w-ln94210-10-p1s1w3</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-10-p1s1w4">
 <src.rf>manual</src.rf>
@@ -524,8 +524,8 @@
 <LM>w#w-ln94210-10-p2s4w4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-10-p2s4w5">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94210-10-p2s4w11">
 <src.rf>manual</src.rf>
@@ -805,8 +805,8 @@
 <LM>w#w-ln94210-10-p3s1w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-10-p3s1w18">
 <src.rf>manual</src.rf>
@@ -960,8 +960,8 @@
 <LM>w#w-ln94210-10-p3s2w5</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94210-10-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1367,8 +1367,8 @@
 <LM>w#w-ln94210-10-p3s3w13</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-10-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1713,8 +1713,8 @@
 <LM>w#w-ln94210-10-p4s2w13</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-10-p4s2w14">
 <src.rf>manual</src.rf>
@@ -2005,8 +2005,8 @@
 <LM>w#w-ln94210-10-p4s4w5</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-10-p4s4w6">
 <src.rf>manual</src.rf>
@@ -2232,8 +2232,8 @@
 <LM>w#w-ln94210-10-p5s1w5</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-10-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2769,8 +2769,8 @@
 <LM>w#w-ln94210-10-p6s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94210-10-p6s2w2">
 <src.rf>manual</src.rf>
@@ -3079,8 +3079,8 @@
 <LM>w#w-ln94210-10-p6s3w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-10-p6s3w15">
 <src.rf>manual</src.rf>

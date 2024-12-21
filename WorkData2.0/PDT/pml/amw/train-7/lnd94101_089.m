@@ -28,7 +28,7 @@
 <LM>w#w-lnd94101-089-p1s1Aw2</LM>
 </w.rf>
 <form>uvízli</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd94101-089-p1s1Aw3">
@@ -2508,7 +2508,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-089-p1s11Aw2">
 <src.rf>manual</src.rf>
@@ -2671,8 +2671,8 @@
 <LM>w#w-lnd94101-089-p1s12Bw1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-089-p1s12Bw2">
 <src.rf>manual</src.rf>
@@ -2833,8 +2833,8 @@
 <LM>w#w-lnd94101-089-p1s12Bw19</LM>
 </w.rf>
 <form>play</form>
-<lemma>play-77</lemma>
-<tag>F%-------------</tag>
+<lemma>play-1</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s12Bw20">
 <src.rf>manual</src.rf>
@@ -2842,8 +2842,8 @@
 <LM>w#w-lnd94101-089-p1s12Bw20</LM>
 </w.rf>
 <form>off</form>
-<lemma>off-77</lemma>
-<tag>F%-------------</tag>
+<lemma>off-1</lemma>
+<tag>SNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s12Bw21">
 <src.rf>manual</src.rf>

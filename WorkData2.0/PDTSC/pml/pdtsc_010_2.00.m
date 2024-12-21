@@ -818,8 +818,8 @@
 <LM>w#w-d1t86-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m985-d1t93-4">
 <w.rf>
@@ -1086,8 +1086,8 @@
 <LM>w#w-d1t104-7</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m985-d1t104-8">
 <w.rf>
@@ -1402,15 +1402,15 @@
 <LM>w#w-d1t125-1</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m985-d1t125-2">
 <w.rf>
 <LM>w#w-d1t125-2</LM>
 </w.rf>
 <form>lítám</form>
-<lemma>lítat</lemma>
+<lemma>lítat_,s_^(^DD**létat)</lemma>
 <tag>VB-S---1P-AAI--</tag>
 </m>
 <m id="m985-d-id58214">
@@ -2040,8 +2040,8 @@
 <LM>w#w-d1t175-9</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m985-d1t175-10">
 <w.rf>
@@ -2487,7 +2487,7 @@
 </w.rf>
 <form>samé</form>
 <lemma>samý</lemma>
-<tag>PLFP1----------</tag>
+<tag>PLFP4----------</tag>
 </m>
 <m id="m985-d1t227-2">
 <w.rf>
@@ -2495,7 +2495,7 @@
 </w.rf>
 <form>jedničky</form>
 <lemma>jednička</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFP4-----A----</tag>
 </m>
 <m id="m985-d1t227-4">
 <w.rf>
@@ -3114,8 +3114,8 @@
 <LM>w#w-d1t266-6</LM>
 </w.rf>
 <form>hluchoněmý</form>
-<lemma>hluchoněmý</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>hluchoněmý-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m985-d-id62454">
 <w.rf>
@@ -3194,8 +3194,8 @@
 <LM>w#w-d1t274-1</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m985-d1t274-2">
 <w.rf>
@@ -3970,8 +3970,8 @@
 <LM>w#w-d1t336-6</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m985-d1t336-2">
 <w.rf>
@@ -4870,8 +4870,8 @@
 <LM>w#w-d1t390-11</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m985-d1t390-10">
 <w.rf>
@@ -5092,8 +5092,8 @@
 <LM>w#w-d1t418-1</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m985-d1t418-2">
 <w.rf>

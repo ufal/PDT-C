@@ -263,7 +263,7 @@
 <LM>w#w-ln95042-021-p1s1w28</LM>
 </w.rf>
 <form>spjata</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACQW------A----</tag>
 </m>
 <m id="m-ln95042-021-p1s1w29">
@@ -782,8 +782,8 @@
 <LM>w#w-ln95042-021-p1s4w1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95042-021-p1s4w2">
 <src.rf>manual</src.rf>
@@ -1342,8 +1342,8 @@
 <LM>w#w-ln95042-021-p1s5w53</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95042-021-p1s5w54">
 <src.rf>manual</src.rf>

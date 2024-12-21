@@ -661,7 +661,7 @@
 <LM>w#w-lnd91303-036-p2s4w3</LM>
 </w.rf>
 <form>uvízl</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd91303-036-p2s4w4">
@@ -725,7 +725,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-036-p2s4w11">
 <src.rf>manual</src.rf>

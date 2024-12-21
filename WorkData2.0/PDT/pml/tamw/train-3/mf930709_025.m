@@ -403,8 +403,8 @@
 <LM>w#w-mf930709-025-p2s3w8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-025-p2s3w9">
 <src.rf>manual</src.rf>

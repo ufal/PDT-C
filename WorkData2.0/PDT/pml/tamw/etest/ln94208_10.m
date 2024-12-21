@@ -215,7 +215,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-ln94208-10-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -1776,8 +1776,8 @@
 <LM>w#w-ln94208-10-p4s3w4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-10-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1976,8 +1976,8 @@
 <LM>w#w-ln94208-10-p4s4w1</LM>
 </w.rf>
 <form>Proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94208-10-p4s4w2">
 <src.rf>manual</src.rf>
@@ -2385,8 +2385,8 @@
 <LM>w#w-ln94208-10-p5s2w8</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-10-p5s2w9">
 <src.rf>manual</src.rf>
@@ -3151,8 +3151,8 @@
 <LM>w#w-ln94208-10-p6s1w7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-10-p6s1w8">
 <src.rf>manual</src.rf>
@@ -3205,8 +3205,8 @@
 <LM>w#w-ln94208-10-p6s1w13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-10-p6s1w14">
 <src.rf>manual</src.rf>
@@ -3919,8 +3919,8 @@
 <LM>w#w-ln94208-10-p7s2w1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-10-p7s2w2">
 <src.rf>manual</src.rf>
@@ -4119,8 +4119,8 @@
 <LM>w#w-ln94208-10-p7s3w4</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-10-p7s3w5">
 <src.rf>manual</src.rf>
@@ -4684,7 +4684,7 @@
 </w.rf>
 <form>antipod</form>
 <lemma>antipod</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-10-p8s2w14">
 <src.rf>manual</src.rf>
@@ -5002,8 +5002,8 @@
 <LM>w#w-ln94208-10-p8s4w15</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94208-10-p8s4w16">
 <src.rf>manual</src.rf>
@@ -5056,8 +5056,8 @@
 <LM>w#w-ln94208-10-p8s4w21</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94208-10-p8s4w22">
 <src.rf>manual</src.rf>

@@ -238,7 +238,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-vesm9303-027-p2s1w23">
 <src.rf>manual</src.rf>
@@ -3225,7 +3225,7 @@
 <LM>w#w-vesm9303-027-p5s2Aw22</LM>
 </w.rf>
 <form>desinterpretace</form>
-<lemma>desinterpretace</lemma>
+<lemma>desinterpretace_,s_^(^DD**dezinterpretace)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-027-p5s2Aw23">

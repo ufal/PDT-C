@@ -324,8 +324,8 @@
 <LM>w#w-ln95045-049-p2s2w4</LM>
 </w.rf>
 <form>jakoby</form>
-<lemma>jakoby</lemma>
-<tag>J,-------------</tag>
+<lemma>jakoby-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-049-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1748,7 +1748,7 @@
 </w.rf>
 <form>věnovali</form>
 <lemma>věnovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln95045-049-p3s5w5">
 <src.rf>manual</src.rf>
@@ -2958,7 +2958,7 @@
 </w.rf>
 <form>vyjmenovat</form>
 <lemma>vyjmenovat</lemma>
-<tag>Vf--------A-B--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95045-049-p4s3w22">
 <src.rf>manual</src.rf>

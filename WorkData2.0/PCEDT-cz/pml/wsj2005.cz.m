@@ -333,8 +333,8 @@
 <LM>w#w-wsj2005-001-p1s1W2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2005-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -537,8 +537,8 @@
 <LM>w#w-lnd94103-067-p1s2w28</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-067-p1s2w29">
 <src.rf>manual</src.rf>
@@ -692,8 +692,8 @@
 <LM>w#w-lnd94103-067-p1s3w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-067-p1s3w9">
 <src.rf>manual</src.rf>
@@ -1009,8 +1009,8 @@
 <LM>w#w-lnd94103-067-p1s4w14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-067-p1s4w15">
 <src.rf>manual</src.rf>
@@ -1063,8 +1063,8 @@
 <LM>w#w-lnd94103-067-p1s4w20</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-067-p1s4w21">
 <src.rf>manual</src.rf>
@@ -1402,8 +1402,8 @@
 <LM>w#w-lnd94103-067-p1s6w3</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-067-p1s6w4">
 <src.rf>manual</src.rf>
@@ -1766,8 +1766,8 @@
 <LM>w#w-lnd94103-067-p1s8w20</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94103-067-p1s8w21">
 <src.rf>manual</src.rf>
@@ -2337,8 +2337,8 @@
 <LM>w#w-lnd94103-067-p1s10w33</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-067-p1s10w34">
 <src.rf>manual</src.rf>
@@ -2883,8 +2883,8 @@
 <LM>w#w-lnd94103-067-p1s13w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-067-p1s13w2">
 <src.rf>manual</src.rf>
@@ -3218,8 +3218,8 @@
 <LM>w#w-lnd94103-067-p1s14w11</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-067-p1s14w12">
 <src.rf>manual</src.rf>
@@ -3310,8 +3310,8 @@
 <LM>w#w-lnd94103-067-p1s15w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-067-p1s15w8">
 <src.rf>manual</src.rf>

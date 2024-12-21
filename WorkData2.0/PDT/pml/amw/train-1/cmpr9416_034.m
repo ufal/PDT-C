@@ -276,7 +276,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-034-p3s2w2">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-cmpr9416-034-p3s4w5</LM>
 </w.rf>
 <form>dozvěděly</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-034-p3s4w6">
@@ -2187,7 +2187,7 @@
 <LM>w#w-cmpr9416-034-p6s1w5</LM>
 </w.rf>
 <form>svrbění</form>
-<lemma>svrbění_^(*2t)</lemma>
+<lemma>svrbění</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9416-034-p6s1w6">
@@ -3430,8 +3430,8 @@
 <LM>w#w-cmpr9416-034-p10s1w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9416-034-p10s1w2">
 <src.rf>manual</src.rf>

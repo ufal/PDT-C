@@ -425,7 +425,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2303-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -879,7 +879,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj2303-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1077,7 +1077,7 @@
 </w.rf>
 <form>vedoucí</form>
 <lemma>vedoucí_^(*6ést)</lemma>
-<tag>AGFS1-----A----</tag>
+<tag>AGMS1-----A----</tag>
 </m>
 <m id="m-wsj2303-001-p1s3W28-Ta">
 <src.rf>tagger-a</src.rf>

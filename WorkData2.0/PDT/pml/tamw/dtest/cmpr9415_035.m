@@ -285,7 +285,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AANS2----1A----</tag>
+<tag>PLNS2----------</tag>
 </m>
 <m id="m-cmpr9415-035-p3s2w11">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-cmpr9415-035-p3s3w2">
 <src.rf>manual</src.rf>
@@ -448,8 +448,8 @@
 <LM>w#w-cmpr9415-035-p3s3w10</LM>
 </w.rf>
 <form>postiženým</form>
-<lemma>postižený</lemma>
-<tag>AAMP3----1A----</tag>
+<lemma>postižený-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-cmpr9415-035-p3s3w11">
 <src.rf>manual</src.rf>

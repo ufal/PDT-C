@@ -28,7 +28,7 @@
 <LM>w#w-mf920922-093-p1s1w2</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-093-p1s1w3">
@@ -403,8 +403,8 @@
 <LM>w#w-mf920922-093-p2s3w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-093-p2s3w4">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-093-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1303,8 +1303,8 @@
 <LM>w#w-mf920922-093-p2s7w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-093-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1393,8 +1393,8 @@
 <LM>w#w-mf920922-093-p2s7w20</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-093-p2s7w21">
 <src.rf>manual</src.rf>

@@ -372,8 +372,8 @@
 <LM>w#w-ln94206-46-p1s2w19</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-46-p1s2w20">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-46-p1s4w10">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 </w.rf>
 <form>Foto</form>
 <lemma>foto</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-46-p1s5w2">
 <src.rf>manual</src.rf>

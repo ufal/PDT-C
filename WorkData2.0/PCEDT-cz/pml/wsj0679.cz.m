@@ -461,8 +461,8 @@
 <LM>w#w-wsj0679-001-p1s1W24</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0679-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1990,8 +1990,8 @@
 <LM>w#w-wsj0679-001-p1s7W22</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0679-001-p1s7W23-Ta">
 <src.rf>tagger-a</src.rf>

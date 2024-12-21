@@ -297,8 +297,8 @@
 <LM>w#w-wsj0453-001-p1s1W25</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -435,7 +435,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0453-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1007,8 +1007,8 @@
 <LM>w#w-wsj0453-001-p1s5W3</LM>
 </w.rf>
 <form>vedoucího</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS2-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS2-----A----</tag>
 </m>
 <m id="m-wsj0453-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1228,8 +1228,8 @@
 <LM>w#w-wsj0453-001-p1s7W5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2401,8 +2401,8 @@
 <LM>w#w-wsj0453-001-p1s13W13</LM>
 </w.rf>
 <form>li</form>
-<lemma>li-2</lemma>
-<tag>J,-------------</tag>
+<lemma>li-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s13W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2707,8 +2707,8 @@
 <LM>w#w-wsj0453-001-p1s13W47</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s13W48-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3408,8 +3408,8 @@
 <LM>w#w-wsj0453-001-p1s17W8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s17W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3436,7 +3436,7 @@
 </w.rf>
 <form>reaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0453-001-p1s17W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3654,7 +3654,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s18W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4274,8 +4274,8 @@
 <LM>w#w-wsj0453-001-p1s22W5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s22W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5670,8 +5670,8 @@
 <LM>w#w-wsj0453-001-p1s27W1</LM>
 </w.rf>
 <form>Přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5707,7 +5707,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s27W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5904,8 +5904,8 @@
 <LM>w#w-wsj0453-001-p1s27W27</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s27W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6559,7 +6559,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-wsj0453-001-p1s30W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7051,7 +7051,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0453-001-p1s33W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7795,7 +7795,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0453-001-p1s36W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7867,7 +7867,7 @@
 </w.rf>
 <form>sponzorovala</form>
 <lemma>sponzorovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj0453-001-p1s36W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9434,7 +9434,7 @@
 </w.rf>
 <form>věnovala</form>
 <lemma>věnovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj0453-001-p1s45W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -493,8 +493,8 @@
 <LM>w#w-mf920901-084-p3s1w17</LM>
 </w.rf>
 <form>dozorčí</form>
-<lemma>dozorčí</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>dozorčí-1</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-084-p3s1w18">
 <src.rf>manual</src.rf>
@@ -2511,7 +2511,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-084-p5s4w2">
 <src.rf>manual</src.rf>

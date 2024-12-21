@@ -49,7 +49,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-cmpr9413-007-p3s1w2">
 <src.rf>manual</src.rf>
@@ -212,8 +212,8 @@
 <LM>w#w-cmpr9413-007-p3s2w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-007-p3s2w5">
 <src.rf>manual</src.rf>
@@ -843,8 +843,8 @@
 <LM>w#w-cmpr9413-007-p6s2w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-007-p6s2w10">
 <src.rf>manual</src.rf>
@@ -1812,7 +1812,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-007-p7s2w4">
 <src.rf>manual</src.rf>
@@ -1884,7 +1884,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-cmpr9413-007-p7s2w12">
 <src.rf>manual</src.rf>
@@ -2284,7 +2284,7 @@
 <LM>w#w-cmpr9413-007-p8s1w11</LM>
 </w.rf>
 <form>vyhražená</form>
-<lemma>vyhražený_^(*4dit)</lemma>
+<lemma>vyhražený_,s_^(^DD**vyhrazený)</lemma>
 <tag>AANP4----1A----</tag>
 </m>
 <m id="m-cmpr9413-007-p8s1w12">
@@ -3257,7 +3257,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-007-p10s1w9">
 <src.rf>manual</src.rf>

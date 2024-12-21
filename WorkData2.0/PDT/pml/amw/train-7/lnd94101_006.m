@@ -565,7 +565,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-006-p1s5w4">
 <src.rf>manual</src.rf>
@@ -1330,7 +1330,7 @@
 </w.rf>
 <form>Investiční</form>
 <lemma>investiční</lemma>
-<tag>AAFS3----1A----</tag>
+<tag>AAFS1----1A----</tag>
 </m>
 <m id="m-lnd94101-006-p1s9w17">
 <src.rf>manual</src.rf>
@@ -2049,7 +2049,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-006-p1s13w5">
 <src.rf>manual</src.rf>
@@ -2813,7 +2813,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-006-p1s17w5">
 <src.rf>manual</src.rf>

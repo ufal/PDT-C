@@ -504,8 +504,8 @@
 <LM>w#w-ln94205-30-p2s3w13</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-30-p2s3w14">
 <src.rf>manual</src.rf>

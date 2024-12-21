@@ -574,8 +574,8 @@
 <LM>w#w-ln94202-49-p2s2w21</LM>
 </w.rf>
 <form>konečně</form>
-<lemma>konečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>konečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-49-p2s2w22">
 <src.rf>manual</src.rf>
@@ -583,8 +583,8 @@
 <LM>w#w-ln94202-49-p2s2w22</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-49-p2s2w23">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 </w.rf>
 <form>Reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94202-49-p2s3w2">
 <src.rf>manual</src.rf>

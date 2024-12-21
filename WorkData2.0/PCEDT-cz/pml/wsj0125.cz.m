@@ -3516,8 +3516,8 @@
 <LM>w#w-wsj0125-001-p1s15W5</LM>
 </w.rf>
 <form>vedoucího</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS2-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS2-----A----</tag>
 </m>
 <m id="m-wsj0125-001-p1s15W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6384,7 +6384,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj0125-001-p1s29W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6600,7 +6600,7 @@
 <LM>w#w-wsj0125-001-p1s29W25</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIS4-----A----</tag>
 </m>
 <m id="m-wsj0125-001-p1s29W26-Ta">
@@ -7990,7 +7990,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj0125-001-p1s38W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8966,7 +8966,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj0125-001-p1s43W2-Ta">
 <src.rf>tagger-a</src.rf>

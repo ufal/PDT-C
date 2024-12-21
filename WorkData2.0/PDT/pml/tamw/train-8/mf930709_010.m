@@ -230,8 +230,8 @@
 <LM>w#w-mf930709-010-p1s2w1</LM>
 </w.rf>
 <form>Stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-010-p1s2w2">
 <src.rf>manual</src.rf>
@@ -239,8 +239,8 @@
 <LM>w#w-mf930709-010-p1s2w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-010-p1s2w3">
 <src.rf>manual</src.rf>
@@ -338,8 +338,8 @@
 <LM>w#w-mf930709-010-p1s2w13</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-010-p1s2w14">
 <src.rf>manual</src.rf>
@@ -475,8 +475,8 @@
 <LM>w#w-mf930709-010-p1s3w8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-010-p1s3w9">
 <src.rf>manual</src.rf>
@@ -940,8 +940,8 @@
 <LM>w#w-mf930709-010-p1s7w2</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-010-p1s7w3">
 <src.rf>manual</src.rf>
@@ -1093,8 +1093,8 @@
 <LM>w#w-mf930709-010-p1s7w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-010-p1s7w20">
 <src.rf>manual</src.rf>
@@ -1275,8 +1275,8 @@
 <LM>w#w-mf930709-010-p1s8w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-010-p1s8w13">
 <src.rf>manual</src.rf>
@@ -1451,7 +1451,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-010-p1s11w2">
 <src.rf>manual</src.rf>
@@ -1877,8 +1877,8 @@
 <LM>w#w-mf930709-010-p1s13w8</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-010-p1s13w9">
 <src.rf>manual</src.rf>

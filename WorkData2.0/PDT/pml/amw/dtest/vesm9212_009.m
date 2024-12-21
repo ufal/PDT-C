@@ -3993,7 +3993,7 @@
 <LM>w#w-vesm9212-009-p7s2w3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-009-p7s2w4">
@@ -5395,8 +5395,8 @@
 <LM>w#w-vesm9212-009-p11s2w18</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-009-p11s2w19">
 <src.rf>manual</src.rf>
@@ -5496,8 +5496,8 @@
 <LM>w#w-vesm9212-009-p11s3w5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-009-p11s3w6">
 <src.rf>manual</src.rf>
@@ -6134,7 +6134,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-009-p12s3w22">
 <src.rf>manual</src.rf>

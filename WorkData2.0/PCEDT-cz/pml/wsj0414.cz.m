@@ -1510,7 +1510,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0414-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3941,7 +3941,7 @@
 <LM>w#w-wsj0414-001-p1s23W7</LM>
 </w.rf>
 <form>oddychli</form>
-<lemma>oddychnout</lemma>
+<lemma>oddychnout_,s_^(^DD**oddechnout)</lemma>
 <tag>VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj0414-001-p1s23W8-Ta">
@@ -4103,7 +4103,7 @@
 <LM>w#w-wsj0414-001-p1s23W25</LM>
 </w.rf>
 <form>poživatelům</form>
-<lemma>poživatel</lemma>
+<lemma>poživatel_,s_^(^DD**požívatel)</lemma>
 <tag>NNMP3-----A----</tag>
 </m>
 <m id="m-wsj0414-001-p1s23W26-Ta">
@@ -4384,8 +4384,8 @@
 <LM>w#w-wsj0414-001-p1s24W8</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-wsj0414-001-p1s24W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4583,7 +4583,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0414-001-p1s24W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7050,7 +7050,7 @@
 </w.rf>
 <form>pacienty</form>
 <lemma>pacient</lemma>
-<tag>NNMP4-----A----</tag>
+<tag>NNMP7-----A----</tag>
 </m>
 <m id="m-wsj0414-001-p1s37W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7153,7 +7153,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0414-001-p1s39W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8256,7 +8256,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0414-001-p1s46W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8391,7 +8391,7 @@
 </w.rf>
 <form>postavení</form>
 <lemma>postavení_^(*3it)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj0414-001-p1s46W33-Ta">
 <src.rf>tagger-a</src.rf>

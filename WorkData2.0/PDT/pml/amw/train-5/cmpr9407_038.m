@@ -1223,8 +1223,8 @@
 <LM>w#w-cmpr9407-038-p5s1w10</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9407-038-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1969,7 +1969,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-cmpr9407-038-p8s2w13">
 <src.rf>manual</src.rf>
@@ -2051,8 +2051,8 @@
 <LM>w#w-cmpr9407-038-p9s1w6</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9407-038-p9s1w7">
 <src.rf>manual</src.rf>

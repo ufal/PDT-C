@@ -870,7 +870,7 @@
 <LM>w#w-lnd91301-069-p4s5w24</LM>
 </w.rf>
 <form>ázerbájdžánských</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-lnd91301-069-p4s5w25">

@@ -689,8 +689,8 @@
 <LM>w#w-wsj2150-001-p1s3W2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2150-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1007,7 +1007,7 @@
 </w.rf>
 <form>distribuuje</form>
 <lemma>distribuovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj2150-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>

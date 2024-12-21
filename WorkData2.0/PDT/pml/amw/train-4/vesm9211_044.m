@@ -981,8 +981,8 @@
 <LM>w#w-vesm9211-044-p3s3w2</LM>
 </w.rf>
 <form>přísedící</form>
-<lemma>přísedící_^(*3ět)</lemma>
-<tag>AGMS1-----A----</tag>
+<lemma>přísedící-1</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p3s3w3">
 <src.rf>manual</src.rf>

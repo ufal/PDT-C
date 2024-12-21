@@ -403,7 +403,7 @@
 <LM>w#w-ln94203-74-p2s2w9</LM>
 </w.rf>
 <form>lídra</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s2w10">
@@ -769,8 +769,8 @@
 <LM>w#w-ln94203-74-p2s5w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-74-p2s5w6">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-74-p2s6w9">
 <src.rf>manual</src.rf>

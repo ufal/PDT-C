@@ -477,8 +477,8 @@
 <LM>w#w-ln94200-93-p2s6w1</LM>
 </w.rf>
 <form>Poškozený</form>
-<lemma>poškozený_^(*4dit)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>poškozený-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-93-p2s6w2">
 <src.rf>manual</src.rf>

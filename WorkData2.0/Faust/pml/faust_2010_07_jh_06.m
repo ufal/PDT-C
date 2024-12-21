@@ -1539,8 +1539,8 @@
 <LM>w#w-jh_06-SCzechM-p0580-s1-w3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_06-SCzechM-p0580-s1-w4">
 <w.rf>
@@ -1597,8 +1597,8 @@
 <LM>w#w-jh_06-SCzechM-p0581-s1-w5</LM>
 </w.rf>
 <form>nabízejícího</form>
-<lemma>nabízející_^(*4t)</lemma>
-<tag>AGMS2-----A----</tag>
+<lemma>nabízející-2</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="jh_06-SCzechM-p0581-s1-w6">
 <w.rf>
@@ -3082,7 +3082,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_06-SCzechM-p0616-s1-w4">
 <w.rf>
@@ -3277,8 +3277,8 @@
 <LM>w#w-jh_06-SCzechM-p0618-s1-w8</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_06-SCzechM-p0618-s1-w9">
 <w.rf>
@@ -3501,8 +3501,8 @@
 <LM>w#w-jh_06-SCzechM-p0618-s1-w36</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_06-SCzechM-p0618-s1-w37">
 <w.rf>
@@ -3751,8 +3751,8 @@
 <LM>w#w-jh_06-SCzechM-p0628-s1-w8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="jh_06-SCzechM-p0628-s1-w9">
 <w.rf>
@@ -4257,7 +4257,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 </s>
 <s id="s-jh_06-SCzechM-p0629-s1-w14">
@@ -4488,7 +4488,7 @@
 </w.rf>
 <form>každému</form>
 <lemma>každý</lemma>
-<tag>AAMS3----1A----</tag>
+<tag>PLMS3----------</tag>
 </m>
 <m id="jh_06-SCzechM-p0633-s1-w4">
 <w.rf>
@@ -5077,8 +5077,8 @@
 <LM>w#w-jh_06-SCzechM-p0639-s1-w37</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_06-SCzechM-p0639-s1-w38">
 <w.rf>

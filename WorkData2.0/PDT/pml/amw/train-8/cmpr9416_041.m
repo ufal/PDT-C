@@ -4379,7 +4379,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-041-p13s5w4">
 <src.rf>manual</src.rf>
@@ -5074,8 +5074,8 @@
 <LM>w#w-cmpr9416-041-p15s4w11</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-1_,h_^(jenom,_př._byl_tam_než_Pavel)</lemma>
-<tag>TT-------------</tag>
+<lemma>než-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9416-041-p15s4w12">
 <src.rf>manual</src.rf>

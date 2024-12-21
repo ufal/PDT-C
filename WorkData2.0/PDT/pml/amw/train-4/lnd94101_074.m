@@ -1256,7 +1256,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-074-p1s6w26">
 <src.rf>manual</src.rf>
@@ -1265,7 +1265,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-074-p1s6w27">
 <src.rf>manual</src.rf>
@@ -2635,8 +2635,8 @@
 <LM>w#w-lnd94101-074-p1s11w6</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-074-p1s11w7">
 <src.rf>manual</src.rf>

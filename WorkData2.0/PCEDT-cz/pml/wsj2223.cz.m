@@ -650,8 +650,8 @@
 <LM>w#w-wsj2223-001-p1s2W19</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2223-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1167,8 +1167,8 @@
 <LM>w#w-wsj2223-001-p1s4W11</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2223-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1485,7 +1485,7 @@
 </w.rf>
 <form>Společnosti</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj2223-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2258,7 +2258,7 @@
 </w.rf>
 <form>Bluefield</form>
 <lemma>Bluefield_;m</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj2223-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2902,7 +2902,7 @@
 <LM>w#w-wsj2223-001-p1s12W17</LM>
 </w.rf>
 <form>baseballovou</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAFS7----1A----</tag>
 </m>
 <m id="m-wsj2223-001-p1s12W18-Ta">
@@ -4384,7 +4384,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2223-001-p1s19W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5510,8 +5510,8 @@
 <LM>w#w-wsj2223-001-p1s24W37</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2223-001-p1s24W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6636,8 +6636,8 @@
 <LM>w#w-wsj2223-001-p1s28W43</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2223-001-p1s28W44-Ta">
 <src.rf>tagger-a</src.rf>

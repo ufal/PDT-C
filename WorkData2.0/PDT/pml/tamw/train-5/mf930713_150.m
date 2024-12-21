@@ -549,8 +549,8 @@
 <LM>w#w-mf930713-150-p4s2w30</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-150-p4s2w31">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-mf930713-150-p5s1w4</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-150-p5s1w5">
@@ -839,8 +839,8 @@
 <LM>w#w-mf930713-150-p5s1w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-150-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1321,7 +1321,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-150-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1639,8 +1639,8 @@
 <LM>w#w-mf930713-150-p7s1w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-150-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2482,8 +2482,8 @@
 <LM>w#w-mf930713-150-p8s2w4</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-150-p8s2w5">
 <src.rf>manual</src.rf>
@@ -2619,8 +2619,8 @@
 <LM>w#w-mf930713-150-p9s1w3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-150-p9s1w4">
 <src.rf>manual</src.rf>
@@ -3275,8 +3275,8 @@
 <LM>w#w-mf930713-150-p9s5w6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-150-p9s5w7">
 <src.rf>manual</src.rf>
@@ -3284,8 +3284,8 @@
 <LM>w#w-mf930713-150-p9s5w7</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930713-150-p9s5w8">
 <src.rf>manual</src.rf>

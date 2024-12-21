@@ -16,8 +16,8 @@
 <LM>w#w-wsj2226-001-p1s0W1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj2226-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -717,7 +717,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2226-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

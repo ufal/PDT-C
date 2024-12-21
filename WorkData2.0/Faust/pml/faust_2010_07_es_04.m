@@ -418,8 +418,8 @@
 <LM>w#w-es_04-SCzechM-p0331-s1-w44</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_04-SCzechM-p0331-s1-w45">
 <w.rf>
@@ -813,7 +813,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_04-SCzechM-p0332-s1-w40">
 <w.rf>
@@ -3498,7 +3498,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_04-SCzechM-p0374-s1-w28">
 <w.rf>
@@ -4034,7 +4034,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_04-SCzechM-p0390-s1-w5">
 <w.rf>
@@ -4114,7 +4114,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="es_04-SCzechM-p0390-s1-w15">
 <w.rf>
@@ -4853,8 +4853,8 @@
 <LM>w#w-es_04-SCzechM-p0409-s1-w1</LM>
 </w.rf>
 <form>To</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="es_04-SCzechM-p0409-s1-w2">
 <w.rf>
@@ -5333,8 +5333,8 @@
 <LM>w#w-es_04-SCzechM-p0414-s1-w11</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="es_04-SCzechM-p0414-s1-w12">
 <w.rf>

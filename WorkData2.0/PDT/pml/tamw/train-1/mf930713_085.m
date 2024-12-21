@@ -1004,8 +1004,8 @@
 <LM>w#w-mf930713-085-p3s3w14</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-085-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1615,8 +1615,8 @@
 <LM>w#w-mf930713-085-p5s1w9</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-085-p5s1w10">
 <src.rf>manual</src.rf>

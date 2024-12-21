@@ -412,7 +412,7 @@
 <LM>w#w-ln94200-78-p2s2w2</LM>
 </w.rf>
 <form>lídrem</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-78-p2s2w3">
@@ -1764,7 +1764,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-78-p4s2w36">
 <src.rf>manual</src.rf>

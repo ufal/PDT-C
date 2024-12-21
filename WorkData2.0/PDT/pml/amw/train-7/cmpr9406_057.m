@@ -723,8 +723,8 @@
 <LM>w#w-cmpr9406-057-p5s2w6</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-057-p5s2w7">
 <src.rf>manual</src.rf>
@@ -996,7 +996,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-057-p5s3w26">
 <src.rf>manual</src.rf>
@@ -2107,7 +2107,7 @@
 </w.rf>
 <form>utlouct</form>
 <lemma>utlouci</lemma>
-<tag>Vf--------A-P--</tag>
+<tag>Vf--------A-P-1</tag>
 </m>
 <m id="m-cmpr9406-057-p6s3w16">
 <src.rf>manual</src.rf>
@@ -2218,7 +2218,7 @@
 <LM>w#w-cmpr9406-057-p6s5w4</LM>
 </w.rf>
 <form>míšenském</form>
-<lemma>míšenský</lemma>
+<lemma>míšenský_,s_^(^DD**míšeňský)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-cmpr9406-057-p6s5w5">
@@ -2311,7 +2311,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-057-p7s1w2">
 <src.rf>manual</src.rf>
@@ -3051,7 +3051,7 @@
 </w.rf>
 <form>Vzor</form>
 <lemma>vzor</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-057-p8s2w2">
 <src.rf>manual</src.rf>
@@ -3362,8 +3362,8 @@
 <LM>w#w-cmpr9406-057-p9s2w5</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-057-p9s2w6">
 <src.rf>manual</src.rf>
@@ -3646,7 +3646,7 @@
 <LM>w#w-cmpr9406-057-p9s4w9</LM>
 </w.rf>
 <form>šíři</form>
-<lemma>šíř_^(jeden_z_rozměrů)</lemma>
+<lemma>šíře_^(jeden_z_rozměrů)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-057-p9s4w10">
@@ -4332,7 +4332,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-cmpr9406-057-p10s5w14">
 <src.rf>manual</src.rf>
@@ -5175,8 +5175,8 @@
 <LM>w#w-cmpr9406-057-p13s2w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9406-057-p13s2w5">
 <src.rf>manual</src.rf>
@@ -6354,7 +6354,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-057-p15s5w4">
 <src.rf>manual</src.rf>
@@ -7209,8 +7209,8 @@
 <LM>w#w-cmpr9406-057-p17s3w9</LM>
 </w.rf>
 <form>nádeničina</form>
-<lemma>nádeničin_^(*3ce)</lemma>
-<tag>AUFS1F---------</tag>
+<lemma>nádeničina_,h</lemma>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-057-p17s3w10">
 <src.rf>manual</src.rf>
@@ -7400,8 +7400,8 @@
 <LM>w#w-cmpr9406-057-p17s4w13</LM>
 </w.rf>
 <form>pomocí</form>
-<lemma>pomoc</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>pomocí</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-057-p17s4w14">
 <src.rf>manual</src.rf>
@@ -7564,7 +7564,7 @@
 <LM>w#w-cmpr9406-057-p17s5w13</LM>
 </w.rf>
 <form>ubránit</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9406-057-p17s5w14">
@@ -7932,7 +7932,7 @@
 <LM>w#w-cmpr9406-057-p19s2w14</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9406-057-p19s2w15">

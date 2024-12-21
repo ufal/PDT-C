@@ -277,8 +277,8 @@
 <LM>w#w-wsj0547-001-p1s0W30</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0547-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -415,7 +415,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0547-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -477,8 +477,8 @@
 <LM>w#w-wsj0547-001-p1s1W19</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0547-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>

@@ -449,8 +449,8 @@
 <LM>w#w-lnd94103-118-p1s4w10</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)</lemma>
-<tag>NNIS1-----A----</tag>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
+<tag>J*-------------</tag>
 </m>
 <m id="m-lnd94103-118-p1s4w11">
 <src.rf>manual</src.rf>

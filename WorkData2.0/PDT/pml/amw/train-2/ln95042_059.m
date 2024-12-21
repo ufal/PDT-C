@@ -884,7 +884,7 @@
 </w.rf>
 <form>Zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95042-059-p3s4w2">
 <src.rf>manual</src.rf>

@@ -303,7 +303,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94211-59-p2s2w22">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 </w.rf>
 <form>Graf</form>
 <lemma>graf</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m-ln94211-59-p2s4w2">
 <src.rf>manual</src.rf>

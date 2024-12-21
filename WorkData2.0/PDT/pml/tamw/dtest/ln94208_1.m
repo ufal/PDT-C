@@ -383,8 +383,8 @@
 <LM>w#w-ln94208-1-p1s3w18</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-1-p1s3w19">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 </w.rf>
 <form>Foto</form>
 <lemma>foto</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln94208-1-p1s4w2">
 <src.rf>manual</src.rf>

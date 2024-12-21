@@ -656,7 +656,7 @@
 <LM>w#w-lnd94103-095-p1s1w71</LM>
 </w.rf>
 <form>Čajkovského</form>
-<lemma>Čajkovskij_;Y</lemma>
+<lemma>Čajkovský_;Y</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w72">
@@ -850,7 +850,7 @@
 <LM>w#w-lnd94103-095-p1s1w92</LM>
 </w.rf>
 <form>jazzová</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w93">

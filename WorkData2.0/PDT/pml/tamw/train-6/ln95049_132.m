@@ -109,8 +109,8 @@
 <LM>w#w-ln95049-132-p1s1w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-132-p1s1w12">
 <src.rf>manual</src.rf>
@@ -255,8 +255,8 @@
 <LM>w#w-ln95049-132-p1s2w12</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-132-p1s2w13">
 <src.rf>manual</src.rf>

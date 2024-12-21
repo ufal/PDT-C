@@ -333,8 +333,8 @@
 <LM>w#w-wsj0601-001-p1s1W22</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0601-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -425,8 +425,8 @@
 <LM>w#w-wsj0601-001-p1s2W5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0601-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -608,7 +608,7 @@
 </w.rf>
 <form>federální</form>
 <lemma>federální</lemma>
-<tag>AAIP4----1A----</tag>
+<tag>AAIS4----1A----</tag>
 </m>
 <m id="m-wsj0601-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -617,7 +617,7 @@
 </w.rf>
 <form>obvod</form>
 <lemma>obvod</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj0601-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1070,8 +1070,8 @@
 <LM>w#w-wsj0601-001-p1s5W9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0601-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1387,8 +1387,8 @@
 <LM>w#w-wsj0601-001-p1s6W12</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0601-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1396,8 +1396,8 @@
 <LM>w#w-wsj0601-001-p1s6W13</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0601-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-wsj0601-001-p1s6W15</LM>
 </w.rf>
 <form>mnohamilionových</form>
-<lemma>mnohamilionový_,s_^(^DD**mnohamiliónový)</lemma>
+<lemma>mnohamilionový_,s_^(^DD**mnohomiliónový)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-wsj0601-001-p1s6W16-Ta">
@@ -1733,8 +1733,8 @@
 <LM>w#w-wsj0601-001-p1s8W11</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0601-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2043,8 +2043,8 @@
 <LM>w#w-wsj0601-001-p1s10W9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0601-001-p1s10W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3041,7 +3041,7 @@
 <LM>w#w-wsj0601-001-p1s13W25</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj0601-001-p1s13W26-Ta">
@@ -3187,8 +3187,8 @@
 <LM>w#w-wsj0601-001-p1s14W10</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0601-001-p1s14W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3780,7 +3780,7 @@
 </w.rf>
 <form>reagovalo</form>
 <lemma>reagovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-wsj0601-001-p1s17W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3806,8 +3806,8 @@
 <LM>w#w-wsj0601-001-p1s17W8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0601-001-p1s17W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4724,7 +4724,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0601-001-p1s21W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5800,8 +5800,8 @@
 <LM>w#w-wsj0601-001-p1s24W15</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0601-001-p1s24W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6297,7 +6297,7 @@
 <LM>w#w-wsj0601-001-p1s25W38</LM>
 </w.rf>
 <form>mnohamiliardové</form>
-<lemma>mnohamiliardový</lemma>
+<lemma>mnohamiliardový_,s_^(^DD**mnohomiliardový)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-wsj0601-001-p1s25W39-Ta">

@@ -116,7 +116,7 @@
 <children>
 <LM id="a-ln94206-108-p1s1Aw16">
 <m.rf>m#m-ln94206-108-p1s1Aw16</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>
@@ -162,7 +162,7 @@
 <children>
 <LM id="a-ln94206-108-p1s1Bw1">
 <m.rf>m#m-ln94206-108-p1s1Bw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>

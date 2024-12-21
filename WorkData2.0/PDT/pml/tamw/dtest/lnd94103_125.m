@@ -2440,8 +2440,8 @@
 <LM>w#w-lnd94103-125-p1s19w1</LM>
 </w.rf>
 <form>Ad</form>
-<lemma>Ad-77</lemma>
-<tag>F%-------------</tag>
+<lemma>ad-2</lemma>
+<tag>RR--1----------</tag>
 </m>
 <m id="m-lnd94103-125-p1s19w2">
 <src.rf>manual</src.rf>

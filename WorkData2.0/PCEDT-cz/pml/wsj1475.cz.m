@@ -382,7 +382,7 @@
 </w.rf>
 <form>podílu</form>
 <lemma>podíl</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS3-----A----</tag>
 </m>
 <m id="m-wsj1475-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>

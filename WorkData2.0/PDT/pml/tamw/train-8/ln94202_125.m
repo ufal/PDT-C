@@ -777,8 +777,8 @@
 <LM>w#w-ln94202-125-p3s1w16</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-125-p3s1w17">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-125-p3s1w33">
 <src.rf>manual</src.rf>
@@ -1420,8 +1420,8 @@
 <LM>w#w-ln94202-125-p3s3w10</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln94202-125-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1438,8 +1438,8 @@
 <LM>w#w-ln94202-125-p3s3w12</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94202-125-p3s3w13">
 <src.rf>manual</src.rf>
@@ -2177,8 +2177,8 @@
 <LM>w#w-ln94202-125-p4s3w1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-125-p4s3w2">
 <src.rf>manual</src.rf>
@@ -2602,8 +2602,8 @@
 <LM>w#w-ln94202-125-p4s4w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-125-p4s4w16">
 <src.rf>manual</src.rf>

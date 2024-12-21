@@ -265,8 +265,8 @@
 <LM>w#w-d1t1375-7</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m120-d1t1375-8">
 <w.rf>
@@ -331,8 +331,8 @@
 <LM>w#w-d1t1377-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m120-d1t1377-7">
 <w.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-d1t1377-39</LM>
 </w.rf>
 <form>Dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m120-d1t1377-40">
@@ -672,7 +672,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m120-d1t1377-50">
 <w.rf>
@@ -1041,8 +1041,8 @@
 <LM>w#w-d1t1404-14</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m120-d1t1404-15">
 <w.rf>
@@ -1181,8 +1181,8 @@
 <LM>w#w-d1t1415-6</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m120-d1t1415-4">
 <w.rf>
@@ -1537,8 +1537,8 @@
 <LM>w#w-d1t1430-2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m120-d1t1432-3">
 <w.rf>
@@ -1915,8 +1915,8 @@
 <LM>w#w-d1t1451-6</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m120-d1t1451-7">
 <w.rf>
@@ -2169,8 +2169,8 @@
 <LM>w#w-d1t1455-16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m120-d1t1455-17">
 <w.rf>
@@ -2519,8 +2519,8 @@
 <LM>w#w-d1t1464-23</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m120-d1t1464-24">
 <w.rf>
@@ -2726,7 +2726,7 @@
 </w.rf>
 <form>čas</form>
 <lemma>čas</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m120-554-556">
 <w.rf>

@@ -1640,7 +1640,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-028-p2s5w6">
 <src.rf>manual</src.rf>
@@ -2913,8 +2913,8 @@
 <LM>w#w-ln95042-028-p2s11w19</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-028-p2s11w20">
 <src.rf>manual</src.rf>

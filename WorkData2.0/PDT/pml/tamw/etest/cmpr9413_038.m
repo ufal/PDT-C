@@ -29,7 +29,7 @@
 </w.rf>
 <form>blahopřejeme</form>
 <lemma>blahopřát</lemma>
-<tag>VB-P---1P-AAP--</tag>
+<tag>VB-P---1P-AAI--</tag>
 </m>
 </s>
 <s id="m-cmpr9413-038-p3s1">
@@ -340,8 +340,8 @@
 <LM>w#w-cmpr9413-038-p3s3w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9413-038-p3s3w2">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-cmpr9413-038-p4s1w4</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-038-p4s1w5">
@@ -723,8 +723,8 @@
 <LM>w#w-cmpr9413-038-p4s2w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-038-p4s2w3">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 </w.rf>
 <form>limitováno</form>
 <lemma>limitovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-cmpr9413-038-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1285,8 +1285,8 @@
 <LM>w#w-cmpr9413-038-p5s2w5</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-038-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1341,7 +1341,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-cmpr9413-038-p5s2w12">
 <src.rf>manual</src.rf>
@@ -1884,8 +1884,8 @@
 <LM>w#w-cmpr9413-038-p6s2w4</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-038-p6s2w5">
 <src.rf>manual</src.rf>
@@ -1951,7 +1951,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-cmpr9413-038-p6s3w3">
 <src.rf>manual</src.rf>
@@ -2007,7 +2007,7 @@
 </w.rf>
 <form>blahopřejeme</form>
 <lemma>blahopřát</lemma>
-<tag>VB-P---1P-AAP--</tag>
+<tag>VB-P---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-038-p6s4w3">
 <src.rf>manual</src.rf>

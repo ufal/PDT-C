@@ -320,8 +320,8 @@
 <LM>w#w-mf920924-069-p2s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-069-p2s2w2">
 <src.rf>manual</src.rf>

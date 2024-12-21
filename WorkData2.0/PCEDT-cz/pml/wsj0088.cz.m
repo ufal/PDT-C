@@ -1329,7 +1329,6 @@
 <w.rf>
 <LM>w#w-wsj0088-001-p1s4W8</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>13.30</form>
 <lemma>13.30</lemma>
 <tag>C=-------------</tag>
@@ -1456,7 +1455,6 @@
 <w.rf>
 <LM>w#w-wsj0088-001-p1s4W22</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>15.15</form>
 <lemma>15.15</lemma>
 <tag>C=-------------</tag>
@@ -2075,7 +2073,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0088-001-p1s6W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2400,8 +2398,8 @@
 <LM>w#w-wsj0088-001-p1s7W23</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0088-001-p1s7W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2917,7 +2915,7 @@
 </w.rf>
 <form>aktivován</form>
 <lemma>aktivovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj0088-001-p1s8W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4001,7 +3999,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0088-001-p1s13W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4119,7 +4117,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0088-001-p1s13W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7355,8 +7353,8 @@
 <LM>w#w-wsj0088-001-p1s25W9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0088-001-p1s25W10-Ta">
 <src.rf>tagger-a</src.rf>

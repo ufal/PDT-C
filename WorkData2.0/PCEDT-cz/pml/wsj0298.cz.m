@@ -1067,8 +1067,8 @@
 <LM>w#w-wsj0298-001-p1s3W34</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0298-001-p1s3W35-Ta">
 <src.rf>tagger-a</src.rf>

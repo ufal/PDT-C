@@ -1527,8 +1527,8 @@
 <LM>w#w-wsj0610-001-p1s8W14</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0610-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1638,7 +1638,7 @@
 </w.rf>
 <form>Každé</form>
 <lemma>každý</lemma>
-<tag>AANS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-wsj0610-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1882,8 +1882,8 @@
 <LM>w#w-wsj0610-001-p1s10W16</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0610-001-p1s10W17-Ta">
 <src.rf>tagger-a</src.rf>

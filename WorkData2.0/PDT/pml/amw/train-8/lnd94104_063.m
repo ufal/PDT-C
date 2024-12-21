@@ -2278,7 +2278,7 @@
 </w.rf>
 <form>nevěnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-lnd94104-063-p1s14w20">
 <src.rf>manual</src.rf>
@@ -2388,7 +2388,7 @@
 </w.rf>
 <form>nevěnovaly</form>
 <lemma>věnovat</lemma>
-<tag>VpTP----R-NAI--</tag>
+<tag>VpTP----R-NAB--</tag>
 </m>
 <m id="m-lnd94104-063-p1s15w11">
 <src.rf>manual</src.rf>
@@ -3586,7 +3586,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-063-p1s23w6">
 <src.rf>manual</src.rf>
@@ -4493,7 +4493,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-063-p1s30w3">
 <src.rf>manual</src.rf>
@@ -5304,7 +5304,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-063-p1s35w3">
 <src.rf>manual</src.rf>
@@ -5458,8 +5458,8 @@
 <LM>w#w-lnd94104-063-p1s36w13</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-063-p1s36w14">
 <src.rf>manual</src.rf>
@@ -5614,7 +5614,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-063-p1s37w6">
 <src.rf>manual</src.rf>
@@ -6444,8 +6444,8 @@
 <LM>w#w-lnd94104-063-p1s42w5</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-063-p1s42w6">
 <src.rf>manual</src.rf>
@@ -6964,7 +6964,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-063-p1s45w7">
 <src.rf>manual</src.rf>
@@ -7290,7 +7290,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-063-p1s46w29">
 <src.rf>manual</src.rf>
@@ -7438,7 +7438,7 @@
 </w.rf>
 <form>citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd94104-063-p1s48Aw6">
 <src.rf>manual</src.rf>
@@ -7646,8 +7646,8 @@
 <LM>w#w-lnd94104-063-p1s48Bw5</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-063-p1s48Bw6">
 <src.rf>manual</src.rf>

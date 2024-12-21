@@ -474,8 +474,8 @@
 <LM>w#w-d1t2245-10</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t2245-11">
 <w.rf>
@@ -1494,8 +1494,8 @@
 <LM>w#w-d1t2327-3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m117-d1t2327-4">
 <w.rf>
@@ -1627,7 +1627,7 @@
 </w.rf>
 <form>málo</form>
 <lemma>málo-1_^(málo_peněz)</lemma>
-<tag>Ca--4----------</tag>
+<tag>Ca--1----------</tag>
 </m>
 <m id="m117-407-411">
 <w.rf>

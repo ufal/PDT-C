@@ -413,7 +413,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-73-p2s3w5">
 <src.rf>manual</src.rf>
@@ -448,8 +448,8 @@
 <LM>w#w-ln94204-73-p2s3w8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-73-p2s3w9">
 <src.rf>manual</src.rf>

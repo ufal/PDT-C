@@ -1014,8 +1014,8 @@
 <LM>w#w-ln94203-53-p4s1Aw8</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94203-53-p4s1Aw9">
 <src.rf>manual</src.rf>
@@ -1836,8 +1836,8 @@
 <LM>w#w-ln94203-53-p4s6w8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-53-p4s6w9">
 <src.rf>manual</src.rf>
@@ -2156,7 +2156,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94203-53-p5s2w9">
 <src.rf>manual</src.rf>
@@ -2201,7 +2201,7 @@
 </w.rf>
 <form>věnovala</form>
 <lemma>věnovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94203-53-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2264,7 +2264,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-53-p5s2w21">
 <src.rf>manual</src.rf>
@@ -2417,7 +2417,7 @@
 </w.rf>
 <form>zachována</form>
 <lemma>zachovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94203-53-p5s2w39">
 <src.rf>manual</src.rf>

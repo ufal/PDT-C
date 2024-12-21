@@ -2345,8 +2345,8 @@
 <LM>w#w-vesm9301-026-p7s4w10</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-026-p7s4w11">
 <src.rf>manual</src.rf>
@@ -8182,7 +8182,7 @@
 <LM>w#w-vesm9301-026-p12s2w13</LM>
 </w.rf>
 <form>zjednodušené</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AAFS3----1A----</tag>
 </m>
 <m id="m-vesm9301-026-p12s2w14">
@@ -8345,7 +8345,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9301-026-p12s2w32">
 <src.rf>manual</src.rf>
@@ -9829,8 +9829,8 @@
 <LM>w#w-vesm9301-026-p12s10w26</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-026-p12s10w27">
 <src.rf>manual</src.rf>
@@ -10348,8 +10348,8 @@
 <LM>w#w-vesm9301-026-p13s2w29</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9301-026-p13s2w30">
 <src.rf>manual</src.rf>
@@ -11565,7 +11565,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9301-026-p14s4w8">
 <src.rf>manual</src.rf>
@@ -11582,8 +11582,8 @@
 <LM>w#w-vesm9301-026-p14s4w9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9301-026-p14s4w10">
 <src.rf>manual</src.rf>

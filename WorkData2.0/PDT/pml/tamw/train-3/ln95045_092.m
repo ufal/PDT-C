@@ -64,8 +64,8 @@
 <LM>w#w-ln95045-092-p1s1w6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-092-p1s1w7">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-092-p3s1w11">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln95045-092-p3s2w12">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-ln95045-092-p3s4w6">
 <src.rf>manual</src.rf>
@@ -981,7 +981,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-092-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1052,8 +1052,8 @@
 <LM>w#w-ln95045-092-p3s6w11</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-092-p3s6w12">
 <src.rf>manual</src.rf>
@@ -1116,7 +1116,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-092-p3s6w19">
 <src.rf>manual</src.rf>
@@ -1617,7 +1617,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-092-p4s2w23">
 <src.rf>manual</src.rf>
@@ -1907,7 +1907,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-092-p4s3w22">
 <src.rf>manual</src.rf>
@@ -2574,7 +2574,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-ln95045-092-p6s3w9">
 <src.rf>manual</src.rf>
@@ -2756,7 +2756,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln95045-092-p6s4w18">
 <src.rf>manual</src.rf>

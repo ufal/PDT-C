@@ -575,7 +575,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-028-p2s3w18">
 <src.rf>manual</src.rf>
@@ -693,8 +693,8 @@
 <LM>w#w-mf920922-028-p2s4w5</LM>
 </w.rf>
 <form>sotva</form>
-<lemma>sotva-1</lemma>
-<tag>Db-------------</tag>
+<lemma>sotva-3</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-028-p2s4w6">
 <src.rf>manual</src.rf>
@@ -738,8 +738,8 @@
 <LM>w#w-mf920922-028-p2s4w10</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-028-p2s4w11">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 </w.rf>
 <form>dominuje</form>
 <lemma>dominovat</lemma>
-<tag>VB-S---3P-AAB--</tag>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-028-p2s4w25">
 <src.rf>manual</src.rf>
@@ -1075,8 +1075,8 @@
 <LM>w#w-mf920922-028-p2s6w13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-028-p2s6w14">
 <src.rf>manual</src.rf>
@@ -1383,8 +1383,8 @@
 <LM>w#w-mf920922-028-p2s7w27</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-028-p2s7w28">
 <src.rf>manual</src.rf>
@@ -2070,8 +2070,8 @@
 <LM>w#w-mf920922-028-p2s13w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-028-p2s13w6">
 <src.rf>manual</src.rf>
@@ -2162,8 +2162,8 @@
 <LM>w#w-mf920922-028-p2s14w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-028-p2s14w7">
 <src.rf>manual</src.rf>
@@ -2291,7 +2291,7 @@
 </w.rf>
 <form>riffu</form>
 <lemma>riff</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-028-p2s15w12">
 <src.rf>manual</src.rf>
@@ -2664,7 +2664,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-028-p2s17w19">
 <src.rf>manual</src.rf>

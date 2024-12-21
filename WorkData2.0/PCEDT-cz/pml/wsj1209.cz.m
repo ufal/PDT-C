@@ -490,8 +490,8 @@
 <LM>w#w-wsj1209-001-p1s2W4</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1209-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>

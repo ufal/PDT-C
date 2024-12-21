@@ -1727,7 +1727,7 @@
 </w.rf>
 <form>tónu</form>
 <lemma>tón</lemma>
-<tag>NNIS6-----A----</tag>
+<tag>NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920923-093-p3s1w16">
 <src.rf>manual</src.rf>

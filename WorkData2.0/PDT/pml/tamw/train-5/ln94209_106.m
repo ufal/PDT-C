@@ -46,8 +46,8 @@
 <LM>w#w-ln94209-106-p1s1w4</LM>
 </w.rf>
 <form>jménem</form>
-<lemma>jméno</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>jménem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94209-106-p1s1w5">
 <src.rf>manual</src.rf>

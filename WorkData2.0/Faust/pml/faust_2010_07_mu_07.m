@@ -783,7 +783,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_07-SCzechM-p0654-s1-w42">
 <w.rf>
@@ -922,8 +922,8 @@
 <LM>w#w-mu_07-SCzechM-p0660-s1-w1</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_07-SCzechM-p0660-s1-w2">
 <w.rf>
@@ -1145,7 +1145,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="mu_07-SCzechM-p0673-s1-w2">
 <w.rf>
@@ -3163,7 +3163,7 @@
 <LM>w#w-mu_07-SCzechM-p0706-s1-w1</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať</lemma>
+<lemma>ať-3</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="mu_07-SCzechM-p0706-s1-w2">
@@ -3633,8 +3633,8 @@
 <LM>w#w-mu_07-SCzechM-p0717-s1-w5</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="mu_07-SCzechM-p0717-s1-w6">
 <w.rf>
@@ -4164,7 +4164,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_07-SCzechM-p0735-s1-w5">
 <w.rf>

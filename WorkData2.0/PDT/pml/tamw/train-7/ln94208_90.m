@@ -224,7 +224,7 @@
 <LM>w#w-ln94208-90-p2s1Bw14</LM>
 </w.rf>
 <form>mnohaletou</form>
-<lemma>mnohaletý</lemma>
+<lemma>mnohaletý_,s_^(^DD**mnoholetý)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-ln94208-90-p2s1Bw15">
@@ -251,8 +251,8 @@
 <LM>w#w-ln94208-90-p2s1Bw17</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-90-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -1806,8 +1806,8 @@
 <LM>w#w-ln94208-90-p5s5w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-90-p5s5w4">
 <src.rf>manual</src.rf>

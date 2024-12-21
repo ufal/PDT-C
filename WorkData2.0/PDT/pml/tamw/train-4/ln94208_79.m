@@ -1577,7 +1577,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94208-79-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1915,8 +1915,8 @@
 <LM>w#w-ln94208-79-p4s2w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-79-p4s2w2">
 <src.rf>manual</src.rf>
@@ -2333,8 +2333,8 @@
 <LM>w#w-ln94208-79-p4s4w15</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-79-p4s4w16">
 <src.rf>manual</src.rf>
@@ -2462,7 +2462,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94208-79-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2931,8 +2931,8 @@
 <LM>w#w-ln94208-79-p5s2w47</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-79-p5s2w48">
 <src.rf>manual</src.rf>
@@ -3150,7 +3150,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94208-79-p6s1w23">
 <src.rf>manual</src.rf>
@@ -3267,7 +3267,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94208-79-p6s1w36">
 <src.rf>manual</src.rf>
@@ -3766,7 +3766,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-79-p6s3w3">
 <src.rf>manual</src.rf>
@@ -5092,8 +5092,8 @@
 <LM>w#w-ln94208-79-p7s6w11</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-79-p7s6w12">
 <src.rf>manual</src.rf>
@@ -5385,7 +5385,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AAIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-ln94208-79-p7s8w9">
 <src.rf>manual</src.rf>
@@ -5530,7 +5530,7 @@
 <LM>w#w-ln94208-79-p8s1w12</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-ln94208-79-p8s1w13">
@@ -7877,8 +7877,8 @@
 <LM>w#w-ln94208-79-p9s2w29</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94208-79-p9s2w30">
 <src.rf>manual</src.rf>

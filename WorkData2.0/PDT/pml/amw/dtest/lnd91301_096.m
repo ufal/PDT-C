@@ -1307,7 +1307,7 @@
 </w.rf>
 <form>triumfovaly</form>
 <lemma>triumfovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-lnd91301-096-p3s8w6">
 <src.rf>manual</src.rf>

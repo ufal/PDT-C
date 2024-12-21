@@ -2702,7 +2702,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0634-001-p1s13W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3765,8 +3765,8 @@
 <LM>w#w-wsj0634-001-p1s17W17</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0634-001-p1s17W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3821,8 +3821,8 @@
 <LM>w#w-wsj0634-001-p1s18W3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0634-001-p1s18W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4620,7 +4620,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0634-001-p1s21W24-Ta">
 <src.rf>tagger-a</src.rf>

@@ -761,8 +761,8 @@
 <LM>w#w-wsj1663-001-p1s2W14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1663-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1873,8 +1873,8 @@
 <LM>w#w-wsj1663-001-p1s7W14</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1663-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2399,8 +2399,8 @@
 <LM>w#w-wsj1663-001-p1s9W11</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1663-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2734,8 +2734,8 @@
 <LM>w#w-wsj1663-001-p1s10W28</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1663-001-p1s10W29-Ta">
 <src.rf>tagger-a</src.rf>

@@ -208,8 +208,8 @@
 <LM>w#w-d1t1383-14</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m113-d1t1383-15">
 <w.rf>
@@ -320,8 +320,8 @@
 <LM>w#w-d1t1383-32</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m113-d1t1383-33">
 <w.rf>
@@ -1968,8 +1968,8 @@
 <LM>w#w-d1t1454-3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m113-d1t1454-6">
 <w.rf>
@@ -2434,8 +2434,8 @@
 <LM>w#w-d1t1479-14</LM>
 </w.rf>
 <form>je</form>
-<lemma>on-1</lemma>
-<tag>PEXP4--3-------</tag>
+<lemma>být</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m113-d1t1479-16">
 <w.rf>
@@ -2857,7 +2857,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m113-d1t1492-18">
 <w.rf>
@@ -2988,8 +2988,8 @@
 <LM>w#w-d1t1492-37</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m113-d1t1492-38">
 <w.rf>
@@ -3176,8 +3176,8 @@
 <LM>w#w-d1t1502-6</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m113-d1t1502-7">
 <w.rf>
@@ -3706,8 +3706,8 @@
 <LM>w#w-d1t1516-6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m113-d1t1516-7">
 <w.rf>
@@ -3823,7 +3823,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m113-d-m-d1e1527-x2-punct-punct">
 <w.rf>
@@ -3923,7 +3923,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m113-d1t1538-4">
 <w.rf>
@@ -3986,8 +3986,8 @@
 <LM>w#w-d1t1538-11</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m113-d1t1538-12">
 <w.rf>

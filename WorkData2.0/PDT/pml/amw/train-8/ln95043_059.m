@@ -76,7 +76,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95043-059-p2s1w2">
 <src.rf>manual</src.rf>
@@ -187,8 +187,8 @@
 <LM>w#w-ln95043-059-p3s1Bw6</LM>
 </w.rf>
 <form>Lastovecké</form>
-<lemma>Lastovecký_;Y</lemma>
-<tag>NNMP4-----A----</tag>
+<lemma>Lastovecká_;Y_^(*1ý)</lemma>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m-ln95043-059-p3s1Bw7">
 <src.rf>manual</src.rf>

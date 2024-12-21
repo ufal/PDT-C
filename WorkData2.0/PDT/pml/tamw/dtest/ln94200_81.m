@@ -28,8 +28,8 @@
 <LM>w#w-ln94200-81-p1s1w2</LM>
 </w.rf>
 <form>nezávislých</form>
-<lemma>závislý</lemma>
-<tag>AAMP2----1N----</tag>
+<lemma>nezávislý</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-81-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <LM>w#w-ln94200-81-p1s1w3</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-81-p1s1w4">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94200-81-p2s1Bw36">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln94200-81-p2s2w16">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-ln94200-81-p2s2w24</LM>
 </w.rf>
 <form>dozvědět</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94200-81-p2s2w25">

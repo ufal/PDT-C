@@ -1202,7 +1202,7 @@
 </w.rf>
 <form>věnují</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln94205-38-p2s6w52">
 <src.rf>manual</src.rf>
@@ -1228,8 +1228,8 @@
 <LM>w#w-ln94205-38-p2s6w54</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-38-p2s6w55">
 <src.rf>manual</src.rf>

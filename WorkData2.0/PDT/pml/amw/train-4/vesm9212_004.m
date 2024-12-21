@@ -1573,7 +1573,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-004-p2s7w44">
 <src.rf>manual</src.rf>

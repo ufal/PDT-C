@@ -518,7 +518,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0350-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1109,7 +1109,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj0350-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1941,7 +1941,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0350-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>

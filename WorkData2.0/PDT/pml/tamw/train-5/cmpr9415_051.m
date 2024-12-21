@@ -320,8 +320,8 @@
 <LM>w#w-cmpr9415-051-p4s1w18</LM>
 </w.rf>
 <form>statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP4----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP4---------1</tag>
 </m>
 <m id="m-cmpr9415-051-p4s1w19">
 <src.rf>manual</src.rf>
@@ -824,8 +824,8 @@
 <LM>w#w-cmpr9415-051-p5s3w8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p5s3w9">
 <src.rf>manual</src.rf>
@@ -1158,7 +1158,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-cmpr9415-051-p7s2w5">
 <src.rf>manual</src.rf>
@@ -1800,7 +1800,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p7s7w4">
 <src.rf>manual</src.rf>
@@ -1919,7 +1919,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p7s8w9">
 <src.rf>manual</src.rf>
@@ -2157,7 +2157,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p9s1w4">
 <src.rf>manual</src.rf>
@@ -2266,8 +2266,8 @@
 <LM>w#w-cmpr9415-051-p9s2w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p9s2w4">
 <src.rf>manual</src.rf>
@@ -2487,8 +2487,8 @@
 <LM>w#w-cmpr9415-051-p9s4w8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p9s4w9">
 <src.rf>manual</src.rf>
@@ -2724,7 +2724,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p9s5w16">
 <src.rf>manual</src.rf>
@@ -2852,7 +2852,7 @@
 </w.rf>
 <form>dominovali</form>
 <lemma>dominovat</lemma>
-<tag>VpMP----R-AAB--</tag>
+<tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9415-051-p9s6w4">
 <src.rf>manual</src.rf>
@@ -2860,8 +2860,8 @@
 <LM>w#w-cmpr9415-051-p9s6w4</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p9s6w5">
 <src.rf>manual</src.rf>
@@ -3328,7 +3328,7 @@
 </w.rf>
 <form>přespí</form>
 <lemma>přespat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9415-051-p10s1w6">
 <src.rf>manual</src.rf>
@@ -3355,7 +3355,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p10s1w9">
 <src.rf>manual</src.rf>
@@ -3985,8 +3985,8 @@
 <LM>w#w-cmpr9415-051-p12s3w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p12s3w8">
 <src.rf>manual</src.rf>
@@ -4834,8 +4834,8 @@
 <LM>w#w-cmpr9415-051-p15s4w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p15s4w5">
 <src.rf>manual</src.rf>
@@ -4997,7 +4997,7 @@
 </w.rf>
 <form>nevěnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-NAI--</tag>
+<tag>VB-S---3P-NAB--</tag>
 </m>
 <m id="m-cmpr9415-051-p15s4w23">
 <src.rf>manual</src.rf>
@@ -6003,8 +6003,8 @@
 <LM>w#w-cmpr9415-051-p18s4w4</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p18s4w5">
 <src.rf>manual</src.rf>
@@ -6022,7 +6022,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p18s4w7">
 <src.rf>manual</src.rf>
@@ -6517,8 +6517,8 @@
 <LM>w#w-cmpr9415-051-p19s5w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p19s5w2">
 <src.rf>manual</src.rf>
@@ -6810,8 +6810,8 @@
 <LM>w#w-cmpr9415-051-p20s2w4</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9415-051-p20s2w5">
 <src.rf>manual</src.rf>

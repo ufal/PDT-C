@@ -788,7 +788,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-015-p9s3w6">
 <src.rf>manual</src.rf>
@@ -1212,8 +1212,8 @@
 <LM>w#w-cmpr9415-015-p9s5w12</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-015-p9s5w13">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-015-p9s7w16">
 <src.rf>manual</src.rf>
@@ -2073,7 +2073,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-015-p11s3w15">
 <src.rf>manual</src.rf>

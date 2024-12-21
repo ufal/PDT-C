@@ -1568,7 +1568,7 @@
 <LM>w#w-ln95040-073-p4s1w1</LM>
 </w.rf>
 <form>Paštunská</form>
-<lemma>paštunský</lemma>
+<lemma>paštunský_,s_^(^DD**paštúnský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-ln95040-073-p4s1w2">
@@ -1795,7 +1795,7 @@
 <LM>w#w-ln95040-073-p4s2w1</LM>
 </w.rf>
 <form>Paštunský</form>
-<lemma>paštunský</lemma>
+<lemma>paštunský_,s_^(^DD**paštúnský)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-ln95040-073-p4s2w2">
@@ -2022,7 +2022,7 @@
 <LM>w#w-ln95040-073-p5s1w10</LM>
 </w.rf>
 <form>paštunské</form>
-<lemma>paštunský</lemma>
+<lemma>paštunský_,s_^(^DD**paštúnský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln95040-073-p5s1w11">
@@ -2213,7 +2213,7 @@
 <LM>w#w-ln95040-073-p5s2w9</LM>
 </w.rf>
 <form>Paštunů</form>
-<lemma>Paštun_;E</lemma>
+<lemma>Paštun_;E_,s_^(^DD**Paštún)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln95040-073-p5s2w10">
@@ -2287,7 +2287,7 @@
 <LM>w#w-ln95040-073-p5s3w1</LM>
 </w.rf>
 <form>Paštuni</form>
-<lemma>Paštun_;E</lemma>
+<lemma>Paštun_;E_,s_^(^DD**Paštún)</lemma>
 <tag>NNMP1-----A---1</tag>
 </m>
 <m id="m-ln95040-073-p5s3w2">
@@ -2360,7 +2360,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-073-p5s3w10">
 <src.rf>manual</src.rf>
@@ -2586,7 +2586,7 @@
 <LM>w#w-ln95040-073-p6s1w15</LM>
 </w.rf>
 <form>paštunský</form>
-<lemma>paštunský</lemma>
+<lemma>paštunský_,s_^(^DD**paštúnský)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-ln95040-073-p6s1w16">
@@ -3753,7 +3753,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-073-p7s3w17">
 <src.rf>manual</src.rf>

@@ -460,7 +460,7 @@
 </w.rf>
 <form>blahopřáli</form>
 <lemma>blahopřát</lemma>
-<tag>VpMP----R-AAP--</tag>
+<tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj2224-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>

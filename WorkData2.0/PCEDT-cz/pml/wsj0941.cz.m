@@ -151,8 +151,8 @@
 <LM>w#w-wsj0941-001-p1s0W16</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0941-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -742,7 +742,7 @@
 </w.rf>
 <form>distribuovat</form>
 <lemma>distribuovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0941-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1068,7 +1068,7 @@
 </w.rf>
 <form>distribuovány</form>
 <lemma>distribuovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-wsj0941-001-p1s3W35-Ta">
 <src.rf>tagger-a</src.rf>

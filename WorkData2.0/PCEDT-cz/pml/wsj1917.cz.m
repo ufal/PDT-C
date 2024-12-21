@@ -363,7 +363,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1917-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -653,7 +653,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1917-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1703,7 +1703,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1917-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>

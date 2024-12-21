@@ -2737,7 +2737,7 @@
 <LM>w#w-ln94202-109-p24s1w5</LM>
 </w.rf>
 <form>kanoistů</form>
-<lemma>kanoista</lemma>
+<lemma>kanoista_,s_^(^DD**kánoista)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94202-109-p24s1w6">

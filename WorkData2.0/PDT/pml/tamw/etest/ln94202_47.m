@@ -651,7 +651,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln94202-47-p2s4w5">
 <src.rf>manual</src.rf>

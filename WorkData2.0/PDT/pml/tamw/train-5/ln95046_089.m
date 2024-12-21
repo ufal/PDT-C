@@ -569,8 +569,8 @@
 <LM>w#w-ln95046-089-p3s2w4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-089-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1198,8 +1198,8 @@
 <LM>w#w-ln95046-089-p3s6w21</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln95046-089-p3s6w22">
 <src.rf>manual</src.rf>

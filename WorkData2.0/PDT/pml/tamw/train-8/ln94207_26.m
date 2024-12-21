@@ -734,7 +734,7 @@
 </w.rf>
 <form>citovaly</form>
 <lemma>citovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln94207-26-p2s5w10">
 <src.rf>manual</src.rf>

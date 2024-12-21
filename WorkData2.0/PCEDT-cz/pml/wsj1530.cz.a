@@ -36,8 +36,6 @@
 <afun>Atr</afun>
 <ord>2</ord>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1530-001-p1s0W4-Ta">
 <m.rf>m#m-wsj1530-001-p1s0W4-Ta</m.rf>
 <afun>AuxP</afun>
@@ -57,6 +55,8 @@
 <m.rf>m#m-wsj1530-001-p1s0W7-Ta</m.rf>
 <afun>Atr</afun>
 <ord>7</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -98,7 +98,7 @@
 <m.rf>m#m-wsj1530-001-p1s0W15-Ta</m.rf>
 <afun>Atr</afun>
 <ord>15</ord>
-<children>
+</LM>
 <LM id="a-wsj1530-001-p1s0W16-Ta">
 <m.rf>m#m-wsj1530-001-p1s0W16-Ta</m.rf>
 <afun>AuxP</afun>
@@ -108,6 +108,8 @@
 <m.rf>m#m-wsj1530-001-p1s0W17-Ta</m.rf>
 <afun>Atr</afun>
 <ord>17</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -136,16 +138,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-wsj1530-001-p1s0W21-Ta">
 <m.rf>m#m-wsj1530-001-p1s0W21-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>21</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -187,7 +185,7 @@
 </LM>
 <LM id="a-wsj1530-001-p1s1W6-Ta">
 <m.rf>m#m-wsj1530-001-p1s1W6-Ta</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>6</ord>
 </LM>
 <LM id="a-wsj1530-001-p1s1W9-Ta">
@@ -247,7 +245,7 @@
 <m.rf>m#m-wsj1530-001-p1s1W17-Ta</m.rf>
 <afun>Adv</afun>
 <ord>17</ord>
-</LM>
+<children>
 <LM id="a-wsj1530-001-p1s1W19-Ta">
 <m.rf>m#m-wsj1530-001-p1s1W19-Ta</m.rf>
 <afun>AuxC</afun>
@@ -313,6 +311,8 @@
 <m.rf>m#m-wsj1530-001-p1s1W27-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>27</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -392,7 +392,7 @@
 <children>
 <LM id="a-wsj1530-001-p1s2W12-Ta">
 <m.rf>m#m-wsj1530-001-p1s2W12-Ta</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>12</ord>
 </LM>
 <LM id="a-wsj1530-001-p1s2W14-Ta">
@@ -436,7 +436,7 @@
 <children>
 <LM id="a-wsj1530-001-p1s2W21-Ta">
 <m.rf>m#m-wsj1530-001-p1s2W21-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>21</ord>
 <children>
 <LM id="a-wsj1530-001-p1s2W22-Ta">
@@ -521,12 +521,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1530-001-p1s2W33-Ta">
 <m.rf>m#m-wsj1530-001-p1s2W33-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>33</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

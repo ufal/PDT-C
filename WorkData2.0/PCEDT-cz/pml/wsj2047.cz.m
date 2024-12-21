@@ -1059,7 +1059,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2047-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>

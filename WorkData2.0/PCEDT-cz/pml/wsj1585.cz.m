@@ -379,7 +379,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj1585-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -679,7 +679,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1585-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1070,7 +1070,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1585-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1159,8 +1159,8 @@
 <LM>w#w-wsj1585-001-p1s4W16</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1585-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1168,8 +1168,8 @@
 <LM>w#w-wsj1585-001-p1s4W17</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1585-001-p1s4W18-Ta">
 <src.rf>tagger-a</src.rf>

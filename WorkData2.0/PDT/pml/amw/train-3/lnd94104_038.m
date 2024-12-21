@@ -96,7 +96,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-lnd94104-038-p1s1Cw6">
 <src.rf>manual</src.rf>
@@ -2643,8 +2643,8 @@
 <LM>w#w-lnd94104-038-p1s19Aw29</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94104-038-p1s19Aw30">
 <src.rf>manual</src.rf>
@@ -3736,8 +3736,8 @@
 <LM>w#w-lnd94104-038-p1s26w1</LM>
 </w.rf>
 <form>Jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-038-p1s26w2">
 <src.rf>manual</src.rf>

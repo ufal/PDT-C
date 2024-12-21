@@ -2665,7 +2665,7 @@
 </w.rf>
 <form>důkaz</form>
 <lemma>důkaz</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9211-058-p3s12w15">
 <src.rf>manual</src.rf>
@@ -3657,8 +3657,8 @@
 <LM>w#w-vesm9211-058-p4s5w2</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-058-p4s5w3">
 <src.rf>manual</src.rf>
@@ -3822,7 +3822,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-058-p4s6w7">
 <src.rf>manual</src.rf>
@@ -5381,8 +5381,8 @@
 <LM>w#w-vesm9211-058-p5s4w2</LM>
 </w.rf>
 <form>že</form>
-<lemma>že-1</lemma>
-<tag>J,-------------</tag>
+<lemma>že-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-058-p5s4w3">
 <src.rf>manual</src.rf>

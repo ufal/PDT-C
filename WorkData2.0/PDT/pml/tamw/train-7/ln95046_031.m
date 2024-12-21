@@ -77,8 +77,8 @@
 <LM>w#w-ln95046-031-p2s1Bw1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-031-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -423,8 +423,8 @@
 <LM>w#w-ln95046-031-p2s3w2</LM>
 </w.rf>
 <form>Opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-031-p2s3w3">
 <src.rf>manual</src.rf>

@@ -441,8 +441,8 @@
 <LM>w#w-ln95044-013-p3s1w7</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95044-013-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1470,7 +1470,7 @@
 <LM>w#w-ln95044-013-p5s1w9</LM>
 </w.rf>
 <form>mnohamiliardového</form>
-<lemma>mnohamiliardový</lemma>
+<lemma>mnohamiliardový_,s_^(^DD**mnohomiliardový)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-ln95044-013-p5s1w10">

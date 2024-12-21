@@ -325,8 +325,8 @@
 <LM>w#w-d1t2065-3</LM>
 </w.rf>
 <form>Vedle</form>
-<lemma>vedle-1</lemma>
-<tag>RR--2----------</tag>
+<lemma>vedle-2</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m100-d1t2065-4">
 <w.rf>
@@ -855,8 +855,8 @@
 <LM>w#w-d1t2095-8</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t2095-1">
 <w.rf>
@@ -1035,8 +1035,8 @@
 <LM>w#w-d1t2095-20</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t2095-19">
 <w.rf>
@@ -3021,8 +3021,8 @@
 <LM>w#w-d1t2226-4</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t2226-5">
 <w.rf>
@@ -3185,8 +3185,8 @@
 <LM>w#w-d1t2233-7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m100-d1t2233-8">
 <w.rf>

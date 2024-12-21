@@ -1299,8 +1299,8 @@
 <LM>w#w-wsj0659-001-p1s5W2</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0659-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -151,8 +151,8 @@
 <LM>w#w-wsj1152-001-p1s0W16</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1152-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -807,8 +807,8 @@
 <LM>w#w-wsj1152-001-p1s4W2</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1152-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

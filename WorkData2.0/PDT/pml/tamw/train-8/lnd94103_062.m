@@ -520,8 +520,8 @@
 <LM>w#w-lnd94103-062-p1s3w9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-062-p1s3w10">
 <src.rf>manual</src.rf>
@@ -1124,8 +1124,8 @@
 <LM>w#w-lnd94103-062-p1s8w2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-062-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1133,8 +1133,8 @@
 <LM>w#w-lnd94103-062-p1s8w3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-062-p1s8w4">
 <src.rf>manual</src.rf>

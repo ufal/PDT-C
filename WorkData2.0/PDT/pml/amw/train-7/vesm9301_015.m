@@ -8105,7 +8105,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-015-p11s5w26">
 <src.rf>manual</src.rf>

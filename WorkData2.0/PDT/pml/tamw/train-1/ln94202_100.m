@@ -404,7 +404,7 @@
 </w.rf>
 <form>předčila</form>
 <lemma>předčit</lemma>
-<tag>VpQW----R-AAP--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94202-100-p2s2w12">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-100-p2s4w2">
 <src.rf>manual</src.rf>

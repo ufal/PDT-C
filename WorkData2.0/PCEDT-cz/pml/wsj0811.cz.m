@@ -871,7 +871,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0811-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1127,7 +1127,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0811-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>

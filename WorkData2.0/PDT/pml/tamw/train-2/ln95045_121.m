@@ -711,8 +711,8 @@
 <LM>w#w-ln95045-121-p2s3w17</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-121-p2s3w18">
 <src.rf>manual</src.rf>

@@ -895,8 +895,8 @@
 <LM>w#w-ln94210-26-p2s5w19</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94210-26-p2s5w20">
 <src.rf>manual</src.rf>
@@ -913,8 +913,8 @@
 <LM>w#w-ln94210-26-p2s5w21</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-26-p2s5w22">
 <src.rf>manual</src.rf>
@@ -1095,8 +1095,8 @@
 <LM>w#w-ln94210-26-p2s6w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-26-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1205,7 +1205,7 @@
 <LM>w#w-ln94210-26-p2s7w6</LM>
 </w.rf>
 <form>mnohamilionové</form>
-<lemma>mnohamilionový_,s_^(^DD**mnohamiliónový)</lemma>
+<lemma>mnohamilionový_,s_^(^DD**mnohomiliónový)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-ln94210-26-p2s7w7">

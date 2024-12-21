@@ -223,8 +223,8 @@
 <LM>w#w-wsj0905-001-p1s0W24</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0905-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -414,8 +414,8 @@
 <LM>w#w-wsj0905-001-p1s1W19</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0905-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>

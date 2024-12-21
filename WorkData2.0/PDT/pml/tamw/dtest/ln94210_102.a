@@ -147,25 +147,23 @@
 </LM>
 </children>
 </LM>
-<LM id="a-ln94210-102-p2s1w20">
-<m.rf>m#m-ln94210-102-p2s1w20</m.rf>
-<afun>AuxP</afun>
-<ord>20</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-ln94210-102-p2s1w21">
 <m.rf>m#m-ln94210-102-p2s1w21</m.rf>
 <afun>AuxP</afun>
 <ord>21</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-ln94210-102-p2s1w20">
+<m.rf>m#m-ln94210-102-p2s1w20</m.rf>
+<afun>AuxY</afun>
+<ord>20</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-ln94210-102-p2s1w22">
 <m.rf>m#m-ln94210-102-p2s1w22</m.rf>
 <afun>Adv</afun>
 <ord>22</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -204,6 +202,11 @@
 <afun>Atr</afun>
 <ord>28</ord>
 <clause_number>1</clause_number>
+<comments>
+<LM type="Other">
+<text>výjimka: Adj parent</text>
+</LM>
+</comments>
 </LM>
 </children>
 </LM>
@@ -270,10 +273,10 @@
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-ln94210-102-p2s2w10">
-<m.rf>m#m-ln94210-102-p2s2w10</m.rf>
+<LM id="a-ln94210-102-p2s2w9">
+<m.rf>m#m-ln94210-102-p2s2w9</m.rf>
 <afun>Apos</afun>
-<ord>10</ord>
+<ord>9</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94210-102-p2s2w8">
@@ -291,10 +294,10 @@
 </LM>
 </children>
 </LM>
-<LM id="a-ln94210-102-p2s2w9">
-<m.rf>m#m-ln94210-102-p2s2w9</m.rf>
-<afun>AuxX</afun>
-<ord>9</ord>
+<LM id="a-ln94210-102-p2s2w10">
+<m.rf>m#m-ln94210-102-p2s2w10</m.rf>
+<afun>AuxZ</afun>
+<ord>10</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94210-102-p2s2w13">

@@ -1176,7 +1176,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2052-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4705,7 +4705,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2052-001-p1s25W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7603,7 +7603,7 @@
 <form_change>spell</form_change>
 <form>Kandaháru</form>
 <lemma>Kandahár_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj2052-001-p1s41W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8013,8 +8013,8 @@
 <LM>w#w-wsj2052-001-p1s44W3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2052-001-p1s44W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8139,8 +8139,8 @@
 <LM>w#w-wsj2052-001-p1s44W17</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2052-001-p1s44W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10080,8 +10080,8 @@
 <LM>w#w-wsj2052-001-p1s56W5</LM>
 </w.rf>
 <form>je</form>
-<lemma>být</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<lemma>on-1</lemma>
+<tag>PEXP4--3-------</tag>
 </m>
 <m id="m-wsj2052-001-p1s56W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10089,8 +10089,8 @@
 <LM>w#w-wsj2052-001-p1s56W6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2052-001-p1s56W7-Ta">
 <src.rf>tagger-a</src.rf>

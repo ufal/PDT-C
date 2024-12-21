@@ -488,8 +488,8 @@
 <LM>w#w-mf920922-115-p3s2w22</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920922-115-p3s2w23">
 <src.rf>manual</src.rf>
@@ -569,8 +569,8 @@
 <LM>w#w-mf920922-115-p3s2w31</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-115-p3s2w32">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-115-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1095,8 +1095,8 @@
 <LM>w#w-mf920922-115-p3s4w18</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-115-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1122,8 +1122,8 @@
 <LM>w#w-mf920922-115-p3s4w21</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-115-p3s4w22">
 <src.rf>manual</src.rf>

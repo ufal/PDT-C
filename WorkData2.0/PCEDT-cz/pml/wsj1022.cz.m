@@ -3089,8 +3089,8 @@
 <LM>w#w-wsj1022-001-p1s11W9</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1022-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3886,7 +3886,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1022-001-p1s13W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4024,8 +4024,8 @@
 <LM>w#w-wsj1022-001-p1s15W2</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1022-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4441,7 +4441,7 @@
 </w.rf>
 <form>o</form>
 <lemma>o-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj1022-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5051,7 +5051,7 @@
 </w.rf>
 <form>Mezi</form>
 <lemma>mezi-1</lemma>
-<tag>RR--7----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-wsj1022-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6420,8 +6420,8 @@
 <LM>w#w-wsj1022-001-p1s24W26</LM>
 </w.rf>
 <form>žalující</form>
-<lemma>žalující_^(*5ovat)</lemma>
-<tag>AGMP4-----A----</tag>
+<lemma>žalující-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-wsj1022-001-p1s24W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8083,8 +8083,8 @@
 <LM>w#w-wsj1022-001-p1s32W15</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1022-001-p1s32W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9881,8 +9881,8 @@
 <LM>w#w-wsj1022-001-p1s39W26</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1022-001-p1s39W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10299,8 +10299,8 @@
 <LM>w#w-wsj1022-001-p1s41W13</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1022-001-p1s41W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10365,7 +10365,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1022-001-p1s42W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10419,7 +10419,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1022-001-p1s42W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10763,7 +10763,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1022-001-p1s43W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11071,7 +11071,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-wsj1022-001-p1s44W17-Ta">
 <src.rf>tagger-a</src.rf>

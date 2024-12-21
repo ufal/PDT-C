@@ -920,8 +920,8 @@
 <LM>w#w-ln95045-037-p2s4w2</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95045-037-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-ln95045-037-p2s5w5</LM>
 </w.rf>
 <form>jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AANS4----1A----</tag>
 </m>
 <m id="m-ln95045-037-p2s5w6">
@@ -1165,8 +1165,8 @@
 <LM>w#w-ln95045-037-p2s5w15</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-037-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1345,7 +1345,7 @@
 <LM>w#w-ln95045-037-p2s5w35</LM>
 </w.rf>
 <form>jazz</form>
-<lemma>jazz</lemma>
+<lemma>jazz_,s_^(^DD**džez)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-037-p2s5w36">
@@ -1683,7 +1683,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-037-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1792,8 +1792,8 @@
 <LM>w#w-ln95045-037-p3s3w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-037-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1820,7 +1820,7 @@
 </w.rf>
 <form>specializována</form>
 <lemma>specializovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-ln95045-037-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1983,7 +1983,7 @@
 <LM>w#w-ln95045-037-p3s4w12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-ln95045-037-p3s4w13">
@@ -2774,8 +2774,8 @@
 <LM>w#w-ln95045-037-p3s8w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-037-p3s8w7">
 <src.rf>manual</src.rf>

@@ -158,8 +158,8 @@
 <LM>w#w-mf920922-110-p2s2w7</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-110-p2s2w8">
 <src.rf>manual</src.rf>
@@ -212,8 +212,8 @@
 <LM>w#w-mf920922-110-p2s2w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-110-p2s2w14">
 <src.rf>manual</src.rf>
@@ -493,8 +493,8 @@
 <LM>w#w-mf920922-110-p2s3w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920922-110-p2s3w2">
 <src.rf>manual</src.rf>
@@ -502,8 +502,8 @@
 <LM>w#w-mf920922-110-p2s3w2</LM>
 </w.rf>
 <form>dále</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------2A---1</tag>
+<lemma>dále-3_^(také,_za_další)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920922-110-p2s3w3">
 <src.rf>manual</src.rf>

@@ -2097,7 +2097,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-031-p8s1w28">
 <src.rf>manual</src.rf>
@@ -3997,7 +3997,7 @@
 </w.rf>
 <form>vdala</form>
 <lemma>vdát</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-031-p15s2w6">
 <src.rf>manual</src.rf>
@@ -5743,7 +5743,7 @@
 </w.rf>
 <form>nereaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-NAI--</tag>
+<tag>VB-S---3P-NAB--</tag>
 </m>
 <m id="m-cmpr9417-031-p20s2w19">
 <src.rf>manual</src.rf>

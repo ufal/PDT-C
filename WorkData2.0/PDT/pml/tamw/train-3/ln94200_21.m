@@ -720,8 +720,8 @@
 <LM>w#w-ln94200-21-p3s1w40</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-21-p3s1w41">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-21-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1444,7 +1444,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-21-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1560,8 +1560,8 @@
 <LM>w#w-ln94200-21-p5s1w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-21-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1707,7 +1707,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-21-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2316,7 +2316,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-21-p7s2w5">
 <src.rf>manual</src.rf>
@@ -2425,8 +2425,8 @@
 <LM>w#w-ln94200-21-p7s3w3</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-21-p7s3w4">
 <src.rf>manual</src.rf>
@@ -2689,7 +2689,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-21-p8s1w12">
 <src.rf>manual</src.rf>

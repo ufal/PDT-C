@@ -231,7 +231,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln95049-109-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln95049-109-p2s3w2">
 <src.rf>manual</src.rf>
@@ -378,8 +378,8 @@
 <LM>w#w-ln95049-109-p2s3w3</LM>
 </w.rf>
 <form>dotázaný</form>
-<lemma>dotázaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>dotázaný-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-109-p2s3w4">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln95049-109-p2s4w4">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln95049-109-p2s4w12">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-109-p2s5w4">
 <src.rf>manual</src.rf>

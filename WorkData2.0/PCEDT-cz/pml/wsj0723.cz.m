@@ -905,7 +905,7 @@
 </w.rf>
 <form>které</form>
 <lemma>který</lemma>
-<tag>P4FP4----------</tag>
+<tag>P4FP1----------</tag>
 </m>
 <m id="m-wsj0723-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1006,7 +1006,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0723-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1834,8 +1834,8 @@
 <LM>w#w-wsj0723-001-p1s9W12</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0723-001-p1s9W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2670,8 +2670,8 @@
 <LM>w#w-wsj0723-001-p1s13W13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0723-001-p1s13W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3097,8 +3097,8 @@
 <LM>w#w-wsj0723-001-p1s15W6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0723-001-p1s15W7-Ta">
 <src.rf>tagger-a</src.rf>

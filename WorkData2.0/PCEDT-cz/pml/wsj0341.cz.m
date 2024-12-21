@@ -1703,7 +1703,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0341-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>

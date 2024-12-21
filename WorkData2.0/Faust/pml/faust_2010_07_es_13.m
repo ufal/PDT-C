@@ -451,7 +451,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AANS6----1A----</tag>
+<tag>PLNS6----------</tag>
 </m>
 <m id="es_13-SCzechM-p1302-s1-w11">
 <w.rf>
@@ -1247,7 +1247,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_13-SCzechM-p1341-s1-w3">
 <w.rf>
@@ -1484,8 +1484,8 @@
 <LM>w#w-es_13-SCzechM-p1353-s1-w1</LM>
 </w.rf>
 <form>Co</form>
-<lemma>co-2_^(cože;_ale_co)</lemma>
-<tag>TT-------------</tag>
+<lemma>co-1</lemma>
+<tag>PQ--4----------</tag>
 </m>
 <m id="es_13-SCzechM-p1353-s1-w2">
 <w.rf>
@@ -1574,8 +1574,8 @@
 <LM>w#w-es_13-SCzechM-p1354-s1-w10</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="es_13-SCzechM-p1354-s1-w11">
 <w.rf>

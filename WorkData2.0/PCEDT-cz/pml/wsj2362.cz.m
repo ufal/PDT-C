@@ -2212,7 +2212,7 @@
 <LM>w#w-wsj2362-001-p1s8W26</LM>
 </w.rf>
 <form>rozdmýchala</form>
-<lemma>rozdmýchat</lemma>
+<lemma>rozdmýchat_,s_^(^DD**rozdmychat)</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2362-001-p1s8W27-Ta">
@@ -2349,8 +2349,8 @@
 <LM>w#w-wsj2362-001-p1s9W9</LM>
 </w.rf>
 <form>Thomson</form>
-<lemma>Thomson-2_;m</lemma>
-<tag>NNIS1-----A----</tag>
+<lemma>Thomson-77</lemma>
+<tag>F%-------------</tag>
 </m>
 <m id="m-wsj2362-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2503,7 +2503,7 @@
 </w.rf>
 <form>britské</form>
 <lemma>britský</lemma>
-<tag>AAFS6----1A----</tag>
+<tag>AAFS2----1A----</tag>
 </m>
 <m id="m-wsj2362-001-p1s9W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2512,7 +2512,7 @@
 </w.rf>
 <form>společnosti</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS6-----A----</tag>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m-wsj2362-001-p1s9W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2939,8 +2939,8 @@
 <LM>w#w-wsj2362-001-p1s11W11</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2362-001-p1s11W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4118,7 +4118,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2362-001-p1s15W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -724,8 +724,8 @@
 <LM>w#w-ln94206-38-p2s5w5</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94206-38-p2s5w6">
 <src.rf>manual</src.rf>
@@ -825,8 +825,8 @@
 <LM>w#w-ln94206-38-p2s6w9</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-38-p2s6w10">
 <src.rf>manual</src.rf>

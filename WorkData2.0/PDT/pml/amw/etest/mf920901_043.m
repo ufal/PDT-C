@@ -475,8 +475,8 @@
 <LM>w#w-mf920901-043-p2s3w22</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-043-p2s3w23">
 <src.rf>manual</src.rf>
@@ -657,8 +657,8 @@
 <LM>w#w-mf920901-043-p2s4w15</LM>
 </w.rf>
 <form>obviněným</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMS7----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMS7-----A----</tag>
 </m>
 <m id="m-mf920901-043-p2s4w16">
 <src.rf>manual</src.rf>

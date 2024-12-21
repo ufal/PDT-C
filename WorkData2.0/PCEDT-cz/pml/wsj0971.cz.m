@@ -1035,7 +1035,7 @@
 <LM>w#w-wsj0971-001-p1s5W4</LM>
 </w.rf>
 <form>uvízli</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj0971-001-p1s5W5-Ta">
@@ -1326,7 +1326,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0971-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1481,7 +1481,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0971-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1534,8 +1534,8 @@
 <LM>w#w-wsj0971-001-p1s7W18</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0971-001-p1s7W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1964,7 +1964,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0971-001-p1s10W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2018,7 +2018,7 @@
 <LM>w#w-wsj0971-001-p1s10W23</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj0971-001-p1s10W24-Ta">
@@ -2283,8 +2283,8 @@
 <LM>w#w-wsj0971-001-p1s12W3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0971-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3686,8 +3686,8 @@
 <LM>w#w-wsj0971-001-p1s19W12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0971-001-p1s19W13-Ta">
 <src.rf>tagger-a</src.rf>

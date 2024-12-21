@@ -758,8 +758,8 @@
 <LM>w#w-cmpr9407-002-p6s1w2</LM>
 </w.rf>
 <form>Pírek</form>
-<lemma>pírko</lemma>
-<tag>NNNP2-----A----</tag>
+<lemma>Pírek_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-002-p8s1">
@@ -1154,7 +1154,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-002-p8s4w7">
 <src.rf>manual</src.rf>
@@ -1321,7 +1321,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-002-p8s6w2">
 <src.rf>manual</src.rf>
@@ -1329,8 +1329,8 @@
 <LM>w#w-cmpr9407-002-p8s6w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9407-002-p8s6w3">
 <src.rf>manual</src.rf>
@@ -2882,7 +2882,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-002-p10s9w3">
 <src.rf>manual</src.rf>
@@ -3473,7 +3473,7 @@
 </w.rf>
 <form>nevěnovaly</form>
 <lemma>věnovat</lemma>
-<tag>VpTP----R-NAI--</tag>
+<tag>VpTP----R-NAB--</tag>
 </m>
 <m id="m-cmpr9407-002-p11s3w4">
 <src.rf>manual</src.rf>
@@ -7276,7 +7276,7 @@
 </w.rf>
 <form>vdají</form>
 <lemma>vdát</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9407-002-p17s3w4">
 <src.rf>manual</src.rf>
@@ -7932,7 +7932,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-002-p18s2w21">
 <src.rf>manual</src.rf>
@@ -10095,7 +10095,7 @@
 </w.rf>
 <form>minimalizovat</form>
 <lemma>minimalizovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-cmpr9407-002-p21s7w15">
 <src.rf>manual</src.rf>
@@ -11133,8 +11133,8 @@
 <LM>w#w-cmpr9407-002-p22s6w18</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9407-002-p22s6w19">
 <src.rf>manual</src.rf>

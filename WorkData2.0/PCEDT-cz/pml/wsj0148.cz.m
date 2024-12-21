@@ -1397,7 +1397,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0148-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2920,8 +2920,8 @@
 <LM>w#w-wsj0148-001-p1s12W6</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0148-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3136,8 +3136,8 @@
 <LM>w#w-wsj0148-001-p1s12W30</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0148-001-p1s12W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3820,7 +3820,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0148-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5805,7 +5805,7 @@
 </w.rf>
 <form>umístění</form>
 <lemma>umístění_^(*3it)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj0148-001-p1s23W22-Ta">
 <src.rf>tagger-a</src.rf>

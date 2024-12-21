@@ -47,7 +47,7 @@
 </w.rf>
 <form>dominují</form>
 <lemma>dominovat</lemma>
-<tag>VB-P---3P-AAB--</tag>
+<tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-090-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -513,8 +513,8 @@
 <LM>w#w-lnd94103-090-p1s3w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s3w22">
 <src.rf>manual</src.rf>
@@ -551,8 +551,8 @@
 <LM>w#w-lnd94103-090-p1s4w1</LM>
 </w.rf>
 <form>Hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s4w2">
 <src.rf>manual</src.rf>
@@ -1298,8 +1298,8 @@
 <LM>w#w-lnd94103-090-p1s8w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s8w9">
 <src.rf>manual</src.rf>
@@ -1370,8 +1370,8 @@
 <LM>w#w-lnd94103-090-p1s8w16</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s8w17">
 <src.rf>manual</src.rf>
@@ -1480,8 +1480,8 @@
 <LM>w#w-lnd94103-090-p1s9w3</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-lnd94103-090-p1s9w4">
 <src.rf>manual</src.rf>
@@ -1489,8 +1489,8 @@
 <LM>w#w-lnd94103-090-p1s9w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s9w5">
 <src.rf>manual</src.rf>
@@ -1579,8 +1579,8 @@
 <LM>w#w-lnd94103-090-p1s9w14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s9w15">
 <src.rf>manual</src.rf>
@@ -1696,8 +1696,8 @@
 <LM>w#w-lnd94103-090-p1s9w27</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s9w28">
 <src.rf>manual</src.rf>
@@ -2208,8 +2208,8 @@
 <LM>w#w-lnd94103-090-p1s12w2</LM>
 </w.rf>
 <form>Určitě</form>
-<lemma>určitě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>určitě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s12w3">
 <src.rf>manual</src.rf>
@@ -2426,8 +2426,8 @@
 <LM>w#w-lnd94103-090-p1s13w1</LM>
 </w.rf>
 <form>Rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s13w2">
 <src.rf>manual</src.rf>
@@ -2445,7 +2445,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s13w4">
 <src.rf>manual</src.rf>
@@ -2727,8 +2727,8 @@
 <LM>w#w-lnd94103-090-p1s15w8</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s15w9">
 <src.rf>manual</src.rf>
@@ -2774,8 +2774,8 @@
 <LM>w#w-lnd94103-090-p1s16w1</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-1</lemma>
-<tag>Db-------------</tag>
+<lemma>třeba-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s16w2">
 <src.rf>manual</src.rf>
@@ -3300,8 +3300,8 @@
 <LM>w#w-lnd94103-090-p1s18w12</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-1</lemma>
-<tag>Db-------------</tag>
+<lemma>třeba-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s18w13">
 <src.rf>manual</src.rf>
@@ -3473,8 +3473,8 @@
 <LM>w#w-lnd94103-090-p1s19w5</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s19w6">
 <src.rf>manual</src.rf>
@@ -3491,8 +3491,8 @@
 <LM>w#w-lnd94103-090-p1s19w7</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-090-p1s19w8">
 <src.rf>manual</src.rf>

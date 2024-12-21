@@ -3718,8 +3718,8 @@
 <LM>w#w-wsj1861-001-p1s17W6</LM>
 </w.rf>
 <form>však</form>
-<lemma>však-2</lemma>
-<tag>TT-------------</tag>
+<lemma>však-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1861-001-p1s17W7-Ta">
 <src.rf>tagger-a</src.rf>

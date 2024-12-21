@@ -898,7 +898,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AANS6----1A----</tag>
+<tag>PLNS6----------</tag>
 </m>
 <m id="m-wsj0027-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2332,7 +2332,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0027-001-p1s12W12-Ta">
 <src.rf>tagger-a</src.rf>

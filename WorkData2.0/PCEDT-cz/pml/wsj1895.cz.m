@@ -371,8 +371,8 @@
 <LM>w#w-wsj1895-001-p1s2W10</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1895-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -533,8 +533,8 @@
 <LM>w#w-wsj1895-001-p1s2W28</LM>
 </w.rf>
 <form>vedoucí</form>
-<lemma>vedoucí_^(*6ést)</lemma>
-<tag>AGMS1-----A----</tag>
+<lemma>vedoucí-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1895-001-p1s2W29-Ta">
 <src.rf>tagger-a</src.rf>

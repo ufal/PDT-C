@@ -55,8 +55,8 @@
 <LM>w#w-ln94206-19-p1s1w5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-19-p1s1w6">
 <src.rf>manual</src.rf>
@@ -667,8 +667,8 @@
 <LM>w#w-ln94206-19-p3s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94206-19-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1315,7 +1315,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-19-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1780,7 +1780,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-19-p5s3w9">
 <src.rf>manual</src.rf>
@@ -2529,8 +2529,8 @@
 <LM>w#w-ln94206-19-p6s4w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-19-p6s4w3">
 <src.rf>manual</src.rf>
@@ -2548,7 +2548,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94206-19-p6s4w5">
 <src.rf>manual</src.rf>

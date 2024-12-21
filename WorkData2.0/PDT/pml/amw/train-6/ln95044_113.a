@@ -18,13 +18,15 @@
 <children>
 <LM id="a-ln95044-113-p1s1w1">
 <m.rf>m#m-ln95044-113-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95044-113-p1s1w2">
 <m.rf>m#m-ln95044-113-p1s1w2</m.rf>
-<afun>Denom</afun>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -64,7 +66,7 @@
 </LM>
 <LM id="a-ln95044-113-p2s1Aw3">
 <m.rf>m#m-ln95044-113-p2s1Aw3</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -472,7 +474,7 @@
 <children>
 <LM id="a-ln95044-113-p2s5w1">
 <m.rf>m#m-ln95044-113-p2s5w1</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>

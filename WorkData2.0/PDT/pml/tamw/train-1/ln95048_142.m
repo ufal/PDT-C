@@ -923,8 +923,8 @@
 <LM>w#w-ln95048-142-p2s5w13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-142-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1205,7 +1205,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-142-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1303,8 +1303,8 @@
 <LM>w#w-ln95048-142-p2s6w22</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-142-p2s6w23">
 <src.rf>manual</src.rf>

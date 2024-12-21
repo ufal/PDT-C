@@ -142,8 +142,8 @@
 <LM>w#w-wsj0495-001-p1s0W15</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0495-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -542,8 +542,8 @@
 <LM>w#w-wsj0495-001-p1s2W3</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0495-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2483,8 +2483,8 @@
 <LM>w#w-ln94208-100-p4s3w22</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-100-p4s3w23">
 <src.rf>manual</src.rf>
@@ -2748,8 +2748,8 @@
 <LM>w#w-ln94208-100-p4s5w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-100-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2858,8 +2858,8 @@
 <LM>w#w-ln94208-100-p5s1w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-100-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2986,8 +2986,8 @@
 <LM>w#w-ln94208-100-p5s2w7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-100-p5s2w8">
 <src.rf>manual</src.rf>
@@ -3368,8 +3368,8 @@
 <LM>w#w-ln94208-100-p5s4w1</LM>
 </w.rf>
 <form>Právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-100-p5s4w2">
 <src.rf>manual</src.rf>
@@ -4060,8 +4060,8 @@
 <LM>w#w-ln94208-100-p6s3w3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-100-p6s3w4">
 <src.rf>manual</src.rf>
@@ -4170,8 +4170,8 @@
 <LM>w#w-ln94208-100-p6s4w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-100-p6s4w2">
 <src.rf>manual</src.rf>
@@ -4244,8 +4244,8 @@
 <LM>w#w-ln94208-100-p6s5w1</LM>
 </w.rf>
 <form>To</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln94208-100-p6s5w2">
 <src.rf>manual</src.rf>
@@ -4498,8 +4498,8 @@
 <LM>w#w-ln94208-100-p6s6w1</LM>
 </w.rf>
 <form>Postupem</form>
-<lemma>postup</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>postupem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94208-100-p6s6w2">
 <src.rf>manual</src.rf>

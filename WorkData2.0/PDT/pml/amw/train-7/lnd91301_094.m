@@ -610,8 +610,8 @@
 <LM>w#w-lnd91301-094-p3s2w28</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-094-p3s2w29">
 <src.rf>manual</src.rf>

@@ -37,7 +37,7 @@
 <LM>w#w-ln94208-66-p1s1w3</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-66-p1s1w4">
@@ -559,7 +559,7 @@
 </w.rf>
 <form>Reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94208-66-p2s3w2">
 <src.rf>manual</src.rf>

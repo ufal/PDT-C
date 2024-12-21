@@ -313,8 +313,8 @@
 <LM>w#w-ln94205-1-p2s3w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-1-p2s3w8">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94205-1-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1250,8 +1250,8 @@
 <LM>w#w-ln94205-1-p4s2w18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-1-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1286,8 +1286,8 @@
 <LM>w#w-ln94205-1-p4s2w22</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94205-1-p4s2w23">
 <src.rf>manual</src.rf>
@@ -1645,7 +1645,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-1-p5s2w13">
 <src.rf>manual</src.rf>

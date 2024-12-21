@@ -493,7 +493,7 @@
 <LM>w#w-ln95044-124-p2s2w27</LM>
 </w.rf>
 <form>Oscara</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-124-p2s2w28">

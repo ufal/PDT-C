@@ -1427,7 +1427,7 @@
 </w.rf>
 <form>nereagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAB--</tag>
 </m>
 <m id="m-lnd91303-038-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1710,7 +1710,7 @@
 </w.rf>
 <form>cituje</form>
 <lemma>citovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd91303-038-p5s3w3">
 <src.rf>manual</src.rf>
@@ -1982,7 +1982,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-038-p5s4Aw9">
 <src.rf>manual</src.rf>

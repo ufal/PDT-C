@@ -124,8 +124,8 @@
 <LM>w#w-wsj1823-001-p1s0W13</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1823-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -388,8 +388,8 @@
 <LM>w#w-wsj1823-001-p1s1W19</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1823-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>

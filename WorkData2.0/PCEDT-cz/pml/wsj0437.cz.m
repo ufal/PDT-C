@@ -364,7 +364,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0437-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -908,8 +908,8 @@
 <LM>w#w-wsj0437-001-p1s4W23</LM>
 </w.rf>
 <form>konečně</form>
-<lemma>konečně-2</lemma>
-<tag>TT-------------</tag>
+<lemma>konečně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj0437-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -974,7 +974,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0437-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2601,7 +2601,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0437-001-p1s13W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3400,8 +3400,8 @@
 <LM>w#w-wsj0437-001-p1s17W11</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0437-001-p1s17W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7991,7 +7991,7 @@
 </w.rf>
 <form>Barcovi</form>
 <lemma>Barco_;Y</lemma>
-<tag>NNMS3-----A----</tag>
+<tag>NNMS3-----A---1</tag>
 </m>
 <m id="m-wsj0437-001-p1s41W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8191,7 +8191,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0437-001-p1s42W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9491,7 +9491,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0437-001-p1s51W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9536,7 +9536,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0437-001-p1s51W10-Ta">
 <src.rf>tagger-a</src.rf>

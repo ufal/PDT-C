@@ -378,7 +378,7 @@
 <LM>w#w-ln95040-029-p2s3w7</LM>
 </w.rf>
 <form>Flamengo</form>
-<lemma>flamengo</lemma>
+<lemma>flamengo_,s_^(^DD**flamenco)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-ln95040-029-p2s3w8">

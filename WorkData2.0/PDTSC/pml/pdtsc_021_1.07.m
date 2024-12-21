@@ -418,8 +418,8 @@
 <LM>w#w-d1t2362-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1e2355-x2-262">
 <w.rf>
@@ -452,8 +452,8 @@
 <LM>w#w-d1t2364-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t2364-4">
 <w.rf>
@@ -1260,8 +1260,8 @@
 <LM>w#w-d1t2450-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t2450-4">
 <w.rf>
@@ -1476,8 +1476,8 @@
 <LM>w#w-d1t2480-5</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t2484-1">
 <w.rf>
@@ -1602,8 +1602,8 @@
 <LM>w#w-d1t2510-9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m019-d1t2510-10">
 <w.rf>
@@ -1706,7 +1706,7 @@
 <LM>w#w-d1t2512-6</LM>
 </w.rf>
 <form>Doubravku</form>
-<lemma>Doubravka_;G</lemma>
+<lemma>Doubravka_;G_;Y</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m019-313-322">
@@ -1792,8 +1792,8 @@
 <LM>w#w-d1t2541-3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m019-d1t2541-4">
 <w.rf>
@@ -1852,8 +1852,8 @@
 <LM>w#w-d1t2551-1</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m019-d1t2551-2">
 <w.rf>
@@ -1978,8 +1978,8 @@
 <LM>w#w-d1t2575-3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m019-d1t2575-4">
 <w.rf>
@@ -2036,8 +2036,8 @@
 <LM>w#w-d1t2581-3</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m019-d1t2581-4">
 <w.rf>
@@ -2202,8 +2202,8 @@
 <LM>w#w-d1t2602-2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t2602-4">
 <w.rf>

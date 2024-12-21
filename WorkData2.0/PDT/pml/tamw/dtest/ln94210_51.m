@@ -55,8 +55,8 @@
 <LM>w#w-ln94210-51-p1s1w5</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-51-p1s1w6">
 <src.rf>manual</src.rf>
@@ -511,8 +511,8 @@
 <LM>w#w-ln94210-51-p3s1w11</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-51-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1210,8 +1210,8 @@
 <LM>w#w-ln94210-51-p4s1w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-51-p4s1w17">
 <src.rf>manual</src.rf>

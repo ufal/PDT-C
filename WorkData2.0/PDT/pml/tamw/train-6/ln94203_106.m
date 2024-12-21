@@ -498,7 +498,7 @@
 <LM>w#w-ln94203-106-p2s4w3</LM>
 </w.rf>
 <form>vleklé</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-ln94203-106-p2s4w4">

@@ -19,8 +19,8 @@
 <LM>w#w-lnd94104-078-p1s1Aw1</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-078-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -594,8 +594,8 @@
 <LM>w#w-lnd94104-078-p1s4w1</LM>
 </w.rf>
 <form>Začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-078-p1s4w2">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 </w.rf>
 <form>datováno</form>
 <lemma>datovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-lnd94104-078-p1s7w13">
 <src.rf>manual</src.rf>
@@ -3664,8 +3664,8 @@
 <LM>w#w-lnd94104-078-p1s19w6</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-078-p1s19w7">
 <src.rf>manual</src.rf>

@@ -455,8 +455,8 @@
 <LM>w#w-ln94206-94-p2s2w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-94-p2s2w16">
 <src.rf>manual</src.rf>
@@ -702,8 +702,8 @@
 <LM>w#w-ln94206-94-p2s4w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-94-p2s4w7">
 <src.rf>manual</src.rf>
@@ -992,8 +992,8 @@
 <LM>w#w-ln94206-94-p2s5w14</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94206-94-p2s5w15">
 <src.rf>manual</src.rf>

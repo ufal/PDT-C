@@ -777,7 +777,7 @@
 </w.rf>
 <form>uspali</form>
 <lemma>uspat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-059-p1s5w5">
 <src.rf>manual</src.rf>

@@ -408,8 +408,8 @@
 <LM>w#w-ln94206-95-p1s2w15</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-95-p1s2w16">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-ln94206-95-p1s2w27</LM>
 </w.rf>
 <form>utvářet</form>
-<lemma>utvářet_^(tvořit)</lemma>
+<lemma>utvářet</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-ln94206-95-p1s2w28">
@@ -525,8 +525,8 @@
 <LM>w#w-ln94206-95-p1s2w28</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-95-p1s2w29">
 <src.rf>manual</src.rf>
@@ -1207,7 +1207,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-ln94206-95-p1s5w15">
 <src.rf>manual</src.rf>
@@ -1373,7 +1373,7 @@
 </w.rf>
 <form>Foto</form>
 <lemma>foto</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-95-p1s6Bw2">
 <src.rf>manual</src.rf>

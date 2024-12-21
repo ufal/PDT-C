@@ -179,7 +179,7 @@
 </w.rf>
 <form>importu</form>
 <lemma>import</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1241-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -241,8 +241,8 @@
 <LM>w#w-wsj1241-001-p1s0W26</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj1241-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>

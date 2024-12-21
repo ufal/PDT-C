@@ -12,8 +12,8 @@
 <LM>w#w-d1t3822-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m013-d1e3819-x2-1313">
 <w.rf>

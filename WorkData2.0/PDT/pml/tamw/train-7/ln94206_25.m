@@ -845,8 +845,8 @@
 <LM>w#w-ln94206-25-p3s3w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-25-p3s3w2">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-25-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1685,8 +1685,8 @@
 <LM>w#w-ln94206-25-p5s2w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-25-p5s2w10">
 <src.rf>manual</src.rf>

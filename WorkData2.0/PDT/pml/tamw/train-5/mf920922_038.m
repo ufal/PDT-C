@@ -812,8 +812,8 @@
 <LM>w#w-mf920922-038-p2s5w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-038-p2s5w22">
 <src.rf>manual</src.rf>
@@ -976,8 +976,8 @@
 <LM>w#w-mf920922-038-p2s6w14</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-038-p2s6w15">
 <src.rf>manual</src.rf>

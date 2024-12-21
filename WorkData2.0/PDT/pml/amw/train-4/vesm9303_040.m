@@ -4619,8 +4619,8 @@
 <LM>w#w-vesm9303-040-p4s9w11</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-040-p4s9w12">
 <src.rf>manual</src.rf>
@@ -5156,7 +5156,7 @@
 <LM>w#w-vesm9303-040-p4s12w9</LM>
 </w.rf>
 <form>pročistěná</form>
-<lemma>pročistěný</lemma>
+<lemma>pročistěný_,s_^(^DD**pročištěný)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9303-040-p4s12w10">
@@ -6587,8 +6587,8 @@
 <LM>w#w-vesm9303-040-p5s8w10</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-040-p5s8w11">
 <src.rf>manual</src.rf>
@@ -6722,7 +6722,7 @@
 <LM>w#w-vesm9303-040-p5s8w25</LM>
 </w.rf>
 <form>vypočitatelnou</form>
-<lemma>vypočitatelný_^(*8ítat)</lemma>
+<lemma>vypočitatelný_,s_^(^DD**vypočítatelný)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-vesm9303-040-p5s8w26">
@@ -8731,8 +8731,8 @@
 <LM>w#w-vesm9303-040-p6s10w13</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-040-p6s10w14">
 <src.rf>manual</src.rf>

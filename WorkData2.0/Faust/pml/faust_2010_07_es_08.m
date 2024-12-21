@@ -210,8 +210,8 @@
 <LM>w#w-es_08-SCzechM-p0755-s1-w13</LM>
 </w.rf>
 <form>doopravdy</form>
-<lemma>doopravdy-1</lemma>
-<tag>Db-------------</tag>
+<lemma>doopravdy-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_08-SCzechM-p0755-s1-w14">
 <w.rf>
@@ -1958,7 +1958,7 @@
 </w.rf>
 <form>blokováno</form>
 <lemma>blokovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="es_08-SCzechM-p0801-s1-w3">
 <w.rf>
@@ -2447,8 +2447,8 @@
 <LM>w#w-es_08-SCzechM-p0826-s1-w2</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="es_08-SCzechM-p0826-s1-w3">
 <w.rf>
@@ -2786,7 +2786,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="es_08-SCzechM-p0827-s1-w18">
 <w.rf>
@@ -3195,8 +3195,8 @@
 <LM>w#w-es_08-SCzechM-p0834-s1-w6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_08-SCzechM-p0834-s1-w7">
 <w.rf>

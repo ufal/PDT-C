@@ -394,8 +394,8 @@
 <LM>w#w-mf920922-002-p2s3w14</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-002-p2s3w15">
 <src.rf>manual</src.rf>
@@ -915,8 +915,8 @@
 <LM>w#w-mf920922-002-p2s7w8</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-002-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1070,8 +1070,8 @@
 <LM>w#w-mf920922-002-p2s8Aw7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-002-p2s8Aw8">
 <src.rf>manual</src.rf>
@@ -1329,7 +1329,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920922-002-p2s10w4">
 <src.rf>manual</src.rf>

@@ -1484,8 +1484,8 @@
 <LM>w#w-wsj1234-001-p1s5W5</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1234-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>

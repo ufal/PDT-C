@@ -1647,7 +1647,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-048-p4s4w34">
 <src.rf>manual</src.rf>
@@ -3328,7 +3328,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-048-p6s3w27">
 <src.rf>manual</src.rf>
@@ -3419,8 +3419,8 @@
 <LM>w#w-lnd91303-048-p6s4w3</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-048-p6s4w4">
 <src.rf>manual</src.rf>
@@ -3959,7 +3959,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-048-p6s8w9">
 <src.rf>manual</src.rf>
@@ -4212,7 +4212,7 @@
 <LM>w#w-lnd91303-048-p6s9w11</LM>
 </w.rf>
 <form>napjaté</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd91303-048-p6s9w12">
@@ -4266,7 +4266,7 @@
 <LM>w#w-lnd91303-048-p6s9w17</LM>
 </w.rf>
 <form>rozdmýchat</form>
-<lemma>rozdmýchat</lemma>
+<lemma>rozdmýchat_,s_^(^DD**rozdmychat)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91303-048-p6s9w18">

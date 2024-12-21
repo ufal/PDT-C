@@ -486,7 +486,7 @@
 <LM>w#w-ln95044-061-p2s3w1</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-061-p2s3w2">
@@ -504,8 +504,8 @@
 <LM>w#w-ln95044-061-p2s3w3</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-061-p2s3w4">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 </w.rf>
 <form>věnovala</form>
 <lemma>věnovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95044-061-p2s3w17">
 <src.rf>manual</src.rf>

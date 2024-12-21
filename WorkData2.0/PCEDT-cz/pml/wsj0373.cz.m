@@ -1026,8 +1026,8 @@
 <LM>w#w-wsj0373-001-p1s5W5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0373-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2790,7 +2790,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0373-001-p1s13W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3407,7 +3407,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0373-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3576,18 +3576,18 @@
 <w.rf>
 <LM>w#w-wsj0373-001-p1s15W33</LM>
 </w.rf>
-<form>tříměsíční</form>
+<form>tříměsíčního</form>
 <lemma>tříměsíční</lemma>
-<tag>AANS4----1A----</tag>
+<tag>AANS2----1A----</tag>
 </m>
 <m id="m-wsj0373-001-p1s15W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0373-001-p1s15W34</LM>
 </w.rf>
-<form>předplatné</form>
+<form>předplatného</form>
 <lemma>předplatné_^(poplatek)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS2-----A----</tag>
 </m>
 <m id="m-wsj0373-001-p1s15W35-Ta">
 <src.rf>tagger-a</src.rf>

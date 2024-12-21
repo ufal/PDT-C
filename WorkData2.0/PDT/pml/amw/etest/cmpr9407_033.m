@@ -2777,7 +2777,7 @@
 <LM>w#w-cmpr9407-033-p7s2w11</LM>
 </w.rf>
 <form>odpisovaného</form>
-<lemma>odpisovaný_^(*2t)</lemma>
+<lemma>odpisovaný_^(^DD**odepisovaný)_(*2t)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-cmpr9407-033-p7s2w12">
@@ -5639,7 +5639,7 @@
 <LM>w#w-cmpr9407-033-p15s1Bw8</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9407-033-p15s1Bw9">

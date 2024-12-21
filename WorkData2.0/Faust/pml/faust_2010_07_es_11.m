@@ -12,8 +12,8 @@
 <LM>w#w-es_11-SCzechM-p1075-s1-w1</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1075-s1-w2">
 <w.rf>
@@ -1099,8 +1099,8 @@
 <LM>w#w-es_11-SCzechM-p1106-s1-w3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1106-s1-w4">
 <w.rf>
@@ -1419,8 +1419,8 @@
 <LM>w#w-es_11-SCzechM-p1114-s1-w19</LM>
 </w.rf>
 <form>dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1114-s1-w20">
 <w.rf>
@@ -2005,8 +2005,8 @@
 <LM>w#w-es_11-SCzechM-p1141-s1-w1</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1141-s1-w2">
 <w.rf>
@@ -2799,7 +2799,7 @@
 <form_change>spell</form_change>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AANS6----1A----</tag>
+<tag>PLNS6----------</tag>
 </m>
 <m id="es_11-SCzechM-p1166-s1-w20">
 <w.rf>
@@ -3020,7 +3020,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1170-s1-w14">
 <w.rf>
@@ -3163,8 +3163,8 @@
 <LM>w#w-es_11-SCzechM-p1170-s1-w31</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1170-s1-w32">
 <w.rf>
@@ -3219,8 +3219,8 @@
 <LM>w#w-es_11-SCzechM-p1170-s1-w38</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1170-s1-w39">
 <w.rf>
@@ -3725,7 +3725,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1182-s1-w14">
 <w.rf>
@@ -3830,8 +3830,8 @@
 <LM>w#w-es_11-SCzechM-p1186-s1-w4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1186-s1-w5">
 <w.rf>

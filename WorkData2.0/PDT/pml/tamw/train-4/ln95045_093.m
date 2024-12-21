@@ -421,7 +421,7 @@
 <LM>w#w-ln95045-093-p2s2w13</LM>
 </w.rf>
 <form>ozonosféry</form>
-<lemma>ozonosféra</lemma>
+<lemma>ozonosféra_,s_^(^DD**ozónosféra)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-093-p2s2w14">
@@ -788,8 +788,8 @@
 <LM>w#w-ln95045-093-p3s1w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-093-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1143,8 +1143,8 @@
 <LM>w#w-ln95045-093-p3s3w2</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-093-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1380,8 +1380,8 @@
 <LM>w#w-ln95045-093-p3s4w8</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-093-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1580,8 +1580,8 @@
 <LM>w#w-ln95045-093-p3s5w2</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95045-093-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1871,7 +1871,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-093-p3s6w2">
 <src.rf>manual</src.rf>

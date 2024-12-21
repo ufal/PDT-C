@@ -1046,8 +1046,8 @@
 <LM>w#w-mf920925-061-p1s5w21</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-061-p1s5w22">
 <src.rf>manual</src.rf>
@@ -1338,8 +1338,8 @@
 <LM>w#w-mf920925-061-p1s7w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-061-p1s7w5">
 <src.rf>manual</src.rf>
@@ -2046,8 +2046,8 @@
 <LM>w#w-mf920925-061-p1s10w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-061-p1s10w14">
 <src.rf>manual</src.rf>
@@ -2111,7 +2111,7 @@
 <LM>w#w-mf920925-061-p1s11w4</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-061-p1s11w5">
@@ -2428,8 +2428,8 @@
 <LM>w#w-mf920925-061-p1s12w12</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-061-p1s12w13">
 <src.rf>manual</src.rf>
@@ -2757,7 +2757,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf920925-061-p1s14w3">
 <src.rf>manual</src.rf>
@@ -2848,8 +2848,8 @@
 <LM>w#w-mf920925-061-p1s15w1</LM>
 </w.rf>
 <form>To</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-mf920925-061-p1s15w2">
 <src.rf>manual</src.rf>
@@ -3277,8 +3277,8 @@
 <LM>w#w-mf920925-061-p1s18w4</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-061-p1s18w5">
 <src.rf>manual</src.rf>
@@ -3935,8 +3935,8 @@
 <LM>w#w-mf920925-061-p1s22w27</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-061-p1s22w28">
 <src.rf>manual</src.rf>
@@ -3980,8 +3980,8 @@
 <LM>w#w-mf920925-061-p1s22w32</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-061-p1s22w33">
 <src.rf>manual</src.rf>

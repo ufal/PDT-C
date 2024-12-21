@@ -580,7 +580,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0227-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>

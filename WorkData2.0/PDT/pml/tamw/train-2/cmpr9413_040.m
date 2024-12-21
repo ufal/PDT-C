@@ -569,8 +569,8 @@
 <LM>w#w-cmpr9413-040-p5s1w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-040-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1572,7 +1572,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-040-p7s4w5">
 <src.rf>manual</src.rf>
@@ -1663,8 +1663,8 @@
 <LM>w#w-cmpr9413-040-p7s5w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-040-p7s5w5">
 <src.rf>manual</src.rf>
@@ -1919,8 +1919,8 @@
 <LM>w#w-cmpr9413-040-p8s2w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-040-p8s2w5">
 <src.rf>manual</src.rf>
@@ -2449,8 +2449,8 @@
 <LM>w#w-cmpr9413-040-p8s6w15</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-040-p8s6w16">
 <src.rf>manual</src.rf>
@@ -2877,7 +2877,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-040-p10s1w37">
 <src.rf>manual</src.rf>
@@ -3205,7 +3205,7 @@
 </w.rf>
 <form>Zemědělské</form>
 <lemma>zemědělský</lemma>
-<tag>AAFP1----1A----</tag>
+<tag>AAFP4----1A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s2Aw16">
 <src.rf>manual</src.rf>
@@ -3232,7 +3232,7 @@
 </w.rf>
 <form>některé</form>
 <lemma>některý</lemma>
-<tag>PZIP1----------</tag>
+<tag>PZYP4----------</tag>
 </m>
 <m id="m-cmpr9413-040-p11s2Aw19">
 <src.rf>manual</src.rf>
@@ -3241,7 +3241,7 @@
 </w.rf>
 <form>Okresní</form>
 <lemma>okresní</lemma>
-<tag>AAIP1----1A----</tag>
+<tag>AAIP4----1A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s2Aw20">
 <src.rf>manual</src.rf>
@@ -3250,7 +3250,7 @@
 </w.rf>
 <form>stavební</form>
 <lemma>stavební</lemma>
-<tag>AAIP1----1A----</tag>
+<tag>AAIP4----1A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s2Aw21">
 <src.rf>manual</src.rf>
@@ -3259,7 +3259,7 @@
 </w.rf>
 <form>podniky</form>
 <lemma>podnik</lemma>
-<tag>NNIP1-----A----</tag>
+<tag>NNIP4-----A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s2Aw22">
 <src.rf>manual</src.rf>
@@ -3277,7 +3277,7 @@
 </w.rf>
 <form>Dopravní</form>
 <lemma>dopravní</lemma>
-<tag>AAFP1----1A----</tag>
+<tag>AAFP4----1A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s2Aw24">
 <src.rf>manual</src.rf>
@@ -3349,7 +3349,7 @@
 </w.rf>
 <form>některé</form>
 <lemma>některý</lemma>
-<tag>PZFP1----------</tag>
+<tag>PZFP4----------</tag>
 </m>
 <m id="m-cmpr9413-040-p11s2Aw32">
 <src.rf>manual</src.rf>
@@ -3358,7 +3358,7 @@
 </w.rf>
 <form>Pozemní</form>
 <lemma>pozemní</lemma>
-<tag>AAFP1----1A----</tag>
+<tag>AAFP4----1A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s2Aw33">
 <src.rf>manual</src.rf>
@@ -4451,8 +4451,8 @@
 <LM>w#w-cmpr9413-040-p13s3w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-040-p13s3w7">
 <src.rf>manual</src.rf>

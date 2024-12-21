@@ -603,8 +603,8 @@
 <LM>w#w-mf920922-012-p2s4w6</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-012-p2s4w7">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-012-p2s4w14">
 <src.rf>manual</src.rf>

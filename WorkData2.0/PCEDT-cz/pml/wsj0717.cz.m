@@ -627,7 +627,7 @@
 </w.rf>
 <form>miliardy</form>
 <lemma>miliarda`1000000000</lemma>
-<tag>CzFS2----------</tag>
+<tag>CzFP4----------</tag>
 </m>
 <m id="m-wsj0717-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>

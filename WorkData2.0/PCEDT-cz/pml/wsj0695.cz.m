@@ -1552,8 +1552,8 @@
 <LM>w#w-wsj0695-001-p1s6W12</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0695-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1663,7 +1663,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0695-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2218,7 +2218,7 @@
 </w.rf>
 <form>společnost</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS4-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0695-001-p1s10W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -250,8 +250,8 @@
 <LM>w#w-wsj0304-001-p1s0W27</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0304-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1878,7 +1878,7 @@
 </w.rf>
 <form>nereagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-wsj0304-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3492,7 +3492,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj0304-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3527,7 +3527,7 @@
 <LM>w#w-wsj0304-001-p1s14W13</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-wsj0304-001-p1s14W14-Ta">
@@ -4055,8 +4055,8 @@
 <LM>w#w-wsj0304-001-p1s17W12</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0304-001-p1s17W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4665,7 +4665,7 @@
 </w.rf>
 <form>přesáhl</form>
 <lemma>přesáhnout</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0304-001-p1s20W10-Ta">
 <src.rf>tagger-a</src.rf>

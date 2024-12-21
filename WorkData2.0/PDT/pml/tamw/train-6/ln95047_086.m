@@ -387,8 +387,8 @@
 <LM>w#w-ln95047-086-p2s3w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-086-p2s3w5">
 <src.rf>manual</src.rf>
@@ -450,8 +450,8 @@
 <LM>w#w-ln95047-086-p2s3w11</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-086-p2s3w12">
 <src.rf>manual</src.rf>
@@ -978,8 +978,8 @@
 <LM>w#w-ln95047-086-p3s3w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-086-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-ln95047-086-p4s1Bw10</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-ln95047-086-p4s1Bw11">
@@ -1542,8 +1542,8 @@
 <LM>w#w-ln95047-086-p4s2w3</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-086-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1643,8 +1643,8 @@
 <LM>w#w-ln95047-086-p4s3w9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-086-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1969,8 +1969,8 @@
 <LM>w#w-ln95047-086-p4s4w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-086-p4s4w13">
 <src.rf>manual</src.rf>
@@ -2026,7 +2026,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-086-p4s5w5">
 <src.rf>manual</src.rf>
@@ -2236,7 +2236,7 @@
 <LM>w#w-ln95047-086-p5s2w5</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-086-p5s2w6">
@@ -2535,8 +2535,8 @@
 <LM>w#w-ln95047-086-p5s3w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-086-p5s3w6">
 <src.rf>manual</src.rf>

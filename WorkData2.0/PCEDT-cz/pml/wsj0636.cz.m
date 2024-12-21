@@ -142,8 +142,8 @@
 <LM>w#w-wsj0636-001-p1s0W15</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0636-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -507,7 +507,7 @@
 </w.rf>
 <form>stanice</form>
 <lemma>stanice</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0636-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -671,7 +671,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0636-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -778,8 +778,8 @@
 <LM>w#w-wsj0636-001-p1s3W19</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0636-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>

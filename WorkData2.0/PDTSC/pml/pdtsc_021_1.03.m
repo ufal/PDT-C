@@ -420,8 +420,8 @@
 <LM>w#w-d1t1099-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1099-2">
 <w.rf>
@@ -972,8 +972,8 @@
 <LM>w#w-d1t1144-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1e1137-x2-440">
 <w.rf>
@@ -1385,8 +1385,8 @@
 <LM>w#w-d1t1176-1</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1176-4">
 <w.rf>
@@ -1921,8 +1921,8 @@
 <LM>w#w-d1t1238-4</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1238-5">
 <w.rf>
@@ -2291,8 +2291,8 @@
 <LM>w#w-d1t1287-1</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m019-d1t1287-2">
 <w.rf>
@@ -2383,8 +2383,8 @@
 <LM>w#w-d1t1301-1</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1301-2">
 <w.rf>
@@ -2603,8 +2603,8 @@
 <LM>w#w-d1t1324-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1324-5">
 <w.rf>
@@ -2661,8 +2661,8 @@
 <LM>w#w-d1t1330-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t1330-3">
 <w.rf>
@@ -2687,8 +2687,8 @@
 <LM>w#w-d1t1336-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1e1331-x2-592">
 <w.rf>
@@ -2813,16 +2813,16 @@
 <LM>w#w-d1t1352-1</LM>
 </w.rf>
 <form>Copak</form>
-<lemma>copak-4</lemma>
-<tag>TT-------------</tag>
+<lemma>copak-1</lemma>
+<tag>PQ--4----------</tag>
 </m>
 <m id="m019-d1t1352-2">
 <w.rf>
 <LM>w#w-d1t1352-2</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m019-d1t1352-3">
 <w.rf>

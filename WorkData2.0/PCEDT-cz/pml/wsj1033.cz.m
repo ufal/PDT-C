@@ -745,7 +745,7 @@
 </w.rf>
 <form>dolar</form>
 <lemma>dolar</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj1033-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>

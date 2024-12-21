@@ -760,8 +760,8 @@
 <LM>w#w-wsj0949-001-p1s3W24</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0949-001-p1s3W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1358,8 +1358,8 @@
 <LM>w#w-wsj0949-001-p1s5W7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0949-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>

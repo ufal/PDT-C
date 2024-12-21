@@ -1091,7 +1091,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m951-d1t1024-5">
 <w.rf>
@@ -1916,8 +1916,8 @@
 <LM>w#w-d1t1114-11</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m951-d1t1114-12">
 <w.rf>
@@ -2006,8 +2006,8 @@
 <LM>w#w-d1t1125-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m951-d1t1127-2">
 <w.rf>
@@ -2039,7 +2039,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m951-d1t1129-2">
 <w.rf>
@@ -3236,7 +3236,7 @@
 <LM>w#w-d1t1256-2</LM>
 </w.rf>
 <form>napadávali</form>
-<lemma>napadávat_^(*4at)</lemma>
+<lemma>napadávat_^(*4at)_(*4at-2)</lemma>
 <tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m951-d-id88222">
@@ -3602,7 +3602,7 @@
 </w.rf>
 <form>mezi</form>
 <lemma>mezi-1</lemma>
-<tag>RR--7----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m951-d1t1285-9">
 <w.rf>
@@ -3617,8 +3617,8 @@
 <LM>w#w-d1t1285-10</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m951-d1t1285-11">
 <w.rf>
@@ -3839,8 +3839,8 @@
 <LM>w#w-d1t1298-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m951-d1t1298-3">
 <w.rf>

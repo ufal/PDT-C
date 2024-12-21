@@ -1694,8 +1694,8 @@
 <LM>w#w-wsj1256-001-p1s6W37</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj1256-001-p1s6W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1894,8 +1894,8 @@
 <LM>w#w-wsj1256-001-p1s7W18</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1256-001-p1s7W19-Ta">
 <src.rf>tagger-a</src.rf>

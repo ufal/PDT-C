@@ -75,7 +75,7 @@
 <LM>w#w-mf930709-087-p2s1w4</LM>
 </w.rf>
 <form>KANOISTŮ</form>
-<lemma>kanoista</lemma>
+<lemma>kanoista_,s_^(^DD**kánoista)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-mf930709-087-p2s1w5">
@@ -521,8 +521,8 @@
 <LM>w#w-mf930709-087-p2s2Bw37</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-087-p2s2Bw38">
 <src.rf>manual</src.rf>
@@ -1300,8 +1300,8 @@
 <LM>w#w-mf930709-087-p2s9w14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-087-p2s9w15">
 <src.rf>manual</src.rf>
@@ -1729,8 +1729,8 @@
 <LM>w#w-mf930709-087-p2s13w10</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-087-p2s13w11">
 <src.rf>manual</src.rf>
@@ -2708,8 +2708,8 @@
 <LM>w#w-mf930709-087-p2s21w6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-087-p2s21w7">
 <src.rf>manual</src.rf>
@@ -2726,8 +2726,8 @@
 <LM>w#w-mf930709-087-p2s21w8</LM>
 </w.rf>
 <form>aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-087-p2s21w9">
 <src.rf>manual</src.rf>
@@ -2771,8 +2771,8 @@
 <LM>w#w-mf930709-087-p2s21w13</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-mf930709-087-p2s21w14">
 <src.rf>manual</src.rf>
@@ -2780,8 +2780,8 @@
 <LM>w#w-mf930709-087-p2s21w14</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-087-p2s21w15">
 <src.rf>manual</src.rf>
@@ -2799,7 +2799,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-087-p2s21w17">
 <src.rf>manual</src.rf>

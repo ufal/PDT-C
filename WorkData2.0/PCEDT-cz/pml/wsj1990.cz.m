@@ -325,7 +325,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj1990-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -515,8 +515,8 @@
 <LM>w#w-wsj1990-001-p1s1W31</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1990-001-p1s1W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -862,7 +862,7 @@
 </w.rf>
 <form>Denveru</form>
 <lemma>Denver-2_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1990-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>

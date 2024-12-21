@@ -933,7 +933,7 @@
 <LM>w#w-ln94202-48-p3s3w14</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-48-p3s3w15">
@@ -979,7 +979,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94202-48-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1170,7 +1170,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-48-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1297,8 +1297,8 @@
 <LM>w#w-ln94202-48-p3s5w8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-48-p3s5w9">
 <src.rf>manual</src.rf>
@@ -2353,8 +2353,8 @@
 <LM>w#w-ln94202-48-p4s2w3</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-48-p4s2w4">
 <src.rf>manual</src.rf>

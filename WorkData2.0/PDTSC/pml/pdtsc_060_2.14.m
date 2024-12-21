@@ -240,8 +240,8 @@
 <LM>w#w-d1t3265-15</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně-2</lemma>
-<tag>TT-------------</tag>
+<lemma>stejně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m129-d1t3265-18">
 <w.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-d1t3265-17</LM>
 </w.rf>
 <form>lítání</form>
-<lemma>lítání_^(*3at)</lemma>
+<lemma>lítání_^(^DD**létání)_(*3at)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m129-d1t3265-19">
@@ -374,8 +374,8 @@
 <LM>w#w-d1t3275-1</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m129-d1t3275-2">
 <w.rf>
@@ -466,8 +466,8 @@
 <LM>w#w-d1t3283-1</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m129-d1t3283-2">
 <w.rf>

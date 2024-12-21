@@ -95,7 +95,7 @@
 <form_change>spell</form_change>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 </s>
 <s id="m-ln94205-10-p2s1B">
@@ -126,7 +126,7 @@
 </w.rf>
 <form>Každému</form>
 <lemma>každý</lemma>
-<tag>AAMS3----1A----</tag>
+<tag>PLMS3----------</tag>
 </m>
 <m id="m-ln94205-10-p2s1Cw2">
 <src.rf>manual</src.rf>
@@ -1934,8 +1934,8 @@
 <LM>w#w-ln94205-10-p6s2w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-10-p6s2w9">
 <src.rf>manual</src.rf>
@@ -2017,8 +2017,8 @@
 <LM>w#w-ln94205-10-p6s3w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-10-p6s3w4">
 <src.rf>manual</src.rf>

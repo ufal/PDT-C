@@ -312,8 +312,8 @@
 <LM>w#w-ln94202-14-p2s1Bw17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -1570,8 +1570,8 @@
 <LM>w#w-ln94202-14-p3s5w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-14-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-14-p3s5w13">
 <src.rf>manual</src.rf>
@@ -1871,8 +1871,8 @@
 <LM>w#w-ln94202-14-p4s2w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-14-p4s2w3">
 <src.rf>manual</src.rf>
@@ -2089,8 +2089,8 @@
 <LM>w#w-ln94202-14-p4s3w9</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-14-p4s3w10">
 <src.rf>manual</src.rf>
@@ -2615,8 +2615,8 @@
 <LM>w#w-ln94202-14-p4s5w12</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-14-p4s5w13">
 <src.rf>manual</src.rf>
@@ -2934,8 +2934,8 @@
 <LM>w#w-ln94202-14-p4s7w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-14-p4s7w15">
 <src.rf>manual</src.rf>
@@ -3392,7 +3392,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-14-p5s2w6">
 <src.rf>manual</src.rf>
@@ -3493,8 +3493,8 @@
 <LM>w#w-ln94202-14-p5s3w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-14-p5s3w2">
 <src.rf>manual</src.rf>

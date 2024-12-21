@@ -1933,8 +1933,8 @@
 <LM>w#w-wsj1926-001-p1s8W1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1926-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2786,7 +2786,7 @@
 </w.rf>
 <form>zpomalení</form>
 <lemma>zpomalení_^(*2t)_(*3it)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS2-----A----</tag>
 </m>
 <m id="m-wsj1926-001-p1s11W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3121,7 +3121,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1926-001-p1s12W16-Ta">
 <src.rf>tagger-a</src.rf>

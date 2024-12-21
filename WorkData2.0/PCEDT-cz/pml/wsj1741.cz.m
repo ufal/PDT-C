@@ -626,8 +626,8 @@
 <LM>w#w-wsj1741-001-p1s2W9</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1741-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -672,7 +672,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1741-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>

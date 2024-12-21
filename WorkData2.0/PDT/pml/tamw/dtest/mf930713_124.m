@@ -547,8 +547,8 @@
 <LM>w#w-mf930713-124-p3s1w22</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-124-p3s1w23">
 <src.rf>manual</src.rf>

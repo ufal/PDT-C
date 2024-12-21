@@ -46,7 +46,7 @@
 <LM>w#w-ln94207-14-p1s1w4</LM>
 </w.rf>
 <form>lídrem</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln94207-14-p1s1w5">
@@ -232,7 +232,7 @@
 <LM>w#w-ln94207-14-p2s1Cw10</LM>
 </w.rf>
 <form>lídrem</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln94207-14-p2s1Cw11">
@@ -414,8 +414,8 @@
 <LM>w#w-ln94207-14-p2s2w14</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-14-p2s2w15">
 <src.rf>manual</src.rf>
@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-14-p2s5w22">
 <src.rf>manual</src.rf>

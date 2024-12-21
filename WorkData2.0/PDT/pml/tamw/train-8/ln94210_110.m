@@ -185,8 +185,8 @@
 <LM>w#w-ln94210-110-p2s1Bw10</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-110-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -1034,8 +1034,8 @@
 <LM>w#w-ln94210-110-p4s4w5</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1043,8 +1043,8 @@
 <LM>w#w-ln94210-110-p4s4w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1322,7 +1322,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p6s3w4">
 <src.rf>manual</src.rf>
@@ -1713,8 +1713,8 @@
 <LM>w#w-ln94210-110-p6s5w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p6s5w9">
 <src.rf>manual</src.rf>
@@ -1803,8 +1803,8 @@
 <LM>w#w-ln94210-110-p6s5w18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p6s5w19">
 <src.rf>manual</src.rf>
@@ -1931,8 +1931,8 @@
 <LM>w#w-ln94210-110-p7s1w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p7s1w10">
 <src.rf>manual</src.rf>
@@ -2014,8 +2014,8 @@
 <LM>w#w-ln94210-110-p8s1w3</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p8s1w4">
 <src.rf>manual</src.rf>
@@ -2405,8 +2405,8 @@
 <LM>w#w-ln94210-110-p8s3w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p8s3w10">
 <src.rf>manual</src.rf>
@@ -2750,7 +2750,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-ln94210-110-p8s4w23">
 <src.rf>manual</src.rf>
@@ -2925,7 +2925,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94210-110-p8s6w7">
 <src.rf>manual</src.rf>
@@ -2933,8 +2933,8 @@
 <LM>w#w-ln94210-110-p8s6w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p8s6w8">
 <src.rf>manual</src.rf>
@@ -3704,8 +3704,8 @@
 <LM>w#w-ln94210-110-p10s2w2</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p10s2w3">
 <src.rf>manual</src.rf>
@@ -3850,7 +3850,7 @@
 <LM>w#w-ln94210-110-p10s3w6</LM>
 </w.rf>
 <form>dohodovací</form>
-<lemma>dohodovací_^(*2t)</lemma>
+<lemma>dohodovací_^(*2t)_(*2t-2)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-ln94210-110-p10s3w7">
@@ -3922,7 +3922,7 @@
 <LM>w#w-ln94210-110-p10s3w14</LM>
 </w.rf>
 <form>spočitatelných</form>
-<lemma>spočitatelný_^(*8ítat)</lemma>
+<lemma>spočitatelný_,s_^(^DD**spočítatelný)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-ln94210-110-p10s3w15">
@@ -4042,7 +4042,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p11s1w5">
 <src.rf>manual</src.rf>
@@ -4314,7 +4314,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p12s1w17">
 <src.rf>manual</src.rf>
@@ -5068,8 +5068,8 @@
 <LM>w#w-ln94210-110-p14s2w15</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-110-p14s2w16">
 <src.rf>manual</src.rf>

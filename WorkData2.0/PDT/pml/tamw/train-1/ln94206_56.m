@@ -1297,7 +1297,7 @@
 <LM>w#w-ln94206-56-p4s1w10</LM>
 </w.rf>
 <form>vleklý</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-ln94206-56-p4s1w11">
@@ -1477,8 +1477,8 @@
 <LM>w#w-ln94206-56-p4s1w30</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-56-p4s1w31">
 <src.rf>manual</src.rf>

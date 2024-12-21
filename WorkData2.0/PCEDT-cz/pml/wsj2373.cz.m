@@ -1679,8 +1679,8 @@
 <LM>w#w-wsj2373-001-p1s7W12</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2373-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1688,8 +1688,8 @@
 <LM>w#w-wsj2373-001-p1s7W13</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2373-001-p1s7W14-Ta">
 <src.rf>tagger-a</src.rf>

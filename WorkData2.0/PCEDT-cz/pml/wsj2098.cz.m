@@ -1112,7 +1112,7 @@
 </w.rf>
 <form>distribuován</form>
 <lemma>distribuovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj2098-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1719,8 +1719,8 @@
 <LM>w#w-wsj2098-001-p1s5W18</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2098-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1913,8 +1913,8 @@
 <LM>w#w-wsj2098-001-p1s7W2</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2098-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>

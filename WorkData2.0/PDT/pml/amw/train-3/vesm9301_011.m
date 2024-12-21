@@ -574,8 +574,8 @@
 <LM>w#w-vesm9301-011-p1s4w6</LM>
 </w.rf>
 <form>pracující</form>
-<lemma>pracující_^(*5ovat)</lemma>
-<tag>AGMS1-----A----</tag>
+<lemma>pracující-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-011-p1s4w7">
 <src.rf>manual</src.rf>

@@ -20,7 +20,7 @@
 </w.rf>
 <form>Rock</form>
 <lemma>rock-1</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-026-p1s1w2">
 <src.rf>manual</src.rf>
@@ -320,8 +320,8 @@
 <LM>w#w-mf920922-026-p2s2w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-026-p2s2w6">
 <src.rf>manual</src.rf>
@@ -619,8 +619,8 @@
 <LM>w#w-mf920922-026-p2s3w2</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-026-p2s3w3">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-026-p2s6Aw2">
 <src.rf>manual</src.rf>
@@ -1299,8 +1299,8 @@
 <LM>w#w-mf920922-026-p2s9w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-026-p2s9w2">
 <src.rf>manual</src.rf>
@@ -1544,8 +1544,8 @@
 <LM>w#w-mf920922-026-p2s10Aw15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-026-p2s10Aw16">
 <src.rf>manual</src.rf>

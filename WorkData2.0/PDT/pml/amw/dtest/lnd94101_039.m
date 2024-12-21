@@ -181,8 +181,8 @@
 <LM>w#w-lnd94101-039-p1s1w19</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94101-039-p1s1w20">
 <src.rf>manual</src.rf>

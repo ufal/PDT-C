@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94209_76.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -26,7 +26,7 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>4</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94209-76-p1s1w1">
 <a>
@@ -51,6 +51,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -64,7 +65,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1855f1</val_frame.rf>
+<val_frame.rf>v#v41chlQ</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p1s1w3">
 <a>
@@ -111,13 +112,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p1s1w5</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w908f1</val_frame.rf>
+<val_frame.rf>v#v41aojA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p1s1w6">
 <a>
@@ -257,15 +259,16 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w7706f1</val_frame.rf>
+<val_frame.rf>v#v41nqaD</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p2s1Bw3">
 <a>
 <lex.rf>a#a-ln94209-76-p2s1Bw3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdy</t_lemma>
+<t_lemma>někdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -354,7 +357,7 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_comment>wrongTR? nemely by vety 3 a 4 byt jeden strom?</discourse_comment>
-<val_frame.rf>v#v-w9760f1</val_frame.rf>
+<val_frame.rf>v#v41rrcA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p2s2w3">
 <a>
@@ -456,7 +459,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p2s3w33">
 <a>
@@ -673,7 +676,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w9283f1</val_frame.rf>
+<val_frame.rf>v#v41qtaA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p2s3w3">
 <a>
@@ -692,6 +695,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -782,32 +786,30 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p2s3w9</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w4532f1</val_frame.rf>
+<val_frame.rf>v#v41hmsA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p2s3w10">
 <a>
 <lex.rf>a#a-ln94209-76-p2s3w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>potom</t_lemma>
+<t_lemma>pak</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>potom</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
 <tfa>t</tfa>
 <deepord>18</deepord>
-<discourse_comment>one_arg
-patrne neznamena casovou naslednost, ale spis
-vysledek nevyslovene podminky  -jestli se vratim
-do Teplic, pak bych prosil o vetsi sal. Proto by
-snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
+<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-76-p2s3a1">
 <nodetype>complex</nodetype>
@@ -882,6 +884,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tisíc</t_lemma>
 <functor>BEN</functor>
+<proto_lemma>tisíc</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -899,6 +902,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tak</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>tak</proto_lemma>
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
@@ -928,6 +932,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>pět</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>pět</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -1017,7 +1022,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w8396f1</val_frame.rf>
+<val_frame.rf>v#v41oymD</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p2s4w2">
 <a>
@@ -1160,7 +1165,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <compl.rf>
 <LM>t-ln94209-76-p2s4w2</LM>
 </compl.rf>
-<val_frame.rf>v#v-w687f1</val_frame.rf>
+<val_frame.rf>v#v41advC</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p2s4a0">
 <nodetype>qcomplex</nodetype>
@@ -1344,7 +1349,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5055f1</val_frame.rf>
+<val_frame.rf>v#v41inpA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p2s5w1">
 <a>
@@ -1419,8 +1424,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <lex.rf>a#a-ln94209-76-p2s5w5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tři</t_lemma>
+<t_lemma>třikrát</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>tři</proto_lemma>
 <subfunctor>nr</subfunctor>
 <gram>
 <sempos>adj.quant.def</sempos>
@@ -1452,6 +1458,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>sto</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>sto</proto_lemma>
 <gram>
 <sempos>n.quant.def</sempos>
 <gender>neut</gender>
@@ -1484,6 +1491,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>sedm</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>sedm</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -1552,6 +1560,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1564,7 +1573,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p3s1w1">
 <a>
@@ -1692,7 +1701,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w7705f1</val_frame.rf>
+<val_frame.rf>v#v41npzA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p3s1w9">
 <a>
@@ -1701,6 +1710,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -1877,7 +1887,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w409f18</val_frame.rf>
+<val_frame.rf>v#v41reB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p3s1w22">
 <a>
@@ -1886,6 +1896,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -2003,7 +2014,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w4099f1</val_frame.rf>
+<val_frame.rf>v#v41grtA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p3s2w10">
 <a>
@@ -2053,6 +2064,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_dsp_root>1</is_dsp_root>
 <gram>
@@ -2066,7 +2078,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p3s2w2">
 <a>
@@ -2097,6 +2109,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -2219,7 +2232,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w5242f1</val_frame.rf>
+<val_frame.rf>v#v41ixaA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p4s1w2">
 <a>
@@ -2412,7 +2425,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w2988f2</val_frame.rf>
+<val_frame.rf>v#v41eonB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p4s1w16">
 <a>
@@ -2421,6 +2434,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -2532,6 +2546,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -2544,7 +2559,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p4s2w1">
 <a>
@@ -2644,6 +2659,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -2812,7 +2828,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w387f1</val_frame.rf>
+<val_frame.rf>v#v41qfA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p4s3w2">
 <a>
@@ -3030,7 +3046,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<val_frame.rf>v#v-w1339f1</val_frame.rf>
+<val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p4s4w5">
 <a>
@@ -3071,8 +3087,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <lex.rf>a#a-ln94209-76-p4s4w3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>rychlý</t_lemma>
+<t_lemma>rychle</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>rychlý</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -3122,7 +3139,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p4s5w13">
 <a>
@@ -3205,13 +3222,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p4s6w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6013f1</val_frame.rf>
+<val_frame.rf>v#v41kluB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p4s5w2">
 <a>
@@ -3294,8 +3312,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <lex.rf>a#a-ln94209-76-p4s5w8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>první</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -3341,6 +3360,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p4s6w7</LM>
@@ -3348,7 +3368,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w531f1</val_frame.rf>
+<val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p4s6a0">
 <nodetype>complex</nodetype>
@@ -3381,6 +3401,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_dsp_root>1</is_dsp_root>
 <gram>
@@ -3394,7 +3415,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w1855f5</val_frame.rf>
+<val_frame.rf>v#v41chlI</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p4s6w1">
 <a>
@@ -3403,6 +3424,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>potom</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>potom</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -3491,7 +3513,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w9784f1</val_frame.rf>
+<val_frame.rf>v#v41rsnB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p4s7w2">
 <a>
@@ -3523,6 +3545,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>týž</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>týž</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -3745,7 +3768,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w9661f1</val_frame.rf>
+<val_frame.rf>v#v41rmoB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s1w3">
 <a>
@@ -3808,7 +3831,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w4641f1</val_frame.rf>
+<val_frame.rf>v#v41hsuB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s1w7">
 <a>
@@ -3831,15 +3854,16 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <type>SUB_SET</type>
 </LM>
 </bridging>
-<val_frame.rf>v#v-w4759f1</val_frame.rf>
+<val_frame.rf>v#v41hyeB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s1w6">
 <a>
 <lex.rf>a#a-ln94209-76-p5s1w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>každý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>total2</indeftype>
@@ -3856,6 +3880,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -3900,7 +3925,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w4641f1</val_frame.rf>
+<val_frame.rf>v#v41hsuB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s1a4">
 <nodetype>complex</nodetype>
@@ -4073,7 +4098,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w8396f1</val_frame.rf>
+<val_frame.rf>v#v41oymD</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s1a1">
 <nodetype>complex</nodetype>
@@ -4101,8 +4126,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <lex.rf>a#a-ln94209-76-p5s1w24</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>poprvé</t_lemma>
 <functor>THO</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -4163,6 +4189,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -4182,13 +4209,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p5s2w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f3</val_frame.rf>
+<val_frame.rf>v#v41jsAF</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s2w1">
 <a>
@@ -4245,7 +4273,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w369f9</val_frame.rf>
+<val_frame.rf>v#v41plBB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s2a1">
 <nodetype>qcomplex</nodetype>
@@ -4327,7 +4355,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w6754f1</val_frame.rf>
+<val_frame.rf>v#v41lvgA</val_frame.rf>
 </LM>
 </children>
 </LM>
@@ -4363,7 +4391,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w3540f1</val_frame.rf>
+<val_frame.rf>v#v41fqiA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s3w3">
 <a>
@@ -4393,13 +4421,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-76-p5s3w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1204f3</val_frame.rf>
+<val_frame.rf>v#v41bcpE</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s3w2">
 <a>
@@ -4408,6 +4437,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>n.quant.def</sempos>
 <gender>neut</gender>
@@ -4432,6 +4462,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -4489,7 +4520,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s4w16">
 <a>
@@ -4538,6 +4569,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -4558,13 +4590,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p5s4w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f3</val_frame.rf>
+<val_frame.rf>v#v41jsAF</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s4w1">
 <a>
@@ -4610,6 +4643,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>mít</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -4621,7 +4655,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w1855f1</val_frame.rf>
+<val_frame.rf>v#v41chlQ</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s4a2">
 <nodetype>qcomplex</nodetype>
@@ -4698,13 +4732,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p5s4w8</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6982f1</val_frame.rf>
+<val_frame.rf>v#v41mgaA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p5s4w9">
 <a>
@@ -4713,6 +4748,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>inan</gender>
@@ -4819,7 +4855,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w634f1</val_frame.rf>
+<val_frame.rf>v#v41abjB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s1w2">
 <a>
@@ -4893,7 +4929,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w1395f1</val_frame.rf>
+<val_frame.rf>v#v41bljA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s1w9">
 <a>
@@ -4963,6 +4999,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p6s1a0</LM>
@@ -4975,9 +5012,12 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <a>
 <lex.rf>a#a-ln94209-76-p6s2w1</lex.rf>
 </a>
-<nodetype>atom</nodetype>
+<nodetype>complex</nodetype>
 <t_lemma>spíše</t_lemma>
-<functor>RHEM</functor>
+<functor>EXT</functor>
+<gram>
+<sempos>adv.denot.ngrad.nneg</sempos>
+</gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
 </LM>
@@ -5017,6 +5057,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p6s3w3</LM>
@@ -5057,7 +5098,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w6967f1</val_frame.rf>
+<val_frame.rf>v#v41mfiA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s3w1">
 <a>
@@ -5120,6 +5161,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <LM id="t-ln94209-76-p6s3w13">
 <a>
 <lex.rf>a#a-ln94209-76-p6s3w13</lex.rf>
+<aux.rf>
+<LM>a#a-ln94209-76-p6s3w11</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>experimentovat</t_lemma>
@@ -5144,13 +5188,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p6s3w7</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w908f1</val_frame.rf>
+<val_frame.rf>v#v41aojA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s3w10">
 <a>
@@ -5254,7 +5299,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w127f1</val_frame.rf>
+<val_frame.rf>v#v41ehB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s4a0">
 <nodetype>complex</nodetype>
@@ -5331,7 +5376,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w735f11</val_frame.rf>
+<val_frame.rf>v#v41afyM</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s4w8">
 <a>
@@ -5361,13 +5406,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-76-p6s4w5</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w3161f1</val_frame.rf>
+<val_frame.rf>v#v41extC</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s4w6">
 <a>
@@ -5385,7 +5431,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w1266f1</val_frame.rf>
+<val_frame.rf>v#v41bfhA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s4w7">
 <a>
@@ -5505,6 +5551,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p6s5w4</LM>
@@ -5516,13 +5563,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p6s4w17</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w7895f1</val_frame.rf>
+<val_frame.rf>v#v41nznB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s4w18">
 <a>
@@ -5555,7 +5603,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w4608f1</val_frame.rf>
+<val_frame.rf>v#v41hreB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s4w21">
 <a>
@@ -5619,7 +5667,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w4764f1</val_frame.rf>
+<val_frame.rf>v#v41hyjC</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s5w4">
 <a>
@@ -5769,13 +5817,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p6s6w3</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w3751f1</val_frame.rf>
+<val_frame.rf>v#v41garB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s6w3">
 <a>
@@ -5945,13 +5994,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p6s7w3</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5225f1</val_frame.rf>
+<val_frame.rf>v#v41iwiB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p6s7w2">
 <a>
@@ -6214,7 +6264,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w1868f1</val_frame.rf>
+<val_frame.rf>v#v41chxD</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s1w2">
 <a>
@@ -6317,6 +6367,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <LM id="t-ln94209-76-p7s2w11">
 <a>
 <lex.rf>a#a-ln94209-76-p7s2w11</lex.rf>
+<aux.rf>
+<LM>a#a-ln94209-76-p7s2w9</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>využít</t_lemma>
@@ -6333,7 +6386,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w8528f1</val_frame.rf>
+<val_frame.rf>v#v41pfiA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s2w3">
 <a>
@@ -6363,7 +6416,8 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <type>discourse</type>
 <start_range>0</start_range>
 <target_range>0</target_range>
-<discourse_type>conc</discourse_type>
+<discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-76-p7s2w1</LM>
@@ -6371,7 +6425,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5874f3</val_frame.rf>
+<val_frame.rf>v#v41kebG</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s2a1">
 <nodetype>complex</nodetype>
@@ -6405,7 +6459,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <children>
 <LM id="t-ln94209-76-p7s2a2">
 <a>
-<lex.rf>a#a-ln94209-76-p7s2w4</lex.rf>
+<aux.rf>
+<LM>a#a-ln94209-76-p7s2w4</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
@@ -6424,7 +6480,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </LM>
 <LM id="t-ln94209-76-p7s2a3">
 <a>
-<lex.rf>a#a-ln94209-76-p7s2w6</lex.rf>
+<aux.rf>
+<LM>a#a-ln94209-76-p7s2w6</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
@@ -6452,6 +6510,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -6479,8 +6538,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <lex.rf>a#a-ln94209-76-p7s2w8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdy</t_lemma>
+<t_lemma>vždy</t_lemma>
 <functor>THO</functor>
+<proto_lemma>kdy</proto_lemma>
 <gram>
 <sempos>adv.pron.indef</sempos>
 <indeftype>total1</indeftype>
@@ -6556,6 +6616,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>říkat</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>říkat</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -6568,7 +6629,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w5882f1</val_frame.rf>
+<val_frame.rf>v#v41kejB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s3w5">
 <a>
@@ -6598,13 +6659,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-76-p7s3w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w732f2</val_frame.rf>
+<val_frame.rf>v#v41afvN</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s3w4">
 <a>
@@ -6633,6 +6695,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>dva</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -6686,7 +6749,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w1939f1</val_frame.rf>
+<val_frame.rf>v#v41clkA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s3a5">
 <nodetype>qcomplex</nodetype>
@@ -6728,7 +6791,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w1355f1</val_frame.rf>
+<val_frame.rf>v#v41bjgB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s3a7">
 <nodetype>complex</nodetype>
@@ -6828,7 +6891,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w7734f1</val_frame.rf>
+<val_frame.rf>v#v41nroB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s3w17">
 <a>
@@ -6934,7 +6997,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w1193f1</val_frame.rf>
+<val_frame.rf>v#v41bcdA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s4a2">
 <nodetype>complex</nodetype>
@@ -6986,7 +7049,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w3483f1</val_frame.rf>
+<val_frame.rf>v#v41fnnA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s4w7">
 <a>
@@ -7075,9 +7138,6 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <LM id="t-ln94209-76-p7s4w16">
 <a>
 <lex.rf>a#a-ln94209-76-p7s4w16</lex.rf>
-<aux.rf>
-<LM>a#a-ln94209-76-p7s4w14</LM>
-</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>plivat</t_lemma>
@@ -7094,7 +7154,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <factmod>appeal</factmod>
 </gram>
 <tfa>t</tfa>
-<deepord>13</deepord>
+<deepord>14</deepord>
 <discourse>
 <LM>
 <target_node.rf>t-ln94209-76-p7s4w1</target_node.rf>
@@ -7102,13 +7162,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p7s4a0</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w3483f1</val_frame.rf>
+<val_frame.rf>v#v41fnnA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s4w15">
 <a>
@@ -7151,6 +7212,16 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </LM>
 </coref_text>
 </LM>
+<LM id="t-ln94209-76-p7s4a4">
+<a>
+<lex.rf>a#a-ln94209-76-p7s4w14</lex.rf>
+</a>
+<nodetype>atom</nodetype>
+<t_lemma>ať</t_lemma>
+<functor>ATT</functor>
+<tfa>t</tfa>
+<deepord>13</deepord>
+</LM>
 <LM id="t-ln94209-76-p7s4w22">
 <a>
 <lex.rf>a#a-ln94209-76-p7s4w22</lex.rf>
@@ -7172,7 +7243,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <factmod>asserted</factmod>
 </gram>
 <tfa>f</tfa>
-<deepord>16</deepord>
+<deepord>17</deepord>
 <discourse>
 <LM>
 <target_node.rf>t-ln94209-76-p7s4w16</target_node.rf>
@@ -7180,13 +7251,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-76-p7s4w18</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w4154f1</val_frame.rf>
+<val_frame.rf>v#v41gtyA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s4w20">
 <a>
@@ -7203,7 +7275,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <politeness>basic</politeness>
 </gram>
 <tfa>t</tfa>
-<deepord>14</deepord>
+<deepord>15</deepord>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94209-76-p7s4w6</target_node.rf>
@@ -7217,15 +7289,16 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <t_lemma>#Neg</t_lemma>
 <functor>RHEM</functor>
 <tfa>f</tfa>
-<deepord>15</deepord>
+<deepord>16</deepord>
 </LM>
 <LM id="t-ln94209-76-p7s4w21">
 <a>
 <lex.rf>a#a-ln94209-76-p7s4w21</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>něco</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -7234,7 +7307,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <person>3</person>
 </gram>
 <tfa>f</tfa>
-<deepord>17</deepord>
+<deepord>18</deepord>
 </LM>
 <LM id="t-ln94209-76-p7s4w24">
 <a>
@@ -7254,7 +7327,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>18</deepord>
+<deepord>19</deepord>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94209-76-p5s1w27</target_node.rf>
@@ -7358,7 +7431,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w9930f1</val_frame.rf>
+<val_frame.rf>v#v41rzvA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s5w2">
 <a>
@@ -7436,6 +7509,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -7456,13 +7530,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p7s5w10</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s5w13">
 <a>
@@ -7497,6 +7572,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -7554,7 +7630,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w10028f1</val_frame.rf>
+<val_frame.rf>v#v41sehA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s6a0">
 <nodetype>complex</nodetype>
@@ -7617,7 +7693,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w8820f1</val_frame.rf>
+<val_frame.rf>v#v41pupA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s6w4">
 <a>
@@ -7635,7 +7711,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7144f1</val_frame.rf>
+<val_frame.rf>v#v41molB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p7s6w3">
 <a>
@@ -7759,6 +7835,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p8s1w4</LM>
@@ -7815,6 +7892,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -7828,7 +7906,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s1w4">
 <a>
@@ -7918,6 +7996,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <is_generated>1</is_generated>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -7938,13 +8017,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p8s1w9</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s1w11">
 <a>
@@ -8130,7 +8210,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w2834f1</val_frame.rf>
+<val_frame.rf>v#v41egtA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s2w2">
 <a>
@@ -8188,7 +8268,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w4527f1</val_frame.rf>
+<val_frame.rf>v#v41hmkA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s2w9">
 <a>
@@ -8223,6 +8303,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -8259,6 +8340,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -8333,6 +8415,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -8344,7 +8427,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w243f3</val_frame.rf>
+<val_frame.rf>v#v41jsAF</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s2w18">
 <a>
@@ -8391,7 +8474,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w8323f1</val_frame.rf>
+<val_frame.rf>v#v41ouvB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s2a1">
 <nodetype>qcomplex</nodetype>
@@ -8549,7 +8632,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<val_frame.rf>v#v-w902f1</val_frame.rf>
+<val_frame.rf>v#v41aobA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s3w2">
 <a>
@@ -8593,7 +8676,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w732f11</val_frame.rf>
+<val_frame.rf>v#v41afvJ</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s3w4">
 <a>
@@ -8679,6 +8762,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -8699,21 +8783,23 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p8s3w9</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s3w9">
 <a>
 <lex.rf>a#a-ln94209-76-p8s3w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>což</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -8740,8 +8826,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <lex.rf>a#a-ln94209-76-p8s3w11</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdy</t_lemma>
+<t_lemma>vždy</t_lemma>
 <functor>THO</functor>
+<proto_lemma>kdy</proto_lemma>
 <gram>
 <sempos>adv.pron.indef</sempos>
 <indeftype>total1</indeftype>
@@ -8796,7 +8883,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w5544f1</val_frame.rf>
+<val_frame.rf>v#v41jlaB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s4w1">
 <a>
@@ -8820,7 +8907,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <type>SUB_SET</type>
 </LM>
 </bridging>
-<val_frame.rf>v#v-w7144f1</val_frame.rf>
+<val_frame.rf>v#v41molB</val_frame.rf>
 </LM>
 <LM id="t-ln94209-76-p8s4a0">
 <nodetype>atom</nodetype>
@@ -8880,8 +8967,9 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <lex.rf>a#a-ln94209-76-p8s4w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dobrý</t_lemma>
+<t_lemma>dobře</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>dobrý</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -8909,7 +8997,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>14</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="t-ln94209-76-p8s5w2">
 <a>
@@ -8975,6 +9063,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>málo</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>málo</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.quant.grad</sempos>
@@ -9016,6 +9105,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>COND</functor>
+<proto_lemma>mít</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>hrt</deontmod>
@@ -9026,7 +9116,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <factmod>asserted</factmod>
 </gram>
 <tfa>f</tfa>
-<deepord>9</deepord>
+<deepord>8</deepord>
 <discourse>
 <LM>
 <target_node.rf>t-ln94209-76-p8s5w18</target_node.rf>
@@ -9034,13 +9124,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-76-p8s5w10</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1855f19</val_frame.rf>
+<val_frame.rf>v#v41chlS</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s5a2">
 <nodetype>complex</nodetype>
@@ -9063,21 +9154,13 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </LM>
 </coref_text>
 </LM>
-<LM id="t-ln94209-76-p8s5a3">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Gen</t_lemma>
-<functor>PAT</functor>
-<tfa>t</tfa>
-<deepord>7</deepord>
-</LM>
 <LM id="t-ln94209-76-p8s5a0">
 <nodetype>atom</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Neg</t_lemma>
 <functor>RHEM</functor>
 <tfa>f</tfa>
-<deepord>8</deepord>
+<deepord>7</deepord>
 </LM>
 <LM id="t-ln94209-76-p8s5w13">
 <a>
@@ -9088,7 +9171,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>školné</t_lemma>
-<functor>AIM</functor>
+<functor>PAT</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>neut</gender>
@@ -9096,7 +9179,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>10</deepord>
+<deepord>9</deepord>
 </LM>
 </children>
 </LM>
@@ -9119,8 +9202,8 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <factmod>asserted</factmod>
 </gram>
 <tfa>f</tfa>
-<deepord>11</deepord>
-<val_frame.rf>v#v-w9358f1</val_frame.rf>
+<deepord>10</deepord>
+<val_frame.rf>v#v41qwpA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s5w17">
 <a>
@@ -9136,7 +9219,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>13</deepord>
+<deepord>12</deepord>
 <children>
 <LM id="t-ln94209-76-p8s5w16">
 <a>
@@ -9153,7 +9236,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <politeness>inher</politeness>
 </gram>
 <tfa>t</tfa>
-<deepord>12</deepord>
+<deepord>11</deepord>
 <coref_gram.rf>
 <LM>t-ln94209-76-p8s5w2</LM>
 </coref_gram.rf>
@@ -9186,7 +9269,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <factmod>asserted</factmod>
 </gram>
 <tfa>f</tfa>
-<deepord>16</deepord>
+<deepord>15</deepord>
 <discourse>
 <LM>
 <target_node.rf>t-ln94209-76-p8s5w15</target_node.rf>
@@ -9194,13 +9277,14 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-76-p8s5w18</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5818f1</val_frame.rf>
+<val_frame.rf>v#v41kbjB</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s5a1">
 <nodetype>atom</nodetype>
@@ -9208,7 +9292,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 <t_lemma>#Neg</t_lemma>
 <functor>RHEM</functor>
 <tfa>f</tfa>
-<deepord>15</deepord>
+<deepord>14</deepord>
 </LM>
 </children>
 </LM>
@@ -9257,7 +9341,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s6w14">
 <a>
@@ -9332,7 +9416,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w4527f1</val_frame.rf>
+<val_frame.rf>v#v41hmkA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s6a1">
 <nodetype>complex</nodetype>
@@ -9377,7 +9461,7 @@ snad bylo lepsi dat tomu jiny funkor.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w9575f1</val_frame.rf>
+<val_frame.rf>v#v41riiA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p8s6w7">
 <a>

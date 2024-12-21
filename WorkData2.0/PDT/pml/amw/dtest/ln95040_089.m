@@ -2739,8 +2739,8 @@
 <LM>w#w-ln95040-089-p9s3w18</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-089-p9s3w19">
 <src.rf>manual</src.rf>
@@ -3391,7 +3391,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-089-p9s8Bw4">
 <src.rf>manual</src.rf>
@@ -3500,7 +3500,7 @@
 <LM>w#w-ln95040-089-p9s9w5</LM>
 </w.rf>
 <form>utvářet</form>
-<lemma>utvářet_^(tvořit)</lemma>
+<lemma>utvářet</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-089-p9s9w6">
@@ -3886,8 +3886,8 @@
 <LM>w#w-ln95040-089-p10s3w4</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-089-p10s3w5">
 <src.rf>manual</src.rf>
@@ -3922,8 +3922,8 @@
 <LM>w#w-ln95040-089-p10s3w8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95040-089-p10s3w9">
 <src.rf>manual</src.rf>
@@ -4601,7 +4601,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-089-p12s2w3">
 <src.rf>manual</src.rf>

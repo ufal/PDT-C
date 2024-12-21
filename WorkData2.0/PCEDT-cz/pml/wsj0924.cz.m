@@ -399,7 +399,7 @@
 </w.rf>
 <form>aktivována</form>
 <lemma>aktivovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-wsj0924-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

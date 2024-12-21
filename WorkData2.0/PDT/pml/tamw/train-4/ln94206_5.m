@@ -376,7 +376,7 @@
 <LM>w#w-ln94206-5-p2s1Bw33</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln94206-5-p2s1Bw34">
@@ -514,7 +514,7 @@
 </w.rf>
 <form>věnovány</form>
 <lemma>věnovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-ln94206-5-p2s2w5">
 <src.rf>manual</src.rf>
@@ -522,8 +522,8 @@
 <LM>w#w-ln94206-5-p2s2w5</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-5-p2s2w6">
 <src.rf>manual</src.rf>
@@ -594,8 +594,8 @@
 <LM>w#w-ln94206-5-p2s2w13</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-5-p2s2w14">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 </w.rf>
 <form>kogenerace</form>
 <lemma>kogenerace</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-5-p3s1w5">
 <src.rf>manual</src.rf>

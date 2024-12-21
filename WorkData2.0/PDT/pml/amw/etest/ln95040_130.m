@@ -853,7 +853,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-130-p3s4w15">
 <src.rf>manual</src.rf>
@@ -3008,7 +3008,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95040-130-p3s15w26">
 <src.rf>manual</src.rf>

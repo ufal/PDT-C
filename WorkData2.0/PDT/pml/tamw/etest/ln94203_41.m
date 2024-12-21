@@ -1076,7 +1076,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln94203-41-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-ln94203-41-p4s1w26</LM>
 </w.rf>
 <form>perzekuovaného</form>
-<lemma>perzekuovaný_^(*2t)</lemma>
+<lemma>perzekuovaný_^(^DD**perzekvovaný)_(*2t)</lemma>
 <tag>AAMS2----1A----</tag>
 </m>
 <m id="m-ln94203-41-p4s1w27">
@@ -1412,8 +1412,8 @@
 <LM>w#w-ln94203-41-p4s3w8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-41-p4s3w9">
 <src.rf>manual</src.rf>

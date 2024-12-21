@@ -36,8 +36,8 @@
 <LM>w#w-193-194</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m129-d1t492-15">
 <w.rf>
@@ -951,7 +951,7 @@
 </w.rf>
 <form>někoho</form>
 <lemma>někdo</lemma>
-<tag>PK--4----------</tag>
+<tag>PK--2----------</tag>
 </m>
 <m id="m129-d-id76205-punct">
 <w.rf>
@@ -1043,7 +1043,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m129-d1t558-13">
 <w.rf>
@@ -1370,8 +1370,8 @@
 <LM>w#w-d1t582-1</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m129-d1t582-2">
 <w.rf>
@@ -2085,7 +2085,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m129-85-100">
 <w.rf>
@@ -2262,7 +2262,7 @@
 <LM>w#w-99-126</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m129-99-117">
@@ -2362,7 +2362,7 @@
 <LM>w#w-d1t636-9</LM>
 </w.rf>
 <form>piano</form>
-<lemma>piano</lemma>
+<lemma>piano_,s_^(^DD**piáno)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m129-d1t636-10">
@@ -2640,8 +2640,8 @@
 <LM>w#w-d1t649-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m129-d1t649-6">
 <w.rf>
@@ -3148,8 +3148,8 @@
 <LM>w#w-d1t678-19</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m129-d1t678-20">
 <w.rf>
@@ -3389,7 +3389,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m129-d1t698-5">
 <w.rf>
@@ -3444,8 +3444,8 @@
 <LM>w#w-d1t700-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m129-d1t700-7">
 <w.rf>

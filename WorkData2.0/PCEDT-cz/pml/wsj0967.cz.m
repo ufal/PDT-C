@@ -1043,7 +1043,7 @@
 </w.rf>
 <form>kontaktovali</form>
 <lemma>kontaktovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj0967-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1634,7 +1634,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0967-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1789,7 +1789,7 @@
 </w.rf>
 <form>podniky</form>
 <lemma>podnik</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-wsj0967-001-p1s8W8-Ta">
 <src.rf>tagger-a</src.rf>

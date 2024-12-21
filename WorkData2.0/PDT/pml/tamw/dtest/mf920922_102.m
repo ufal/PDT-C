@@ -299,7 +299,7 @@
 </w.rf>
 <form>věnujme</form>
 <lemma>věnovat</lemma>
-<tag>Vi-P---1--A-I--</tag>
+<tag>Vi-P---1--A-B--</tag>
 </m>
 <m id="m-mf920922-102-p4s2w3">
 <src.rf>manual</src.rf>
@@ -406,8 +406,8 @@
 <LM>w#w-mf920922-102-p4s2w14</LM>
 </w.rf>
 <form>přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-102-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1127,8 +1127,8 @@
 <LM>w#w-mf920922-102-p6s1w7</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-102-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1871,8 +1871,8 @@
 <LM>w#w-mf920922-102-p6s4w4</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-102-p6s4w5">
 <src.rf>manual</src.rf>
@@ -1907,8 +1907,8 @@
 <LM>w#w-mf920922-102-p6s4w8</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-102-p6s4w9">
 <src.rf>manual</src.rf>
@@ -2404,8 +2404,8 @@
 <LM>w#w-mf920922-102-p6s5w42</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-102-p6s5w43">
 <src.rf>manual</src.rf>
@@ -3244,8 +3244,8 @@
 <LM>w#w-mf920922-102-p6s11w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-102-p6s11w10">
 <src.rf>manual</src.rf>
@@ -3471,8 +3471,8 @@
 <LM>w#w-mf920922-102-p6s12w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-102-p6s12w13">
 <src.rf>manual</src.rf>
@@ -3728,7 +3728,7 @@
 </w.rf>
 <form>limitováno</form>
 <lemma>limitovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-mf920922-102-p6s14w12">
 <src.rf>manual</src.rf>
@@ -3772,8 +3772,8 @@
 <LM>w#w-mf920922-102-p6s14w16</LM>
 </w.rf>
 <form>soutěžícím</form>
-<lemma>soutěžící_^(*3it)</lemma>
-<tag>AGMP3-----A----</tag>
+<lemma>soutěžící-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-mf920922-102-p6s14w17">
 <src.rf>manual</src.rf>
@@ -3820,7 +3820,7 @@
 </w.rf>
 <form>limitovány</form>
 <lemma>limitovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-mf920922-102-p6s15w4">
 <src.rf>manual</src.rf>

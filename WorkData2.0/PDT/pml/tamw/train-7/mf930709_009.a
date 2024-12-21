@@ -18,7 +18,7 @@
 <children>
 <LM id="a-mf930709-009-p1s1w1">
 <m.rf>m#m-mf930709-009-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -113,7 +113,13 @@
 <afun>Sb</afun>
 <ord>12</ord>
 <clause_number>3</clause_number>
-<children>
+</LM>
+<LM id="a-mf930709-009-p2s1w14">
+<m.rf>m#m-mf930709-009-p2s1w14</m.rf>
+<afun>Obj</afun>
+<ord>14</ord>
+<clause_number>3</clause_number>
+</LM>
 <LM id="a-mf930709-009-p2s1w15">
 <m.rf>m#m-mf930709-009-p2s1w15</m.rf>
 <afun>AuxP</afun>
@@ -122,19 +128,11 @@
 <children>
 <LM id="a-mf930709-009-p2s1w16">
 <m.rf>m#m-mf930709-009-p2s1w16</m.rf>
-<afun>Atr</afun>
+<afun>Obj</afun>
 <ord>16</ord>
 <clause_number>3</clause_number>
 </LM>
 </children>
-</LM>
-</children>
-</LM>
-<LM id="a-mf930709-009-p2s1w14">
-<m.rf>m#m-mf930709-009-p2s1w14</m.rf>
-<afun>Pnom</afun>
-<ord>14</ord>
-<clause_number>3</clause_number>
 </LM>
 </children>
 </LM>
@@ -150,7 +148,7 @@
 <children>
 <LM id="a-mf930709-009-p5s1w1">
 <m.rf>m#m-mf930709-009-p5s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -263,6 +261,23 @@
 <afun>Obj</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-mf930709-009-p28s1w6">
+<m.rf>m#m-mf930709-009-p28s1w6</m.rf>
+<afun>AuxP</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-mf930709-009-p28s1w7">
+<m.rf>m#m-mf930709-009-p28s1w7</m.rf>
+<afun>Atr</afun>
+<is_extra_dependency>1</is_extra_dependency>
+<ord>7</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 <LM id="a-mf930709-009-p28s1w5">
 <m.rf>m#m-mf930709-009-p28s1w5</m.rf>
@@ -274,20 +289,6 @@
 <m.rf>m#m-mf930709-009-p28s1w4</m.rf>
 <afun>Atr</afun>
 <ord>4</ord>
-<clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
-<LM id="a-mf930709-009-p28s1w6">
-<m.rf>m#m-mf930709-009-p28s1w6</m.rf>
-<afun>AuxP</afun>
-<ord>6</ord>
-<clause_number>1</clause_number>
-<children>
-<LM id="a-mf930709-009-p28s1w7">
-<m.rf>m#m-mf930709-009-p28s1w7</m.rf>
-<afun>Obj</afun>
-<ord>7</ord>
 <clause_number>1</clause_number>
 </LM>
 </children>

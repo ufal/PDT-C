@@ -392,8 +392,8 @@
 <LM>w#w-mf930713-017-p2s1Bw28</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-017-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -875,8 +875,8 @@
 <LM>w#w-mf930713-017-p2s4w8</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-017-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1266,8 +1266,8 @@
 <LM>w#w-mf930713-017-p2s7w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-017-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-mf930713-017-p2s8w13</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-017-p2s8w14">
@@ -1558,8 +1558,8 @@
 <LM>w#w-mf930713-017-p2s9w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-017-p2s9w2">
 <src.rf>manual</src.rf>
@@ -1823,8 +1823,8 @@
 <LM>w#w-mf930713-017-p2s11w3</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-017-p2s11w4">
 <src.rf>manual</src.rf>

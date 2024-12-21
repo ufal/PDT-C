@@ -1058,8 +1058,8 @@
 <LM>w#w-wsj1499-001-p1s8W4</LM>
 </w.rf>
 <form>pracovně</form>
-<lemma>pracovna</lemma>
-<tag>NNFS6-----A----</tag>
+<lemma>pracovně_^(*1í)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj1499-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1068,7 +1068,7 @@
 </w.rf>
 <form>znevýhodněných</form>
 <lemma>znevýhodněný_^(*3it)</lemma>
-<tag>AAMP2----1A----</tag>
+<tag>AAMP6----1A----</tag>
 </m>
 <m id="m-wsj1499-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2507,7 +2507,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1499-001-p1s16W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3028,7 +3028,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1499-001-p1s20W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3203,7 +3203,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1499-001-p1s22W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3477,7 +3477,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1499-001-p1s24W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4361,8 +4361,8 @@
 <LM>w#w-wsj1499-001-p1s30W1</LM>
 </w.rf>
 <form>Až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj1499-001-p1s30W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5110,7 +5110,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1499-001-p1s35W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6478,7 +6478,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1499-001-p1s43W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6515,8 +6515,8 @@
 <LM>w#w-wsj1499-001-p1s44W1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ještě-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1499-001-p1s44W2-Ta">
 <src.rf>tagger-a</src.rf>

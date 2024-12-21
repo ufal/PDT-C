@@ -152,8 +152,8 @@
 <LM>w#w-wsj0264-001-p1s0W16</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0264-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>

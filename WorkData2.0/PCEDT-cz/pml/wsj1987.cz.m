@@ -1111,8 +1111,8 @@
 <LM>w#w-wsj1987-001-p1s4W1</LM>
 </w.rf>
 <form>Začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1987-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1220,7 +1220,7 @@
 </w.rf>
 <form>citovaly</form>
 <lemma>citovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-wsj1987-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1510,7 +1510,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj1987-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -547,8 +547,8 @@
 <LM>w#w-mf920922-061-p2s2w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-061-p2s2w10">
 <src.rf>manual</src.rf>
@@ -938,8 +938,8 @@
 <LM>w#w-mf920922-061-p2s4w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-061-p2s4w9">
 <src.rf>manual</src.rf>
@@ -2287,7 +2287,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAMS6----1A----</tag>
+<tag>PLMS6----------</tag>
 </m>
 <m id="m-mf920922-061-p2s12w4">
 <src.rf>manual</src.rf>
@@ -2423,8 +2423,8 @@
 <LM>w#w-mf920922-061-p2s13w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-061-p2s13w5">
 <src.rf>manual</src.rf>
@@ -2468,7 +2468,7 @@
 <LM>w#w-mf920922-061-p2s13w9</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-061-p2s13w10">

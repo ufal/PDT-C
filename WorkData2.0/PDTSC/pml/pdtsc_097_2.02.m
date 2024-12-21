@@ -28,8 +28,8 @@
 <LM>w#w-d1t982-8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m136-d1t984-1">
 <w.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-d1t1013-6</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m136-d1t1013-7">
@@ -272,16 +272,16 @@
 <LM>w#w-d1t1013-7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m136-d1t1013-9">
 <w.rf>
 <LM>w#w-d1t1013-9</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m136-d1t1013-8">
 <w.rf>
@@ -1123,7 +1123,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m136-d1t1066-10">
 <w.rf>
@@ -1309,7 +1309,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m136-d1t1075-9">
 <w.rf>
@@ -1324,8 +1324,8 @@
 <LM>w#w-d1t1079-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m136-d1t1079-3">
 <w.rf>
@@ -3032,8 +3032,8 @@
 <LM>w#w-d1t1249-1</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m136-d1t1249-2">
 <w.rf>
@@ -3654,8 +3654,8 @@
 <LM>w#w-d1t1301-5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m136-d1t1301-6">
 <w.rf>
@@ -3803,7 +3803,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m136-d1t1307-9">
 <w.rf>
@@ -3859,7 +3859,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m136-d1t1310-7">
 <w.rf>
@@ -3882,7 +3882,7 @@
 <LM>w#w-d1t1310-9</LM>
 </w.rf>
 <form>utrhával</form>
-<lemma>utrhávat_^(*4at)</lemma>
+<lemma>utrhávat_^(*4at)_(*4at-2)</lemma>
 <tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m136-d1t1310-10">

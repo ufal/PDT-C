@@ -1377,7 +1377,7 @@
 </w.rf>
 <form>datováno</form>
 <lemma>datovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-vesm9303-028-p3s3w7">
 <src.rf>manual</src.rf>

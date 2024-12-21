@@ -449,7 +449,7 @@
 </w.rf>
 <form>Přespala</form>
 <lemma>přespat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m048-d1t3971-2">
 <w.rf>
@@ -1044,8 +1044,8 @@
 <LM>w#w-d1t3994-7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m048-d1t3994-8">
 <w.rf>
@@ -1100,8 +1100,8 @@
 <LM>w#w-d1t3994-15</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m048-894-914">
 <w.rf>
@@ -1838,8 +1838,8 @@
 <LM>w#w-d1t4035-3</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m048-d1t4035-4">
 <w.rf>
@@ -2084,8 +2084,8 @@
 <LM>w#w-d1t4059-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m048-d1e4045-x3-980">
 <w.rf>
@@ -2778,8 +2778,8 @@
 <LM>w#w-d1t4154-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m048-d-id199685-punct">
 <w.rf>

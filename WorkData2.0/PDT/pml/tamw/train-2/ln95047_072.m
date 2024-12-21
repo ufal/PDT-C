@@ -1801,7 +1801,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-072-p5s2w15">
 <src.rf>manual</src.rf>
@@ -2045,8 +2045,8 @@
 <LM>w#w-ln95047-072-p6s1w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-072-p6s1w20">
 <src.rf>manual</src.rf>
@@ -3166,8 +3166,8 @@
 <LM>w#w-ln95047-072-p8s2w9</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-072-p8s2w10">
 <src.rf>manual</src.rf>

@@ -571,8 +571,8 @@
 <LM>w#w-wsj0009-001-p1s3W4</LM>
 </w.rf>
 <form>vedoucím</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS7-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS7-----A----</tag>
 </m>
 <m id="m-wsj0009-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

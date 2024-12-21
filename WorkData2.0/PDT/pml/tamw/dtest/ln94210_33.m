@@ -767,8 +767,8 @@
 <LM>w#w-ln94210-33-p3s2w3</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-33-p3s2w4">
 <src.rf>manual</src.rf>

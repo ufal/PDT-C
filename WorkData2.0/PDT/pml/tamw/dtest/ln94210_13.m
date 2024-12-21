@@ -255,8 +255,8 @@
 <LM>w#w-ln94210-13-p2s1w24</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-13-p2s1w25">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94210-13-p3s1w4">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-ln94210-13-p4s1w9">
 <src.rf>manual</src.rf>
@@ -786,8 +786,8 @@
 <LM>w#w-ln94210-13-p5s1w4</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-13-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1458,8 +1458,8 @@
 <LM>w#w-ln94210-13-p7s2w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-13-p7s2w16">
 <src.rf>manual</src.rf>

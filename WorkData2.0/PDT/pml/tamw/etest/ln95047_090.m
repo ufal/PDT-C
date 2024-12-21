@@ -976,7 +976,7 @@
 <LM>w#w-ln95047-090-p3s3w6</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-090-p3s3w7">
@@ -1306,8 +1306,8 @@
 <LM>w#w-ln95047-090-p4s3w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-090-p4s3w9">
 <src.rf>manual</src.rf>
@@ -2793,7 +2793,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-090-p5s2w3">
 <src.rf>manual</src.rf>
@@ -2873,8 +2873,8 @@
 <LM>w#w-ln95047-090-p5s2w11</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95047-090-p5s2w12">
 <src.rf>manual</src.rf>

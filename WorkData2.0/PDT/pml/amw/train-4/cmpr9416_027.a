@@ -447,19 +447,17 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-cmpr9416-027-p4s2w3">
-<m.rf>m#m-cmpr9416-027-p4s2w3</m.rf>
-<afun>Adv</afun>
-<ord>3</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-cmpr9416-027-p4s2w1">
 <m.rf>m#m-cmpr9416-027-p4s2w1</m.rf>
 <afun>AuxZ</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
-</children>
+<LM id="a-cmpr9416-027-p4s2w3">
+<m.rf>m#m-cmpr9416-027-p4s2w3</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
 </LM>
 </children>
 </LM>
@@ -517,16 +515,16 @@
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-cmpr9416-027-p4s2w14">
-<m.rf>m#m-cmpr9416-027-p4s2w14</m.rf>
-<afun>Obj</afun>
-<ord>14</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-cmpr9416-027-p4s2w13">
 <m.rf>m#m-cmpr9416-027-p4s2w13</m.rf>
-<afun>Atr</afun>
+<afun>Obj</afun>
 <ord>13</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-cmpr9416-027-p4s2w14">
+<m.rf>m#m-cmpr9416-027-p4s2w14</m.rf>
+<afun>Atr</afun>
+<ord>14</ord>
 <clause_number>1</clause_number>
 </LM>
 </children>
@@ -550,7 +548,7 @@
 </LM>
 <LM id="a-cmpr9416-027-p4s2w17">
 <m.rf>m#m-cmpr9416-027-p4s2w17</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>17</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -1028,18 +1026,18 @@
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-cmpr9416-027-p4s5w11">
+<m.rf>m#m-cmpr9416-027-p4s5w11</m.rf>
+<afun>Atr</afun>
+<ord>11</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9416-027-p4s5w12">
 <m.rf>m#m-cmpr9416-027-p4s5w12</m.rf>
 <afun>Atr</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-cmpr9416-027-p4s5w11">
-<m.rf>m#m-cmpr9416-027-p4s5w11</m.rf>
-<afun>Atr</afun>
-<ord>11</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-cmpr9416-027-p4s5w13">
 <m.rf>m#m-cmpr9416-027-p4s5w13</m.rf>
 <afun>AuxG</afun>
@@ -1051,6 +1049,8 @@
 <afun>Atr</afun>
 <ord>14</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

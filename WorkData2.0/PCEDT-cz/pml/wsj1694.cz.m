@@ -88,7 +88,7 @@
 <LM>w#w-wsj1694-001-p1s0W9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj1694-001-p1s0W10-Ta">
@@ -2152,7 +2152,7 @@
 </w.rf>
 <form>reagovaly</form>
 <lemma>reagovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-wsj1694-001-p1s12W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2289,7 +2289,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1694-001-p1s13W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2599,8 +2599,8 @@
 <LM>w#w-wsj1694-001-p1s15W25</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1694-001-p1s15W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4843,7 +4843,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1694-001-p1s25W4-Ta">
 <src.rf>tagger-a</src.rf>

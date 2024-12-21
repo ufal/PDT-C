@@ -363,7 +363,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m052-175-183">
 <w.rf>
@@ -452,8 +452,8 @@
 <LM>w#w-d1t2681-1</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m052-d1t2681-2">
 <w.rf>
@@ -764,8 +764,8 @@
 <LM>w#w-d1t2710-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2710-4">
 <w.rf>
@@ -1082,8 +1082,8 @@
 <LM>w#w-d1t2737-4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2737-5">
 <w.rf>
@@ -1578,8 +1578,8 @@
 <LM>w#w-d1t2771-9</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2771-14">
 <w.rf>
@@ -3203,7 +3203,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2900-3">
 <w.rf>
@@ -3590,8 +3590,8 @@
 <LM>w#w-d1t2945-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2945-4">
 <w.rf>
@@ -4000,8 +4000,8 @@
 <LM>w#w-d1t3018-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t3018-3">
 <w.rf>
@@ -4140,8 +4140,8 @@
 <LM>w#w-d1t3053-4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t3053-3">
 <w.rf>
@@ -4230,8 +4230,8 @@
 <LM>w#w-d1t3030-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t3030-5">
 <w.rf>
@@ -4494,8 +4494,8 @@
 <LM>w#w-d1t3067-4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m052-d1t3067-5">
 <w.rf>

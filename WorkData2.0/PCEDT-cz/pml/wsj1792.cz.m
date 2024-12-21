@@ -1030,7 +1030,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj1792-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2556,8 +2556,8 @@
 <LM>w#w-wsj1792-001-p1s8W30</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1792-001-p1s8W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7047,8 +7047,8 @@
 <LM>w#w-wsj1792-001-p1s26W19</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1792-001-p1s26W20-Ta">
 <src.rf>tagger-a</src.rf>

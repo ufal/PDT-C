@@ -341,7 +341,7 @@
 </w.rf>
 <form>kabaretu</form>
 <lemma>kabaret</lemma>
-<tag>NNIS6-----A----</tag>
+<tag>NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920923-138-p2s2w22">
 <src.rf>manual</src.rf>

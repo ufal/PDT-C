@@ -2212,7 +2212,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-076-p5s6w9">
 <src.rf>manual</src.rf>
@@ -2429,8 +2429,8 @@
 <LM>w#w-mf930713-076-p5s7w14</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-mf930713-076-p5s7w15">
 <src.rf>manual</src.rf>
@@ -2665,8 +2665,8 @@
 <LM>w#w-mf930713-076-p5s8w11</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-076-p5s8w12">
 <src.rf>manual</src.rf>

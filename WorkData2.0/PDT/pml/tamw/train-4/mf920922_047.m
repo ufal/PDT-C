@@ -477,7 +477,7 @@
 </w.rf>
 <form>tisíc</form>
 <lemma>tisíc`1000</lemma>
-<tag>CzIS4----------</tag>
+<tag>CzIS1----------</tag>
 </m>
 <m id="m-mf920922-047-p12s1w4">
 <src.rf>manual</src.rf>

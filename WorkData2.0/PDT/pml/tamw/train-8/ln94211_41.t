@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_41.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -51,7 +51,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94211-41-p1s1w2">
 <a>
@@ -194,6 +194,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -206,7 +207,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s1Bw1">
 <a>
@@ -387,7 +388,7 @@
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w1074f1</val_frame.rf>
+<val_frame.rf>v#v41awiB</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s1Bw14">
 <a>
@@ -474,7 +475,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w6015f1</val_frame.rf>
+<val_frame.rf>v#v41klwA</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s2w1">
 <a>
@@ -633,7 +634,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w8784f1</val_frame.rf>
+<val_frame.rf>v#v41psqB</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s3w1">
 <a>
@@ -808,6 +809,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-41-p2s4w6</LM>
@@ -819,7 +821,7 @@ chybný tvar infinitivu,
 má být putovat,
 poputují je 
 syntetické futurum</discourse_comment>
-<val_frame.rf>v#v-w3898f1</val_frame.rf>
+<val_frame.rf>v#v41gikA</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s4w1">
 <a>
@@ -878,15 +880,16 @@ syntetické futurum</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w3898f1</val_frame.rf>
+<val_frame.rf>v#v41gikA</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s4w6">
 <a>
 <lex.rf>a#a-ln94211-41-p2s4w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>potom</t_lemma>
+<t_lemma>poté</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>potom</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -972,7 +975,7 @@ syntetické futurum</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w3898f1</val_frame.rf>
+<val_frame.rf>v#v41gikA</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s4w37">
 <a>
@@ -1052,7 +1055,7 @@ syntetické futurum</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w3898f1</val_frame.rf>
+<val_frame.rf>v#v41gikA</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s4w21">
 <a>
@@ -1156,6 +1159,7 @@ syntetické futurum</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-41-p2s4w42</LM>
@@ -1171,7 +1175,7 @@ syntetické futurum</discourse_comment>
 </LM>
 </discourse>
 <discourse_comment>konektor+secondary</discourse_comment>
-<val_frame.rf>v#v-w3898f1</val_frame.rf>
+<val_frame.rf>v#v41gikA</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s4w29">
 <a>
@@ -1251,7 +1255,7 @@ syntetické futurum</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>27</deepord>
-<val_frame.rf>v#v-w3898f1</val_frame.rf>
+<val_frame.rf>v#v41gikA</val_frame.rf>
 <children>
 <LM id="t-ln94211-41-p2s4w42">
 <a>

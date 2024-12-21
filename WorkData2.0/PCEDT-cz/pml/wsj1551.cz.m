@@ -2620,8 +2620,8 @@
 <LM>w#w-wsj1551-001-p1s13W19</LM>
 </w.rf>
 <form>obchodně</form>
-<lemma>obchodně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>obchodně-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-wsj1551-001-p1s13W20-Ta">
 <src.rf>tagger-a</src.rf>

@@ -619,8 +619,8 @@
 <LM>w#w-vesm9303-008-p1s4w5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-008-p1s4w6">
 <src.rf>manual</src.rf>
@@ -3024,7 +3024,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9303-008-p1s19w5">
 <src.rf>manual</src.rf>

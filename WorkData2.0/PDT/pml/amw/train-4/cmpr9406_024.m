@@ -1790,8 +1790,8 @@
 <LM>w#w-cmpr9406-024-p9s1Bw17</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9406-024-p9s1Bw18">
 <src.rf>manual</src.rf>

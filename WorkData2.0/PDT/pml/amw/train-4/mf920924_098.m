@@ -612,8 +612,8 @@
 <LM>w#w-mf920924-098-p4s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-098-p4s2w2">
 <src.rf>manual</src.rf>
@@ -2035,8 +2035,8 @@
 <LM>w#w-mf920924-098-p7s1w21</LM>
 </w.rf>
 <form>Traner</form>
-<lemma>Traner-1_;Y</lemma>
-<tag>NNMS1-----A----</tag>
+<lemma>Traner-2_;m</lemma>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m-mf920924-098-p7s1w22">
 <src.rf>manual</src.rf>

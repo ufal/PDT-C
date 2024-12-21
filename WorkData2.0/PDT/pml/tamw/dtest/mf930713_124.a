@@ -18,7 +18,7 @@
 <children>
 <LM id="a-mf930713-124-p1s1w1">
 <m.rf>m#m-mf930713-124-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -67,13 +67,13 @@
 <children>
 <LM id="a-mf930713-124-p2s1Aw1">
 <m.rf>m#m-mf930713-124-p2s1Aw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf930713-124-p2s1Aw2">
 <m.rf>m#m-mf930713-124-p2s1Aw2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -402,15 +402,15 @@
 <ord>15</ord>
 <clause_number>2</clause_number>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-mf930713-124-p3s1w17">
 <m.rf>m#m-mf930713-124-p3s1w17</m.rf>
 <afun>AuxG</afun>
 <ord>17</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -451,18 +451,18 @@
 <ord>23</ord>
 <clause_number>3</clause_number>
 <children>
-<LM id="a-mf930713-124-p3s1w27">
-<m.rf>m#m-mf930713-124-p3s1w27</m.rf>
-<afun>Adv</afun>
-<ord>27</ord>
-<clause_number>3</clause_number>
-<children>
 <LM id="a-mf930713-124-p3s1w22">
 <m.rf>m#m-mf930713-124-p3s1w22</m.rf>
 <afun>AuxZ</afun>
 <ord>22</ord>
 <clause_number>3</clause_number>
 </LM>
+<LM id="a-mf930713-124-p3s1w27">
+<m.rf>m#m-mf930713-124-p3s1w27</m.rf>
+<afun>Adv</afun>
+<ord>27</ord>
+<clause_number>3</clause_number>
+<children>
 <LM id="a-mf930713-124-p3s1w24">
 <m.rf>m#m-mf930713-124-p3s1w24</m.rf>
 <afun>Atr</afun>
@@ -514,7 +514,7 @@
 <children>
 <LM id="a-mf930713-124-p3s1w32">
 <m.rf>m#m-mf930713-124-p3s1w32</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>32</ord>
 <clause_number>4</clause_number>
 </LM>
@@ -599,7 +599,7 @@
 <children>
 <LM id="a-mf930713-124-p4s1w6">
 <m.rf>m#m-mf930713-124-p4s1w6</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -674,7 +674,7 @@
 <children>
 <LM id="a-mf930713-124-p4s1w17">
 <m.rf>m#m-mf930713-124-p4s1w17</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>17</ord>
 <clause_number>1</clause_number>
 <children>

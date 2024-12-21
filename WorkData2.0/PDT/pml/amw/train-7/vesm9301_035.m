@@ -753,8 +753,8 @@
 <LM>w#w-vesm9301-035-p6s2w10</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-035-p6s2w11">
 <src.rf>manual</src.rf>
@@ -1650,7 +1650,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-035-p10s2w5">
 <src.rf>manual</src.rf>
@@ -1877,7 +1877,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-035-p10s3w10">
 <src.rf>manual</src.rf>
@@ -4967,7 +4967,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-035-p21s3w20">
 <src.rf>manual</src.rf>
@@ -12572,8 +12572,8 @@
 <LM>w#w-vesm9301-035-p76s2w10</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-035-p76s2w11">
 <src.rf>manual</src.rf>
@@ -14752,7 +14752,7 @@
 <LM>w#w-vesm9301-035-p85s2w1</LM>
 </w.rf>
 <form>Zjednodušené</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-vesm9301-035-p85s2w2">
@@ -14907,8 +14907,8 @@
 <LM>w#w-vesm9301-035-p85s3w11</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-035-p85s3w12">
 <src.rf>manual</src.rf>
@@ -16277,7 +16277,7 @@
 <LM>w#w-vesm9301-035-p90s1w7</LM>
 </w.rf>
 <form>korových</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-vesm9301-035-p90s1w8">
@@ -16623,7 +16623,7 @@
 <LM>w#w-vesm9301-035-p90s2w6</LM>
 </w.rf>
 <form>korových</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-vesm9301-035-p90s2w7">
@@ -16678,7 +16678,7 @@
 </w.rf>
 <form>vizuální</form>
 <lemma>vizuální</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9301-035-p90s2w13">
 <src.rf>manual</src.rf>
@@ -16962,7 +16962,7 @@
 <LM>w#w-vesm9301-035-p92s2w5</LM>
 </w.rf>
 <form>korových</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-vesm9301-035-p92s2w6">
@@ -18087,7 +18087,7 @@
 <LM>w#w-vesm9301-035-p94s4w6</LM>
 </w.rf>
 <form>korové</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP4----1A----</tag>
 </m>
 <m id="m-vesm9301-035-p94s4w7">

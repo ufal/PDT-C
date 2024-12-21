@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_036_2.05.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="ml-25819_04.05-SCzechA-ml-25819_04-1938-root">
 <s.rf>m#m994-25819_04-1938</s.rf>
@@ -22,11 +25,6 @@
 <afun>AuxV</afun>
 <ord>2</ord>
 </LM>
-<LM id="ml-25819_04.05-SCzechA-m-d1t1646-3">
-<m.rf>m#m994-d1t1646-3</m.rf>
-<afun>Adv</afun>
-<ord>3</ord>
-</LM>
 <LM id="ml-25819_04.05-SCzechA-m-d1t1646-4">
 <m.rf>m#m994-d1t1646-4</m.rf>
 <afun>AuxP</afun>
@@ -36,6 +34,11 @@
 <m.rf>m#m994-d1t1646-5</m.rf>
 <afun>Adv</afun>
 <ord>5</ord>
+<children>
+<LM id="ml-25819_04.05-SCzechA-m-d1t1646-3">
+<m.rf>m#m994-d1t1646-3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
 </LM>
 </children>
 </LM>
@@ -45,6 +48,8 @@
 <m.rf>m#m994-d-id105427</m.rf>
 <afun>AuxK</afun>
 <ord>6</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -67,12 +72,12 @@
 <afun>Pnom</afun>
 <ord>3</ord>
 </LM>
-</children>
-</LM>
 <LM id="ml-25819_04.05-SCzechA-m-1948-1954">
 <m.rf>m#m994-1948-1954</m.rf>
 <afun>AuxK</afun>
 <ord>4</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

@@ -74,7 +74,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln94204-155-p1s1w8">
 <src.rf>manual</src.rf>

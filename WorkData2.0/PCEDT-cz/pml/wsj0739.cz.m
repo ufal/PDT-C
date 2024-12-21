@@ -1717,7 +1717,7 @@
 </w.rf>
 <form>Naneštěstí</form>
 <lemma>naneštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0739-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1744,7 +1744,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0739-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2389,7 +2389,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0739-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2463,7 +2463,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0739-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3517,7 +3517,7 @@
 </w.rf>
 <form>aktivuje</form>
 <lemma>aktivovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0739-001-p1s17W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -270,8 +270,8 @@
 <LM>w#w-wsj1036-001-p1s1W12</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1036-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -279,8 +279,8 @@
 <LM>w#w-wsj1036-001-p1s1W13</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1036-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -378,8 +378,8 @@
 <LM>w#w-wsj1036-001-p1s1W24</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1036-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1957,8 +1957,8 @@
 <LM>w#w-wsj1036-001-p1s8W1</LM>
 </w.rf>
 <form>Navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-wsj1036-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4154,7 +4154,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1036-001-p1s16W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4345,7 +4345,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1036-001-p1s17W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5151,8 +5151,8 @@
 <LM>w#w-wsj1036-001-p1s19W1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1036-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7185,8 +7185,8 @@
 <LM>w#w-wsj1036-001-p1s27W24</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1036-001-p1s27W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10831,8 +10831,8 @@
 <LM>w#w-wsj1036-001-p1s40W1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1036-001-p1s40W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13308,7 +13308,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1036-001-p1s53W5-Ta">
 <src.rf>tagger-a</src.rf>

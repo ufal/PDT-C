@@ -205,7 +205,7 @@
 <LM>w#w-mf920922-114-p2s2w11</LM>
 </w.rf>
 <form>Durynsku</form>
-<lemma>Durynsko_;G</lemma>
+<lemma>Durynsko_;G_,s_^(^DD**Duryňsko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-mf920922-114-p2s2w12">
@@ -479,8 +479,8 @@
 <LM>w#w-mf920922-114-p2s4w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920922-114-p2s4w2">
 <src.rf>manual</src.rf>

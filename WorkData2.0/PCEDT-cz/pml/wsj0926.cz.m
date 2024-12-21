@@ -834,7 +834,7 @@
 <LM>w#w-wsj0926-001-p1s4W15</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-wsj0926-001-p1s4W16-Ta">
@@ -1174,7 +1174,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0926-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1365,7 +1365,7 @@
 </w.rf>
 <form>citovala</form>
 <lemma>citovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj0926-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>

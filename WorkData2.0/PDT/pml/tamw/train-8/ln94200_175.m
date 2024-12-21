@@ -145,7 +145,7 @@
 <LM>w#w-ln94200-175-p1s1w15</LM>
 </w.rf>
 <form>Oscary</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMP7-----A----</tag>
 </m>
 <m id="m-ln94200-175-p1s1w16">

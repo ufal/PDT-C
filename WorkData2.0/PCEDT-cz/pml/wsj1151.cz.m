@@ -1362,7 +1362,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj1151-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1780,7 +1780,7 @@
 <LM>w#w-wsj1151-001-p1s8W25</LM>
 </w.rf>
 <form>rozdmýchat</form>
-<lemma>rozdmýchat</lemma>
+<lemma>rozdmýchat_,s_^(^DD**rozdmychat)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1151-001-p1s8W26-Ta">
@@ -2274,7 +2274,7 @@
 </w.rf>
 <form>zařízení</form>
 <lemma>zařízení_^(*4dit)</lemma>
-<tag>NNNP2-----A----</tag>
+<tag>NNNP4-----A----</tag>
 </m>
 <m id="m-wsj1151-001-p1s11W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2329,7 +2329,7 @@
 </w.rf>
 <form>pádu</form>
 <lemma>pád</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A---1</tag>
 </m>
 <m id="m-wsj1151-001-p1s11W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3956,8 +3956,8 @@
 <LM>w#w-wsj1151-001-p1s18W26</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1151-001-p1s18W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4240,7 +4240,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj1151-001-p1s20W19-Ta">
 <src.rf>tagger-a</src.rf>

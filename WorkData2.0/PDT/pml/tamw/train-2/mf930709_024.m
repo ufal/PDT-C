@@ -37,8 +37,8 @@
 <LM>w#w-mf930709-024-p1s1w3</LM>
 </w.rf>
 <form>strážného</form>
-<lemma>strážný-2</lemma>
-<tag>AAMS4----1A----</tag>
+<lemma>strážný-1_^(kdo_stráží,_člověk)</lemma>
+<tag>NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-024-p2s1A">
@@ -149,8 +149,8 @@
 <LM>w#w-mf930709-024-p2s1Bw7</LM>
 </w.rf>
 <form>strážného</form>
-<lemma>strážný-2</lemma>
-<tag>AAMS2----1A----</tag>
+<lemma>strážný-1_^(kdo_stráží,_člověk)</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-024-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -432,8 +432,8 @@
 <LM>w#w-mf930709-024-p2s3w1</LM>
 </w.rf>
 <form>Strážnému</form>
-<lemma>strážný-2</lemma>
-<tag>AAMS3----1A----</tag>
+<lemma>strážný-1_^(kdo_stráží,_člověk)</lemma>
+<tag>NNMS3-----A----</tag>
 </m>
 <m id="m-mf930709-024-p2s3w2">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-024-p2s3w19">
 <src.rf>manual</src.rf>
@@ -659,8 +659,8 @@
 <LM>w#w-mf930709-024-p2s4Aw4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-024-p2s4Aw5">
 <src.rf>manual</src.rf>

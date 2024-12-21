@@ -1053,8 +1053,8 @@
 <LM>w#w-ln95040-078-p3s2w15</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>s-1</lemma>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-ln95040-078-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1062,8 +1062,8 @@
 <LM>w#w-ln95040-078-p3s2w16</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln95040-078-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1770,8 +1770,8 @@
 <LM>w#w-ln95040-078-p4s1w21</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95040-078-p4s1w22">
 <src.rf>manual</src.rf>

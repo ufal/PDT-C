@@ -1164,7 +1164,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1753-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1245,7 +1245,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1753-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2959,7 +2959,7 @@
 <LM>w#w-wsj1753-001-p1s12W4</LM>
 </w.rf>
 <form>dceřinná</form>
-<lemma>dceřinný_,a_^(chybné_od_dceřiný)</lemma>
+<lemma>dceřinný_,i_^(^DS**dceřiný)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-wsj1753-001-p1s12W5-Ta">

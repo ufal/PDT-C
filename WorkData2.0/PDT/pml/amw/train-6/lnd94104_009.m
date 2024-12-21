@@ -842,7 +842,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-009-p1s5w10">
 <src.rf>manual</src.rf>
@@ -1142,7 +1142,7 @@
 <LM>w#w-lnd94104-009-p1s7w7</LM>
 </w.rf>
 <form>mnohaměsíční</form>
-<lemma>mnohaměsíční</lemma>
+<lemma>mnohaměsíční_,s_^(^DD**mnohoměsíční)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s7w8">

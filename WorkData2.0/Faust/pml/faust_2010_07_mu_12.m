@@ -543,7 +543,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="mu_12-SCzechM-p1212-s1-w16">
 <w.rf>
@@ -3563,7 +3563,7 @@
 <LM>w#w-mu_12-SCzechM-p1276-s1-w23</LM>
 </w.rf>
 <form>znova</form>
-<lemma>znova</lemma>
+<lemma>znova_,s_^(^DD**znovu)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="mu_12-SCzechM-p1276-s1-w24">

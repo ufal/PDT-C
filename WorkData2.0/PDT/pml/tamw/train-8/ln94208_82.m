@@ -37,8 +37,8 @@
 <LM>w#w-ln94208-82-p1s1w3</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-82-p1s1w4">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karadžić</form>
-<lemma>Karadžić_;Y</lemma>
+<lemma>Karadžić_;Y_,s_^(^DD**Karadžič)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-82-p3s1w3">
@@ -512,8 +512,8 @@
 <LM>w#w-ln94208-82-p3s2w10</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-82-p3s2w11">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karadžić</form>
-<lemma>Karadžić_;Y</lemma>
+<lemma>Karadžić_;Y_,s_^(^DD**Karadžič)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-82-p4s1w3">
@@ -744,8 +744,8 @@
 <LM>w#w-ln94208-82-p4s2w14</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94208-82-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1393,8 +1393,8 @@
 <LM>w#w-ln94208-82-p6s3w7</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94208-82-p6s3w8">
 <src.rf>manual</src.rf>
@@ -1947,7 +1947,7 @@
 </w.rf>
 <form>triumfovala</form>
 <lemma>triumfovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94208-82-p7s1Bw3">
 <src.rf>manual</src.rf>
@@ -2009,8 +2009,8 @@
 <LM>w#w-ln94208-82-p7s1Bw9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-82-p7s1Bw10">
 <src.rf>manual</src.rf>

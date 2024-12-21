@@ -639,8 +639,8 @@
 <LM>w#w-ln95040-028-p3s1w12</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95040-028-p3s1w13">
 <src.rf>manual</src.rf>
@@ -868,8 +868,8 @@
 <LM>w#w-ln95040-028-p3s3w4</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-028-p3s3w5">
 <src.rf>manual</src.rf>

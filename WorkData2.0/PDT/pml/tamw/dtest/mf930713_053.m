@@ -19,7 +19,7 @@
 <LM>w#w-mf930713-053-p1s1Aw1</LM>
 </w.rf>
 <form>Jazzová</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-mf930713-053-p1s1Aw2">
@@ -186,7 +186,7 @@
 <LM>w#w-mf930713-053-p1s1Bw13</LM>
 </w.rf>
 <form>Jazzová</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-mf930713-053-p1s1Bw14">
@@ -294,7 +294,7 @@
 <LM>w#w-mf930713-053-p1s1Bw25</LM>
 </w.rf>
 <form>Jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS3----1A----</tag>
 </m>
 <m id="m-mf930713-053-p1s1Bw26">
@@ -595,7 +595,7 @@
 <LM>w#w-mf930713-053-p1s3w11</LM>
 </w.rf>
 <form>Jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS3----1A----</tag>
 </m>
 <m id="m-mf930713-053-p1s3w12">
@@ -1272,8 +1272,8 @@
 <LM>w#w-mf930713-053-p2s4w23</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-053-p2s4w24">
 <src.rf>manual</src.rf>

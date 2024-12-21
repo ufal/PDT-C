@@ -644,7 +644,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln94205-73-p2s4w6">
 <src.rf>manual</src.rf>
@@ -913,8 +913,8 @@
 <LM>w#w-ln94205-73-p2s4w35</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-73-p2s4w36">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-ln94205-73-p2s7w17">
 <src.rf>manual</src.rf>
@@ -1552,7 +1552,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94205-73-p2s8w11">
 <src.rf>manual</src.rf>
@@ -3189,8 +3189,8 @@
 <LM>w#w-ln94205-73-p4s1w25</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-73-p4s1w26">
 <src.rf>manual</src.rf>
@@ -3264,7 +3264,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-73-p4s2w5">
 <src.rf>manual</src.rf>
@@ -3500,7 +3500,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94205-73-p5s1w20">
 <src.rf>manual</src.rf>
@@ -3546,8 +3546,8 @@
 <LM>w#w-ln94205-73-p5s2w2</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94205-73-p5s2w3">
 <src.rf>manual</src.rf>
@@ -4461,7 +4461,7 @@
 <LM>w#w-ln94205-73-p7s1w10</LM>
 </w.rf>
 <form>přemisťovalo</form>
-<lemma>přemisťovat</lemma>
+<lemma>přemisťovat_,s_^(^DD**přemísťovat)</lemma>
 <tag>VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-73-p7s1w11">
@@ -4790,8 +4790,8 @@
 <LM>w#w-ln94205-73-p8s1w7</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94205-73-p8s1w8">
 <src.rf>manual</src.rf>

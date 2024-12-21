@@ -211,7 +211,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd94103-092-p1s2w4">
 <src.rf>manual</src.rf>
@@ -219,8 +219,8 @@
 <LM>w#w-lnd94103-092-p1s2w4</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-092-p1s2w5">
 <src.rf>manual</src.rf>

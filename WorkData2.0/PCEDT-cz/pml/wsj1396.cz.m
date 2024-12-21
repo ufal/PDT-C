@@ -317,7 +317,7 @@
 <LM>w#w-wsj1396-001-p1s1W4</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-wsj1396-001-p1s1W5-Ta">

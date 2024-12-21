@@ -1246,7 +1246,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj1613-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2140,7 +2140,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1613-001-p1s9W15-Ta">
 <src.rf>tagger-a</src.rf>

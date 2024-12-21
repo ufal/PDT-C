@@ -542,8 +542,8 @@
 <LM>w#w-wsj0021-001-p1s2W12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0021-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-wsj0021-001-p1s5W2</LM>
 </w.rf>
 <form>vyjednavač</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0021-001-p1s5W3-Ta">

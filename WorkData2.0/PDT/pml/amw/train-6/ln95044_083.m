@@ -55,7 +55,7 @@
 <LM>w#w-ln95044-083-p1s1w5</LM>
 </w.rf>
 <form>nadechli</form>
-<lemma>nadechnout</lemma>
+<lemma>nadechnout_,s_^(^DD**nadýchnout)</lemma>
 <tag>VpMP----R-AAP-1</tag>
 </m>
 </s>
@@ -120,7 +120,7 @@
 <LM>w#w-ln95044-083-p2s1Aw7</LM>
 </w.rf>
 <form>Hesensku</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95044-083-p2s1Aw8">
@@ -176,7 +176,7 @@
 <LM>w#w-ln95044-083-p2s1Bw2</LM>
 </w.rf>
 <form>Hesensku</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95044-083-p2s1Bw3">
@@ -916,7 +916,7 @@
 <LM>w#w-ln95044-083-p2s4w6</LM>
 </w.rf>
 <form>hesenském</form>
-<lemma>hesenský</lemma>
+<lemma>hesenský_,s_^(^DD**hessenský)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-ln95044-083-p2s4w7">
@@ -1490,7 +1490,7 @@
 <LM>w#w-ln95044-083-p3s1w7</LM>
 </w.rf>
 <form>Hesensku</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95044-083-p3s1w8">
@@ -2279,7 +2279,7 @@
 <LM>w#w-ln95044-083-p4s1w1</LM>
 </w.rf>
 <form>Hesenský</form>
-<lemma>hesenský</lemma>
+<lemma>hesenský_,s_^(^DD**hessenský)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-ln95044-083-p4s1w2">
@@ -2706,7 +2706,7 @@
 <LM>w#w-ln95044-083-p4s3w12</LM>
 </w.rf>
 <form>Hesensku</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95044-083-p4s3w13">
@@ -2880,7 +2880,7 @@
 </w.rf>
 <form>angažovat</form>
 <lemma>angažovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95044-083-p4s4w19">
 <src.rf>manual</src.rf>
@@ -3414,8 +3414,8 @@
 <LM>w#w-ln95044-083-p4s6w39</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-083-p4s6w40">
 <src.rf>manual</src.rf>
@@ -3578,7 +3578,7 @@
 <LM>w#w-ln95044-083-p5s1w16</LM>
 </w.rf>
 <form>Hesensku</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95044-083-p5s1w17">
@@ -3815,7 +3815,7 @@
 </w.rf>
 <form>blokovat</form>
 <lemma>blokovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95044-083-p5s2w6">
 <src.rf>manual</src.rf>
@@ -3996,7 +3996,7 @@
 <LM>w#w-ln95044-083-p6s1w4</LM>
 </w.rf>
 <form>hesenské</form>
-<lemma>hesenský</lemma>
+<lemma>hesenský_,s_^(^DD**hessenský)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-ln95044-083-p6s1w5">
@@ -4041,7 +4041,7 @@
 <LM>w#w-ln95044-083-p6s1w9</LM>
 </w.rf>
 <form>nadechnout</form>
-<lemma>nadechnout</lemma>
+<lemma>nadechnout_,s_^(^DD**nadýchnout)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-083-p6s1w10">
@@ -4268,7 +4268,7 @@
 <LM>w#w-ln95044-083-p6s2w24</LM>
 </w.rf>
 <form>Hesensku</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95044-083-p6s2w25">
@@ -4387,7 +4387,7 @@
 <LM>w#w-ln95044-083-p6s3w9</LM>
 </w.rf>
 <form>neopravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95044-083-p6s3w10">
@@ -4596,7 +4596,7 @@
 <LM>w#w-ln95044-083-p6s4w22</LM>
 </w.rf>
 <form>Hesensku</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95044-083-p6s4w23">
@@ -4816,8 +4816,8 @@
 <LM>w#w-ln95044-083-p7s2w2</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-083-p7s2w3">
 <src.rf>manual</src.rf>

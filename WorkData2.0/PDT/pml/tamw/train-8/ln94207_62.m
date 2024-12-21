@@ -1104,8 +1104,8 @@
 <LM>w#w-ln94207-62-p3s3w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-62-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1324,8 +1324,8 @@
 <LM>w#w-ln94207-62-p3s5w8</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-62-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1524,8 +1524,8 @@
 <LM>w#w-ln94207-62-p3s6w5</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94207-62-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1686,8 +1686,8 @@
 <LM>w#w-ln94207-62-p3s6w23</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-62-p3s6w24">
 <src.rf>manual</src.rf>
@@ -2272,8 +2272,8 @@
 <LM>w#w-ln94207-62-p4s5w1</LM>
 </w.rf>
 <form>Pravda</form>
-<lemma>pravda-1</lemma>
-<tag>NNFS1-----A----</tag>
+<lemma>pravda-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-62-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2398,8 +2398,8 @@
 <LM>w#w-ln94207-62-p4s5w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-62-p4s5w16">
 <src.rf>manual</src.rf>
@@ -2481,8 +2481,8 @@
 <LM>w#w-ln94207-62-p4s6w1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-62-p4s6w2">
 <src.rf>manual</src.rf>
@@ -2955,8 +2955,8 @@
 <LM>w#w-ln94207-62-p4s9w2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-62-p4s9w3">
 <src.rf>manual</src.rf>
@@ -3144,8 +3144,8 @@
 <LM>w#w-ln94207-62-p4s9w23</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-62-p4s9w24">
 <src.rf>manual</src.rf>

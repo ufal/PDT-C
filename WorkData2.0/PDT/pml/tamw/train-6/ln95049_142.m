@@ -1396,8 +1396,8 @@
 <LM>w#w-ln95049-142-p2s9w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-142-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1522,8 +1522,8 @@
 <LM>w#w-ln95049-142-p2s9w16</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-142-p2s9w17">
 <src.rf>manual</src.rf>
@@ -2057,8 +2057,8 @@
 <LM>w#w-ln95049-142-p2s11w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-142-p2s11w16">
 <src.rf>manual</src.rf>
@@ -2158,8 +2158,8 @@
 <LM>w#w-ln95049-142-p2s12w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-142-p2s12w9">
 <src.rf>manual</src.rf>

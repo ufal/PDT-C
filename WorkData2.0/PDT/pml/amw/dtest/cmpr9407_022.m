@@ -366,7 +366,7 @@
 </w.rf>
 <form>věnovány</form>
 <lemma>věnovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-cmpr9407-022-p4s1w38">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-022-p5s3w3">
 <src.rf>manual</src.rf>
@@ -1203,7 +1203,7 @@
 <LM>w#w-cmpr9407-022-p5s4w8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9407-022-p5s4w9">
@@ -1329,8 +1329,8 @@
 <LM>w#w-cmpr9407-022-p5s4w22</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-022-p5s4w23">
 <src.rf>manual</src.rf>
@@ -1338,8 +1338,8 @@
 <LM>w#w-cmpr9407-022-p5s4w23</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9407-022-p5s4w24">
 <src.rf>manual</src.rf>
@@ -2601,8 +2601,8 @@
 <LM>w#w-cmpr9407-022-p8s4w8</LM>
 </w.rf>
 <form>pomocí</form>
-<lemma>pomoc</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>pomocí</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-022-p8s4w9">
 <src.rf>manual</src.rf>

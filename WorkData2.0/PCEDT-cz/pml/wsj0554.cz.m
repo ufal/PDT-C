@@ -1058,8 +1058,8 @@
 <LM>w#w-wsj0554-001-p1s3W25</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0554-001-p1s3W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1312,8 +1312,8 @@
 <LM>w#w-wsj0554-001-p1s4W12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0554-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2356,8 +2356,8 @@
 <LM>w#w-wsj0554-001-p1s8W17</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0554-001-p1s8W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2449,7 +2449,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0554-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3040,7 +3040,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0554-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3819,8 +3819,8 @@
 <LM>w#w-wsj0554-001-p1s15W3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0554-001-p1s15W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4388,8 +4388,8 @@
 <LM>w#w-wsj0554-001-p1s16W33</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0554-001-p1s16W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4808,8 +4808,8 @@
 <LM>w#w-wsj0554-001-p1s19W18</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0554-001-p1s19W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5813,8 +5813,8 @@
 <LM>w#w-wsj0554-001-p1s22W30</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0554-001-p1s22W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6251,8 +6251,8 @@
 <LM>w#w-wsj0554-001-p1s25W3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0554-001-p1s25W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7104,7 +7104,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0554-001-p1s28W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7830,7 +7830,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0554-001-p1s31W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8610,7 +8610,7 @@
 </w.rf>
 <form>minimalizoval</form>
 <lemma>minimalizovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0554-001-p1s34W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8800,7 +8800,7 @@
 <LM>w#w-wsj0554-001-p1s35W8</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0554-001-p1s35W9-Ta">
@@ -10511,8 +10511,8 @@
 <LM>w#w-wsj0554-001-p1s44W5</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj0554-001-p1s44W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11000,8 +11000,8 @@
 <LM>w#w-wsj0554-001-p1s45W22</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0554-001-p1s45W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11200,8 +11200,8 @@
 <LM>w#w-wsj0554-001-p1s46W11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0554-001-p1s46W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -697,8 +697,8 @@
 <LM>w#w-ln95049-043-p3s1w4</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-043-p3s1w5">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 </w.rf>
 <form>Partenkirchenu</form>
 <lemma>Partenkirchen_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-043-p3s2w22">
 <src.rf>manual</src.rf>

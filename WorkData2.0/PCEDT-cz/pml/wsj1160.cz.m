@@ -705,8 +705,8 @@
 <LM>w#w-wsj1160-001-p1s2W16</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1160-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -860,7 +860,7 @@
 </w.rf>
 <form>věnován</form>
 <lemma>věnovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj1160-001-p1s2W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2269,7 +2269,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1160-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2441,8 +2441,8 @@
 <LM>w#w-wsj1160-001-p1s10W10</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1160-001-p1s10W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2486,8 +2486,8 @@
 <LM>w#w-wsj1160-001-p1s10W15</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1160-001-p1s10W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4824,7 +4824,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1160-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6718,8 +6718,8 @@
 <LM>w#w-wsj1160-001-p1s29W25</LM>
 </w.rf>
 <form>poškozených</form>
-<lemma>poškozený_^(*4dit)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>poškozený-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1160-001-p1s29W26-Ta">
 <src.rf>tagger-a</src.rf>

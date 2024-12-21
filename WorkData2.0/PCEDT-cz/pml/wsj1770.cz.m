@@ -107,7 +107,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1770-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1061,7 +1061,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1770-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1648,7 +1648,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1770-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2467,7 +2467,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1770-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>

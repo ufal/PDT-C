@@ -208,7 +208,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-wsj0680-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -289,7 +289,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0680-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -530,8 +530,8 @@
 <LM>w#w-wsj0680-001-p1s5W1</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-33</lemma>
-<tag>Q3-------------</tag>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0680-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>

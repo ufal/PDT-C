@@ -188,8 +188,8 @@
 <LM>w#w-jh_09-SCzechM-p0876-s1-w1</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0876-s1-w2">
 <w.rf>
@@ -228,8 +228,8 @@
 <LM>w#w-jh_09-SCzechM-p0876-s1-w6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0876-s1-w7">
 <w.rf>
@@ -276,8 +276,8 @@
 <LM>w#w-jh_09-SCzechM-p0876-s1-w12</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0876-s1-w13">
 <w.rf>
@@ -333,8 +333,8 @@
 <LM>w#w-jh_09-SCzechM-p0876-s1-w19</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0876-s1-w20">
 <w.rf>
@@ -1156,8 +1156,8 @@
 <LM>w#w-jh_09-SCzechM-p0896-s1-w7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0896-s1-w8">
 <w.rf>
@@ -1443,7 +1443,9 @@
 </m>
 <m id="jh_09-SCzechM-p0897-s1-w8">
 <w.rf>
+<LM>w#w-jh_09-SCzechM-p0897-s1-w7</LM>
 <LM>w#w-jh_09-SCzechM-p0897-s1-w8</LM>
+<LM>w#w-jh_09-SCzechM-p0897-s1-w9</LM>
 </w.rf>
 <form>6.96</form>
 <lemma>6.96</lemma>
@@ -1861,8 +1863,8 @@
 <LM>w#w-jh_09-SCzechM-p0901-s1-w11</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="jh_09-SCzechM-p0901-s1-w12">
 <w.rf>
@@ -1917,7 +1919,7 @@
 <LM>w#w-jh_09-SCzechM-p0901-s1-w18</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0901-s1-w19">
@@ -2243,7 +2245,7 @@
 <LM>w#w-jh_09-SCzechM-p0913-s1-w10</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0913-s1-w11">
@@ -2365,8 +2367,8 @@
 <LM>w#w-jh_09-SCzechM-p0914-s1-w3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0914-s1-w4">
 <w.rf>
@@ -2483,8 +2485,8 @@
 <LM>w#w-jh_09-SCzechM-p0924-s1-w1</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0924-s1-w2">
 <w.rf>
@@ -3279,7 +3281,7 @@
 <LM>w#w-jh_09-SCzechM-p0941-s1-w8</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať</lemma>
+<lemma>ať-3</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0941-s1-w9">

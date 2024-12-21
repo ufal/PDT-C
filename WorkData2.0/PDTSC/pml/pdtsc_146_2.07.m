@@ -101,7 +101,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m146-567-918">
 <w.rf>
@@ -125,7 +125,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1273-18">
 <w.rf>
@@ -1056,8 +1056,8 @@
 <LM>w#w-d1t1332-11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1332-12">
 <w.rf>
@@ -1194,8 +1194,8 @@
 <LM>w#w-d1t1334-15</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1334-16">
 <w.rf>
@@ -1276,8 +1276,8 @@
 <LM>w#w-d1t1334-25</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1334-26">
 <w.rf>
@@ -1626,8 +1626,8 @@
 <LM>w#w-d1t1345-8</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1345-7">
 <w.rf>
@@ -1896,8 +1896,8 @@
 <LM>w#w-d1t1357-2</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1357-3">
 <w.rf>
@@ -2003,7 +2003,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m146-d1t1357-20">
 <w.rf>
@@ -2438,8 +2438,8 @@
 <LM>w#w-d1t1383-5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1383-6">
 <w.rf>
@@ -2690,8 +2690,8 @@
 <LM>w#w-d1t1413-8</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m146-d1t1413-9">
 <w.rf>
@@ -3051,7 +3051,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m146-d1t1421-13">
 <w.rf>

@@ -252,8 +252,8 @@
 <LM>w#w-wsj0059-001-p1s1W10</LM>
 </w.rf>
 <form>vlivem</form>
-<lemma>vliv</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>vlivem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0059-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3041,8 +3041,8 @@
 <LM>w#w-wsj0059-001-p1s9W42</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0059-001-p1s9W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4847,7 +4847,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0059-001-p1s16W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5020,7 +5020,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0059-001-p1s17W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5774,8 +5774,8 @@
 <LM>w#w-wsj0059-001-p1s20W10</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0059-001-p1s20W11-Ta">
 <src.rf>tagger-a</src.rf>

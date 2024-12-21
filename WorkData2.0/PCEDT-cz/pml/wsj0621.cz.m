@@ -1675,8 +1675,8 @@
 <LM>w#w-wsj0621-001-p1s6W4</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-1_^(2_až_3)</lemma>
-<tag>J^-------------</tag>
+<lemma>až-3_^(až_k_...,_až_dost)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0621-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>

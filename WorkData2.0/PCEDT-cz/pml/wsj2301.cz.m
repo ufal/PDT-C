@@ -178,8 +178,8 @@
 <LM>w#w-wsj2301-001-p1s0W19</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2301-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -496,7 +496,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2301-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>

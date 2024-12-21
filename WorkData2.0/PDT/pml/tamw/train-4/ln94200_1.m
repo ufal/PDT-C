@@ -349,8 +349,8 @@
 <LM>w#w-ln94200-1-p2s3w4</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-1-p2s3w5">
 <src.rf>manual</src.rf>
@@ -659,8 +659,8 @@
 <LM>w#w-ln94200-1-p2s5w15</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-1-p2s5w16">
 <src.rf>manual</src.rf>

@@ -861,7 +861,7 @@
 <LM>w#w-ln95043-095-p2s7w8</LM>
 </w.rf>
 <form>mnohahodinové</form>
-<lemma>mnohahodinový</lemma>
+<lemma>mnohahodinový_,s_^(^DD**mnohohodinový)</lemma>
 <tag>AAFP4----1A----</tag>
 </m>
 <m id="m-ln95043-095-p2s7w9">
@@ -1007,8 +1007,8 @@
 <LM>w#w-ln95043-095-p2s8w1</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-095-p2s8w2">
 <src.rf>manual</src.rf>

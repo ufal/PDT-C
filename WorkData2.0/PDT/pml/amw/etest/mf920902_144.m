@@ -38,7 +38,7 @@
 </w.rf>
 <form>Abcházové</form>
 <lemma>Abcház_;E</lemma>
-<tag>NNMP1-----A---1</tag>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-144-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -387,8 +387,8 @@
 <LM>w#w-mf920902-144-p2s3w21</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-144-p2s3w22">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-mf920902-144-p2s3w22</LM>
 </w.rf>
 <form>abchazského</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-mf920902-144-p2s3w23">
@@ -443,7 +443,7 @@
 <LM>w#w-mf920902-144-p2s4w1</LM>
 </w.rf>
 <form>Abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-mf920902-144-p2s4w2">
@@ -497,7 +497,7 @@
 <LM>w#w-mf920902-144-p2s4w7</LM>
 </w.rf>
 <form>abchazským</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAFP3----1A----</tag>
 </m>
 <m id="m-mf920902-144-p2s4w8">
@@ -670,7 +670,7 @@
 <LM>w#w-mf920902-144-p3s1w12</LM>
 </w.rf>
 <form>abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AANS4----1A----</tag>
 </m>
 <m id="m-mf920902-144-p3s1w13">
@@ -860,7 +860,7 @@
 </w.rf>
 <form>blokována</form>
 <lemma>blokovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-mf920902-144-p3s1w35">
 <src.rf>manual</src.rf>

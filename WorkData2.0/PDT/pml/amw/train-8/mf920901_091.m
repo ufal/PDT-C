@@ -165,7 +165,7 @@
 <LM>w#w-mf920901-091-p2s1w13</LM>
 </w.rf>
 <form>jazz</form>
-<lemma>jazz</lemma>
+<lemma>jazz_,s_^(^DD**džez)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-mf920901-091-p2s1w14">

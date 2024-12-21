@@ -270,8 +270,8 @@
 <LM>w#w-ln94208-12-p2s3w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-12-p2s3w2">
 <src.rf>manual</src.rf>
@@ -434,8 +434,8 @@
 <LM>w#w-ln94208-12-p3s1w9</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-12-p3s1w10">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94208-12-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1843,8 +1843,8 @@
 <LM>w#w-ln94208-12-p5s3w7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-12-p5s3w8">
 <src.rf>manual</src.rf>

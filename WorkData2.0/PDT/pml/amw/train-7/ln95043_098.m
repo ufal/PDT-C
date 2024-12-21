@@ -895,7 +895,7 @@
 <LM>w#w-ln95043-098-p2s5w15</LM>
 </w.rf>
 <form>spjaté</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-ln95043-098-p2s5w16">
@@ -1241,8 +1241,8 @@
 <LM>w#w-ln95043-098-p2s7w6</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-098-p2s7w7">
 <src.rf>manual</src.rf>
@@ -4204,7 +4204,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-098-p6s3w4">
 <src.rf>manual</src.rf>
@@ -4275,8 +4275,8 @@
 <LM>w#w-ln95043-098-p6s3w11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95043-098-p6s3w12">
 <src.rf>manual</src.rf>

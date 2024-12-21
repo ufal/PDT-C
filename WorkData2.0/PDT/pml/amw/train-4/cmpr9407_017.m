@@ -230,7 +230,7 @@
 <LM>w#w-cmpr9407-017-p4s1w12</LM>
 </w.rf>
 <form>využíváním</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS7-----A----</tag>
 </m>
 <m id="m-cmpr9407-017-p4s1w13">
@@ -320,7 +320,7 @@
 <LM>w#w-cmpr9407-017-p4s1w22</LM>
 </w.rf>
 <form>využívaných</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-cmpr9407-017-p4s1w23">
@@ -1288,7 +1288,7 @@
 <LM>w#w-cmpr9407-017-p10s1w10</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-017-p10s1w11">
@@ -3220,7 +3220,7 @@
 <LM>w#w-cmpr9407-017-p13s5w14</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-017-p13s5w15">
@@ -3402,7 +3402,7 @@
 <LM>w#w-cmpr9407-017-p13s6w10</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGFS7-----A----</tag>
 </m>
 <m id="m-cmpr9407-017-p13s6w11">
@@ -3456,7 +3456,7 @@
 <LM>w#w-cmpr9407-017-p13s6w16</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-017-p13s6w17">
@@ -3677,7 +3677,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-017-p14s1w4">
 <src.rf>manual</src.rf>
@@ -3922,7 +3922,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-017-p14s2w21">
 <src.rf>manual</src.rf>
@@ -6152,8 +6152,8 @@
 <LM>w#w-cmpr9407-017-p18s3w5</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-017-p18s3w6">
 <src.rf>manual</src.rf>
@@ -6355,7 +6355,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-017-p18s5w3">
 <src.rf>manual</src.rf>
@@ -7062,8 +7062,8 @@
 <LM>w#w-cmpr9407-017-p19s2w10</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-017-p19s2w11">
 <src.rf>manual</src.rf>
@@ -7628,7 +7628,7 @@
 <LM>w#w-cmpr9407-017-p22s2w18</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-017-p22s2w19">

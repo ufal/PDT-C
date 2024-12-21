@@ -455,8 +455,8 @@
 <LM>w#w-mf920902-048-p2s2w25</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-048-p2s2w26">
 <src.rf>manual</src.rf>
@@ -2679,8 +2679,8 @@
 <LM>w#w-mf920902-048-p5s4w10</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-048-p5s4w11">
 <src.rf>manual</src.rf>

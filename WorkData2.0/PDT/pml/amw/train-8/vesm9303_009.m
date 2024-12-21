@@ -792,7 +792,7 @@
 <LM>w#w-vesm9303-009-p1s3w27</LM>
 </w.rf>
 <form>neodpírali</form>
-<lemma>odpírat</lemma>
+<lemma>odpírat_,s_^(^DD**odepírat)</lemma>
 <tag>VpMP----R-NAI--</tag>
 </m>
 <m id="m-vesm9303-009-p1s3w28">
@@ -1284,8 +1284,8 @@
 <LM>w#w-vesm9303-009-p1s5Bw4</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-009-p1s5Bw5">
 <src.rf>manual</src.rf>
@@ -3671,7 +3671,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-009-p1s15w23">
 <src.rf>manual</src.rf>

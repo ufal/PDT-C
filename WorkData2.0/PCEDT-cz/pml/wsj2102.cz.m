@@ -263,7 +263,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2102-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -811,7 +811,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2102-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-wsj2102-001-p1s6W10</LM>
 </w.rf>
 <form>baseballové</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-wsj2102-001-p1s6W11-Ta">
@@ -1797,8 +1797,8 @@
 <LM>w#w-wsj2102-001-p1s8W13</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2102-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1979,8 +1979,8 @@
 <LM>w#w-wsj2102-001-p1s9W5</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2102-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2132,8 +2132,8 @@
 <LM>w#w-wsj2102-001-p1s9W22</LM>
 </w.rf>
 <form>otřeseno</form>
-<lemma>otřesený</lemma>
-<tag>ACNS------A----</tag>
+<lemma>otřást</lemma>
+<tag>VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj2102-001-p1s9W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4121,8 +4121,8 @@
 <LM>w#w-wsj2102-001-p1s18W19</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2102-001-p1s18W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4223,7 +4223,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2102-001-p1s19W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7465,7 +7465,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2102-001-p1s33W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8109,7 +8109,7 @@
 <LM>w#w-wsj2102-001-p1s36W8</LM>
 </w.rf>
 <form>Medellinské</form>
-<lemma>medellinský</lemma>
+<lemma>medellinský_,s_^(^DD**medellínský)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-wsj2102-001-p1s36W9-Ta">

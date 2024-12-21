@@ -5100,8 +5100,8 @@
 <LM>w#w-ln95044-073-p5s13w13</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-073-p5s13w14">
 <src.rf>manual</src.rf>
@@ -7119,8 +7119,8 @@
 <LM>w#w-ln95044-073-p6s14w8</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-073-p6s14w9">
 <src.rf>manual</src.rf>

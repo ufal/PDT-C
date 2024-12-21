@@ -75,6 +75,8 @@
 <afun>Atr</afun>
 <ord>9</ord>
 </LM>
+</children>
+</LM>
 <LM id="a-wsj1384-001-p1s0W11-Ta">
 <m.rf>m#m-wsj1384-001-p1s0W11-Ta</m.rf>
 <afun>AuxP</afun>
@@ -82,10 +84,8 @@
 <children>
 <LM id="a-wsj1384-001-p1s0W12-Ta">
 <m.rf>m#m-wsj1384-001-p1s0W12-Ta</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <ord>12</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -191,10 +191,9 @@
 <children>
 <LM id="a-wsj1384-001-p1s0W30-Ta">
 <m.rf>m#m-wsj1384-001-p1s0W30-Ta</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>30</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -210,6 +209,8 @@
 <m.rf>m#m-wsj1384-001-p1s0W31-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>31</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

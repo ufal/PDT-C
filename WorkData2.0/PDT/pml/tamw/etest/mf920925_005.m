@@ -210,8 +210,8 @@
 <LM>w#w-mf920925-005-p2s1w19</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-005-p2s1w20">
 <src.rf>manual</src.rf>
@@ -237,8 +237,8 @@
 <LM>w#w-mf920925-005-p2s1w22</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-005-p2s1w23">
 <src.rf>manual</src.rf>
@@ -356,8 +356,8 @@
 <LM>w#w-mf920925-005-p2s2w7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-005-p2s2w8">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-005-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-005-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1648,7 +1648,7 @@
 <LM>w#w-mf920925-005-p6s2w8</LM>
 </w.rf>
 <form>napjaté</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-mf920925-005-p6s2w9">
@@ -1911,8 +1911,8 @@
 <LM>w#w-mf920925-005-p6s3w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-005-p6s3w11">
 <src.rf>manual</src.rf>
@@ -2193,7 +2193,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-005-p7s1w16">
 <src.rf>manual</src.rf>
@@ -2293,7 +2293,7 @@
 <LM>w#w-mf920925-005-p7s2w9</LM>
 </w.rf>
 <form>vypjatá</form>
-<lemma>vypjatý</lemma>
+<lemma>vypjatý_,s_^(^DD**vypnutý)</lemma>
 <tag>AANP1----1A----</tag>
 </m>
 <m id="m-mf920925-005-p7s2w10">
@@ -2838,7 +2838,7 @@
 </w.rf>
 <form>utéci</form>
 <lemma>utéci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920925-005-p7s4w8">
 <src.rf>manual</src.rf>
@@ -3048,8 +3048,8 @@
 <LM>w#w-mf920925-005-p8s1w9</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-005-p8s1w10">
 <src.rf>manual</src.rf>

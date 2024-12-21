@@ -1131,8 +1131,8 @@
 <LM>w#w-wsj0183-001-p1s4W18</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0183-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>

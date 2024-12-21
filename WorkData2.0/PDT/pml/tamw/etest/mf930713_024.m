@@ -95,8 +95,8 @@
 <LM>w#w-mf930713-024-p2s1Bw4</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf930713-024-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -801,8 +801,8 @@
 <LM>w#w-mf930713-024-p2s3w8</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-024-p2s3w9">
 <src.rf>manual</src.rf>
@@ -1931,8 +1931,8 @@
 <LM>w#w-mf930713-024-p2s9w6</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-024-p2s9w7">
 <src.rf>manual</src.rf>
@@ -2095,8 +2095,8 @@
 <LM>w#w-mf930713-024-p2s10w7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-024-p2s10w8">
 <src.rf>manual</src.rf>

@@ -1162,7 +1162,7 @@
 <LM>w#w-wsj2264-001-p1s6W3</LM>
 </w.rf>
 <form>nevěstí</form>
-<lemma>věstit</lemma>
+<lemma>věstit_,s_^(^DD**věštit)</lemma>
 <tag>VB-S---3P-NAI--</tag>
 </m>
 <m id="m-wsj2264-001-p1s6W4-Ta">
@@ -4107,8 +4107,8 @@
 <LM>w#w-wsj2264-001-p1s20W18</LM>
 </w.rf>
 <form>spoluobžalovaní</form>
-<lemma>spoluobžalovaný_^(*2t)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>spoluobžalovaný-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj2264-001-p1s20W19-Ta">
 <src.rf>tagger-a</src.rf>

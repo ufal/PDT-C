@@ -350,7 +350,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-144-p2s3w2">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-144-p3s1w2">
 <src.rf>manual</src.rf>
@@ -718,8 +718,8 @@
 <LM>w#w-ln94200-144-p3s3w2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-144-p3s3w3">
 <src.rf>manual</src.rf>
@@ -790,8 +790,8 @@
 <LM>w#w-ln94200-144-p3s3w10</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-144-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1448,8 +1448,8 @@
 <LM>w#w-ln94200-144-p4s4w17</LM>
 </w.rf>
 <form>blízkých</form>
-<lemma>blízký</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>blízký-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-144-p4s4w18">
 <src.rf>manual</src.rf>

@@ -553,8 +553,8 @@
 <LM>w#w-wsj0511-001-p1s3W20</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0511-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -673,7 +673,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0511-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>

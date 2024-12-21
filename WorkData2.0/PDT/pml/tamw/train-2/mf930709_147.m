@@ -1049,7 +1049,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-147-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1129,8 +1129,8 @@
 <LM>w#w-mf930709-147-p2s5w18</LM>
 </w.rf>
 <form>neprodleně</form>
-<lemma>prodleně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>neprodleně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-mf930709-147-p2s5w19">
 <src.rf>manual</src.rf>

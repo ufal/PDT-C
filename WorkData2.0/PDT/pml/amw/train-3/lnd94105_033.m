@@ -1260,7 +1260,7 @@
 </w.rf>
 <form>přesáhl</form>
 <lemma>přesáhnout</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-033-p1s9w21">
 <src.rf>manual</src.rf>

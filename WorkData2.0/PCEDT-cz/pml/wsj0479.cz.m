@@ -686,7 +686,7 @@
 </w.rf>
 <form>jedné</form>
 <lemma>jeden`1</lemma>
-<tag>CnFS2----------</tag>
+<tag>CnFS6----------</tag>
 </m>
 <m id="m-wsj0479-001-p1s1W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -695,7 +695,7 @@
 </w.rf>
 <form>těžební</form>
 <lemma>těžební</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>AAFS6----1A----</tag>
 </m>
 <m id="m-wsj0479-001-p1s1W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -704,7 +704,7 @@
 </w.rf>
 <form>oblasti</form>
 <lemma>oblast</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj0479-001-p1s1W35-Ta">
 <src.rf>tagger-a</src.rf>

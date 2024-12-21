@@ -1565,8 +1565,8 @@
 <LM>w#w-wsj1014-001-p1s5W44</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1014-001-p1s5W45-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1574,8 +1574,8 @@
 <LM>w#w-wsj1014-001-p1s5W45</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1014-001-p1s5W46-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4512,8 +4512,8 @@
 <LM>w#w-wsj1014-001-p1s15W10</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1014-001-p1s15W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4685,7 +4685,7 @@
 <LM>w#w-wsj1014-001-p1s16W3</LM>
 </w.rf>
 <form>žargonem</form>
-<lemma>žargon</lemma>
+<lemma>žargon_,s_^(^DD**žargón)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-wsj1014-001-p1s16W4-Ta">
@@ -5918,8 +5918,8 @@
 <LM>w#w-wsj1014-001-p1s20W24</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1014-001-p1s20W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7161,8 +7161,8 @@
 <LM>w#w-wsj1014-001-p1s24W14</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1014-001-p1s24W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7717,7 +7717,7 @@
 <LM>w#w-wsj1014-001-p1s27W1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj1014-001-p1s27W2-Ta">

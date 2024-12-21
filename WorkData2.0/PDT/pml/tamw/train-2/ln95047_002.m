@@ -553,8 +553,8 @@
 <LM>w#w-ln95047-002-p2s4w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-002-p2s4w10">
 <src.rf>manual</src.rf>
@@ -924,8 +924,8 @@
 <LM>w#w-ln95047-002-p3s1w38</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-002-p3s1w39">
 <src.rf>manual</src.rf>
@@ -1461,8 +1461,8 @@
 <LM>w#w-ln95047-002-p4s1w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-002-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1625,7 +1625,7 @@
 <LM>w#w-ln95047-002-p4s2w14</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-002-p4s2w15">
@@ -1924,8 +1924,8 @@
 <LM>w#w-ln95047-002-p5s1w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-002-p5s1w12">
 <src.rf>manual</src.rf>

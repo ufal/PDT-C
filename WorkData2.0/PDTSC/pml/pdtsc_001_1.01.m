@@ -246,8 +246,8 @@
 <LM>w#w-d1t405-12</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t405-13">
 <w.rf>
@@ -320,8 +320,8 @@
 <LM>w#w-d1t411-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t411-3">
 <w.rf>
@@ -2104,8 +2104,8 @@
 <LM>w#w-d1t502-9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t502-10">
 <w.rf>
@@ -3420,8 +3420,8 @@
 <LM>w#w-d1t586-7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t586-8">
 <w.rf>
@@ -3814,8 +3814,8 @@
 <LM>w#w-d1t632-8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t632-9">
 <w.rf>
@@ -3886,8 +3886,8 @@
 <LM>w#w-d1t632-18</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-5_^(př._co_nejméně,_co_nevidět_atd.)</lemma>
-<tag>Db-------------</tag>
+<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m784-d1t632-19">
 <w.rf>
@@ -4435,7 +4435,7 @@
 </w.rf>
 <form>což</form>
 <lemma>což-1</lemma>
-<tag>PQ--4----------</tag>
+<tag>PQ--1----------</tag>
 </m>
 <m id="m784-d1t667-2">
 <w.rf>
@@ -4580,8 +4580,8 @@
 <LM>w#w-d1t669-17</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m784-d1t669-18">
 <w.rf>
@@ -4961,7 +4961,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m784-d1t701-10">
 <w.rf>
@@ -5228,8 +5228,8 @@
 <LM>w#w-d1t718-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t718-3">
 <w.rf>
@@ -5886,8 +5886,8 @@
 <LM>w#w-d1t777-1</LM>
 </w.rf>
 <form>Proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m784-d1t777-2">
 <w.rf>
@@ -5926,8 +5926,8 @@
 <LM>w#w-d1t777-6</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t777-7">
 <w.rf>
@@ -5958,8 +5958,8 @@
 <LM>w#w-d1t779-1</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t779-2">
 <w.rf>

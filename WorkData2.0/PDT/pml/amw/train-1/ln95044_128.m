@@ -28,7 +28,7 @@
 <LM>w#w-ln95044-128-p1s1w2</LM>
 </w.rf>
 <form>Durynsku</form>
-<lemma>Durynsko_;G</lemma>
+<lemma>Durynsko_;G_,s_^(^DD**Duryňsko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95044-128-p1s1w3">
@@ -95,7 +95,7 @@
 <LM>w#w-ln95044-128-p2s1Bw2</LM>
 </w.rf>
 <form>durynském</form>
-<lemma>durynský</lemma>
+<lemma>durynský_,s_^(^DD**duryňský)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-ln95044-128-p2s1Bw3">

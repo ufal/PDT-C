@@ -257,8 +257,8 @@
 <LM>w#w-mf930709-083-p2s1Bw16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-083-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-083-p2s2w5">
 <src.rf>manual</src.rf>
@@ -621,8 +621,8 @@
 <LM>w#w-mf930709-083-p3s1w17</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf930709-083-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1005,8 +1005,8 @@
 <LM>w#w-mf930709-083-p3s3w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-083-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1252,8 +1252,8 @@
 <LM>w#w-mf930709-083-p3s5w8</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-083-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1317,8 +1317,8 @@
 <LM>w#w-mf930709-083-p3s6w5</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-083-p3s6w6">
 <src.rf>manual</src.rf>

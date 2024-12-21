@@ -196,7 +196,7 @@
 <LM>w#w-wsj0793-001-p1s0W21</LM>
 </w.rf>
 <form>využívané</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-wsj0793-001-p1s0W22-Ta">
@@ -2568,7 +2568,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0793-001-p1s10W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2657,8 +2657,8 @@
 <LM>w#w-wsj0793-001-p1s10W11</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0793-001-p1s10W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3731,8 +3731,8 @@
 <LM>w#w-wsj0793-001-p1s16W15</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0793-001-p1s16W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3875,8 +3875,8 @@
 <LM>w#w-wsj0793-001-p1s16W31</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0793-001-p1s16W32-Ta">
 <src.rf>tagger-a</src.rf>

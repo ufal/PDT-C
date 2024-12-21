@@ -1996,7 +1996,7 @@
 </w.rf>
 <form>Yorku</form>
 <lemma>York-2_;G_;m</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0677-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2451,7 +2451,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-wsj0677-001-p1s9W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2534,7 +2534,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0677-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>

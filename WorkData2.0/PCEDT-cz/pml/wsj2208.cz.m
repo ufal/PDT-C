@@ -333,8 +333,8 @@
 <LM>w#w-wsj2208-001-p1s1W4</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj2208-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -415,7 +415,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2208-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -713,8 +713,8 @@
 <LM>w#w-wsj2208-001-p1s2W12</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
-<tag>J,-------------</tag>
+<lemma>až-3_^(až_k_...,_až_dost)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2208-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1864,7 +1864,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2208-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>

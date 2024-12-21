@@ -133,8 +133,8 @@
 <LM>w#w-wsj1516-001-p1s0W14</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1516-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2317,7 +2317,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1516-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3288,8 +3288,8 @@
 <LM>w#w-wsj1516-001-p1s13W18</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1516-001-p1s13W19-Ta">
 <src.rf>tagger-a</src.rf>

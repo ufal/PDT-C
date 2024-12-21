@@ -338,7 +338,7 @@
 </w.rf>
 <form>referovala</form>
 <lemma>referovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-vesm9211-056-p2s1w33">
 <src.rf>manual</src.rf>
@@ -346,8 +346,8 @@
 <LM>w#w-vesm9211-056-p2s1w33</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-056-p2s1w34">
 <src.rf>manual</src.rf>

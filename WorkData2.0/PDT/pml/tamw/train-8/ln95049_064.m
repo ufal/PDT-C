@@ -763,8 +763,8 @@
 <LM>w#w-ln95049-064-p2s3w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-064-p2s3w13">
 <src.rf>manual</src.rf>
@@ -999,8 +999,8 @@
 <LM>w#w-ln95049-064-p2s4w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-064-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1107,8 +1107,8 @@
 <LM>w#w-ln95049-064-p2s4w19</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95049-064-p2s4w20">
 <src.rf>manual</src.rf>

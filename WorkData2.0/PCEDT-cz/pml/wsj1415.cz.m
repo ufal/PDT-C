@@ -795,7 +795,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1415-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1664,7 +1664,7 @@
 <LM>w#w-wsj1415-001-p1s5W29</LM>
 </w.rf>
 <form>rozdmýchaly</form>
-<lemma>rozdmýchat</lemma>
+<lemma>rozdmýchat_,s_^(^DD**rozdmychat)</lemma>
 <tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1415-001-p1s5W30-Ta">
@@ -2652,7 +2652,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1415-001-p1s8W31-Ta">
 <src.rf>tagger-a</src.rf>

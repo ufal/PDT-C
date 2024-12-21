@@ -223,7 +223,7 @@
 <LM>w#w-wsj1074-001-p1s0W24</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1074-001-p1s0W25-Ta">
@@ -606,7 +606,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1074-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-wsj1074-001-p1s1W16</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1074-001-p1s1W17-Ta">
@@ -2186,7 +2186,7 @@
 <LM>w#w-wsj1074-001-p1s8W14</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIP4-----A----</tag>
 </m>
 <m id="m-wsj1074-001-p1s8W15-Ta">
@@ -2778,7 +2778,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1074-001-p1s11W4-Ta">
 <src.rf>tagger-a</src.rf>

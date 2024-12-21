@@ -33,7 +33,9 @@
 <afun>Atr</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
+</children>
+</LM>
 <LM id="a-cmpr9406-037-p2s1w4">
 <m.rf>m#m-cmpr9406-037-p2s1w4</m.rf>
 <afun>AuxP</afun>
@@ -51,10 +53,6 @@
 <afun>Atr</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -91,7 +89,7 @@
 <afun>Atr</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-cmpr9406-037-p3s1w4">
 <m.rf>m#m-cmpr9406-037-p3s1w4</m.rf>
 <afun>AuxP</afun>
@@ -103,8 +101,6 @@
 <afun>Atr</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -203,7 +199,7 @@
 <afun>Adv</afun>
 <ord>9</ord>
 <clause_number>2</clause_number>
-</LM>
+<children>
 <LM id="a-cmpr9406-037-p4s1w11">
 <m.rf>m#m-cmpr9406-037-p4s1w11</m.rf>
 <afun>AuxC</afun>
@@ -243,6 +239,8 @@
 <afun>AuxX</afun>
 <ord>15</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -330,16 +328,9 @@
 <s.rf>m#m-cmpr9406-037-p4s3</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-cmpr9406-037-p4s3w11">
-<m.rf>m#m-cmpr9406-037-p4s3w11</m.rf>
-<afun>Coord</afun>
-<ord>11</ord>
-<clause_number>0</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p4s3w12">
 <m.rf>m#m-cmpr9406-037-p4s3w12</m.rf>
 <afun>Pred</afun>
-<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
@@ -349,16 +340,16 @@
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-cmpr9406-037-p4s3w2">
-<m.rf>m#m-cmpr9406-037-p4s3w2</m.rf>
-<afun>Atr</afun>
-<ord>2</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p4s3w3">
 <m.rf>m#m-cmpr9406-037-p4s3w3</m.rf>
 <afun>Atr</afun>
 <ord>3</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-cmpr9406-037-p4s3w2">
+<m.rf>m#m-cmpr9406-037-p4s3w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
 </children>
@@ -395,7 +386,7 @@
 <children>
 <LM id="a-cmpr9406-037-p4s3w8">
 <m.rf>m#m-cmpr9406-037-p4s3w8</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>8</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -411,6 +402,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-cmpr9406-037-p4s3w11">
+<m.rf>m#m-cmpr9406-037-p4s3w11</m.rf>
+<afun>AuxZ</afun>
+<ord>11</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-cmpr9406-037-p4s3w13">
 <m.rf>m#m-cmpr9406-037-p4s3w13</m.rf>
 <afun>Obj</afun>
@@ -422,8 +419,6 @@
 <afun>Atr</afun>
 <ord>14</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -525,7 +520,7 @@
 <children>
 <LM id="a-cmpr9406-037-p4s4w13">
 <m.rf>m#m-cmpr9406-037-p4s4w13</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>13</ord>
 <clause_number>2</clause_number>
 <children>
@@ -568,6 +563,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-cmpr9406-037-p4s4w20">
+<m.rf>m#m-cmpr9406-037-p4s4w20</m.rf>
+<afun>AuxZ</afun>
+<ord>20</ord>
+<clause_number>3</clause_number>
+</LM>
 <LM id="a-cmpr9406-037-p4s4w21">
 <m.rf>m#m-cmpr9406-037-p4s4w21</m.rf>
 <afun>AuxP</afun>
@@ -580,14 +581,6 @@
 <afun>Obj</afun>
 <ord>22</ord>
 <clause_number>3</clause_number>
-<children>
-<LM id="a-cmpr9406-037-p4s4w20">
-<m.rf>m#m-cmpr9406-037-p4s4w20</m.rf>
-<afun>AuxZ</afun>
-<ord>20</ord>
-<clause_number>3</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -849,7 +842,7 @@
 <children>
 <LM id="a-cmpr9406-037-p8s1w16">
 <m.rf>m#m-cmpr9406-037-p8s1w16</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>16</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -903,7 +896,8 @@
 <children>
 <LM id="a-cmpr9406-037-p9s1w1">
 <m.rf>m#m-cmpr9406-037-p9s1w1</m.rf>
-<afun>ExD</afun>
+<afun>AuxZ</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -949,7 +943,7 @@
 <children>
 <LM id="a-cmpr9406-037-p10s1w1">
 <m.rf>m#m-cmpr9406-037-p10s1w1</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1053,7 +1047,7 @@
 <children>
 <LM id="a-cmpr9406-037-p10s2w1">
 <m.rf>m#m-cmpr9406-037-p10s2w1</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1212,12 +1206,13 @@
 <m.rf>m#m-cmpr9406-037-p10s3w15</m.rf>
 <afun>AuxP</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>15</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9406-037-p10s3w16">
 <m.rf>m#m-cmpr9406-037-p10s3w16</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1257,8 +1252,9 @@
 </LM>
 <LM id="a-cmpr9406-037-p10s3w21">
 <m.rf>m#m-cmpr9406-037-p10s3w21</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>21</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1322,17 +1318,19 @@
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-cmpr9406-037-p11s1w6">
+<m.rf>m#m-cmpr9406-037-p11s1w6</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p11s1w5">
 <m.rf>m#m-cmpr9406-037-p11s1w5</m.rf>
 <afun>AuxZ</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p11s1w6">
-<m.rf>m#m-cmpr9406-037-p11s1w6</m.rf>
-<afun>Atr</afun>
-<ord>6</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 <LM id="a-cmpr9406-037-p11s1w9">
 <m.rf>m#m-cmpr9406-037-p11s1w9</m.rf>
@@ -1358,7 +1356,7 @@
 <children>
 <LM id="a-cmpr9406-037-p11s1w10">
 <m.rf>m#m-cmpr9406-037-p11s1w10</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1580,7 +1578,7 @@
 <children>
 <LM id="a-cmpr9406-037-p11s4w2">
 <m.rf>m#m-cmpr9406-037-p11s4w2</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1650,32 +1648,33 @@
 </LM>
 </children>
 </LM>
-<LM id="a-cmpr9406-037-p11s4w13">
-<m.rf>m#m-cmpr9406-037-p11s4w13</m.rf>
-<afun>ExD</afun>
-<ord>13</ord>
-<clause_number>2</clause_number>
-</LM>
 <LM id="a-cmpr9406-037-p11s4w14">
 <m.rf>m#m-cmpr9406-037-p11s4w14</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>14</ord>
 <clause_number>2</clause_number>
 <children>
+<LM id="a-cmpr9406-037-p11s4w13">
+<m.rf>m#m-cmpr9406-037-p11s4w13</m.rf>
+<afun>AuxG</afun>
+<ord>13</ord>
+<clause_number>2</clause_number>
+</LM>
 <LM id="a-cmpr9406-037-p11s4w15">
 <m.rf>m#m-cmpr9406-037-p11s4w15</m.rf>
-<afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Adv</afun>
 <ord>15</ord>
 <clause_number>2</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-cmpr9406-037-p11s4w16">
 <m.rf>m#m-cmpr9406-037-p11s4w16</m.rf>
-<afun>ExD</afun>
+<afun>AuxG</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1735,7 +1734,8 @@
 <children>
 <LM id="a-cmpr9406-037-p12s1w1">
 <m.rf>m#m-cmpr9406-037-p12s1w1</m.rf>
-<afun>ExD</afun>
+<afun>AuxZ</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1945,7 +1945,7 @@
 </LM>
 <LM id="a-cmpr9406-037-p14s1w14">
 <m.rf>m#m-cmpr9406-037-p14s1w14</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>13</ord>
 <clause_number>3</clause_number>
 <children>
@@ -2540,7 +2540,7 @@
 <children>
 <LM id="a-cmpr9406-037-p14s5w3">
 <m.rf>m#m-cmpr9406-037-p14s5w3</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2556,7 +2556,7 @@
 </LM>
 <LM id="a-cmpr9406-037-p14s5w5">
 <m.rf>m#m-cmpr9406-037-p14s5w5</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -2606,7 +2606,7 @@
 <afun>Adv</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-cmpr9406-037-p15s1w3">
 <m.rf>m#m-cmpr9406-037-p15s1w3</m.rf>
 <afun>AuxC</afun>
@@ -2715,17 +2715,19 @@
 <ord>18</ord>
 <clause_number>3</clause_number>
 <children>
+<LM id="a-cmpr9406-037-p15s1w17">
+<m.rf>m#m-cmpr9406-037-p15s1w17</m.rf>
+<afun>Atr</afun>
+<ord>17</ord>
+<clause_number>3</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p15s1w16">
 <m.rf>m#m-cmpr9406-037-p15s1w16</m.rf>
 <afun>AuxZ</afun>
 <ord>16</ord>
 <clause_number>3</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p15s1w17">
-<m.rf>m#m-cmpr9406-037-p15s1w17</m.rf>
-<afun>Atr</afun>
-<ord>17</ord>
-<clause_number>3</clause_number>
+</children>
 </LM>
 </children>
 </LM>
@@ -2785,6 +2787,8 @@
 <afun>AuxX</afun>
 <ord>26</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2886,16 +2890,9 @@
 <ord>41</ord>
 <clause_number>5</clause_number>
 <children>
-<LM id="a-cmpr9406-037-p15s1w47">
-<m.rf>m#m-cmpr9406-037-p15s1w47</m.rf>
-<afun>Apos</afun>
-<ord>47</ord>
-<clause_number>5</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p15s1w43">
 <m.rf>m#m-cmpr9406-037-p15s1w43</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>43</ord>
 <clause_number>5</clause_number>
 <children>
@@ -2927,28 +2924,32 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-cmpr9406-037-p15s1w48">
 <m.rf>m#m-cmpr9406-037-p15s1w48</m.rf>
-<afun>Obj</afun>
-<is_member>1</is_member>
+<afun>Denom</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>48</ord>
 <clause_number>5</clause_number>
 <children>
+<LM id="a-cmpr9406-037-p15s1w47">
+<m.rf>m#m-cmpr9406-037-p15s1w47</m.rf>
+<afun>AuxG</afun>
+<ord>47</ord>
+<clause_number>5</clause_number>
+</LM>
 <LM id="a-cmpr9406-037-p15s1w49">
 <m.rf>m#m-cmpr9406-037-p15s1w49</m.rf>
 <afun>Atr</afun>
 <ord>49</ord>
 <clause_number>5</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-cmpr9406-037-p15s1w50">
 <m.rf>m#m-cmpr9406-037-p15s1w50</m.rf>
 <afun>AuxG</afun>
 <ord>50</ord>
 <clause_number>5</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2976,6 +2977,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-cmpr9406-037-p15s1w55">
+<m.rf>m#m-cmpr9406-037-p15s1w55</m.rf>
+<afun>AuxZ</afun>
+<ord>55</ord>
+<clause_number>5</clause_number>
+</LM>
 <LM id="a-cmpr9406-037-p15s1w57">
 <m.rf>m#m-cmpr9406-037-p15s1w57</m.rf>
 <afun>Obj</afun>
@@ -2983,12 +2990,6 @@
 <ord>57</ord>
 <clause_number>5</clause_number>
 <children>
-<LM id="a-cmpr9406-037-p15s1w55">
-<m.rf>m#m-cmpr9406-037-p15s1w55</m.rf>
-<afun>AuxZ</afun>
-<ord>55</ord>
-<clause_number>5</clause_number>
-</LM>
 <LM id="a-cmpr9406-037-p15s1w56">
 <m.rf>m#m-cmpr9406-037-p15s1w56</m.rf>
 <afun>Obj</afun>
@@ -3009,11 +3010,11 @@
 </LM>
 </children>
 </LM>
-<LM id="a-cmpr9406-037-p15s1w62">
-<m.rf>m#m-cmpr9406-037-p15s1w62</m.rf>
-<afun>Pred</afun>
+<LM id="a-cmpr9406-037-p15s1w61">
+<m.rf>m#m-cmpr9406-037-p15s1w61</m.rf>
+<afun>AuxC</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
-<ord>62</ord>
+<ord>61</ord>
 <clause_number>6</clause_number>
 <children>
 <LM id="a-cmpr9406-037-p15s1w60">
@@ -3022,15 +3023,15 @@
 <ord>60</ord>
 <clause_number>0</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p15s1w61">
-<m.rf>m#m-cmpr9406-037-p15s1w61</m.rf>
+<LM id="a-cmpr9406-037-p15s1w62">
+<m.rf>m#m-cmpr9406-037-p15s1w62</m.rf>
 <afun>Adv</afun>
-<ord>61</ord>
+<ord>62</ord>
 <clause_number>6</clause_number>
-</LM>
+<children>
 <LM id="a-cmpr9406-037-p15s1w63">
 <m.rf>m#m-cmpr9406-037-p15s1w63</m.rf>
-<afun>Sb</afun>
+<afun>Obj</afun>
 <ord>63</ord>
 <clause_number>6</clause_number>
 </LM>
@@ -3045,6 +3046,8 @@
 <afun>Adv</afun>
 <ord>65</ord>
 <clause_number>6</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -3116,7 +3119,7 @@
 <children>
 <LM id="a-cmpr9406-037-p17s1w6">
 <m.rf>m#m-cmpr9406-037-p17s1w6</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3138,9 +3141,16 @@
 <ord>7</ord>
 <clause_number>0</clause_number>
 </LM>
+<LM id="a-cmpr9406-037-p17s1w21">
+<m.rf>m#m-cmpr9406-037-p17s1w21</m.rf>
+<afun>Apos</afun>
+<ord>21</ord>
+<clause_number>2</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p17s1w12">
 <m.rf>m#m-cmpr9406-037-p17s1w12</m.rf>
 <afun>Atr</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>2</clause_number>
 <children>
@@ -3172,25 +3182,29 @@
 <ord>16</ord>
 <clause_number>2</clause_number>
 <children>
-<LM id="a-cmpr9406-037-p17s1w14">
-<m.rf>m#m-cmpr9406-037-p17s1w14</m.rf>
-<afun>Pnom</afun>
-<is_member>1</is_member>
-<ord>14</ord>
-<clause_number>2</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p17s1w13">
 <m.rf>m#m-cmpr9406-037-p17s1w13</m.rf>
 <afun>AuxZ</afun>
 <ord>13</ord>
 <clause_number>2</clause_number>
 </LM>
-</children>
+<LM id="a-cmpr9406-037-p17s1w14">
+<m.rf>m#m-cmpr9406-037-p17s1w14</m.rf>
+<afun>Pnom</afun>
+<is_member>1</is_member>
+<ord>14</ord>
+<clause_number>2</clause_number>
 </LM>
 <LM id="a-cmpr9406-037-p17s1w15">
 <m.rf>m#m-cmpr9406-037-p17s1w15</m.rf>
 <afun>AuxX</afun>
 <ord>15</ord>
+<clause_number>2</clause_number>
+</LM>
+<LM id="a-cmpr9406-037-p17s1w17">
+<m.rf>m#m-cmpr9406-037-p17s1w17</m.rf>
+<afun>AuxZ</afun>
+<ord>17</ord>
 <clause_number>2</clause_number>
 </LM>
 <LM id="a-cmpr9406-037-p17s1w18">
@@ -3199,55 +3213,43 @@
 <is_member>1</is_member>
 <ord>18</ord>
 <clause_number>2</clause_number>
-<children>
-<LM id="a-cmpr9406-037-p17s1w17">
-<m.rf>m#m-cmpr9406-037-p17s1w17</m.rf>
-<afun>AuxZ</afun>
-<ord>17</ord>
-<clause_number>2</clause_number>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
-<LM id="a-cmpr9406-037-p17s1w23">
-<m.rf>m#m-cmpr9406-037-p17s1w23</m.rf>
-<afun>AuxP</afun>
-<ord>23</ord>
-<clause_number>2</clause_number>
-<children>
-<LM id="a-cmpr9406-037-p17s1w24">
-<m.rf>m#m-cmpr9406-037-p17s1w24</m.rf>
-<afun>Adv</afun>
-<ord>24</ord>
-<clause_number>2</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p17s1w19">
 <m.rf>m#m-cmpr9406-037-p17s1w19</m.rf>
 <afun>AuxX</afun>
 <ord>19</ord>
 <clause_number>2</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p17s1w21">
-<m.rf>m#m-cmpr9406-037-p17s1w21</m.rf>
-<afun>AuxY</afun>
-<ord>21</ord>
-<clause_number>2</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p17s1w20">
 <m.rf>m#m-cmpr9406-037-p17s1w20</m.rf>
 <afun>AuxY</afun>
 <ord>20</ord>
 <clause_number>2</clause_number>
 </LM>
-</children>
-</LM>
+<LM id="a-cmpr9406-037-p17s1w23">
+<m.rf>m#m-cmpr9406-037-p17s1w23</m.rf>
+<afun>AuxP</afun>
+<is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
+<ord>23</ord>
+<clause_number>2</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p17s1w22">
 <m.rf>m#m-cmpr9406-037-p17s1w22</m.rf>
 <afun>AuxZ</afun>
 <ord>22</ord>
 <clause_number>2</clause_number>
 </LM>
+<LM id="a-cmpr9406-037-p17s1w24">
+<m.rf>m#m-cmpr9406-037-p17s1w24</m.rf>
+<afun>Adv</afun>
+<ord>24</ord>
+<clause_number>2</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p17s1w26">
 <m.rf>m#m-cmpr9406-037-p17s1w26</m.rf>
 <afun>Atr</afun>
@@ -3280,7 +3282,7 @@
 </LM>
 <LM id="a-cmpr9406-037-p17s1w29">
 <m.rf>m#m-cmpr9406-037-p17s1w29</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>29</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -3365,19 +3367,20 @@
 <LM id="a-cmpr9406-037-p17s3w2">
 <m.rf>m#m-cmpr9406-037-p17s3w2</m.rf>
 <afun>Apos</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9406-037-p17s3w1">
 <m.rf>m#m-cmpr9406-037-p17s3w1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-cmpr9406-037-p17s3w4">
 <m.rf>m#m-cmpr9406-037-p17s3w4</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
@@ -3423,12 +3426,13 @@
 <LM id="a-cmpr9406-037-p17s3w9">
 <m.rf>m#m-cmpr9406-037-p17s3w9</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9406-037-p17s3w10">
 <m.rf>m#m-cmpr9406-037-p17s3w10</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3486,19 +3490,18 @@
 <ord>11</ord>
 <clause_number>2</clause_number>
 <children>
-<LM id="a-cmpr9406-037-p17s4w1">
-<m.rf>m#m-cmpr9406-037-p17s4w1</m.rf>
-<afun>Coord</afun>
-<ord>1</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p17s4w6">
 <m.rf>m#m-cmpr9406-037-p17s4w6</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-cmpr9406-037-p17s4w1">
+<m.rf>m#m-cmpr9406-037-p17s4w1</m.rf>
+<afun>AuxZ</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-cmpr9406-037-p17s4w2">
 <m.rf>m#m-cmpr9406-037-p17s4w2</m.rf>
 <afun>Adv</afun>
@@ -3542,8 +3545,6 @@
 <afun>Atr</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -3639,7 +3640,7 @@
 </LM>
 <LM id="a-cmpr9406-037-p17s5w9">
 <m.rf>m#m-cmpr9406-037-p17s5w9</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>8</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -3663,7 +3664,7 @@
 <children>
 <LM id="a-cmpr9406-037-p17s5w13">
 <m.rf>m#m-cmpr9406-037-p17s5w13</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>12</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -3880,17 +3881,19 @@
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-cmpr9406-037-p18s4w2">
+<m.rf>m#m-cmpr9406-037-p18s4w2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p18s4w1">
 <m.rf>m#m-cmpr9406-037-p18s4w1</m.rf>
 <afun>AuxZ</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p18s4w2">
-<m.rf>m#m-cmpr9406-037-p18s4w2</m.rf>
-<afun>Atr</afun>
-<ord>2</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 </children>
 </LM>
@@ -3902,7 +3905,7 @@
 <children>
 <LM id="a-cmpr9406-037-p18s4w5">
 <m.rf>m#m-cmpr9406-037-p18s4w5</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -3915,12 +3918,13 @@
 <LM id="a-cmpr9406-037-p18s4w8">
 <m.rf>m#m-cmpr9406-037-p18s4w8</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9406-037-p18s4w9">
 <m.rf>m#m-cmpr9406-037-p18s4w9</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -3962,26 +3966,10 @@
 <afun>Sb</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<children>
-<LM id="a-cmpr9406-037-p18s5w6">
-<m.rf>m#m-cmpr9406-037-p18s5w6</m.rf>
-<afun>Atv</afun>
-<ord>6</ord>
-<clause_number>1</clause_number>
-<children>
-<LM id="a-cmpr9406-037-p18s5w5">
-<m.rf>m#m-cmpr9406-037-p18s5w5</m.rf>
-<afun>AuxY</afun>
-<ord>5</ord>
-<clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 <LM id="a-cmpr9406-037-p18s5w2">
 <m.rf>m#m-cmpr9406-037-p18s5w2</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -3990,6 +3978,22 @@
 <afun>Pnom</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-cmpr9406-037-p18s5w5">
+<m.rf>m#m-cmpr9406-037-p18s5w5</m.rf>
+<afun>AuxC</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-cmpr9406-037-p18s5w6">
+<m.rf>m#m-cmpr9406-037-p18s5w6</m.rf>
+<afun>Obj</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -4256,16 +4260,9 @@
 <s.rf>m#m-cmpr9406-037-p20s2</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-cmpr9406-037-p20s2w7">
-<m.rf>m#m-cmpr9406-037-p20s2w7</m.rf>
-<afun>Coord</afun>
-<ord>7</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p20s2w8">
 <m.rf>m#m-cmpr9406-037-p20s2w8</m.rf>
 <afun>Pred</afun>
-<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -4277,7 +4274,7 @@
 <children>
 <LM id="a-cmpr9406-037-p20s2w1">
 <m.rf>m#m-cmpr9406-037-p20s2w1</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -4295,7 +4292,7 @@
 <children>
 <LM id="a-cmpr9406-037-p20s2w3">
 <m.rf>m#m-cmpr9406-037-p20s2w3</m.rf>
-<afun>Adv</afun>
+<afun>AuxY</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -4310,6 +4307,12 @@
 </children>
 </LM>
 </children>
+</LM>
+<LM id="a-cmpr9406-037-p20s2w7">
+<m.rf>m#m-cmpr9406-037-p20s2w7</m.rf>
+<afun>AuxZ</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
 </LM>
 <LM id="a-cmpr9406-037-p20s2w9">
 <m.rf>m#m-cmpr9406-037-p20s2w9</m.rf>
@@ -4328,8 +4331,6 @@
 <afun>Obj</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -4454,8 +4455,9 @@
 </LM>
 <LM id="a-cmpr9406-037-p21s1w16">
 <m.rf>m#m-cmpr9406-037-p21s1w16</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>16</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -4463,12 +4465,13 @@
 <m.rf>m#m-cmpr9406-037-p21s1w17</m.rf>
 <afun>AuxP</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>17</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-cmpr9406-037-p21s1w18">
 <m.rf>m#m-cmpr9406-037-p21s1w18</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>18</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -4682,19 +4685,19 @@
 </LM>
 </children>
 </LM>
-<LM id="a-cmpr9406-037-p22s2w7">
-<m.rf>m#m-cmpr9406-037-p22s2w7</m.rf>
-<afun>Atv</afun>
-<ord>7</ord>
-<clause_number>1</clause_number>
-<children>
+</children>
+</LM>
 <LM id="a-cmpr9406-037-p22s2w6">
 <m.rf>m#m-cmpr9406-037-p22s2w6</m.rf>
-<afun>AuxY</afun>
+<afun>AuxC</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
+<children>
+<LM id="a-cmpr9406-037-p22s2w7">
+<m.rf>m#m-cmpr9406-037-p22s2w7</m.rf>
+<afun>Obj</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
 </LM>
 </children>
 </LM>
@@ -4792,7 +4795,7 @@
 <children>
 <LM id="a-cmpr9406-037-p22s2w21">
 <m.rf>m#m-cmpr9406-037-p22s2w21</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>21</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -4892,7 +4895,7 @@
 <children>
 <LM id="a-cmpr9406-037-p23s2w1">
 <m.rf>m#m-cmpr9406-037-p23s2w1</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -5083,6 +5086,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-cmpr9406-037-p23s2w30">
+<m.rf>m#m-cmpr9406-037-p23s2w30</m.rf>
+<afun>AuxZ</afun>
+<ord>30</ord>
+<clause_number>3</clause_number>
+</LM>
 <LM id="a-cmpr9406-037-p23s2w35">
 <m.rf>m#m-cmpr9406-037-p23s2w35</m.rf>
 <afun>Obj</afun>
@@ -5090,12 +5099,6 @@
 <ord>35</ord>
 <clause_number>3</clause_number>
 <children>
-<LM id="a-cmpr9406-037-p23s2w30">
-<m.rf>m#m-cmpr9406-037-p23s2w30</m.rf>
-<afun>AuxZ</afun>
-<ord>30</ord>
-<clause_number>3</clause_number>
-</LM>
 <LM id="a-cmpr9406-037-p23s2w31">
 <m.rf>m#m-cmpr9406-037-p23s2w31</m.rf>
 <afun>AuxP</afun>
@@ -5170,25 +5173,30 @@
 <s.rf>m#m-cmpr9406-037-p23s3</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-cmpr9406-037-p23s3w1">
-<m.rf>m#m-cmpr9406-037-p23s3w1</m.rf>
-<afun>Coord</afun>
-<ord>1</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p23s3w3">
 <m.rf>m#m-cmpr9406-037-p23s3w3</m.rf>
 <afun>Pred</afun>
-<is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-cmpr9406-037-p23s3w1">
+<m.rf>m#m-cmpr9406-037-p23s3w1</m.rf>
+<afun>AuxZ</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-cmpr9406-037-p23s3w2">
 <m.rf>m#m-cmpr9406-037-p23s3w2</m.rf>
 <afun>Sb</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-cmpr9406-037-p23s3w6">
+<m.rf>m#m-cmpr9406-037-p23s3w6</m.rf>
+<afun>Obj</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p23s3w4">
 <m.rf>m#m-cmpr9406-037-p23s3w4</m.rf>
 <afun>AuxP</afun>
@@ -5197,28 +5205,18 @@
 <children>
 <LM id="a-cmpr9406-037-p23s3w5">
 <m.rf>m#m-cmpr9406-037-p23s3w5</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
 </children>
 </LM>
-<LM id="a-cmpr9406-037-p23s3w6">
-<m.rf>m#m-cmpr9406-037-p23s3w6</m.rf>
-<afun>Obj</afun>
-<ord>6</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 <LM id="a-cmpr9406-037-p23s3w8">
 <m.rf>m#m-cmpr9406-037-p23s3w8</m.rf>
 <afun>AuxP</afun>
 <ord>8</ord>
-<clause_number>1</clause_number>
-<children>
-<LM id="a-cmpr9406-037-p23s3w9">
-<m.rf>m#m-cmpr9406-037-p23s3w9</m.rf>
-<afun>Adv</afun>
-<ord>9</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9406-037-p23s3w7">
@@ -5227,6 +5225,12 @@
 <ord>7</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-cmpr9406-037-p23s3w9">
+<m.rf>m#m-cmpr9406-037-p23s3w9</m.rf>
+<afun>Adv</afun>
+<ord>9</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p23s3w10">
 <m.rf>m#m-cmpr9406-037-p23s3w10</m.rf>
 <afun>Atr</afun>
@@ -5238,8 +5242,6 @@
 <afun>Atr</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -5327,18 +5329,18 @@
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-cmpr9406-037-p23s4w13">
-<m.rf>m#m-cmpr9406-037-p23s4w13</m.rf>
-<afun>Adv</afun>
-<ord>13</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p23s4w10">
 <m.rf>m#m-cmpr9406-037-p23s4w10</m.rf>
 <afun>AuxZ</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-cmpr9406-037-p23s4w13">
+<m.rf>m#m-cmpr9406-037-p23s4w13</m.rf>
+<afun>Adv</afun>
+<ord>13</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p23s4w12">
 <m.rf>m#m-cmpr9406-037-p23s4w12</m.rf>
 <afun>Atr</afun>
@@ -5463,7 +5465,7 @@
 </LM>
 <LM id="a-cmpr9406-037-p23s5w12">
 <m.rf>m#m-cmpr9406-037-p23s5w12</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>11</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -5499,7 +5501,7 @@
 </LM>
 <LM id="a-cmpr9406-037-p23s5w19">
 <m.rf>m#m-cmpr9406-037-p23s5w19</m.rf>
-<afun>Adv</afun>
+<afun>AuxT</afun>
 <ord>18</ord>
 <clause_number>4</clause_number>
 </LM>
@@ -5524,6 +5526,11 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
+<comments>
+<LM type="Other">
+<text>není v lexikonu</text>
+</LM>
+</comments>
 </LM>
 </children>
 </LM>
@@ -5727,16 +5734,9 @@
 <s.rf>m#m-cmpr9406-037-p25s2</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-cmpr9406-037-p25s2w5">
-<m.rf>m#m-cmpr9406-037-p25s2w5</m.rf>
-<afun>Coord</afun>
-<ord>5</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p25s2w6">
 <m.rf>m#m-cmpr9406-037-p25s2w6</m.rf>
 <afun>Pred</afun>
-<is_member>1</is_member>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -5768,13 +5768,17 @@
 </LM>
 </children>
 </LM>
+<LM id="a-cmpr9406-037-p25s2w5">
+<m.rf>m#m-cmpr9406-037-p25s2w5</m.rf>
+<afun>AuxZ</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-cmpr9406-037-p25s2w7">
 <m.rf>m#m-cmpr9406-037-p25s2w7</m.rf>
 <afun>Pnom</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 <LM id="a-cmpr9406-037-p25s2w8">
 <m.rf>m#m-cmpr9406-037-p25s2w8</m.rf>
@@ -5838,11 +5842,11 @@
 <ord>7</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p25s3w11">
-<m.rf>m#m-cmpr9406-037-p25s3w11</m.rf>
-<afun>Coord</afun>
+<LM id="a-cmpr9406-037-p25s3w14">
+<m.rf>m#m-cmpr9406-037-p25s3w14</m.rf>
+<afun>Atr</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
-<ord>11</ord>
+<ord>14</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-cmpr9406-037-p25s3w8">
@@ -5851,13 +5855,6 @@
 <ord>8</ord>
 <clause_number>0</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p25s3w14">
-<m.rf>m#m-cmpr9406-037-p25s3w14</m.rf>
-<afun>Atr</afun>
-<is_member>1</is_member>
-<ord>14</ord>
-<clause_number>2</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p25s3w9">
 <m.rf>m#m-cmpr9406-037-p25s3w9</m.rf>
 <afun>AuxP</afun>
@@ -5872,19 +5869,23 @@
 </LM>
 </children>
 </LM>
-<LM id="a-cmpr9406-037-p25s3w12">
-<m.rf>m#m-cmpr9406-037-p25s3w12</m.rf>
-<afun>Sb</afun>
-<ord>12</ord>
-<clause_number>2</clause_number>
-<children>
-<LM id="a-cmpr9406-037-p25s3w13">
-<m.rf>m#m-cmpr9406-037-p25s3w13</m.rf>
-<afun>Atr</afun>
-<ord>13</ord>
+<LM id="a-cmpr9406-037-p25s3w11">
+<m.rf>m#m-cmpr9406-037-p25s3w11</m.rf>
+<afun>AuxZ</afun>
+<ord>11</ord>
 <clause_number>2</clause_number>
 </LM>
-</children>
+<LM id="a-cmpr9406-037-p25s3w13">
+<m.rf>m#m-cmpr9406-037-p25s3w13</m.rf>
+<afun>Sb</afun>
+<ord>13</ord>
+<clause_number>2</clause_number>
+<children>
+<LM id="a-cmpr9406-037-p25s3w12">
+<m.rf>m#m-cmpr9406-037-p25s3w12</m.rf>
+<afun>Atr</afun>
+<ord>12</ord>
+<clause_number>2</clause_number>
 </LM>
 </children>
 </LM>
@@ -5910,17 +5911,19 @@
 <ord>19</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-cmpr9406-037-p25s3w18">
+<m.rf>m#m-cmpr9406-037-p25s3w18</m.rf>
+<afun>Atr</afun>
+<ord>18</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p25s3w17">
 <m.rf>m#m-cmpr9406-037-p25s3w17</m.rf>
 <afun>AuxZ</afun>
 <ord>17</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p25s3w18">
-<m.rf>m#m-cmpr9406-037-p25s3w18</m.rf>
-<afun>Atr</afun>
-<ord>18</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 </children>
 </LM>
@@ -5938,10 +5941,10 @@
 <s.rf>m#m-cmpr9406-037-p25s4</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-cmpr9406-037-p25s4w2">
-<m.rf>m#m-cmpr9406-037-p25s4w2</m.rf>
+<LM id="a-cmpr9406-037-p25s4w4">
+<m.rf>m#m-cmpr9406-037-p25s4w4</m.rf>
 <afun>Pred</afun>
-<ord>2</ord>
+<ord>4</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9406-037-p25s4w1">
@@ -5950,16 +5953,16 @@
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p25s4w3">
-<m.rf>m#m-cmpr9406-037-p25s4w3</m.rf>
-<afun>Pnom</afun>
-<ord>3</ord>
+<LM id="a-cmpr9406-037-p25s4w2">
+<m.rf>m#m-cmpr9406-037-p25s4w2</m.rf>
+<afun>AuxV</afun>
+<ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p25s4w4">
-<m.rf>m#m-cmpr9406-037-p25s4w4</m.rf>
-<afun>Pnom</afun>
-<ord>4</ord>
+<LM id="a-cmpr9406-037-p25s4w3">
+<m.rf>m#m-cmpr9406-037-p25s4w3</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-cmpr9406-037-p25s4w6">
@@ -6066,7 +6069,7 @@
 <children>
 <LM id="a-cmpr9406-037-p25s5w7">
 <m.rf>m#m-cmpr9406-037-p25s5w7</m.rf>
-<afun>AuxR</afun>
+<afun>AuxT</afun>
 <ord>7</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -6138,22 +6141,22 @@
 <children>
 <LM id="a-cmpr9406-037-p26s1w1">
 <m.rf>m#m-cmpr9406-037-p26s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p26s1w3">
-<m.rf>m#m-cmpr9406-037-p26s1w3</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
-<ord>3</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-cmpr9406-037-p26s1w4">
 <m.rf>m#m-cmpr9406-037-p26s1w4</m.rf>
-<afun>Atr</afun>
+<afun>Denom</afun>
+<is_member>1</is_member>
 <ord>4</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-cmpr9406-037-p26s1w3">
+<m.rf>m#m-cmpr9406-037-p26s1w3</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-cmpr9406-037-p26s1w6">
@@ -6193,6 +6196,11 @@
 <afun>Atr</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
+<comments>
+<LM type="Other">
+<text>výjimka: Adj parent</text>
+</LM>
+</comments>
 </LM>
 </children>
 </LM>
@@ -6214,10 +6222,10 @@
 <ord>13</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9406-037-p26s1w16">
-<m.rf>m#m-cmpr9406-037-p26s1w16</m.rf>
+<LM id="a-cmpr9406-037-p26s1w19">
+<m.rf>m#m-cmpr9406-037-p26s1w19</m.rf>
 <afun>Atr</afun>
-<ord>16</ord>
+<ord>19</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9406-037-p26s1w14">
@@ -6226,6 +6234,13 @@
 <ord>14</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-cmpr9406-037-p26s1w16">
+<m.rf>m#m-cmpr9406-037-p26s1w16</m.rf>
+<afun>Atr</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
+<ord>16</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9406-037-p26s1w15">
 <m.rf>m#m-cmpr9406-037-p26s1w15</m.rf>
 <afun>AuxG</afun>
@@ -6238,19 +6253,13 @@
 <ord>17</ord>
 <clause_number>1</clause_number>
 </LM>
+</children>
+</LM>
 <LM id="a-cmpr9406-037-p26s1w18">
 <m.rf>m#m-cmpr9406-037-p26s1w18</m.rf>
 <afun>Atr</afun>
 <ord>18</ord>
 <clause_number>1</clause_number>
-<children>
-<LM id="a-cmpr9406-037-p26s1w19">
-<m.rf>m#m-cmpr9406-037-p26s1w19</m.rf>
-<afun>Atr</afun>
-<ord>19</ord>
-<clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -6302,7 +6311,7 @@
 </LM>
 <LM id="a-cmpr9406-037-p27s1w5">
 <m.rf>m#m-cmpr9406-037-p27s1w5</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>5</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -6334,7 +6343,7 @@
 </LM>
 <LM id="a-cmpr9406-037-p28s1Aw4">
 <m.rf>m#m-cmpr9406-037-p28s1Aw4</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>4</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -6354,7 +6363,7 @@
 <children>
 <LM id="a-cmpr9406-037-p28s1Bw1">
 <m.rf>m#m-cmpr9406-037-p28s1Bw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
@@ -6375,7 +6384,7 @@
 </LM>
 <LM id="a-cmpr9406-037-p28s1Bw4">
 <m.rf>m#m-cmpr9406-037-p28s1Bw4</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
@@ -6390,7 +6399,7 @@
 </LM>
 <LM id="a-cmpr9406-037-p28s1Bw7">
 <m.rf>m#m-cmpr9406-037-p28s1Bw7</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>

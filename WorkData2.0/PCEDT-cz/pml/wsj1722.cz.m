@@ -1778,7 +1778,7 @@
 </w.rf>
 <form>Discovision</form>
 <lemma>Discovision_;m</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj1722-001-p1s7W39-Ta">
 <src.rf>tagger-a</src.rf>

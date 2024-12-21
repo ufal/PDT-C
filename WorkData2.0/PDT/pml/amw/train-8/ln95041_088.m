@@ -95,7 +95,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95041-088-p2s1w2">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 </w.rf>
 <form>namísto</form>
 <lemma>namísto-3</lemma>
-<tag>J,-------------</tag>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95041-088-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1177,8 +1177,8 @@
 <LM>w#w-ln95041-088-p5s1w21</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-088-p5s1w22">
 <src.rf>manual</src.rf>
@@ -1186,8 +1186,8 @@
 <LM>w#w-ln95041-088-p5s1w22</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95041-088-p5s1w23">
 <src.rf>manual</src.rf>

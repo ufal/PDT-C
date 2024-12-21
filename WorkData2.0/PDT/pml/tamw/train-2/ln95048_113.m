@@ -367,8 +367,8 @@
 <LM>w#w-ln95048-113-p2s2w10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-113-p2s2w11">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-113-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1039,8 +1039,8 @@
 <LM>w#w-ln95048-113-p2s5w10</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-113-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-113-p2s5w19">
 <src.rf>manual</src.rf>
@@ -2064,8 +2064,8 @@
 <LM>w#w-ln95048-113-p4s1w38</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-113-p4s1w39">
 <src.rf>manual</src.rf>
@@ -2246,7 +2246,7 @@
 <LM>w#w-ln95048-113-p4s2w13</LM>
 </w.rf>
 <form>ázerbájdžánským</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAMS7----1A----</tag>
 </m>
 <m id="m-ln95048-113-p4s2w14">

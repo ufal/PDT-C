@@ -932,7 +932,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-wsj1920-001-p1s3W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1077,8 +1077,8 @@
 <LM>w#w-wsj1920-001-p1s4W3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1920-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1229,7 +1229,6 @@
 <w.rf>
 <LM>w#w-wsj1920-001-p1s4W20</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>6.30</form>
 <lemma>6.30</lemma>
 <tag>C=-------------</tag>

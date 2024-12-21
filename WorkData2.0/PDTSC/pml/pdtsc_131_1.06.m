@@ -560,8 +560,8 @@
 <LM>w#w-d1t1923-7</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t1923-8">
 <w.rf>
@@ -1306,8 +1306,8 @@
 <LM>w#w-d1t1976-36</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t1976-37">
 <w.rf>
@@ -1380,7 +1380,7 @@
 <LM>w#w-d1t1976-45</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m007-d1t1976-46">
@@ -1514,8 +1514,8 @@
 <LM>w#w-d1t1986-12</LM>
 </w.rf>
 <form>Akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t1986-13">
 <w.rf>
@@ -1798,8 +1798,8 @@
 <LM>w#w-d1t1995-15</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t1995-16">
 <w.rf>
@@ -1888,8 +1888,8 @@
 <LM>w#w-d1t2001-3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m007-d1t2001-4">
 <w.rf>
@@ -2095,7 +2095,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m007-d1t2003-20">
 <w.rf>
@@ -2208,8 +2208,8 @@
 <LM>w#w-d1t2005-11</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2008-1">
 <w.rf>
@@ -2314,8 +2314,8 @@
 <LM>w#w-d1t2010-6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2010-7">
 <w.rf>
@@ -2520,8 +2520,8 @@
 <LM>w#w-d1t2040-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1e2037-x2-1557">
 <w.rf>
@@ -2554,8 +2554,8 @@
 <LM>w#w-d1t2040-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2040-6">
 <w.rf>
@@ -2636,8 +2636,8 @@
 <LM>w#w-d1t2044-5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m007-d1t2044-8">
 <w.rf>
@@ -2842,7 +2842,7 @@
 <LM>w#w-d1t2057-10</LM>
 </w.rf>
 <form>zabijačce</form>
-<lemma>zabijačka</lemma>
+<lemma>zabijačka_,s_^(^DD**zabíjačka)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m007-d1e2054-x2-1719">
@@ -3014,8 +3014,8 @@
 <LM>w#w-2236-2244</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-2236-767">
 <w.rf>
@@ -3120,8 +3120,8 @@
 <LM>w#w-d1t2077-2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2077-3">
 <w.rf>
@@ -3210,7 +3210,7 @@
 <LM>w#w-d1t2085-1</LM>
 </w.rf>
 <form>zabijačce</form>
-<lemma>zabijačka</lemma>
+<lemma>zabijačka_,s_^(^DD**zabíjačka)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m007-d-id130634">
@@ -3244,8 +3244,8 @@
 <LM>w#w-d1t2087-3</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m007-d1t2087-4">
 <w.rf>
@@ -3634,8 +3634,8 @@
 <LM>w#w-d1t2119-2</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m007-d1t2119-3">
 <w.rf>
@@ -3764,8 +3764,8 @@
 <LM>w#w-d1t2127-2</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m007-d1t2127-3">
 <w.rf>

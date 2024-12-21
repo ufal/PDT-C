@@ -388,8 +388,8 @@
 <LM>w#w-d1t1594-7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d1t1594-8">
 <w.rf>
@@ -722,8 +722,8 @@
 <LM>w#w-d1t1615-3</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d-m-d1e1610-x2-punct-punct">
 <w.rf>
@@ -1100,8 +1100,8 @@
 <LM>w#w-d1t1650-9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m047-d1t1650-10">
 <w.rf>
@@ -1152,8 +1152,8 @@
 <LM>w#w-d1t1658-4</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d1t1658-5">
 <w.rf>
@@ -1326,16 +1326,16 @@
 <LM>w#w-d1t1671-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d1t1671-6">
 <w.rf>
 <LM>w#w-d1t1671-6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d1t1671-7">
 <w.rf>
@@ -1509,7 +1509,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m047-d1t1685-2">
 <w.rf>
@@ -1607,7 +1607,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m047-d1t1689-7">
 <w.rf>
@@ -1663,7 +1663,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m047-d1t1689-15">
 <w.rf>
@@ -2542,7 +2542,7 @@
 <LM>w#w-d1t1759-7</LM>
 </w.rf>
 <form>Neubránil</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>VpYS----R-NAP--</tag>
 </m>
 <m id="m047-d1t1759-8">
@@ -2652,7 +2652,7 @@
 <LM>w#w-d1t1765-1</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m047-d1t1765-3">
@@ -2678,8 +2678,8 @@
 <LM>w#w-d1t1773-1</LM>
 </w.rf>
 <form>Akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d1t1773-4">
 <w.rf>

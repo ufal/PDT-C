@@ -511,8 +511,8 @@
 <LM>w#w-ln94203-18-p2s2w11</LM>
 </w.rf>
 <form>neprodleně</form>
-<lemma>prodleně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>neprodleně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-ln94203-18-p2s2w12">
 <src.rf>manual</src.rf>

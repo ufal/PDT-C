@@ -459,8 +459,8 @@
 <LM>w#w-wsj0335-001-p1s1W12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0335-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -876,7 +876,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0335-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2834,7 +2834,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0335-001-p1s8W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3236,7 +3236,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0335-001-p1s11W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4126,7 +4126,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0335-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4571,7 +4571,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj0335-001-p1s17W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4750,8 +4750,8 @@
 <LM>w#w-wsj0335-001-p1s17W34</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0335-001-p1s17W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6402,8 +6402,8 @@
 <LM>w#w-wsj0335-001-p1s23W26</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0335-001-p1s23W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7928,8 +7928,8 @@
 <LM>w#w-wsj0335-001-p1s30W3</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0335-001-p1s30W4-Ta">
 <src.rf>tagger-a</src.rf>

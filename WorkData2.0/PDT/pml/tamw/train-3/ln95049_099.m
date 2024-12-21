@@ -365,8 +365,8 @@
 <LM>w#w-ln95049-099-p2s1Bw19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-099-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-ln95049-099-p3s2w26</LM>
 </w.rf>
 <form>pian</form>
-<lemma>piano</lemma>
+<lemma>piano_,s_^(^DD**piáno)</lemma>
 <tag>NNNP2-----A----</tag>
 </m>
 <m id="m-ln95049-099-p3s2w27">
@@ -957,7 +957,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-099-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1055,8 +1055,8 @@
 <LM>w#w-ln95049-099-p3s3w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-099-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1833,7 +1833,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-099-p5s1w2">
 <src.rf>manual</src.rf>

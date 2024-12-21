@@ -845,8 +845,8 @@
 <LM>w#w-ln94200-18-p4s2w6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94200-18-p4s2w7">
 <src.rf>manual</src.rf>
@@ -890,8 +890,8 @@
 <LM>w#w-ln94200-18-p4s2w11</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94200-18-p4s2w12">
 <src.rf>manual</src.rf>
@@ -899,8 +899,8 @@
 <LM>w#w-ln94200-18-p4s2w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-18-p4s2w13">
 <src.rf>manual</src.rf>

@@ -151,8 +151,8 @@
 <LM>w#w-wsj1678-001-p1s0W16</LM>
 </w.rf>
 <form>vedoucího</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS2-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS2-----A----</tag>
 </m>
 <m id="m-wsj1678-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -499,7 +499,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1678-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1561,8 +1561,8 @@
 <LM>w#w-wsj1678-001-p1s6W13</LM>
 </w.rf>
 <form>vedoucího</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS2-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS2-----A----</tag>
 </m>
 <m id="m-wsj1678-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -819,8 +819,8 @@
 <LM>w#w-cmpr9417-026-p8s1w13</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-026-p8s1w14">
 <src.rf>manual</src.rf>

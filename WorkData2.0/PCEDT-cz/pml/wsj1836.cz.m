@@ -282,7 +282,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj1836-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-wsj1836-001-p1s1W25</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1836-001-p1s1W26-Ta">

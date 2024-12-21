@@ -136,7 +136,7 @@
 <LM>w#w-mu_18-SCzechM-p1867-s1-w1</LM>
 </w.rf>
 <form>Opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="mu_18-SCzechM-p1867-s1-w2">
@@ -152,7 +152,7 @@
 <LM>w#w-mu_18-SCzechM-p1867-s1-w3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="mu_18-SCzechM-p1867-s1-w4">
@@ -2153,7 +2153,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="mu_18-SCzechM-p1887-s1-w29">
 <w.rf>
@@ -2484,8 +2484,8 @@
 <LM>w#w-mu_18-SCzechM-p1890-s1-w12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_18-SCzechM-p1890-s1-w13">
 <w.rf>
@@ -2981,7 +2981,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="mu_18-SCzechM-p1898-s1-w16">
 <w.rf>
@@ -4471,8 +4471,8 @@
 <LM>w#w-mu_18-SCzechM-p1958-s1-w5</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="mu_18-SCzechM-p1958-s1-w6">
 <w.rf>
@@ -4799,8 +4799,8 @@
 <LM>w#w-mu_18-SCzechM-p1958-s1-w46</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_18-SCzechM-p1958-s1-w47">
 <w.rf>

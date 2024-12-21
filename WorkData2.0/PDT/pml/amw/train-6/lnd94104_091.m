@@ -1135,7 +1135,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-091-p1s6w5">
 <src.rf>manual</src.rf>
@@ -2662,8 +2662,8 @@
 <LM>w#w-lnd94104-091-p1s11Cw5</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-091-p1s11Cw6">
 <src.rf>manual</src.rf>
@@ -2807,8 +2807,8 @@
 <LM>w#w-lnd94104-091-p1s11Cw21</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-091-p1s11Cw22">
 <src.rf>manual</src.rf>
@@ -2998,8 +2998,8 @@
 <LM>w#w-lnd94104-091-p1s12Aw10</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-091-p1s12Aw11">
 <src.rf>manual</src.rf>

@@ -300,8 +300,8 @@
 <LM>w#w-mf920922-017-p2s1w30</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-017-p2s1w31">
 <src.rf>manual</src.rf>
@@ -3325,8 +3325,8 @@
 <LM>w#w-mf920922-017-p2s19w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-017-p2s19w7">
 <src.rf>manual</src.rf>

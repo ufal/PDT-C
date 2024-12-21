@@ -576,8 +576,8 @@
 <LM>w#w-mf920924-006-p1s5w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920924-006-p1s5w3">
 <src.rf>manual</src.rf>
@@ -935,8 +935,8 @@
 <LM>w#w-mf920924-006-p1s8w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920924-006-p1s8w3">
 <src.rf>manual</src.rf>

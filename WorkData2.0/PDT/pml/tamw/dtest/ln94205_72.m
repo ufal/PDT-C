@@ -396,7 +396,7 @@
 <LM>w#w-ln94205-72-p2s3w1</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94205-72-p2s3w2">
@@ -630,8 +630,8 @@
 <LM>w#w-ln94205-72-p2s3w27</LM>
 </w.rf>
 <form>stranou</form>
-<lemma>stranou</lemma>
-<tag>Db-------------</tag>
+<lemma>stranou-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94205-72-p2s3w28">
 <src.rf>manual</src.rf>
@@ -648,8 +648,8 @@
 <LM>w#w-ln94205-72-p2s3w29</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-72-p2s3w30">
 <src.rf>manual</src.rf>
@@ -1315,7 +1315,7 @@
 <LM>w#w-ln94205-72-p3s5w10</LM>
 </w.rf>
 <form>regulérnosti</form>
-<lemma>regulérnost</lemma>
+<lemma>regulérnost_,s_^(^DD**regulárnost)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-ln94205-72-p3s5w11">
@@ -1497,8 +1497,8 @@
 <LM>w#w-ln94205-72-p3s6w17</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-72-p3s6w18">
 <src.rf>manual</src.rf>
@@ -1543,7 +1543,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-72-p3s6w23">
 <src.rf>manual</src.rf>
@@ -2269,7 +2269,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-72-p4s3w4">
 <src.rf>manual</src.rf>
@@ -2843,8 +2843,8 @@
 <LM>w#w-ln94205-72-p4s7w1</LM>
 </w.rf>
 <form>Alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-72-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2862,7 +2862,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln94205-72-p4s7w4">
 <src.rf>manual</src.rf>
@@ -3045,8 +3045,8 @@
 <LM>w#w-ln94205-72-p4s9w9</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-72-p4s9w10">
 <src.rf>manual</src.rf>
@@ -3345,7 +3345,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-72-p4s10w17">
 <src.rf>manual</src.rf>
@@ -3371,8 +3371,8 @@
 <LM>w#w-ln94205-72-p4s10w19</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-72-p4s10w20">
 <src.rf>manual</src.rf>

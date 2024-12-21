@@ -1492,7 +1492,7 @@
 <LM>w#w-wsj0126-001-p1s9W3</LM>
 </w.rf>
 <form>baseballových</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-wsj0126-001-p1s9W4-Ta">
@@ -1546,8 +1546,8 @@
 <LM>w#w-wsj0126-001-p1s9W9</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0126-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2304,7 +2304,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0126-001-p1s14W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3396,7 +3396,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0126-001-p1s19W10-Ta">
 <src.rf>tagger-a</src.rf>

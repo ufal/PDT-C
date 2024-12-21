@@ -115,6 +115,10 @@
 <is_member>1</is_member>
 <ord>17</ord>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-wsj1134-001-p1s0W19-Ta">
 <m.rf>m#m-wsj1134-001-p1s0W19-Ta</m.rf>
 <afun>Atr</afun>
@@ -155,16 +159,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-wsj1134-001-p1s0W24-Ta">
 <m.rf>m#m-wsj1134-001-p1s0W24-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -325,12 +325,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1134-001-p1s1W26-Ta">
 <m.rf>m#m-wsj1134-001-p1s1W26-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>26</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

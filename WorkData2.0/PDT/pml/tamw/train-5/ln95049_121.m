@@ -194,7 +194,7 @@
 <LM>w#w-ln95049-121-p2s1Bw13</LM>
 </w.rf>
 <form>Oscar</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-121-p2s1Bw14">
@@ -397,7 +397,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-121-p2s3w4">
 <src.rf>manual</src.rf>
@@ -569,8 +569,8 @@
 <LM>w#w-ln95049-121-p2s4w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-121-p2s4w8">
 <src.rf>manual</src.rf>

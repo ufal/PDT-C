@@ -895,8 +895,8 @@
 <LM>w#w-ln94207-69-p3s3w3</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-69-p3s3w4">
 <src.rf>manual</src.rf>
@@ -3207,7 +3207,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-69-p5s3w7">
 <src.rf>manual</src.rf>
@@ -3316,8 +3316,8 @@
 <LM>w#w-ln94207-69-p5s4w8</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-69-p5s4w9">
 <src.rf>manual</src.rf>

@@ -382,7 +382,7 @@
 </w.rf>
 <form>Whiteovi</form>
 <lemma>White-1_;Y</lemma>
-<tag>NNMS3-----A----</tag>
+<tag>NNMS6-----A----</tag>
 </m>
 <m id="m-wsj1224-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -519,7 +519,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1224-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

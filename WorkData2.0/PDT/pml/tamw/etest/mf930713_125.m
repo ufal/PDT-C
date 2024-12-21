@@ -578,8 +578,8 @@
 <LM>w#w-mf930713-125-p2s4w1</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-125-p2s4w2">
 <src.rf>manual</src.rf>

@@ -619,7 +619,7 @@
 <LM>w#w-mf930709-054-p2s3w9</LM>
 </w.rf>
 <form>zjednodušením</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS7-----A----</tag>
 </m>
 <m id="m-mf930709-054-p2s3w10">
@@ -1202,7 +1202,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AANS6----1A----</tag>
+<tag>PLNS6----------</tag>
 </m>
 <m id="m-mf930709-054-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1246,8 +1246,8 @@
 <LM>w#w-mf930709-054-p2s6w16</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930709-054-p2s6w17">
 <src.rf>manual</src.rf>

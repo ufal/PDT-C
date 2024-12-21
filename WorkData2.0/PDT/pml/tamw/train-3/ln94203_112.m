@@ -749,8 +749,8 @@
 <LM>w#w-ln94203-112-p3s3w9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-112-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1025,8 +1025,8 @@
 <LM>w#w-ln94203-112-p3s6w2</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94203-112-p3s6w3">
 <src.rf>manual</src.rf>

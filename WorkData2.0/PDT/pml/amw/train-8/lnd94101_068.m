@@ -1122,8 +1122,8 @@
 <LM>w#w-lnd94101-068-p1s7w15</LM>
 </w.rf>
 <form>Holovská</form>
-<lemma>holovský</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>Holovská_;Y_^(*1ý)</lemma>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-068-p1s7w16">
 <src.rf>manual</src.rf>

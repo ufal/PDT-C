@@ -180,11 +180,12 @@
 <LM id="a-wsj2279-001-p1s0W28-Ta">
 <m.rf>m#m-wsj2279-001-p1s0W28-Ta</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>28</ord>
 <children>
 <LM id="a-wsj2279-001-p1s0W29-Ta">
 <m.rf>m#m-wsj2279-001-p1s0W29-Ta</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>29</ord>
 <children>
 <LM id="a-wsj2279-001-p1s0W30-Ta">
@@ -206,12 +207,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj2279-001-p1s0W31-Ta">
 <m.rf>m#m-wsj2279-001-p1s0W31-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>31</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -347,12 +348,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj2279-001-p1s1W21-Ta">
 <m.rf>m#m-wsj2279-001-p1s1W21-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>21</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

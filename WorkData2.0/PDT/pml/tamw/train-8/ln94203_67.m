@@ -313,7 +313,7 @@
 <LM>w#w-ln94203-67-p3s1w6</LM>
 </w.rf>
 <form>Samarou</form>
-<lemma>Samara_;G_;Y_;m_^(vozidlo;;město;jméno)</lemma>
+<lemma>Samara_;G_;Y_;m</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="m-ln94203-67-p3s1w7">

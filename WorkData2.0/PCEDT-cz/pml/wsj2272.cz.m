@@ -1106,7 +1106,7 @@
 <LM>w#w-wsj2272-001-p1s4W31</LM>
 </w.rf>
 <form>dceřinnou</form>
-<lemma>dceřinný_,a_^(chybné_od_dceřiný)</lemma>
+<lemma>dceřinný_,i_^(^DS**dceřiný)</lemma>
 <tag>AAFS7----1A----</tag>
 </m>
 <m id="m-wsj2272-001-p1s4W32-Ta">
@@ -2150,8 +2150,8 @@
 <LM>w#w-wsj2272-001-p1s8W18</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2272-001-p1s8W19-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2718,7 +2718,7 @@
 </w.rf>
 <form>blokuje</form>
 <lemma>blokovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-012-p9s2w13">
 <src.rf>manual</src.rf>
@@ -3894,7 +3894,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-012-p10s2w14">
 <src.rf>manual</src.rf>
@@ -6894,7 +6894,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-012-p14s6w25">
 <src.rf>manual</src.rf>
@@ -7249,7 +7249,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-012-p14s8w16">
 <src.rf>manual</src.rf>
@@ -7468,7 +7468,7 @@
 <LM>w#w-vesm9211-012-p15s1w12</LM>
 </w.rf>
 <form>chromozóm</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9211-012-p15s1w13">
@@ -7504,7 +7504,7 @@
 <LM>w#w-vesm9211-012-p15s1w16</LM>
 </w.rf>
 <form>chromozómů</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9211-012-p15s1w17">
@@ -7621,8 +7621,8 @@
 <LM>w#w-vesm9211-012-p15s1w29</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-012-p15s1w30">
 <src.rf>manual</src.rf>
@@ -7857,7 +7857,7 @@
 <LM>w#w-vesm9211-012-p15s2Aw8</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-012-p15s2Aw9">
@@ -8129,7 +8129,7 @@
 <LM>w#w-vesm9211-012-p15s2Bw7</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-012-p15s2Bw8">
@@ -11152,7 +11152,7 @@
 </w.rf>
 <form>datovat</form>
 <lemma>datovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9211-012-p17s4w14">
 <src.rf>manual</src.rf>
@@ -14651,8 +14651,8 @@
 <LM>w#w-vesm9211-012-p21s2w4</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-012-p21s2w5">
 <src.rf>manual</src.rf>
@@ -14780,7 +14780,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-012-p21s3w2">
 <src.rf>manual</src.rf>
@@ -16034,7 +16034,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-012-p22s3w16">
 <src.rf>manual</src.rf>
@@ -18760,7 +18760,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-012-p25s2w2">
 <src.rf>manual</src.rf>
@@ -18922,7 +18922,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-012-p25s2w20">
 <src.rf>manual</src.rf>
@@ -20700,7 +20700,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-012-p28s2w34">
 <src.rf>manual</src.rf>

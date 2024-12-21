@@ -1740,8 +1740,8 @@
 <LM>w#w-wsj2336-001-p1s6W26</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2336-001-p1s6W27-Ta">
 <src.rf>tagger-a</src.rf>

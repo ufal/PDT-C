@@ -932,7 +932,7 @@
 </w.rf>
 <form>vedoucích</form>
 <lemma>vedoucí_^(*6ést)</lemma>
-<tag>AGIP6-----A----</tag>
+<tag>AGMP6-----A----</tag>
 </m>
 <m id="m-wsj0109-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1105,7 +1105,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0109-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1297,7 +1297,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj0109-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1316,7 +1316,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0109-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1389,8 +1389,8 @@
 <LM>w#w-wsj0109-001-p1s5W7</LM>
 </w.rf>
 <form>jasně</form>
-<lemma>jasně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jasně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0109-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2216,7 +2216,7 @@
 <LM>w#w-wsj0109-001-p1s9W10</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-2</lemma>
+<lemma>obzvlášť-2_,s_^(^DD**obzvláště-2)</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj0109-001-p1s9W11-Ta">
@@ -3672,7 +3672,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0109-001-p1s16W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5328,7 +5328,7 @@
 </w.rf>
 <form>cituje</form>
 <lemma>citovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0109-001-p1s25W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7122,8 +7122,8 @@
 <LM>w#w-wsj0109-001-p1s33W14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0109-001-p1s33W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7998,8 +7998,8 @@
 <LM>w#w-wsj0109-001-p1s39W13</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0109-001-p1s39W14-Ta">
 <src.rf>tagger-a</src.rf>

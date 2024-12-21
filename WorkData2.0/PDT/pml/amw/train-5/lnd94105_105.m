@@ -944,7 +944,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-105-p1s4w28">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-lnd94105-105-p1s5w6</LM>
 </w.rf>
 <form>vybuchlo</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VpNS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-105-p1s5w7">

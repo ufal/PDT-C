@@ -173,7 +173,7 @@
 </w.rf>
 <form>české</form>
 <lemma>český</lemma>
-<tag>AAFP1----1A----</tag>
+<tag>AAIP1----1A----</tag>
 </m>
 <m id="m-ln95049-060-p1s1w19">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-060-p1s3w6">
 <src.rf>manual</src.rf>

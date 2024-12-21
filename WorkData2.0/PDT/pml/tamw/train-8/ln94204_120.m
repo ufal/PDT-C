@@ -581,7 +581,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-120-p2s3w6">
 <src.rf>manual</src.rf>
@@ -1110,8 +1110,8 @@
 <LM>w#w-ln94204-120-p3s1w3</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94204-120-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1391,8 +1391,8 @@
 <LM>w#w-ln94204-120-p3s2w4</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-120-p3s2w5">
 <src.rf>manual</src.rf>

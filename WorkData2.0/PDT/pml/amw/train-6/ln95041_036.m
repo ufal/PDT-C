@@ -2126,8 +2126,8 @@
 <LM>w#w-ln95041-036-p2s4w56</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-036-p2s4w57">
 <src.rf>manual</src.rf>
@@ -3617,8 +3617,8 @@
 <LM>w#w-ln95041-036-p4s2w11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95041-036-p4s2w12">
 <src.rf>manual</src.rf>
@@ -3971,7 +3971,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-036-p4s3w7">
 <src.rf>manual</src.rf>
@@ -4160,7 +4160,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-036-p4s3w28">
 <src.rf>manual</src.rf>
@@ -4593,8 +4593,8 @@
 <LM>w#w-ln95041-036-p5s1w22</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-036-p5s1w23">
 <src.rf>manual</src.rf>

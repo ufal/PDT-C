@@ -1114,7 +1114,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj0566-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2615,7 +2615,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0566-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>

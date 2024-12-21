@@ -960,7 +960,7 @@
 <LM>w#w-wsj0582-001-p1s4W29</LM>
 </w.rf>
 <form>odpočitatelné</form>
-<lemma>odpočitatelný_^(*8ítat)</lemma>
+<lemma>odpočitatelný_,s_^(^DD**odpočítatelný)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-wsj0582-001-p1s4W30-Ta">

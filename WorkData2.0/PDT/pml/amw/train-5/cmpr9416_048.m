@@ -3853,8 +3853,8 @@
 <LM>w#w-cmpr9416-048-p13s1w57</LM>
 </w.rf>
 <form>Valy</form>
-<lemma>Vala-1_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<lemma>Valy_;G</lemma>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p13s1w58">
 <src.rf>manual</src.rf>

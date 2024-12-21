@@ -41,34 +41,32 @@
 <afun>Atr</afun>
 <ord>4</ord>
 </LM>
+</children>
+</LM>
 <LM id="a-wsj1061-001-p1s0W6-Ta">
 <m.rf>m#m-wsj1061-001-p1s0W6-Ta</m.rf>
 <afun>Atr</afun>
 <ord>6</ord>
 <children>
-<LM id="a-wsj1061-001-p1s0W8-Ta">
-<m.rf>m#m-wsj1061-001-p1s0W8-Ta</m.rf>
+<LM id="a-wsj1061-001-p1s0W9-Ta">
+<m.rf>m#m-wsj1061-001-p1s0W9-Ta</m.rf>
 <afun>Atr</afun>
-<ord>8</ord>
+<ord>9</ord>
 <children>
 <LM id="a-wsj1061-001-p1s0W7-Ta">
 <m.rf>m#m-wsj1061-001-p1s0W7-Ta</m.rf>
 <afun>Atr</afun>
 <ord>7</ord>
 </LM>
-</children>
-</LM>
-<LM id="a-wsj1061-001-p1s0W9-Ta">
-<m.rf>m#m-wsj1061-001-p1s0W9-Ta</m.rf>
+<LM id="a-wsj1061-001-p1s0W8-Ta">
+<m.rf>m#m-wsj1061-001-p1s0W8-Ta</m.rf>
 <afun>Atr</afun>
-<ord>9</ord>
-<children>
+<ord>8</ord>
+</LM>
 <LM id="a-wsj1061-001-p1s0W10-Ta">
 <m.rf>m#m-wsj1061-001-p1s0W10-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>10</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -100,6 +98,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-wsj1061-001-p1s0W15-Ta">
 <m.rf>m#m-wsj1061-001-p1s0W15-Ta</m.rf>
 <afun>AuxP</afun>
@@ -107,7 +107,7 @@
 <children>
 <LM id="a-wsj1061-001-p1s0W16-Ta">
 <m.rf>m#m-wsj1061-001-p1s0W16-Ta</m.rf>
-<afun>Atr</afun>
+<afun>Obj</afun>
 <ord>16</ord>
 <children>
 <LM id="a-wsj1061-001-p1s0W17-Ta">
@@ -129,7 +129,7 @@
 <children>
 <LM id="a-wsj1061-001-p1s0W19-Ta">
 <m.rf>m#m-wsj1061-001-p1s0W19-Ta</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>19</ord>
 </LM>
 <LM id="a-wsj1061-001-p1s0W21-Ta">
@@ -157,14 +157,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-wsj1061-001-p1s0W24-Ta">
 <m.rf>m#m-wsj1061-001-p1s0W24-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -196,7 +194,7 @@
 </LM>
 <LM id="a-wsj1061-001-p1s1W5-Ta">
 <m.rf>m#m-wsj1061-001-p1s1W5-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>5</ord>
 </LM>
 <LM id="a-wsj1061-001-p1s1W7-Ta">
@@ -244,12 +242,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1061-001-p1s1W13-Ta">
 <m.rf>m#m-wsj1061-001-p1s1W13-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>13</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

@@ -421,8 +421,8 @@
 <LM>w#w-ln94208-41-p2s3w9</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-41-p2s3w10">
 <src.rf>manual</src.rf>
@@ -430,8 +430,8 @@
 <LM>w#w-ln94208-41-p2s3w10</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-41-p2s3w11">
 <src.rf>manual</src.rf>
@@ -947,8 +947,8 @@
 <LM>w#w-ln94208-41-p3s1w29</LM>
 </w.rf>
 <form>pozůstalí</form>
-<lemma>pozůstalý_^(*2t)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>pozůstalý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94208-41-p3s1w30">
 <src.rf>manual</src.rf>

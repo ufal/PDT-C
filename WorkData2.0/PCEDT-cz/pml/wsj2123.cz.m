@@ -2787,8 +2787,8 @@
 <LM>w#w-wsj2123-001-p1s11W19</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2123-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3334,8 +3334,8 @@
 <LM>w#w-wsj2123-001-p1s14W16</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2123-001-p1s14W17-Ta">
 <src.rf>tagger-a</src.rf>

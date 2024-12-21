@@ -785,7 +785,7 @@
 </w.rf>
 <form>nezachovali</form>
 <lemma>zachovat</lemma>
-<tag>VpMP----R-NAI--</tag>
+<tag>VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94205-134-p3s1w33">
 <src.rf>manual</src.rf>
@@ -1404,8 +1404,8 @@
 <LM>w#w-ln94205-134-p4s2w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-134-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1476,8 +1476,8 @@
 <LM>w#w-ln94205-134-p4s2w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-134-p4s2w12">
 <src.rf>manual</src.rf>
@@ -2039,8 +2039,8 @@
 <LM>w#w-ln94205-134-p5s1w15</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-134-p5s1w16">
 <src.rf>manual</src.rf>
@@ -2293,8 +2293,8 @@
 <LM>w#w-ln94205-134-p5s2w25</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-134-p5s2w26">
 <src.rf>manual</src.rf>

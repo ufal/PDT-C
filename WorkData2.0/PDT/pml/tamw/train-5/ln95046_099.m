@@ -1402,7 +1402,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-099-p3s8w14">
 <src.rf>manual</src.rf>
@@ -1619,8 +1619,8 @@
 <LM>w#w-ln95046-099-p3s9w3</LM>
 </w.rf>
 <form>totiž</form>
-<lemma>totiž-2</lemma>
-<tag>TT-------------</tag>
+<lemma>totiž-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95046-099-p3s9w4">
 <src.rf>manual</src.rf>
@@ -1847,7 +1847,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-099-p4s1w23">
 <src.rf>manual</src.rf>

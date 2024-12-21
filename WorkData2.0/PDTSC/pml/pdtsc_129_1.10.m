@@ -21,7 +21,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m036-d1t2335-9">
 <w.rf>
@@ -747,7 +747,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m036-d1t2382-4">
 <w.rf>
@@ -2196,7 +2196,7 @@
 <LM>w#w-d1t2466-1</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m036-d1t2466-2">
@@ -2246,8 +2246,8 @@
 <LM>w#w-d1t2474-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m036-d1t2474-5">
 <w.rf>
@@ -2304,8 +2304,8 @@
 <LM>w#w-d1t2480-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m036-d1t2480-2">
 <w.rf>
@@ -2368,7 +2368,7 @@
 <LM>w#w-d1t2480-9</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m036-d1t2480-10">
@@ -2522,7 +2522,7 @@
 <LM>w#w-d1t2484-7</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m036-d1t2484-8">
@@ -2626,8 +2626,8 @@
 <LM>w#w-d1t2486-9</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m036-d1t2486-10">
 <w.rf>
@@ -2956,7 +2956,7 @@
 <LM>w#w-d1t2504-20</LM>
 </w.rf>
 <form>škopík</form>
-<lemma>škopík</lemma>
+<lemma>škopík_,s_^(^DD**škopek)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m036-103-116">
@@ -3214,7 +3214,7 @@
 <LM>w#w-d1t2508-5</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m036-d1t2508-6">
@@ -3418,7 +3418,7 @@
 <LM>w#w-d1t2508-34</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m036-d1t2508-35">

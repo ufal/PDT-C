@@ -903,8 +903,8 @@
 <LM>w#w-ln94202-43-p2s3w19</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-43-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1504,7 +1504,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-43-p2s6w13">
 <src.rf>manual</src.rf>

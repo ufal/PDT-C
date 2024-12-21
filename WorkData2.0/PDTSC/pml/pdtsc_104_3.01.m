@@ -130,8 +130,8 @@
 <LM>w#w-d1t303-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m045-d1e300-x2-141">
 <w.rf>
@@ -479,7 +479,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m045-d1t317-31">
 <w.rf>
@@ -1594,8 +1594,8 @@
 <LM>w#w-d1t435-4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m045-d1t435-7">
 <w.rf>
@@ -1611,7 +1611,7 @@
 </w.rf>
 <form>to</form>
 <lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m045-d1t435-6">
 <w.rf>
@@ -2607,8 +2607,8 @@
 <LM>w#w-d1t517-10</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m045-d1t517-11">
 <w.rf>
@@ -2715,8 +2715,8 @@
 <LM>w#w-d1t519-12</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m045-d1t519-13">
 <w.rf>
@@ -2813,7 +2813,7 @@
 <LM>w#w-d1t535-6</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m045-d1e530-x2-86">
@@ -2971,8 +2971,8 @@
 <LM>w#w-d1e549-x2-90</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m045-d1e549-x2-91">
 <w.rf>
@@ -2989,8 +2989,8 @@
 <LM>w#w-d1t554-4</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m045-d1t554-5">
 <w.rf>
@@ -3063,7 +3063,7 @@
 <LM>w#w-d1t570-1</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m045-d1t570-2">

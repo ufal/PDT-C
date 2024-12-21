@@ -750,7 +750,7 @@
 </w.rf>
 <form>nevěnovala</form>
 <lemma>věnovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAB--</tag>
 </m>
 <m id="m-ln94203-72-p2s5w15">
 <src.rf>manual</src.rf>

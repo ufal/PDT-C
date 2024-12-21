@@ -876,7 +876,7 @@
 </w.rf>
 <form>nereagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-NAI--</tag>
+<tag>VpMP----R-NAB--</tag>
 </m>
 <m id="m-ln94209-104-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1774,8 +1774,8 @@
 <LM>w#w-ln94209-104-p5s1w23</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94209-104-p5s1w24">
 <src.rf>manual</src.rf>

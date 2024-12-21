@@ -1046,7 +1046,7 @@
 <LM>w#w-mf920901-096-p4s2w7</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf920901-096-p4s2w8">
@@ -1610,8 +1610,8 @@
 <LM>w#w-mf920901-096-p6s1w20</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-096-p6s1w21">
 <src.rf>manual</src.rf>
@@ -2010,8 +2010,8 @@
 <LM>w#w-mf920901-096-p7s1w9</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-096-p7s1w10">
 <src.rf>manual</src.rf>

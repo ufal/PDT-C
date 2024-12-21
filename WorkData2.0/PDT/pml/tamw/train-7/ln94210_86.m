@@ -1878,8 +1878,8 @@
 <LM>w#w-ln94210-86-p4s3w20</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-86-p4s3w21">
 <src.rf>manual</src.rf>
@@ -2160,7 +2160,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-86-p5s1w29">
 <src.rf>manual</src.rf>
@@ -2970,8 +2970,8 @@
 <LM>w#w-ln94210-86-p7s1w11</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-86-p7s1w12">
 <src.rf>manual</src.rf>

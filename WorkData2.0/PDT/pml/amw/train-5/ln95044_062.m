@@ -681,7 +681,7 @@
 </w.rf>
 <form>limitováni</form>
 <lemma>limitovat</lemma>
-<tag>VsMP----X-API--</tag>
+<tag>VsMP----X-APB--</tag>
 </m>
 <m id="m-ln95044-062-p3s1w34">
 <src.rf>manual</src.rf>
@@ -1231,8 +1231,8 @@
 <LM>w#w-ln95044-062-p3s2w27</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-062-p3s2w28">
 <src.rf>manual</src.rf>
@@ -1240,8 +1240,8 @@
 <LM>w#w-ln95044-062-p3s2w28</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-062-p3s2w29">
 <src.rf>manual</src.rf>

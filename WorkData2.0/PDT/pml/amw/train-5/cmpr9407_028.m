@@ -1190,8 +1190,8 @@
 <LM>w#w-cmpr9407-028-p5s5w6</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-028-p5s5w7">
 <src.rf>manual</src.rf>
@@ -1981,7 +1981,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-028-p6s2w11">
 <src.rf>manual</src.rf>

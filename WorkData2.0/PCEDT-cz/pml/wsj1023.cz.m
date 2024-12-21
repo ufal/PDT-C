@@ -644,7 +644,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj1023-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1188,7 +1188,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1023-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

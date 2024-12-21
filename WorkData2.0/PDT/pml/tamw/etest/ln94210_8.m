@@ -2059,7 +2059,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-8-p4s3w5">
 <src.rf>manual</src.rf>
@@ -3869,8 +3869,8 @@
 <LM>w#w-ln94210-8-p7s4w5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-8-p7s4w6">
 <src.rf>manual</src.rf>
@@ -4567,7 +4567,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-8-p9s1w32">
 <src.rf>manual</src.rf>
@@ -4737,8 +4737,8 @@
 <LM>w#w-ln94210-8-p9s1w50</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-8-p9s1w51">
 <src.rf>manual</src.rf>
@@ -5141,8 +5141,8 @@
 <LM>w#w-ln94210-8-p10s4w1</LM>
 </w.rf>
 <form>Kupující</form>
-<lemma>kupující_^(*5ovat)</lemma>
-<tag>AGMS1-----A----</tag>
+<lemma>kupující-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-8-p10s4w2">
 <src.rf>manual</src.rf>
@@ -5323,8 +5323,8 @@
 <LM>w#w-ln94210-8-p11s1w4</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-8-p11s1w5">
 <src.rf>manual</src.rf>
@@ -5460,8 +5460,8 @@
 <LM>w#w-ln94210-8-p11s2w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-8-p11s2w11">
 <src.rf>manual</src.rf>
@@ -5616,7 +5616,7 @@
 </w.rf>
 <form>věnujeme</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAB--</tag>
 </m>
 <m id="m-ln94210-8-p11s3w4">
 <src.rf>manual</src.rf>
@@ -5779,8 +5779,8 @@
 <LM>w#w-ln94210-8-p11s4w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-8-p11s4w14">
 <src.rf>manual</src.rf>

@@ -486,8 +486,8 @@
 <LM>w#w-cmpr9415-019-p4s3w6</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-019-p4s3w7">
 <src.rf>manual</src.rf>
@@ -785,8 +785,8 @@
 <LM>w#w-cmpr9415-019-p4s4w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-019-p4s4w8">
 <src.rf>manual</src.rf>

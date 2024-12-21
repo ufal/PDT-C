@@ -197,8 +197,8 @@
 <LM>w#w-wsj0338-001-p1s0W21</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0338-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -978,8 +978,8 @@
 <LM>w#w-wsj0338-001-p1s3W22</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0338-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1360,8 +1360,8 @@
 <LM>w#w-wsj0338-001-p1s5W21</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0338-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1605,8 +1605,8 @@
 <LM>w#w-wsj0338-001-p1s6W17</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0338-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>

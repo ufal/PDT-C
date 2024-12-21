@@ -151,7 +151,7 @@
 <LM>w#w-vesm9211-024-p4s1w4</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-vesm9211-024-p4s1w5">
@@ -5182,8 +5182,8 @@
 <LM>w#w-vesm9211-024-p15s2w26</LM>
 </w.rf>
 <form>statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP4----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP4---------1</tag>
 </m>
 <m id="m-vesm9211-024-p15s2w27">
 <src.rf>manual</src.rf>
@@ -8778,7 +8778,7 @@
 <LM>w#w-vesm9211-024-p20s3w1</LM>
 </w.rf>
 <form>Neopominutelnou</form>
-<lemma>opominutelný_^(*6out)</lemma>
+<lemma>opominutelný_^(^DD**opomenutelný)_(*6out)</lemma>
 <tag>AAFS7----1N----</tag>
 </m>
 <m id="m-vesm9211-024-p20s3w2">
@@ -10079,7 +10079,7 @@
 </w.rf>
 <form>Limitují</form>
 <lemma>limitovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-024-p21s6w2">
 <src.rf>manual</src.rf>
@@ -12169,7 +12169,7 @@
 <LM>w#w-vesm9211-024-p23s5w11</LM>
 </w.rf>
 <form>umisťovány</form>
-<lemma>umisťovat</lemma>
+<lemma>umisťovat_,s_^(^DD**umísťovat)</lemma>
 <tag>VsTP----X-API--</tag>
 </m>
 <m id="m-vesm9211-024-p23s5w12">
@@ -12681,7 +12681,7 @@
 </w.rf>
 <form>omezené</form>
 <lemma>omezený_^(*3it)</lemma>
-<tag>AANS1----1A----</tag>
+<tag>AANS4----1A----</tag>
 </m>
 <m id="m-vesm9211-024-p24s2w30">
 <src.rf>manual</src.rf>
@@ -12907,8 +12907,8 @@
 <LM>w#w-vesm9211-024-p24s3w8</LM>
 </w.rf>
 <form>statisíců</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP2----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP2---------1</tag>
 </m>
 <m id="m-vesm9211-024-p24s3w9">
 <src.rf>manual</src.rf>
@@ -13034,7 +13034,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-024-p24s3w23">
 <src.rf>manual</src.rf>
@@ -13143,7 +13143,7 @@
 <LM>w#w-vesm9211-024-p24s4w7</LM>
 </w.rf>
 <form>umisťovány</form>
-<lemma>umisťovat</lemma>
+<lemma>umisťovat_,s_^(^DD**umísťovat)</lemma>
 <tag>VsTP----X-API--</tag>
 </m>
 <m id="m-vesm9211-024-p24s4w8">
@@ -15292,8 +15292,8 @@
 <LM>w#w-vesm9211-024-p26s2w12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9211-024-p26s2w13">
 <src.rf>manual</src.rf>
@@ -16486,7 +16486,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-024-p27s6w12">
 <src.rf>manual</src.rf>
@@ -18067,7 +18067,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-024-p30s3w5">
 <src.rf>manual</src.rf>
@@ -18870,7 +18870,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-vesm9211-024-p31s5w2">
 <src.rf>manual</src.rf>

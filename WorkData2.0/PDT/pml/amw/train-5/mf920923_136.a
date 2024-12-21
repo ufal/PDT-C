@@ -68,17 +68,19 @@
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920923-136-p1s1Bw2">
+<m.rf>m#m-mf920923-136-p1s1Bw2</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-mf920923-136-p1s1Bw1">
 <m.rf>m#m-mf920923-136-p1s1Bw1</m.rf>
 <afun>AuxZ</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-mf920923-136-p1s1Bw2">
-<m.rf>m#m-mf920923-136-p1s1Bw2</m.rf>
-<afun>Atr</afun>
-<ord>2</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 </children>
 </LM>
@@ -104,7 +106,7 @@
 <children>
 <LM id="a-mf920923-136-p2s1w2">
 <m.rf>m#m-mf920923-136-p2s1w2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -293,12 +295,13 @@
 <m.rf>m#m-mf920923-136-p2s2w29</m.rf>
 <afun>Atr</afun>
 <is_member>1</is_member>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>29</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-mf920923-136-p2s2w28">
 <m.rf>m#m-mf920923-136-p2s2w28</m.rf>
-<afun>AuxZ</afun>
+<afun>Atr</afun>
 <ord>28</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -308,13 +311,13 @@
 <ord>30</ord>
 <clause_number>2</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920923-136-p2s2w31">
 <m.rf>m#m-mf920923-136-p2s2w31</m.rf>
 <afun>AuxG</afun>
 <ord>31</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -616,7 +619,8 @@
 <children>
 <LM id="a-mf920923-136-p2s5w11">
 <m.rf>m#m-mf920923-136-p2s5w11</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>11</ord>
 <clause_number>2</clause_number>
 </LM>

@@ -565,8 +565,8 @@
 <LM>w#w-ln94207-43-p2s2w23</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-43-p2s2w24">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-ln94207-43-p2s3w15</LM>
 </w.rf>
 <form>nesehnal</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94207-43-p2s3w16">
@@ -768,7 +768,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-43-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <LM>w#w-ln94207-43-p2s7w16</LM>
 </w.rf>
 <form>vypjaté</form>
-<lemma>vypjatý</lemma>
+<lemma>vypjatý_,s_^(^DD**vypnutý)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-ln94207-43-p2s7w17">

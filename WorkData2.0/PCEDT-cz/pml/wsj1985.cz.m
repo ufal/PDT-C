@@ -560,8 +560,8 @@
 <LM>w#w-wsj1985-001-p1s2W15</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1985-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -960,8 +960,8 @@
 <LM>w#w-wsj1985-001-p1s4W7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1985-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1426,7 +1426,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1985-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2086,8 +2086,8 @@
 <LM>w#w-wsj1985-001-p1s9W19</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1985-001-p1s9W20-Ta">
 <src.rf>tagger-a</src.rf>

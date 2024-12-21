@@ -1478,7 +1478,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95045-029-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1961,7 +1961,7 @@
 </w.rf>
 <form>tréninku</form>
 <lemma>trénink</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95045-029-p4s4w14">
 <src.rf>manual</src.rf>

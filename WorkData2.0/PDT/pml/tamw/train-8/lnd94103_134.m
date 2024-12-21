@@ -304,8 +304,8 @@
 <LM>w#w-lnd94103-134-p1s3w21</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-134-p1s3w22">
 <src.rf>manual</src.rf>
@@ -378,8 +378,8 @@
 <LM>w#w-lnd94103-134-p1s4w1</LM>
 </w.rf>
 <form>Alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-134-p1s4w2">
 <src.rf>manual</src.rf>
@@ -751,8 +751,8 @@
 <LM>w#w-lnd94103-134-p1s6w18</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-134-p1s6w19">
 <src.rf>manual</src.rf>
@@ -872,8 +872,8 @@
 <LM>w#w-lnd94103-134-p1s8w2</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-134-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1045,8 +1045,8 @@
 <LM>w#w-lnd94103-134-p1s9w4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-134-p1s9w5">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-134-p1s10w15">
 <src.rf>manual</src.rf>
@@ -1580,8 +1580,8 @@
 <LM>w#w-lnd94103-134-p1s11w13</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-134-p1s11w14">
 <src.rf>manual</src.rf>
@@ -1880,8 +1880,8 @@
 <LM>w#w-lnd94103-134-p1s12w10</LM>
 </w.rf>
 <form>mladým</form>
-<lemma>mladý</lemma>
-<tag>AAMP3----1A----</tag>
+<lemma>mladý-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-lnd94103-134-p1s12w11">
 <src.rf>manual</src.rf>
@@ -1973,7 +1973,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-134-p1s13w10">
 <src.rf>manual</src.rf>
@@ -2409,7 +2409,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-134-p1s15w5">
 <src.rf>manual</src.rf>

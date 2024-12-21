@@ -173,8 +173,8 @@
 <LM>w#w-wsj1450-001-p1s2W1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1042,8 +1042,8 @@
 <LM>w#w-wsj1450-001-p1s8W5</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1735,8 +1735,8 @@
 <LM>w#w-wsj1450-001-p1s12W4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s12W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1963,7 +1963,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj1450-001-p1s13W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2289,7 +2289,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s14W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2498,7 +2498,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s15W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3912,7 +3912,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj1450-001-p1s24W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4030,8 +4030,8 @@
 <LM>w#w-wsj1450-001-p1s25W5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s25W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6481,7 +6481,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1450-001-p1s37W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6624,8 +6624,8 @@
 <LM>w#w-wsj1450-001-p1s37W19</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s37W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6714,8 +6714,8 @@
 <LM>w#w-wsj1450-001-p1s37W29</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s37W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6843,7 +6843,7 @@
 </w.rf>
 <form>minimalizovat</form>
 <lemma>minimalizovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1450-001-p1s38W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7360,8 +7360,8 @@
 <LM>w#w-wsj1450-001-p1s40W16</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s40W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7951,8 +7951,8 @@
 <LM>w#w-wsj1450-001-p1s43W12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s43W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8664,7 +8664,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s48W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8972,7 +8972,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1450-001-p1s49W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9109,7 +9109,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1450-001-p1s50W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9263,8 +9263,8 @@
 <LM>w#w-wsj1450-001-p1s51W3</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1450-001-p1s51W4-Ta">
 <src.rf>tagger-a</src.rf>

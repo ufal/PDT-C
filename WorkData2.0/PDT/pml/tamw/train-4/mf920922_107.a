@@ -18,7 +18,7 @@
 <children>
 <LM id="a-mf920922-107-p1s1w2">
 <m.rf>m#m-mf920922-107-p1s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -30,7 +30,7 @@
 </LM>
 <LM id="a-mf920922-107-p1s1w3">
 <m.rf>m#m-mf920922-107-p1s1w3</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -42,32 +42,26 @@
 <s.rf>m#m-mf920922-107-p1s2</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-mf920922-107-p1s2w7">
-<m.rf>m#m-mf920922-107-p1s2w7</m.rf>
-<afun>Coord</afun>
-<ord>7</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-mf920922-107-p1s2w1">
 <m.rf>m#m-mf920922-107-p1s2w1</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Adv</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-mf920922-107-p1s2w3">
+<m.rf>m#m-mf920922-107-p1s2w3</m.rf>
+<afun>Pnom</afun>
+<is_extra_dependency>1</is_extra_dependency>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-mf920922-107-p1s2w2">
 <m.rf>m#m-mf920922-107-p1s2w2</m.rf>
 <afun>AuxX</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-mf920922-107-p1s2w3">
-<m.rf>m#m-mf920922-107-p1s2w3</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
-<ord>3</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-mf920922-107-p1s2w4">
 <m.rf>m#m-mf920922-107-p1s2w4</m.rf>
 <afun>AuxP</afun>
@@ -95,13 +89,19 @@
 <LM id="a-mf920922-107-p1s2w8">
 <m.rf>m#m-mf920922-107-p1s2w8</m.rf>
 <afun>AuxP</afun>
-<is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920922-107-p1s2w7">
+<m.rf>m#m-mf920922-107-p1s2w7</m.rf>
+<afun>AuxG</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-mf920922-107-p1s2w9">
 <m.rf>m#m-mf920922-107-p1s2w9</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -122,8 +122,6 @@
 <afun>Atr</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

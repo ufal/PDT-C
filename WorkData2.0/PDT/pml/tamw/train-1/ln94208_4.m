@@ -73,7 +73,7 @@
 <LM>w#w-ln94208-4-p1s1w7</LM>
 </w.rf>
 <form>pola</form>
-<lemma>polo-1_^(^DD**pólo)</lemma>
+<lemma>polo-1_,s_^(^DD**pólo)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-ln94208-4-p1s1w8">
@@ -100,8 +100,8 @@
 <LM>w#w-ln94208-4-p1s1w10</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-4-p1s1w11">
 <src.rf>manual</src.rf>

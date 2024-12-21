@@ -178,8 +178,8 @@
 <LM>w#w-cmpr9415-036-p4s3w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-036-p4s3w2">
 <src.rf>manual</src.rf>
@@ -223,8 +223,8 @@
 <LM>w#w-cmpr9415-036-p4s3w6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-036-p4s3w7">
 <src.rf>manual</src.rf>

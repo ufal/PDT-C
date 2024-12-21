@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_035_2.07.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="ml-25819_03.07-SCzechA-ml-25819_03-4300-root">
 <s.rf>m#m993-25819_03-4300</s.rf>
@@ -65,12 +68,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="ml-25819_03.07-SCzechA-m-4300-4308">
 <m.rf>m#m993-4300-4308</m.rf>
 <afun>AuxK</afun>
 <ord>10</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -82,11 +85,13 @@
 <m.rf>m#m993-d1t1788-1</m.rf>
 <afun>Pred</afun>
 <ord>1</ord>
-</LM>
+<children>
 <LM id="ml-25819_03.07-SCzechA-m-d-id123408">
 <m.rf>m#m993-d-id123408</m.rf>
 <afun>AuxK</afun>
 <ord>2</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -109,12 +114,12 @@
 <afun>Sb</afun>
 <ord>3</ord>
 </LM>
-</children>
-</LM>
 <LM id="ml-25819_03.07-SCzechA-m-d1e1790-x2-4485">
 <m.rf>m#m993-d1e1790-x2-4485</m.rf>
 <afun>AuxK</afun>
 <ord>4</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -139,12 +144,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="ml-25819_03.07-SCzechA-m-d1e1790-x2-4379">
 <m.rf>m#m993-d1e1790-x2-4379</m.rf>
 <afun>AuxK</afun>
 <ord>4</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -162,12 +167,12 @@
 <afun>Obj</afun>
 <ord>2</ord>
 </LM>
-</children>
-</LM>
 <LM id="ml-25819_03.07-SCzechA-m-d-id123492">
 <m.rf>m#m993-d-id123492</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

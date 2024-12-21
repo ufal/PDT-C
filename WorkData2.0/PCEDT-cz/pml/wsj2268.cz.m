@@ -205,8 +205,8 @@
 <LM>w#w-wsj2268-001-p1s1W22</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2268-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -312,7 +312,6 @@
 <w.rf>
 <LM>w#w-wsj2268-001-p1s1W34</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>41.8</form>
 <lemma>41.8</lemma>
 <tag>C=-------------</tag>
@@ -696,7 +695,7 @@
 <LM>w#w-wsj2268-001-p1s3W13</LM>
 </w.rf>
 <form>hypotéční</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-wsj2268-001-p1s3W14-Ta">
@@ -1574,7 +1573,7 @@
 </w.rf>
 <form>přesáhly</form>
 <lemma>přesáhnout</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj2268-001-p1s5W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1710,8 +1709,8 @@
 <LM>w#w-wsj2268-001-p1s6W8</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2268-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1720,7 +1719,7 @@
 </w.rf>
 <form>dvojnásobek</form>
 <lemma>dvojnásobek</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj2268-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>

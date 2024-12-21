@@ -1511,7 +1511,6 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s4W20</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.34</form>
 <lemma>1.34</lemma>
 <tag>C=-------------</tag>
@@ -1721,7 +1720,6 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s5W18</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>3.10</form>
 <lemma>3.10</lemma>
 <tag>C=-------------</tag>

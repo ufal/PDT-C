@@ -854,8 +854,8 @@
 <LM>w#w-ln95043-052-p3s1w22</LM>
 </w.rf>
 <form>tentokráte</form>
-<lemma>tentokrát</lemma>
-<tag>Db------------2</tag>
+<lemma>tentokráte_,s_^(^DD**tentokrát)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95043-052-p3s1w23">
 <src.rf>manual</src.rf>
@@ -863,8 +863,8 @@
 <LM>w#w-ln95043-052-p3s1w23</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-052-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1524,8 +1524,8 @@
 <LM>w#w-ln95043-052-p3s3w13</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-052-p3s3w14">
 <src.rf>manual</src.rf>
@@ -3360,8 +3360,8 @@
 <LM>w#w-ln95043-052-p4s5w18</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95043-052-p4s5w19">
 <src.rf>manual</src.rf>
@@ -3387,7 +3387,7 @@
 <LM>w#w-ln95043-052-p4s5w21</LM>
 </w.rf>
 <form>odeznívají</form>
-<lemma>odeznívat</lemma>
+<lemma>odeznívat_^(*3t)</lemma>
 <tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-052-p4s5w22">
@@ -4195,7 +4195,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-052-p5s2w13">
 <src.rf>manual</src.rf>
@@ -6350,7 +6350,7 @@
 <LM>w#w-ln95043-052-p6s2w34</LM>
 </w.rf>
 <form>utváří</form>
-<lemma>utvářet_^(tvořit)</lemma>
+<lemma>utvářet</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-052-p6s2w35">

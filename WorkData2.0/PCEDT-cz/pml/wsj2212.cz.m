@@ -2012,7 +2012,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2212-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>

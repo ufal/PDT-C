@@ -52,7 +52,7 @@
 <LM>w#w-wsj2446-001-p1s0W5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj2446-001-p1s0W6-Ta">
@@ -1338,7 +1338,7 @@
 </w.rf>
 <form>citováno</form>
 <lemma>citovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-wsj2446-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1717,8 +1717,8 @@
 <LM>w#w-wsj2446-001-p1s4W8</LM>
 </w.rf>
 <form>určitě</form>
-<lemma>určitě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>určitě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2446-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2897,8 +2897,8 @@
 <LM>w#w-wsj2446-001-p1s9W25</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2446-001-p1s9W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4071,8 +4071,8 @@
 <LM>w#w-wsj2446-001-p1s15W10</LM>
 </w.rf>
 <form>Riegle</form>
-<lemma>Riegl_;Y</lemma>
-<tag>NNMS5-----A----</tag>
+<lemma>Riegle_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2446-001-p1s15W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4288,7 +4288,7 @@
 <LM>w#w-wsj2446-001-p1s15W34</LM>
 </w.rf>
 <form>sehnal</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2446-001-p1s15W35-Ta">
@@ -5361,7 +5361,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2446-001-p1s19W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6824,7 +6824,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2446-001-p1s24W4-Ta">
 <src.rf>tagger-a</src.rf>

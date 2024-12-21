@@ -877,8 +877,8 @@
 <LM>w#w-wsj0672-001-p1s2W27</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0672-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -886,8 +886,8 @@
 <LM>w#w-wsj0672-001-p1s2W28</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0672-001-p1s2W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-wsj0672-001-p1s4W9</LM>
 </w.rf>
 <form>odečitatelných</form>
-<lemma>odečitatelný_^(*8ítat)</lemma>
+<lemma>odečitatelný_,s_^(^DD**odečítatelný)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-wsj0672-001-p1s4W10-Ta">
@@ -1476,7 +1476,7 @@
 <LM>w#w-wsj0672-001-p1s4W18</LM>
 </w.rf>
 <form>odečitatelnou</form>
-<lemma>odečitatelný_^(*8ítat)</lemma>
+<lemma>odečitatelný_,s_^(^DD**odečítatelný)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-wsj0672-001-p1s4W19-Ta">
@@ -2395,8 +2395,8 @@
 <LM>w#w-wsj0672-001-p1s8W22</LM>
 </w.rf>
 <form>A</form>
-<lemma>a-1</lemma>
-<tag>J^-------------</tag>
+<lemma>A-33</lemma>
+<tag>Q3-------------</tag>
 </m>
 <m id="m-wsj0672-001-p1s8W23-Ta">
 <src.rf>tagger-a</src.rf>

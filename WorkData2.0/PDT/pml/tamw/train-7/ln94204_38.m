@@ -493,8 +493,8 @@
 <LM>w#w-ln94204-38-p2s2w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-38-p2s2w16">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 </w.rf>
 <form>přesáhly</form>
 <lemma>přesáhnout</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94204-38-p2s3w6">
 <src.rf>manual</src.rf>

@@ -1791,7 +1791,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-033-p3s8w9">
 <src.rf>manual</src.rf>
@@ -5406,8 +5406,8 @@
 <LM>w#w-vesm9211-033-p9s1w38</LM>
 </w.rf>
 <form>zkraje</form>
-<lemma>zkraje-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zkraje-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-033-p9s1w39">
 <src.rf>manual</src.rf>

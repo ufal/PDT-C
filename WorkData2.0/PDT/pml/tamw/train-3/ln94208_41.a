@@ -18,7 +18,8 @@
 <children>
 <LM id="a-ln94208-41-p1s1w1">
 <m.rf>m#m-ln94208-41-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -72,17 +73,19 @@
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-ln94208-41-p2s1w6">
-<m.rf>m#m-ln94208-41-p2s1w6</m.rf>
-<afun>AuxZ</afun>
-<ord>6</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-ln94208-41-p2s1w7">
 <m.rf>m#m-ln94208-41-p2s1w7</m.rf>
 <afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-ln94208-41-p2s1w6">
+<m.rf>m#m-ln94208-41-p2s1w6</m.rf>
+<afun>Adv</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-ln94208-41-p2s1w9">
 <m.rf>m#m-ln94208-41-p2s1w9</m.rf>
@@ -312,10 +315,10 @@
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-ln94208-41-p2s3w9">
-<m.rf>m#m-ln94208-41-p2s3w9</m.rf>
+<LM id="a-ln94208-41-p2s3w8">
+<m.rf>m#m-ln94208-41-p2s3w8</m.rf>
 <afun>Apos</afun>
-<ord>9</ord>
+<ord>8</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94208-41-p2s3w7">
@@ -341,10 +344,10 @@
 </LM>
 </children>
 </LM>
-<LM id="a-ln94208-41-p2s3w8">
-<m.rf>m#m-ln94208-41-p2s3w8</m.rf>
-<afun>AuxX</afun>
-<ord>8</ord>
+<LM id="a-ln94208-41-p2s3w9">
+<m.rf>m#m-ln94208-41-p2s3w9</m.rf>
+<afun>AuxZ</afun>
+<ord>9</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94208-41-p2s3w11">
@@ -354,18 +357,18 @@
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-ln94208-41-p2s3w12">
-<m.rf>m#m-ln94208-41-p2s3w12</m.rf>
-<afun>Adv</afun>
-<ord>12</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-ln94208-41-p2s3w10">
 <m.rf>m#m-ln94208-41-p2s3w10</m.rf>
 <afun>AuxZ</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-ln94208-41-p2s3w12">
+<m.rf>m#m-ln94208-41-p2s3w12</m.rf>
+<afun>Adv</afun>
+<ord>12</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-ln94208-41-p2s3w19">
 <m.rf>m#m-ln94208-41-p2s3w19</m.rf>
 <afun>Atr</afun>

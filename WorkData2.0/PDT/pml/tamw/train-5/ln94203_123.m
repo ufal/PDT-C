@@ -857,8 +857,8 @@
 <LM>w#w-ln94203-123-p3s11w6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-123-p3s11w7">
 <src.rf>manual</src.rf>

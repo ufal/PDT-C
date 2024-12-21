@@ -43,8 +43,8 @@
 <LM>w#w-wsj2021-001-p1s0W4</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2021-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -52,7 +52,7 @@
 <LM>w#w-wsj2021-001-p1s0W5</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-wsj2021-001-p1s0W6-Ta">
@@ -862,7 +862,7 @@
 </w.rf>
 <form>století</form>
 <lemma>století</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj2021-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -880,7 +880,7 @@
 </w.rf>
 <form>věnovalo</form>
 <lemma>věnovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-wsj2021-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1690,8 +1690,8 @@
 <LM>w#w-wsj2021-001-p1s9W14</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2021-001-p1s9W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1699,8 +1699,8 @@
 <LM>w#w-wsj2021-001-p1s9W15</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2021-001-p1s9W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1744,7 +1744,7 @@
 <LM>w#w-wsj2021-001-p1s9W20</LM>
 </w.rf>
 <form>začouzenou</form>
-<lemma>začouzený</lemma>
+<lemma>začouzený_,s_^(^DD**začouděný)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-wsj2021-001-p1s9W21-Ta">
@@ -1855,8 +1855,8 @@
 <LM>w#w-wsj2021-001-p1s10W8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2021-001-p1s10W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3592,8 +3592,8 @@
 <LM>w#w-wsj2021-001-p1s19W22</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2021-001-p1s19W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4005,7 +4005,7 @@
 <LM>w#w-wsj2021-001-p1s23W3</LM>
 </w.rf>
 <form>opominul</form>
-<lemma>opominout</lemma>
+<lemma>opominout_,s_^(^DD**opomenout)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2021-001-p1s23W4-Ta">
@@ -4769,8 +4769,8 @@
 <LM>w#w-wsj2021-001-p1s27W1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2021-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4898,7 +4898,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj2021-001-p1s28W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5044,7 +5044,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj2021-001-p1s29W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5215,7 +5215,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-wsj2021-001-p1s29W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5562,8 +5562,8 @@
 <LM>w#w-wsj2021-001-p1s32W3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2021-001-p1s32W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6315,8 +6315,8 @@
 <LM>w#w-wsj2021-001-p1s35W30</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2021-001-p1s35W31-Ta">
 <src.rf>tagger-a</src.rf>

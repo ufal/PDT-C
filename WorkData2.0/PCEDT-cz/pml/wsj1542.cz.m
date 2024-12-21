@@ -948,7 +948,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-wsj1542-001-p1s2W42-Ta">
 <src.rf>tagger-a</src.rf>

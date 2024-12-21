@@ -824,8 +824,8 @@
 <LM>w#w-mf920924-110-p3s4Aw2</LM>
 </w.rf>
 <form>mladí</form>
-<lemma>mladý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>mladý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-mf920924-110-p3s4Aw3">
 <src.rf>manual</src.rf>

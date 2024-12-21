@@ -86,8 +86,8 @@
 <LM>w#w-d1t3334-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m059-d1e3331-x2-55">
 <w.rf>
@@ -395,7 +395,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AANP2----1A----</tag>
+<tag>PLNP2----------</tag>
 </m>
 <m id="m059-d1t3372-5">
 <w.rf>
@@ -604,8 +604,8 @@
 <LM>w#w-d1t3395-8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m059-d1t3398-1">
 <w.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-d1t3441-4</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m059-145-153">
@@ -876,7 +876,7 @@
 <LM>w#w-d1t3441-7</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m059-145-152">
@@ -1016,8 +1016,8 @@
 <LM>w#w-d1e3453-x2-984</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m059-d1t3456-3">
 <w.rf>
@@ -1528,8 +1528,8 @@
 <LM>w#w-d1t3509-11</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m059-d1t3509-12">
 <w.rf>
@@ -1786,8 +1786,8 @@
 <LM>w#w-d1t3552-3</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m059-d1t3552-4">
 <w.rf>
@@ -2174,8 +2174,8 @@
 <LM>w#w-d1t3604-3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m059-d1t3604-4">
 <w.rf>
@@ -2335,7 +2335,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m059-d1t3622-3">
 <w.rf>
@@ -2506,7 +2506,7 @@
 <LM>w#w-d1t3637-12</LM>
 </w.rf>
 <form>ježdění</form>
-<lemma>ježdění</lemma>
+<lemma>ježdění_^(*5zdit)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m059-324-326">
@@ -2770,8 +2770,8 @@
 <LM>w#w-d1t3694-1</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m059-d1t3698-1">
 <w.rf>
@@ -2837,7 +2837,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m059-d1t3711-2">
 <w.rf>
@@ -2868,8 +2868,8 @@
 <LM>w#w-d1t3711-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m059-d1t3711-6">
 <w.rf>
@@ -2942,8 +2942,8 @@
 <LM>w#w-d1t3721-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m059-d1t3721-7">
 <w.rf>
@@ -2975,7 +2975,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m059-d1t3732-4">
 <w.rf>
@@ -3120,8 +3120,8 @@
 <LM>w#w-d1t3749-4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m059-d1t3749-5">
 <w.rf>
@@ -3348,8 +3348,8 @@
 <LM>w#w-d1t3778-4</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m059-d1t3778-5">
 <w.rf>
@@ -3610,7 +3610,7 @@
 <LM>w#w-d1t3811-4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m059-d1t3811-3">
@@ -3790,8 +3790,8 @@
 <LM>w#w-d1t3839-9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m059-d1t3839-10">
 <w.rf>

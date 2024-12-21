@@ -603,7 +603,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-cmpr9413-010-p7s1w14">
 <src.rf>manual</src.rf>
@@ -856,8 +856,8 @@
 <LM>w#w-cmpr9413-010-p7s2w12</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9413-010-p7s2w13">
 <src.rf>manual</src.rf>

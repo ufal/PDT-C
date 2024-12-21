@@ -448,8 +448,8 @@
 <LM>w#w-d1t1412-1</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m984-d1t1412-2">
 <w.rf>
@@ -628,8 +628,8 @@
 <LM>w#w-d1t1420-12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m984-d1t1420-13">
 <w.rf>
@@ -1030,8 +1030,8 @@
 <LM>w#w-d1t1464-5</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m984-d1t1464-6">
 <w.rf>
@@ -1771,7 +1771,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m984-d1t1526-5">
 <w.rf>
@@ -1844,7 +1844,7 @@
 <LM>w#w-d1t1536-10</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m984-d1t1536-11">
@@ -2362,8 +2362,8 @@
 <LM>w#w-d1t1553-7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m984-d1t1553-8">
 <w.rf>
@@ -2397,7 +2397,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m984-d1t1555-2">
 <w.rf>
@@ -2940,8 +2940,8 @@
 <LM>w#w-d1t1577-4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m984-d1t1577-1">
 <w.rf>
@@ -3608,7 +3608,7 @@
 <LM>w#w-d1t1605-14</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m984-d1t1605-16">
@@ -3786,8 +3786,8 @@
 <LM>w#w-d1t1614-9</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m984-d1t1618-1">
 <w.rf>
@@ -4309,7 +4309,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m984-d1t1640-2">
 <w.rf>

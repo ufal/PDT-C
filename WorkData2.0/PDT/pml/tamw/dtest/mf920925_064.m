@@ -312,7 +312,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-mf920925-064-p2s2w10">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-mf920925-064-p2s6w18</LM>
 </w.rf>
 <form>nepostradatelnou</form>
-<lemma>postradatelný_^(*8ádat)</lemma>
+<lemma>postradatelný_,s_^(^DD**postrádatelný)</lemma>
 <tag>AAFS7----1N----</tag>
 </m>
 <m id="m-mf920925-064-p2s6w19">

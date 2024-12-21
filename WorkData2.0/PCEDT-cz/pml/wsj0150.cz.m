@@ -636,7 +636,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0150-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1231,7 +1231,7 @@
 <LM>w#w-wsj0150-001-p1s6W3</LM>
 </w.rf>
 <form>dceřinných</form>
-<lemma>dceřinný_,a_^(chybné_od_dceřiný)</lemma>
+<lemma>dceřinný_,i_^(^DS**dceřiný)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-wsj0150-001-p1s6W4-Ta">
@@ -1424,7 +1424,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0150-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>

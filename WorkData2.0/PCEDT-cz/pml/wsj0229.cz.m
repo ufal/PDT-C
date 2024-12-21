@@ -645,7 +645,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0229-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -820,7 +820,7 @@
 </w.rf>
 <form>zachová</form>
 <lemma>zachovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-wsj0229-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>

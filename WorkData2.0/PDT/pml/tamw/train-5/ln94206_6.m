@@ -593,8 +593,8 @@
 <LM>w#w-ln94206-6-p2s3w36</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-6-p2s3w37">
 <src.rf>manual</src.rf>
@@ -2459,7 +2459,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94206-6-p3s4w10">
 <src.rf>manual</src.rf>
@@ -2503,7 +2503,7 @@
 <LM>w#w-ln94206-6-p3s4w14</LM>
 </w.rf>
 <form>vyjednavači</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMP7-----A----</tag>
 </m>
 <m id="m-ln94206-6-p3s4w15">
@@ -2730,8 +2730,8 @@
 <LM>w#w-ln94206-6-p3s5w10</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-6-p3s5w11">
 <src.rf>manual</src.rf>
@@ -3765,7 +3765,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-6-p4s3w20">
 <src.rf>manual</src.rf>
@@ -3793,8 +3793,8 @@
 <LM>w#w-ln94206-6-p4s4w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-6-p4s4w2">
 <src.rf>manual</src.rf>
@@ -3947,7 +3947,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-ln94206-6-p4s4w20">
 <src.rf>manual</src.rf>
@@ -4173,7 +4173,7 @@
 <LM>w#w-ln94206-6-p4s5w22</LM>
 </w.rf>
 <form>ofenzivního</form>
-<lemma>ofenzivní</lemma>
+<lemma>ofenzivní_,s_^(^DD**ofenzívní)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-ln94206-6-p4s5w23">
@@ -4265,8 +4265,8 @@
 <LM>w#w-ln94206-6-p4s6w8</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-6-p4s6w9">
 <src.rf>manual</src.rf>
@@ -4708,8 +4708,8 @@
 <LM>w#w-ln94206-6-p4s7w27</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94206-6-p4s7w28">
 <src.rf>manual</src.rf>

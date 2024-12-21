@@ -1265,7 +1265,7 @@
 <LM>w#w-ln95048-086-p3s4w3</LM>
 </w.rf>
 <form>vyzývatel</form>
-<lemma>vyzývatel</lemma>
+<lemma>vyzývatel_,s_^(^DD**vyzyvatel)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-086-p3s4w4">
@@ -1669,8 +1669,8 @@
 <LM>w#w-ln95048-086-p4s2w3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-086-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1842,8 +1842,8 @@
 <LM>w#w-ln95048-086-p4s3w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-086-p4s3w7">
 <src.rf>manual</src.rf>

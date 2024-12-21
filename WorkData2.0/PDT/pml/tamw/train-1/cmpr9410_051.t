@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_051.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -47,8 +47,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_special>caption</discourse_special>
-<val_frame.rf>v#v-w3468f1</val_frame.rf>
+<discourse_feature>caption</discourse_feature>
+<val_frame.rf>v#v41fmtB</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-051-p3s1a0">
 <nodetype>complex</nodetype>
@@ -74,7 +74,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>metr</t_lemma>
-<functor>EFF</functor>
+<functor>PAT</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>inan</gender>
@@ -122,6 +122,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -137,7 +138,8 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kolik</t_lemma>
-<functor>PAT</functor>
+<functor>EXT</functor>
+<proto_lemma>kolik</proto_lemma>
 <gram>
 <sempos>adj.quant.indef</sempos>
 <indeftype>inter</indeftype>
@@ -175,15 +177,14 @@
 <factmod>asserted</factmod>
 </gram>
 <tfa>f</tfa>
-<deepord>9</deepord>
-<val_frame.rf>v#v-w409f4</val_frame.rf>
+<deepord>10</deepord>
+<val_frame.rf>v#v41reK</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-051-p3s2w5">
 <a>
 <lex.rf>a#a-cmpr9410-051-p3s2w5</lex.rf>
 <aux.rf>
 <LM>a#a-cmpr9410-051-p3s2w1</LM>
-<LM>a#a-cmpr9410-051-p3s2w7</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -207,6 +208,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-051-p3s2w1</LM>
@@ -214,7 +216,7 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w4634f1</val_frame.rf>
+<val_frame.rf>v#v41hslA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-051-p3s2w4">
 <a>
@@ -223,6 +225,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -275,6 +278,16 @@
 </LM>
 </children>
 </LM>
+<LM id="t-cmpr9410-051-p3s2a2">
+<a>
+<lex.rf>a#a-cmpr9410-051-p3s2w7</lex.rf>
+</a>
+<nodetype>atom</nodetype>
+<t_lemma>tak</t_lemma>
+<functor>PREC</functor>
+<tfa>t</tfa>
+<deepord>5</deepord>
+</LM>
 <LM id="t-cmpr9410-051-p3s2a1">
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
@@ -288,7 +301,7 @@
 <politeness>polite</politeness>
 </gram>
 <tfa>t</tfa>
-<deepord>5</deepord>
+<deepord>6</deepord>
 <coref_text>
 <LM>
 <target_node.rf>t-cmpr9410-051-p3s2w3</target_node.rf>
@@ -312,7 +325,7 @@
 <politeness>basic</politeness>
 </gram>
 <tfa>t</tfa>
-<deepord>6</deepord>
+<deepord>7</deepord>
 <coref_text>
 <LM>
 <target_node.rf>t-cmpr9410-051-p3s1a0</target_node.rf>
@@ -325,14 +338,15 @@
 <lex.rf>a#a-cmpr9410-051-p3s2w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tady</t_lemma>
+<t_lemma>tu</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>tady</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
 <tfa>t</tfa>
-<deepord>7</deepord>
+<deepord>8</deepord>
 </LM>
 <LM id="t-cmpr9410-051-p3s2w15">
 <a>
@@ -351,7 +365,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>t</tfa>
-<deepord>8</deepord>
+<deepord>9</deepord>
 </LM>
 <LM id="t-cmpr9410-051-p3s2w12">
 <a>
@@ -370,7 +384,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>10</deepord>
+<deepord>11</deepord>
 <compl.rf>
 <LM>t-cmpr9410-051-p3s2a1</LM>
 </compl.rf>
@@ -388,7 +402,7 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>11</deepord>
+<deepord>12</deepord>
 </LM>
 </children>
 </LM>
@@ -406,7 +420,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>12</deepord>
+<deepord>13</deepord>
 </LM>
 </children>
 </LM>

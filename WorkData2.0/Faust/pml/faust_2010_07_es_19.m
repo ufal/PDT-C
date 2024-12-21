@@ -249,7 +249,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_19-SCzechM-p1990-s1-w22">
 <w.rf>
@@ -626,8 +626,8 @@
 <LM>w#w-es_19-SCzechM-p2001-s1-w5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2001-s1-w6">
 <w.rf>
@@ -710,8 +710,8 @@
 <LM>w#w-es_19-SCzechM-p2004-s1-w1</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 </s>
 <s id="s-es_19-SCzechM-p2006-s1-w3">
@@ -1294,8 +1294,8 @@
 <LM>w#w-es_19-SCzechM-p2018-s1-w17</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2018-s1-w18">
 <w.rf>
@@ -2889,8 +2889,8 @@
 <LM>w#w-es_19-SCzechM-p2034-s1-w65</LM>
 </w.rf>
 <form>díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP4-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2034-s1-w66">
 <w.rf>
@@ -3610,8 +3610,8 @@
 <LM>w#w-es_19-SCzechM-p2049-s1-w32</LM>
 </w.rf>
 <form>Jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2049-s1-w33">
 <w.rf>
@@ -3971,7 +3971,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2053-s1-w3">
 <w.rf>
@@ -4903,8 +4903,8 @@
 <w.rf>
 <LM>w#w-es_19-SCzechM-p2080-s1-w6</LM>
 </w.rf>
-<form>></form>
-<lemma>></lemma>
+<form>&gt;</form>
+<lemma>&gt;</lemma>
 <tag>Z:-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w7">

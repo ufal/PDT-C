@@ -1659,7 +1659,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-086-p3s2w60">
 <src.rf>manual</src.rf>
@@ -1796,7 +1796,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-086-p3s3w14">
 <src.rf>manual</src.rf>
@@ -2024,7 +2024,7 @@
 <LM>w#w-ln95044-086-p4s1w10</LM>
 </w.rf>
 <form>zatvrzelí</form>
-<lemma>zatvrzelý</lemma>
+<lemma>zatvrzelý_^(*4dit)</lemma>
 <tag>AAMP1----1A----</tag>
 </m>
 <m id="m-ln95044-086-p4s1w11">

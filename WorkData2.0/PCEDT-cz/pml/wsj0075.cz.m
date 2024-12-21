@@ -450,8 +450,8 @@
 <LM>w#w-wsj0075-001-p1s1W14</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0075-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1405,7 +1405,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj0075-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1414,7 +1414,7 @@
 </w.rf>
 <form>den</form>
 <lemma>den-1_^(jednotka_času)</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0075-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2985,7 +2985,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0075-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3987,8 +3987,8 @@
 <LM>w#w-wsj0075-001-p1s17W18</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0075-001-p1s17W19-Ta">
 <src.rf>tagger-a</src.rf>

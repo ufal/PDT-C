@@ -350,7 +350,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1853-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -569,7 +569,7 @@
 </w.rf>
 <form>týdnu</form>
 <lemma>týden_^(jednotka_času)</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1853-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2226,8 +2226,8 @@
 <LM>w#w-wsj1853-001-p1s9W39</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1853-001-p1s9W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4445,8 +4445,8 @@
 <LM>w#w-wsj1853-001-p1s20W3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1853-001-p1s20W4-Ta">
 <src.rf>tagger-a</src.rf>

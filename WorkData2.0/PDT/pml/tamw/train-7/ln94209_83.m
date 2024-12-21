@@ -585,8 +585,8 @@
 <LM>w#w-ln94209-83-p2s2w9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-83-p2s2w10">
 <src.rf>manual</src.rf>
@@ -866,8 +866,8 @@
 <LM>w#w-ln94209-83-p2s3w28</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-83-p2s3w29">
 <src.rf>manual</src.rf>
@@ -1066,8 +1066,8 @@
 <LM>w#w-ln94209-83-p3s1w9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-83-p3s1w10">
 <src.rf>manual</src.rf>

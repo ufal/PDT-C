@@ -1012,8 +1012,8 @@
 <LM>w#w-wsj0529-001-p1s3W20</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0529-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1260,7 +1260,7 @@
 </w.rf>
 <form>Quebecu</form>
 <lemma>Quebec_;G</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0529-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1477,8 +1477,8 @@
 <LM>w#w-wsj0529-001-p1s6W17</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj0529-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>

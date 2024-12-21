@@ -980,8 +980,8 @@
 <LM>w#w-jh_10-SCzechM-p0996-s1-w4</LM>
 </w.rf>
 <form>milovanému</form>
-<lemma>milovaný_^(*2t)</lemma>
-<tag>AAMS3----1A----</tag>
+<lemma>milovaný-2</lemma>
+<tag>NNMS3-----A----</tag>
 </m>
 <m id="jh_10-SCzechM-p0996-s1-w5">
 <w.rf>
@@ -1020,8 +1020,8 @@
 <LM>w#w-jh_10-SCzechM-p0996-s1-w9</LM>
 </w.rf>
 <form>milovaný</form>
-<lemma>milovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>milovaný-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="jh_10-SCzechM-p0996-s1-w10">
 <w.rf>
@@ -3097,8 +3097,8 @@
 <LM>w#w-jh_10-SCzechM-p1045-s1-w1</LM>
 </w.rf>
 <form>Díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP4-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="jh_10-SCzechM-p1045-s1-w2">
 <w.rf>
@@ -3990,7 +3990,7 @@
 </w.rf>
 <form>zvětšení</form>
 <lemma>zvětšení_^(*3it)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="jh_10-SCzechM-p1060-s1-w6">
 <w.rf>
@@ -4681,8 +4681,8 @@
 <LM>w#w-jh_10-SCzechM-p1074-s1-w3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="jh_10-SCzechM-p1074-s1-w4">
 <w.rf>

@@ -497,8 +497,8 @@
 <LM>w#w-wsj1995-001-p1s1W14</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1995-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>

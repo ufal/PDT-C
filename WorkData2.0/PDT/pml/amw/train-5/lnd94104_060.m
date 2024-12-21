@@ -668,7 +668,7 @@
 <LM>w#w-lnd94104-060-p1s6w1</LM>
 </w.rf>
 <form>Paraguayská</form>
-<lemma>paraguayský</lemma>
+<lemma>paraguayský_,s_^(^DD**paraguajský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-lnd94104-060-p1s6w2">
@@ -2634,8 +2634,8 @@
 <LM>w#w-lnd94104-060-p1s17w14</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-060-p1s17w15">
 <src.rf>manual</src.rf>

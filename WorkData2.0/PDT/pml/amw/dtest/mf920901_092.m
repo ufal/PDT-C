@@ -1387,7 +1387,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf920901-092-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1485,8 +1485,8 @@
 <LM>w#w-mf920901-092-p5s1w22</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-092-p5s1w23">
 <src.rf>manual</src.rf>

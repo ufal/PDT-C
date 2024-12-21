@@ -1438,7 +1438,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id61910-15">
 <w.rf>
@@ -1633,16 +1633,16 @@
 <LM>w#w-id61936-10</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id61936-9">
 <w.rf>
 <LM>w#w-id61936-9</LM>
 </w.rf>
 <form>mrtví</form>
-<lemma>mrtvý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>mrtvý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m713-id61485-x16-1152">
 <w.rf>
@@ -1699,8 +1699,8 @@
 <LM>w#w-id61936-18</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id61936-20">
 <w.rf>
@@ -1747,8 +1747,8 @@
 <LM>w#w-id61936-27</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-d-id106752">
 <w.rf>
@@ -2155,8 +2155,8 @@
 <LM>w#w-id62018-5</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id62018-6">
 <w.rf>
@@ -2179,8 +2179,8 @@
 <LM>w#w-id62023-4</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id62023-2">
 <w.rf>
@@ -2325,8 +2325,8 @@
 <LM>w#w-id62038-6</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id62038-7">
 <w.rf>
@@ -2781,16 +2781,16 @@
 <LM>w#w-id61485-x21-1455</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id62112-17">
 <w.rf>
 <LM>w#w-id62112-17</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m713-id62132-5">
 <w.rf>
@@ -3621,8 +3621,8 @@
 <LM>w#w-id62274-18</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id62274-19">
 <w.rf>
@@ -3703,8 +3703,8 @@
 <LM>w#w-id62290-5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m713-id62290-6">
 <w.rf>
@@ -3777,8 +3777,8 @@
 <LM>w#w-id62300-1</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id62300-3">
 <w.rf>
@@ -4250,7 +4250,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m713-id61485-x28-1184">
 <w.rf>
@@ -4315,8 +4315,8 @@
 <LM>w#w-id61485-x28-1175</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id61485-x28-1174">
 <w.rf>
@@ -5195,8 +5195,8 @@
 <LM>w#w-1475-1487</LM>
 </w.rf>
 <form>přece</form>
-<lemma>přece-1</lemma>
-<tag>J^-------------</tag>
+<lemma>přece-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m713-id62523-5">
 <w.rf>

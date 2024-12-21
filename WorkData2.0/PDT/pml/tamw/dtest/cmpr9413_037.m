@@ -570,8 +570,8 @@
 <LM>w#w-cmpr9413-037-p3s4Aw2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-037-p3s4Aw3">
 <src.rf>manual</src.rf>
@@ -826,8 +826,8 @@
 <LM>w#w-cmpr9413-037-p3s5Aw11</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-037-p3s5Aw12">
 <src.rf>manual</src.rf>

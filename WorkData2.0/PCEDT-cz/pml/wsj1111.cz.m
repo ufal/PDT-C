@@ -1528,8 +1528,8 @@
 <LM>w#w-wsj1111-001-p1s7W2</LM>
 </w.rf>
 <form>přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1111-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2110,8 +2110,8 @@
 <LM>w#w-wsj1111-001-p1s10W18</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1111-001-p1s10W19-Ta">
 <src.rf>tagger-a</src.rf>

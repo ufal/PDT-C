@@ -268,7 +268,7 @@
 <LM>w#w-wsj2423-001-p1s0W29</LM>
 </w.rf>
 <form>hypotéčních</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-wsj2423-001-p1s0W30-Ta">
@@ -750,7 +750,6 @@
 <w.rf>
 <LM>w#w-wsj2423-001-p1s3W12</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>23.57</form>
 <lemma>23.57</lemma>
 <tag>C=-------------</tag>

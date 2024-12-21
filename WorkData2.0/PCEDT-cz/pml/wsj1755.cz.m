@@ -1342,7 +1342,7 @@
 </w.rf>
 <form>věnováno</form>
 <lemma>věnovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-wsj1755-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>

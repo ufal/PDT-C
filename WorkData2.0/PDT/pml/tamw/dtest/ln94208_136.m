@@ -623,8 +623,8 @@
 <LM>w#w-ln94208-136-p3s1w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-136-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1441,7 +1441,7 @@
 </w.rf>
 <form>Aero</form>
 <lemma>Aero_;m_^(letecká_továrna)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-136-p3s4w23">
 <src.rf>manual</src.rf>
@@ -2267,8 +2267,8 @@
 <LM>w#w-ln94208-136-p4s3w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-136-p4s3w15">
 <src.rf>manual</src.rf>
@@ -2659,7 +2659,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-136-p4s5w3">
 <src.rf>manual</src.rf>

@@ -1215,8 +1215,8 @@
 <LM>w#w-ln95049-012-p4s3w16</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95049-012-p4s3w17">
 <src.rf>manual</src.rf>

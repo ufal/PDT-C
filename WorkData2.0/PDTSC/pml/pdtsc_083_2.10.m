@@ -87,8 +87,8 @@
 <LM>w#w-d1t2795-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t2795-3">
 <w.rf>

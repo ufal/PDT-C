@@ -219,7 +219,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m109-d1t449-9">
 <w.rf>
@@ -384,8 +384,8 @@
 <LM>w#w-d1t463-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m109-d1t463-5">
 <w.rf>
@@ -426,8 +426,8 @@
 <LM>w#w-d1t468-4</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m109-d1e465-x2-576">
 <w.rf>
@@ -688,8 +688,8 @@
 <LM>w#w-d1t472-12</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m109-d1t472-13">
 <w.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-d1t474-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m109-d1t474-3">
@@ -1182,8 +1182,8 @@
 <LM>w#w-d1t484-13</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m109-d1t484-14">
 <w.rf>
@@ -2493,7 +2493,7 @@
 <LM>w#w-d1t508-14</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m109-d1t508-15">
@@ -2773,8 +2773,8 @@
 <LM>w#w-d1t522-15</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m109-d1t522-16">
 <w.rf>
@@ -3305,8 +3305,8 @@
 <LM>w#w-d1t534-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m109-d1t534-6">
 <w.rf>
@@ -3453,8 +3453,8 @@
 <LM>w#w-d1t544-4</LM>
 </w.rf>
 <form>tu</form>
-<lemma>ten</lemma>
-<tag>PDFS4----------</tag>
+<lemma>tu-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m109-d1t544-5">
 <w.rf>

@@ -324,8 +324,8 @@
 <LM>w#w-wsj2142-001-p1s1W14</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2142-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -950,8 +950,8 @@
 <LM>w#w-wsj2142-001-p1s3W15</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2142-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2956,7 +2956,6 @@
 <w.rf>
 <LM>w#w-wsj2142-001-p1s16W6</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>8.30</form>
 <lemma>8.30</lemma>
 <tag>C=-------------</tag>
@@ -4712,7 +4711,6 @@
 <w.rf>
 <LM>w#w-wsj2142-001-p1s25W10</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>7.30</form>
 <lemma>7.30</lemma>
 <tag>C=-------------</tag>
@@ -4931,7 +4929,6 @@
 <w.rf>
 <LM>w#w-wsj2142-001-p1s26W3</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>15.15</form>
 <lemma>15.15</lemma>
 <tag>C=-------------</tag>
@@ -5088,8 +5085,8 @@
 <LM>w#w-wsj2142-001-p1s27W3</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj2142-001-p1s27W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5705,8 +5702,8 @@
 <LM>w#w-wsj2142-001-p1s29W21</LM>
 </w.rf>
 <form>otřesen</form>
-<lemma>otřesený</lemma>
-<tag>ACYS------A----</tag>
+<lemma>otřást</lemma>
+<tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj2142-001-p1s29W22-Ta">
 <src.rf>tagger-a</src.rf>

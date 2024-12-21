@@ -161,12 +161,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1070-001-p1s0W24-Ta">
 <m.rf>m#m-wsj1070-001-p1s0W24-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -281,7 +281,7 @@
 </LM>
 <LM id="a-wsj1070-001-p1s1W19-Ta">
 <m.rf>m#m-wsj1070-001-p1s1W19-Ta</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <is_member>1</is_member>
 <ord>19</ord>
 <children>
@@ -321,12 +321,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1070-001-p1s1W24-Ta">
 <m.rf>m#m-wsj1070-001-p1s1W24-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

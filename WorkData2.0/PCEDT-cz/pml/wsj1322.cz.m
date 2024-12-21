@@ -2048,7 +2048,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj1322-001-p1s10W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3147,8 +3147,8 @@
 <LM>w#w-wsj1322-001-p1s14W23</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1322-001-p1s14W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4876,8 +4876,8 @@
 <LM>w#w-wsj1322-001-p1s22W34</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1322-001-p1s22W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8170,7 +8170,7 @@
 </w.rf>
 <form>datovány</form>
 <lemma>datovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-wsj1322-001-p1s42W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12648,7 +12648,7 @@
 </w.rf>
 <form>dominovala</form>
 <lemma>dominovat</lemma>
-<tag>VpQW----R-AAB--</tag>
+<tag>VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1322-001-p1s64W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13609,8 +13609,8 @@
 <LM>w#w-wsj1322-001-p1s68W11</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1322-001-p1s68W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13618,8 +13618,8 @@
 <LM>w#w-wsj1322-001-p1s68W12</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1322-001-p1s68W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13899,8 +13899,8 @@
 <LM>w#w-wsj1322-001-p1s69W25</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1322-001-p1s69W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15168,8 +15168,8 @@
 <LM>w#w-wsj1322-001-p1s76W19</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1322-001-p1s76W20-Ta">
 <src.rf>tagger-a</src.rf>

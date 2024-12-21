@@ -1096,7 +1096,7 @@
 <LM>w#w-ln95042-023-p3s1w7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-ln95042-023-p3s1w8">
@@ -1878,7 +1878,7 @@
 <LM>w#w-ln95042-023-p4s3w10</LM>
 </w.rf>
 <form>megalomanie</form>
-<lemma>megalomanie</lemma>
+<lemma>megalomanie_,s_^(^DD**megalománie)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-023-p4s3w11">
@@ -2861,7 +2861,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95042-023-p4s7w20">
 <src.rf>manual</src.rf>
@@ -4781,7 +4781,7 @@
 </w.rf>
 <form>zachováno</form>
 <lemma>zachovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95042-023-p5s5w12">
 <src.rf>manual</src.rf>
@@ -4929,7 +4929,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95042-023-p5s7w5">
 <src.rf>manual</src.rf>
@@ -8932,8 +8932,8 @@
 <LM>w#w-ln95042-023-p9s7w5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-023-p9s7w6">
 <src.rf>manual</src.rf>
@@ -10538,7 +10538,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-023-p11s1w5">
 <src.rf>manual</src.rf>
@@ -12276,7 +12276,7 @@
 </w.rf>
 <form>prostředky</form>
 <lemma>prostředek_^(střed,způsob,_nástroj)</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-ln95042-023-p11s15w10">
 <src.rf>manual</src.rf>

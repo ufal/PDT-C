@@ -218,7 +218,7 @@
 <LM>w#w-d1t2071-6</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m118-d1t2071-7">
@@ -1084,8 +1084,8 @@
 <LM>w#w-d1t2130-1</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m118-d1t2130-2">
 <w.rf>

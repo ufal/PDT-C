@@ -160,8 +160,8 @@
 <LM>w#w-cmpr9406-002-p4s1w1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-002-p4s1w2">
 <src.rf>manual</src.rf>
@@ -825,8 +825,8 @@
 <LM>w#w-cmpr9406-002-p8s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9406-002-p8s2w2">
 <src.rf>manual</src.rf>
@@ -1216,7 +1216,7 @@
 <LM>w#w-cmpr9406-002-p8s4w3</LM>
 </w.rf>
 <form>zjednodušením</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS7-----A----</tag>
 </m>
 <m id="m-cmpr9406-002-p8s4w4">
@@ -2103,8 +2103,8 @@
 <LM>w#w-cmpr9406-002-p10s4w5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9406-002-p10s4w6">
 <src.rf>manual</src.rf>
@@ -4388,8 +4388,8 @@
 <LM>w#w-cmpr9406-002-p16s3w31</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-002-p16s3w32">
 <src.rf>manual</src.rf>

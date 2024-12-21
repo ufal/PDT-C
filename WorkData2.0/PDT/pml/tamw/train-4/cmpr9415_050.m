@@ -600,7 +600,7 @@
 <LM>w#w-cmpr9415-050-p8s2w3</LM>
 </w.rf>
 <form>nesehnal</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpYS----R-NAP--</tag>
 </m>
 <m id="m-cmpr9415-050-p8s2w4">
@@ -1494,8 +1494,8 @@
 <LM>w#w-cmpr9415-050-p9s2w1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9415-050-p9s2w2">
 <src.rf>manual</src.rf>
@@ -1883,8 +1883,8 @@
 <LM>w#w-cmpr9415-050-p9s3w20</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-050-p9s3w21">
 <src.rf>manual</src.rf>
@@ -1984,8 +1984,8 @@
 <LM>w#w-cmpr9415-050-p10s1w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-050-p10s1w8">
 <src.rf>manual</src.rf>
@@ -2342,8 +2342,8 @@
 <LM>w#w-cmpr9415-050-p11s2w11</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-050-p11s2w12">
 <src.rf>manual</src.rf>
@@ -2459,8 +2459,8 @@
 <LM>w#w-cmpr9415-050-p11s2w24</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-050-p11s2w25">
 <src.rf>manual</src.rf>
@@ -2594,8 +2594,8 @@
 <LM>w#w-cmpr9415-050-p11s2w39</LM>
 </w.rf>
 <form>poražených</form>
-<lemma>poražený_^(*4zit)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>poražený-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p11s2w40">
 <src.rf>manual</src.rf>
@@ -2641,8 +2641,8 @@
 <LM>w#w-cmpr9415-050-p12s1w4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-050-p12s1w5">
 <src.rf>manual</src.rf>
@@ -2850,8 +2850,8 @@
 <LM>w#w-cmpr9415-050-p12s2w20</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-050-p12s2w21">
 <src.rf>manual</src.rf>

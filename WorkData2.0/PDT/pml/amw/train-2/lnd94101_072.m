@@ -2271,8 +2271,8 @@
 <LM>w#w-lnd94101-072-p1s13w6</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-1</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-072-p1s13w7">
 <src.rf>manual</src.rf>
@@ -2307,8 +2307,8 @@
 <LM>w#w-lnd94101-072-p1s13w10</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-1</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-072-p1s13w11">
 <src.rf>manual</src.rf>
@@ -2370,8 +2370,8 @@
 <LM>w#w-lnd94101-072-p1s13w17</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-1</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-072-p1s13w18">
 <src.rf>manual</src.rf>
@@ -3497,7 +3497,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-072-p1s18w20">
 <src.rf>manual</src.rf>

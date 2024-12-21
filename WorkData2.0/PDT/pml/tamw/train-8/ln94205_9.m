@@ -3210,7 +3210,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln94205-9-p11s1w12">
 <src.rf>manual</src.rf>
@@ -3227,8 +3227,8 @@
 <LM>w#w-ln94205-9-p11s1w13</LM>
 </w.rf>
 <form>dotázaný</form>
-<lemma>dotázaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>dotázaný-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-9-p11s1w14">
 <src.rf>manual</src.rf>
@@ -3550,7 +3550,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-9-p12s1w2">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-wsj0103-001-p1s0W4</LM>
 </w.rf>
 <form>mnohačetným</form>
-<lemma>mnohačetný</lemma>
+<lemma>mnohačetný_,s_^(^DD**mnohočetný)</lemma>
 <tag>AAIP3----1A----</tag>
 </m>
 <m id="m-wsj0103-001-p1s0W5-Ta">
@@ -498,7 +498,7 @@
 </w.rf>
 <form>firmě</form>
 <lemma>firma</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj0103-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -615,7 +615,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0103-001-p1s1W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1487,8 +1487,8 @@
 <LM>w#w-wsj0103-001-p1s4W30</LM>
 </w.rf>
 <form>pracujících</form>
-<lemma>pracující_^(*5ovat)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>pracující-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0103-001-p1s4W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2231,7 +2231,7 @@
 <LM>w#w-wsj0103-001-p1s7W2</LM>
 </w.rf>
 <form>Obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-wsj0103-001-p1s7W3-Ta">
@@ -3741,8 +3741,8 @@
 <LM>w#w-wsj0103-001-p1s15W18</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0103-001-p1s15W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3960,7 +3960,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0103-001-p1s16W15-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1469,7 +1469,7 @@
 </w.rf>
 <form>zachována</form>
 <lemma>zachovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94104-090-p1s10w10">
 <src.rf>manual</src.rf>
@@ -2746,7 +2746,7 @@
 </w.rf>
 <form>Džbánu</form>
 <lemma>džbán</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd94104-090-p1s18w23">
 <src.rf>manual</src.rf>
@@ -3104,7 +3104,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-090-p1s21w5">
 <src.rf>manual</src.rf>

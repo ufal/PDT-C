@@ -705,8 +705,8 @@
 <LM>w#w-ln95047-006-p3s2w4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-006-p3s2w5">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-006-p3s2w21">
 <src.rf>manual</src.rf>

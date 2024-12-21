@@ -379,7 +379,7 @@
 </w.rf>
 <form>sedmdesát</form>
 <lemma>sedmdesát`70</lemma>
-<tag>Cl-S4----------</tag>
+<tag>Cl-S1----------</tag>
 </m>
 <m id="m-ln95047-107-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1071,8 +1071,8 @@
 <LM>w#w-ln95047-107-p3s5w8</LM>
 </w.rf>
 <form>postižené</form>
-<lemma>postižený</lemma>
-<tag>AAMP4----1A----</tag>
+<lemma>postižený-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-ln95047-107-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1226,7 +1226,7 @@
 <LM>w#w-ln95047-107-p3s6w10</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-107-p3s6w11">
@@ -1399,8 +1399,8 @@
 <LM>w#w-ln95047-107-p3s7w9</LM>
 </w.rf>
 <form>postižení</form>
-<lemma>postižený</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>postižený-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-107-p3s7w10">
 <src.rf>manual</src.rf>
@@ -1662,8 +1662,8 @@
 <LM>w#w-ln95047-107-p4s1w11</LM>
 </w.rf>
 <form>postižené</form>
-<lemma>postižený</lemma>
-<tag>AAMP4----1A----</tag>
+<lemma>postižený-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-ln95047-107-p4s1w12">
 <src.rf>manual</src.rf>

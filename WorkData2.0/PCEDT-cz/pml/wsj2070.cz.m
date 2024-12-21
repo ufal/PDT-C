@@ -16,8 +16,8 @@
 <LM>w#w-wsj2070-001-p1s0W1</LM>
 </w.rf>
 <form>Nečekaně</form>
-<lemma>čekaně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nečekaně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj2070-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -708,7 +708,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2070-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4896,8 +4896,8 @@
 <LM>w#w-wsj2070-001-p1s23W20</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2070-001-p1s23W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5458,8 +5458,8 @@
 <LM>w#w-wsj2070-001-p1s25W25</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2070-001-p1s25W26-Ta">
 <src.rf>tagger-a</src.rf>

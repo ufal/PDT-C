@@ -1315,8 +1315,8 @@
 <LM>w#w-mf930709-073-p4s2w9</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-073-p4s2w10">
 <src.rf>manual</src.rf>

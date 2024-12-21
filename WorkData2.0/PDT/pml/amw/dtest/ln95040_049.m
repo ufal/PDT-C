@@ -1361,8 +1361,8 @@
 <LM>w#w-ln95040-049-p4s2w5</LM>
 </w.rf>
 <form>uprostřed</form>
-<lemma>uprostřed-1</lemma>
-<tag>Db-------------</tag>
+<lemma>uprostřed-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-049-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1516,7 +1516,7 @@
 <LM>w#w-ln95040-049-p4s3w4</LM>
 </w.rf>
 <form>mysteriu</form>
-<lemma>mysterium</lemma>
+<lemma>mysterium_,s_^(^DD**mystérium)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95040-049-p4s3w5">
@@ -3009,8 +3009,8 @@
 <LM>w#w-ln95040-049-p6s2w51</LM>
 </w.rf>
 <form>uprostřed</form>
-<lemma>uprostřed-1</lemma>
-<tag>Db-------------</tag>
+<lemma>uprostřed-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-049-p6s2w52">
 <src.rf>manual</src.rf>
@@ -3255,7 +3255,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-049-p6s3w10">
 <src.rf>manual</src.rf>
@@ -3410,7 +3410,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-049-p7s1w5">
 <src.rf>manual</src.rf>
@@ -4361,7 +4361,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-049-p8s2w7">
 <src.rf>manual</src.rf>

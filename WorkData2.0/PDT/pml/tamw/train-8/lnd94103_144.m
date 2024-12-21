@@ -239,8 +239,8 @@
 <LM>w#w-lnd94103-144-p1s3w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-144-p1s3w12">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-lnd94103-144-p1s5w22">
 <src.rf>manual</src.rf>
@@ -875,8 +875,8 @@
 <LM>w#w-lnd94103-144-p1s6w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-144-p1s6w10">
 <src.rf>manual</src.rf>
@@ -1332,8 +1332,8 @@
 <LM>w#w-lnd94103-144-p1s9w15</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-144-p1s9w16">
 <src.rf>manual</src.rf>
@@ -1677,8 +1677,8 @@
 <LM>w#w-lnd94103-144-p1s10w26</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-144-p1s10w27">
 <src.rf>manual</src.rf>
@@ -2113,8 +2113,8 @@
 <LM>w#w-lnd94103-144-p1s12w18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-144-p1s12w19">
 <src.rf>manual</src.rf>
@@ -2158,8 +2158,8 @@
 <LM>w#w-lnd94103-144-p1s12w23</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-144-p1s12w24">
 <src.rf>manual</src.rf>
@@ -2698,8 +2698,8 @@
 <LM>w#w-lnd94103-144-p1s16Aw15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-144-p1s16Aw16">
 <src.rf>manual</src.rf>
@@ -2737,7 +2737,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-144-p1s16Bw2">
 <src.rf>manual</src.rf>

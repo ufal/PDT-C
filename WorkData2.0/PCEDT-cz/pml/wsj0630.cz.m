@@ -1083,7 +1083,7 @@
 </w.rf>
 <form>účasti</form>
 <lemma>účast</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS3-----A----</tag>
 </m>
 <m id="m-wsj0630-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>

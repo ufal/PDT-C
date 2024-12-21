@@ -351,7 +351,7 @@
 <LM>w#w-wsj2067-001-p1s1W9</LM>
 </w.rf>
 <form>vyjednavače</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-wsj2067-001-p1s1W10-Ta">
@@ -972,7 +972,7 @@
 <LM>w#w-wsj2067-001-p1s5W2</LM>
 </w.rf>
 <form>vyjednavač</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2067-001-p1s5W3-Ta">
@@ -1546,7 +1546,7 @@
 <LM>w#w-wsj2067-001-p1s8W18</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj2067-001-p1s8W19-Ta">
@@ -1576,7 +1576,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2067-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>

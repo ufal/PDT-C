@@ -1454,8 +1454,8 @@
 <LM>w#w-lnd94103-072-p1s10w13</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-072-p1s10w14">
 <src.rf>manual</src.rf>

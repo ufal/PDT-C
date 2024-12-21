@@ -678,7 +678,7 @@
 <LM>w#w-ln95044-092-p2s3w10</LM>
 </w.rf>
 <form>dozvědí</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95044-092-p2s3w11">

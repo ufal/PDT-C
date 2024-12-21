@@ -16,7 +16,7 @@
 <LM>w#w-wsj0546-001-p1s0W1</LM>
 </w.rf>
 <form>Rozčilená</form>
-<lemma>rozčilený_,s_^(^DD**rozčílený)</lemma>
+<lemma>rozčilený_^(^DD**rozčílený)_(*3it)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-wsj0546-001-p1s0W2-Ta">
@@ -641,8 +641,8 @@
 <LM>w#w-wsj0546-001-p1s2W8</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj0546-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -806,7 +806,7 @@
 </w.rf>
 <form>distribuován</form>
 <lemma>distribuovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj0546-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -815,7 +815,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0546-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -970,7 +970,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0546-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2276,7 +2276,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0546-001-p1s9W11-Ta">
 <src.rf>tagger-a</src.rf>

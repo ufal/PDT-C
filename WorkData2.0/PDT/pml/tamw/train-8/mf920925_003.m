@@ -759,7 +759,7 @@
 <LM>w#w-mf920925-003-p1s5w1</LM>
 </w.rf>
 <form>Rozčilení</form>
-<lemma>rozčilený_,s_^(^DD**rozčílený)</lemma>
+<lemma>rozčilený_^(^DD**rozčílený)_(*3it)</lemma>
 <tag>AAMP1----1A----</tag>
 </m>
 <m id="m-mf920925-003-p1s5w2">
@@ -1130,8 +1130,8 @@
 <LM>w#w-mf920925-003-p1s6w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-003-p1s6w4">
 <src.rf>manual</src.rf>
@@ -1375,8 +1375,8 @@
 <LM>w#w-mf920925-003-p1s7w2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-003-p1s7w3">
 <src.rf>manual</src.rf>

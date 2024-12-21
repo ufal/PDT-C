@@ -1286,7 +1286,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-019-p8s11w5">
 <src.rf>manual</src.rf>
@@ -1606,7 +1606,7 @@
 <LM>w#w-cmpr9406-019-p8s14w2</LM>
 </w.rf>
 <form>podavač</form>
-<lemma>podavač</lemma>
+<lemma>podavač-2</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-019-p8s14w3">

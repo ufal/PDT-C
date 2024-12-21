@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_005_1.04.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="jg-12941_03.04-SCzechA-jg-12941_03-4719-root">
 <s.rf>m#m913-12941_03-4719</s.rf>
@@ -43,7 +46,7 @@
 </LM>
 <LM id="jg-12941_03.04-SCzechA-m-d1t1271-6">
 <m.rf>m#m913-d1t1271-6</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>5</ord>
 </LM>
 <LM id="jg-12941_03.04-SCzechA-m-d1t1271-8">
@@ -56,12 +59,12 @@
 <afun>Pnom</afun>
 <ord>8</ord>
 </LM>
-</children>
-</LM>
 <LM id="jg-12941_03.04-SCzechA-m-4719-897">
 <m.rf>m#m913-4719-897</m.rf>
 <afun>AuxK</afun>
 <ord>9</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -84,17 +87,15 @@
 <afun>Adv</afun>
 <ord>3</ord>
 <children>
+<LM id="jg-12941_03.04-SCzechA-m-d1t1271-13">
+<m.rf>m#m913-d1t1271-13</m.rf>
+<afun>Obj</afun>
+<ord>2</ord>
+</LM>
 <LM id="jg-12941_03.04-SCzechA-m-d1t1271-14">
 <m.rf>m#m913-d1t1271-14</m.rf>
 <afun>Sb</afun>
 <ord>4</ord>
-<children>
-<LM id="jg-12941_03.04-SCzechA-m-d1t1271-13">
-<m.rf>m#m913-d1t1271-13</m.rf>
-<afun>Atr</afun>
-<ord>2</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -107,7 +108,7 @@
 </LM>
 <LM id="jg-12941_03.04-SCzechA-m-d1t1271-16">
 <m.rf>m#m913-d1t1271-16</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>6</ord>
 </LM>
 <LM id="jg-12941_03.04-SCzechA-m-d1t1271-18">
@@ -120,12 +121,12 @@
 <afun>Pnom</afun>
 <ord>9</ord>
 </LM>
-</children>
-</LM>
 <LM id="jg-12941_03.04-SCzechA-m-d-id102023">
 <m.rf>m#m913-d-id102023</m.rf>
 <afun>AuxK</afun>
 <ord>10</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -184,7 +185,7 @@
 </LM>
 <LM id="jg-12941_03.04-SCzechA-m-d1t1280-5">
 <m.rf>m#m913-d1t1280-5</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>10</ord>
 </LM>
 <LM id="jg-12941_03.04-SCzechA-m-d1t1280-7">
@@ -201,12 +202,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="jg-12941_03.04-SCzechA-m-d-id102260">
 <m.rf>m#m913-d-id102260</m.rf>
 <afun>AuxK</afun>
 <ord>13</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

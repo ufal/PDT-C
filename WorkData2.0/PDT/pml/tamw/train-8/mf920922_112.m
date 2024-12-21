@@ -1275,8 +1275,8 @@
 <LM>w#w-mf920922-112-p2s6w15</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-112-p2s6w16">
 <src.rf>manual</src.rf>

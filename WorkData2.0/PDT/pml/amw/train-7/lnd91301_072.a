@@ -24,8 +24,9 @@
 <children>
 <LM id="a-lnd91301-072-p1s1w1">
 <m.rf>m#m-lnd91301-072-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -37,15 +38,17 @@
 </LM>
 <LM id="a-lnd91301-072-p1s1w3">
 <m.rf>m#m-lnd91301-072-p1s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-lnd91301-072-p1s1w5">
 <m.rf>m#m-lnd91301-072-p1s1w5</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>

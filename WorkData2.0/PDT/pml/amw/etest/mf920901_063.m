@@ -1262,8 +1262,8 @@
 <LM>w#w-mf920901-063-p4s1w38</LM>
 </w.rf>
 <form>postupem</form>
-<lemma>postup</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>postupem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-063-p4s1w39">
 <src.rf>manual</src.rf>

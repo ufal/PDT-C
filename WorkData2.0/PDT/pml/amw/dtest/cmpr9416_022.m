@@ -1331,7 +1331,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-022-p5s3w4">
 <src.rf>manual</src.rf>
@@ -2472,7 +2472,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-022-p7s7w5">
 <src.rf>manual</src.rf>
@@ -2525,8 +2525,8 @@
 <LM>w#w-cmpr9416-022-p7s7w10</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-022-p7s7w11">
 <src.rf>manual</src.rf>
@@ -2624,8 +2624,8 @@
 <LM>w#w-cmpr9416-022-p7s7w21</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-022-p7s7w22">
 <src.rf>manual</src.rf>
@@ -4107,7 +4107,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-022-p9s1w7">
 <src.rf>manual</src.rf>
@@ -4316,7 +4316,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-022-p9s2w22">
 <src.rf>manual</src.rf>
@@ -4642,7 +4642,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-022-p9s3w32">
 <src.rf>manual</src.rf>
@@ -5597,7 +5597,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-022-p10s4w9">
 <src.rf>manual</src.rf>
@@ -6796,8 +6796,8 @@
 <LM>w#w-cmpr9416-022-p12s3w24</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-022-p12s3w25">
 <src.rf>manual</src.rf>
@@ -7341,7 +7341,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-022-p13s1w11">
 <src.rf>manual</src.rf>

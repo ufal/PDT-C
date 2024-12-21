@@ -952,8 +952,8 @@
 <LM>w#w-mf920922-137-p3s4w17</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-137-p3s4w18">
 <src.rf>manual</src.rf>

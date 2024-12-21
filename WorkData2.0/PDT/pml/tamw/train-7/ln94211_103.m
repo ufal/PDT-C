@@ -55,8 +55,8 @@
 <LM>w#w-ln94211-103-p1s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-103-p1s1w6">
 <src.rf>manual</src.rf>
@@ -1210,8 +1210,8 @@
 <LM>w#w-ln94211-103-p3s1w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-103-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1300,7 +1300,7 @@
 <LM>w#w-ln94211-103-p3s1w13</LM>
 </w.rf>
 <form>jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-ln94211-103-p3s1w14">
@@ -1555,7 +1555,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-103-p4s1w6">
 <src.rf>manual</src.rf>

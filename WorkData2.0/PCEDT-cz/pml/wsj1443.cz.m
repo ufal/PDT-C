@@ -807,8 +807,8 @@
 <LM>w#w-wsj1443-001-p1s4W5</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1443-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>

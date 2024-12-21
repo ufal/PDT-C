@@ -540,8 +540,8 @@
 <LM>w#w-mf920922-045-p2s4w3</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920922-045-p2s4w4">
 <src.rf>manual</src.rf>

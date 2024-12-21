@@ -3177,7 +3177,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-011-p3s2w4">
 <src.rf>manual</src.rf>
@@ -3368,7 +3368,7 @@
 </w.rf>
 <form>potíže</form>
 <lemma>potíž</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-ln95040-011-p3s3w19">
 <src.rf>manual</src.rf>
@@ -4259,8 +4259,8 @@
 <LM>w#w-ln95040-011-p5s1w2</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-011-p5s1w3">
 <src.rf>manual</src.rf>
@@ -4640,7 +4640,7 @@
 </w.rf>
 <form>počítání</form>
 <lemma>počítání_^(*3at)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln95040-011-p5s2w12">
 <src.rf>manual</src.rf>
@@ -5439,8 +5439,8 @@
 <LM>w#w-ln95040-011-p7s2w7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95040-011-p7s2w8">
 <src.rf>manual</src.rf>
@@ -6250,8 +6250,8 @@
 <LM>w#w-ln95040-011-p8s2w14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95040-011-p8s2w15">
 <src.rf>manual</src.rf>
@@ -7471,7 +7471,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-011-p10s2w7">
 <src.rf>manual</src.rf>

@@ -68,13 +68,13 @@
 <children>
 <LM id="a-ln95048-134-p2s1Aw1">
 <m.rf>m#m-ln95048-134-p2s1Aw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95048-134-p2s1Aw2">
 <m.rf>m#m-ln95048-134-p2s1Aw2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -557,13 +557,6 @@
 </LM>
 </children>
 </LM>
-<LM id="a-ln95048-134-p2s4w26">
-<m.rf>m#m-ln95048-134-p2s4w26</m.rf>
-<afun>Coord</afun>
-<is_member>1</is_member>
-<ord>26</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-ln95048-134-p2s4w20">
 <m.rf>m#m-ln95048-134-p2s4w20</m.rf>
 <afun>AuxZ</afun>
@@ -576,6 +569,13 @@
 <ord>21</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-ln95048-134-p2s4w26">
+<m.rf>m#m-ln95048-134-p2s4w26</m.rf>
+<afun>Coord</afun>
+<is_member>1</is_member>
+<ord>26</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-ln95048-134-p2s4w22">
 <m.rf>m#m-ln95048-134-p2s4w22</m.rf>
 <afun>Obj</afun>
@@ -637,6 +637,18 @@
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-ln95048-134-p2s5w5">
+<m.rf>m#m-ln95048-134-p2s5w5</m.rf>
+<afun>AuxV</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+</LM>
+<LM id="a-ln95048-134-p2s5w7">
+<m.rf>m#m-ln95048-134-p2s5w7</m.rf>
+<afun>Obj</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-ln95048-134-p2s5w1">
 <m.rf>m#m-ln95048-134-p2s5w1</m.rf>
 <afun>AuxP</afun>
@@ -667,17 +679,7 @@
 </LM>
 </children>
 </LM>
-<LM id="a-ln95048-134-p2s5w5">
-<m.rf>m#m-ln95048-134-p2s5w5</m.rf>
-<afun>AuxV</afun>
-<ord>5</ord>
-<clause_number>1</clause_number>
-</LM>
-<LM id="a-ln95048-134-p2s5w7">
-<m.rf>m#m-ln95048-134-p2s5w7</m.rf>
-<afun>Obj</afun>
-<ord>7</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 <LM id="a-ln95048-134-p2s5w11">
 <m.rf>m#m-ln95048-134-p2s5w11</m.rf>
@@ -700,7 +702,7 @@
 <children>
 <LM id="a-ln95048-134-p2s5w10">
 <m.rf>m#m-ln95048-134-p2s5w10</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -855,6 +857,11 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
+<comments>
+<LM type="Other">
+<text>výjimka: Invalid Sb case</text>
+</LM>
+</comments>
 </LM>
 </children>
 </LM>

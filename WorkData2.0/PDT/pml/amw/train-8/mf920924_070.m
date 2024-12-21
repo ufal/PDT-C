@@ -685,7 +685,7 @@
 <LM>w#w-mf920924-070-p2s4w9</LM>
 </w.rf>
 <form>výhružných</form>
-<lemma>výhružný</lemma>
+<lemma>výhružný_,s_^(^DD**výhrůžný)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-mf920924-070-p2s4w10">

@@ -19,8 +19,8 @@
 <LM>w#w-cmpr9407-045-p2s1w1</LM>
 </w.rf>
 <form>Statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP1----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP1---------1</tag>
 </m>
 <m id="m-cmpr9407-045-p2s1w2">
 <src.rf>manual</src.rf>
@@ -465,8 +465,8 @@
 <LM>w#w-cmpr9407-045-p3s2w28</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-045-p3s2w29">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-cmpr9407-045-p5s2w10</LM>
 </w.rf>
 <form>dozvíte</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---2P-AAP--</tag>
 </m>
 <m id="m-cmpr9407-045-p5s2w11">

@@ -1553,8 +1553,8 @@
 <LM>w#w-ln95040-062-p2s9w1</LM>
 </w.rf>
 <form>Stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-062-p2s9w2">
 <src.rf>manual</src.rf>
@@ -1562,8 +1562,8 @@
 <LM>w#w-ln95040-062-p2s9w2</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-3</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-062-p2s9w3">
 <src.rf>manual</src.rf>
@@ -3999,7 +3999,7 @@
 <LM>w#w-ln95040-062-p4s14w17</LM>
 </w.rf>
 <form>vytýčen</form>
-<lemma>vytýčit</lemma>
+<lemma>vytýčit_,s_^(^DD**vytyčit)</lemma>
 <tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-062-p4s14w18">
@@ -6700,7 +6700,7 @@
 <LM>w#w-ln95040-062-p5s6w40</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95040-062-p5s6w41">
@@ -6864,7 +6864,7 @@
 <LM>w#w-ln95040-062-p5s7w17</LM>
 </w.rf>
 <form>spjat</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACYS------A----</tag>
 </m>
 <m id="m-ln95040-062-p5s7w18">
@@ -8483,7 +8483,7 @@
 <LM>w#w-ln95040-062-p7s1w9</LM>
 </w.rf>
 <form>nedozvíte</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---2P-NAP--</tag>
 </m>
 <m id="m-ln95040-062-p7s1w10">
@@ -11920,8 +11920,8 @@
 <LM>w#w-ln95040-062-p10s15w7</LM>
 </w.rf>
 <form>byť</form>
-<lemma>byť</lemma>
-<tag>J,-------------</tag>
+<lemma>byť-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-062-p10s15w8">
 <src.rf>manual</src.rf>

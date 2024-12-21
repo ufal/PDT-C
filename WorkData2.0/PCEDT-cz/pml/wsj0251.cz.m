@@ -1527,8 +1527,8 @@
 <LM>w#w-wsj0251-001-p1s3W18</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0251-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>

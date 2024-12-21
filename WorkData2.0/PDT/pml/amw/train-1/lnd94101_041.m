@@ -432,8 +432,8 @@
 <LM>w#w-lnd94101-041-p1s5w11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-041-p1s5w12">
 <src.rf>manual</src.rf>

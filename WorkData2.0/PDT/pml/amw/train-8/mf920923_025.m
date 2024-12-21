@@ -4698,8 +4698,8 @@
 <LM>w#w-mf920923-025-p8s2w19</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920923-025-p8s2w20">
 <src.rf>manual</src.rf>
@@ -4864,7 +4864,7 @@
 <form_change>spell</form_change>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-025-p8s3w15">
 <src.rf>manual</src.rf>

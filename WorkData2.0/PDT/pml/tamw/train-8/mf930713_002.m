@@ -5566,7 +5566,7 @@
 <LM>w#w-mf930713-002-p27s1w26</LM>
 </w.rf>
 <form>Šalomoun</form>
-<lemma>Šalomoun_;Y</lemma>
+<lemma>Šalomoun_;Y_,s_^(^DD**Šalamoun)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-002-p27s1w27">
@@ -11245,7 +11245,7 @@
 <LM>w#w-mf930713-002-p58s2w1</LM>
 </w.rf>
 <form>Vaganti</form>
-<lemma>vagant-2_^(potulný_student)</lemma>
+<lemma>vagant-2_,h_^(^GC**vakant)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-mf930713-002-p58s2w2">
@@ -13861,8 +13861,8 @@
 <LM>w#w-mf930713-002-p78s1w3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-002-p78s1w4">
 <src.rf>manual</src.rf>

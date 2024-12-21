@@ -322,8 +322,8 @@
 <LM>w#w-mf930713-143-p2s2w8</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930713-143-p2s2w9">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-143-p3s1w33">
 <src.rf>manual</src.rf>
@@ -2046,8 +2046,8 @@
 <LM>w#w-mf930713-143-p7s1w30</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-143-p7s1w31">
 <src.rf>manual</src.rf>

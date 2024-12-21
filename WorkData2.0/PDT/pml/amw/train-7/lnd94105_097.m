@@ -214,7 +214,7 @@
 <LM>w#w-lnd94105-097-p1s2Cw5</LM>
 </w.rf>
 <form>čtvrtfinalovém</form>
-<lemma>čtvrtfinalový</lemma>
+<lemma>čtvrtfinalový_,s_^(^DD**čtvrtfinálový)</lemma>
 <tag>AANS6----1A----</tag>
 </m>
 <m id="m-lnd94105-097-p1s2Cw6">
@@ -1049,7 +1049,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-097-p1s4w6">
 <src.rf>manual</src.rf>
@@ -2734,7 +2734,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-097-p1s14w16">
 <src.rf>manual</src.rf>

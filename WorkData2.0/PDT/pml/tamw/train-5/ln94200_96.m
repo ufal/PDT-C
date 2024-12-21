@@ -583,8 +583,8 @@
 <LM>w#w-ln94200-96-p2s2Bw52</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-96-p2s2Bw53">
 <src.rf>manual</src.rf>
@@ -1474,8 +1474,8 @@
 <LM>w#w-ln94200-96-p4s1w31</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-96-p4s1w32">
 <src.rf>manual</src.rf>

@@ -184,7 +184,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-ln95047-050-p2s1w16">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-ln95047-050-p2s3w11</LM>
 </w.rf>
 <form>Oscara</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMS4-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s3w12">
@@ -857,7 +857,7 @@
 <form_change>spell</form_change>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-050-p2s4w30">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-ln95047-050-p2s4w31</LM>
 </w.rf>
 <form>Oscara</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMS4-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s4w32">

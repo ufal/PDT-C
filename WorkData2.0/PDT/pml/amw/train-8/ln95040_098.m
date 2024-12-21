@@ -339,7 +339,7 @@
 <LM>w#w-ln95040-098-p3s1w14</LM>
 </w.rf>
 <form>vyjednavačem</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s1w15">
@@ -1045,8 +1045,8 @@
 <LM>w#w-ln95040-098-p3s3w39</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-098-p3s3w40">
 <src.rf>manual</src.rf>

@@ -625,8 +625,8 @@
 <LM>w#w-ln95045-074-p3s3w4</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-074-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1169,8 +1169,8 @@
 <LM>w#w-ln95045-074-p4s2w12</LM>
 </w.rf>
 <form>obžalovaný</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-074-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1362,8 +1362,8 @@
 <LM>w#w-ln95045-074-p4s4w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-074-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1537,8 +1537,8 @@
 <LM>w#w-ln95045-074-p4s6w4</LM>
 </w.rf>
 <form>obžalovaného</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS4----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-074-p4s6w5">
 <src.rf>manual</src.rf>
@@ -2027,8 +2027,8 @@
 <LM>w#w-ln95045-074-p4s8w18</LM>
 </w.rf>
 <form>obžalovanému</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS3----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS3-----A----</tag>
 </m>
 <m id="m-ln95045-074-p4s8w19">
 <src.rf>manual</src.rf>

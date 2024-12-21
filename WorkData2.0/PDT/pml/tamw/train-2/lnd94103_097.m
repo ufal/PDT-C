@@ -301,7 +301,7 @@
 </w.rf>
 <form>věnován</form>
 <lemma>věnovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-lnd94103-097-p1s4w11">
 <src.rf>manual</src.rf>
@@ -509,8 +509,8 @@
 <LM>w#w-lnd94103-097-p1s5w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-097-p1s5w16">
 <src.rf>manual</src.rf>

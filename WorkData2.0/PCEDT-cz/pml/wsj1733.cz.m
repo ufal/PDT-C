@@ -461,7 +461,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj1733-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>

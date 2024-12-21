@@ -508,8 +508,8 @@
 <LM>w#w-d1t1769-17</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m773-d1t1769-18">
 <w.rf>
@@ -736,8 +736,8 @@
 <LM>w#w-d1t1782-2</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m773-d1t1782-3">
 <w.rf>
@@ -852,8 +852,8 @@
 <LM>w#w-d1t1785-4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m773-d1t1785-5">
 <w.rf>
@@ -1275,7 +1275,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m773-d1t1806-4">
 <w.rf>
@@ -1436,8 +1436,8 @@
 <LM>w#w-d1t1808-11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m773-d1t1808-13">
 <w.rf>
@@ -1697,7 +1697,7 @@
 </w.rf>
 <form>Siemens</form>
 <lemma>Siemens-1_;m</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIXX-----A----</tag>
 </m>
 <m id="m773-d1t1837-1">
 <w.rf>
@@ -2153,7 +2153,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m773-d1t1857-17">
 <w.rf>
@@ -2486,8 +2486,8 @@
 <LM>w#w-d1t1865-17</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m773-d1t1865-18">
 <w.rf>
@@ -2901,7 +2901,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m773-d1t1889-12">
 <w.rf>

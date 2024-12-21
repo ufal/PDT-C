@@ -163,6 +163,7 @@
 <LM id="a-ln95045-007-p1s2w11">
 <m.rf>m#m-ln95045-007-p1s2w11</m.rf>
 <afun>Coord</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
@@ -175,7 +176,7 @@
 <children>
 <LM id="a-ln95045-007-p1s2w10">
 <m.rf>m#m-ln95045-007-p1s2w10</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -190,7 +191,7 @@
 <children>
 <LM id="a-ln95045-007-p1s2w13">
 <m.rf>m#m-ln95045-007-p1s2w13</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
 </LM>

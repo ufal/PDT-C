@@ -54,8 +54,8 @@
 <LM>w#w-mu_14-SCzechM-p1393-s1-w2</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="mu_14-SCzechM-p1393-s1-w3">
 <w.rf>
@@ -784,7 +784,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_14-SCzechM-p1408-s1-w15">
 <w.rf>
@@ -1378,8 +1378,8 @@
 <LM>w#w-mu_14-SCzechM-p1446-s1-w3</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="mu_14-SCzechM-p1446-s1-w4">
 <w.rf>
@@ -1435,7 +1435,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_14-SCzechM-p1446-s1-w11">
 <w.rf>
@@ -1550,8 +1550,8 @@
 <LM>w#w-mu_14-SCzechM-p1454-s1-w3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_14-SCzechM-p1454-s1-w4">
 <w.rf>
@@ -1700,8 +1700,8 @@
 <LM>w#w-mu_14-SCzechM-p1465-s1-w13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_14-SCzechM-p1465-s1-w14">
 <w.rf>
@@ -2326,8 +2326,8 @@
 <LM>w#w-mu_14-SCzechM-p1471-s1-w24</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_14-SCzechM-p1471-s1-w25">
 <w.rf>
@@ -2712,8 +2712,8 @@
 <LM>w#w-mu_14-SCzechM-p1473-s1-w19</LM>
 </w.rf>
 <form>Díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP4-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="mu_14-SCzechM-p1473-s1-w20">
 <w.rf>
@@ -3036,7 +3036,7 @@
 <LM>w#w-mu_14-SCzechM-p1488-s1-w4</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="mu_14-SCzechM-p1488-s1-w5">
@@ -3149,7 +3149,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="mu_14-SCzechM-p1488-s1-w19">
 <w.rf>
@@ -3991,8 +3991,8 @@
 <LM>w#w-mu_14-SCzechM-p1517-s1-w31</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_14-SCzechM-p1517-s1-w32">
 <w.rf>

@@ -12,8 +12,8 @@
 <LM>w#w-3497-3504</LM>
 </w.rf>
 <form>Přesně</form>
-<lemma>přesně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přesně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m911-d1t1409-15">
 <w.rf>
@@ -60,7 +60,7 @@
 <LM>w#w-d1t1411-4</LM>
 </w.rf>
 <form>mínus</form>
-<lemma>mínus-2_,h_^(mat._operace;_9_mínus_3,_též_mínus_dva_stupně)_(^GC**minus-2)</lemma>
+<lemma>mínus-2_,h_^(mat._operace;_9_mínus_3)_(^GC**minus-2)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m911-d1t1411-5">

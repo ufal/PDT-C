@@ -398,7 +398,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2084-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1720,7 +1720,7 @@
 </w.rf>
 <form>zprávy</form>
 <lemma>zpráva</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj2084-001-p1s5W36-Ta">
 <src.rf>tagger-a</src.rf>

@@ -99,16 +99,16 @@
 <afun>Atr</afun>
 <ord>15</ord>
 <children>
-<LM id="a-wsj0191-001-p1s0W16-Ta">
-<m.rf>m#m-wsj0191-001-p1s0W16-Ta</m.rf>
-<afun>Atr</afun>
-<ord>16</ord>
-<children>
 <LM id="a-wsj0191-001-p1s0W17-Ta">
 <m.rf>m#m-wsj0191-001-p1s0W17-Ta</m.rf>
 <afun>Atr</afun>
 <ord>17</ord>
 <children>
+<LM id="a-wsj0191-001-p1s0W16-Ta">
+<m.rf>m#m-wsj0191-001-p1s0W16-Ta</m.rf>
+<afun>Atr</afun>
+<ord>16</ord>
+</LM>
 <LM id="a-wsj0191-001-p1s0W18-Ta">
 <m.rf>m#m-wsj0191-001-p1s0W18-Ta</m.rf>
 <afun>Atr</afun>
@@ -118,20 +118,22 @@
 </LM>
 </children>
 </LM>
-<LM id="a-wsj0191-001-p1s0W19-Ta">
-<m.rf>m#m-wsj0191-001-p1s0W19-Ta</m.rf>
-<afun>Atr</afun>
-<ord>19</ord>
-<children>
+</children>
+</LM>
 <LM id="a-wsj0191-001-p1s0W24-Ta">
 <m.rf>m#m-wsj0191-001-p1s0W24-Ta</m.rf>
 <afun>Apos</afun>
 <ord>24</ord>
 <children>
+<LM id="a-wsj0191-001-p1s0W19-Ta">
+<m.rf>m#m-wsj0191-001-p1s0W19-Ta</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>19</ord>
+<children>
 <LM id="a-wsj0191-001-p1s0W22-Ta">
 <m.rf>m#m-wsj0191-001-p1s0W22-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>22</ord>
 <children>
 <LM id="a-wsj0191-001-p1s0W20-Ta">
@@ -148,6 +150,8 @@
 <m.rf>m#m-wsj0191-001-p1s0W23-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>23</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -214,28 +218,20 @@
 <afun>Adv</afun>
 <ord>36</ord>
 <children>
-<LM id="a-wsj0191-001-p1s0W38-Ta">
-<m.rf>m#m-wsj0191-001-p1s0W38-Ta</m.rf>
+<LM id="a-wsj0191-001-p1s0W39-Ta">
+<m.rf>m#m-wsj0191-001-p1s0W39-Ta</m.rf>
 <afun>Atr</afun>
-<ord>38</ord>
+<ord>39</ord>
 <children>
 <LM id="a-wsj0191-001-p1s0W37-Ta">
 <m.rf>m#m-wsj0191-001-p1s0W37-Ta</m.rf>
 <afun>Atr</afun>
 <ord>37</ord>
 </LM>
-<LM id="a-wsj0191-001-p1s0W39-Ta">
-<m.rf>m#m-wsj0191-001-p1s0W39-Ta</m.rf>
+<LM id="a-wsj0191-001-p1s0W38-Ta">
+<m.rf>m#m-wsj0191-001-p1s0W38-Ta</m.rf>
 <afun>Atr</afun>
-<ord>39</ord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
+<ord>38</ord>
 </LM>
 </children>
 </LM>
@@ -259,6 +255,8 @@
 <m.rf>m#m-wsj0191-001-p1s0W40-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>40</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

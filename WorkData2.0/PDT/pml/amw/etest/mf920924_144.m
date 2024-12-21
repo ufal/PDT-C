@@ -2257,8 +2257,8 @@
 <LM>w#w-mf920924-144-p2s12w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-144-p2s12w5">
 <src.rf>manual</src.rf>
@@ -3000,7 +3000,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-144-p2s14w16">
 <src.rf>manual</src.rf>

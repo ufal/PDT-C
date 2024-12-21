@@ -2817,7 +2817,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-26-p8s3w13">
 <src.rf>manual</src.rf>
@@ -3101,7 +3101,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-26-p9s2w2">
 <src.rf>manual</src.rf>
@@ -3343,7 +3343,7 @@
 <LM>w#w-ln94200-26-p9s2w28</LM>
 </w.rf>
 <form>expanzivnější</form>
-<lemma>expanzivní</lemma>
+<lemma>expanzivní_,s_^(^DD**expanzívní)</lemma>
 <tag>AAFS4----2A----</tag>
 </m>
 <m id="m-ln94200-26-p9s2w29">
@@ -3791,7 +3791,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-26-p10s3w3">
 <src.rf>manual</src.rf>

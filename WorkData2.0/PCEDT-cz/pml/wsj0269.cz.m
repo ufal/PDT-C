@@ -368,8 +368,8 @@
 <LM>w#w-wsj0269-001-p1s0W40</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0269-001-p1s0W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -488,8 +488,8 @@
 <LM>w#w-wsj0269-001-p1s1W5</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0269-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-wsj0269-001-p1s2W32</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj0269-001-p1s2W33-Ta">
@@ -1340,7 +1340,7 @@
 <LM>w#w-wsj0269-001-p1s4W32</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj0269-001-p1s4W33-Ta">

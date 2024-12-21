@@ -147,8 +147,8 @@
 <LM>w#w-ln94211-115-p1s2w4</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94211-115-p1s2w5">
 <src.rf>manual</src.rf>

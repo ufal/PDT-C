@@ -1048,8 +1048,8 @@
 <LM>w#w-ln94207-124-p2s5w7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-124-p2s5w8">
 <src.rf>manual</src.rf>

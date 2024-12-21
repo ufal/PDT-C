@@ -677,8 +677,8 @@
 <LM>w#w-wsj0146-001-p1s2W9</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0146-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1340,8 +1340,8 @@
 <LM>w#w-wsj0146-001-p1s5W16</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0146-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2197,7 +2197,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0146-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3647,8 +3647,8 @@
 <LM>w#w-wsj0146-001-p1s14W28</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0146-001-p1s14W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3719,7 +3719,7 @@
 <LM>w#w-wsj0146-001-p1s14W36</LM>
 </w.rf>
 <form>spalitelné</form>
-<lemma>spalitelný_^(*8álit)</lemma>
+<lemma>spalitelný_^(^DD**spálitelný)_(*8álit)</lemma>
 <tag>AANS4----1A----</tag>
 </m>
 <m id="m-wsj0146-001-p1s14W37-Ta">

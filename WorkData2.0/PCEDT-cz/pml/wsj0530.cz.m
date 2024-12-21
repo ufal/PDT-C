@@ -516,7 +516,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1075,8 +1075,8 @@
 <LM>w#w-wsj0530-001-p1s3W24</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s3W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-wsj0530-001-p1s5W8</LM>
 </w.rf>
 <form>upjatými</form>
-<lemma>upjatý</lemma>
+<lemma>upjatý_,s_^(^DD**upnutý)</lemma>
 <tag>AAIP7----1A----</tag>
 </m>
 <m id="m-wsj0530-001-p1s5W9-Ta">
@@ -2250,8 +2250,8 @@
 <LM>w#w-wsj0530-001-p1s10W17</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s10W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2669,7 +2669,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s12W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2795,7 +2795,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s12W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4962,8 +4962,8 @@
 <LM>w#w-wsj0530-001-p1s23W5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s23W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5725,7 +5725,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s26W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6203,8 +6203,8 @@
 <LM>w#w-wsj0530-001-p1s27W17</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s27W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6278,7 +6278,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0530-001-p1s28W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6505,8 +6505,8 @@
 <LM>w#w-wsj0530-001-p1s29W6</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s29W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6860,8 +6860,8 @@
 <LM>w#w-wsj0530-001-p1s31W7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s31W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7189,7 +7189,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s33W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7706,7 +7706,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s35W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8077,7 +8077,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s36W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8578,7 +8578,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s39W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9112,7 +9112,7 @@
 <LM>w#w-wsj0530-001-p1s41W24</LM>
 </w.rf>
 <form>baseballovým</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAFP3----1A----</tag>
 </m>
 <m id="m-wsj0530-001-p1s41W25-Ta">
@@ -9521,8 +9521,8 @@
 <LM>w#w-wsj0530-001-p1s43W12</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s43W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9895,7 +9895,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0530-001-p1s45W2-Ta">
 <src.rf>tagger-a</src.rf>

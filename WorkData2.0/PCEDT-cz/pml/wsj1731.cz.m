@@ -543,7 +543,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1731-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2542,8 +2542,8 @@
 <LM>w#w-wsj1731-001-p1s11W20</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1731-001-p1s11W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2728,7 +2728,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1731-001-p1s13W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3649,7 +3649,7 @@
 <LM>w#w-wsj1731-001-p1s15W15</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj1731-001-p1s15W16-Ta">
@@ -3840,7 +3840,7 @@
 <LM>w#w-wsj1731-001-p1s16W4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj1731-001-p1s16W5-Ta">
@@ -5877,7 +5877,7 @@
 </w.rf>
 <form>Kongu</form>
 <lemma>Kong-2_;G</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1731-001-p1s25W8-Ta">
 <src.rf>tagger-a</src.rf>

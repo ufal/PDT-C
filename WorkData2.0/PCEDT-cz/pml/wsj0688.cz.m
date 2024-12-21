@@ -750,7 +750,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0688-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2580,7 +2580,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0688-001-p1s12W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2624,7 +2624,7 @@
 <LM>w#w-wsj0688-001-p1s12W14</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj0688-001-p1s12W15-Ta">
@@ -2915,7 +2915,7 @@
 </w.rf>
 <form>Denveru</form>
 <lemma>Denver-2_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0688-001-p1s13W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3068,7 +3068,7 @@
 </w.rf>
 <form>zachovány</form>
 <lemma>zachovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0688-001-p1s13W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3288,7 +3288,7 @@
 </w.rf>
 <form>Denveru</form>
 <lemma>Denver-2_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0688-001-p1s15W4-Ta">
 <src.rf>tagger-a</src.rf>

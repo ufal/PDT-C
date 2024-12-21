@@ -1677,7 +1677,7 @@
 <LM>w#w-wsj0267-001-p1s7W38</LM>
 </w.rf>
 <form>Pennsylvánii</form>
-<lemma>Pennsylvánie_;G</lemma>
+<lemma>Pennsylvánie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj0267-001-p1s7W39-Ta">
@@ -3379,7 +3379,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-wsj0267-001-p1s11W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4251,7 +4251,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0267-001-p1s15W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4368,7 +4368,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0267-001-p1s15W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5567,8 +5567,8 @@
 <LM>w#w-wsj0267-001-p1s21W5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0267-001-p1s21W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6826,8 +6826,8 @@
 <LM>w#w-wsj0267-001-p1s25W20</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0267-001-p1s25W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7432,18 +7432,18 @@
 <w.rf>
 <LM>w#w-wsj0267-001-p1s27W17</LM>
 </w.rf>
-<form>hlavním</form>
+<form>hlavního</form>
 <lemma>hlavní</lemma>
-<tag>AANS7----1A----</tag>
+<tag>AANS2----1A----</tag>
 </m>
 <m id="m-wsj0267-001-p1s27W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0267-001-p1s27W18</LM>
 </w.rf>
-<form>městem</form>
+<form>města</form>
 <lemma>město</lemma>
-<tag>NNNS7-----A----</tag>
+<tag>NNNS2-----A----</tag>
 </m>
 <m id="m-wsj0267-001-p1s27W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7795,7 +7795,7 @@
 <LM>w#w-wsj0267-001-p1s28W28</LM>
 </w.rf>
 <form>Pennsylvánie</form>
-<lemma>Pennsylvánie_;G</lemma>
+<lemma>Pennsylvánie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-wsj0267-001-p1s28W29-Ta">
@@ -8351,7 +8351,7 @@
 <LM>w#w-wsj0267-001-p1s31W21</LM>
 </w.rf>
 <form>Pennsylvánii</form>
-<lemma>Pennsylvánie_;G</lemma>
+<lemma>Pennsylvánie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj0267-001-p1s31W22-Ta">
@@ -9079,7 +9079,7 @@
 <LM>w#w-wsj0267-001-p1s35W17</LM>
 </w.rf>
 <form>Pennsylvánii</form>
-<lemma>Pennsylvánie_;G</lemma>
+<lemma>Pennsylvánie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj0267-001-p1s35W18-Ta">
@@ -13145,7 +13145,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0267-001-p1s55W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13754,7 +13754,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0267-001-p1s58W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18603,8 +18603,8 @@
 <LM>w#w-wsj0267-001-p1s80W4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0267-001-p1s80W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20825,8 +20825,8 @@
 <LM>w#w-wsj0267-001-p1s92W9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0267-001-p1s92W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20879,7 +20879,7 @@
 <LM>w#w-wsj0267-001-p1s92W15</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-wsj0267-001-p1s92W16-Ta">

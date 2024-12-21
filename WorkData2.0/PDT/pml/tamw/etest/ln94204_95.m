@@ -131,8 +131,8 @@
 <LM>w#w-ln94204-95-p2s1Bw9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94204-95-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln94204-95-p3s1w15">
 <src.rf>manual</src.rf>
@@ -989,8 +989,8 @@
 <LM>w#w-ln94204-95-p3s1w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-95-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1135,8 +1135,8 @@
 <LM>w#w-ln94204-95-p3s2w10</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-95-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1708,8 +1708,8 @@
 <LM>w#w-ln94204-95-p4s1w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-95-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1888,8 +1888,8 @@
 <LM>w#w-ln94204-95-p4s1w41</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-95-p4s1w42">
 <src.rf>manual</src.rf>
@@ -2351,8 +2351,8 @@
 <LM>w#w-ln94204-95-p5s1w8</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-95-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2612,8 +2612,8 @@
 <LM>w#w-ln94204-95-p5s1w38</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-95-p5s1w39">
 <src.rf>manual</src.rf>
@@ -2650,8 +2650,8 @@
 <LM>w#w-ln94204-95-p5s2w2</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-95-p5s2w3">
 <src.rf>manual</src.rf>

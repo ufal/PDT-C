@@ -386,7 +386,7 @@
 </w.rf>
 <form>Conoco</form>
 <lemma>Conoco_;m</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-ln94211-29-p2s2w18">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 </w.rf>
 <form>Shell</form>
 <lemma>Shell-2_;m</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-29-p2s2w20">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 </w.rf>
 <form>Total</form>
 <lemma>Total_;m</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-29-p2s2w22">
 <src.rf>manual</src.rf>
@@ -1404,8 +1404,8 @@
 <LM>w#w-ln94211-29-p3s5w10</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-29-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1485,8 +1485,8 @@
 <LM>w#w-ln94211-29-p3s5w19</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-29-p3s5w20">
 <src.rf>manual</src.rf>
@@ -2049,8 +2049,8 @@
 <LM>w#w-ln94211-29-p3s8w29</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-29-p3s8w30">
 <src.rf>manual</src.rf>

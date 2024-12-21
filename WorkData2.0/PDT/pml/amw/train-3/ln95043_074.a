@@ -107,18 +107,18 @@
 <ord>14</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-ln95043-074-p1s1w15">
-<m.rf>m#m-ln95043-074-p1s1w15</m.rf>
-<afun>Adv</afun>
-<ord>15</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-ln95043-074-p1s1w13">
 <m.rf>m#m-ln95043-074-p1s1w13</m.rf>
 <afun>AuxZ</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-ln95043-074-p1s1w15">
+<m.rf>m#m-ln95043-074-p1s1w15</m.rf>
+<afun>Adv</afun>
+<ord>15</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-ln95043-074-p1s1w16">
 <m.rf>m#m-ln95043-074-p1s1w16</m.rf>
 <afun>AuxP</afun>

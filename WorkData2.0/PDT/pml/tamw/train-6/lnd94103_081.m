@@ -187,7 +187,7 @@
 </w.rf>
 <form>přesáhl</form>
 <lemma>přesáhnout</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94103-081-p1s3w10">
 <src.rf>manual</src.rf>
@@ -3002,7 +3002,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd94103-081-p1s20w8">
 <src.rf>manual</src.rf>
@@ -3320,8 +3320,8 @@
 <LM>w#w-lnd94103-081-p1s22w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-081-p1s22w2">
 <src.rf>manual</src.rf>

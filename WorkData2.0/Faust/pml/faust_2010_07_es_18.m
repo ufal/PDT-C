@@ -168,7 +168,7 @@
 <LM>w#w-es_18-SCzechM-p1867-s1-w3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="es_18-SCzechM-p1867-s1-w4">
@@ -184,7 +184,7 @@
 <LM>w#w-es_18-SCzechM-p1867-s1-w5</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="es_18-SCzechM-p1867-s1-w6">
@@ -1934,8 +1934,8 @@
 <LM>w#w-es_18-SCzechM-p1887-s1-w6</LM>
 </w.rf>
 <form>Zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_18-SCzechM-p1887-s1-w7">
 <w.rf>
@@ -1967,7 +1967,7 @@
 </w.rf>
 <form>děvčata</form>
 <lemma>děvče</lemma>
-<tag>NNNP5-----A----</tag>
+<tag>NNNP4-----A----</tag>
 </m>
 <m id="es_18-SCzechM-p1887-s1-w11">
 <w.rf>
@@ -2103,7 +2103,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="es_18-SCzechM-p1887-s1-w28">
 <w.rf>
@@ -2442,8 +2442,8 @@
 <LM>w#w-es_18-SCzechM-p1890-s1-w11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_18-SCzechM-p1890-s1-w12">
 <w.rf>
@@ -2519,7 +2519,7 @@
 </w.rf>
 <form>které</form>
 <lemma>který</lemma>
-<tag>P4NS4----------</tag>
+<tag>P4NS1----------</tag>
 </m>
 <m id="es_18-SCzechM-p1897-s1-w7">
 <w.rf>
@@ -2930,7 +2930,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="es_18-SCzechM-p1898-s1-w16">
 <w.rf>
@@ -4676,7 +4676,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_18-SCzechM-p1958-s1-w39">
 <w.rf>

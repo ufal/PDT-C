@@ -247,7 +247,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-005-p2s1w23">
 <src.rf>manual</src.rf>
@@ -1781,7 +1781,7 @@
 <LM>w#w-vesm9303-005-p5s2w15</LM>
 </w.rf>
 <form>využívaných</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-vesm9303-005-p5s2w16">
@@ -2073,7 +2073,7 @@
 <LM>w#w-vesm9303-005-p5s4Aw5</LM>
 </w.rf>
 <form>využívaná</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9303-005-p5s4Aw6">
@@ -2317,7 +2317,7 @@
 <LM>w#w-vesm9303-005-p5s4Aw32</LM>
 </w.rf>
 <form>domnělého</form>
-<lemma>domnělý_^(*3ít)</lemma>
+<lemma>domnělý</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-vesm9303-005-p5s4Aw33">
@@ -2643,7 +2643,7 @@
 <LM>w#w-vesm9303-005-p5s4Bw28</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9303-005-p5s4Bw29">
@@ -2753,7 +2753,7 @@
 <LM>w#w-vesm9303-005-p5s5w10</LM>
 </w.rf>
 <form>využívané</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-vesm9303-005-p5s5w11">
@@ -2790,7 +2790,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-005-p5s5w15">
 <src.rf>manual</src.rf>
@@ -3187,7 +3187,7 @@
 <LM>w#w-vesm9303-005-p5s6w29</LM>
 </w.rf>
 <form>zjednodušení</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9303-005-p5s6w30">
@@ -4593,7 +4593,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-005-p7s5w24">
 <src.rf>manual</src.rf>

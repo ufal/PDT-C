@@ -679,7 +679,7 @@
 <LM>w#w-ln94209-1-p3s2w9</LM>
 </w.rf>
 <form>šíře</form>
-<lemma>šíř_^(jeden_z_rozměrů)</lemma>
+<lemma>šíře_^(jeden_z_rozměrů)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-1-p3s2w10">
@@ -1199,8 +1199,8 @@
 <LM>w#w-ln94209-1-p5s2w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-1-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1408,8 +1408,8 @@
 <LM>w#w-ln94209-1-p5s3w3</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-1-p5s3w4">
 <src.rf>manual</src.rf>
@@ -1817,8 +1817,8 @@
 <LM>w#w-ln94209-1-p6s2w13</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-1-p6s2w14">
 <src.rf>manual</src.rf>
@@ -1943,8 +1943,8 @@
 <LM>w#w-ln94209-1-p6s2w27</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94209-1-p6s2w28">
 <src.rf>manual</src.rf>

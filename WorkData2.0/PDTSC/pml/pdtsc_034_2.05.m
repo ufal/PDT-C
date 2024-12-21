@@ -166,8 +166,8 @@
 <LM>w#w-d1t1546-4</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m991-d1t1546-3">
 <w.rf>
@@ -1088,8 +1088,8 @@
 <LM>w#w-d1t1605-6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m991-d1t1605-9">
 <w.rf>
@@ -1474,8 +1474,8 @@
 <LM>w#w-d1t1640-1</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m991-d1t1638-4">
 <w.rf>
@@ -1759,7 +1759,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m991-d1t1650-3">
 <w.rf>
@@ -1940,8 +1940,8 @@
 <LM>w#w-d1t1667-4</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m991-d1t1667-5">
 <w.rf>
@@ -2268,8 +2268,8 @@
 <LM>w#w-d1t1692-8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m991-d1t1692-10">
 <w.rf>
@@ -2940,8 +2940,8 @@
 <LM>w#w-d1t1736-11</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m991-d1t1736-8">
 <w.rf>
@@ -3274,8 +3274,8 @@
 <LM>w#w-d1t1758-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m991-d1t1758-2">
 <w.rf>
@@ -3526,8 +3526,8 @@
 <LM>w#w-d1t1768-3</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m991-d1t1768-4">
 <w.rf>
@@ -3954,8 +3954,8 @@
 <LM>w#w-d1t1800-1</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m991-d1t1800-2">
 <w.rf>

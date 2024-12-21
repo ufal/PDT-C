@@ -551,8 +551,8 @@
 <LM>w#w-mf930709-074-p2s4w5</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-074-p2s4w6">
 <src.rf>manual</src.rf>

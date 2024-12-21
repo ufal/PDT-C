@@ -1180,7 +1180,7 @@
 </w.rf>
 <form>minimalizovány</form>
 <lemma>minimalizovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-ln94204-45-p2s8w20">
 <src.rf>manual</src.rf>
@@ -1498,8 +1498,8 @@
 <LM>w#w-ln94204-45-p2s10w7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-45-p2s10w8">
 <src.rf>manual</src.rf>

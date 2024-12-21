@@ -385,8 +385,8 @@
 <LM>w#w-ln95040-021-p2s1Cw25</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-021-p2s1Cw26">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-021-p3s1w15">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-021-p3s2w2">
 <src.rf>manual</src.rf>

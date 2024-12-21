@@ -493,8 +493,8 @@
 <LM>w#w-ln95047-035-p3s2w5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-035-p3s2w6">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 </w.rf>
 <form>sponzorovat</form>
 <lemma>sponzorovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95047-035-p3s2w8">
 <src.rf>manual</src.rf>

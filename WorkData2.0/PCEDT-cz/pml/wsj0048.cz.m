@@ -269,7 +269,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0048-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -277,8 +277,8 @@
 <LM>w#w-wsj0048-001-p1s0W30</LM>
 </w.rf>
 <form>nepatrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nepatrně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj0048-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1034,7 +1034,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0048-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1051,8 +1051,8 @@
 <LM>w#w-wsj0048-001-p1s6W11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0048-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3433,8 +3433,8 @@
 <LM>w#w-wsj0048-001-p1s16W20</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0048-001-p1s16W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3571,7 +3571,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0048-001-p1s17W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5813,7 +5813,7 @@
 <LM>w#w-wsj0048-001-p1s25W43</LM>
 </w.rf>
 <form>spjata</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACQW------A----</tag>
 </m>
 <m id="m-wsj0048-001-p1s25W44-Ta">
@@ -6225,7 +6225,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0048-001-p1s28W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7033,7 +7033,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0048-001-p1s31W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8621,7 +8621,7 @@
 </w.rf>
 <form>společností</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFP2-----A----</tag>
+<tag>NNFS7-----A----</tag>
 </m>
 <m id="m-wsj0048-001-p1s37W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9018,8 +9018,8 @@
 <LM>w#w-wsj0048-001-p1s38W29</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0048-001-p1s38W30-Ta">
 <src.rf>tagger-a</src.rf>

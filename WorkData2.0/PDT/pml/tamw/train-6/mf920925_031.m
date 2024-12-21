@@ -174,7 +174,7 @@
 <LM>w#w-mf920925-031-p1s2w1</LM>
 </w.rf>
 <form>Nepoživatelná</form>
-<lemma>poživatelný_^(*8ívat)</lemma>
+<lemma>poživatelný_,s_^(^DD**požívatelný)</lemma>
 <tag>AAFS1----1N----</tag>
 </m>
 <m id="m-mf920925-031-p1s2w2">

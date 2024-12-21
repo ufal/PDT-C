@@ -60,8 +60,8 @@
 <LM>w#w-d1t3112-2</LM>
 </w.rf>
 <form>ti</form>
-<lemma>ten</lemma>
-<tag>PDMP1----------</tag>
+<lemma>ty</lemma>
+<tag>PH-S3--2-------</tag>
 </m>
 <m id="m041-d1t3112-4">
 <w.rf>
@@ -1222,7 +1222,7 @@
 <LM>w#w-d1t3196-5</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m041-d1t3196-4">
@@ -1435,7 +1435,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m041-d1t3203-12">
 <w.rf>
@@ -1590,8 +1590,8 @@
 <LM>w#w-d1t3211-3</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t3211-4">
 <w.rf>
@@ -2240,8 +2240,8 @@
 <LM>w#w-d1t3256-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t3256-6">
 <w.rf>
@@ -2896,8 +2896,8 @@
 <LM>w#w-d1t3303-7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t3303-8">
 <w.rf>
@@ -3079,7 +3079,7 @@
 </w.rf>
 <form>to</form>
 <lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m041-d1e3313-x3-1098">
 <w.rf>
@@ -3440,8 +3440,8 @@
 <LM>w#w-d1t3353-4</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t3353-2">
 <w.rf>
@@ -3514,8 +3514,8 @@
 <LM>w#w-d1t3363-1</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t3365-1">
 <w.rf>
@@ -3622,8 +3622,8 @@
 <LM>w#w-d1t3373-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d-m-d1e3366-x3-punct-punct">
 <w.rf>

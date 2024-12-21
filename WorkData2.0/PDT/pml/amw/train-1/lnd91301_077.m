@@ -2367,7 +2367,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-077-p5s9w10">
 <src.rf>manual</src.rf>
@@ -3779,7 +3779,7 @@
 <LM>w#w-lnd91301-077-p7s4w13</LM>
 </w.rf>
 <form>ofsetových</form>
-<lemma>ofsetový</lemma>
+<lemma>ofsetový_,s_^(^DD**offsetový)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-lnd91301-077-p7s4w14">

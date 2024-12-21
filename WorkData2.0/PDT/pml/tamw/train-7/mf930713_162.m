@@ -702,8 +702,8 @@
 <LM>w#w-mf930713-162-p2s4w26</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf930713-162-p2s4w27">
 <src.rf>manual</src.rf>
@@ -767,8 +767,8 @@
 <LM>w#w-mf930713-162-p2s5w5</LM>
 </w.rf>
 <form>mrtvý</form>
-<lemma>mrtvý</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>mrtvý-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-162-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1351,8 +1351,8 @@
 <LM>w#w-mf930713-162-p2s10w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf930713-162-p2s10w2">
 <src.rf>manual</src.rf>
@@ -1477,8 +1477,8 @@
 <LM>w#w-mf930713-162-p2s10w15</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvlášť-2_,s_^(^DD**zvláště-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-162-p2s10w16">
 <src.rf>manual</src.rf>
@@ -1863,8 +1863,8 @@
 <LM>w#w-mf930713-162-p2s14w6</LM>
 </w.rf>
 <form>napadený</form>
-<lemma>napadený</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>napadený-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-162-p2s14w7">
 <src.rf>manual</src.rf>

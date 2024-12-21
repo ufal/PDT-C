@@ -928,8 +928,8 @@
 <LM>w#w-jh_18-SCzechM-p1877-s1-w17</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_18-SCzechM-p1877-s1-w18">
 <w.rf>
@@ -1880,8 +1880,8 @@
 <LM>w#w-jh_18-SCzechM-p1887-s1-w6</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvlášť-2_,s_^(^DD**zvláště-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_18-SCzechM-p1887-s1-w7">
 <w.rf>
@@ -2049,7 +2049,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="jh_18-SCzechM-p1887-s1-w28">
 <w.rf>
@@ -2388,8 +2388,8 @@
 <LM>w#w-jh_18-SCzechM-p1890-s1-w12</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_18-SCzechM-p1890-s1-w13">
 <w.rf>
@@ -2876,7 +2876,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="jh_18-SCzechM-p1898-s1-w14">
 <w.rf>

@@ -1322,8 +1322,8 @@
 <LM>w#w-d1t112-4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m916-d1t112-5">
 <w.rf>
@@ -1621,7 +1621,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m916-d1t131-3">
 <w.rf>
@@ -1694,8 +1694,8 @@
 <LM>w#w-d1t138-6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m916-d1t138-7">
 <w.rf>
@@ -2200,8 +2200,8 @@
 <LM>w#w-d1t159-5</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m916-d1t159-3">
 <w.rf>
@@ -2558,8 +2558,8 @@
 <LM>w#w-d1t177-12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m916-d1t177-13">
 <w.rf>
@@ -2771,7 +2771,7 @@
 </w.rf>
 <form>nim</form>
 <lemma>on-1</lemma>
-<tag>PEXP3--3------1</tag>
+<tag>PEZS7--3------2</tag>
 </m>
 <m id="m916-d1t185-18">
 <w.rf>
@@ -2852,8 +2852,8 @@
 <LM>w#w-d1t189-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m916-d1t189-4">
 <w.rf>
@@ -3704,7 +3704,7 @@
 <LM>w#w-d1t231-6</LM>
 </w.rf>
 <form>Salzburgu</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m916-d1t233-1">
@@ -4076,7 +4076,7 @@
 <LM>w#w-d1t253-10</LM>
 </w.rf>
 <form>Salzburgu</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m916-d1t253-6">
@@ -4172,7 +4172,7 @@
 <LM>w#w-d1t259-3</LM>
 </w.rf>
 <form>Salzburgu</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m916-d1t257-10">
@@ -4206,7 +4206,7 @@
 <LM>w#w-d1t261-6</LM>
 </w.rf>
 <form>Salzburg</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m916-d1t263-1">
@@ -4612,8 +4612,8 @@
 <LM>w#w-d1t283-6</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m916-d1t283-7">
 <w.rf>
@@ -4848,8 +4848,8 @@
 <LM>w#w-d1t301-1</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m916-d1t301-2">
 <w.rf>
@@ -5034,7 +5034,7 @@
 <LM>w#w-d1t314-6</LM>
 </w.rf>
 <form>Salzburgu</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m916-d1t318-1">
@@ -6006,7 +6006,7 @@
 <LM>w#w-d1t355-7</LM>
 </w.rf>
 <form>Salzburgu</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m916-d1t357-1">
@@ -6046,7 +6046,7 @@
 <LM>w#w-d1t361-2</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m916-d-id68369">
@@ -6324,8 +6324,8 @@
 <LM>w#w-d1t384-2</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m916-d1e381-x2-3143">
 <w.rf>

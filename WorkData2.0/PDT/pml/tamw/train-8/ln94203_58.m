@@ -252,8 +252,8 @@
 <LM>w#w-ln94203-58-p2s2w3</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94203-58-p2s2w4">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 </w.rf>
 <form>kontaktují</form>
 <lemma>kontaktovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln94203-58-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1070,8 +1070,8 @@
 <LM>w#w-ln94203-58-p4s1w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-58-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1616,8 +1616,8 @@
 <LM>w#w-ln94203-58-p4s4w12</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-58-p4s4w13">
 <src.rf>manual</src.rf>
@@ -1818,8 +1818,8 @@
 <LM>w#w-ln94203-58-p5s2w3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-58-p5s2w4">
 <src.rf>manual</src.rf>

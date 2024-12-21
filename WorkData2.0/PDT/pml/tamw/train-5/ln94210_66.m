@@ -567,8 +567,8 @@
 <LM>w#w-ln94210-66-p2s3w13</LM>
 </w.rf>
 <form>mladistvých</form>
-<lemma>mladistvý</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>mladistvý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94210-66-p2s3w14">
 <src.rf>manual</src.rf>
@@ -576,8 +576,8 @@
 <LM>w#w-ln94210-66-p2s3w14</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-66-p2s3w15">
 <src.rf>manual</src.rf>

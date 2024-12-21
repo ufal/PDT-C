@@ -413,7 +413,7 @@
 </w.rf>
 <form>Praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94204-31-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1080,8 +1080,8 @@
 <LM>w#w-ln94204-31-p2s3w29</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94204-31-p2s3w30">
 <src.rf>manual</src.rf>
@@ -1923,8 +1923,8 @@
 <LM>w#w-ln94204-31-p3s3w8</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94204-31-p3s3w9">
 <src.rf>manual</src.rf>
@@ -2088,7 +2088,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-31-p3s4w8">
 <src.rf>manual</src.rf>
@@ -2521,8 +2521,8 @@
 <LM>w#w-ln94204-31-p4s1w27</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-31-p4s1w28">
 <src.rf>manual</src.rf>

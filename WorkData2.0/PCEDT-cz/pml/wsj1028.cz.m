@@ -395,7 +395,7 @@
 </w.rf>
 <form>miliardy</form>
 <lemma>miliarda`1000000000</lemma>
-<tag>CzFS2----------</tag>
+<tag>CzFP4----------</tag>
 </m>
 <m id="m-wsj1028-001-p1s0W44-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1588,8 +1588,8 @@
 <LM>w#w-wsj1028-001-p1s5W22</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1028-001-p1s5W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2269,8 +2269,8 @@
 <LM>w#w-wsj1028-001-p1s8W6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1028-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2421,7 +2421,6 @@
 <w.rf>
 <LM>w#w-wsj1028-001-p1s8W23</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>12.01</form>
 <lemma>12.01</lemma>
 <tag>C=-------------</tag>
@@ -3413,7 +3412,7 @@
 </w.rf>
 <form>rating</form>
 <lemma>rating</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj1028-001-p1s12W9-Ta">
 <src.rf>tagger-a</src.rf>

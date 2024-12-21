@@ -970,8 +970,8 @@
 <LM>w#w-d1t101-26</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m911-d1t101-27">
 <w.rf>
@@ -1709,7 +1709,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m911-d1t151-5">
 <w.rf>
@@ -2052,8 +2052,8 @@
 <LM>w#w-d1t176-7</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m911-d-id60028">
 <w.rf>
@@ -2199,7 +2199,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m911-d1e156-x3-940">
 <w.rf>
@@ -2751,8 +2751,8 @@
 <LM>w#w-d1t208-16</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m911-d-id61599">
 <w.rf>
@@ -4450,7 +4450,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m911-d1t310-5">
 <w.rf>

@@ -120,8 +120,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1959-001-p1s0W19-Ta">
 <m.rf>m#m-wsj1959-001-p1s0W19-Ta</m.rf>
 <afun>Atr</afun>
@@ -174,7 +172,7 @@
 </LM>
 <LM id="a-wsj1959-001-p1s0W27-Ta">
 <m.rf>m#m-wsj1959-001-p1s0W27-Ta</m.rf>
-<afun>Obj</afun>
+<afun>Atr</afun>
 <ord>27</ord>
 <children>
 <LM id="a-wsj1959-001-p1s0W28-Ta">
@@ -194,6 +192,8 @@
 <m.rf>m#m-wsj1959-001-p1s0W29-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>29</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -254,9 +254,15 @@
 </LM>
 </children>
 </LM>
+<LM id="a-wsj1959-001-p1s1W12-Ta">
+<m.rf>m#m-wsj1959-001-p1s1W12-Ta</m.rf>
+<afun>Apos</afun>
+<ord>12</ord>
+<children>
 <LM id="a-wsj1959-001-p1s1W10-Ta">
 <m.rf>m#m-wsj1959-001-p1s1W10-Ta</m.rf>
 <afun>Obj</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <children>
 <LM id="a-wsj1959-001-p1s1W11-Ta">
@@ -266,11 +272,6 @@
 </LM>
 </children>
 </LM>
-<LM id="a-wsj1959-001-p1s1W12-Ta">
-<m.rf>m#m-wsj1959-001-p1s1W12-Ta</m.rf>
-<afun>Apos</afun>
-<ord>12</ord>
-<children>
 <LM id="a-wsj1959-001-p1s1W13-Ta">
 <m.rf>m#m-wsj1959-001-p1s1W13-Ta</m.rf>
 <afun>Obj</afun>
@@ -319,7 +320,7 @@
 </LM>
 <LM id="a-wsj1959-001-p1s1W20-Ta">
 <m.rf>m#m-wsj1959-001-p1s1W20-Ta</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>20</ord>
 <children>
 <LM id="a-wsj1959-001-p1s1W21-Ta">
@@ -332,10 +333,6 @@
 <afun>Atr</afun>
 <ord>22</ord>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-wsj1959-001-p1s1W23-Ta">
 <m.rf>m#m-wsj1959-001-p1s1W23-Ta</m.rf>
 <afun>AuxP</afun>
@@ -343,8 +340,10 @@
 <children>
 <LM id="a-wsj1959-001-p1s1W24-Ta">
 <m.rf>m#m-wsj1959-001-p1s1W24-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Atr</afun>
 <ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -354,6 +353,8 @@
 <m.rf>m#m-wsj1959-001-p1s1W25-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>25</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -425,12 +426,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1959-001-p1s2W11-Ta">
 <m.rf>m#m-wsj1959-001-p1s2W11-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>11</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

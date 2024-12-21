@@ -487,7 +487,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95044-141-p2s4w8">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-141-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1289,7 +1289,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95044-141-p3s4w7">
 <src.rf>manual</src.rf>
@@ -3877,8 +3877,8 @@
 <LM>w#w-ln95044-141-p6s5w11</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-141-p6s5w12">
 <src.rf>manual</src.rf>
@@ -7203,7 +7203,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-141-p10s3w21">
 <src.rf>manual</src.rf>
@@ -7585,7 +7585,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-141-p11s2w9">
 <src.rf>manual</src.rf>

@@ -29,7 +29,7 @@
 </w.rf>
 <form>Jihlavanu</form>
 <lemma>Jihlavan-2_;m</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln94210-17-p1s1w3">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 </w.rf>
 <form>Jihlavanu</form>
 <lemma>Jihlavan-2_;m</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln94210-17-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -1986,8 +1986,8 @@
 <LM>w#w-ln94210-17-p5s3w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-17-p5s3w17">
 <src.rf>manual</src.rf>

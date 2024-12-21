@@ -156,8 +156,8 @@
 <LM>w#w-ln95045-044-p2s1Aw10</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95045-044-p2s1Aw11">
 <src.rf>manual</src.rf>
@@ -241,8 +241,8 @@
 <LM>w#w-ln95045-044-p2s1Cw6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-044-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-044-p2s2w7">
 <src.rf>manual</src.rf>
@@ -497,8 +497,8 @@
 <LM>w#w-ln95045-044-p2s3w10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-044-p2s3w11">
 <src.rf>manual</src.rf>
@@ -895,7 +895,7 @@
 <LM>w#w-ln95045-044-p3s1w29</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95045-044-p3s1w30">
@@ -960,8 +960,8 @@
 <LM>w#w-ln95045-044-p3s2w5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-044-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1077,8 +1077,8 @@
 <LM>w#w-ln95045-044-p3s2w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-044-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-044-p3s3w25">
 <src.rf>manual</src.rf>
@@ -1676,8 +1676,8 @@
 <LM>w#w-ln95045-044-p3s4w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-044-p3s4w17">
 <src.rf>manual</src.rf>

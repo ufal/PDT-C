@@ -829,7 +829,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-096-p4s3w3">
 <src.rf>manual</src.rf>

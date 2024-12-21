@@ -622,8 +622,8 @@
 <LM>w#w-ln95047-103-p3s1w18</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-103-p3s1w19">
 <src.rf>manual</src.rf>
@@ -669,8 +669,8 @@
 <LM>w#w-ln95047-103-p3s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95047-103-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1060,7 +1060,7 @@
 <LM>w#w-ln95047-103-p3s4w7</LM>
 </w.rf>
 <form>využívaný</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-ln95047-103-p3s4w8">

@@ -1080,7 +1080,7 @@
 <form_change>spell</form_change>
 <form>Kwašniewski</form>
 <lemma>Kwašniewský_;Y</lemma>
-<tag>NNMS1-----A---1</tag>
+<tag>NNMS1-----A---2</tag>
 </m>
 <m id="m-ln95044-072-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1234,8 +1234,8 @@
 <LM>w#w-ln95044-072-p3s4w6</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-072-p3s4w7">
 <src.rf>manual</src.rf>

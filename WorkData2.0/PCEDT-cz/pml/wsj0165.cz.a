@@ -90,12 +90,12 @@
 <children>
 <LM id="a-wsj0165-001-p1s0W12-Ta">
 <m.rf>m#m-wsj0165-001-p1s0W12-Ta</m.rf>
-<afun>AuxR</afun>
+<afun>AuxT</afun>
 <ord>12</ord>
 </LM>
 <LM id="a-wsj0165-001-p1s0W14-Ta">
 <m.rf>m#m-wsj0165-001-p1s0W14-Ta</m.rf>
-<afun>Sb</afun>
+<afun>Obj</afun>
 <ord>14</ord>
 <children>
 <LM id="a-wsj0165-001-p1s0W15-Ta">
@@ -130,12 +130,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0165-001-p1s0W19-Ta">
 <m.rf>m#m-wsj0165-001-p1s0W19-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>19</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -173,16 +173,16 @@
 <afun>Sb</afun>
 <ord>4</ord>
 </LM>
-<LM id="a-wsj0165-001-p1s1W6-Ta">
-<m.rf>m#m-wsj0165-001-p1s1W6-Ta</m.rf>
-<afun>Obj</afun>
-<ord>6</ord>
-<children>
 <LM id="a-wsj0165-001-p1s1W7-Ta">
 <m.rf>m#m-wsj0165-001-p1s1W7-Ta</m.rf>
-<afun>Atr</afun>
+<afun>Obj</afun>
 <ord>7</ord>
 <children>
+<LM id="a-wsj0165-001-p1s1W6-Ta">
+<m.rf>m#m-wsj0165-001-p1s1W6-Ta</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+</LM>
 <LM id="a-wsj0165-001-p1s1W8-Ta">
 <m.rf>m#m-wsj0165-001-p1s1W8-Ta</m.rf>
 <afun>AuxP</afun>
@@ -253,8 +253,6 @@
 <m.rf>m#m-wsj0165-001-p1s1W20-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>20</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -380,12 +378,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0165-001-p1s1W40-Ta">
 <m.rf>m#m-wsj0165-001-p1s1W40-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>40</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -456,12 +454,12 @@
 <children>
 <LM id="a-wsj0165-001-p1s2W10-Ta">
 <m.rf>m#m-wsj0165-001-p1s2W10-Ta</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>10</ord>
 </LM>
 <LM id="a-wsj0165-001-p1s2W11-Ta">
 <m.rf>m#m-wsj0165-001-p1s2W11-Ta</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>11</ord>
 </LM>
 <LM id="a-wsj0165-001-p1s2W13-Ta">
@@ -625,12 +623,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0165-001-p1s2W39-Ta">
 <m.rf>m#m-wsj0165-001-p1s2W39-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>39</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -695,7 +693,7 @@
 <children>
 <LM id="a-wsj0165-001-p1s3W10-Ta">
 <m.rf>m#m-wsj0165-001-p1s3W10-Ta</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>10</ord>
 </LM>
 </children>
@@ -719,12 +717,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0165-001-p1s3W14-Ta">
 <m.rf>m#m-wsj0165-001-p1s3W14-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>14</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -822,7 +820,7 @@
 <children>
 <LM id="a-wsj0165-001-p1s4W18-Ta">
 <m.rf>m#m-wsj0165-001-p1s4W18-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>18</ord>
 <children>
 <LM id="a-wsj0165-001-p1s4W17-Ta">
@@ -839,8 +837,6 @@
 <m.rf>m#m-wsj0165-001-p1s4W20-Ta</m.rf>
 <afun>Atr</afun>
 <ord>20</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -872,7 +868,7 @@
 <m.rf>m#m-wsj0165-001-p1s4W25-Ta</m.rf>
 <afun>Atr</afun>
 <ord>25</ord>
-<children>
+</LM>
 <LM id="a-wsj0165-001-p1s4W26-Ta">
 <m.rf>m#m-wsj0165-001-p1s4W26-Ta</m.rf>
 <afun>AuxP</afun>
@@ -880,7 +876,7 @@
 <children>
 <LM id="a-wsj0165-001-p1s4W28-Ta">
 <m.rf>m#m-wsj0165-001-p1s4W28-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Atr</afun>
 <ord>28</ord>
 <children>
 <LM id="a-wsj0165-001-p1s4W27-Ta">
@@ -905,12 +901,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0165-001-p1s4W30-Ta">
 <m.rf>m#m-wsj0165-001-p1s4W30-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>30</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1096,12 +1092,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0165-001-p1s5W29-Ta">
 <m.rf>m#m-wsj0165-001-p1s5W29-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>29</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1137,7 +1133,7 @@
 <afun>Pred</afun>
 <is_member>1</is_member>
 <ord>5</ord>
-<children>
+</LM>
 <LM id="a-wsj0165-001-p1s6W10-Ta">
 <m.rf>m#m-wsj0165-001-p1s6W10-Ta</m.rf>
 <afun>Coord</afun>
@@ -1218,14 +1214,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-wsj0165-001-p1s6W18-Ta">
 <m.rf>m#m-wsj0165-001-p1s6W18-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>18</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

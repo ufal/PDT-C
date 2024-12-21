@@ -1301,7 +1301,7 @@
 </w.rf>
 <form>utéct</form>
 <lemma>utéci</lemma>
-<tag>Vf--------A-P--</tag>
+<tag>Vf--------A-P-1</tag>
 </m>
 <m id="m-mf920924-076-p5s3w11">
 <src.rf>manual</src.rf>

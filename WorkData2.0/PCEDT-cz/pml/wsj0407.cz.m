@@ -196,8 +196,8 @@
 <LM>w#w-wsj0407-001-p1s0W21</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0407-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -260,7 +260,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0407-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1087,7 +1087,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0407-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1738,7 +1738,7 @@
 <LM>w#w-wsj0407-001-p1s6W21</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj0407-001-p1s6W22-Ta">

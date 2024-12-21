@@ -716,7 +716,7 @@
 </w.rf>
 <form>management</form>
 <lemma>management_,s_^(^DD**manažment)</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9417-044-p7s1w13">
 <src.rf>manual</src.rf>
@@ -1564,7 +1564,7 @@
 <LM>w#w-cmpr9417-044-p8s3w6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9417-044-p8s3w7">
@@ -2248,8 +2248,8 @@
 <LM>w#w-cmpr9417-044-p11s1w36</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9417-044-p11s1w37">
 <src.rf>manual</src.rf>

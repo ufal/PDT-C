@@ -679,7 +679,7 @@
 </w.rf>
 <form>přespal</form>
 <lemma>přespat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m783-5402-85">
 <w.rf>
@@ -1235,7 +1235,7 @@
 </w.rf>
 <form>kontaktoval</form>
 <lemma>kontaktovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m783-d1t468-11">
 <w.rf>
@@ -1844,8 +1844,8 @@
 <LM>w#w-d1t506-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m783-d1t506-5">
 <w.rf>
@@ -1853,7 +1853,7 @@
 </w.rf>
 <form>kontaktovali</form>
 <lemma>kontaktovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m783-d-id72302">
 <w.rf>
@@ -1910,8 +1910,8 @@
 <LM>w#w-d1t510-7</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m783-d1t510-8">
 <w.rf>
@@ -4151,7 +4151,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m783-d1t658-2">
 <w.rf>
@@ -4198,8 +4198,8 @@
 <LM>w#w-d1t658-9</LM>
 </w.rf>
 <form>jakoby</form>
-<lemma>jakoby</lemma>
-<tag>J,-------------</tag>
+<lemma>jakoby-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m783-d1t658-7">
 <w.rf>
@@ -4854,8 +4854,8 @@
 <LM>w#w-d1t745-2</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m783-d1t745-3">
 <w.rf>

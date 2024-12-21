@@ -185,8 +185,8 @@
 <LM>w#w-cmpr9410-029-p3s1w15</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-029-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1191,8 +1191,8 @@
 <LM>w#w-cmpr9410-029-p7s2w24</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-029-p7s2w25">
 <src.rf>manual</src.rf>

@@ -1966,7 +1966,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0568-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3715,8 +3715,8 @@
 <LM>w#w-wsj0568-001-p1s14W1</LM>
 </w.rf>
 <form>Přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0568-001-p1s14W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4159,7 +4159,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0568-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4583,8 +4583,8 @@
 <LM>w#w-wsj0568-001-p1s16W33</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0568-001-p1s16W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4828,8 +4828,8 @@
 <LM>w#w-wsj0568-001-p1s17W7</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj0568-001-p1s17W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5067,7 +5067,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-wsj0568-001-p1s19W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5550,7 +5550,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0568-001-p1s22W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6974,8 +6974,8 @@
 <LM>w#w-wsj0568-001-p1s28W14</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0568-001-p1s28W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7936,8 +7936,8 @@
 <LM>w#w-wsj0568-001-p1s32W2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0568-001-p1s32W3-Ta">
 <src.rf>tagger-a</src.rf>

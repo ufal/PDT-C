@@ -26,25 +26,27 @@
 <afun>Sb</afun>
 <ord>1</ord>
 <children>
-<LM id="a-wsj0709-001-p1s0W3-Ta">
-<m.rf>m#m-wsj0709-001-p1s0W3-Ta</m.rf>
+<LM id="a-wsj0709-001-p1s0W5-Ta">
+<m.rf>m#m-wsj0709-001-p1s0W5-Ta</m.rf>
 <afun>Atr</afun>
-<ord>3</ord>
+<ord>5</ord>
 <children>
 <LM id="a-wsj0709-001-p1s0W2-Ta">
 <m.rf>m#m-wsj0709-001-p1s0W2-Ta</m.rf>
 <afun>Atr</afun>
 <ord>2</ord>
 </LM>
+<LM id="a-wsj0709-001-p1s0W3-Ta">
+<m.rf>m#m-wsj0709-001-p1s0W3-Ta</m.rf>
+<afun>Atr</afun>
+<ord>3</ord>
+<children>
 <LM id="a-wsj0709-001-p1s0W4-Ta">
 <m.rf>m#m-wsj0709-001-p1s0W4-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>4</ord>
 </LM>
-<LM id="a-wsj0709-001-p1s0W5-Ta">
-<m.rf>m#m-wsj0709-001-p1s0W5-Ta</m.rf>
-<afun>Atr</afun>
-<ord>5</ord>
+</children>
 </LM>
 </children>
 </LM>
@@ -89,7 +91,7 @@
 <m.rf>m#m-wsj0709-001-p1s0W14-Ta</m.rf>
 <afun>Atr</afun>
 <ord>14</ord>
-<children>
+</LM>
 <LM id="a-wsj0709-001-p1s0W15-Ta">
 <m.rf>m#m-wsj0709-001-p1s0W15-Ta</m.rf>
 <afun>AuxP</afun>
@@ -99,8 +101,6 @@
 <m.rf>m#m-wsj0709-001-p1s0W16-Ta</m.rf>
 <afun>Atr</afun>
 <ord>16</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -133,12 +133,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0709-001-p1s0W20-Ta">
 <m.rf>m#m-wsj0709-001-p1s0W20-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>20</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -180,7 +180,7 @@
 <m.rf>m#m-wsj0709-001-p1s1W6-Ta</m.rf>
 <afun>Atr</afun>
 <ord>6</ord>
-<children>
+</LM>
 <LM id="a-wsj0709-001-p1s1W7-Ta">
 <m.rf>m#m-wsj0709-001-p1s1W7-Ta</m.rf>
 <afun>AuxP</afun>
@@ -195,8 +195,6 @@
 <m.rf>m#m-wsj0709-001-p1s1W8-Ta</m.rf>
 <afun>Atr</afun>
 <ord>8</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -227,12 +225,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0709-001-p1s1W14-Ta">
 <m.rf>m#m-wsj0709-001-p1s1W14-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>14</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -302,7 +300,7 @@
 <children>
 <LM id="a-wsj0709-001-p1s2W12-Ta">
 <m.rf>m#m-wsj0709-001-p1s2W12-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>12</ord>
 <children>
 <LM id="a-wsj0709-001-p1s2W11-Ta">
@@ -321,7 +319,7 @@
 <children>
 <LM id="a-wsj0709-001-p1s2W15-Ta">
 <m.rf>m#m-wsj0709-001-p1s2W15-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>15</ord>
 <children>
 <LM id="a-wsj0709-001-p1s2W14-Ta">
@@ -333,12 +331,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0709-001-p1s2W16-Ta">
 <m.rf>m#m-wsj0709-001-p1s2W16-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>16</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -520,7 +518,7 @@
 <m.rf>m#m-wsj0709-001-p1s3W29-Ta</m.rf>
 <afun>Atr</afun>
 <ord>29</ord>
-<children>
+</LM>
 <LM id="a-wsj0709-001-p1s3W30-Ta">
 <m.rf>m#m-wsj0709-001-p1s3W30-Ta</m.rf>
 <afun>AuxP</afun>
@@ -535,20 +533,10 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0709-001-p1s3W32-Ta">
 <m.rf>m#m-wsj0709-001-p1s3W32-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>32</ord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj0709-001-p1s3W33-Ta">
 <m.rf>m#m-wsj0709-001-p1s3W33-Ta</m.rf>
@@ -557,7 +545,7 @@
 <children>
 <LM id="a-wsj0709-001-p1s3W34-Ta">
 <m.rf>m#m-wsj0709-001-p1s3W34-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Atr</afun>
 <ord>34</ord>
 <children>
 <LM id="a-wsj0709-001-p1s3W35-Ta">
@@ -599,10 +587,18 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-wsj0709-001-p1s3W40-Ta">
 <m.rf>m#m-wsj0709-001-p1s3W40-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>40</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -696,7 +692,7 @@
 <m.rf>m#m-wsj0709-001-p1s4W15-Ta</m.rf>
 <afun>Atr</afun>
 <ord>15</ord>
-<children>
+</LM>
 <LM id="a-wsj0709-001-p1s4W16-Ta">
 <m.rf>m#m-wsj0709-001-p1s4W16-Ta</m.rf>
 <afun>AuxP</afun>
@@ -706,8 +702,6 @@
 <m.rf>m#m-wsj0709-001-p1s4W17-Ta</m.rf>
 <afun>Atr</afun>
 <ord>17</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -759,12 +753,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0709-001-p1s4W24-Ta">
 <m.rf>m#m-wsj0709-001-p1s4W24-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

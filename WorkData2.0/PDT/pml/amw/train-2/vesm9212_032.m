@@ -1303,7 +1303,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-032-p3s5Aw15">
 <src.rf>manual</src.rf>
@@ -3651,7 +3651,7 @@
 </w.rf>
 <form>vyjmenovat</form>
 <lemma>vyjmenovat</lemma>
-<tag>Vf--------A-B--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9212-032-p5s3w13">
 <src.rf>manual</src.rf>
@@ -4015,7 +4015,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-032-p5s5w18">
 <src.rf>manual</src.rf>
@@ -4262,7 +4262,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9212-032-p5s7w3">
 <src.rf>manual</src.rf>
@@ -5217,7 +5217,7 @@
 </w.rf>
 <form>cituje</form>
 <lemma>citovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9212-032-p6s2Bw3">
 <src.rf>manual</src.rf>
@@ -6528,7 +6528,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-032-p7s3w48">
 <src.rf>manual</src.rf>
@@ -7912,7 +7912,7 @@
 <LM>w#w-vesm9212-032-p7s6w15</LM>
 </w.rf>
 <form>neslučitelné</form>
-<lemma>slučitelný</lemma>
+<lemma>slučitelný_^(*8oučit)</lemma>
 <tag>AANS4----1N----</tag>
 </m>
 <m id="m-vesm9212-032-p7s6w16">
@@ -8794,7 +8794,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-032-p8s3w23">
 <src.rf>manual</src.rf>
@@ -11808,7 +11808,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-032-p9s6w21">
 <src.rf>manual</src.rf>
@@ -13430,7 +13430,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-032-p10s8w4">
 <src.rf>manual</src.rf>
@@ -14346,7 +14346,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-032-p10s11w19">
 <src.rf>manual</src.rf>
@@ -16207,8 +16207,8 @@
 <w.rf>
 <LM>w#w-vesm9212-032-p12s1w11</LM>
 </w.rf>
-<form>&gt;</form>
-<lemma>&gt;</lemma>
+<form>></form>
+<lemma>></lemma>
 <tag>Z:-------------</tag>
 </m>
 <m id="m-vesm9212-032-p12s1w12">

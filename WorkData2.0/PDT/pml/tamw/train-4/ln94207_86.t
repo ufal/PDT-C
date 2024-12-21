@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_86.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -54,8 +54,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_special>caption</discourse_special>
-<val_frame.rf>v#v-w1260f1</val_frame.rf>
+<discourse_feature>caption</discourse_feature>
+<val_frame.rf>v#v41bfbA</val_frame.rf>
 <children>
 <LM id="t-ln94207-86-p1s1w2">
 <a>
@@ -325,6 +325,7 @@
 <t_lemma>cíl</t_lemma>
 <functor>ACMP</functor>
 <subfunctor>basic</subfunctor>
+<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 <gender>inan</gender>
@@ -339,6 +340,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Gen</t_lemma>
 <functor>ACT</functor>
+<is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>17</deepord>
 </LM>
@@ -349,6 +351,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>motivovat</t_lemma>
 <functor>PAT</functor>
+<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -360,13 +363,14 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
-<val_frame.rf>v#v-w1899f2</val_frame.rf>
+<val_frame.rf>v#v41cjjB</val_frame.rf>
 <children>
 <LM id="t-ln94207-86-p1s1a0">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
 <functor>ACT</functor>
+<is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>19</deepord>
 <coref_gram.rf>
@@ -380,6 +384,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>zájem</t_lemma>
 <functor>PAT</functor>
+<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 <gender>inan</gender>
@@ -399,6 +404,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>poznání</t_lemma>
 <functor>PAT</functor>
+<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot.neg</sempos>
 <gender>neut</gender>
@@ -408,13 +414,14 @@
 </gram>
 <tfa>f</tfa>
 <deepord>23</deepord>
-<val_frame.rf>v#v-w4209f1</val_frame.rf>
+<val_frame.rf>v#v41gwpA</val_frame.rf>
 <children>
 <LM id="t-ln94207-86-p1s1a1">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Gen</t_lemma>
 <functor>ACT</functor>
+<is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>22</deepord>
 </LM>
@@ -425,6 +432,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
+<is_parenthesis>1</is_parenthesis>
 <deepord>25</deepord>
 <children>
 <LM id="t-ln94207-86-p1s1w28">
@@ -435,6 +443,7 @@
 <t_lemma>kultura</t_lemma>
 <functor>PAT</functor>
 <is_member>1</is_member>
+<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -452,6 +461,7 @@
 <t_lemma>problematika</t_lemma>
 <functor>PAT</functor>
 <is_member>1</is_member>
+<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -468,6 +478,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>iberoamerický</t_lemma>
 <functor>RSTR</functor>
+<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -543,7 +554,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w3620f1</val_frame.rf>
+<val_frame.rf>v#v41fufC</val_frame.rf>
 <children>
 <LM id="t-ln94207-86-p1s2Aa0">
 <nodetype>complex</nodetype>
@@ -816,7 +827,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w6717f1</val_frame.rf>
+<val_frame.rf>v#v41ltcA</val_frame.rf>
 <children>
 <LM id="t-ln94207-86-p1s2Aa1">
 <nodetype>qcomplex</nodetype>
@@ -844,22 +855,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<children>
-<LM id="t-ln94207-86-p1s2Aw22">
-<a>
-<lex.rf>a#a-ln94207-86-p1s2Aw22</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>vůbec</t_lemma>
-<functor>EXT</functor>
-<subfunctor>basic</subfunctor>
-<gram>
-<sempos>adv.denot.ngrad.nneg</sempos>
-</gram>
-<tfa>f</tfa>
-<deepord>19</deepord>
-</LM>
-</children>
 </LM>
 <LM id="t-ln94207-86-p1s2Aw21">
 <a>
@@ -875,13 +870,23 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>20</deepord>
+<deepord>19</deepord>
 <bridging>
 <LM>
 <target_node.rf>t-ln94207-86-p1s2Aw4</target_node.rf>
 <type>REST</type>
 </LM>
 </bridging>
+</LM>
+<LM id="t-ln94207-86-p1s2Aw22">
+<a>
+<lex.rf>a#a-ln94207-86-p1s2Aw22</lex.rf>
+</a>
+<nodetype>atom</nodetype>
+<t_lemma>vůbec</t_lemma>
+<functor>ATT</functor>
+<tfa>f</tfa>
+<deepord>20</deepord>
 </LM>
 </children>
 </LM>

@@ -281,7 +281,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0736-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -635,7 +635,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0736-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1649,7 +1649,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0736-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1766,7 +1766,7 @@
 </w.rf>
 <form>listopadu</form>
 <lemma>listopad</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0736-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>

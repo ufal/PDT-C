@@ -545,8 +545,8 @@
 <LM>w#w-wsj0428-001-p1s2W17</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-wsj0428-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -564,7 +564,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0428-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>

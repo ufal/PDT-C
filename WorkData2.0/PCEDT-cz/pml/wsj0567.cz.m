@@ -931,8 +931,8 @@
 <LM>w#w-wsj0567-001-p1s3W1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0567-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1213,7 +1213,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0567-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1347,8 +1347,8 @@
 <LM>w#w-wsj0567-001-p1s4W18</LM>
 </w.rf>
 <form>blíže</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------2A---1</tag>
+<lemma>blíže_,s_^(^DD**blíž)</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-wsj0567-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2047,7 +2047,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0567-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>

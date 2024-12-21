@@ -365,8 +365,8 @@
 <LM>w#w-ln95043-072-p2s1Bw28</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95043-072-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -1856,7 +1856,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-072-p5s4w4">
 <src.rf>manual</src.rf>

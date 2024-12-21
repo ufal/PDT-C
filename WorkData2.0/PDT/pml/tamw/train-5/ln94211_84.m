@@ -295,8 +295,8 @@
 <LM>w#w-ln94211-84-p2s2w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-84-p2s2w8">
 <src.rf>manual</src.rf>
@@ -738,8 +738,8 @@
 <LM>w#w-ln94211-84-p2s3w40</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-84-p2s3w41">
 <src.rf>manual</src.rf>

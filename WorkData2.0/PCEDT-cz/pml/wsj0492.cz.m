@@ -106,8 +106,8 @@
 <LM>w#w-wsj0492-001-p1s0W11</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj0492-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1035,8 +1035,8 @@
 <LM>w#w-wsj0492-001-p1s4W21</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0492-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1110,7 +1110,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0492-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

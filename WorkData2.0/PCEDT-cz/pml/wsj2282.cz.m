@@ -1763,8 +1763,8 @@
 <LM>w#w-wsj2282-001-p1s7W20</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2282-001-p1s7W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1892,7 +1892,7 @@
 </w.rf>
 <form>Odpověď</form>
 <lemma>odpověď</lemma>
-<tag>NNFS4-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj2282-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4163,7 +4163,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2282-001-p1s18W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5627,8 +5627,8 @@
 <LM>w#w-wsj2282-001-p1s26W1</LM>
 </w.rf>
 <form>Jménem</form>
-<lemma>jméno</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>jménem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2282-001-p1s26W2-Ta">
 <src.rf>tagger-a</src.rf>

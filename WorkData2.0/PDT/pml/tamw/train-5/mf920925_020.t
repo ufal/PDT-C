@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_020.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -51,7 +51,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>kolekce
 wrongTR  -nema tato veta byt rozdelena do dvou
 stromu?</discourse_comment>
@@ -135,7 +135,7 @@ stromu?</discourse_comment>
 <lex.rf>a#a-mf920925-020-p1s1w8</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Dash</t_lemma>
+<t_lemma>-</t_lemma>
 <functor>FPHR</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
@@ -177,6 +177,7 @@ stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>dva</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>adj.quant.def</sempos>
@@ -224,7 +225,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1737f1</val_frame.rf>
+<val_frame.rf>v#v41cbzB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s1w1">
 <a>
@@ -370,6 +371,7 @@ stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -383,7 +385,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1855f1</val_frame.rf>
+<val_frame.rf>v#v41chlQ</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s2w2">
 <a>
@@ -392,6 +394,7 @@ stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -487,6 +490,7 @@ stromu?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p2s2w4</LM>
@@ -505,6 +509,7 @@ stromu?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p2s2w10</LM>
@@ -519,6 +524,7 @@ stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -532,7 +538,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w243f3</val_frame.rf>
+<val_frame.rf>v#v41jsAF</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s2w10">
 <a>
@@ -597,7 +603,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w1349f1</val_frame.rf>
+<val_frame.rf>v#v41biyB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s2a2">
 <nodetype>qcomplex</nodetype>
@@ -716,6 +722,7 @@ stromu?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p2s2w19</LM>
@@ -746,7 +753,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>27</deepord>
-<val_frame.rf>v#v-w1815f1</val_frame.rf>
+<val_frame.rf>v#v41cfmC</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s2w23">
 <a>
@@ -857,7 +864,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>31</deepord>
-<val_frame.rf>v#v-w3769f1</val_frame.rf>
+<val_frame.rf>v#v41gboB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s2w29">
 <a>
@@ -916,6 +923,7 @@ stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>hrát</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>hrát</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -935,6 +943,7 @@ stromu?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p2s3w3</LM>
@@ -946,13 +955,14 @@ stromu?</discourse_comment>
 <start_range>1</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p2s5w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1122f3</val_frame.rf>
+<val_frame.rf>v#v41aypQ</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s3w3">
 <a>
@@ -1048,6 +1058,7 @@ stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1060,15 +1071,16 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s4w1">
 <a>
 <lex.rf>a#a-mf920925-020-p2s4w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>všechen</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -1287,7 +1299,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w3701f3</val_frame.rf>
+<val_frame.rf>v#v41fyhD</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s5w1">
 <a>
@@ -1417,7 +1429,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w1737f1</val_frame.rf>
+<val_frame.rf>v#v41cbzB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s5a1">
 <nodetype>list</nodetype>
@@ -1525,7 +1537,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w2681f1</val_frame.rf>
+<val_frame.rf>v#v41dyqA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s5w19">
 <a>
@@ -1614,6 +1626,7 @@ stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -1634,13 +1647,14 @@ stromu?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p2s5w26</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1855f9</val_frame.rf>
+<val_frame.rf>v#v41chlJ</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p2s5w29">
 <a>
@@ -1790,8 +1804,9 @@ stromu?</discourse_comment>
 <lex.rf>a#a-mf920925-020-p2s5w37</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kolik</t_lemma>
+<t_lemma>několik</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>kolik</proto_lemma>
 <quot>
 <LM>
 <type>title</type>
@@ -1889,6 +1904,7 @@ stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1908,13 +1924,14 @@ stromu?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p3s1w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s1w1">
 <a>
@@ -2037,7 +2054,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7150f2</val_frame.rf>
+<val_frame.rf>v#v41motB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s2w1">
 <a>
@@ -2245,7 +2262,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9554f1</val_frame.rf>
+<val_frame.rf>v#v41rhdA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s3w4">
 <a>
@@ -2299,8 +2316,9 @@ stromu?</discourse_comment>
 <lex.rf>a#a-mf920925-020-p3s3w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>komický</t_lemma>
+<t_lemma>komicky</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>komický</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -2352,7 +2370,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1339f1</val_frame.rf>
+<val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s4w2">
 <a>
@@ -2362,7 +2380,7 @@ stromu?</discourse_comment>
 </aux.rf>
 </a>
 <nodetype>atom</nodetype>
-<t_lemma>podstata</t_lemma>
+<t_lemma>v_podstatě</t_lemma>
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
@@ -2461,7 +2479,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w3087f1</val_frame.rf>
+<val_frame.rf>v#v41etqA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s4a0">
 <nodetype>qcomplex</nodetype>
@@ -2625,7 +2643,7 @@ stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w7239f1</val_frame.rf>
+<val_frame.rf>v#v41msyA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s5w3">
 <a>
@@ -2735,21 +2753,23 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p3s5w10</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w7168f1</val_frame.rf>
+<val_frame.rf>v#v41mppA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s5w10">
 <a>
 <lex.rf>a#a-mf920925-020-p3s5w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>což</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -2789,7 +2809,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w5602f2</val_frame.rf>
+<val_frame.rf>v#v41johA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s5a2">
 <nodetype>qcomplex</nodetype>
@@ -2931,7 +2951,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <lex.rf>a#a-mf920925-020-p3s5w23</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>York</t_lemma>
+<t_lemma>Yorku</t_lemma>
 <functor>FPHR</functor>
 <deepord>20</deepord>
 </LM>
@@ -3009,8 +3029,9 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <lex.rf>a#a-mf920925-020-p3s6w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>herecký</t_lemma>
+<t_lemma>herecky</t_lemma>
 <functor>REG</functor>
+<proto_lemma>herecký</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -3039,7 +3060,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w6492f4</val_frame.rf>
+<val_frame.rf>v#v41lilB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s6w4">
 <a>
@@ -3272,13 +3293,14 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p3s6w17</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6492f4</val_frame.rf>
+<val_frame.rf>v#v41lilB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s6a1">
 <nodetype>complex</nodetype>
@@ -3424,7 +3446,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w1868f1</val_frame.rf>
+<val_frame.rf>v#v41chxD</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s7w9">
 <a>
@@ -3569,7 +3591,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </a>
 <nodetype>coap</nodetype>
 <t_lemma>#Comma</t_lemma>
-<functor>CONJ</functor>
+<functor>APPS</functor>
 <deepord>7</deepord>
 <discourse>
 <LM>
@@ -3578,6 +3600,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p3s8w5</LM>
@@ -3697,7 +3720,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w2572f1</val_frame.rf>
+<val_frame.rf>v#v41dtiA</val_frame.rf>
 </LM>
 <LM id="t-mf920925-020-p3s8a0">
 <a>
@@ -3720,7 +3743,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w2572f1</val_frame.rf>
+<val_frame.rf>v#v41dtiA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p3s8w9">
 <a>
@@ -3801,7 +3824,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>APPS</functor>
 <deepord>8</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf920925-020-p4s1a0">
 <nodetype>list</nodetype>
@@ -3833,7 +3856,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <lex.rf>a#a-mf920925-020-p4s1w2</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Dash</t_lemma>
+<t_lemma>-</t_lemma>
 <functor>FPHR</functor>
 <deepord>2</deepord>
 </LM>
@@ -3860,8 +3883,9 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <lex.rf>a#a-mf920925-020-p4s1w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dva</t_lemma>
+<t_lemma>druhý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <is_member>1</is_member>
 <gram>
 <sempos>adj.quant.def</sempos>
@@ -3917,7 +3941,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w1574f1</val_frame.rf>
+<val_frame.rf>v#v41btnB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p4s1w9">
 <a>
@@ -4100,6 +4124,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p4s2w1</LM>
@@ -4140,7 +4165,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w2502f1</val_frame.rf>
+<val_frame.rf>v#v41dpwB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p4s2w7">
 <a>
@@ -4163,8 +4188,9 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <lex.rf>a#a-mf920925-020-p4s2w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jaký</t_lemma>
+<t_lemma>jakýsi</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jaký</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>indef2</indeftype>
@@ -4233,13 +4259,14 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p4s2w9</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5143f1</val_frame.rf>
+<val_frame.rf>v#v41irqL</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p4s2w11">
 <a>
@@ -4408,7 +4435,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w5848f1</val_frame.rf>
+<val_frame.rf>v#v41kctA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p4s3w1">
 <a>
@@ -4477,7 +4504,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w1599f1</val_frame.rf>
+<val_frame.rf>v#v41butA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p4s3w7">
 <a>
@@ -4602,13 +4629,14 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p4s3w12</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w446f1</val_frame.rf>
+<val_frame.rf>v#v41sxA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p4s3w14">
 <a>
@@ -4626,7 +4654,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w988f1</val_frame.rf>
+<val_frame.rf>v#v41asfA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p4s3a1">
 <nodetype>qcomplex</nodetype>
@@ -5148,7 +5176,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w6171f1</val_frame.rf>
+<val_frame.rf>v#v41ktqD</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s2w2">
 <a>
@@ -5331,6 +5359,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-020-p5s2w16</LM>
@@ -5385,7 +5414,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w5393f1</val_frame.rf>
+<val_frame.rf>v#v41jegA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s2w22">
 <a>
@@ -5443,8 +5472,9 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <lex.rf>a#a-mf920925-020-p5s2w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>vzorný</t_lemma>
+<t_lemma>vzorně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>vzorný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -5564,7 +5594,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
-<val_frame.rf>v#v-w1678f1</val_frame.rf>
+<val_frame.rf>v#v41bzaA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s2w34">
 <a>
@@ -5663,13 +5693,14 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
+<sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p5s2w36</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w2317f1</val_frame.rf>
+<val_frame.rf>v#v41dhjB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s2w40">
 <a>
@@ -5784,6 +5815,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -5796,7 +5828,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s3w1">
 <a>
@@ -5900,6 +5932,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tři</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tři</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -5932,8 +5965,9 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <lex.rf>a#a-mf920925-020-p5s3w12</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>silný</t_lemma>
+<t_lemma>silně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>silný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -6097,6 +6131,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>říkat</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>říkat</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -6109,7 +6144,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5882f1</val_frame.rf>
+<val_frame.rf>v#v41kejB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s4a1">
 <nodetype>complex</nodetype>
@@ -6169,7 +6204,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w1757f1</val_frame.rf>
+<val_frame.rf>v#v41ccxA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s4a3">
 <nodetype>qcomplex</nodetype>
@@ -6209,7 +6244,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w127f1</val_frame.rf>
+<val_frame.rf>v#v41ehB</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s4a5">
 <nodetype>qcomplex</nodetype>
@@ -6266,7 +6301,23 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w7725f1</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>t-mf920925-020-p5s5w22</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
+<sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
+<src>PS</src>
+<a-connectors.rf>
+<LM>a#a-mf920925-020-p5s5w13</LM>
+<LM>a#a-mf920925-020-p5s5w14</LM>
+</a-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41nrbA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s5w2">
 <a>
@@ -6388,8 +6439,9 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <lex.rf>a#a-mf920925-020-p5s5w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>všechen</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>total1</indeftype>
@@ -6442,15 +6494,16 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w7363f2</val_frame.rf>
+<val_frame.rf>v#v41mzjA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s5w20">
 <a>
 <lex.rf>a#a-mf920925-020-p5s5w20</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdy</t_lemma>
+<t_lemma>kdykoli</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -6525,8 +6578,9 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>něco</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -6601,13 +6655,14 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p5s6w10</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5159f2</val_frame.rf>
+<val_frame.rf>v#v41ishC</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s6w10">
 <a>
@@ -6637,7 +6692,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w9353f1</val_frame.rf>
+<val_frame.rf>v#v41qwjA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s6w1">
 <a>
@@ -6646,6 +6701,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>kdo</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>kdo</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>anim</gender>
@@ -6815,13 +6871,14 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-020-p5s7w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w2283f1</val_frame.rf>
+<val_frame.rf>v#v41dfhA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s7w1">
 <a>
@@ -6907,7 +6964,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w5130f1</val_frame.rf>
+<val_frame.rf>v#v41iraA</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s7a0">
 <nodetype>qcomplex</nodetype>
@@ -6977,7 +7034,7 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w2210f1</val_frame.rf>
+<val_frame.rf>v#v41dbeC</val_frame.rf>
 <children>
 <LM id="t-mf920925-020-p5s7w14">
 <a>
@@ -7030,8 +7087,9 @@ takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>jenž</t_lemma>
 <functor>CAUS</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>

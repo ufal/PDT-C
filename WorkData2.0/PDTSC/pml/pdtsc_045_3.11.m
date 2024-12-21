@@ -418,8 +418,8 @@
 <LM>w#w-d1t2198-9</LM>
 </w.rf>
 <form>vysoké</form>
-<lemma>vysoká_^(zvěř)</lemma>
-<tag>NNFS6-----A----</tag>
+<lemma>vysoký</lemma>
+<tag>AAFS6----1A----</tag>
 </m>
 <m id="m131-d1e2182-x2-506">
 <w.rf>
@@ -1116,8 +1116,8 @@
 <LM>w#w-d1t2211-23</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m131-d1t2211-24">
 <w.rf>
@@ -1232,8 +1232,8 @@
 <LM>w#w-d1t2213-9</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m131-d1t2213-11">
 <w.rf>
@@ -1248,8 +1248,8 @@
 <LM>w#w-d1t2213-14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m131-d1t2213-15">
 <w.rf>

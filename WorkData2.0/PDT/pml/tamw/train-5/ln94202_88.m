@@ -206,7 +206,7 @@
 </w.rf>
 <form>věnovaly</form>
 <lemma>věnovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln94202-88-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -406,8 +406,8 @@
 <LM>w#w-ln94202-88-p2s2w12</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-88-p2s2w13">
 <src.rf>manual</src.rf>
@@ -460,8 +460,8 @@
 <LM>w#w-ln94202-88-p2s2w18</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-88-p2s2w19">
 <src.rf>manual</src.rf>
@@ -761,8 +761,8 @@
 <LM>w#w-ln94202-88-p3s2w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-88-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1099,7 +1099,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-88-p3s4w3">
 <src.rf>manual</src.rf>
@@ -2493,7 +2493,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94202-88-p4s8w2">
 <src.rf>manual</src.rf>

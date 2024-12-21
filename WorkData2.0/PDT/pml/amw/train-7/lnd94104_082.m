@@ -657,8 +657,8 @@
 <LM>w#w-lnd94104-082-p1s4w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-082-p1s4w5">
 <src.rf>manual</src.rf>

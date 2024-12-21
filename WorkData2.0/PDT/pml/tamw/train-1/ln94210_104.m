@@ -1281,7 +1281,7 @@
 <LM>w#w-ln94210-104-p2s9w13</LM>
 </w.rf>
 <form>zjednodušené</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-ln94210-104-p2s9w14">
@@ -1775,8 +1775,8 @@
 <LM>w#w-ln94210-104-p2s13w14</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-104-p2s13w15">
 <src.rf>manual</src.rf>
@@ -2002,8 +2002,8 @@
 <LM>w#w-ln94210-104-p2s14w11</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-104-p2s14w12">
 <src.rf>manual</src.rf>

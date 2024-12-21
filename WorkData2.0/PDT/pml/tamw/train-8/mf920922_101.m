@@ -738,7 +738,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-101-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1254,8 +1254,8 @@
 <LM>w#w-mf920922-101-p2s9w33</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-101-p2s9w34">
 <src.rf>manual</src.rf>

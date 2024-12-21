@@ -624,7 +624,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0157-001-p1s1W38-Ta">
 <src.rf>tagger-a</src.rf>

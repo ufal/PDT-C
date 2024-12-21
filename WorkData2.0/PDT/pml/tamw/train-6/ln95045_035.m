@@ -77,8 +77,8 @@
 <LM>w#w-ln95045-035-p2s1Bw1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-035-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -457,8 +457,8 @@
 <LM>w#w-ln95045-035-p2s2w13</LM>
 </w.rf>
 <form>navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-ln95045-035-p2s2w14">
 <src.rf>manual</src.rf>
@@ -640,8 +640,8 @@
 <LM>w#w-ln95045-035-p2s3w6</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-035-p2s3w7">
 <src.rf>manual</src.rf>

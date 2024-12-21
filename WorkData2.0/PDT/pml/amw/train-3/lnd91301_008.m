@@ -167,8 +167,8 @@
 <LM>w#w-lnd91301-008-p3s1w14</LM>
 </w.rf>
 <form>pozůstalých</form>
-<lemma>pozůstalý_^(*2t)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>pozůstalý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91301-008-p3s1w15">
 <src.rf>manual</src.rf>

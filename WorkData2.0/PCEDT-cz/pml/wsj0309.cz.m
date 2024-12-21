@@ -327,7 +327,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0309-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1511,8 +1511,8 @@
 <LM>w#w-wsj0309-001-p1s8W6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0309-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1610,7 +1610,7 @@
 <LM>w#w-wsj0309-001-p1s8W17</LM>
 </w.rf>
 <form>lídr</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0309-001-p1s8W18-Ta">
@@ -2003,8 +2003,8 @@
 <LM>w#w-wsj0309-001-p1s11W7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0309-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3640,8 +3640,8 @@
 <LM>w#w-wsj0309-001-p1s19W2</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0309-001-p1s19W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3903,8 +3903,8 @@
 <LM>w#w-wsj0309-001-p1s20W14</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0309-001-p1s20W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5173,8 +5173,8 @@
 <LM>w#w-wsj0309-001-p1s25W9</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0309-001-p1s25W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5801,7 +5801,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0309-001-p1s28W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5819,7 +5819,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0309-001-p1s28W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1098,7 +1098,7 @@
 </w.rf>
 <form>Vítězi</form>
 <lemma>vítěz</lemma>
-<tag>NNMS3-----A----</tag>
+<tag>NNMP1-----A---1</tag>
 </m>
 <m id="m-ln95043-025-p2s5Aw2">
 <src.rf>manual</src.rf>

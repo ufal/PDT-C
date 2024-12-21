@@ -229,7 +229,7 @@
 </w.rf>
 <form>PowerGen</form>
 <lemma>PowerGen_;m</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIXX-----A----</tag>
 </m>
 <m id="m-ln95042-008-p2s1w18">
 <src.rf>manual</src.rf>

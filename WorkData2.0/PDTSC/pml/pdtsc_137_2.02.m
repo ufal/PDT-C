@@ -1189,8 +1189,8 @@
 <LM>w#w-d1t814-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m032-d1t814-5">
 <w.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-d1t838-12</LM>
 </w.rf>
 <form>vybuchla</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VpQW----R-AAP-1</tag>
 </m>
 <m id="m032-d1t838-14">
@@ -2206,8 +2206,8 @@
 <LM>w#w-d1t903-8</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m032-d1t903-9">
 <w.rf>
@@ -2272,7 +2272,7 @@
 <LM>w#w-d1t909-5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m032-d1t909-6">
@@ -2576,8 +2576,8 @@
 <LM>w#w-d1t936-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m032-d-m-d1e933-x2-punct-punct">
 <w.rf>
@@ -3110,7 +3110,7 @@
 <LM>w#w-d1t979-7</LM>
 </w.rf>
 <form>Doubravce</form>
-<lemma>Doubravka_;G</lemma>
+<lemma>Doubravka_;G_;Y</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m032-d1t979-9">
@@ -3218,8 +3218,8 @@
 <LM>w#w-d1t987-4</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m032-d1t987-5">
 <w.rf>
@@ -3441,7 +3441,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m032-d1t1031-1">
 <w.rf>
@@ -3480,8 +3480,8 @@
 <LM>w#w-d1t1025-10</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m032-d1t1025-11">
 <w.rf>
@@ -4184,8 +4184,8 @@
 <LM>w#w-d1t1093-24</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m032-d-m-d1e1071-x3-punct-punct">
 <w.rf>

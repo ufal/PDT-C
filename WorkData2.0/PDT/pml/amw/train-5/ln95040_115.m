@@ -857,8 +857,8 @@
 <LM>w#w-ln95040-115-p2s4w1</LM>
 </w.rf>
 <form>Namísto</form>
-<lemma>namísto-3</lemma>
-<tag>J,-------------</tag>
+<lemma>namísto-2_^(záměnou_za)</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-115-p2s4w2">
 <src.rf>manual</src.rf>

@@ -149,8 +149,8 @@
 <LM>w#w-ln94202-5-p2s1Bw10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-5-p2s1Bw11">
 <src.rf>manual</src.rf>

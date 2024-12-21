@@ -2411,8 +2411,8 @@
 <LM>w#w-ln94206-82-p6s3w6</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94206-82-p6s3w7">
 <src.rf>manual</src.rf>
@@ -3242,8 +3242,8 @@
 <LM>w#w-ln94206-82-p8s2w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-82-p8s2w9">
 <src.rf>manual</src.rf>
@@ -3498,8 +3498,8 @@
 <LM>w#w-ln94206-82-p8s4w17</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-82-p8s4w18">
 <src.rf>manual</src.rf>
@@ -3938,8 +3938,8 @@
 <LM>w#w-ln94206-82-p8s8w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-82-p8s8w4">
 <src.rf>manual</src.rf>
@@ -4351,8 +4351,8 @@
 <LM>w#w-ln94206-82-p10s3w3</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-82-p10s3w4">
 <src.rf>manual</src.rf>
@@ -4766,8 +4766,8 @@
 <LM>w#w-ln94206-82-p10s8w3</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-82-p10s8w4">
 <src.rf>manual</src.rf>
@@ -4784,8 +4784,8 @@
 <LM>w#w-ln94206-82-p10s8w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-82-p10s8w6">
 <src.rf>manual</src.rf>

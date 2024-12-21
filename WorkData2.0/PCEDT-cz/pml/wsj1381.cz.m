@@ -588,7 +588,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1381-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1277,8 +1277,8 @@
 <LM>w#w-wsj1381-001-p1s5W9</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1381-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2087,7 +2087,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1381-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>

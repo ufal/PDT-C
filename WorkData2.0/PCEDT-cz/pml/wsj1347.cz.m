@@ -897,8 +897,8 @@
 <LM>w#w-wsj1347-001-p1s4W10</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1347-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1271,7 +1271,7 @@
 </w.rf>
 <form>vléct</form>
 <lemma>vléci</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-I-1</tag>
 </m>
 <m id="m-wsj1347-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1897,8 +1897,8 @@
 <LM>w#w-wsj1347-001-p1s9W2</LM>
 </w.rf>
 <form>Tillery</form>
-<lemma>Tiller_;Y</lemma>
-<tag>NNMP7-----A----</tag>
+<lemma>Tillery_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1347-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>

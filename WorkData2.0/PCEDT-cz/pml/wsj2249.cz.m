@@ -616,8 +616,8 @@
 <LM>w#w-wsj2249-001-p1s2W8</LM>
 </w.rf>
 <form>vlastní</form>
-<lemma>vlastní</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj2249-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -799,7 +799,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2249-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>

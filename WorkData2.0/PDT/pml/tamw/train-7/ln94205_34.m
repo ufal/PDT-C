@@ -1816,7 +1816,7 @@
 <LM>w#w-ln94205-34-p4s4w6</LM>
 </w.rf>
 <form>vleklou</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-ln94205-34-p4s4w7">
@@ -2001,7 +2001,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-34-p4s6w4">
 <src.rf>manual</src.rf>
@@ -2145,7 +2145,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-34-p4s6w20">
 <src.rf>manual</src.rf>
@@ -2817,8 +2817,8 @@
 <LM>w#w-ln94205-34-p5s3w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-34-p5s3w5">
 <src.rf>manual</src.rf>
@@ -3083,8 +3083,8 @@
 <LM>w#w-ln94205-34-p5s5w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-34-p5s5w6">
 <src.rf>manual</src.rf>

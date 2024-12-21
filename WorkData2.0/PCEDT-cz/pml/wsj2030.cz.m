@@ -1048,8 +1048,8 @@
 <LM>w#w-wsj2030-001-p1s3W6</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2030-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1509,7 +1509,7 @@
 <LM>w#w-wsj2030-001-p1s4W22</LM>
 </w.rf>
 <form>spalitelnými</form>
-<lemma>spalitelný_^(*8álit)</lemma>
+<lemma>spalitelný_^(^DD**spálitelný)_(*8álit)</lemma>
 <tag>AANP7----1A----</tag>
 </m>
 <m id="m-wsj2030-001-p1s4W23-Ta">
@@ -1601,8 +1601,8 @@
 <LM>w#w-wsj2030-001-p1s5W5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-2</lemma>
-<tag>TT-------------</tag>
+<lemma>již-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2030-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1646,7 +1646,7 @@
 <LM>w#w-wsj2030-001-p1s5W10</LM>
 </w.rf>
 <form>spalitelnými</form>
-<lemma>spalitelný_^(*8álit)</lemma>
+<lemma>spalitelný_^(^DD**spálitelný)_(*8álit)</lemma>
 <tag>AAFP7----1A----</tag>
 </m>
 <m id="m-wsj2030-001-p1s5W11-Ta">
@@ -1683,7 +1683,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2030-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3353,7 +3353,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2030-001-p1s12W23-Ta">
 <src.rf>tagger-a</src.rf>

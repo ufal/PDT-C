@@ -212,7 +212,7 @@
 <LM>w#w-ln94208-146-p2s1Bw12</LM>
 </w.rf>
 <form>regulérnosti</form>
-<lemma>regulérnost</lemma>
+<lemma>regulérnost_,s_^(^DD**regulárnost)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-ln94208-146-p2s1Bw13">
@@ -1091,8 +1091,8 @@
 <LM>w#w-ln94208-146-p3s1w49</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94208-146-p3s1w50">
 <src.rf>manual</src.rf>
@@ -1129,8 +1129,8 @@
 <LM>w#w-ln94208-146-p3s2w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-146-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1718,8 +1718,8 @@
 <LM>w#w-ln94208-146-p4s2w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-146-p4s2w8">
 <src.rf>manual</src.rf>
@@ -2489,8 +2489,8 @@
 <LM>w#w-ln94208-146-p6s1w16</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-146-p6s1w17">
 <src.rf>manual</src.rf>
@@ -2498,8 +2498,8 @@
 <LM>w#w-ln94208-146-p6s1w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-146-p6s1w18">
 <src.rf>manual</src.rf>
@@ -3544,7 +3544,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-146-p7s4w4">
 <src.rf>manual</src.rf>
@@ -3624,8 +3624,8 @@
 <LM>w#w-ln94208-146-p7s4w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-146-p7s4w13">
 <src.rf>manual</src.rf>

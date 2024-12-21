@@ -689,7 +689,7 @@
 <LM>w#w-wsj0715-001-p1s2W32</LM>
 </w.rf>
 <form>Hesenska</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-wsj0715-001-p1s2W33-Ta">

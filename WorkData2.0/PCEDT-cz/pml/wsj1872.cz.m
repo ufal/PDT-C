@@ -589,7 +589,6 @@
 <w.rf>
 <LM>w#w-wsj1872-001-p1s2W22</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>13.00</form>
 <lemma>13.00</lemma>
 <tag>C=-------------</tag>

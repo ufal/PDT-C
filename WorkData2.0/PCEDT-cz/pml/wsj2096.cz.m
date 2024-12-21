@@ -605,8 +605,8 @@
 <LM>w#w-wsj2096-001-p1s2W26</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2096-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>

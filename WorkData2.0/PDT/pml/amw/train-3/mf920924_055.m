@@ -1005,8 +1005,8 @@
 <LM>w#w-mf920924-055-p4s1w10</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-055-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1245,8 +1245,8 @@
 <LM>w#w-mf920924-055-p4s4w1</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-055-p4s4w2">
 <src.rf>manual</src.rf>
@@ -5096,8 +5096,8 @@
 <LM>w#w-mf920924-055-p14s2w11</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-1</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-055-p14s2w12">
 <src.rf>manual</src.rf>
@@ -6505,7 +6505,7 @@
 <LM>w#w-mf920924-055-p20s2w11</LM>
 </w.rf>
 <form>metal</form>
-<lemma>metal</lemma>
+<lemma>metal_,s_^(^DD**metál)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-055-p20s2w12">

@@ -223,8 +223,8 @@
 <LM>w#w-wsj1914-001-p1s0W24</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1914-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1012,7 +1012,7 @@
 <LM>w#w-wsj1914-001-p1s3W7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj1914-001-p1s3W8-Ta">
@@ -1304,8 +1304,8 @@
 <LM>w#w-wsj1914-001-p1s5W1</LM>
 </w.rf>
 <form>Přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1914-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1331,8 +1331,8 @@
 <LM>w#w-wsj1914-001-p1s5W4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1914-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>

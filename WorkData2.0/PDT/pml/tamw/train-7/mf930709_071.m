@@ -431,8 +431,8 @@
 <LM>w#w-mf930709-071-p2s3w2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-071-p2s3w3">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 </w.rf>
 <form>citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930709-071-p2s3w17">
 <src.rf>manual</src.rf>
@@ -1047,8 +1047,8 @@
 <LM>w#w-mf930709-071-p2s5w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-071-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 </w.rf>
 <form>citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930709-071-p2s6w8">
 <src.rf>manual</src.rf>

@@ -981,7 +981,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-031-p5s1w10">
 <src.rf>manual</src.rf>
@@ -3928,8 +3928,8 @@
 <LM>w#w-vesm9211-031-p12s1w11</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-vesm9211-031-p12s1w12">
 <src.rf>manual</src.rf>
@@ -7253,7 +7253,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-031-p20s1w6">
 <src.rf>manual</src.rf>
@@ -7634,7 +7634,7 @@
 <LM>w#w-vesm9211-031-p21s1w8</LM>
 </w.rf>
 <form>Hanoveru</form>
-<lemma>Hanover_;G</lemma>
+<lemma>Hanover_;G_,s_^(^DD**Hannover)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p21s1w9">
@@ -8005,7 +8005,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-031-p22s2w9">
 <src.rf>manual</src.rf>
@@ -8086,7 +8086,7 @@
 <LM>w#w-vesm9211-031-p22s2w17</LM>
 </w.rf>
 <form>Hanoveru</form>
-<lemma>Hanover_;G</lemma>
+<lemma>Hanover_;G_,s_^(^DD**Hannover)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p22s2w18">
@@ -8251,7 +8251,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-031-p22s3w12">
 <src.rf>manual</src.rf>
@@ -9307,7 +9307,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-031-p25s2w24">
 <src.rf>manual</src.rf>
@@ -11714,8 +11714,8 @@
 <LM>w#w-vesm9211-031-p32s1w9</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-031-p32s1w10">
 <src.rf>manual</src.rf>
@@ -12966,7 +12966,7 @@
 <LM>w#w-vesm9211-031-p34s4w16</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-vesm9211-031-p34s4w17">
@@ -18571,7 +18571,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-031-p45s7w20">
 <src.rf>manual</src.rf>
@@ -19319,7 +19319,7 @@
 </w.rf>
 <form>Miru</form>
 <lemma>Mir_;m_^(ruská_kosmická_stanice)</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p47s4w6">
 <src.rf>manual</src.rf>
@@ -19483,7 +19483,7 @@
 </w.rf>
 <form>Miru</form>
 <lemma>Mir_;m_^(ruská_kosmická_stanice)</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS3-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p47s5w13">
 <src.rf>manual</src.rf>
@@ -21352,7 +21352,7 @@
 </w.rf>
 <form>nepřesáhlo</form>
 <lemma>přesáhnout</lemma>
-<tag>VpNS----R-NAP--</tag>
+<tag>VpNS----R-NAP-1</tag>
 </m>
 <m id="m-vesm9211-031-p51s6w18">
 <src.rf>manual</src.rf>
@@ -24611,7 +24611,7 @@
 </w.rf>
 <form>Referovalo</form>
 <lemma>referovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-vesm9211-031-p58s2w2">
 <src.rf>manual</src.rf>
@@ -24638,7 +24638,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-031-p58s2w5">
 <src.rf>manual</src.rf>
@@ -26190,7 +26190,7 @@
 </w.rf>
 <form>Miru</form>
 <lemma>Mir_;m_^(ruská_kosmická_stanice)</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p60s3w20">
 <src.rf>manual</src.rf>
@@ -26931,7 +26931,7 @@
 </w.rf>
 <form>Miru</form>
 <lemma>Mir_;m_^(ruská_kosmická_stanice)</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p62s3w10">
 <src.rf>manual</src.rf>
@@ -27158,7 +27158,7 @@
 </w.rf>
 <form>Miru</form>
 <lemma>Mir_;m_^(ruská_kosmická_stanice)</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p62s4Aw10">
 <src.rf>manual</src.rf>

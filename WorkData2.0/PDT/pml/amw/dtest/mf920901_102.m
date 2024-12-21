@@ -1206,7 +1206,7 @@
 </w.rf>
 <form>nereagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-mf920901-102-p4s1w4">
 <src.rf>manual</src.rf>

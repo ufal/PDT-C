@@ -165,8 +165,8 @@
 <LM>w#w-cmpr9413-046-p3s1w11</LM>
 </w.rf>
 <form>aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-046-p3s1w12">
 <src.rf>manual</src.rf>

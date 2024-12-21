@@ -687,7 +687,7 @@
 </w.rf>
 <form>družstvo</form>
 <lemma>družstvo</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s3w37">
 <src.rf>manual</src.rf>

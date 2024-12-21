@@ -269,7 +269,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-32-p2s2w2">
 <src.rf>manual</src.rf>
@@ -978,8 +978,8 @@
 <LM>w#w-ln94205-32-p3s3w13</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-32-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1252,8 +1252,8 @@
 <LM>w#w-ln94205-32-p3s5w7</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-32-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1545,7 +1545,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-32-p3s7w4">
 <src.rf>manual</src.rf>

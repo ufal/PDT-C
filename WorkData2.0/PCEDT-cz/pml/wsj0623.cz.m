@@ -1076,7 +1076,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0623-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>

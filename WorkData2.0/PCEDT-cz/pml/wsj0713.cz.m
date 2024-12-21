@@ -262,7 +262,7 @@
 </w.rf>
 <form>Tento</form>
 <lemma>tento</lemma>
-<tag>PDIS4----------</tag>
+<tag>PDYS1----------</tag>
 </m>
 <m id="m-wsj0713-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -271,7 +271,7 @@
 </w.rf>
 <form>souhlas</form>
 <lemma>souhlas</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0713-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -782,7 +782,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0713-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -898,8 +898,8 @@
 <LM>w#w-wsj0713-001-p1s3W19</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0713-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1063,7 +1063,7 @@
 </w.rf>
 <form>lednu</form>
 <lemma>leden</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0713-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1500,7 +1500,7 @@
 <LM>w#w-wsj1673-001-p1s4W20</LM>
 </w.rf>
 <form>Pennsylvánie</form>
-<lemma>Pennsylvánie_;G</lemma>
+<lemma>Pennsylvánie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1673-001-p1s4W21-Ta">
@@ -2492,7 +2492,7 @@
 </w.rf>
 <form>nereagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-NAI--</tag>
+<tag>VpMP----R-NAB--</tag>
 </m>
 <m id="m-wsj1673-001-p1s9W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -338,8 +338,8 @@
 <LM>w#w-cmpr9410-041-p3s2w15</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-041-p3s2w16">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-cmpr9410-041-p5s1w5">
 <src.rf>manual</src.rf>
@@ -731,8 +731,8 @@
 <LM>w#w-cmpr9410-041-p6s1w10</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-041-p6s1w11">
 <src.rf>manual</src.rf>
@@ -814,8 +814,8 @@
 <LM>w#w-cmpr9410-041-p6s2w3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-041-p6s2w4">
 <src.rf>manual</src.rf>
@@ -879,8 +879,8 @@
 <LM>w#w-cmpr9410-041-p6s3w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-041-p6s3w2">
 <src.rf>manual</src.rf>
@@ -1044,7 +1044,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-cmpr9410-041-p6s4w4">
 <src.rf>manual</src.rf>
@@ -1151,8 +1151,8 @@
 <LM>w#w-cmpr9410-041-p6s4w15</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-041-p6s4w16">
 <src.rf>manual</src.rf>
@@ -1511,7 +1511,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-cmpr9410-041-p8s2w2">
 <src.rf>manual</src.rf>
@@ -1996,7 +1996,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-041-p8s6w5">
 <src.rf>manual</src.rf>
@@ -2400,8 +2400,8 @@
 <LM>w#w-cmpr9410-041-p10s2w6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-041-p10s2w7">
 <src.rf>manual</src.rf>
@@ -2623,7 +2623,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-041-p10s5w4">
 <src.rf>manual</src.rf>

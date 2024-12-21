@@ -332,8 +332,8 @@
 <LM>w#w-mf930709-099-p2s1Cw22</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-099-p2s1Cw23">
 <src.rf>manual</src.rf>
@@ -341,8 +341,8 @@
 <LM>w#w-mf930709-099-p2s1Cw23</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-099-p2s1Cw24">
 <src.rf>manual</src.rf>
@@ -577,8 +577,8 @@
 <LM>w#w-mf930709-099-p2s2w24</LM>
 </w.rf>
 <form>sotva</form>
-<lemma>sotva-1</lemma>
-<tag>Db-------------</tag>
+<lemma>sotva-3</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-099-p2s2w25">
 <src.rf>manual</src.rf>
@@ -1562,8 +1562,8 @@
 <LM>w#w-mf930709-099-p2s8w18</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-099-p2s8w19">
 <src.rf>manual</src.rf>
@@ -1717,8 +1717,8 @@
 <LM>w#w-mf930709-099-p2s9w13</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-099-p2s9w14">
 <src.rf>manual</src.rf>

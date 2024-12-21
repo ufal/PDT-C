@@ -1574,7 +1574,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95044-120-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1913,7 +1913,7 @@
 <form_change>spell</form_change>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-120-p5s4w4">
 <src.rf>manual</src.rf>

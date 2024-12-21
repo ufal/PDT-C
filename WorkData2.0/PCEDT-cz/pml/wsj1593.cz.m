@@ -535,7 +535,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1593-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -580,8 +580,8 @@
 <LM>w#w-wsj1593-001-p1s2W13</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-wsj1593-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -817,7 +817,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1593-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1117,8 +1117,8 @@
 <LM>w#w-wsj1593-001-p1s4W1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj1593-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>

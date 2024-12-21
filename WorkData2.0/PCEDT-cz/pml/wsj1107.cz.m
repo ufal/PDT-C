@@ -387,8 +387,8 @@
 <LM>w#w-wsj1107-001-p1s1W8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1107-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-wsj1107-001-p1s2W1</LM>
 </w.rf>
 <form>Nevyužívané</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAIP1----1N----</tag>
 </m>
 <m id="m-wsj1107-001-p1s2W2-Ta">
@@ -614,8 +614,8 @@
 <LM>w#w-wsj1107-001-p1s2W16</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj1107-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1851,7 +1851,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj1107-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2969,8 +2969,8 @@
 <LM>w#w-wsj1107-001-p1s14W41</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1107-001-p1s14W42-Ta">
 <src.rf>tagger-a</src.rf>

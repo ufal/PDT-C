@@ -650,8 +650,8 @@
 <LM>w#w-ln94210-39-p2s4w3</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-39-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1012,8 +1012,8 @@
 <LM>w#w-ln94210-39-p2s5w18</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-39-p2s5w19">
 <src.rf>manual</src.rf>

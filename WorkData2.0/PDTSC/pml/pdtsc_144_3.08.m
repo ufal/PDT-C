@@ -212,8 +212,8 @@
 <LM>w#w-d1t2324-5</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m102-d1t2324-6">
 <w.rf>
@@ -638,8 +638,8 @@
 <LM>w#w-d1t2355-1</LM>
 </w.rf>
 <form>Právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t2355-2">
 <w.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-d1t2382-2</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m102-d1t2382-3">
@@ -1002,7 +1002,7 @@
 <LM>w#w-d1t2382-5</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m102-845-851">
@@ -1604,7 +1604,7 @@
 <LM>w#w-d1t2430-3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m102-d-id127982-punct">
@@ -1670,8 +1670,8 @@
 <LM>w#w-d1t2436-8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t2436-9">
 <w.rf>
@@ -1960,8 +1960,8 @@
 <LM>w#w-d1t2459-5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t2459-6">
 <w.rf>
@@ -2060,15 +2060,15 @@
 <LM>w#w-d1t2461-5</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t2461-6">
 <w.rf>
 <LM>w#w-d1t2461-6</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m102-925-71">
@@ -2190,7 +2190,7 @@
 <LM>w#w-d1t2465-4</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m102-d-id129301-punct">
@@ -2412,7 +2412,7 @@
 <LM>w#w-d1t2474-6</LM>
 </w.rf>
 <form>nedozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-NAP--</tag>
 </m>
 <m id="m102-d1t2474-4">
@@ -2516,7 +2516,7 @@
 <LM>w#w-d1t2476-3</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m102-d1t2476-4">
@@ -2524,8 +2524,8 @@
 <LM>w#w-d1t2476-4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t2476-5">
 <w.rf>
@@ -2706,7 +2706,7 @@
 <LM>w#w-d1t2491-2</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m102-d-id130441-punct">
@@ -3386,8 +3386,8 @@
 <LM>w#w-d1t2528-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t2528-5">
 <w.rf>
@@ -3420,8 +3420,8 @@
 <LM>w#w-d1t2530-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t2530-2">
 <w.rf>

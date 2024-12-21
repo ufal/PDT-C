@@ -1531,8 +1531,8 @@
 <LM>w#w-ln95049-077-p4s2w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-077-p4s2w12">
 <src.rf>manual</src.rf>
@@ -2010,8 +2010,8 @@
 <LM>w#w-ln95049-077-p5s1w40</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-077-p5s1w41">
 <src.rf>manual</src.rf>
@@ -2191,7 +2191,7 @@
 </w.rf>
 <form>podezřelých</form>
 <lemma>podezřelý</lemma>
-<tag>AAFP2----1A----</tag>
+<tag>AAIP2----1A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w61">
 <src.rf>manual</src.rf>
@@ -3452,8 +3452,8 @@
 <LM>w#w-ln95049-077-p6s1w6</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95049-077-p6s1w7">
 <src.rf>manual</src.rf>
@@ -3471,7 +3471,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-ln95049-077-p6s1w9">
@@ -3553,7 +3553,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-077-p6s1w18">
 <src.rf>manual</src.rf>

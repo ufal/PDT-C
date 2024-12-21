@@ -48,8 +48,8 @@
 <LM>w#w-lnd91303-098-p2s1w2</LM>
 </w.rf>
 <form>mrtví</form>
-<lemma>mrtvý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>mrtvý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91303-098-p2s1w3">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-098-p2s4w8">
 <src.rf>manual</src.rf>

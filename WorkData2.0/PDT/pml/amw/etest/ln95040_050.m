@@ -457,8 +457,8 @@
 <LM>w#w-ln95040-050-p2s3w1</LM>
 </w.rf>
 <form>Navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-ln95040-050-p2s3w2">
 <src.rf>manual</src.rf>
@@ -722,8 +722,8 @@
 <LM>w#w-ln95040-050-p2s5w6</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-050-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-ln95040-050-p3s1w12</LM>
 </w.rf>
 <form>oscarovými</form>
-<lemma>oscarový</lemma>
+<lemma>oscarový_,s_^(^DD**oskarový)</lemma>
 <tag>AAFP7----1A----</tag>
 </m>
 <m id="m-ln95040-050-p3s1w13">
@@ -1039,8 +1039,8 @@
 <LM>w#w-ln95040-050-p3s1w16</LM>
 </w.rf>
 <form>navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-ln95040-050-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1968,7 +1968,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-050-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2705,7 +2705,7 @@
 <LM>w#w-ln95040-050-p5s6w10</LM>
 </w.rf>
 <form>laděné</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-ln95040-050-p5s6w11">
@@ -2915,7 +2915,7 @@
 </w.rf>
 <form>rekonstruuje</form>
 <lemma>rekonstruovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95040-050-p5s7w18">
 <src.rf>manual</src.rf>

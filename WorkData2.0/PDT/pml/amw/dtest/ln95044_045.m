@@ -2925,7 +2925,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln95044-045-p4s4w7">
 <src.rf>manual</src.rf>

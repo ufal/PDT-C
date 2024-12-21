@@ -579,7 +579,7 @@
 </w.rf>
 <form>zachová</form>
 <lemma>zachovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-wsj1254-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -671,7 +671,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1254-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1526,8 +1526,8 @@
 <LM>w#w-wsj1254-001-p1s8W19</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1254-001-p1s8W20-Ta">
 <src.rf>tagger-a</src.rf>

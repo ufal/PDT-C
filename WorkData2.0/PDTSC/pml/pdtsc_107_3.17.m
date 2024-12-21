@@ -30,8 +30,8 @@
 <LM>w#w-d1t4246-5</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t4246-6">
 <w.rf>
@@ -196,8 +196,8 @@
 <LM>w#w-d1t4270-7</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t4270-5">
 <w.rf>
@@ -704,8 +704,8 @@
 <LM>w#w-d1t4342-7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t4342-8">
 <w.rf>
@@ -735,9 +735,9 @@
 <w.rf>
 <LM>w#w-d1t4342-16</LM>
 </w.rf>
-<form>Pohořelice</form>
+<form>Pohořelic</form>
 <lemma>Pohořelice_;G</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFP2-----A----</tag>
 </m>
 <m id="m049-d-id218532-punct">
 <w.rf>
@@ -753,7 +753,7 @@
 </w.rf>
 <form>Novomlýnské</form>
 <lemma>novomlýnský</lemma>
-<tag>AAFP1----1A----</tag>
+<tag>AAFS2----1A----</tag>
 </m>
 <m id="m049-d1t4342-21">
 <w.rf>
@@ -761,7 +761,7 @@
 </w.rf>
 <form>nádrže</form>
 <lemma>nádrž</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m049-d1t4342-23">
 <w.rf>
@@ -1276,8 +1276,8 @@
 <LM>w#w-d1t4386-1</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t4386-2">
 <w.rf>
@@ -2074,8 +2074,8 @@
 <LM>w#w-d1t4435-1</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t4435-4">
 <w.rf>
@@ -2307,8 +2307,8 @@
 <LM>w#w-d1t4455-10</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t4455-8">
 <w.rf>
@@ -2489,8 +2489,8 @@
 <LM>w#w-d1t4461-16</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t4461-17">
 <w.rf>
@@ -2687,8 +2687,8 @@
 <LM>w#w-d1t4468-9</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t4468-10">
 <w.rf>
@@ -3069,8 +3069,8 @@
 <LM>w#w-d1t4487-5</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t4487-6">
 <w.rf>
@@ -3078,7 +3078,7 @@
 </w.rf>
 <form>nějaké</form>
 <lemma>nějaký</lemma>
-<tag>PZFP4----------</tag>
+<tag>PZFP1----------</tag>
 </m>
 <m id="m049-d1t4487-7">
 <w.rf>
@@ -3086,7 +3086,7 @@
 </w.rf>
 <form>chemie</form>
 <lemma>chemie</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m049-340-341">
 <w.rf>
@@ -3134,7 +3134,7 @@
 </w.rf>
 <form>takovéhle</form>
 <lemma>takovýhle</lemma>
-<tag>PDFP4----------</tag>
+<tag>PDFP1----------</tag>
 </m>
 <m id="m049-340-343">
 <w.rf>

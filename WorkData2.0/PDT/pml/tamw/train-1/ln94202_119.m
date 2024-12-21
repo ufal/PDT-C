@@ -314,8 +314,8 @@
 <LM>w#w-ln94202-119-p2s2w6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-119-p2s2w7">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-ln94202-119-p2s2w18</LM>
 </w.rf>
 <form>Bebetův</form>
-<lemma>Bebetův_;Y_^(*2)</lemma>
+<lemma>Bebetův_;Y_^(*2)_(*2o)</lemma>
 <tag>AUMS1M---------</tag>
 </m>
 <m id="m-ln94202-119-p2s2w19">
@@ -631,8 +631,8 @@
 <LM>w#w-ln94202-119-p2s3w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-119-p2s3w10">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 <LM>w#w-ln94202-119-p2s3w29</LM>
 </w.rf>
 <form>uruguayského</form>
-<lemma>uruguayský</lemma>
+<lemma>uruguayský_,s_^(^DD**uruguajský)</lemma>
 <tag>AAMS2----1A----</tag>
 </m>
 <m id="m-ln94202-119-p2s3w30">

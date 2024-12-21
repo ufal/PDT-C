@@ -694,7 +694,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-109-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1365,8 +1365,8 @@
 <LM>w#w-ln95041-109-p5s2w1</LM>
 </w.rf>
 <form>Prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-109-p5s2w2">
 <src.rf>manual</src.rf>

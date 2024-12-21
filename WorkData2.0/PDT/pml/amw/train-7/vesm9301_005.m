@@ -436,8 +436,8 @@
 <LM>w#w-vesm9301-005-p5s1w22</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-005-p5s1w23">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-vesm9301-005-p5s3w20</LM>
 </w.rf>
 <form>gnózí</form>
-<lemma>gnóze</lemma>
+<lemma>gnóze_,s_^(^DD**gnose)</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="m-vesm9301-005-p5s3w21">

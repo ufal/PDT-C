@@ -140,8 +140,8 @@
 <LM>w#w-ln95042-068-p2s1Bw6</LM>
 </w.rf>
 <form>Lastovecké</form>
-<lemma>Lastovecký_;Y</lemma>
-<tag>NNMP4-----A----</tag>
+<lemma>Lastovecká_;Y_^(*1ý)</lemma>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-068-p2s1Bw7">
 <src.rf>manual</src.rf>

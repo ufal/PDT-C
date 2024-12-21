@@ -178,7 +178,7 @@
 <LM>w#w-wsj1649-001-p1s0W19</LM>
 </w.rf>
 <form>baseballovému</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAMS3----1A----</tag>
 </m>
 <m id="m-wsj1649-001-p1s0W20-Ta">
@@ -573,8 +573,8 @@
 <LM>w#w-wsj1649-001-p1s4W2</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1649-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2509,7 +2509,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1649-001-p1s12W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2762,8 +2762,8 @@
 <LM>w#w-wsj1649-001-p1s13W17</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1649-001-p1s13W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4229,8 +4229,8 @@
 <LM>w#w-wsj1649-001-p1s22W10</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1649-001-p1s22W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4721,8 +4721,8 @@
 <LM>w#w-wsj1649-001-p1s25W14</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1649-001-p1s25W15-Ta">
 <src.rf>tagger-a</src.rf>

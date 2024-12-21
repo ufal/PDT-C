@@ -622,8 +622,8 @@
 <LM>w#w-d1t3430-3</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t3430-4">
 <w.rf>
@@ -797,7 +797,7 @@
 </w.rf>
 <form>vdát</form>
 <lemma>vdát</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m041-798-799">
 <w.rf>
@@ -952,8 +952,8 @@
 <LM>w#w-d1t3454-6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m041-d1t3454-7">
 <w.rf>
@@ -1017,7 +1017,7 @@
 </w.rf>
 <form>vdát</form>
 <lemma>vdát</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m041-d1e3451-x2-817">
 <w.rf>
@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m041-d1t3460-3">
 <w.rf>
@@ -1308,8 +1308,8 @@
 <LM>w#w-d1t3482-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1e3479-x2-829">
 <w.rf>
@@ -1360,8 +1360,8 @@
 <LM>w#w-d1t3486-1</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m041-d1t3486-2">
 <w.rf>
@@ -1912,8 +1912,8 @@
 <LM>w#w-d1t3555-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d-m-d1e3548-x3-punct-punct">
 <w.rf>
@@ -1978,7 +1978,7 @@
 <LM>w#w-d1t3561-6</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m041-d1e3556-x2-880">
@@ -2444,8 +2444,8 @@
 <LM>w#w-d1t3598-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1e3595-x2-889">
 <w.rf>
@@ -2620,8 +2620,8 @@
 <LM>w#w-897-902</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-897-903">
 <w.rf>

@@ -414,8 +414,8 @@
 <LM>w#w-ln94210-55-p3s1w5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-55-p3s1w6">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 </w.rf>
 <form>zachovány</form>
 <lemma>zachovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94210-55-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1047,8 +1047,8 @@
 <LM>w#w-ln94210-55-p4s2w1</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-55-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1074,8 +1074,8 @@
 <LM>w#w-ln94210-55-p4s2w4</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-55-p4s2w5">
 <src.rf>manual</src.rf>

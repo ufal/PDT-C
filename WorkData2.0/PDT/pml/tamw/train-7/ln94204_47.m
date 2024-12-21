@@ -104,8 +104,8 @@
 <LM>w#w-ln94204-47-p2s1Bw1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-47-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-47-p2s2w8">
 <src.rf>manual</src.rf>
@@ -439,8 +439,8 @@
 <LM>w#w-ln94204-47-p2s2w22</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-47-p2s2w23">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-47-p3s1w13">
 <src.rf>manual</src.rf>
@@ -713,8 +713,8 @@
 <LM>w#w-ln94204-47-p3s2w5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-47-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1450,8 +1450,8 @@
 <LM>w#w-ln94204-47-p4s3w6</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94204-47-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1623,8 +1623,8 @@
 <LM>w#w-ln94204-47-p4s4w10</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94204-47-p4s4w11">
 <src.rf>manual</src.rf>
@@ -1926,8 +1926,8 @@
 <LM>w#w-ln94204-47-p4s7w1</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-47-p4s7w2">
 <src.rf>manual</src.rf>
@@ -1935,8 +1935,8 @@
 <LM>w#w-ln94204-47-p4s7w2</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-47-p4s7w3">
 <src.rf>manual</src.rf>

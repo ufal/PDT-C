@@ -623,7 +623,7 @@
 <LM>w#w-lnd94104-004-p1s6w11</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-004-p1s6w12">
@@ -633,7 +633,7 @@
 </w.rf>
 <form>angažovat</form>
 <lemma>angažovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd94104-004-p1s6w13">
 <src.rf>manual</src.rf>
@@ -937,7 +937,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-004-p1s7Bw13">
 <src.rf>manual</src.rf>

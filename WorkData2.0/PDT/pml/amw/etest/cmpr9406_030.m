@@ -909,7 +909,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-030-p5s3w8">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-030-p5s4w8">
 <src.rf>manual</src.rf>
@@ -1897,7 +1897,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-030-p7s4w4">
 <src.rf>manual</src.rf>
@@ -2043,7 +2043,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-030-p7s5w4">
 <src.rf>manual</src.rf>

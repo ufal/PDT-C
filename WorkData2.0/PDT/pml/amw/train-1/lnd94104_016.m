@@ -1657,7 +1657,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-016-p1s9w22">
 <src.rf>manual</src.rf>

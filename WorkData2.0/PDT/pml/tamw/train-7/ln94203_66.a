@@ -34,22 +34,23 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-ln94203-66-p1s1w3">
-<m.rf>m#m-ln94203-66-p1s1w3</m.rf>
-<afun>ExD</afun>
-<ord>3</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-ln94203-66-p1s1w4">
 <m.rf>m#m-ln94203-66-p1s1w4</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-ln94203-66-p1s1w3">
+<m.rf>m#m-ln94203-66-p1s1w3</m.rf>
+<afun>AuxG</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-ln94203-66-p1s1w5">
 <m.rf>m#m-ln94203-66-p1s1w5</m.rf>
-<afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Adv</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -58,13 +59,14 @@
 <LM id="a-ln94203-66-p1s1w6">
 <m.rf>m#m-ln94203-66-p1s1w6</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94203-66-p1s1w9">
 <m.rf>m#m-ln94203-66-p1s1w9</m.rf>
-<afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Adv</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -82,13 +84,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94203-66-p1s1w10">
 <m.rf>m#m-ln94203-66-p1s1w10</m.rf>
-<afun>ExD</afun>
+<afun>AuxG</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -100,7 +102,7 @@
 <children>
 <LM id="a-ln94203-66-p1s1w17">
 <m.rf>m#m-ln94203-66-p1s1w17</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>17</ord>
 <clause_number>1</clause_number>
 <children>
@@ -290,10 +292,13 @@
 <children>
 <LM id="a-ln94203-66-p1s3w1">
 <m.rf>m#m-ln94203-66-p1s3w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 <LM id="a-ln94203-66-p1s3w4">
 <m.rf>m#m-ln94203-66-p1s3w4</m.rf>
@@ -304,21 +309,27 @@
 <children>
 <LM id="a-ln94203-66-p1s3w3">
 <m.rf>m#m-ln94203-66-p1s3w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94203-66-p1s3w5">
 <m.rf>m#m-ln94203-66-p1s3w5</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
 </children>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 </children>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 </children>
 </LM>

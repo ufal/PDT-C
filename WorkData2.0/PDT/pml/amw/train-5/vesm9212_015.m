@@ -1601,7 +1601,7 @@
 <LM>w#w-vesm9212-015-p3s6w21</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-vesm9212-015-p3s6w22">
@@ -4631,7 +4631,7 @@
 </w.rf>
 <form>dí</form>
 <lemma>dít-2_^(říkat)</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9212-015-p8s1w7">
 <src.rf>manual</src.rf>
@@ -5680,8 +5680,8 @@
 <LM>w#w-vesm9212-015-p22s2w9</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-015-p22s2w10">
 <src.rf>manual</src.rf>

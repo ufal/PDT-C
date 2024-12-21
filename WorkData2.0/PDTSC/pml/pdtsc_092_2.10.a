@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_092_2.10.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="ml_142.10-SCzechA-ml_142-d1e1247-x2-root">
 <s.rf>m#m142-d1e1247-x2</s.rf>
@@ -27,12 +30,12 @@
 <afun>Sb</afun>
 <ord>2</ord>
 </LM>
-</children>
-</LM>
 <LM id="ml_142.10-SCzechA-m-d-id155351-punct">
 <m.rf>m#m142-d-id155351-punct</m.rf>
 <afun>AuxK</afun>
 <ord>4</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -79,12 +82,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="ml_142.10-SCzechA-m-d-m-d1e1251-x2-punct-punct">
 <m.rf>m#m142-d-m-d1e1251-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>8</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -94,18 +97,22 @@
 <children>
 <LM id="ml_142.10-SCzechA-m-d1t1258-1">
 <m.rf>m#m142-d1t1258-1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 </LM>
 <LM id="ml_142.10-SCzechA-m-d1t1258-2">
 <m.rf>m#m142-d1t1258-2</m.rf>
-<afun>ExD</afun>
+<afun>AuxZ</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
-</LM>
+<children>
 <LM id="ml_142.10-SCzechA-m-d1e1255-x2-355">
 <m.rf>m#m142-d1e1255-x2-355</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -117,11 +124,13 @@
 <m.rf>m#m142-d1t1258-4</m.rf>
 <afun>Pred</afun>
 <ord>1</ord>
-</LM>
+<children>
 <LM id="ml_142.10-SCzechA-m-d-m-d1e1255-x2-punct-punct">
 <m.rf>m#m142-d-m-d1e1255-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>2</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -132,19 +141,20 @@
 <LM id="ml_142.10-SCzechA-m-d1t1262-1">
 <m.rf>m#m142-d1t1262-1</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <children>
 <LM id="ml_142.10-SCzechA-m-d1t1262-2">
 <m.rf>m#m142-d1t1262-2</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="ml_142.10-SCzechA-m-d-m-d1e1259-x2-punct-punct">
 <m.rf>m#m142-d-m-d1e1259-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -155,19 +165,20 @@
 <LM id="ml_142.10-SCzechA-m-d1t1266-1">
 <m.rf>m#m142-d1t1266-1</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <children>
 <LM id="ml_142.10-SCzechA-m-d1t1266-2">
 <m.rf>m#m142-d1t1266-2</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="ml_142.10-SCzechA-m-d-m-d1e1263-x2-punct-punct">
 <m.rf>m#m142-d-m-d1e1263-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

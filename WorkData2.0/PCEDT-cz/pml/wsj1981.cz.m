@@ -178,7 +178,7 @@
 <LM>w#w-wsj1981-001-p1s0W19</LM>
 </w.rf>
 <form>dvoudveřové</form>
-<lemma>dvoudveřový</lemma>
+<lemma>dvoudveřový_,s_^(^DD**dvoudvéřový)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-wsj1981-001-p1s0W20-Ta">

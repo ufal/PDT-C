@@ -1492,7 +1492,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-ln94202-127-p4s2w32">
 <src.rf>manual</src.rf>
@@ -1638,7 +1638,7 @@
 </w.rf>
 <form>dominují</form>
 <lemma>dominovat</lemma>
-<tag>VB-P---3P-AAB--</tag>
+<tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-127-p4s3w10">
 <src.rf>manual</src.rf>
@@ -2015,7 +2015,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-127-p4s7w4">
 <src.rf>manual</src.rf>
@@ -2123,7 +2123,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-127-p4s7w16">
 <src.rf>manual</src.rf>

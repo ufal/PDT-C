@@ -457,8 +457,8 @@
 <LM>w#w-ln95046-021-p2s2w17</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-021-p2s2w18">
 <src.rf>manual</src.rf>
@@ -711,8 +711,8 @@
 <LM>w#w-ln95046-021-p2s3w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-021-p2s3w8">
 <src.rf>manual</src.rf>

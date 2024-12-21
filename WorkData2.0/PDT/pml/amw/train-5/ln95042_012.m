@@ -1102,7 +1102,7 @@
 <LM>w#w-ln95042-012-p3s2w13</LM>
 </w.rf>
 <form>ramadánem</form>
-<lemma>ramadán</lemma>
+<lemma>ramadán_,s_^(^DD**ramadan)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-ln95042-012-p3s2w14">
@@ -1147,8 +1147,8 @@
 <LM>w#w-ln95042-012-p3s2w18</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-012-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1825,8 +1825,8 @@
 <LM>w#w-ln95042-012-p3s8w5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95042-012-p3s8w6">
 <src.rf>manual</src.rf>
@@ -2894,7 +2894,7 @@
 </w.rf>
 <form>pravila</form>
 <lemma>pravit</lemma>
-<tag>VpQW----R-AAP--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95042-012-p4s1w22">
 <src.rf>manual</src.rf>
@@ -3352,7 +3352,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-012-p5s1w2">
 <src.rf>manual</src.rf>
@@ -4548,7 +4548,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-012-p5s5w17">
 <src.rf>manual</src.rf>
@@ -4621,7 +4621,7 @@
 <LM>w#w-ln95042-012-p5s6w5</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-012-p5s6w6">

@@ -1073,7 +1073,7 @@
 </w.rf>
 <form>nereagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAB--</tag>
 </m>
 <m id="m-mf920922-123-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1272,8 +1272,8 @@
 <LM>w#w-mf920922-123-p4s1w21</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920922-123-p4s1w22">
 <src.rf>manual</src.rf>

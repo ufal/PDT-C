@@ -160,8 +160,8 @@
 <LM>w#w-wsj2068-001-p1s0W17</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2068-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1527,7 +1527,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2068-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

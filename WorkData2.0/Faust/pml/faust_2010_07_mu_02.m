@@ -2081,8 +2081,8 @@
 <LM>w#w-mu_02-SCzechM-p0126-s1-w14</LM>
 </w.rf>
 <form>přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="mu_02-SCzechM-p0126-s1-w15">
 <w.rf>
@@ -2185,7 +2185,7 @@
 <LM>w#w-mu_02-SCzechM-p0126-s1-w27</LM>
 </w.rf>
 <form>sehnali</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="mu_02-SCzechM-p0126-s1-w28">
@@ -2665,8 +2665,8 @@
 <LM>w#w-mu_02-SCzechM-p0141-s1-w29</LM>
 </w.rf>
 <form>hranou</form>
-<lemma>hrana</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>hraný_^(*3át)</lemma>
+<tag>AAFS7----1A----</tag>
 </m>
 <m id="mu_02-SCzechM-p0141-s1-w30">
 <w.rf>
@@ -2851,8 +2851,8 @@
 <LM>w#w-mu_02-SCzechM-p0142-s1-w1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_02-SCzechM-p0142-s1-w2">
 <w.rf>
@@ -2867,8 +2867,8 @@
 <LM>w#w-mu_02-SCzechM-p0142-s1-w3</LM>
 </w.rf>
 <form>díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP4-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="mu_02-SCzechM-p0142-s1-w4">
 <w.rf>
@@ -3340,7 +3340,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_02-SCzechM-p0156-s1-w5">
 <w.rf>

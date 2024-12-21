@@ -64,8 +64,8 @@
 <LM>w#w-ln95044-051-p1s1w6</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95044-051-p1s1w7">
 <src.rf>manual</src.rf>

@@ -632,8 +632,8 @@
 <LM>w#w-d1t2041-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m981-d1t2045-2">
 <w.rf>
@@ -672,8 +672,8 @@
 <LM>w#w-d1t2045-9</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m981-d1t2045-11">
 <w.rf>
@@ -956,8 +956,8 @@
 <LM>w#w-d1t2069-1</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m981-d1t2069-4">
 <w.rf>
@@ -1200,8 +1200,8 @@
 <LM>w#w-699-713</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m981-699-714">
 <w.rf>

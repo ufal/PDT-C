@@ -615,7 +615,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95047-127-p3s1w19">
 <src.rf>manual</src.rf>
@@ -796,8 +796,8 @@
 <LM>w#w-ln95047-127-p3s2w17</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-127-p3s2w18">
 <src.rf>manual</src.rf>

@@ -19,8 +19,8 @@
 <LM>w#w-ln94208-20-p1s1w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-20-p1s1w2">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-20-p1s2w20">
 <src.rf>manual</src.rf>

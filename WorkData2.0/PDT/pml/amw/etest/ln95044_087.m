@@ -973,7 +973,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-087-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-087-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1254,7 +1254,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-087-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1646,8 +1646,8 @@
 <LM>w#w-ln95044-087-p4s1w9</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-087-p4s1w10">
 <src.rf>manual</src.rf>

@@ -1578,7 +1578,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj0483-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>

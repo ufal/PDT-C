@@ -1377,8 +1377,8 @@
 <LM>w#w-lnd94103-037-p1s11w1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94103-037-p1s11w2">
 <src.rf>manual</src.rf>
@@ -1591,8 +1591,8 @@
 <LM>w#w-lnd94103-037-p1s13w1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94103-037-p1s13w2">
 <src.rf>manual</src.rf>
@@ -2733,8 +2733,8 @@
 <LM>w#w-lnd94103-037-p1s22w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-037-p1s22w3">
 <src.rf>manual</src.rf>
@@ -2751,8 +2751,8 @@
 <LM>w#w-lnd94103-037-p1s22w4</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94103-037-p1s22w5">
 <src.rf>manual</src.rf>

@@ -538,7 +538,7 @@
 <LM>w#w-ln94204-94-p3s2w9</LM>
 </w.rf>
 <form>divadélku</form>
-<lemma>divadélko</lemma>
+<lemma>divadélko_,e_^(^DD**divadýlko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln94204-94-p3s2w10">

@@ -493,7 +493,7 @@
 <LM>w#w-vesm9301-018-p3s2w1</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-018-p3s2w2">
@@ -602,7 +602,7 @@
 </w.rf>
 <form>Betelgeuze</form>
 <lemma>Betelgeuze_;G_^(hvězda)</lemma>
-<tag>NNNXX-----A----</tag>
+<tag>NNXXX-----A----</tag>
 </m>
 <m id="m-vesm9301-018-p3s2w14">
 <src.rf>manual</src.rf>

@@ -1500,7 +1500,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-006-p10s6w6">
 <src.rf>manual</src.rf>

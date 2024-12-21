@@ -4275,7 +4275,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-lnd94103-056-p1s39w24">
 <src.rf>manual</src.rf>
@@ -4357,8 +4357,8 @@
 <LM>w#w-lnd94103-056-p1s40w8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-056-p1s40w9">
 <src.rf>manual</src.rf>
@@ -4816,7 +4816,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-lnd94103-056-p1s43w11">
 <src.rf>manual</src.rf>
@@ -4881,7 +4881,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-056-p1s44w7">
 <src.rf>manual</src.rf>

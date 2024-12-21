@@ -530,8 +530,8 @@
 <LM>w#w-cmpr9410-006-p3s3w12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-006-p3s3w13">
 <src.rf>manual</src.rf>
@@ -649,8 +649,8 @@
 <LM>w#w-cmpr9410-006-p3s4w7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-006-p3s4w8">
 <src.rf>manual</src.rf>

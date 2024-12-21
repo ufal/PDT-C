@@ -37,7 +37,7 @@
 <LM>w#w-lnd94104-044-p1s1w3</LM>
 </w.rf>
 <form>lídry</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMP4-----A----</tag>
 </m>
 <m id="m-lnd94104-044-p1s1w4">
@@ -230,7 +230,7 @@
 <LM>w#w-lnd94104-044-p1s3w13</LM>
 </w.rf>
 <form>lídry</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMP4-----A----</tag>
 </m>
 <m id="m-lnd94104-044-p1s3w14">
@@ -723,7 +723,7 @@
 <LM>w#w-lnd94104-044-p1s6w2</LM>
 </w.rf>
 <form>lídrem</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-044-p1s6w3">

@@ -2920,8 +2920,8 @@
 <LM>w#w-wsj1819-001-p1s9W29</LM>
 </w.rf>
 <form>jménem</form>
-<lemma>jméno</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>jménem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1819-001-p1s9W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3258,7 +3258,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1819-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6956,7 +6956,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1819-001-p1s28W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7627,8 +7627,8 @@
 <LM>w#w-wsj1819-001-p1s31W12</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1819-001-p1s31W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7700,7 +7700,7 @@
 </w.rf>
 <form>nereagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAB--</tag>
 </m>
 <m id="m-wsj1819-001-p1s31W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7854,7 +7854,7 @@
 <LM>w#w-wsj1819-001-p1s32W16</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-wsj1819-001-p1s32W17-Ta">
@@ -10539,8 +10539,8 @@
 <LM>w#w-wsj1819-001-p1s42W14</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1819-001-p1s42W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11502,8 +11502,8 @@
 <LM>w#w-wsj1819-001-p1s46W7</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1819-001-p1s46W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12260,7 +12260,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1819-001-p1s51W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12714,7 +12714,7 @@
 </w.rf>
 <form>specializovat</form>
 <lemma>specializovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1819-001-p1s53W13-Ta">
 <src.rf>tagger-a</src.rf>

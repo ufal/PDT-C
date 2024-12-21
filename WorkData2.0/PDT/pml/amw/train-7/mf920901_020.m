@@ -158,8 +158,8 @@
 <LM>w#w-mf920901-020-p2s2w7</LM>
 </w.rf>
 <form>per</form>
-<lemma>per-77</lemma>
-<tag>F%-------------</tag>
+<lemma>per-1_^(z_latiny)</lemma>
+<tag>RR--X----------</tag>
 </m>
 <m id="m-mf920901-020-p2s2w8">
 <src.rf>manual</src.rf>

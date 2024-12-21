@@ -56,7 +56,7 @@
 </w.rf>
 <form>Ulsteru</form>
 <lemma>Ulster_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-108-p2s1A">
@@ -857,8 +857,8 @@
 <LM>w#w-ln94200-108-p2s4w23</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-108-p2s4w24">
 <src.rf>manual</src.rf>

@@ -3258,8 +3258,8 @@
 <LM>w#w-wsj0012-001-p1s11W22</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0012-001-p1s11W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3506,7 +3506,7 @@
 </w.rf>
 <form>časopis</form>
 <lemma>časopis</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0012-001-p1s13W9-Ta">
 <src.rf>tagger-a</src.rf>

@@ -178,8 +178,8 @@
 <LM>w#w-d1t1518-4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t1518-5">
 <w.rf>
@@ -276,8 +276,8 @@
 <LM>w#w-d1t1537-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ještě-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m117-d1t1537-7">
 <w.rf>
@@ -439,7 +439,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m117-d1t1543-12">
 <w.rf>
@@ -618,8 +618,8 @@
 <LM>w#w-d1t1550-17</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t1550-18">
 <w.rf>
@@ -1314,8 +1314,8 @@
 <LM>w#w-d1t1589-14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t1591-3">
 <w.rf>
@@ -1542,8 +1542,8 @@
 <LM>w#w-d1t1602-6</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t1602-7">
 <w.rf>
@@ -1991,7 +1991,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m117-d1t1643-4">
 <w.rf>
@@ -2112,8 +2112,8 @@
 <LM>w#w-d1t1656-2</LM>
 </w.rf>
 <form>aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t1656-1">
 <w.rf>
@@ -2360,8 +2360,8 @@
 <LM>w#w-d1t1663-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t1663-6">
 <w.rf>
@@ -2450,7 +2450,7 @@
 <LM>w#w-d1t1671-7</LM>
 </w.rf>
 <form>Florencie</form>
-<lemma>Florencie_;G</lemma>
+<lemma>Florencie_;G_;Y</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m117-d1e1664-x2-700">
@@ -2500,8 +2500,8 @@
 <LM>w#w-d1t1671-14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ještě-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m117-d1t1671-15">
 <w.rf>
@@ -2985,8 +2985,8 @@
 <LM>w#w-d1t1726-2</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t1726-3">
 <w.rf>
@@ -3043,8 +3043,8 @@
 <LM>w#w-d1t1726-10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t1726-11">
 <w.rf>

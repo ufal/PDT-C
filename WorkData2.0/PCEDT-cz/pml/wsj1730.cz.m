@@ -298,7 +298,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1730-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -661,8 +661,8 @@
 <LM>w#w-wsj1730-001-p1s3W7</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1730-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -851,7 +851,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1730-001-p1s3W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1406,8 +1406,8 @@
 <LM>w#w-wsj1730-001-p1s6W24</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1730-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1881,7 +1881,7 @@
 <LM>w#w-wsj1730-001-p1s9W8</LM>
 </w.rf>
 <form>lídrů</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1730-001-p1s9W9-Ta">
@@ -4892,8 +4892,8 @@
 <LM>w#w-wsj1730-001-p1s24W19</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1730-001-p1s24W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5374,7 +5374,7 @@
 </w.rf>
 <form>Nikaragui</form>
 <lemma>Nikaragua_;G</lemma>
-<tag>NNFS2-----A---3</tag>
+<tag>NNFS6-----A---2</tag>
 </m>
 <m id="m-wsj1730-001-p1s26W11-Ta">
 <src.rf>tagger-a</src.rf>

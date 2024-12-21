@@ -1362,8 +1362,8 @@
 <LM>w#w-ln94210-135-p3s5w8</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-135-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1708,8 +1708,8 @@
 <LM>w#w-ln94210-135-p3s7w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-135-p3s7w8">
 <src.rf>manual</src.rf>
@@ -2346,8 +2346,8 @@
 <LM>w#w-ln94210-135-p4s4w9</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-135-p4s4w10">
 <src.rf>manual</src.rf>
@@ -2537,8 +2537,8 @@
 <LM>w#w-ln94210-135-p5s1w4</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-135-p5s1w5">
 <src.rf>manual</src.rf>

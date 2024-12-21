@@ -335,7 +335,7 @@
 <LM>w#w-wsj2035-001-p1s2W7</LM>
 </w.rf>
 <form>dceřinná</form>
-<lemma>dceřinný_,a_^(chybné_od_dceřiný)</lemma>
+<lemma>dceřinný_,i_^(^DS**dceřiný)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-wsj2035-001-p1s2W8-Ta">

@@ -651,7 +651,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-60-p2s3w3">
 <src.rf>manual</src.rf>
@@ -839,8 +839,8 @@
 <LM>w#w-ln94205-60-p2s3w23</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-60-p2s3w24">
 <src.rf>manual</src.rf>

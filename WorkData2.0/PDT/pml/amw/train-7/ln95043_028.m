@@ -87,7 +87,7 @@
 </w.rf>
 <form>dominovaly</form>
 <lemma>dominovat</lemma>
-<tag>VpTP----R-AAB--</tag>
+<tag>VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95043-028-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 </w.rf>
 <form>prsa</form>
 <lemma>prsa</lemma>
-<tag>NNNP4-----A----</tag>
+<tag>NNNP1-----A----</tag>
 </m>
 <m id="m-ln95043-028-p2s2w7">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 </w.rf>
 <form>motýlek</form>
 <lemma>motýlek-2</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-028-p2s3w14">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 </w.rf>
 <form>znak</form>
 <lemma>znak</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-028-p2s4w23">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 </w.rf>
 <form>znak</form>
 <lemma>znak</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-028-p2s4w39">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 </w.rf>
 <form>znak</form>
 <lemma>znak</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-028-p2s4w54">
 <src.rf>manual</src.rf>
@@ -1275,7 +1275,7 @@
 </w.rf>
 <form>závod</form>
 <lemma>závod</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-028-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1706,7 +1706,7 @@
 </w.rf>
 <form>prsa</form>
 <lemma>prsa</lemma>
-<tag>NNNP4-----A----</tag>
+<tag>NNNP1-----A----</tag>
 </m>
 <m id="m-ln95043-028-p2s7w10">
 <src.rf>manual</src.rf>

@@ -165,8 +165,8 @@
 <LM>w#w-mf930713-008-p1s1Bw12</LM>
 </w.rf>
 <form>blízkých</form>
-<lemma>blízký</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>blízký-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-008-p1s1Bw13">
 <src.rf>manual</src.rf>
@@ -448,8 +448,8 @@
 <LM>w#w-mf930713-008-p1s3w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-008-p1s3w6">
 <src.rf>manual</src.rf>

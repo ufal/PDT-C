@@ -1270,7 +1270,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0178-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4474,8 +4474,8 @@
 <LM>w#w-wsj0178-001-p1s24W11</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0178-001-p1s24W12-Ta">
 <src.rf>tagger-a</src.rf>

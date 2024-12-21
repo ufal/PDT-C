@@ -1847,7 +1847,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-046-p2s9w2">
 <src.rf>manual</src.rf>
@@ -3856,7 +3856,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95044-046-p4s1w7">
 <src.rf>manual</src.rf>
@@ -4145,8 +4145,8 @@
 <LM>w#w-ln95044-046-p4s2w17</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95044-046-p4s2w18">
 <src.rf>manual</src.rf>

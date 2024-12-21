@@ -750,7 +750,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0970-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3028,7 +3028,7 @@
 </w.rf>
 <form>distribuovat</form>
 <lemma>distribuovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0970-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4241,7 +4241,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0970-001-p1s19W4-Ta">
 <src.rf>tagger-a</src.rf>

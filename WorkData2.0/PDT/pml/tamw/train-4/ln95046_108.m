@@ -1885,8 +1885,8 @@
 <LM>w#w-ln95046-108-p5s3w7</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-108-p5s3w8">
 <src.rf>manual</src.rf>
@@ -2923,8 +2923,8 @@
 <LM>w#w-ln95046-108-p7s4w13</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95046-108-p7s4w14">
 <src.rf>manual</src.rf>
@@ -3144,7 +3144,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95046-108-p8s2w8">
 <src.rf>manual</src.rf>

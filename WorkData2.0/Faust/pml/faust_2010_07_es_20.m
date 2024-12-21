@@ -1600,7 +1600,7 @@
 </w.rf>
 <form>ručníky</form>
 <lemma>ručník</lemma>
-<tag>NNIP1-----A----</tag>
+<tag>NNIP4-----A----</tag>
 </m>
 <m id="es_20-SCzechM-p2125-s1-w3">
 <w.rf>
@@ -1624,7 +1624,7 @@
 </w.rf>
 <form>povlečení</form>
 <lemma>povlečení_^(*5éci)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="es_20-SCzechM-p2125-s1-w6">
 <w.rf>
@@ -1648,7 +1648,7 @@
 </w.rf>
 <form>ruční</form>
 <lemma>ruční</lemma>
-<tag>AANS1----1A----</tag>
+<tag>AANS4----1A----</tag>
 </m>
 <m id="es_20-SCzechM-p2125-s1-w9">
 <w.rf>
@@ -1656,7 +1656,7 @@
 </w.rf>
 <form>praní</form>
 <lemma>praní_^(*3át)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 </s>
 <s id="s-es_20-SCzechM-p2128-s1-w1">
@@ -3516,7 +3516,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_20-SCzechM-p2151-s1-w55">
 <w.rf>
@@ -3828,7 +3828,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_20-SCzechM-p2156-s1-w17">
 <w.rf>
@@ -3859,7 +3859,7 @@
 <LM>w#w-es_20-SCzechM-p2156-s1-w20</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="es_20-SCzechM-p2156-s1-w21">
@@ -4044,7 +4044,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="es_20-SCzechM-p2156-s1-w44">
 <w.rf>
@@ -4770,7 +4770,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_20-SCzechM-p2164-s1-w34">
 <w.rf>
@@ -5248,7 +5248,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_20-SCzechM-p2180-s1-w18">
 <w.rf>
@@ -5511,8 +5511,8 @@
 <LM>w#w-es_20-SCzechM-p2180-s1-w50</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_20-SCzechM-p2180-s1-w51">
 <w.rf>

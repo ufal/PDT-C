@@ -1129,8 +1129,8 @@
 <LM>w#w-mf920925-075-p2s6w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-075-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1826,7 +1826,7 @@
 <LM>w#w-mf920925-075-p3s2w11</LM>
 </w.rf>
 <form>mikrofonu</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-075-p3s2w12">
@@ -2071,8 +2071,8 @@
 <LM>w#w-mf920925-075-p3s3w4</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-075-p3s3w5">
 <src.rf>manual</src.rf>

@@ -1096,8 +1096,8 @@
 <LM>w#w-wsj0098-001-p1s4W3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0098-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2651,8 +2651,8 @@
 <LM>w#w-wsj0098-001-p1s10W29</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0098-001-p1s10W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3051,8 +3051,8 @@
 <LM>w#w-wsj0098-001-p1s12W7</LM>
 </w.rf>
 <form>mladistvé</form>
-<lemma>mladistvý</lemma>
-<tag>AAMP4----1A----</tag>
+<lemma>mladistvý-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-wsj0098-001-p1s12W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4205,7 +4205,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0098-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>

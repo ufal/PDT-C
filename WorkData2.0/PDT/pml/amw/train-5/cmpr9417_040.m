@@ -1417,7 +1417,7 @@
 <LM>w#w-cmpr9417-040-p8s1w24</LM>
 </w.rf>
 <form>neony</form>
-<lemma>neon</lemma>
+<lemma>neon_,s_^(^DD**neón)</lemma>
 <tag>NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9417-040-p8s1w25">
@@ -5527,7 +5527,7 @@
 <LM>w#w-cmpr9417-040-p24s1w10</LM>
 </w.rf>
 <form>METAL</form>
-<lemma>metal</lemma>
+<lemma>metal_,s_^(^DD**metál)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-040-p24s1w11">

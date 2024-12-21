@@ -112,7 +112,7 @@
 </w.rf>
 <form>vývoje</form>
 <lemma>vývoj</lemma>
-<tag>NNIP1-----A----</tag>
+<tag>NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9417-045-p3s1w7">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 </w.rf>
 <form>Krušnohorské</form>
 <lemma>krušnohorský</lemma>
-<tag>AAFP1----1A----</tag>
+<tag>AAFP4----1A----</tag>
 </m>
 <m id="m-cmpr9417-045-p4s2w9">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 </w.rf>
 <form>strojírny</form>
 <lemma>strojírna</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9417-045-p4s2w10">
 <src.rf>manual</src.rf>
@@ -2014,7 +2014,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-045-p9s1w7">
 <src.rf>manual</src.rf>
@@ -4354,7 +4354,7 @@
 <LM>w#w-cmpr9417-045-p14s4w19</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-045-p14s4w20">
@@ -5158,7 +5158,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-045-p17s1w5">
 <src.rf>manual</src.rf>
@@ -5544,7 +5544,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-045-p20s1w2">
 <src.rf>manual</src.rf>
@@ -6034,8 +6034,8 @@
 <LM>w#w-cmpr9417-045-p20s4w9</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-045-p20s4w10">
 <src.rf>manual</src.rf>
@@ -9307,8 +9307,8 @@
 <LM>w#w-cmpr9417-045-p31s2w12</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9417-045-p31s2w13">
 <src.rf>manual</src.rf>

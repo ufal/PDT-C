@@ -1235,7 +1235,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj1259-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1370,7 +1370,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj1259-001-p1s5W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1806,7 +1806,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj1259-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>

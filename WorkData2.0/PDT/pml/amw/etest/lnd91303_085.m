@@ -353,8 +353,8 @@
 <LM>w#w-lnd91303-085-p4s3w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-085-p4s3w2">
 <src.rf>manual</src.rf>
@@ -755,8 +755,8 @@
 <LM>w#w-lnd91303-085-p7s2w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-085-p7s2w2">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-085-p7s8w6">
 <src.rf>manual</src.rf>

@@ -866,7 +866,7 @@
 <LM>w#w-ln94208-71-p4s1w4</LM>
 </w.rf>
 <form>nepostradatelnosti</form>
-<lemma>postradatelnost_^(*3ý)</lemma>
+<lemma>postradatelnost_^(^DD**postrádatelnost)_(*3ý)</lemma>
 <tag>NNFS6-----N----</tag>
 </m>
 <m id="m-ln94208-71-p4s1w5">
@@ -1339,7 +1339,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-71-p4s3w14">
 <src.rf>manual</src.rf>

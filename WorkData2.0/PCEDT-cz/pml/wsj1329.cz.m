@@ -932,8 +932,8 @@
 <LM>w#w-wsj1329-001-p1s3W9</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1329-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1306,7 +1306,7 @@
 </w.rf>
 <form>Společnosti</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1329-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>

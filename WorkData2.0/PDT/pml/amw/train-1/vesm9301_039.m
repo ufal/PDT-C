@@ -219,8 +219,8 @@
 <LM>w#w-vesm9301-039-p2s1w19</LM>
 </w.rf>
 <form>poškozenými</form>
-<lemma>poškozený_^(*4dit)</lemma>
-<tag>AAMP7----1A----</tag>
+<lemma>poškozený-2</lemma>
+<tag>NNMP7-----A----</tag>
 </m>
 <m id="m-vesm9301-039-p2s1w20">
 <src.rf>manual</src.rf>

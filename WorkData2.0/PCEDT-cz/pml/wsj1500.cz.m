@@ -1439,8 +1439,8 @@
 <LM>w#w-wsj1500-001-p1s5W12</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1500-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2094,7 +2094,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1500-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2785,7 +2785,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1500-001-p1s10W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3077,8 +3077,8 @@
 <LM>w#w-wsj1500-001-p1s12W7</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1500-001-p1s12W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3243,7 +3243,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1500-001-p1s13W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5596,8 +5596,8 @@
 <LM>w#w-wsj1500-001-p1s22W19</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1500-001-p1s22W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5641,7 +5641,7 @@
 <LM>w#w-wsj1500-001-p1s22W24</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj1500-001-p1s22W25-Ta">
@@ -5877,7 +5877,7 @@
 <LM>w#w-wsj1500-001-p1s23W15</LM>
 </w.rf>
 <form>zmrazení</form>
-<lemma>zmrazení_^(*3it)</lemma>
+<lemma>zmrazení_^(^DD**zmražení)_(*3it)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj1500-001-p1s23W16-Ta">
@@ -6287,7 +6287,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1500-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6449,7 +6449,7 @@
 </w.rf>
 <form>slib</form>
 <lemma>slib</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj1500-001-p1s25W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8301,7 +8301,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1500-001-p1s34W5-Ta">
 <src.rf>tagger-a</src.rf>

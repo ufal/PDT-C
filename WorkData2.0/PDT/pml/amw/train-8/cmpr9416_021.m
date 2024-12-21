@@ -612,8 +612,8 @@
 <LM>w#w-cmpr9416-021-p4s3w13</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-cmpr9416-021-p4s3w14">
 <src.rf>manual</src.rf>

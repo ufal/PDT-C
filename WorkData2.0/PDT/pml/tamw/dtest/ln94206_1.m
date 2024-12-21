@@ -631,7 +631,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-1-p2s5w17">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 </w.rf>
 <form>angažovala</form>
 <lemma>angažovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94206-1-p3s1w32">
 <src.rf>manual</src.rf>

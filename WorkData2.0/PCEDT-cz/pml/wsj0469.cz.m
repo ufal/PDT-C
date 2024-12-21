@@ -471,7 +471,7 @@
 </w.rf>
 <form>komise</form>
 <lemma>komise</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0469-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2002,8 +2002,8 @@
 <LM>w#w-wsj0469-001-p1s7W8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0469-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2604,8 +2604,8 @@
 <LM>w#w-wsj0469-001-p1s11W9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0469-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10492,7 +10492,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--6----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-wsj0469-001-p1s53W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11018,7 +11018,7 @@
 </w.rf>
 <form>nereagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-wsj0469-001-p1s55W6-Ta">
 <src.rf>tagger-a</src.rf>

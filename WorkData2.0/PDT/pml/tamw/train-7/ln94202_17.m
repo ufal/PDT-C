@@ -613,7 +613,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-17-p3s1w7">
 <src.rf>manual</src.rf>

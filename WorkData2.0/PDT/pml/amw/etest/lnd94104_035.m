@@ -40,7 +40,7 @@
 </w.rf>
 <form>Haag</form>
 <lemma>Haag_;G</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-035-p1s2w2">
 <src.rf>manual</src.rf>

@@ -240,7 +240,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-013-p2s1w21">
 <src.rf>manual</src.rf>
@@ -1659,8 +1659,8 @@
 <LM>w#w-lnd91303-013-p3s4w6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91303-013-p3s4w7">
 <src.rf>manual</src.rf>
@@ -3065,7 +3065,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-013-p5s2w13">
 <src.rf>manual</src.rf>
@@ -5018,7 +5018,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-013-p7s3w12">
 <src.rf>manual</src.rf>

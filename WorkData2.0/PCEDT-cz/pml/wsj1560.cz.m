@@ -252,7 +252,7 @@
 <LM>w#w-wsj1560-001-p1s1W5</LM>
 </w.rf>
 <form>baseballová</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-wsj1560-001-p1s1W6-Ta">
@@ -834,7 +834,7 @@
 <LM>w#w-wsj1560-001-p1s4W7</LM>
 </w.rf>
 <form>baseballovém</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAMS6----1A----</tag>
 </m>
 <m id="m-wsj1560-001-p1s4W8-Ta">
@@ -1050,7 +1050,7 @@
 <LM>w#w-wsj1560-001-p1s4W31</LM>
 </w.rf>
 <form>baseballových</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-wsj1560-001-p1s4W32-Ta">
@@ -1169,7 +1169,7 @@
 <LM>w#w-wsj1560-001-p1s5W11</LM>
 </w.rf>
 <form>baseballových</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-wsj1560-001-p1s5W12-Ta">
@@ -1379,7 +1379,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1560-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1922,7 +1922,7 @@
 <LM>w#w-wsj1560-001-p1s8W6</LM>
 </w.rf>
 <form>baseballových</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAMP2----1A----</tag>
 </m>
 <m id="m-wsj1560-001-p1s8W7-Ta">
@@ -2070,8 +2070,8 @@
 <LM>w#w-wsj1560-001-p1s10W2</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1560-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2461,8 +2461,8 @@
 <LM>w#w-wsj1560-001-p1s12W2</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1560-001-p1s12W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3621,7 +3621,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1560-001-p1s20W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -657,7 +657,7 @@
 <LM>w#w-wsj1739-001-p1s1W39</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-wsj1739-001-p1s1W40-Ta">
@@ -758,8 +758,8 @@
 <LM>w#w-wsj1739-001-p1s2W10</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1739-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>

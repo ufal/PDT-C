@@ -335,7 +335,7 @@
 </w.rf>
 <form>datována</form>
 <lemma>datovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-wsj1805-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>

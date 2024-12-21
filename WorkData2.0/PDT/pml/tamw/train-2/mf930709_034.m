@@ -416,8 +416,8 @@
 <LM>w#w-mf930709-034-p2s3w5</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-034-p2s3w6">
 <src.rf>manual</src.rf>
@@ -544,8 +544,8 @@
 <LM>w#w-mf930709-034-p2s4w8</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf930709-034-p2s4w9">
 <src.rf>manual</src.rf>

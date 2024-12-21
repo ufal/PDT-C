@@ -304,8 +304,8 @@
 <LM>w#w-cmpr9413-017-p3s3w6</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-017-p3s3w7">
 <src.rf>manual</src.rf>
@@ -2210,8 +2210,8 @@
 <LM>w#w-cmpr9413-017-p8s5w4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-017-p8s5w5">
 <src.rf>manual</src.rf>
@@ -3542,8 +3542,8 @@
 <LM>w#w-cmpr9413-017-p13s2w2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-017-p13s2w3">
 <src.rf>manual</src.rf>

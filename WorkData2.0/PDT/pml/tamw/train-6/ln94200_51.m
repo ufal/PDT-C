@@ -295,8 +295,8 @@
 <LM>w#w-ln94200-51-p2s1Bw26</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-51-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -975,8 +975,8 @@
 <LM>w#w-ln94200-51-p3s3w4</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-51-p3s3w5">
 <src.rf>manual</src.rf>

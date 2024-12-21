@@ -476,8 +476,8 @@
 <LM>w#w-ln94206-60-p2s1Cw17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-60-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -1039,8 +1039,8 @@
 <LM>w#w-ln94206-60-p3s7w11</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-60-p3s7w12">
 <src.rf>manual</src.rf>
@@ -1715,8 +1715,8 @@
 <LM>w#w-ln94206-60-p3s12w1</LM>
 </w.rf>
 <form>Obžalovaný</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-60-p3s12w2">
 <src.rf>manual</src.rf>
@@ -1960,8 +1960,8 @@
 <LM>w#w-ln94206-60-p3s13w12</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-60-p3s13w13">
 <src.rf>manual</src.rf>

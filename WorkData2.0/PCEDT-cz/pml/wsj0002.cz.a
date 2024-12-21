@@ -60,10 +60,10 @@
 <afun>Atr</afun>
 <ord>7</ord>
 <children>
-<LM id="a-wsj0002-001-p1s0W10-Ta">
-<m.rf>m#m-wsj0002-001-p1s0W10-Ta</m.rf>
+<LM id="a-wsj0002-001-p1s0W11-Ta">
+<m.rf>m#m-wsj0002-001-p1s0W11-Ta</m.rf>
 <afun>Atr</afun>
-<ord>10</ord>
+<ord>11</ord>
 <children>
 <LM id="a-wsj0002-001-p1s0W8-Ta">
 <m.rf>m#m-wsj0002-001-p1s0W8-Ta</m.rf>
@@ -75,10 +75,10 @@
 <afun>Atr</afun>
 <ord>9</ord>
 </LM>
-<LM id="a-wsj0002-001-p1s0W11-Ta">
-<m.rf>m#m-wsj0002-001-p1s0W11-Ta</m.rf>
+<LM id="a-wsj0002-001-p1s0W10-Ta">
+<m.rf>m#m-wsj0002-001-p1s0W10-Ta</m.rf>
 <afun>Atr</afun>
-<ord>11</ord>
+<ord>10</ord>
 </LM>
 </children>
 </LM>
@@ -132,12 +132,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0002-001-p1s0W21-Ta">
 <m.rf>m#m-wsj0002-001-p1s0W21-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>21</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

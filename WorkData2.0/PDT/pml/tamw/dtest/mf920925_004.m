@@ -37,8 +37,8 @@
 <LM>w#w-mf920925-004-p1s1w3</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-004-p1s1w4">
 <src.rf>manual</src.rf>
@@ -511,8 +511,8 @@
 <LM>w#w-mf920925-004-p2s3w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-004-p2s3w18">
 <src.rf>manual</src.rf>
@@ -738,8 +738,8 @@
 <LM>w#w-mf920925-004-p2s4w18</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-004-p2s4w19">
 <src.rf>manual</src.rf>

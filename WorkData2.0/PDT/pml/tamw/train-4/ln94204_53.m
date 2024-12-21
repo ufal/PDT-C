@@ -468,8 +468,8 @@
 <LM>w#w-ln94204-53-p2s2w3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-53-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-53-p4s2w6">
 <src.rf>manual</src.rf>
@@ -2234,8 +2234,8 @@
 <LM>w#w-ln94204-53-p4s5w22</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-53-p4s5w23">
 <src.rf>manual</src.rf>

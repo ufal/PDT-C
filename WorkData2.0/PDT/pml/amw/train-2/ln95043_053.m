@@ -1611,7 +1611,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-053-p3s2w3">
 <src.rf>manual</src.rf>
@@ -2072,7 +2072,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-053-p3s3w28">
 <src.rf>manual</src.rf>
@@ -3972,8 +3972,8 @@
 <LM>w#w-ln95043-053-p4s4w17</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95043-053-p4s4w18">
 <src.rf>manual</src.rf>
@@ -4270,7 +4270,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-053-p4s4w51">
 <src.rf>manual</src.rf>
@@ -4573,7 +4573,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-053-p4s7w5">
 <src.rf>manual</src.rf>
@@ -5563,7 +5563,7 @@
 <LM>w#w-ln95043-053-p5s4w5</LM>
 </w.rf>
 <form>zjednodušené</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AAFS3----1A----</tag>
 </m>
 <m id="m-ln95043-053-p5s4w6">
@@ -7693,7 +7693,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-053-p6s2w16">
 <src.rf>manual</src.rf>
@@ -8734,7 +8734,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-053-p6s5w19">
 <src.rf>manual</src.rf>

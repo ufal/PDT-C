@@ -264,8 +264,8 @@
 <LM>w#w-vesm9212-041-p2s1w25</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9212-041-p2s1w26">
 <src.rf>manual</src.rf>
@@ -1682,8 +1682,8 @@
 <LM>w#w-vesm9212-041-p5s1w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-041-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2405,8 +2405,8 @@
 <LM>w#w-vesm9212-041-p5s2w5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-041-p5s2w6">
 <src.rf>manual</src.rf>
@@ -3278,7 +3278,7 @@
 <LM>w#w-vesm9212-041-p6s3w10</LM>
 </w.rf>
 <form>Israelité</form>
-<lemma>Israelita_;E</lemma>
+<lemma>israelita_,s_^(^DD**izraelita)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9212-041-p6s3w11">
@@ -4249,7 +4249,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-041-p8s3w2">
 <src.rf>manual</src.rf>
@@ -6208,7 +6208,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-041-p11s4w3">
 <src.rf>manual</src.rf>

@@ -1336,7 +1336,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-ln94205-142-p4s4w10">
 <src.rf>manual</src.rf>
@@ -1508,8 +1508,8 @@
 <LM>w#w-ln94205-142-p4s5w18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-142-p4s5w19">
 <src.rf>manual</src.rf>

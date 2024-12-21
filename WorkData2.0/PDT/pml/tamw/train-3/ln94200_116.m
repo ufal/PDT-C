@@ -150,7 +150,7 @@
 </w.rf>
 <form>Beriši</form>
 <lemma>Beriša_;Y</lemma>
-<tag>NNMS2-----A---1</tag>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-116-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-ln94200-116-p2s1Bw14</LM>
 </w.rf>
 <form>napjatých</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIP6----1A----</tag>
 </m>
 <m id="m-ln94200-116-p2s1Bw15">
@@ -1021,8 +1021,8 @@
 <LM>w#w-ln94200-116-p2s5w1</LM>
 </w.rf>
 <form>Obvinění</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94200-116-p2s5w2">
 <src.rf>manual</src.rf>

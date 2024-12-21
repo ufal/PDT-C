@@ -476,7 +476,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-012-p2s2w18">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-mf930713-012-p2s4w49</LM>
 </w.rf>
 <form>plejboji</form>
-<lemma>plejboj</lemma>
+<lemma>plejboj_,h_^(^GC**playboy)</lemma>
 <tag>NNMP7-----A----</tag>
 </m>
 <m id="m-mf930713-012-p2s4w50">
@@ -1770,8 +1770,8 @@
 <LM>w#w-mf930713-012-p2s7w20</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-012-p2s7w21">
 <src.rf>manual</src.rf>
@@ -1935,7 +1935,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-012-p2s8w5">
 <src.rf>manual</src.rf>
@@ -2153,7 +2153,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-012-p2s9w20">
 <src.rf>manual</src.rf>

@@ -194,7 +194,7 @@
 <LM>w#w-vesm9301-028-p2s2w2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-028-p2s2w3">
@@ -2659,7 +2659,7 @@
 <LM>w#w-vesm9301-028-p4s6w7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-028-p4s6w8">
@@ -3870,7 +3870,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9301-028-p6s1w14">
 <src.rf>manual</src.rf>
@@ -3960,7 +3960,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-028-p6s1w24">
 <src.rf>manual</src.rf>
@@ -8375,8 +8375,8 @@
 <LM>w#w-vesm9301-028-p13s5w11</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-028-p13s5w12">
 <src.rf>manual</src.rf>

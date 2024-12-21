@@ -677,7 +677,7 @@
 <LM>w#w-ln95042-079-p2s4w11</LM>
 </w.rf>
 <form>dohodovacích</form>
-<lemma>dohodovací_^(*2t)</lemma>
+<lemma>dohodovací_^(*2t)_(*2t-2)</lemma>
 <tag>AANP6----1A----</tag>
 </m>
 <m id="m-ln95042-079-p2s4w12">
@@ -815,7 +815,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-079-p2s5w5">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-079-p2s6w11">
 <src.rf>manual</src.rf>

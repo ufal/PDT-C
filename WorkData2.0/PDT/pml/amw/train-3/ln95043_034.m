@@ -632,8 +632,8 @@
 <LM>w#w-ln95043-034-p3s1w1</LM>
 </w.rf>
 <form>Následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-034-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1267,8 +1267,8 @@
 <LM>w#w-ln95043-034-p3s3w19</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-034-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1690,7 +1690,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-034-p4s4w5">
 <src.rf>manual</src.rf>
@@ -2125,8 +2125,8 @@
 <LM>w#w-ln95043-034-p5s2w21</LM>
 </w.rf>
 <form>přítomní</form>
-<lemma>přítomný</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>přítomný-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95043-034-p5s2w22">
 <src.rf>manual</src.rf>
@@ -2579,7 +2579,7 @@
 <LM>w#w-ln95043-034-p5s4w15</LM>
 </w.rf>
 <form>Hloušková</form>
-<lemma>Hloušková_;Y</lemma>
+<lemma>Hloušková_;Y_^(*3a)</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-034-p5s4w16">

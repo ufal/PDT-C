@@ -1985,7 +1985,7 @@
 </w.rf>
 <form>Linusovi</form>
 <lemma>Linus-2_;Y</lemma>
-<tag>NNMS3-----A---1</tag>
+<tag>NNMS6-----A---1</tag>
 </m>
 <m id="m-wsj1193-001-p1s12W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2023,7 +2023,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1193-001-p1s13W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3094,8 +3094,8 @@
 <LM>w#w-wsj1193-001-p1s18W18</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1193-001-p1s18W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3452,7 +3452,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-wsj1193-001-p1s21W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3696,7 +3696,7 @@
 <LM>w#w-wsj1193-001-p1s22W15</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj1193-001-p1s22W16-Ta">
@@ -3852,7 +3852,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1193-001-p1s23W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6927,7 +6927,7 @@
 </w.rf>
 <form>rozdá</form>
 <lemma>rozdat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-wsj1193-001-p1s38W6-Ta">
 <src.rf>tagger-a</src.rf>

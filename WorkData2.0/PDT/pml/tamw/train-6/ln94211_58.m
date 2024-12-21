@@ -567,8 +567,8 @@
 <LM>w#w-ln94211-58-p2s2w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-58-p2s2w20">
 <src.rf>manual</src.rf>
@@ -913,8 +913,8 @@
 <LM>w#w-ln94211-58-p2s4w9</LM>
 </w.rf>
 <form>uprostřed</form>
-<lemma>uprostřed-1</lemma>
-<tag>Db-------------</tag>
+<lemma>uprostřed-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94211-58-p2s4w10">
 <src.rf>manual</src.rf>

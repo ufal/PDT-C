@@ -347,7 +347,7 @@
 <LM>w#w-ln95042-015-p2s2w14</LM>
 </w.rf>
 <form>mnohaletý</form>
-<lemma>mnohaletý</lemma>
+<lemma>mnohaletý_,s_^(^DD**mnoholetý)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-ln95042-015-p2s2w15">
@@ -1205,8 +1205,8 @@
 <LM>w#w-ln95042-015-p2s6w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-015-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1214,8 +1214,8 @@
 <LM>w#w-ln95042-015-p2s6w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-015-p2s6w3">
 <src.rf>manual</src.rf>
@@ -2066,8 +2066,8 @@
 <LM>w#w-ln95042-015-p2s9Aw28</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95042-015-p2s9Aw29">
 <src.rf>manual</src.rf>
@@ -3365,7 +3365,7 @@
 <LM>w#w-ln95042-015-p2s13Bw36</LM>
 </w.rf>
 <form>eufonii</form>
-<lemma>eufonie</lemma>
+<lemma>eufonie_,s_^(^DD**eufónie)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-ln95042-015-p2s13Bw37">
@@ -4032,7 +4032,7 @@
 <LM>w#w-ln95042-015-p2s18w3</LM>
 </w.rf>
 <form>dotekem</form>
-<lemma>dotek</lemma>
+<lemma>dotek_,s_^(^DD**dotyk)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-ln95042-015-p2s18w4">
@@ -4286,8 +4286,8 @@
 <LM>w#w-ln95042-015-p2s19w2</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95042-015-p2s19w3">
 <src.rf>manual</src.rf>
@@ -6828,8 +6828,8 @@
 <LM>w#w-ln95042-015-p2s29w21</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 </s>
 </mdata>

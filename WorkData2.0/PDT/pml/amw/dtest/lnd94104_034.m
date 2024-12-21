@@ -765,8 +765,8 @@
 <LM>w#w-lnd94104-034-p1s4w36</LM>
 </w.rf>
 <form>statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP1----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP1---------1</tag>
 </m>
 <m id="m-lnd94104-034-p1s4w37">
 <src.rf>manual</src.rf>
@@ -1327,8 +1327,8 @@
 <LM>w#w-lnd94104-034-p1s6w7</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-034-p1s6w8">
 <src.rf>manual</src.rf>
@@ -1491,7 +1491,7 @@
 <LM>w#w-lnd94104-034-p1s7w8</LM>
 </w.rf>
 <form>podpisovat</form>
-<lemma>podpisovat</lemma>
+<lemma>podpisovat_,s_^(^DD**podepisovat)</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94104-034-p1s7w9">

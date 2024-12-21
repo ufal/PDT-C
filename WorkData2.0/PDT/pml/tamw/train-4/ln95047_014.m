@@ -296,7 +296,7 @@
 </w.rf>
 <form>reaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95047-014-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1159,7 +1159,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95047-014-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1356,8 +1356,8 @@
 <LM>w#w-ln95047-014-p4s2w34</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-014-p4s2w35">
 <src.rf>manual</src.rf>

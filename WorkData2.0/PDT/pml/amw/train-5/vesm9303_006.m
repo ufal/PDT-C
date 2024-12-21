@@ -2731,7 +2731,7 @@
 <LM>w#w-vesm9303-006-p5s2w6</LM>
 </w.rf>
 <form>zjednodušené</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9303-006-p5s2w7">
@@ -4442,7 +4442,7 @@
 <LM>w#w-vesm9303-006-p6s2w15</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-vesm9303-006-p6s2w16">

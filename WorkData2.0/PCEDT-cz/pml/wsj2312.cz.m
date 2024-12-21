@@ -421,7 +421,7 @@
 </w.rf>
 <form>účastí</form>
 <lemma>účast</lemma>
-<tag>NNFP2-----A----</tag>
+<tag>NNFS7-----A----</tag>
 </m>
 <m id="m-wsj2312-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>

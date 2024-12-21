@@ -28,8 +28,8 @@
 <LM>w#w-lnd94104-111-p1s1w2</LM>
 </w.rf>
 <form>ad</form>
-<lemma>ad-1_^(a_další)</lemma>
-<tag>BAXXX----1A----</tag>
+<lemma>ad-2</lemma>
+<tag>RR--1----------</tag>
 </m>
 <m id="m-lnd94104-111-p1s1w3">
 <src.rf>manual</src.rf>

@@ -2493,7 +2493,7 @@
 </w.rf>
 <form>cizinci</form>
 <lemma>cizinec</lemma>
-<tag>NNMP7-----A----</tag>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj0583-001-p1s8W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4199,7 +4199,7 @@
 </w.rf>
 <form>reagovaly</form>
 <lemma>reagovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-wsj0583-001-p1s15W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7627,7 +7627,7 @@
 </w.rf>
 <form>zachová</form>
 <lemma>zachovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-wsj0583-001-p1s28W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8860,8 +8860,8 @@
 <LM>w#w-wsj0583-001-p1s32W27</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0583-001-p1s32W28-Ta">
 <src.rf>tagger-a</src.rf>

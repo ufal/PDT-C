@@ -284,7 +284,7 @@
 <LM>w#w-lnd94104-028-p1s3w16</LM>
 </w.rf>
 <form>persekuce</form>
-<lemma>persekuce</lemma>
+<lemma>persekuce_,s_^(^DD**perzekuce)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-028-p1s3w17">
@@ -1084,7 +1084,7 @@
 <LM>w#w-lnd94104-028-p1s7w3</LM>
 </w.rf>
 <form>persekuce</form>
-<lemma>persekuce</lemma>
+<lemma>persekuce_,s_^(^DD**perzekuce)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-028-p1s7w4">

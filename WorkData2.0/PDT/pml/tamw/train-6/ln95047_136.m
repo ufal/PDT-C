@@ -1214,8 +1214,8 @@
 <LM>w#w-ln95047-136-p5s2w11</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-136-p5s2w12">
 <src.rf>manual</src.rf>

@@ -419,7 +419,7 @@
 <LM>w#w-ln94200-14-p3s1w2</LM>
 </w.rf>
 <form>laděný</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-ln94200-14-p3s1w3">

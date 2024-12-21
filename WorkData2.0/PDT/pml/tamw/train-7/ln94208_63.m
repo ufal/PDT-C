@@ -1220,8 +1220,8 @@
 <LM>w#w-ln94208-63-p3s2w22</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-63-p3s2w23">
 <src.rf>manual</src.rf>
@@ -1485,8 +1485,8 @@
 <LM>w#w-ln94208-63-p3s4w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-63-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1658,8 +1658,8 @@
 <LM>w#w-ln94208-63-p3s5w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-63-p3s5w3">
 <src.rf>manual</src.rf>

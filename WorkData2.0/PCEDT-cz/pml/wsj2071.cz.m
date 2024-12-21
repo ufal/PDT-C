@@ -460,7 +460,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2071-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1385,7 +1385,7 @@
 </w.rf>
 <form>Claře</form>
 <lemma>Clara_;G_;Y</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj2071-001-p1s4W21-Ta">
 <src.rf>tagger-a</src.rf>

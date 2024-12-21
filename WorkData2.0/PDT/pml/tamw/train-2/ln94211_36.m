@@ -46,8 +46,8 @@
 <LM>w#w-ln94211-36-p1s1w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-36-p1s1w5">
 <src.rf>manual</src.rf>
@@ -758,8 +758,8 @@
 <LM>w#w-ln94211-36-p3s2w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-36-p3s2w11">
 <src.rf>manual</src.rf>
@@ -2065,7 +2065,7 @@
 <LM>w#w-ln94211-36-p5s4w6</LM>
 </w.rf>
 <form>Lobkowicz</form>
-<lemma>Lobkowicz_;Y</lemma>
+<lemma>Lobkowicz_;Y_,s_^(^DD**Lobkovic)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-36-p5s4w7">

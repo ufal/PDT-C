@@ -1094,8 +1094,8 @@
 <LM>w#w-ln94208-133-p3s4w24</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-133-p3s4w25">
 <src.rf>manual</src.rf>
@@ -1214,7 +1214,7 @@
 </w.rf>
 <form>kontaktovalo</form>
 <lemma>kontaktovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-ln94208-133-p4s1w12">
 <src.rf>manual</src.rf>

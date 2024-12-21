@@ -87,7 +87,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--6----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-mf920924-003-p3s1w5">
 <src.rf>manual</src.rf>
@@ -114,7 +114,7 @@
 </w.rf>
 <form>neděli</form>
 <lemma>neděle</lemma>
-<tag>NNFS6-----A----</tag>
+<tag>NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-003-p3s1w8">
 <src.rf>manual</src.rf>
@@ -957,8 +957,8 @@
 <LM>w#w-mf920924-003-p3s9w1</LM>
 </w.rf>
 <form>Co</form>
-<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
-<tag>J,-------------</tag>
+<lemma>co-1</lemma>
+<tag>PQ--1----------</tag>
 </m>
 <m id="m-mf920924-003-p3s9w2">
 <src.rf>manual</src.rf>

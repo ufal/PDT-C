@@ -94,13 +94,13 @@
 <children>
 <LM id="a-mf920901-112-p2s1w1">
 <m.rf>m#m-mf920901-112-p2s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920901-112-p2s1w2">
 <m.rf>m#m-mf920901-112-p2s1w2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -597,7 +597,7 @@
 <children>
 <LM id="a-mf920901-112-p3s2w8">
 <m.rf>m#m-mf920901-112-p3s2w8</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -696,10 +696,10 @@
 <s.rf>m#m-mf920901-112-p4s1</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-mf920901-112-p4s1w12">
-<m.rf>m#m-mf920901-112-p4s1w12</m.rf>
+<LM id="a-mf920901-112-p4s1w21">
+<m.rf>m#m-mf920901-112-p4s1w21</m.rf>
 <afun>Pred</afun>
-<ord>12</ord>
+<ord>21</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920901-112-p4s1w2">
@@ -784,16 +784,16 @@
 </LM>
 </children>
 </LM>
+<LM id="a-mf920901-112-p4s1w12">
+<m.rf>m#m-mf920901-112-p4s1w12</m.rf>
+<afun>AuxV</afun>
+<ord>12</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-mf920901-112-p4s1w14">
 <m.rf>m#m-mf920901-112-p4s1w14</m.rf>
 <afun>AuxP</afun>
 <ord>14</ord>
-<clause_number>1</clause_number>
-<children>
-<LM id="a-mf920901-112-p4s1w16">
-<m.rf>m#m-mf920901-112-p4s1w16</m.rf>
-<afun>Adv</afun>
-<ord>16</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920901-112-p4s1w13">
@@ -802,6 +802,12 @@
 <ord>13</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-mf920901-112-p4s1w16">
+<m.rf>m#m-mf920901-112-p4s1w16</m.rf>
+<afun>Adv</afun>
+<ord>16</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-mf920901-112-p4s1w15">
 <m.rf>m#m-mf920901-112-p4s1w15</m.rf>
 <afun>Atr</afun>
@@ -842,12 +848,6 @@
 </LM>
 </children>
 </LM>
-<LM id="a-mf920901-112-p4s1w21">
-<m.rf>m#m-mf920901-112-p4s1w21</m.rf>
-<afun>Pnom</afun>
-<ord>21</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-mf920901-112-p4s1w23">
 <m.rf>m#m-mf920901-112-p4s1w23</m.rf>
 <afun>Obj</afun>
@@ -859,8 +859,6 @@
 <afun>Atr</afun>
 <ord>22</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -958,7 +956,7 @@
 <children>
 <LM id="a-mf920901-112-p5s1w11">
 <m.rf>m#m-mf920901-112-p5s1w11</m.rf>
-<afun>AuxZ</afun>
+<afun>Atr</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1091,7 +1089,7 @@
 <children>
 <LM id="a-mf920901-112-p6s1w5">
 <m.rf>m#m-mf920901-112-p6s1w5</m.rf>
-<afun>AuxZ</afun>
+<afun>Atr</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>

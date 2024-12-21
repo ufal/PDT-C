@@ -296,7 +296,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1227-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-wsj1227-001-p1s2W32</LM>
 </w.rf>
 <form>zjednodušení</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-wsj1227-001-p1s2W33-Ta">
@@ -1095,7 +1095,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1227-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

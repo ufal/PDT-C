@@ -68,7 +68,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95040-136-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-ln95040-136-p4s2w13</LM>
 </w.rf>
 <form>sehnali</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-136-p4s2w14">
@@ -1065,8 +1065,8 @@
 <LM>w#w-ln95040-136-p4s3w2</LM>
 </w.rf>
 <form>obžalovaný</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-136-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1182,8 +1182,8 @@
 <LM>w#w-ln95040-136-p4s3w15</LM>
 </w.rf>
 <form>obviněné</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP4----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-ln95040-136-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1227,7 +1227,7 @@
 <LM>w#w-ln95040-136-p4s3w20</LM>
 </w.rf>
 <form>vybuchne</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95040-136-p4s3w21">

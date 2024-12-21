@@ -972,8 +972,8 @@
 <LM>w#w-ln95047-033-p2s3w43</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-033-p2s3w44">
 <src.rf>manual</src.rf>
@@ -1347,8 +1347,8 @@
 <LM>w#w-ln95047-033-p2s6w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-033-p2s6w3">
 <src.rf>manual</src.rf>

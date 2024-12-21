@@ -1057,8 +1057,8 @@
 <LM>w#w-wsj2099-001-p1s3W12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj2099-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>

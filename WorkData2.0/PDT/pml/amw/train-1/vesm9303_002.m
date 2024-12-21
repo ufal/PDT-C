@@ -3245,7 +3245,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-002-p5s2w4">
 <src.rf>manual</src.rf>
@@ -4466,7 +4466,7 @@
 <LM>w#w-vesm9303-002-p7s1w15</LM>
 </w.rf>
 <form>neeukleidovských</form>
-<lemma>eukleidovský</lemma>
+<lemma>eukleidovský_,s_^(^DD**euklidovský)</lemma>
 <tag>AAIP6----1N----</tag>
 </m>
 <m id="m-vesm9303-002-p7s1w16">

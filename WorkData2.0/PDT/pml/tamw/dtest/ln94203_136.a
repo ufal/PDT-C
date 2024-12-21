@@ -64,7 +64,7 @@
 <children>
 <LM id="a-ln94203-136-p2s1Aw2">
 <m.rf>m#m-ln94203-136-p2s1Aw2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -76,7 +76,7 @@
 </LM>
 <LM id="a-ln94203-136-p2s1Aw3">
 <m.rf>m#m-ln94203-136-p2s1Aw3</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -134,10 +134,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-ln94203-136-p2s1Bw7">
 <m.rf>m#m-ln94203-136-p2s1Bw7</m.rf>
 <afun>AuxP</afun>
@@ -167,6 +163,10 @@
 <afun>Atr</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -258,7 +258,7 @@
 <children>
 <LM id="a-ln94203-136-p2s1Bw23">
 <m.rf>m#m-ln94203-136-p2s1Bw23</m.rf>
-<afun>Adv</afun>
+<afun>AuxY</afun>
 <ord>23</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -332,7 +332,7 @@
 </LM>
 <LM id="a-ln94203-136-p3s1w9">
 <m.rf>m#m-ln94203-136-p3s1w9</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -536,7 +536,8 @@
 </LM>
 <LM id="a-ln94203-136-p3s3w15">
 <m.rf>m#m-ln94203-136-p3s3w15</m.rf>
-<afun>Pnom</afun>
+<afun>Atr</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>15</ord>
 <clause_number>1</clause_number>
 <children>
@@ -554,9 +555,12 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-ln94203-136-p3s3w27">
 <m.rf>m#m-ln94203-136-p3s3w27</m.rf>
-<afun>Adv</afun>
+<afun>Atr</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>27</ord>
 <clause_number>3</clause_number>
 <children>
@@ -624,8 +628,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94203-136-p3s3w28">
 <m.rf>m#m-ln94203-136-p3s3w28</m.rf>
 <afun>AuxK</afun>
@@ -674,13 +676,13 @@
 <children>
 <LM id="a-ln94203-136-p4s1w5">
 <m.rf>m#m-ln94203-136-p4s1w5</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94203-136-p4s1w6">
 <m.rf>m#m-ln94203-136-p4s1w6</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>

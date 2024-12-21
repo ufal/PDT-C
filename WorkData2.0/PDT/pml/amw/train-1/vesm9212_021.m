@@ -1212,7 +1212,7 @@
 <LM>w#w-vesm9212-021-p5s2w9</LM>
 </w.rf>
 <form>gigantománii</form>
-<lemma>gigantománie_,s_^(^DD**gigantomanie)</lemma>
+<lemma>gigantománie</lemma>
 <tag>NNFS3-----A----</tag>
 </m>
 <m id="m-vesm9212-021-p5s2w10">
@@ -5480,8 +5480,8 @@
 <LM>w#w-vesm9212-021-p6s1w20</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-021-p6s1w21">
 <src.rf>manual</src.rf>

@@ -477,7 +477,7 @@
 <LM>w#w-wsj1854-001-p1s1W30</LM>
 </w.rf>
 <form>hypotéčních</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAMP2----1A----</tag>
 </m>
 <m id="m-wsj1854-001-p1s1W31-Ta">
@@ -1258,7 +1258,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1854-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1412,8 +1412,8 @@
 <LM>w#w-wsj1854-001-p1s5W7</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1854-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2422,8 +2422,8 @@
 <LM>w#w-wsj1854-001-p1s7W26</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1854-001-p1s7W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5079,7 +5079,7 @@
 <LM>w#w-wsj1854-001-p1s18W7</LM>
 </w.rf>
 <form>hypotéčních</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAMP2----1A----</tag>
 </m>
 <m id="m-wsj1854-001-p1s18W8-Ta">
@@ -5608,7 +5608,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1854-001-p1s20W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6584,8 +6584,8 @@
 <LM>w#w-wsj1854-001-p1s25W20</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1854-001-p1s25W21-Ta">
 <src.rf>tagger-a</src.rf>

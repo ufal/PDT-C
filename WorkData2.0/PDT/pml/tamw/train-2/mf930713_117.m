@@ -669,8 +669,8 @@
 <LM>w#w-mf930713-117-p2s4w8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-117-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1473,8 +1473,8 @@
 <LM>w#w-mf930713-117-p4s1w10</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-mf930713-117-p4s1w11">
 <src.rf>manual</src.rf>

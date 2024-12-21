@@ -2271,7 +2271,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-041-p8s3w2">
 <src.rf>manual</src.rf>
@@ -4880,7 +4880,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-041-p16s1w31">
 <src.rf>manual</src.rf>
@@ -6359,7 +6359,7 @@
 <LM>w#w-vesm9301-041-p17s4w6</LM>
 </w.rf>
 <form>vlákenky</form>
-<lemma>vlákenko</lemma>
+<lemma>vlákenko_,s_^(^DD**vlákénko)</lemma>
 <tag>NNNP7-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p17s4w7">
@@ -7201,7 +7201,7 @@
 <LM>w#w-vesm9301-041-p20s1w14</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-vesm9301-041-p20s1w15">

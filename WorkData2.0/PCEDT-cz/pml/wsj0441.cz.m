@@ -913,7 +913,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0441-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2719,7 +2719,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0441-001-p1s9W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3951,7 +3951,7 @@
 </w.rf>
 <form>citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0441-001-p1s13W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4141,8 +4141,8 @@
 <LM>w#w-wsj0441-001-p1s14W2</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0441-001-p1s14W3-Ta">
 <src.rf>tagger-a</src.rf>

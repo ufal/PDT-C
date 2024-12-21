@@ -83,7 +83,7 @@
 </w.rf>
 <form>referují</form>
 <lemma>referovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf930713-156-p1s1w9">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-mf930713-156-p2s1Bw8</LM>
 </w.rf>
 <form>abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-mf930713-156-p2s1Bw9">
@@ -296,7 +296,7 @@
 <LM>w#w-mf930713-156-p2s2w5</LM>
 </w.rf>
 <form>abchazským</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAFP3----1A----</tag>
 </m>
 <m id="m-mf930713-156-p2s2w6">
@@ -395,7 +395,7 @@
 <LM>w#w-mf930713-156-p2s2w16</LM>
 </w.rf>
 <form>abchazská</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-mf930713-156-p2s2w17">
@@ -449,8 +449,8 @@
 <LM>w#w-mf930713-156-p2s2w22</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-156-p2s2w23">
 <src.rf>manual</src.rf>
@@ -602,8 +602,8 @@
 <LM>w#w-mf930713-156-p2s2w39</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-156-p2s2w40">
 <src.rf>manual</src.rf>
@@ -611,8 +611,8 @@
 <LM>w#w-mf930713-156-p2s2w40</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-156-p2s2w41">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-156-p4s1w3">
 <src.rf>manual</src.rf>
@@ -984,8 +984,8 @@
 <LM>w#w-mf930713-156-p4s1w6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-156-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 <LM>w#w-mf930713-156-p4s1w10</LM>
 </w.rf>
 <form>abchazský</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-mf930713-156-p4s1w11">
@@ -1121,8 +1121,8 @@
 <LM>w#w-mf930713-156-p4s2w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-156-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1366,7 +1366,7 @@
 <LM>w#w-mf930713-156-p4s3w1</LM>
 </w.rf>
 <form>Abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-mf930713-156-p4s3w2">
@@ -1719,7 +1719,7 @@
 <LM>w#w-mf930713-156-p5s1w24</LM>
 </w.rf>
 <form>abchazskému</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIS3----1A----</tag>
 </m>
 <m id="m-mf930713-156-p5s1w25">
@@ -1784,8 +1784,8 @@
 <LM>w#w-mf930713-156-p5s2w5</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-156-p5s2w6">
 <src.rf>manual</src.rf>

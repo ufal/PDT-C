@@ -946,7 +946,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1902-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1164,7 +1164,7 @@
 </w.rf>
 <form>Jak</form>
 <lemma>jak-2</lemma>
-<tag>J^-------------</tag>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj1902-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>

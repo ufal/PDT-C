@@ -358,7 +358,7 @@
 <LM>w#w-mf920901-104-p2s2w23</LM>
 </w.rf>
 <form>nehájil</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf920901-104-p2s2w24">

@@ -138,7 +138,7 @@
 <LM>w#w-mf920923-062-p2s1w9</LM>
 </w.rf>
 <form>BOMBERA</form>
-<lemma>bomber_,h</lemma>
+<lemma>bomber_,l_^(fotbalista)_(^DD**bombér)</lemma>
 <tag>NNMS4-----A----</tag>
 </m>
 <m id="m-mf920923-062-p2s1w10">
@@ -2799,7 +2799,7 @@
 <LM>w#w-mf920923-062-p12s1w9</LM>
 </w.rf>
 <form>nesundaváte</form>
-<lemma>sundavat</lemma>
+<lemma>sundavat_,s_^(^DD**sundávat)</lemma>
 <tag>VB-P---2P-NAI--</tag>
 </m>
 <m id="m-mf920923-062-p12s1w10">

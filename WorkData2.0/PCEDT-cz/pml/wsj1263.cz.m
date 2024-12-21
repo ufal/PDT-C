@@ -3697,7 +3697,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj1263-001-p1s17W32-Ta">
 <src.rf>tagger-a</src.rf>

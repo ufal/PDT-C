@@ -470,8 +470,8 @@
 <LM>w#w-mf920925-100-p4s2w34</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-100-p4s2w35">
 <src.rf>manual</src.rf>

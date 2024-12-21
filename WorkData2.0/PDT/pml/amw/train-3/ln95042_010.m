@@ -1357,7 +1357,7 @@
 </w.rf>
 <form>chroptění</form>
 <lemma>chroptění_^(*2t)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS2-----A----</tag>
 </m>
 <m id="m-ln95042-010-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1839,8 +1839,8 @@
 <LM>w#w-ln95042-010-p3s5w16</LM>
 </w.rf>
 <form>blízké</form>
-<lemma>blízký</lemma>
-<tag>AAMP4----1A----</tag>
+<lemma>blízký-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-ln95042-010-p3s5w17">
 <src.rf>manual</src.rf>
@@ -3573,8 +3573,8 @@
 <LM>w#w-ln95042-010-p6s4w3</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95042-010-p6s4w4">
 <src.rf>manual</src.rf>
@@ -4401,7 +4401,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-010-p8s1w3">
 <src.rf>manual</src.rf>

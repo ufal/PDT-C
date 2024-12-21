@@ -906,8 +906,8 @@
 <LM>w#w-mf920922-044-p1s7w1</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-044-p1s7w2">
 <src.rf>manual</src.rf>
@@ -1053,8 +1053,8 @@
 <LM>w#w-mf920922-044-p1s8w3</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-044-p1s8w4">
 <src.rf>manual</src.rf>
@@ -1471,8 +1471,8 @@
 <LM>w#w-mf920922-044-p1s10w6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-044-p1s10w7">
 <src.rf>manual</src.rf>
@@ -1545,8 +1545,8 @@
 <LM>w#w-mf920922-044-p1s11w6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-044-p1s11w7">
 <src.rf>manual</src.rf>
@@ -2421,8 +2421,8 @@
 <LM>w#w-mf920922-044-p1s17w15</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-044-p1s17w16">
 <src.rf>manual</src.rf>

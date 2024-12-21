@@ -676,7 +676,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln94205-61-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1539,7 +1539,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-61-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1765,8 +1765,8 @@
 <LM>w#w-ln94205-61-p4s4w19</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-61-p4s4w20">
 <src.rf>manual</src.rf>

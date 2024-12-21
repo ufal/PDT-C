@@ -882,8 +882,8 @@
 <LM>w#w-ln94206-13-p3s1w28</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-13-p3s1w29">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln94206-13-p4s2w16">
 <src.rf>manual</src.rf>

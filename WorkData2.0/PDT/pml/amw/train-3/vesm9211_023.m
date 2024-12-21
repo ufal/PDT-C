@@ -611,7 +611,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p3s2w27">
 <src.rf>manual</src.rf>
@@ -8681,7 +8681,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p14s3w20">
 <src.rf>manual</src.rf>
@@ -18197,7 +18197,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p39s2w15">
 <src.rf>manual</src.rf>
@@ -20476,7 +20476,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p40s4w4">
 <src.rf>manual</src.rf>
@@ -22919,7 +22919,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p45s2w15">
 <src.rf>manual</src.rf>
@@ -23101,7 +23101,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p45s3w11">
 <src.rf>manual</src.rf>
@@ -23319,7 +23319,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p45s4w5">
 <src.rf>manual</src.rf>
@@ -24600,7 +24600,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p46s5w3">
 <src.rf>manual</src.rf>
@@ -27276,7 +27276,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p50s4w4">
 <src.rf>manual</src.rf>
@@ -27485,7 +27485,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p51s1w5">
 <src.rf>manual</src.rf>
@@ -27714,7 +27714,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-023-p51s3w3">
 <src.rf>manual</src.rf>

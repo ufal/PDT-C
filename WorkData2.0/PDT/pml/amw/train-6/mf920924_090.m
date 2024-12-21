@@ -603,7 +603,7 @@
 <LM>w#w-mf920924-090-p2s4w11</LM>
 </w.rf>
 <form>plotýnku</form>
-<lemma>plotýnka</lemma>
+<lemma>plotýnka_,s_^(^DD**ploténka)</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-090-p2s4w12">

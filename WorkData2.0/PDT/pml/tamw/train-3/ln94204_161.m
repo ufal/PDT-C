@@ -56,7 +56,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-161-p1s1w6">
 <src.rf>manual</src.rf>
@@ -661,8 +661,8 @@
 <LM>w#w-ln94204-161-p3s1w13</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94204-161-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1447,8 +1447,8 @@
 <LM>w#w-ln94204-161-p5s2w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-161-p5s2w7">
 <src.rf>manual</src.rf>

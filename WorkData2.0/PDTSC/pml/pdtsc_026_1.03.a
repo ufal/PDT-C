@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_026_1.03.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="jg_026.03-SCzechA-jg_026-d1e1044-x2-root">
 <s.rf>m#m026-d1e1044-x2</s.rf>
@@ -32,12 +35,12 @@
 <afun>Sb</afun>
 <ord>4</ord>
 </LM>
-</children>
-</LM>
 <LM id="jg_026.03-SCzechA-m-d-id87030-punct">
 <m.rf>m#m026-d-id87030-punct</m.rf>
 <afun>AuxK</afun>
 <ord>5</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -65,12 +68,12 @@
 <afun>Sb</afun>
 <ord>4</ord>
 </LM>
-</children>
-</LM>
 <LM id="jg_026.03-SCzechA-m-d1e1048-x2-212">
 <m.rf>m#m026-d1e1048-x2-212</m.rf>
 <afun>AuxK</afun>
 <ord>5</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -136,12 +139,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="jg_026.03-SCzechA-m-213-216">
 <m.rf>m#m026-213-216</m.rf>
 <afun>AuxK</afun>
 <ord>11</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -186,7 +189,7 @@
 </LM>
 <LM id="jg_026.03-SCzechA-m-d1t1053-6">
 <m.rf>m#m026-d1t1053-6</m.rf>
-<afun>Adv</afun>
+<afun>AuxT</afun>
 <ord>5</ord>
 </LM>
 <LM id="jg_026.03-SCzechA-m-d1t1053-8">
@@ -239,12 +242,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="jg_026.03-SCzechA-m-d-m-d1e1048-x2-punct-punct">
 <m.rf>m#m026-d-m-d1e1048-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>16</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -274,12 +277,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="jg_026.03-SCzechA-m-d1e1054-x2-220">
 <m.rf>m#m026-d1e1054-x2-220</m.rf>
 <afun>AuxK</afun>
 <ord>5</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -314,12 +317,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="jg_026.03-SCzechA-m-d-m-d1e1054-x2-punct-punct">
 <m.rf>m#m026-d-m-d1e1054-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>6</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -347,12 +350,12 @@
 <afun>Pnom</afun>
 <ord>4</ord>
 </LM>
-</children>
-</LM>
 <LM id="jg_026.03-SCzechA-m-d-m-d1e1054-x3-punct-punct">
 <m.rf>m#m026-d-m-d1e1054-x3-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>5</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -401,12 +404,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="jg_026.03-SCzechA-m-d-id88011-punct">
 <m.rf>m#m026-d-id88011-punct</m.rf>
 <afun>AuxK</afun>
 <ord>8</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

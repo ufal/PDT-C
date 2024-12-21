@@ -826,8 +826,8 @@
 <LM>w#w-ln95049-092-p3s3w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-092-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1209,7 +1209,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95049-092-p3s5w22">
 <src.rf>manual</src.rf>
@@ -1217,8 +1217,8 @@
 <LM>w#w-ln95049-092-p3s5w22</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-092-p3s5w23">
 <src.rf>manual</src.rf>

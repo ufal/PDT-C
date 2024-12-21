@@ -1360,8 +1360,8 @@
 <LM>w#w-ln94206-76-p5s2w4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-76-p5s2w5">
 <src.rf>manual</src.rf>

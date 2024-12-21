@@ -902,8 +902,8 @@
 <LM>w#w-cmpr9406-026-p5s3w13</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-026-p5s3w14">
 <src.rf>manual</src.rf>

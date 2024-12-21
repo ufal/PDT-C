@@ -62,13 +62,13 @@
 <children>
 <LM id="a-ln94210-35-p2s1Aw1">
 <m.rf>m#m-ln94210-35-p2s1Aw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94210-35-p2s1Aw2">
 <m.rf>m#m-ln94210-35-p2s1Aw2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -285,6 +285,11 @@
 </children>
 </LM>
 </children>
+<comments>
+<LM type="Other">
+<text>špatný tvar</text>
+</LM>
+</comments>
 </LM>
 </children>
 </LM>
@@ -395,9 +400,7 @@
 <afun>Adv</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-ln94210-35-p2s2w14">
 <m.rf>m#m-ln94210-35-p2s2w14</m.rf>
 <afun>Atr</afun>
@@ -409,6 +412,10 @@
 <afun>Atr</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -500,7 +507,7 @@
 <children>
 <LM id="a-ln94210-35-p2s3w12">
 <m.rf>m#m-ln94210-35-p2s3w12</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -548,7 +555,7 @@
 </LM>
 <LM id="a-ln94210-35-p2s4w3">
 <m.rf>m#m-ln94210-35-p2s4w3</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -615,7 +622,7 @@
 </LM>
 <LM id="a-ln94210-35-p2s5w3">
 <m.rf>m#m-ln94210-35-p2s5w3</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -714,19 +721,17 @@
 <ord>20</ord>
 <clause_number>4</clause_number>
 <children>
-<LM id="a-ln94210-35-p2s5w21">
-<m.rf>m#m-ln94210-35-p2s5w21</m.rf>
-<afun>Adv</afun>
-<ord>21</ord>
-<clause_number>4</clause_number>
-<children>
 <LM id="a-ln94210-35-p2s5w19">
 <m.rf>m#m-ln94210-35-p2s5w19</m.rf>
 <afun>AuxZ</afun>
 <ord>19</ord>
 <clause_number>4</clause_number>
 </LM>
-</children>
+<LM id="a-ln94210-35-p2s5w21">
+<m.rf>m#m-ln94210-35-p2s5w21</m.rf>
+<afun>Adv</afun>
+<ord>21</ord>
+<clause_number>4</clause_number>
 </LM>
 </children>
 </LM>

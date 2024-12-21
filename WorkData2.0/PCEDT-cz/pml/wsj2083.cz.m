@@ -804,8 +804,8 @@
 <LM>w#w-wsj2083-001-p1s3W8</LM>
 </w.rf>
 <form>důsledkem</form>
-<lemma>důsledek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>důsledkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2083-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1988,8 +1988,8 @@
 <LM>w#w-wsj2083-001-p1s8W16</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj2083-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>

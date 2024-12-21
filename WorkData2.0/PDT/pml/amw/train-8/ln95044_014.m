@@ -1632,7 +1632,7 @@
 <LM>w#w-ln95044-014-p3s5w10</LM>
 </w.rf>
 <form>Jazzová</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-ln95044-014-p3s5w11">
@@ -1922,8 +1922,8 @@
 <LM>w#w-ln95044-014-p3s6w19</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-014-p3s6w20">
 <src.rf>manual</src.rf>

@@ -1285,7 +1285,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-014-p2s6Aw11">
 <src.rf>manual</src.rf>
@@ -1386,7 +1386,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95042-014-p2s6Bw6">
 <src.rf>manual</src.rf>
@@ -4525,7 +4525,7 @@
 </w.rf>
 <form>zachoval</form>
 <lemma>zachovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-014-p2s21w20">
 <src.rf>manual</src.rf>
@@ -5144,8 +5144,8 @@
 <LM>w#w-ln95042-014-p2s24w21</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-014-p2s24w22">
 <src.rf>manual</src.rf>

@@ -42,7 +42,7 @@
 <children>
 <LM id="a-cmpr9415-054-p2s1w5">
 <m.rf>m#m-cmpr9415-054-p2s1w5</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
@@ -101,7 +101,8 @@
 <children>
 <LM id="a-cmpr9415-054-p5s1w2">
 <m.rf>m#m-cmpr9415-054-p5s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -113,11 +114,14 @@
 </LM>
 <LM id="a-cmpr9415-054-p5s1w3">
 <m.rf>m#m-cmpr9415-054-p5s1w3</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 </children>
 </LM>

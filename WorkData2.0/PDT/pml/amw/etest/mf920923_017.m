@@ -2657,7 +2657,7 @@
 <LM>w#w-mf920923-017-p20s4w5</LM>
 </w.rf>
 <form>nejvypjatějších</form>
-<lemma>vypjatý</lemma>
+<lemma>vypjatý_,s_^(^DD**vypnutý)</lemma>
 <tag>AAIP2----3A----</tag>
 </m>
 <m id="m-mf920923-017-p20s4w6">
@@ -5880,7 +5880,7 @@
 </w.rf>
 <form>referovat</form>
 <lemma>referovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf920923-017-p25s1w32">
 <src.rf>manual</src.rf>

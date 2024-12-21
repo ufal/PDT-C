@@ -212,8 +212,8 @@
 <LM>w#w-ln95048-085-p2s1Bw17</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-085-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -448,8 +448,8 @@
 <LM>w#w-ln95048-085-p2s2w24</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-085-p2s2w25">
 <src.rf>manual</src.rf>
@@ -1393,7 +1393,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-085-p2s6w8">
 <src.rf>manual</src.rf>

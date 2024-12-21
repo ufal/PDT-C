@@ -597,7 +597,7 @@
 </w.rf>
 <form>sponzorovat</form>
 <lemma>sponzorovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd91301-022-p4s3w21">
 <src.rf>manual</src.rf>
@@ -897,8 +897,8 @@
 <LM>w#w-lnd91301-022-p4s5w16</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91301-022-p4s5w17">
 <src.rf>manual</src.rf>

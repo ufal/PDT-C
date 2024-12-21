@@ -706,7 +706,7 @@
 </w.rf>
 <form>zachována</form>
 <lemma>zachovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920922-036-p2s5w8">
 <src.rf>manual</src.rf>

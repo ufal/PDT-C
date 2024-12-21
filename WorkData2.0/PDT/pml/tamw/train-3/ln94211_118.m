@@ -540,8 +540,8 @@
 <LM>w#w-ln94211-118-p2s3w17</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-118-p2s3w18">
 <src.rf>manual</src.rf>
@@ -1061,8 +1061,8 @@
 <LM>w#w-ln94211-118-p4s2w7</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvlášť-2_,s_^(^DD**zvláště-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-118-p4s2w8">
 <src.rf>manual</src.rf>

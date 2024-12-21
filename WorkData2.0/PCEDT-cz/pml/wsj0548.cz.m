@@ -352,7 +352,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0548-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -162,8 +162,8 @@
 <LM>w#w-wsj1758-001-p1s1W12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1758-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -621,7 +621,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1758-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>

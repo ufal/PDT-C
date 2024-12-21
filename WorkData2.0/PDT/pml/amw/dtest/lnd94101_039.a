@@ -84,6 +84,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-lnd94101-039-p1s1w12">
 <m.rf>m#m-lnd94101-039-p1s1w12</m.rf>
 <afun>AuxC</afun>
@@ -181,8 +183,6 @@
 <afun>Atr</afun>
 <ord>24</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

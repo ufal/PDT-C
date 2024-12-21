@@ -505,7 +505,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-082-p3s1w4">
 <src.rf>manual</src.rf>

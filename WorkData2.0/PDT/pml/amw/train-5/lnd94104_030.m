@@ -91,7 +91,7 @@
 <LM>w#w-lnd94104-030-p1s1w9</LM>
 </w.rf>
 <form>napjatou</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-lnd94104-030-p1s1w10">

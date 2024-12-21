@@ -468,8 +468,8 @@
 <LM>w#w-mf920924-113-p2s3w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-113-p2s3w2">
 <src.rf>manual</src.rf>
@@ -2870,8 +2870,8 @@
 <LM>w#w-mf920924-113-p2s14w11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-113-p2s14w12">
 <src.rf>manual</src.rf>
@@ -3319,8 +3319,8 @@
 <LM>w#w-mf920924-113-p2s16Cw8</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920924-113-p2s16Cw9">
 <src.rf>manual</src.rf>

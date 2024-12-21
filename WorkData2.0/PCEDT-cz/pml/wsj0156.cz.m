@@ -70,8 +70,8 @@
 <LM>w#w-wsj0156-001-p1s0W7</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-1</lemma>
-<tag>PQ--1----------</tag>
+<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj0156-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -89,7 +89,7 @@
 </w.rf>
 <form>nalezení</form>
 <lemma>nalezení</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj0156-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1131,8 +1131,8 @@
 <LM>w#w-wsj0156-001-p1s4W3</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0156-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>

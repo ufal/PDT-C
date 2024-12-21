@@ -2673,7 +2673,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2128-001-p1s9W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2819,7 +2819,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2128-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>

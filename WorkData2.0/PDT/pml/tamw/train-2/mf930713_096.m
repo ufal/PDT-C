@@ -176,8 +176,8 @@
 <LM>w#w-mf930713-096-p2s1Bw13</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf930713-096-p2s1Bw14">
 <src.rf>manual</src.rf>

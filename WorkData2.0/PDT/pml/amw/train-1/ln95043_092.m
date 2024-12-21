@@ -477,8 +477,8 @@
 <LM>w#w-ln95043-092-p3s2w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95043-092-p3s2w3">
 <src.rf>manual</src.rf>

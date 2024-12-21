@@ -129,8 +129,8 @@
 <LM>w#w-cmpr9415-041-p3s1w11</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p3s1w12">
 <src.rf>manual</src.rf>
@@ -502,8 +502,8 @@
 <LM>w#w-cmpr9415-041-p3s3w12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p3s3w13">
 <src.rf>manual</src.rf>
@@ -785,8 +785,8 @@
 <LM>w#w-cmpr9415-041-p4s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p4s1w6">
 <src.rf>manual</src.rf>
@@ -920,7 +920,7 @@
 <LM>w#w-cmpr9415-041-p4s1w20</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p4s1w21">
@@ -1594,8 +1594,8 @@
 <LM>w#w-cmpr9415-041-p6s1w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2021,8 +2021,8 @@
 <LM>w#w-cmpr9415-041-p7s1w6</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p7s1w7">
 <src.rf>manual</src.rf>
@@ -3187,8 +3187,8 @@
 <LM>w#w-cmpr9415-041-p8s3w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p8s3w9">
 <src.rf>manual</src.rf>
@@ -3951,8 +3951,8 @@
 <LM>w#w-cmpr9415-041-p9s2w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p9s2w11">
 <src.rf>manual</src.rf>
@@ -4144,8 +4144,8 @@
 <LM>w#w-cmpr9415-041-p9s4w3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p9s4w4">
 <src.rf>manual</src.rf>

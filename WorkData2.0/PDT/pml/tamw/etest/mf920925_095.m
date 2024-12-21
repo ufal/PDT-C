@@ -316,7 +316,7 @@
 <LM>w#w-mf920925-095-p8s1w2</LM>
 </w.rf>
 <form>Imago</form>
-<lemma>imago</lemma>
+<lemma>imago_,s_^(^DD**imágo)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 </s>

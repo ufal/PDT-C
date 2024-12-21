@@ -287,7 +287,7 @@
 </w.rf>
 <form>říjnu</form>
 <lemma>říjen</lemma>
-<tag>NNIS6-----A----</tag>
+<tag>NNIS3-----A----</tag>
 </m>
 <m id="m-wsj2319-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>

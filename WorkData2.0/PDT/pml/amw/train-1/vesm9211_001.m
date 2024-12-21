@@ -6022,7 +6022,7 @@
 <LM>w#w-vesm9211-001-p14s2w22</LM>
 </w.rf>
 <form>skřínkou</form>
-<lemma>skřínka</lemma>
+<lemma>skřínka_,s_^(^DD**skříňka)</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="m-vesm9211-001-p14s2w23">
@@ -6211,7 +6211,7 @@
 <LM>w#w-vesm9211-001-p14s2w44</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-001-p14s2w45">
@@ -11656,7 +11656,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-001-p21s1w6">
 <src.rf>manual</src.rf>
@@ -14292,7 +14292,7 @@
 <LM>w#w-vesm9211-001-p25s4w53</LM>
 </w.rf>
 <form>nedozví</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-S---3P-NAP--</tag>
 </m>
 <m id="m-vesm9211-001-p25s4w54">
@@ -14411,7 +14411,7 @@
 <LM>w#w-vesm9211-001-p26s1w12</LM>
 </w.rf>
 <form>nedozví</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-S---3P-NAP--</tag>
 </m>
 <m id="m-vesm9211-001-p26s1w13">
@@ -18014,7 +18014,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-001-p42s3w6">
 <src.rf>manual</src.rf>

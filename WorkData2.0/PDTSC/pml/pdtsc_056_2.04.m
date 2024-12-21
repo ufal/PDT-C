@@ -1538,7 +1538,7 @@
 <LM>w#w-d1t1029-3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m106-d1t1029-4">
@@ -2435,7 +2435,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m106-d1t1084-2">
 <w.rf>
@@ -2508,8 +2508,8 @@
 <LM>w#w-d1t1088-2</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m106-d1t1088-3">
 <w.rf>
@@ -2686,8 +2686,8 @@
 <LM>w#w-d1t1094-19</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m106-d1t1094-20">
 <w.rf>

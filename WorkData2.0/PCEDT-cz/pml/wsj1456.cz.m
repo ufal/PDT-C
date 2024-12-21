@@ -97,8 +97,8 @@
 <LM>w#w-wsj1456-001-p1s0W10</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj1456-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -106,8 +106,8 @@
 <LM>w#w-wsj1456-001-p1s0W11</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1456-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1301,8 +1301,8 @@
 <LM>w#w-wsj1456-001-p1s5W10</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1456-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2749,8 +2749,8 @@
 <LM>w#w-wsj1456-001-p1s11W19</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1456-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>

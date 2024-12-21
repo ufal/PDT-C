@@ -1448,7 +1448,7 @@
 <LM>w#w-vesm9212-051-p3s5w6</LM>
 </w.rf>
 <form>šíři</form>
-<lemma>šíř_^(jeden_z_rozměrů)</lemma>
+<lemma>šíře_^(jeden_z_rozměrů)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9212-051-p3s5w7">

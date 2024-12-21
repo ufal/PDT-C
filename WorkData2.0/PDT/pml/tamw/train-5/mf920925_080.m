@@ -780,8 +780,8 @@
 <LM>w#w-mf920925-080-p3s1Aw7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-080-p3s1Aw8">
 <src.rf>manual</src.rf>
@@ -1061,8 +1061,8 @@
 <LM>w#w-mf920925-080-p3s1Bw6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-080-p3s1Bw7">
 <src.rf>manual</src.rf>
@@ -1070,8 +1070,8 @@
 <LM>w#w-mf920925-080-p3s1Bw7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-080-p3s1Bw8">
 <src.rf>manual</src.rf>
@@ -1189,8 +1189,8 @@
 <LM>w#w-mf920925-080-p3s2w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-080-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-080-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1505,8 +1505,8 @@
 <LM>w#w-mf920925-080-p3s6w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-080-p3s6w4">
 <src.rf>manual</src.rf>

@@ -947,8 +947,8 @@
 <LM>w#w-ln94207-134-p2s4w8</LM>
 </w.rf>
 <form>obviněný</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-134-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1366,7 +1366,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-134-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1419,8 +1419,8 @@
 <LM>w#w-ln94207-134-p2s6w16</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-134-p2s6w17">
 <src.rf>manual</src.rf>

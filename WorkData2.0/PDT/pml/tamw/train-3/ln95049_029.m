@@ -504,8 +504,8 @@
 <LM>w#w-ln95049-029-p2s3w2</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95049-029-p2s3w3">
 <src.rf>manual</src.rf>
@@ -760,8 +760,8 @@
 <LM>w#w-ln95049-029-p2s5w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-029-p2s5w2">
 <src.rf>manual</src.rf>

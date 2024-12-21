@@ -3050,7 +3050,7 @@
 </w.rf>
 <form>kontaktují</form>
 <lemma>kontaktovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf920924-107-p13s2w9">
 <src.rf>manual</src.rf>
@@ -3150,8 +3150,8 @@
 <LM>w#w-mf920924-107-p13s3w8</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920924-107-p13s3w9">
 <src.rf>manual</src.rf>
@@ -3204,8 +3204,8 @@
 <LM>w#w-mf920924-107-p13s3w14</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920924-107-p13s3w15">
 <src.rf>manual</src.rf>
@@ -3996,7 +3996,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920924-107-p15s1w16">
 <src.rf>manual</src.rf>

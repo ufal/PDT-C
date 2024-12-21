@@ -19,7 +19,7 @@
 <LM>w#w-lnd91303-097-p1s1w1</LM>
 </w.rf>
 <form>Oscar</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-097-p1s1w2">
@@ -111,7 +111,7 @@
 <LM>w#w-lnd91303-097-p2s1w8</LM>
 </w.rf>
 <form>Oscara</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91303-097-p2s1w9">

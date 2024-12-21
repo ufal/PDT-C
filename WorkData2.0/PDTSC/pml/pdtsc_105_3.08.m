@@ -924,8 +924,8 @@
 <LM>w#w-d1t1472-29</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m126-d1t1472-27">
 <w.rf>
@@ -1046,8 +1046,8 @@
 <LM>w#w-d1t1476-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m126-d1t1476-3">
 <w.rf>
@@ -1260,8 +1260,8 @@
 <LM>w#w-d1t1482-17</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m126-d1t1482-18">
 <w.rf>
@@ -1470,8 +1470,8 @@
 <LM>w#w-d1t1486-8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m126-d1t1486-9">
 <w.rf>
@@ -1743,7 +1743,7 @@
 </w.rf>
 <form>To</form>
 <lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m126-d-id134017-punct">
 <w.rf>
@@ -2242,15 +2242,15 @@
 <LM>w#w-d1t1512-9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m126-d1t1512-10">
 <w.rf>
 <LM>w#w-d1t1512-10</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m126-d1t1512-11">
@@ -2398,8 +2398,8 @@
 <LM>w#w-d1e1503-x3-535</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m126-d1e1503-x3-534">
 <w.rf>
@@ -2836,8 +2836,8 @@
 <LM>w#w-d1t1530-3</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m126-d1t1530-4">
 <w.rf>
@@ -3462,8 +3462,8 @@
 <LM>w#w-d1t1566-5</LM>
 </w.rf>
 <form>zas</form>
-<lemma>zas-1_,s_^(^DD**zase-1)</lemma>
-<tag>Db-------------</tag>
+<lemma>zas-2_,s_^(^DD**zase-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m126-d1t1566-6">
 <w.rf>

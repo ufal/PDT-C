@@ -1133,8 +1133,8 @@
 <LM>w#w-ln95046-096-p3s3w13</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-096-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1677,8 +1677,8 @@
 <LM>w#w-ln95046-096-p4s2w14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-096-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1686,8 +1686,8 @@
 <LM>w#w-ln95046-096-p4s2w15</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-096-p4s2w16">
 <src.rf>manual</src.rf>

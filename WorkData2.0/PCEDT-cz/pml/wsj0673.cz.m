@@ -334,8 +334,8 @@
 <LM>w#w-wsj0673-001-p1s1W7</LM>
 </w.rf>
 <form>pracujících</form>
-<lemma>pracující_^(*5ovat)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>pracující-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0673-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1151,7 +1151,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0673-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1357,8 +1357,8 @@
 <LM>w#w-wsj0673-001-p1s4W37</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0673-001-p1s4W38-Ta">
 <src.rf>tagger-a</src.rf>

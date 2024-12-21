@@ -480,7 +480,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-38-p2s3w2">
 <src.rf>manual</src.rf>
@@ -553,8 +553,8 @@
 <LM>w#w-ln94209-38-p2s4w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-38-p2s4w2">
 <src.rf>manual</src.rf>

@@ -232,8 +232,8 @@
 <LM>w#w-ln94205-71-p2s2w2</LM>
 </w.rf>
 <form>zas</form>
-<lemma>zas-1_,s_^(^DD**zase-1)</lemma>
-<tag>Db-------------</tag>
+<lemma>zas-2_,s_^(^DD**zase-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-71-p2s2w3">
 <src.rf>manual</src.rf>
@@ -983,8 +983,8 @@
 <LM>w#w-ln94205-71-p3s1w38</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-71-p3s1w39">
 <src.rf>manual</src.rf>
@@ -1203,8 +1203,8 @@
 <LM>w#w-ln94205-71-p3s3w4</LM>
 </w.rf>
 <form>tací</form>
-<lemma>takový</lemma>
-<tag>PDMP1---------1</tag>
+<lemma>taký_,s_^(^DD**takový)</lemma>
+<tag>PDMP1----------</tag>
 </m>
 <m id="m-ln94205-71-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1239,8 +1239,8 @@
 <LM>w#w-ln94205-71-p3s3w8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-71-p3s3w9">
 <src.rf>manual</src.rf>
@@ -2534,8 +2534,8 @@
 <LM>w#w-ln94205-71-p5s1w3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-71-p5s1w4">
 <src.rf>manual</src.rf>
@@ -3080,8 +3080,8 @@
 <LM>w#w-ln94205-71-p6s1w15</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-71-p6s1w16">
 <src.rf>manual</src.rf>
@@ -3735,7 +3735,7 @@
 </w.rf>
 <form>nezachoval</form>
 <lemma>zachovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94205-71-p6s4w5">
 <src.rf>manual</src.rf>
@@ -3799,8 +3799,8 @@
 <LM>w#w-ln94205-71-p6s5w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-71-p6s5w2">
 <src.rf>manual</src.rf>
@@ -4590,7 +4590,7 @@
 <LM>w#w-ln94205-71-p8s2w4</LM>
 </w.rf>
 <form>podpisoval</form>
-<lemma>podpisovat</lemma>
+<lemma>podpisovat_,s_^(^DD**podepisovat)</lemma>
 <tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-71-p8s2w5">
@@ -4995,8 +4995,8 @@
 <LM>w#w-ln94205-71-p8s2w49</LM>
 </w.rf>
 <form>mrtvých</form>
-<lemma>mrtvý</lemma>
-<tag>AAMP6----1A----</tag>
+<lemma>mrtvý-2</lemma>
+<tag>NNMP6-----A----</tag>
 </m>
 <m id="m-ln94205-71-p8s2w50">
 <src.rf>manual</src.rf>

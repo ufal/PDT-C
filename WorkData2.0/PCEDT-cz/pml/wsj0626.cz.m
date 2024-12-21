@@ -713,7 +713,7 @@
 <LM>w#w-wsj0626-001-p1s2W4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj0626-001-p1s2W5-Ta">

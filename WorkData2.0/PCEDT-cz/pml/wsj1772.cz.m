@@ -116,7 +116,7 @@
 </w.rf>
 <form>referovat</form>
 <lemma>referovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1772-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -470,8 +470,8 @@
 <LM>w#w-wsj1772-001-p1s2W4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1772-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1277,8 +1277,8 @@
 <LM>w#w-ln94211-80-p3s4w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-80-p3s4w9">
 <src.rf>manual</src.rf>
@@ -2281,7 +2281,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-80-p6s2w2">
 <src.rf>manual</src.rf>
@@ -2462,8 +2462,8 @@
 <LM>w#w-ln94211-80-p6s3w3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-80-p6s3w4">
 <src.rf>manual</src.rf>
@@ -2717,7 +2717,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-80-p7s1w18">
 <src.rf>manual</src.rf>

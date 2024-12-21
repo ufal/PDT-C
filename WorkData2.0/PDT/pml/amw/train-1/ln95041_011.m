@@ -1206,7 +1206,7 @@
 </w.rf>
 <form>přespí</form>
 <lemma>přespat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95041-011-p2s7w8">
 <src.rf>manual</src.rf>

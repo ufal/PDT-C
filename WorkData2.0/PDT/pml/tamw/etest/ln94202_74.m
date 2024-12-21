@@ -702,8 +702,8 @@
 <LM>w#w-ln94202-74-p2s3w12</LM>
 </w.rf>
 <form>odsouzení</form>
-<lemma>odsouzený_^(*4dit)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>odsouzený-2_^(osoba)</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94202-74-p2s3w13">
 <src.rf>manual</src.rf>

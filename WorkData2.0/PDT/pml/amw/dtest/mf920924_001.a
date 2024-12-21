@@ -24,7 +24,7 @@
 <children>
 <LM id="a-mf920924-001-p1s1w2">
 <m.rf>m#m-mf920924-001-p1s1w2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -38,7 +38,8 @@
 <children>
 <LM id="a-mf920924-001-p2s1w2">
 <m.rf>m#m-mf920924-001-p2s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -63,7 +64,7 @@
 </LM>
 <LM id="a-mf920924-001-p2s1w5">
 <m.rf>m#m-mf920924-001-p2s1w5</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>5</ord>
 <clause_number>1</clause_number>
@@ -78,7 +79,7 @@
 </LM>
 <LM id="a-mf920924-001-p2s1w7">
 <m.rf>m#m-mf920924-001-p2s1w7</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
@@ -99,16 +100,10 @@
 <s.rf>m#m-mf920924-001-p3s1</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-mf920924-001-p3s1w3">
-<m.rf>m#m-mf920924-001-p3s1w3</m.rf>
-<afun>Apos</afun>
-<ord>3</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-mf920924-001-p3s1w2">
 <m.rf>m#m-mf920924-001-p3s1w2</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -118,15 +113,19 @@
 <ord>1</ord>
 <clause_number>0</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920924-001-p3s1w7">
 <m.rf>m#m-mf920924-001-p3s1w7</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Denom</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920924-001-p3s1w3">
+<m.rf>m#m-mf920924-001-p3s1w3</m.rf>
+<afun>AuxG</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-mf920924-001-p3s1w5">
 <m.rf>m#m-mf920924-001-p3s1w5</m.rf>
 <afun>Coord</afun>
@@ -167,7 +166,8 @@
 <children>
 <LM id="a-mf920924-001-p4s1w2">
 <m.rf>m#m-mf920924-001-p4s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -187,7 +187,8 @@
 <children>
 <LM id="a-mf920924-001-p5s1w2">
 <m.rf>m#m-mf920924-001-p5s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -209,22 +210,22 @@
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920924-001-p5s1w5">
-<m.rf>m#m-mf920924-001-p5s1w5</m.rf>
-<afun>Atr</afun>
-<ord>5</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-mf920924-001-p5s1w11">
 <m.rf>m#m-mf920924-001-p5s1w11</m.rf>
 <afun>Coord</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920924-001-p5s1w5">
+<m.rf>m#m-mf920924-001-p5s1w5</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>5</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-mf920924-001-p5s1w7">
 <m.rf>m#m-mf920924-001-p5s1w7</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
@@ -258,10 +259,13 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-mf920924-001-p5s1w12">
 <m.rf>m#m-mf920924-001-p5s1w12</m.rf>
 <afun>Atr</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
@@ -276,8 +280,6 @@
 <afun>Atr</afun>
 <ord>14</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -355,6 +357,12 @@
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920924-001-p5s2w12">
+<m.rf>m#m-mf920924-001-p5s2w12</m.rf>
+<afun>Atr</afun>
+<ord>12</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-mf920924-001-p5s2w10">
 <m.rf>m#m-mf920924-001-p5s2w10</m.rf>
 <afun>Coord</afun>
@@ -375,11 +383,7 @@
 <ord>11</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-mf920924-001-p5s2w12">
-<m.rf>m#m-mf920924-001-p5s2w12</m.rf>
-<afun>Atr</afun>
-<ord>12</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 </children>
 </LM>
@@ -449,18 +453,20 @@
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920924-001-p5s3w7">
-<m.rf>m#m-mf920924-001-p5s3w7</m.rf>
-<afun>Atr</afun>
-<ord>7</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-mf920924-001-p5s3w8">
 <m.rf>m#m-mf920924-001-p5s3w8</m.rf>
 <afun>Atr</afun>
 <is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-001-p5s3w7">
+<m.rf>m#m-mf920924-001-p5s3w7</m.rf>
+<afun>Atr</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-mf920924-001-p5s3w10">
 <m.rf>m#m-mf920924-001-p5s3w10</m.rf>
@@ -507,7 +513,8 @@
 <children>
 <LM id="a-mf920924-001-p6s1w3">
 <m.rf>m#m-mf920924-001-p6s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -697,18 +704,20 @@
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920924-001-p6s3w5">
-<m.rf>m#m-mf920924-001-p6s3w5</m.rf>
-<afun>Atr</afun>
-<ord>5</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-mf920924-001-p6s3w6">
 <m.rf>m#m-mf920924-001-p6s3w6</m.rf>
 <afun>Atr</afun>
 <is_member>1</is_member>
 <ord>6</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-001-p6s3w5">
+<m.rf>m#m-mf920924-001-p6s3w5</m.rf>
+<afun>Atr</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-mf920924-001-p6s3w8">
 <m.rf>m#m-mf920924-001-p6s3w8</m.rf>
@@ -734,12 +743,13 @@
 <LM id="a-mf920924-001-p7s1w1">
 <m.rf>m#m-mf920924-001-p7s1w1</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920924-001-p7s1w2">
 <m.rf>m#m-mf920924-001-p7s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -755,7 +765,8 @@
 </LM>
 <LM id="a-mf920924-001-p7s1w7">
 <m.rf>m#m-mf920924-001-p7s1w7</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>

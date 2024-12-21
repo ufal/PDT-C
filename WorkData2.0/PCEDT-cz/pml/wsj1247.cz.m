@@ -680,7 +680,7 @@
 </w.rf>
 <form>společností</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS7-----A----</tag>
+<tag>NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1247-001-p1s2W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -996,8 +996,8 @@
 <LM>w#w-wsj1247-001-p1s3W15</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1247-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1896,7 +1896,7 @@
 </w.rf>
 <form>společností</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS7-----A----</tag>
+<tag>NNFP2-----A----</tag>
 </m>
 <m id="m-wsj1247-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>

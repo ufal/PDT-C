@@ -28,8 +28,8 @@
 <LM>w#w-d1t1456-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1t1456-4">
 <w.rf>
@@ -300,8 +300,8 @@
 <LM>w#w-d1t1473-7</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1t1473-8">
 <w.rf>
@@ -415,7 +415,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m119-d1t1482-8">
 <w.rf>
@@ -1682,8 +1682,8 @@
 <LM>w#w-d1t1513-8</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1t1513-9">
 <w.rf>
@@ -1762,8 +1762,8 @@
 <LM>w#w-d1t1518-5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m119-d1t1518-6">
 <w.rf>
@@ -1796,8 +1796,8 @@
 <LM>w#w-d1t1518-15</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1t1518-10">
 <w.rf>
@@ -1960,7 +1960,7 @@
 <LM>w#w-d1t1518-33</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m119-d1t1518-35">
@@ -2280,7 +2280,7 @@
 <LM>w#w-d1t1552-11</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m119-d1t1552-12">
@@ -3455,8 +3455,8 @@
 <LM>w#w-d1t1608-8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m119-d1t1608-9">
 <w.rf>
@@ -3767,7 +3767,7 @@
 <LM>w#w-d1t1617-19</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m119-d1t1617-22">

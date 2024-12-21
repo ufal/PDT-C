@@ -783,8 +783,8 @@
 <LM>w#w-ln95040-071-p2s3w19</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95040-071-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1576,7 +1576,7 @@
 <LM>w#w-ln95040-071-p4s3w11</LM>
 </w.rf>
 <form>dozvídat</form>
-<lemma>dozvídat</lemma>
+<lemma>dozvídat_,s_^(^DD**dovídat)</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-071-p4s3w12">
@@ -3945,7 +3945,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-071-p5s2w7">
 <src.rf>manual</src.rf>
@@ -4690,7 +4690,7 @@
 <LM>w#w-ln95040-071-p6s4w4</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-071-p6s4w5">
@@ -4900,7 +4900,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-071-p6s5w4">
 <src.rf>manual</src.rf>
@@ -5008,7 +5008,7 @@
 </w.rf>
 <form>sponzorovali</form>
 <lemma>sponzorovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln95040-071-p6s5w16">
 <src.rf>manual</src.rf>

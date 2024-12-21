@@ -197,7 +197,7 @@
 </w.rf>
 <form>za</form>
 <lemma>za</lemma>
-<tag>RR--7----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-wsj2422-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -549,8 +549,8 @@
 <LM>w#w-ln94203-17-p2s3w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-17-p2s3w5">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-17-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1122,8 +1122,8 @@
 <LM>w#w-ln94203-17-p2s6w13</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-17-p2s6w14">
 <src.rf>manual</src.rf>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_008.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -46,8 +46,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w8192f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41oonA</val_frame.rf>
 <children>
 <LM id="t-ln95046-008-p1s1a0">
 <a>
@@ -196,7 +196,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w714f1</val_frame.rf>
+<val_frame.rf>v#v41afbA</val_frame.rf>
 <children>
 <LM id="t-ln95046-008-p2s1Bw2">
 <a>
@@ -431,6 +431,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -443,7 +444,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95046-008-p2s2w2">
 <a>
@@ -556,6 +557,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -696,7 +698,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w327f1</val_frame.rf>
+<val_frame.rf>v#v41noG</val_frame.rf>
 <children>
 <LM id="t-ln95046-008-p2s3w2">
 <a>
@@ -887,13 +889,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-008-p2s3w12</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w8188f1</val_frame.rf>
+<val_frame.rf>v#v41ooiC</val_frame.rf>
 <children>
 <LM id="t-ln95046-008-p2s3w13">
 <a>
@@ -975,19 +978,6 @@
 </LM>
 </mwes>
 <children>
-<LM id="t-ln95046-008-p3s1w12">
-<a>
-<lex.rf>a#a-ln95046-008-p3s1w12</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>CONJ</functor>
-<deepord>10</deepord>
-<discourse_comment>wrongTR? nema viset "comma" na "činit"? a nema na 
-"comma" viset "milión" a "být"? viz analogicky
-pripad ln95045_083, veta 9; analogicka veta ve 
-velkem TR manualu na s. 954</discourse_comment>
-<children>
 <LM id="t-ln95046-008-p3s1w8">
 <a>
 <lex.rf>a#a-ln95046-008-p3s1w8</lex.rf>
@@ -996,7 +986,6 @@ velkem TR manualu na s. 954</discourse_comment>
 <t_lemma>činit</t_lemma>
 <functor>PRED</functor>
 <sentmod>enunc</sentmod>
-<is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -1008,7 +997,12 @@ velkem TR manualu na s. 954</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w327f1</val_frame.rf>
+<discourse_groups>
+<LM>
+<id>1</id>
+</LM>
+</discourse_groups>
+<val_frame.rf>v#v41noG</val_frame.rf>
 <children>
 <LM id="t-ln95046-008-p3s1w1">
 <a>
@@ -1025,6 +1019,11 @@ velkem TR manualu na s. 954</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
+<discourse_groups>
+<LM>
+<id>1</id>
+</LM>
+</discourse_groups>
 <children>
 <LM id="t-ln95046-008-p3s1w2">
 <a>
@@ -1041,6 +1040,11 @@ velkem TR manualu na s. 954</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
+<discourse_groups>
+<LM>
+<id>1</id>
+</LM>
+</discourse_groups>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95046-008-p2s3w8</target_node.rf>
@@ -1069,6 +1073,11 @@ velkem TR manualu na s. 954</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
+<discourse_groups>
+<LM>
+<id>1</id>
+</LM>
+</discourse_groups>
 <children>
 <LM id="t-ln95046-008-p3s1w7">
 <a>
@@ -1085,6 +1094,11 @@ velkem TR manualu na s. 954</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+<discourse_groups>
+<LM>
+<id>1</id>
+</LM>
+</discourse_groups>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95046-008-p2s1Bw7</target_node.rf>
@@ -1105,9 +1119,23 @@ velkem TR manualu na s. 954</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
+<discourse_groups>
+<LM>
+<id>1</id>
+</LM>
+</discourse_groups>
 </LM>
 </children>
 </LM>
+<LM id="t-ln95046-008-p3s1w12">
+<a>
+<lex.rf>a#a-ln95046-008-p3s1w12</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Comma</t_lemma>
+<functor>APPS</functor>
+<deepord>10</deepord>
+<children>
 <LM id="t-ln95046-008-p3s1w10">
 <a>
 <lex.rf>a#a-ln95046-008-p3s1w10</lex.rf>
@@ -1116,6 +1144,7 @@ velkem TR manualu na s. 954</discourse_comment>
 <t_lemma>milión</t_lemma>
 <functor>EXT</functor>
 <subfunctor>nr</subfunctor>
+<is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
 <gender>inan</gender>
@@ -1124,6 +1153,11 @@ velkem TR manualu na s. 954</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
+<discourse_groups>
+<LM>
+<id>1</id>
+</LM>
+</discourse_groups>
 <children>
 <LM id="t-ln95046-008-p3s1w11">
 <a>
@@ -1140,6 +1174,11 @@ velkem TR manualu na s. 954</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>7</deepord>
+<discourse_groups>
+<LM>
+<id>1</id>
+</LM>
+</discourse_groups>
 </LM>
 <LM id="t-ln95046-008-p3s1w9">
 <a>
@@ -1154,8 +1193,11 @@ velkem TR manualu na s. 954</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
+<discourse_groups>
+<LM>
+<id>1</id>
 </LM>
-</children>
+</discourse_groups>
 </LM>
 </children>
 </LM>
@@ -1165,7 +1207,8 @@ velkem TR manualu na s. 954</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
-<functor>PRED</functor>
+<functor>EXT</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -1184,23 +1227,27 @@ velkem TR manualu na s. 954</discourse_comment>
 <target_node.rf>t-ln95046-008-p3s1w8</target_node.rf>
 <type>discourse</type>
 <start_range>0</start_range>
-<target_range>0</target_range>
+<target_group_id>1</target_group_id>
+<target_range>group</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-008-p3s1w13</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95046-008-p3s1w13">
 <a>
 <lex.rf>a#a-ln95046-008-p3s1w13</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>což</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -1211,7 +1258,7 @@ velkem TR manualu na s. 954</discourse_comment>
 <tfa>t</tfa>
 <deepord>11</deepord>
 <coref_gram.rf>
-<LM>t-ln95046-008-p3s1w8</LM>
+<LM>t-ln95046-008-p3s1w10</LM>
 </coref_gram.rf>
 </LM>
 <LM id="t-ln95046-008-p3s1w18">
@@ -1363,6 +1410,8 @@ velkem TR manualu na s. 954</discourse_comment>
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="t-ln95046-008-p3s2">
 <atree.rf>a#a-ln95046-008-p3s2</atree.rf>
 <deepord>0</deepord>
@@ -1403,13 +1452,14 @@ velkem TR manualu na s. 954</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-008-p3s2w2</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6304f1</val_frame.rf>
+<val_frame.rf>v#v41kzvE</val_frame.rf>
 <children>
 <LM id="t-ln95046-008-p3s2w2">
 <a>
@@ -1535,8 +1585,9 @@ velkem TR manualu na s. 954</discourse_comment>
 <lex.rf>a#a-ln95046-008-p3s2w3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>celkový</t_lemma>
+<t_lemma>celkově</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>celkový</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>

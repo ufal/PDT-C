@@ -399,7 +399,7 @@
 </w.rf>
 <form>blokují</form>
 <lemma>blokovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln95046-080-p3s2w3">
 <src.rf>manual</src.rf>
@@ -571,8 +571,8 @@
 <LM>w#w-ln95046-080-p3s3w2</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-080-p3s3w3">
 <src.rf>manual</src.rf>

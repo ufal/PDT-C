@@ -160,8 +160,8 @@
 <LM>w#w-wsj0443-001-p1s0W17</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0443-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -169,8 +169,8 @@
 <LM>w#w-wsj0443-001-p1s0W18</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0443-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-wsj0443-001-p1s0W36</LM>
 </w.rf>
 <form>baseballové</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-wsj0443-001-p1s0W37-Ta">
@@ -612,8 +612,8 @@
 <LM>w#w-wsj0443-001-p1s1W29</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0443-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -839,8 +839,8 @@
 <LM>w#w-wsj0443-001-p1s2W6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0443-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1375,8 +1375,8 @@
 <LM>w#w-wsj0443-001-p1s4W29</LM>
 </w.rf>
 <form>vlastní</form>
-<lemma>vlastní</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0443-001-p1s4W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1456,8 +1456,8 @@
 <LM>w#w-wsj0443-001-p1s4W38</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0443-001-p1s4W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1575,7 +1575,7 @@
 <LM>w#w-wsj0443-001-p1s5W11</LM>
 </w.rf>
 <form>baseballu</form>
-<lemma>baseball</lemma>
+<lemma>baseball_,s_^(^DD**basebal)</lemma>
 <tag>NNIS3-----A----</tag>
 </m>
 <m id="m-wsj0443-001-p1s5W12-Ta">
@@ -1730,8 +1730,8 @@
 <LM>w#w-wsj0443-001-p1s6W11</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0443-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2065,8 +2065,8 @@
 <LM>w#w-wsj0443-001-p1s7W32</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0443-001-p1s7W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2229,7 +2229,7 @@
 <LM>w#w-wsj0443-001-p1s8W5</LM>
 </w.rf>
 <form>baseball</form>
-<lemma>baseball</lemma>
+<lemma>baseball_,s_^(^DD**basebal)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj0443-001-p1s8W6-Ta">
@@ -3057,7 +3057,7 @@
 <LM>w#w-wsj0443-001-p1s12W5</LM>
 </w.rf>
 <form>baseballem</form>
-<lemma>baseball</lemma>
+<lemma>baseball_,s_^(^DD**basebal)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-wsj0443-001-p1s12W6-Ta">
@@ -3301,7 +3301,7 @@
 <LM>w#w-wsj0443-001-p1s12W32</LM>
 </w.rf>
 <form>baseballových</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AANP2----1A----</tag>
 </m>
 <m id="m-wsj0443-001-p1s12W33-Ta">
@@ -3319,8 +3319,8 @@
 <LM>w#w-wsj0443-001-p1s12W34</LM>
 </w.rf>
 <form>play</form>
-<lemma>play-77</lemma>
-<tag>F%-------------</tag>
+<lemma>play-1</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-wsj0443-001-p1s12W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3337,8 +3337,8 @@
 <LM>w#w-wsj0443-001-p1s12W36</LM>
 </w.rf>
 <form>off</form>
-<lemma>off-77</lemma>
-<tag>F%-------------</tag>
+<lemma>off-1</lemma>
+<tag>SNNXX-----A----</tag>
 </m>
 <m id="m-wsj0443-001-p1s12W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3420,8 +3420,8 @@
 <LM>w#w-wsj0443-001-p1s13W8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0443-001-p1s13W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5085,7 +5085,7 @@
 </w.rf>
 <form>věnována</form>
 <lemma>věnovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-wsj0443-001-p1s20W19-Ta">
 <src.rf>tagger-a</src.rf>

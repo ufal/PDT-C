@@ -1460,8 +1460,8 @@
 <LM>w#w-wsj0110-001-p1s11W5</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0110-001-p1s11W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5727,8 +5727,8 @@
 <LM>w#w-wsj0110-001-p1s24W34</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0110-001-p1s24W35-Ta">
 <src.rf>tagger-a</src.rf>

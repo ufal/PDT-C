@@ -430,8 +430,8 @@
 <LM>w#w-ln94210-67-p2s2w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-67-p2s2w15">
 <src.rf>manual</src.rf>
@@ -1330,7 +1330,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94210-67-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1392,8 +1392,8 @@
 <LM>w#w-ln94210-67-p2s6w15</LM>
 </w.rf>
 <form>kolemjdoucí</form>
-<lemma>kolemjdoucí</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>kolemjdoucí-1</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94210-67-p2s6w16">
 <src.rf>manual</src.rf>
@@ -2102,8 +2102,8 @@
 <LM>w#w-ln94210-67-p2s10w20</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-67-p2s10w21">
 <src.rf>manual</src.rf>

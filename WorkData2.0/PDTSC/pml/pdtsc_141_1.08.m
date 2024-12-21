@@ -476,8 +476,8 @@
 <LM>w#w-d1t3603-1</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t3603-2">
 <w.rf>
@@ -516,8 +516,8 @@
 <LM>w#w-d1t3603-5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m148-d-m-d1e3594-x3-punct-punct">
 <w.rf>
@@ -1258,7 +1258,7 @@
 <LM>w#w-d1t3698-8</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m148-d1t3698-9">
@@ -1324,8 +1324,8 @@
 <LM>w#w-d1t3700-5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t3700-6">
 <w.rf>
@@ -1373,7 +1373,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m148-d1t3702-6">
 <w.rf>
@@ -3458,7 +3458,7 @@
 <LM>w#w-d1t3899-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m148-d1t3899-3">
@@ -4075,8 +4075,8 @@
 <LM>w#w-d1t3962-8</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t3962-10">
 <w.rf>
@@ -4229,8 +4229,8 @@
 <LM>w#w-d1t3968-5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m148-385-388">
 <w.rf>
@@ -4247,8 +4247,8 @@
 <LM>w#w-d1t3972-4</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m148-d1t3972-5">
 <w.rf>
@@ -4335,8 +4335,8 @@
 <LM>w#w-d1t3975-7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t3975-8">
 <w.rf>
@@ -4482,7 +4482,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m148-d1e3948-x3-2039">
 <w.rf>

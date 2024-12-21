@@ -484,8 +484,8 @@
 <LM>w#w-ln95044-121-p3s1w14</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95044-121-p3s1w15">
 <src.rf>manual</src.rf>
@@ -2674,7 +2674,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-121-p5s5w6">
 <src.rf>manual</src.rf>

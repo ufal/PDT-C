@@ -2150,7 +2150,7 @@
 <LM>w#w-vesm9212-037-p4s2w22</LM>
 </w.rf>
 <form>dotecích</form>
-<lemma>dotek</lemma>
+<lemma>dotek_,s_^(^DD**dotyk)</lemma>
 <tag>NNIP6-----A----</tag>
 </m>
 <m id="m-vesm9212-037-p4s2w23">
@@ -2423,7 +2423,7 @@
 <LM>w#w-vesm9212-037-p4s3w29</LM>
 </w.rf>
 <form>dotecích</form>
-<lemma>dotek</lemma>
+<lemma>dotek_,s_^(^DD**dotyk)</lemma>
 <tag>NNIP6-----A----</tag>
 </m>
 <m id="m-vesm9212-037-p4s3w30">
@@ -2718,7 +2718,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9212-037-p5s2w11">
 <src.rf>manual</src.rf>

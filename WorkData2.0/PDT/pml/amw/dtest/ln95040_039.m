@@ -1207,7 +1207,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-039-p2s3w6">
 <src.rf>manual</src.rf>
@@ -1233,7 +1233,7 @@
 <LM>w#w-ln95040-039-p2s3w8</LM>
 </w.rf>
 <form>gentlemanské</form>
-<lemma>gentlemanský</lemma>
+<lemma>gentlemanský_,s_^(^DD**džentlmenský)</lemma>
 <tag>AAFS3----1A----</tag>
 </m>
 <m id="m-ln95040-039-p2s3w9">

@@ -781,8 +781,8 @@
 <LM>w#w-ln95043-001-p2s2w24</LM>
 </w.rf>
 <form>Táborský</form>
-<lemma>táborský</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>Táborský_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-001-p2s2w25">
 <src.rf>manual</src.rf>
@@ -2304,7 +2304,7 @@
 <LM>w#w-ln95043-001-p4s1w4</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95043-001-p4s1w5">

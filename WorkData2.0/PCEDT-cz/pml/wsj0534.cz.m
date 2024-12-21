@@ -271,7 +271,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0534-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -297,8 +297,8 @@
 <LM>w#w-wsj0534-001-p1s0W32</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0534-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -718,7 +718,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0534-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>

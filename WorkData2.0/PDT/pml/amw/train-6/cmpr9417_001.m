@@ -484,7 +484,7 @@
 <LM>w#w-cmpr9417-001-p4s3w9</LM>
 </w.rf>
 <form>Québeku</form>
-<lemma>Québek_;G_,s_^(^DD**Québec)</lemma>
+<lemma>Québek_;G_,s_^(^DD**Quebec)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9417-001-p4s3w10">

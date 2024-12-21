@@ -1150,7 +1150,7 @@
 </w.rf>
 <form>po</form>
 <lemma>po-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj1238-001-p1s4W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1159,7 +1159,7 @@
 </w.rf>
 <form>Hansu</form>
 <lemma>Hans_;Y</lemma>
-<tag>NNMS3-----A---2</tag>
+<tag>NNMS6-----A---2</tag>
 </m>
 <m id="m-wsj1238-001-p1s4W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1186,7 +1186,7 @@
 </w.rf>
 <form>Wandersovi</form>
 <lemma>Wanders_;Y</lemma>
-<tag>NNMS3-----A----</tag>
+<tag>NNMS6-----A----</tag>
 </m>
 <m id="m-wsj1238-001-p1s4W35-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1746,8 +1746,8 @@
 <LM>w#w-mf920901-009-p3s5w1</LM>
 </w.rf>
 <form>Navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-mf920901-009-p3s5w2">
 <src.rf>manual</src.rf>
@@ -2345,7 +2345,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-009-p3s7w22">
 <src.rf>manual</src.rf>

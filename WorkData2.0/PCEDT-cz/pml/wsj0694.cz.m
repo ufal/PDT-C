@@ -241,8 +241,8 @@
 <LM>w#w-wsj0694-001-p1s0W26</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0694-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -486,8 +486,8 @@
 <LM>w#w-wsj0694-001-p1s1W1</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0694-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -495,8 +495,8 @@
 <LM>w#w-wsj0694-001-p1s1W2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ještě-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0694-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>

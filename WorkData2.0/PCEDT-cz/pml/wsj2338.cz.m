@@ -241,8 +241,8 @@
 <LM>w#w-wsj2338-001-p1s0W26</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
-<tag>J,-------------</tag>
+<lemma>až-3_^(až_k_...,_až_dost)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2338-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -286,8 +286,8 @@
 <LM>w#w-wsj2338-001-p1s0W31</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2338-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1156,8 +1156,8 @@
 <LM>w#w-wsj2338-001-p1s3W15</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2338-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1311,8 +1311,8 @@
 <LM>w#w-wsj2338-001-p1s4W1</LM>
 </w.rf>
 <form>Přesně</form>
-<lemma>přesně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přesně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2338-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3748,8 +3748,8 @@
 <LM>w#w-wsj2338-001-p1s12W5</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2338-001-p1s12W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5891,8 +5891,8 @@
 <LM>w#w-wsj2338-001-p1s20W12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2338-001-p1s20W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -97,14 +97,6 @@
 <ord>11</ord>
 <clause_number>3</clause_number>
 </LM>
-<LM id="a-ln94209-62-p1s1w12">
-<m.rf>m#m-ln94209-62-p1s1w12</m.rf>
-<afun>Sb</afun>
-<ord>12</ord>
-<clause_number>3</clause_number>
-</LM>
-</children>
-</LM>
 <LM id="a-ln94209-62-p1s1w13">
 <m.rf>m#m-ln94209-62-p1s1w13</m.rf>
 <afun>AuxG</afun>
@@ -123,12 +115,16 @@
 <ord>15</ord>
 <clause_number>3</clause_number>
 </LM>
-<LM id="a-ln94209-62-p1s1w16">
-<m.rf>m#m-ln94209-62-p1s1w16</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
-<ord>16</ord>
+</children>
+</LM>
+<LM id="a-ln94209-62-p1s1w12">
+<m.rf>m#m-ln94209-62-p1s1w12</m.rf>
+<afun>Sb</afun>
+<ord>12</ord>
 <clause_number>3</clause_number>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 <LM id="a-ln94209-62-p1s1w19">
 <m.rf>m#m-ln94209-62-p1s1w19</m.rf>
@@ -137,9 +133,15 @@
 <ord>19</ord>
 <clause_number>4</clause_number>
 <children>
+<LM id="a-ln94209-62-p1s1w16">
+<m.rf>m#m-ln94209-62-p1s1w16</m.rf>
+<afun>Partl</afun>
+<ord>16</ord>
+<clause_number>3</clause_number>
+</LM>
 <LM id="a-ln94209-62-p1s1w18">
 <m.rf>m#m-ln94209-62-p1s1w18</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>18</ord>
 <clause_number>4</clause_number>
 </LM>
@@ -213,7 +215,7 @@
 <children>
 <LM id="a-ln94209-62-p3s1w2">
 <m.rf>m#m-ln94209-62-p3s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -361,19 +363,21 @@
 <children>
 <LM id="a-ln94209-62-p3s3w1">
 <m.rf>m#m-ln94209-62-p3s3w1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94209-62-p3s3w4">
 <m.rf>m#m-ln94209-62-p3s3w4</m.rf>
 <afun>Coord</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94209-62-p3s3w3">
 <m.rf>m#m-ln94209-62-p3s3w3</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
 <is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
@@ -388,7 +392,7 @@
 </LM>
 <LM id="a-ln94209-62-p3s3w6">
 <m.rf>m#m-ln94209-62-p3s3w6</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
 <is_member>1</is_member>
 <ord>6</ord>
 <clause_number>1</clause_number>

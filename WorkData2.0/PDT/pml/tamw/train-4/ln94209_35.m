@@ -481,8 +481,8 @@
 <LM>w#w-ln94209-35-p2s5w1</LM>
 </w.rf>
 <form>To</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln94209-35-p2s5w2">
 <src.rf>manual</src.rf>

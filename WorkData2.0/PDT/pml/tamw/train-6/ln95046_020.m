@@ -165,8 +165,8 @@
 <LM>w#w-ln95046-020-p2s1w9</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-020-p2s1w10">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 </w.rf>
 <form>Denveru</form>
 <lemma>Denver-2_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95046-020-p2s1w33">
 <src.rf>manual</src.rf>
@@ -653,8 +653,8 @@
 <LM>w#w-ln95046-020-p2s2w30</LM>
 </w.rf>
 <form>nakonec</form>
-<lemma>nakonec-1</lemma>
-<tag>Db-------------</tag>
+<lemma>nakonec-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-020-p2s2w31">
 <src.rf>manual</src.rf>

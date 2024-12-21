@@ -586,7 +586,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-069-p3s1w5">
 <src.rf>manual</src.rf>
@@ -948,7 +948,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-069-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1136,8 +1136,8 @@
 <LM>w#w-ln95040-069-p3s2w25</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-069-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 </w.rf>
 <form>věnovaly</form>
 <lemma>věnovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln95040-069-p3s3w33">
 <src.rf>manual</src.rf>
@@ -2974,7 +2974,7 @@
 <LM>w#w-ln95040-069-p6s3w9</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-ln95040-069-p6s3w10">
@@ -4404,7 +4404,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-069-p8s5w11">
 <src.rf>manual</src.rf>

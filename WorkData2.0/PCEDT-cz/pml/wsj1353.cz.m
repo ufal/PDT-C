@@ -761,7 +761,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1353-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1902,8 +1902,8 @@
 <LM>w#w-wsj1353-001-p1s7W16</LM>
 </w.rf>
 <form>přeživšího</form>
-<lemma>přeživší_^(*4ít)</lemma>
-<tag>AMMS2-----A----</tag>
+<lemma>přeživší-2</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-wsj1353-001-p1s7W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2246,8 +2246,8 @@
 <LM>w#w-wsj1353-001-p1s8W15</LM>
 </w.rf>
 <form>živé</form>
-<lemma>živý</lemma>
-<tag>AAMP4----1A----</tag>
+<lemma>živý-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-wsj1353-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6229,7 +6229,7 @@
 <LM>w#w-wsj1353-001-p1s26W40</LM>
 </w.rf>
 <form>zmrazeného</form>
-<lemma>zmrazený_^(*3it)</lemma>
+<lemma>zmrazený_^(^DD**zmražený)_(*3it)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-wsj1353-001-p1s26W41-Ta">
@@ -7177,7 +7177,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1353-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>

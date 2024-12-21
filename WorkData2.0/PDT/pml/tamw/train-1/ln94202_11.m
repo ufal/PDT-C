@@ -1479,7 +1479,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94202-11-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1887,8 +1887,8 @@
 <LM>w#w-ln94202-11-p4s2w4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-11-p4s2w5">
 <src.rf>manual</src.rf>

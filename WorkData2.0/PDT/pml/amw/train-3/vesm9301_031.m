@@ -459,7 +459,7 @@
 <LM>w#w-vesm9301-031-p16s1w2</LM>
 </w.rf>
 <form>neeukleidovských</form>
-<lemma>eukleidovský</lemma>
+<lemma>eukleidovský_,s_^(^DD**euklidovský)</lemma>
 <tag>AAIP2----1N----</tag>
 </m>
 <m id="m-vesm9301-031-p16s1w3">

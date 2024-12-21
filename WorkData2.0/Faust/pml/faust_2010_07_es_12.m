@@ -511,7 +511,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="es_12-SCzechM-p1212-s1-w14">
 <w.rf>
@@ -1728,8 +1728,8 @@
 <LM>w#w-es_12-SCzechM-p1239-s1-w71</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="es_12-SCzechM-p1239-s1-w72">
 <w.rf>
@@ -3053,7 +3053,7 @@
 </w.rf>
 <form>kanálku</form>
 <lemma>kanálek</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="es_12-SCzechM-p1265-s1-w14">
 <w.rf>
@@ -3237,7 +3237,7 @@
 </w.rf>
 <form>kanálku</form>
 <lemma>kanálek</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="es_12-SCzechM-p1265-s1-w37">
 <w.rf>

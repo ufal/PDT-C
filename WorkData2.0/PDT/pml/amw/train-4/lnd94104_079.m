@@ -19,8 +19,8 @@
 <LM>w#w-lnd94104-079-p1s1Aw1</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-079-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -212,8 +212,8 @@
 <LM>w#w-lnd94104-079-p1s4w1</LM>
 </w.rf>
 <form>Začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-079-p1s4w2">
 <src.rf>manual</src.rf>

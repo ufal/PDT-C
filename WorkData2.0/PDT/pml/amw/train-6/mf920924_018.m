@@ -2599,8 +2599,8 @@
 <LM>w#w-mf920924-018-p2s11w12</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920924-018-p2s11w13">
 <src.rf>manual</src.rf>
@@ -5275,7 +5275,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-018-p2s19w20">
 <src.rf>manual</src.rf>

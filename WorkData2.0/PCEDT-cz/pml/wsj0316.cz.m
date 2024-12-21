@@ -334,7 +334,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0316-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -637,8 +637,8 @@
 <LM>w#w-wsj0316-001-p1s3W4</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj0316-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -665,7 +665,7 @@
 </w.rf>
 <form>miliony</form>
 <lemma>milion`1000000_,s_^(^DD**milión)</lemma>
-<tag>CzIP4----------</tag>
+<tag>CzIP7----------</tag>
 </m>
 <m id="m-wsj0316-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1418,8 +1418,8 @@
 <LM>w#w-wsj0316-001-p1s5W35</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0316-001-p1s5W36-Ta">
 <src.rf>tagger-a</src.rf>

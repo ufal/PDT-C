@@ -1080,7 +1080,7 @@
 <LM>w#w-cmpr9406-060-p9s1w15</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9406-060-p9s1w16">
@@ -1446,8 +1446,8 @@
 <LM>w#w-cmpr9406-060-p11s2w10</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-060-p11s2w11">
 <src.rf>manual</src.rf>
@@ -1712,7 +1712,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-060-p12s2w8">
 <src.rf>manual</src.rf>

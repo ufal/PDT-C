@@ -305,7 +305,7 @@
 </w.rf>
 <form>Starnovské</form>
 <lemma>Starnovská_;Y_^(*1ý)</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-075-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-075-p4s3w3">
 <src.rf>manual</src.rf>
@@ -2049,7 +2049,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-075-p6s1w17">
 <src.rf>manual</src.rf>
@@ -2159,7 +2159,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-075-p6s2w11">
 <src.rf>manual</src.rf>

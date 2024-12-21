@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_94.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -26,7 +26,7 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>4</deepord>
-<discourse_special>caption</discourse_special>
+<discourse_feature>caption</discourse_feature>
 <children>
 <LM id="t-ln94210-94-p1s1a0">
 <nodetype>qcomplex</nodetype>
@@ -39,6 +39,9 @@
 <LM id="t-ln94210-94-p1s1w3">
 <a>
 <lex.rf>a#a-ln94210-94-p1s1w3</lex.rf>
+<aux.rf>
+<LM>a#a-ln94210-94-p1s1w2</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bourat</t_lemma>
@@ -56,7 +59,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w191f1</val_frame.rf>
+<val_frame.rf>v#v41hhA</val_frame.rf>
 <children>
 <LM id="t-ln94210-94-p1s1w1">
 <a>
@@ -79,6 +82,9 @@
 <LM id="t-ln94210-94-p1s1w7">
 <a>
 <lex.rf>a#a-ln94210-94-p1s1w7</lex.rf>
+<aux.rf>
+<LM>a#a-ln94210-94-p1s1w6</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>snášet</t_lemma>
@@ -96,7 +102,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w6230f2</val_frame.rf>
+<val_frame.rf>v#v41kwqC</val_frame.rf>
 <children>
 <LM id="t-ln94210-94-p1s1w5">
 <a>

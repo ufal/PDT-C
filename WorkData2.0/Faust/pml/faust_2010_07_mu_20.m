@@ -604,7 +604,7 @@
 <LM>w#w-mu_20-SCzechM-p2093-s1-w37</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="mu_20-SCzechM-p2093-s1-w38">
@@ -1118,8 +1118,8 @@
 <LM>w#w-mu_20-SCzechM-p2111-s1-w1</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_20-SCzechM-p2111-s1-w2">
 <w.rf>
@@ -1166,8 +1166,8 @@
 <LM>w#w-mu_20-SCzechM-p2111-s1-w7</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-2_^(cože;_ale_co)</lemma>
-<tag>TT-------------</tag>
+<lemma>co-1</lemma>
+<tag>PQ--1----------</tag>
 </m>
 <m id="mu_20-SCzechM-p2111-s1-w8">
 <w.rf>
@@ -3671,7 +3671,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_20-SCzechM-p2156-s1-w15">
 <w.rf>
@@ -3718,8 +3718,8 @@
 <LM>w#w-mu_20-SCzechM-p2156-s1-w20</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_20-SCzechM-p2156-s1-w21">
 <w.rf>
@@ -3911,7 +3911,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="mu_20-SCzechM-p2156-s1-w45">
 <w.rf>
@@ -3967,7 +3967,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_20-SCzechM-p2156-s1-w52">
 <w.rf>
@@ -4203,7 +4203,7 @@
 </w.rf>
 <form>Popis</form>
 <lemma>popis</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="mu_20-SCzechM-p2159-s1-w24">
 <w.rf>
@@ -4363,7 +4363,7 @@
 </w.rf>
 <form>Vlastnosti</form>
 <lemma>vlastnost</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="mu_20-SCzechM-p2159-s1-w44">
 <w.rf>
@@ -4717,7 +4717,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_20-SCzechM-p2164-s1-w39">
 <w.rf>
@@ -4900,8 +4900,8 @@
 <LM>w#w-mu_20-SCzechM-p2164-s1-w61</LM>
 </w.rf>
 <form>sál</form>
-<lemma>sát</lemma>
-<tag>VpYS----R-AAI--</tag>
+<lemma>sál</lemma>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="mu_20-SCzechM-p2164-s1-w62">
 <w.rf>
@@ -5147,7 +5147,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_20-SCzechM-p2180-s1-w16">
 <w.rf>
@@ -5354,8 +5354,8 @@
 <LM>w#w-mu_20-SCzechM-p2180-s1-w41</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_20-SCzechM-p2180-s1-w42">
 <w.rf>
@@ -5501,7 +5501,7 @@
 </w.rf>
 <form>o</form>
 <lemma>o-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="mu_20-SCzechM-p2182-s1-w12">
 <w.rf>

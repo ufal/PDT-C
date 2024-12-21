@@ -30,7 +30,7 @@
 <children>
 <LM id="a-lnd94104-102-p1s2w2">
 <m.rf>m#m-lnd94104-102-p1s2w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -42,7 +42,7 @@
 </LM>
 <LM id="a-lnd94104-102-p1s2w3">
 <m.rf>m#m-lnd94104-102-p1s2w3</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
 </LM>

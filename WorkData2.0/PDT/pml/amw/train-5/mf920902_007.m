@@ -493,7 +493,7 @@
 <LM>w#w-mf920902-007-p1s3w3</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-007-p1s3w4">

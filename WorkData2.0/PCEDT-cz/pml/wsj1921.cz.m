@@ -314,7 +314,7 @@
 </w.rf>
 <form>americké</form>
 <lemma>americký</lemma>
-<tag>AAFP1----1A----</tag>
+<tag>AAFS2----1A----</tag>
 </m>
 <m id="m-wsj1921-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -323,7 +323,7 @@
 </w.rf>
 <form>jednotky</form>
 <lemma>jednotka</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m-wsj1921-001-p1s0W36-Ta">
 <src.rf>tagger-a</src.rf>

@@ -349,8 +349,8 @@
 <LM>w#w-ln94205-25-p2s2w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-25-p2s2w3">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln94205-25-p3s1w7</LM>
 </w.rf>
 <form>vleklá</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AANP1----1A----</tag>
 </m>
 <m id="m-ln94205-25-p3s1w8">
@@ -1653,7 +1653,7 @@
 </w.rf>
 <form>nereagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-NAI--</tag>
+<tag>VB-P---3P-NAB--</tag>
 </m>
 <m id="m-ln94205-25-p4s3w9">
 <src.rf>manual</src.rf>

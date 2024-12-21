@@ -86,8 +86,8 @@
 <LM>w#w-ln95047-104-p2s1Bw1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-104-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-ln95047-104-p2s5w15</LM>
 </w.rf>
 <form>zabijačkovém</form>
-<lemma>zabijačkový</lemma>
+<lemma>zabijačkový_,s_^(^DD**zabíjačkový)</lemma>
 <tag>AANS6----1A----</tag>
 </m>
 <m id="m-ln95047-104-p2s5w16">

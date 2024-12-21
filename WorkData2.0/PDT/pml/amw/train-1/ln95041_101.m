@@ -722,7 +722,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-101-p2s3w7">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95041-101-p2s4w6">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 <form_change>spell</form_change>
 <form>Kwašniewski</form>
 <lemma>Kwašniewský_;Y</lemma>
-<tag>NNMS1-----A---1</tag>
+<tag>NNMS1-----A---2</tag>
 </m>
 <m id="m-ln95041-101-p2s4w29">
 <src.rf>manual</src.rf>

@@ -37,8 +37,8 @@
 <LM>w#w-cmpr9415-052-p2s1w3</LM>
 </w.rf>
 <form>statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP4----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP4---------1</tag>
 </m>
 </s>
 <s id="m-cmpr9415-052-p3s1">
@@ -595,8 +595,8 @@
 <LM>w#w-cmpr9415-052-p5s1w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-052-p5s1w5">
 <src.rf>manual</src.rf>
@@ -959,8 +959,8 @@
 <LM>w#w-cmpr9415-052-p6s1w7</LM>
 </w.rf>
 <form>statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP4----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP4---------1</tag>
 </m>
 <m id="m-cmpr9415-052-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-cmpr9415-052-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 </w.rf>
 <form>věnujte</form>
 <lemma>věnovat</lemma>
-<tag>Vi-P---2--A-I--</tag>
+<tag>Vi-P---2--A-B--</tag>
 </m>
 <m id="m-cmpr9415-052-p7s1w8">
 <src.rf>manual</src.rf>
@@ -1141,8 +1141,8 @@
 <LM>w#w-cmpr9415-052-p7s1w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-052-p7s1w10">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <LM>w#w-cmpr9415-052-p7s1w23</LM>
 </w.rf>
 <form>dozvíte</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---2P-AAP--</tag>
 </m>
 <m id="m-cmpr9415-052-p7s1w24">

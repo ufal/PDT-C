@@ -286,8 +286,8 @@
 <LM>w#w-ln94208-22-p2s2w5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-22-p2s2w6">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-ln94208-22-p2s5w8</LM>
 </w.rf>
 <form>napjatější</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS1----2A----</tag>
 </m>
 <m id="m-ln94208-22-p2s5w9">
@@ -1030,8 +1030,8 @@
 <LM>w#w-ln94208-22-p2s5w15</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-22-p2s5w16">
 <src.rf>manual</src.rf>

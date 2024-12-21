@@ -118,8 +118,8 @@
 <LM>w#w-jh_13-SCzechM-p1296-s1-w7</LM>
 </w.rf>
 <form>místo</form>
-<lemma>místo-3</lemma>
-<tag>Db-------------</tag>
+<lemma>místo-2_^(záměnou_za)</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="jh_13-SCzechM-p1296-s1-w8">
 <w.rf>
@@ -711,7 +711,7 @@
 </w.rf>
 <form>distribuován</form>
 <lemma>distribuovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 </s>
 <s id="s-jh_13-SCzechM-p1313-s1-w2">
@@ -1335,7 +1335,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_13-SCzechM-p1341-s1-w3">
 <w.rf>
@@ -1670,8 +1670,8 @@
 <LM>w#w-jh_13-SCzechM-p1354-s1-w12</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="jh_13-SCzechM-p1354-s1-w13">
 <w.rf>

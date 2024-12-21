@@ -1089,8 +1089,8 @@
 <LM>w#w-ln94203-14-p4s1w8</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-14-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1163,8 +1163,8 @@
 <LM>w#w-ln94203-14-p4s2w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-14-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1254,7 +1254,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94203-14-p4s2w15">
 <src.rf>manual</src.rf>

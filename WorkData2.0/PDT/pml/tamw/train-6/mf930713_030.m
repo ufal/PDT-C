@@ -977,8 +977,8 @@
 <LM>w#w-mf930713-030-p2s6w4</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1505,8 +1505,8 @@
 <LM>w#w-mf930713-030-p2s11w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s11w6">
 <src.rf>manual</src.rf>
@@ -1551,7 +1551,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s11w11">
 <src.rf>manual</src.rf>
@@ -2143,8 +2143,8 @@
 <LM>w#w-mf930713-030-p2s15w9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s15w10">
 <src.rf>manual</src.rf>
@@ -2597,8 +2597,8 @@
 <LM>w#w-mf930713-030-p2s17w8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s17w9">
 <src.rf>manual</src.rf>
@@ -2633,8 +2633,8 @@
 <LM>w#w-mf930713-030-p2s17w12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s17w13">
 <src.rf>manual</src.rf>
@@ -2970,8 +2970,8 @@
 <LM>w#w-mf930713-030-p2s19w2</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s19w3">
 <src.rf>manual</src.rf>
@@ -3170,8 +3170,8 @@
 <LM>w#w-mf930713-030-p2s20w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s20w9">
 <src.rf>manual</src.rf>
@@ -3262,8 +3262,8 @@
 <LM>w#w-mf930713-030-p2s21w5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s21w6">
 <src.rf>manual</src.rf>
@@ -3307,8 +3307,8 @@
 <LM>w#w-mf930713-030-p2s21w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s21w11">
 <src.rf>manual</src.rf>
@@ -3780,7 +3780,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s23w11">
 <src.rf>manual</src.rf>
@@ -3959,8 +3959,8 @@
 <LM>w#w-mf930713-030-p2s23w30</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s23w31">
 <src.rf>manual</src.rf>
@@ -4188,7 +4188,7 @@
 <LM>w#w-mf930713-030-p2s26w2</LM>
 </w.rf>
 <form>kanoista</form>
-<lemma>kanoista</lemma>
+<lemma>kanoista_,s_^(^DD**kánoista)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s26w3">
@@ -4361,8 +4361,8 @@
 <LM>w#w-mf930713-030-p2s28w5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s28w6">
 <src.rf>manual</src.rf>
@@ -4543,8 +4543,8 @@
 <LM>w#w-mf930713-030-p2s30w11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s30w12">
 <src.rf>manual</src.rf>
@@ -4561,7 +4561,7 @@
 <LM>w#w-mf930713-030-p2s30w13</LM>
 </w.rf>
 <form>kanoista</form>
-<lemma>kanoista</lemma>
+<lemma>kanoista_,s_^(^DD**kánoista)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s30w14">
@@ -4637,8 +4637,8 @@
 <LM>w#w-mf930713-030-p2s37w1</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-030-p2s37w2">
 <src.rf>manual</src.rf>

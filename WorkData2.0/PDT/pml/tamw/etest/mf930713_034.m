@@ -302,7 +302,7 @@
 <LM>w#w-mf930713-034-p2s1Bw22</LM>
 </w.rf>
 <form>podomácky</form>
-<lemma>podomácky</lemma>
+<lemma>podomácky_,s_^(^DD**podomácku)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930713-034-p2s1Bw23">
@@ -412,8 +412,8 @@
 <LM>w#w-mf930713-034-p2s2w4</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-034-p2s2w5">
 <src.rf>manual</src.rf>

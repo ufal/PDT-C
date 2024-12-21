@@ -786,7 +786,7 @@
 </w.rf>
 <form>Citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd94104-049-p1s6w2">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-049-p1s7w13">
 <src.rf>manual</src.rf>

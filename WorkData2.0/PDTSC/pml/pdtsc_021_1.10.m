@@ -20,8 +20,8 @@
 <LM>w#w-d1t3379-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t3379-3">
 <w.rf>
@@ -176,8 +176,8 @@
 <LM>w#w-d1t3392-1</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m019-d1t3392-2">
 <w.rf>
@@ -504,8 +504,8 @@
 <LM>w#w-d1t3431-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t3431-3">
 <w.rf>
@@ -710,8 +710,8 @@
 <LM>w#w-d1t3449-8</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvlášť-2_,s_^(^DD**zvláště-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t3449-1">
 <w.rf>
@@ -768,8 +768,8 @@
 <LM>w#w-d1t3453-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t3453-2">
 <w.rf>
@@ -1356,8 +1356,8 @@
 <LM>w#w-d1e3505-x2-145</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1e3505-x2-146">
 <w.rf>
@@ -2056,8 +2056,8 @@
 <LM>w#w-d1e3577-x3-173</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m019-d1t3582-3">
 <w.rf>
@@ -2096,8 +2096,8 @@
 <LM>w#w-d1t3592-1</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvlášť-2_,s_^(^DD**zvláště-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1t3592-2">
 <w.rf>
@@ -2228,8 +2228,8 @@
 <LM>w#w-d1t3600-5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m019-d1e3593-x2-189">
 <w.rf>
@@ -2696,8 +2696,8 @@
 <LM>w#w-d1t3655-12</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m019-d1t3655-13">
 <w.rf>

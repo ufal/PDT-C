@@ -1107,7 +1107,7 @@
 </w.rf>
 <form>Citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94211-76-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1533,8 +1533,8 @@
 <LM>w#w-ln94211-76-p5s2w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-76-p5s2w5">
 <src.rf>manual</src.rf>

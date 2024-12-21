@@ -18,7 +18,7 @@
 <children>
 <LM id="a-ln95045-072-p1s1w1">
 <m.rf>m#m-ln95045-072-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -135,6 +135,32 @@
 <afun>Sb</afun>
 <ord>9</ord>
 <clause_number>2</clause_number>
+</LM>
+<LM id="a-ln95045-072-p2s1w10">
+<m.rf>m#m-ln95045-072-p2s1w10</m.rf>
+<afun>AuxT</afun>
+<ord>10</ord>
+<clause_number>2</clause_number>
+</LM>
+<LM id="a-ln95045-072-p2s1w12">
+<m.rf>m#m-ln95045-072-p2s1w12</m.rf>
+<afun>AuxP</afun>
+<ord>12</ord>
+<clause_number>2</clause_number>
+<children>
+<LM id="a-ln95045-072-p2s1w13">
+<m.rf>m#m-ln95045-072-p2s1w13</m.rf>
+<afun>Adv</afun>
+<ord>13</ord>
+<clause_number>2</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-ln95045-072-p2s1w14">
+<m.rf>m#m-ln95045-072-p2s1w14</m.rf>
+<afun>AuxC</afun>
+<ord>14</ord>
+<clause_number>2</clause_number>
 <children>
 <LM id="a-ln95045-072-p2s1w15">
 <m.rf>m#m-ln95045-072-p2s1w15</m.rf>
@@ -142,12 +168,6 @@
 <ord>15</ord>
 <clause_number>2</clause_number>
 <children>
-<LM id="a-ln95045-072-p2s1w14">
-<m.rf>m#m-ln95045-072-p2s1w14</m.rf>
-<afun>AuxY</afun>
-<ord>14</ord>
-<clause_number>2</clause_number>
-</LM>
 <LM id="a-ln95045-072-p2s1w16">
 <m.rf>m#m-ln95045-072-p2s1w16</m.rf>
 <afun>AuxP</afun>
@@ -171,26 +191,6 @@
 </children>
 </LM>
 </children>
-</LM>
-</children>
-</LM>
-<LM id="a-ln95045-072-p2s1w10">
-<m.rf>m#m-ln95045-072-p2s1w10</m.rf>
-<afun>AuxT</afun>
-<ord>10</ord>
-<clause_number>2</clause_number>
-</LM>
-<LM id="a-ln95045-072-p2s1w12">
-<m.rf>m#m-ln95045-072-p2s1w12</m.rf>
-<afun>AuxP</afun>
-<ord>12</ord>
-<clause_number>2</clause_number>
-<children>
-<LM id="a-ln95045-072-p2s1w13">
-<m.rf>m#m-ln95045-072-p2s1w13</m.rf>
-<afun>Adv</afun>
-<ord>13</ord>
-<clause_number>2</clause_number>
 </LM>
 </children>
 </LM>
@@ -311,6 +311,9 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 </children>
 </LM>
@@ -326,18 +329,18 @@
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-ln95045-072-p2s2w18">
-<m.rf>m#m-ln95045-072-p2s2w18</m.rf>
-<afun>Adv</afun>
-<ord>18</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-ln95045-072-p2s2w15">
 <m.rf>m#m-ln95045-072-p2s2w15</m.rf>
 <afun>AuxZ</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-ln95045-072-p2s2w18">
+<m.rf>m#m-ln95045-072-p2s2w18</m.rf>
+<afun>Adv</afun>
+<ord>18</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-ln95045-072-p2s2w17">
 <m.rf>m#m-ln95045-072-p2s2w17</m.rf>
 <afun>Atr</afun>
@@ -408,7 +411,7 @@
 <children>
 <LM id="a-ln95045-072-p3s1w5">
 <m.rf>m#m-ln95045-072-p3s1w5</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
@@ -454,7 +457,7 @@
 <children>
 <LM id="a-ln95045-072-p3s1w10">
 <m.rf>m#m-ln95045-072-p3s1w10</m.rf>
-<afun>Adv</afun>
+<afun>AuxY</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -716,24 +719,26 @@
 <ord>18</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-ln95045-072-p4s2w1">
-<m.rf>m#m-ln95045-072-p4s2w1</m.rf>
-<afun>ExD</afun>
-<ord>19</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-ln95045-072-p4s2w2">
 <m.rf>m#m-ln95045-072-p4s2w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
 <ord>20</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-ln95045-072-p4s2w1">
+<m.rf>m#m-ln95045-072-p4s2w1</m.rf>
+<afun>AuxG</afun>
+<ord>19</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95045-072-p4s2w3">
 <m.rf>m#m-ln95045-072-p4s2w3</m.rf>
-<afun>ExD</afun>
+<afun>AuxG</afun>
 <ord>21</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -797,7 +802,7 @@
 </LM>
 <LM id="a-ln95045-072-p4s3w8">
 <m.rf>m#m-ln95045-072-p4s3w8</m.rf>
-<afun>AuxY</afun>
+<afun>AuxZ</afun>
 <ord>8</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -963,7 +968,7 @@
 <children>
 <LM id="a-ln95045-072-p5s1w15">
 <m.rf>m#m-ln95045-072-p5s1w15</m.rf>
-<afun>Adv</afun>
+<afun>AuxY</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
 </LM>

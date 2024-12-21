@@ -1344,8 +1344,8 @@
 <LM>w#w-d1t1800-5</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m114-d1t1800-6">
 <w.rf>
@@ -1694,7 +1694,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m114-d1t1811-3">
 <w.rf>
@@ -2163,8 +2163,8 @@
 <LM>w#w-d1t1843-5</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m114-d1t1843-6">
 <w.rf>
@@ -2873,8 +2873,8 @@
 <LM>w#w-d1t1880-6</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m114-d1t1880-8">
 <w.rf>
@@ -3191,8 +3191,8 @@
 <LM>w#w-d1t1898-3</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t1900-2">
 <w.rf>
@@ -3696,7 +3696,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m114-d1t1911-17">
 <w.rf>
@@ -4892,7 +4892,7 @@
 </w.rf>
 <form>odtéct</form>
 <lemma>odtéci</lemma>
-<tag>Vf--------A-P--</tag>
+<tag>Vf--------A-P-1</tag>
 </m>
 <m id="m114-d1t1961-6">
 <w.rf>
@@ -5248,8 +5248,8 @@
 <LM>w#w-d1t1977-13</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m114-d1t1977-14">
 <w.rf>

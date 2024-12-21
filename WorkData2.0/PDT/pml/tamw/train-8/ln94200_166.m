@@ -368,7 +368,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-166-p2s2w13">
 <src.rf>manual</src.rf>
@@ -669,8 +669,8 @@
 <LM>w#w-ln94200-166-p2s4w13</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-166-p2s4w14">
 <src.rf>manual</src.rf>
@@ -714,8 +714,8 @@
 <LM>w#w-ln94200-166-p2s4w18</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94200-166-p2s4w19">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-166-p2s5w13">
 <src.rf>manual</src.rf>

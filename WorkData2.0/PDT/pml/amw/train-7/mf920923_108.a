@@ -50,7 +50,7 @@
 <children>
 <LM id="a-mf920923-108-p2s1w2">
 <m.rf>m#m-mf920923-108-p2s1w2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -96,7 +96,7 @@
 <children>
 <LM id="a-mf920923-108-p4s1w2">
 <m.rf>m#m-mf920923-108-p4s1w2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -508,18 +508,18 @@
 <ord>17</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920923-108-p4s4w18">
-<m.rf>m#m-mf920923-108-p4s4w18</m.rf>
-<afun>Adv</afun>
-<ord>18</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-mf920923-108-p4s4w16">
 <m.rf>m#m-mf920923-108-p4s4w16</m.rf>
 <afun>AuxZ</afun>
 <ord>16</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-mf920923-108-p4s4w18">
+<m.rf>m#m-mf920923-108-p4s4w18</m.rf>
+<afun>Adv</afun>
+<ord>18</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-mf920923-108-p4s4w20">
 <m.rf>m#m-mf920923-108-p4s4w20</m.rf>
 <afun>AuxC</afun>

@@ -39,7 +39,7 @@
 <form_change>spell</form_change>
 <form>Bihać</form>
 <lemma>Bihać_;G</lemma>
-<tag>NNFS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m-ln95040-088-p1s1w4">
 <src.rf>manual</src.rf>
@@ -606,8 +606,8 @@
 <LM>w#w-ln95040-088-p2s3w8</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-088-p2s3w9">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-ln95040-088-p2s5w2</LM>
 </w.rf>
 <form>nejnapjatější</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS4----3A----</tag>
 </m>
 <m id="m-ln95040-088-p2s5w3">

@@ -1579,7 +1579,7 @@
 </w.rf>
 <form>děti</form>
 <lemma>dítě-2</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFP5-----A----</tag>
 </m>
 </s>
 <s id="m-mf920923-102-p43s1">

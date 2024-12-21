@@ -307,7 +307,7 @@
 </w.rf>
 <form>září</form>
 <lemma>září</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS3-----A----</tag>
 </m>
 <m id="m-wsj0721-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

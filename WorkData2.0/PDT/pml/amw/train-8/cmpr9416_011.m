@@ -821,8 +821,8 @@
 <LM>w#w-cmpr9416-011-p5s2w4</LM>
 </w.rf>
 <form>díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP7-----A----</tag>
+<lemma>díky</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-cmpr9416-011-p5s2w5">
 <src.rf>manual</src.rf>

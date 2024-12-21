@@ -525,7 +525,7 @@
 </w.rf>
 <form>trefí</form>
 <lemma>trefit</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-vesm9301-019-p4s3w10">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 </w.rf>
 <form>dominovala</form>
 <lemma>dominovat</lemma>
-<tag>VpQW----R-AAB--</tag>
+<tag>VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-019-p4s4w45">
 <src.rf>manual</src.rf>
@@ -4109,7 +4109,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-019-p11s10w2">
 <src.rf>manual</src.rf>
@@ -4464,8 +4464,8 @@
 <LM>w#w-vesm9301-019-p11s12w1</LM>
 </w.rf>
 <form>Navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-vesm9301-019-p11s12w2">
 <src.rf>manual</src.rf>
@@ -8270,7 +8270,7 @@
 </w.rf>
 <form>Společné</form>
 <lemma>společný</lemma>
-<tag>AANS1----1A----</tag>
+<tag>AANS4----1A----</tag>
 </m>
 <m id="m-vesm9301-019-p13s9w2">
 <src.rf>manual</src.rf>
@@ -8279,7 +8279,7 @@
 </w.rf>
 <form>dílo</form>
 <lemma>dílo_^(umělecké,_vědecké,...)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p13s9w3">
 <src.rf>manual</src.rf>

@@ -165,8 +165,8 @@
 <LM>w#w-ln94200-128-p2s1w8</LM>
 </w.rf>
 <form>vlivem</form>
-<lemma>vliv</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>vlivem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-128-p2s1w9">
 <src.rf>manual</src.rf>
@@ -255,8 +255,8 @@
 <LM>w#w-ln94200-128-p2s1w18</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-128-p2s1w19">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-128-p2s1w39">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-128-p2s2w8">
 <src.rf>manual</src.rf>
@@ -864,8 +864,8 @@
 <LM>w#w-ln94200-128-p3s1w18</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-128-p3s1w19">
 <src.rf>manual</src.rf>
@@ -963,8 +963,8 @@
 <LM>w#w-ln94200-128-p3s1w29</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-128-p3s1w30">
 <src.rf>manual</src.rf>
@@ -1700,8 +1700,8 @@
 <LM>w#w-ln94200-128-p4s4w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-128-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2274,8 +2274,8 @@
 <LM>w#w-ln94200-128-p4s7w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-128-p4s7w7">
 <src.rf>manual</src.rf>
@@ -2584,8 +2584,8 @@
 <LM>w#w-ln94200-128-p5s2w12</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-128-p5s2w13">
 <src.rf>manual</src.rf>

@@ -161,7 +161,7 @@
 </w.rf>
 <form>Denveru</form>
 <lemma>Denver-2_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj2424-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1161,7 +1161,7 @@
 </w.rf>
 <form>angažují</form>
 <lemma>angažovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-wsj2424-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>

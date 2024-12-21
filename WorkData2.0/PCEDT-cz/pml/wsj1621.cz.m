@@ -1231,7 +1231,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj1621-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1250,7 +1250,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1621-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3512,8 +3512,8 @@
 <LM>w#w-wsj1621-001-p1s15W30</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1621-001-p1s15W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3521,8 +3521,8 @@
 <LM>w#w-wsj1621-001-p1s15W31</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1621-001-p1s15W32-Ta">
 <src.rf>tagger-a</src.rf>

@@ -241,8 +241,8 @@
 <LM>w#w-ln94204-135-p2s1Bw10</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94204-135-p2s1Bw11">
 <src.rf>manual</src.rf>

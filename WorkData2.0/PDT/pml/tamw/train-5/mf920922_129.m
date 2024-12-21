@@ -521,7 +521,7 @@
 <LM>w#w-mf920922-129-p2s6w12</LM>
 </w.rf>
 <form>departementech</form>
-<lemma>departement</lemma>
+<lemma>departement_,s_^(^DD**department)</lemma>
 <tag>NNIP6-----A----</tag>
 </m>
 <m id="m-mf920922-129-p2s6w13">
@@ -1182,8 +1182,8 @@
 <LM>w#w-mf920922-129-p3s2w12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920922-129-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1490,8 +1490,8 @@
 <LM>w#w-mf920922-129-p4s1w15</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-129-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1499,8 +1499,8 @@
 <LM>w#w-mf920922-129-p4s1w16</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-129-p4s1w17">
 <src.rf>manual</src.rf>

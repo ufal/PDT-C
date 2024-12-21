@@ -86,8 +86,8 @@
 <LM>w#w-ln94210-78-p2s1Bw2</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-78-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-ln94210-78-p2s4w26">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94210-78-p2s5w12">
 <src.rf>manual</src.rf>

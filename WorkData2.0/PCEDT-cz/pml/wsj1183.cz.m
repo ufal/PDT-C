@@ -216,7 +216,7 @@
 <LM>w#w-wsj1183-001-p1s1W5</LM>
 </w.rf>
 <form>využíváním</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS7-----A----</tag>
 </m>
 <m id="m-wsj1183-001-p1s1W6-Ta">
@@ -797,8 +797,8 @@
 <LM>w#w-wsj1183-001-p1s3W8</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1183-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>

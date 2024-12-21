@@ -851,8 +851,8 @@
 <LM>w#w-wsj2356-001-p1s3W31</LM>
 </w.rf>
 <form>černé</form>
-<lemma>černý_;o</lemma>
-<tag>AAMP4----1A----</tag>
+<lemma>černý-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-wsj2356-001-p1s3W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6320,7 +6320,7 @@
 <LM>w#w-wsj2356-001-p1s32W11</LM>
 </w.rf>
 <form>vyjednavačům</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMP3-----A----</tag>
 </m>
 <m id="m-wsj2356-001-p1s32W12-Ta">

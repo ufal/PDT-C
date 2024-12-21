@@ -371,7 +371,7 @@
 <LM>w#w-wsj2085-001-p1s2W6</LM>
 </w.rf>
 <form>dceřinné</form>
-<lemma>dceřinný_,a_^(chybné_od_dceřiný)</lemma>
+<lemma>dceřinný_,i_^(^DS**dceřiný)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-wsj2085-001-p1s2W7-Ta">
@@ -656,7 +656,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2085-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-wsj2085-001-p1s4W12</LM>
 </w.rf>
 <form>dceřinné</form>
-<lemma>dceřinný_,a_^(chybné_od_dceřiný)</lemma>
+<lemma>dceřinný_,i_^(^DS**dceřiný)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-wsj2085-001-p1s4W13-Ta">

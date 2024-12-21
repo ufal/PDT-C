@@ -3353,8 +3353,8 @@
 <LM>w#w-vesm9211-060-p7s7w20</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-060-p7s7w21">
 <src.rf>manual</src.rf>
@@ -3818,8 +3818,8 @@
 <LM>w#w-vesm9211-060-p8s3w1</LM>
 </w.rf>
 <form>Následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-060-p8s3w2">
 <src.rf>manual</src.rf>
@@ -3872,8 +3872,8 @@
 <LM>w#w-vesm9211-060-p8s3w7</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-060-p8s3w8">
 <src.rf>manual</src.rf>
@@ -4407,7 +4407,7 @@
 <LM>w#w-vesm9211-060-p8s5w15</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-060-p8s5w16">
@@ -8473,8 +8473,8 @@
 <LM>w#w-vesm9211-060-p13s7Aw6</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-060-p13s7Aw7">
 <src.rf>manual</src.rf>
@@ -8616,8 +8616,8 @@
 <w.rf>
 <LM>w#w-vesm9211-060-p13s7Aw23</LM>
 </w.rf>
-<form>&gt;</form>
-<lemma>&gt;</lemma>
+<form>></form>
+<lemma>></lemma>
 <tag>Z:-------------</tag>
 </m>
 <m id="m-vesm9211-060-p13s7Aw24">

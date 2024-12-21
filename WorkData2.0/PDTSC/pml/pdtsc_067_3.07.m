@@ -214,8 +214,8 @@
 <LM>w#w-d1t2025-2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m001-d1t2025-3">
 <w.rf>
@@ -559,7 +559,7 @@
 </w.rf>
 <form>což</form>
 <lemma>což-1</lemma>
-<tag>PQ--4----------</tag>
+<tag>PQ--1----------</tag>
 </m>
 <m id="m001-d1t2044-13">
 <w.rf>
@@ -582,8 +582,8 @@
 <LM>w#w-d1t2044-15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m001-d1t2044-16">
 <w.rf>
@@ -744,8 +744,8 @@
 <LM>w#w-d1t2048-10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m001-d1t2048-12">
 <w.rf>
@@ -850,8 +850,8 @@
 <LM>w#w-d1t2055-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m001-d1t2055-7">
 <w.rf>
@@ -892,8 +892,8 @@
 <LM>w#w-d1t2059-3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-1</lemma>
-<tag>Db-------------</tag>
+<lemma>třeba-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m001-d1t2059-4">
 <w.rf>
@@ -958,8 +958,8 @@
 <LM>w#w-d1t2059-16</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m001-d1t2059-18">
 <w.rf>
@@ -1030,8 +1030,8 @@
 <LM>w#w-d1t2063-11</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-1</lemma>
-<tag>Db-------------</tag>
+<lemma>třeba-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m001-d1t2063-8">
 <w.rf>
@@ -1062,8 +1062,8 @@
 <LM>w#w-d1e2056-x2-468</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m001-d1t2063-5">
 <w.rf>
@@ -1581,7 +1581,7 @@
 </w.rf>
 <form>nashledanou</form>
 <lemma>nashledanou</lemma>
-<tag>TT------------6</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m001-d-id2782110">
 <w.rf>
@@ -1599,7 +1599,7 @@
 </w.rf>
 <form>Nashledanou</form>
 <lemma>nashledanou</lemma>
-<tag>TT------------6</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m001-d-id2782211">
 <w.rf>

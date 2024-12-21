@@ -583,8 +583,8 @@
 <LM>w#w-ln94203-47-p2s1Cw47</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-47-p2s1Cw48">
 <src.rf>manual</src.rf>
@@ -954,8 +954,8 @@
 <LM>w#w-ln94203-47-p3s1w39</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-47-p3s1w40">
 <src.rf>manual</src.rf>
@@ -1172,8 +1172,8 @@
 <LM>w#w-ln94203-47-p4s1w21</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94203-47-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1354,8 +1354,8 @@
 <LM>w#w-ln94203-47-p4s2w13</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-47-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1447,7 +1447,7 @@
 </w.rf>
 <form>zachovaly</form>
 <lemma>zachovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94203-47-p4s3w8">
 <src.rf>manual</src.rf>

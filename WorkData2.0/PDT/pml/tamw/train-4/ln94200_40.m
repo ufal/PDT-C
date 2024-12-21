@@ -37,8 +37,8 @@
 <LM>w#w-ln94200-40-p1s1w3</LM>
 </w.rf>
 <form>mladiství</form>
-<lemma>mladistvý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>mladistvý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94200-40-p1s1w4">
 <src.rf>manual</src.rf>

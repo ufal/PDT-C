@@ -723,7 +723,7 @@
 <LM>w#w-ln95041-090-p3s1w11</LM>
 </w.rf>
 <form>využívanou</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-ln95041-090-p3s1w12">
@@ -1170,8 +1170,8 @@
 <LM>w#w-ln95041-090-p3s4w13</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95041-090-p3s4w14">
 <src.rf>manual</src.rf>

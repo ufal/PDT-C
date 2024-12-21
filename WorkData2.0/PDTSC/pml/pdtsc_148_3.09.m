@@ -859,7 +859,7 @@
 </w.rf>
 <form>Každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m103-d1t1369-9">
 <w.rf>
@@ -1082,8 +1082,8 @@
 <LM>w#w-d1t1387-4</LM>
 </w.rf>
 <form>aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1387-3">
 <w.rf>
@@ -1214,8 +1214,8 @@
 <LM>w#w-d1t1389-10</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1389-11">
 <w.rf>
@@ -1238,8 +1238,8 @@
 <LM>w#w-d1t1389-12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m103-d1t1389-13">
 <w.rf>
@@ -1304,8 +1304,8 @@
 <LM>w#w-d1t1389-20</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1389-21">
 <w.rf>
@@ -1982,8 +1982,8 @@
 <LM>w#w-d1t1415-20</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1415-23">
 <w.rf>
@@ -2470,8 +2470,8 @@
 <LM>w#w-d1t1437-6</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1437-7">
 <w.rf>

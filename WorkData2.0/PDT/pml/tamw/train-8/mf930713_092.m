@@ -131,8 +131,8 @@
 <LM>w#w-mf930713-092-p2s1Bw1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf930713-092-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -1444,7 +1444,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-092-p2s9w19">
 <src.rf>manual</src.rf>
@@ -1573,8 +1573,8 @@
 <LM>w#w-mf930713-092-p2s11w6</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf930713-092-p2s11w7">
 <src.rf>manual</src.rf>
@@ -2059,7 +2059,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-092-p2s15w5">
 <src.rf>manual</src.rf>
@@ -2068,7 +2068,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf930713-092-p2s15w6">
 <src.rf>manual</src.rf>

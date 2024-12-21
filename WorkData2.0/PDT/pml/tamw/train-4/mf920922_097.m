@@ -64,8 +64,8 @@
 <LM>w#w-mf920922-097-p1s1w6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-097-p1s1w7">
 <src.rf>manual</src.rf>
@@ -949,8 +949,8 @@
 <LM>w#w-mf920922-097-p2s5Bw22</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-097-p2s5Bw23">
 <src.rf>manual</src.rf>
@@ -1340,8 +1340,8 @@
 <LM>w#w-mf920922-097-p2s6Bw21</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-097-p2s6Bw22">
 <src.rf>manual</src.rf>
@@ -1486,8 +1486,8 @@
 <LM>w#w-mf920922-097-p2s7w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-097-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1560,8 +1560,8 @@
 <LM>w#w-mf920922-097-p2s8w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920922-097-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1641,8 +1641,8 @@
 <LM>w#w-mf920922-097-p2s8w10</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-097-p2s8w11">
 <src.rf>manual</src.rf>

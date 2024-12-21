@@ -686,7 +686,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-043-p3s2w6">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-vesm9212-043-p3s2w6</LM>
 </w.rf>
 <form>využíváním</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS7-----A----</tag>
 </m>
 <m id="m-vesm9212-043-p3s2w7">
@@ -1429,7 +1429,7 @@
 <LM>w#w-vesm9212-043-p3s6w9</LM>
 </w.rf>
 <form>domnělé</form>
-<lemma>domnělý_^(*3ít)</lemma>
+<lemma>domnělý</lemma>
 <tag>AAFS3----1A----</tag>
 </m>
 <m id="m-vesm9212-043-p3s6w10">
@@ -1657,7 +1657,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9212-043-p3s7w9">
 <src.rf>manual</src.rf>

@@ -587,8 +587,8 @@
 <LM>w#w-wsj1668-001-p1s2W5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1668-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -732,7 +732,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj1668-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1700,7 +1700,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1668-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1727,7 +1727,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj1668-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1568,7 +1568,7 @@
 </w.rf>
 <form>odložení</form>
 <lemma>odložení_^(*3it)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj1865-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1986,7 +1986,7 @@
 </w.rf>
 <form>Doplnění</form>
 <lemma>doplnění_^(*3it)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj1865-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2013,7 +2013,7 @@
 </w.rf>
 <form>finanční</form>
 <lemma>finanční</lemma>
-<tag>AANS1----1A----</tag>
+<tag>AANS4----1A----</tag>
 </m>
 <m id="m-wsj1865-001-p1s9W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2022,7 +2022,7 @@
 </w.rf>
 <form>zajištění</form>
 <lemma>zajištění_^(*5stit)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj1865-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>

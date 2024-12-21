@@ -288,8 +288,8 @@
 <LM>w#w-wsj2302-001-p1s1W11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2302-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>

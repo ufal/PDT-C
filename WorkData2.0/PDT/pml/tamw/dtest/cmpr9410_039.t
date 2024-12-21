@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9410_039.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -111,7 +111,7 @@ za mimořádný výkon</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w3936f1</val_frame.rf>
+<val_frame.rf>v#v41gkcA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-039-p1s1w6">
 <a>
@@ -120,6 +120,7 @@ za mimořádný výkon</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -222,7 +223,7 @@ za mimořádný výkon</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w7167f1</val_frame.rf>
+<val_frame.rf>v#v41mpoA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-039-p1s2w4">
 <a>
@@ -295,7 +296,7 @@ za mimořádný výkon</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w8532f1</val_frame.rf>
+<val_frame.rf>v#v41pfmA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-039-p1s2a1">
 <nodetype>qcomplex</nodetype>
@@ -399,6 +400,7 @@ za mimořádný výkon</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mnoho</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>mnoho</proto_lemma>
 <gram>
 <sempos>adj.quant.grad</sempos>
 <degcmp>pos</degcmp>
@@ -427,7 +429,7 @@ za mimořádný výkon</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w9980f1</val_frame.rf>
+<val_frame.rf>v#v41scbC</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-039-p1s2a2">
 <nodetype>qcomplex</nodetype>
@@ -558,6 +560,9 @@ za mimořádný výkon</discourse_comment>
 <LM id="t-cmpr9410-039-p1s3w4">
 <a>
 <lex.rf>a#a-cmpr9410-039-p1s3w4</lex.rf>
+<aux.rf>
+<LM>a#a-cmpr9410-039-p1s3w3</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>probrat</t_lemma>
@@ -575,7 +580,7 @@ za mimořádný výkon</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w4299f2</val_frame.rf>
+<val_frame.rf>v#v41haoD</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-039-p1s3w2">
 <a>
@@ -677,6 +682,7 @@ za mimořádný výkon</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -737,6 +743,9 @@ za mimořádný výkon</discourse_comment>
 <LM id="t-cmpr9410-039-p1s3w17">
 <a>
 <lex.rf>a#a-cmpr9410-039-p1s3w17</lex.rf>
+<aux.rf>
+<LM>a#a-cmpr9410-039-p1s3w16</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pořádat</t_lemma>
@@ -754,7 +763,7 @@ za mimořádný výkon</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w3936f1</val_frame.rf>
+<val_frame.rf>v#v41gkcA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-039-p1s3w15">
 <a>
@@ -812,6 +821,7 @@ za mimořádný výkon</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>čtyři</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>čtyři</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -867,6 +877,7 @@ za mimořádný výkon</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-039-p1s4w1</LM>
@@ -879,13 +890,14 @@ za mimořádný výkon</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-039-p1s4w18</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w4287f1</val_frame.rf>
+<val_frame.rf>v#v41haaC</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-039-p1s4w1">
 <a>
@@ -1054,7 +1066,7 @@ za mimořádný výkon</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w181f1</val_frame.rf>
+<val_frame.rf>v#v41gvA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-039-p1s4a2">
 <nodetype>qcomplex</nodetype>
@@ -1129,7 +1141,7 @@ za mimořádný výkon</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w275f2</val_frame.rf>
+<val_frame.rf>v#v41lcD</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-039-p1s4w20">
 <a>
@@ -1206,7 +1218,7 @@ za mimořádný výkon</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w275f2</val_frame.rf>
+<val_frame.rf>v#v41lcD</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-039-p1s4a1">
 <nodetype>complex</nodetype>

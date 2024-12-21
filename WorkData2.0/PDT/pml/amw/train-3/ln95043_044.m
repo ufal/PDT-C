@@ -75,8 +75,8 @@
 <LM>w#w-ln95043-044-p2s1Aw2</LM>
 </w.rf>
 <form>Cavaka</form>
-<lemma>Cavako_;Y_,s_^(^DD**Cavaco)</lemma>
-<tag>NNMS2-----A---1</tag>
+<lemma>Cavaco_;Y</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-044-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -3947,8 +3947,8 @@
 <LM>w#w-ln95043-044-p10s1w2</LM>
 </w.rf>
 <form>Cavaka</form>
-<lemma>Cavako_;Y_,s_^(^DD**Cavaco)</lemma>
-<tag>NNMS2-----A---1</tag>
+<lemma>Cavaco_;Y</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-044-p10s1w3">
 <src.rf>manual</src.rf>

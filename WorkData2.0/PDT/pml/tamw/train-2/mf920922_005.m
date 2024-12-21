@@ -323,7 +323,7 @@
 </w.rf>
 <form>Čadce</form>
 <lemma>Čadca_;G</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS2-----A---1</tag>
 </m>
 <m id="m-mf920922-005-p2s2w20">
 <src.rf>manual</src.rf>
@@ -760,8 +760,8 @@
 <LM>w#w-mf920922-005-p2s4w15</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-005-p2s4w16">
 <src.rf>manual</src.rf>
@@ -1088,8 +1088,8 @@
 <LM>w#w-mf920922-005-p2s6w3</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-005-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1343,7 +1343,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-005-p2s7w19">
 <src.rf>manual</src.rf>
@@ -1505,9 +1505,9 @@
 <w.rf>
 <LM>w#w-mf920922-005-p2s8w11</LM>
 </w.rf>
-<form>části</form>
+<form>částí</form>
 <lemma>část</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFS7-----A----</tag>
 </m>
 <m id="m-mf920922-005-p2s8w12">
 <src.rf>manual</src.rf>

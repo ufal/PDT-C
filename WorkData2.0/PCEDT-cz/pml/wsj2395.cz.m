@@ -713,8 +713,8 @@
 <LM>w#w-wsj2395-001-p1s2W26</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2395-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1014,8 +1014,8 @@
 <LM>w#w-wsj2395-001-p1s4W6</LM>
 </w.rf>
 <form>akčně</form>
-<lemma>akčně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>akčně-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-wsj2395-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>

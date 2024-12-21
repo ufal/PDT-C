@@ -4581,7 +4581,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-069-p1s16w83">
 <src.rf>manual</src.rf>
@@ -7717,7 +7717,7 @@
 <LM>w#w-lnd94105-069-p1s31w5</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-069-p1s31w6">

@@ -897,8 +897,8 @@
 <LM>w#w-wsj1704-001-p1s4W3</LM>
 </w.rf>
 <form>totiž</form>
-<lemma>totiž-2</lemma>
-<tag>TT-------------</tag>
+<lemma>totiž-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1704-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1032,8 +1032,8 @@
 <LM>w#w-wsj1704-001-p1s4W18</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1704-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>

@@ -115,8 +115,9 @@
 <children>
 <LM id="a-mf920901-054-p1s1w14">
 <m.rf>m#m-mf920901-054-p1s1w14</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>14</ord>
 <clause_number>2</clause_number>
 <children>

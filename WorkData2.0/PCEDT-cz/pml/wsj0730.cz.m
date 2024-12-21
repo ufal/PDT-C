@@ -419,7 +419,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0730-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -429,7 +429,7 @@
 <form_change>spell</form_change>
 <form>několik</form>
 <lemma>několik</lemma>
-<tag>Ca--4----------</tag>
+<tag>Ca--1----------</tag>
 </m>
 <m id="m-wsj0730-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -438,7 +438,7 @@
 </w.rf>
 <form>málo</form>
 <lemma>málo-1_^(málo_peněz)</lemma>
-<tag>Ca--4----------</tag>
+<tag>Ca--1----------</tag>
 </m>
 <m id="m-wsj0730-001-p1s3W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1303,8 +1303,8 @@
 <LM>w#w-wsj0730-001-p1s8W28</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0730-001-p1s8W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2996,7 +2996,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0730-001-p1s17W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4236,7 +4236,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0730-001-p1s25W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7168,7 +7168,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0730-001-p1s40W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8295,7 +8295,7 @@
 <LM>w#w-wsj0730-001-p1s46W10</LM>
 </w.rf>
 <form>uvízli</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj0730-001-p1s46W11-Ta">
@@ -8496,7 +8496,7 @@
 </w.rf>
 <form>Denveru</form>
 <lemma>Denver-2_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0730-001-p1s47W19-Ta">
 <src.rf>tagger-a</src.rf>

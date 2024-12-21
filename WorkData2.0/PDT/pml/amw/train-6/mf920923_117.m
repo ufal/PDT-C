@@ -359,7 +359,7 @@
 </w.rf>
 <form>svléci</form>
 <lemma>svléci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920923-117-p4s2w30">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-117-p4s3w5">
 <src.rf>manual</src.rf>

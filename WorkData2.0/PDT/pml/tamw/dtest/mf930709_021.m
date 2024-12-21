@@ -922,8 +922,8 @@
 <LM>w#w-mf930709-021-p2s5w20</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-021-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930709-021-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1607,8 +1607,8 @@
 <LM>w#w-mf930709-021-p2s10w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-021-p2s10w4">
 <src.rf>manual</src.rf>
@@ -2023,8 +2023,8 @@
 <LM>w#w-mf930709-021-p2s11w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-021-p2s11w22">
 <src.rf>manual</src.rf>
@@ -2580,8 +2580,8 @@
 <LM>w#w-mf930709-021-p2s15w14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-021-p2s15w15">
 <src.rf>manual</src.rf>
@@ -2652,8 +2652,8 @@
 <LM>w#w-mf930709-021-p2s15w22</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-021-p2s15w23">
 <src.rf>manual</src.rf>

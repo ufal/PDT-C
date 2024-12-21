@@ -257,8 +257,8 @@
 <LM>w#w-ln94207-27-p2s1Bw21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-27-p2s1Bw22">
 <src.rf>manual</src.rf>

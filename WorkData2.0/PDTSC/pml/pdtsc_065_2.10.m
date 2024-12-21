@@ -554,16 +554,16 @@
 <LM>w#w-d1t2043-9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1t2043-10">
 <w.rf>
 <LM>w#w-d1t2043-10</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m119-d1t2043-11">
 <w.rf>
@@ -603,7 +603,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m119-d1t2043-15">
 <w.rf>
@@ -729,7 +729,7 @@
 </w.rf>
 <form>vyjmenovala</form>
 <lemma>vyjmenovat</lemma>
-<tag>VpQW----R-AAB--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m119-d1e2052-x2-147">
 <w.rf>
@@ -933,7 +933,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m119-d1t2068-15">
 <w.rf>
@@ -1234,8 +1234,8 @@
 <LM>w#w-d1t2079-28</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1t2079-29">
 <w.rf>
@@ -1750,8 +1750,8 @@
 <LM>w#w-d1t2101-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1t2101-6">
 <w.rf>
@@ -1908,8 +1908,8 @@
 <LM>w#w-d1t2107-14</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m119-d1t2109-1">
 <w.rf>
@@ -2930,8 +2930,8 @@
 <LM>w#w-d1t2157-25</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1t2157-26">
 <w.rf>
@@ -3161,7 +3161,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1t2166-17">
 <w.rf>
@@ -3218,7 +3218,7 @@
 <LM>w#w-d1t2166-22</LM>
 </w.rf>
 <form>dozvíme</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---1P-AAP--</tag>
 </m>
 <m id="m119-d1t2166-23">
@@ -3258,8 +3258,8 @@
 <LM>w#w-d1t2168-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1t2168-5">
 <w.rf>
