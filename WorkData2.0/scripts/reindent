@@ -1,0 +1,150 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use experimental qw( signatures );
+use feature qw{ say };
+
+use Math::Prime::Util qw{ gcd };
+use Path::Tiny qw{ path };
+
+{   my %CHANGE = ('-' => 'OLD',
+                  '+' => 'NEW',
+                  ' ' => 'SAME');
+    my %DIV = (schema => 2, reffile => 3);
+    my $HEAD = is_git()
+        ? '^diff --git a/(.*\.[wmat]) b/\1$'
+        : '^Index: (.*\.[wmat])';
+
+    sub main($diff) {
+        my $file;
+        my %change;
+        my @files;
+        while (my $line = <$diff>) {
+            if ($line =~ $HEAD) {
+                my $newfile = $1;
+                process($file, \@files, %change) if defined $file;
+                %change = ();
+                $file = $newfile;
+
+            } elsif ($line =~ m{^([-+ ])( *)<(schema|reffile) .*"( ?)/>}) {
+                $change{ $CHANGE{$1} }{INDENT} = length($2) / $DIV{$3};
+                $change{ $CHANGE{$1} }{END}    = length $4;
+
+            } elsif ($line =~ m{([-+]) *<children id=}) {
+                $change{ $CHANGE{$1} }{DROP_LM} = 1;
+
+            }
+            if ($line =~ m{^([-+])( *)<}) {
+                undef $change{ $CHANGE{$1} }{INDENTS}{ length $2 };
+            }
+        }
+        process($file, \@files, %change) if defined $file;
+
+        if (@files) {
+            my @cmd = is_git()
+                ? qw{ git diff }
+                : qw{ svn diff };
+            say 'Run 2';
+            open my $run2, '-|', @cmd, @files or die $!;
+            main($run2);
+        }
+    }
+}
+
+
+sub process($file, $afiles, %change) {
+    say("$file: no change"),
+    return if ! keys %change || $change{SAME};
+
+    use Data::Dumper; warn(Dumper \%change),
+    die "$file: Corrupt input"
+        if exists $change{OLD}{INDENT} xor exists $change{NEW}{INDENT};
+
+    # If schema|reffile line was not changed, get the indent from all the
+    # recoreded indents.
+    $change{OLD}{INDENT} //= 2 * gcd(keys %{ $change{OLD}{INDENTS} });
+    $change{NEW}{INDENT} //= 2 * gcd(keys %{ $change{NEW}{INDENTS} });
+
+    if ($change{OLD}{INDENT} != $change{NEW}{INDENT}
+        || ($change{OLD}{DROP_LM} // -1) != ($change{NEW}{DROP_LM} // -1)
+    ) {
+        set_backend($change{OLD}{INDENT}, $change{OLD}{DROP_LM} ? 0 : 1);
+
+        $change{OLD}{END} //= get_end($file);
+
+        $change{OLD}{DROP_LM} //= 0;
+        say "$file: btred (i$change{OLD}{INDENT} l$change{OLD}{DROP_LM})";
+        my $status = system 'btred', '--allow-no-trees', '-QSe1', $file;
+        die $status if 0 != $status;
+
+        $change{NEW}{END} = get_end($file);
+
+        push @$afiles, $file =~ s/t$/a/r if $file =~ /\.t$/;
+    }
+
+    fix_end($file, $change{OLD}{END}, $change{NEW}{END})
+        if ($change{OLD}{END} // -1) != ($change{NEW}{END} // -1);
+}
+
+
+{   my $backend_file = join '',
+                       $ENV{HOME},
+                       '/ufal/wsj-anot/tred_extensions/wsj-anot/resources/',
+                       'pmlbackend_conf.xml';
+    my $backend = path($backend_file)->slurp;
+
+    sub set_backend($indent, $single_lm) {
+        $backend =~ s{<indent>          \K \d+ (?=</indent>) }{$indent}x;
+        $backend =~ s{<write_single_LM> \K \d+ (?=</write_single_LM>) }
+                     {$single_lm}x;
+        path($backend_file)->spew($backend);
+    }
+}
+
+
+sub get_end($file) {
+    open my $in, '<', $file or die $!;
+    while (my $line = <$in>) {
+        if ($line =~ m{<(?:schema|reffile) .*"( *)/>}) {
+            return length $1
+        }
+    }
+    die "$file: Schema not found."
+}
+
+
+sub fix_end($file, $old, $new) {
+    say "$file: e$old";
+    open my $in,  '<', $file or die $!;
+    open my $out, '>', "$file.$$.new" or die $!;
+    my $search  = ' ' x $new;
+    my $replace = ' ' x $old;
+    while (my $line = <$in>) {
+        $line =~ s{^ *<(?:schema|reffile) .*"\K$search(?=/>)}{$replace};
+        print {$out} $line;
+    }
+    close $out or die $!;
+    rename "$file.$$.new", $file or die $!;
+}
+
+
+sub is_git() {
+    0 == system 'git rev-parse --show-toplevel >& /dev/null'
+}
+
+main(\*ARGV);
+
+
+=head1 NAME
+
+ reindent - Fix indentation of PDT files to minimise the diff.
+
+=head1 SYNOPSIS
+
+ reindent path/to/file
+
+=head1 DESCRIPTION
+
+ Send the output of C<git diff> or C<svn diff> to the stdin of this script.
+
+=cut
