@@ -4876,24 +4876,6 @@
   <LM id="jg-26127_04.02-SCzechT-jg-26127_04-3493-root">
    <atree.rf>a#jg-26127_04.02-SCzechA-jg-26127_04-3493-root</atree.rf>
    <deepord>0</deepord>
-   <children>
-    <LM id="jg-26127_04.02-SCzechT-jg-26127_04-3493-roota1">
-     <a>
-      <lex.rf>a#jg-26127_04.02-SCzechA-m-3932-4014</lex.rf>
-     </a>
-     <nodetype>complex</nodetype>
-     <t_lemma>1935</t_lemma>
-     <functor>DENOM</functor>
-     <sentmod>enunc</sentmod>
-     <gram>
-      <sempos>n.quant.def</sempos>
-      <gender>nr</gender>
-      <number>nr</number>
-      <numertype>basic</numertype>
-     </gram>
-     <deepord>1</deepord>
-    </LM>
-   </children>
   </LM>
   <LM id="jg-26127_04.02-SCzechT-jg-26127_04-3495-root">
    <atree.rf>a#jg-26127_04.02-SCzechA-jg-26127_04-3495-root</atree.rf>

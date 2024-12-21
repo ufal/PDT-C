@@ -876,7 +876,7 @@
 <LM>w#w-ln95041-047-p3s2w11</LM>
 </w.rf>
 <form>rozevlátým</form>
-<lemma>rozevlátý</lemma>
+<lemma>rozevlátý_^(*1)</lemma>
 <tag>AANS7----1A----</tag>
 </m>
 <m id="m-ln95041-047-p3s2w12">

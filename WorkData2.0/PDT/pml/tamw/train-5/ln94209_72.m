@@ -1413,7 +1413,7 @@
 <LM>w#w-ln94209-72-p3s5w30</LM>
 </w.rf>
 <form>rozevlátý</form>
-<lemma>rozevlátý</lemma>
+<lemma>rozevlátý_^(*1)</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m-ln94209-72-p3s5w31">

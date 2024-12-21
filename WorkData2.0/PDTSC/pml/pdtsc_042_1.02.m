@@ -5391,7 +5391,7 @@
 <LM>w#w-d1t1259-5</LM>
 </w.rf>
 <form>česačky</form>
-<lemma>česačka_^(^DD**česáčka)_(*2)</lemma>
+<lemma>česačka</lemma>
 <tag>NNFP1-----A----</tag>
 </m>
 <m id="m012-d1e1250-x2-1564">

@@ -3825,7 +3825,7 @@
 </w.rf>
 <form>nevzdat</form>
 <lemma>vzdát</lemma>
-<tag>Vf--------N-P--</tag>
+<tag>Vf--------N-P-1</tag>
 </m>
 <m id="m-ln95048-050-p13s10w15">
 <src.rf>manual</src.rf>

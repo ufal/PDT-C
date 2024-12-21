@@ -1389,7 +1389,7 @@
 <LM>w#w-vesm9303-035-p5s3w10</LM>
 </w.rf>
 <form>věštění</form>
-<lemma>věštění_^(^DD**věštění)_(*3it)_(*5stit)</lemma>
+<lemma>věštění_^(*3it)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-vesm9303-035-p5s3w11">

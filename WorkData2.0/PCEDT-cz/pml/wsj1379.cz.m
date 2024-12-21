@@ -4190,7 +4190,7 @@
 <LM>w#w-wsj1379-001-p1s16W4</LM>
 </w.rf>
 <form>řezačkou</form>
-<lemma>řezačka_^(^DD**řezáčka-2)_(*2)</lemma>
+<lemma>řezačka</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1379-001-p1s16W5-Ta">

@@ -356,7 +356,7 @@
 <LM>w#w-lnd91303-064-p2s2w9</LM>
 </w.rf>
 <form>věštění</form>
-<lemma>věštění_^(^DD**věštění)_(*3it)_(*5stit)</lemma>
+<lemma>věštění_^(*3it)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-064-p2s2w10">

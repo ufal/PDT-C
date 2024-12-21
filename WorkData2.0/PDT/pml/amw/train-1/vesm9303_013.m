@@ -1440,7 +1440,7 @@
 </w.rf>
 <form>dáti</form>
 <lemma>dát-1</lemma>
-<tag>Vf--------A-P-2</tag>
+<tag>Vf--------A-P-1</tag>
 </m>
 <m id="m-vesm9303-013-p2s7Aw21">
 <src.rf>manual</src.rf>

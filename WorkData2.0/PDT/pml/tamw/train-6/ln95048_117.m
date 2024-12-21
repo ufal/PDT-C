@@ -4665,7 +4665,7 @@
 <LM>w#w-ln95048-117-p7s3w4</LM>
 </w.rf>
 <form>rozevlátými</form>
-<lemma>rozevlátý</lemma>
+<lemma>rozevlátý_^(*1)</lemma>
 <tag>AAIP7----1A----</tag>
 </m>
 <m id="m-ln95048-117-p7s3w5">

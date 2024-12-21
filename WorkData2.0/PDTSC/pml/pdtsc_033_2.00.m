@@ -3912,7 +3912,7 @@
 </w.rf>
 <form>snajperů</form>
 <lemma>snajper_,s_^(^DD**snajpr)</lemma>
-<tag>NNMP2-----A---2</tag>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m976-d-id64781">
 <w.rf>

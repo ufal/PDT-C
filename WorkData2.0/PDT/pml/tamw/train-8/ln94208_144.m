@@ -3979,7 +3979,7 @@
 <LM>w#w-ln94208-144-p7s5w5</LM>
 </w.rf>
 <form>řezačky</form>
-<lemma>řezačka_^(^DD**řezáčka-2)_(*2)</lemma>
+<lemma>řezačka</lemma>
 <tag>NNFP4-----A----</tag>
 </m>
 <m id="m-ln94208-144-p7s5w6">
