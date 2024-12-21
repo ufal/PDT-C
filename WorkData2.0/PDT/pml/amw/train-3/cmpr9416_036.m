@@ -466,8 +466,8 @@
 <LM>w#w-cmpr9416-036-p6s1w1</LM>
 </w.rf>
 <form>Než</form>
-<lemma>než-1_,h_^(jenom,_př._byl_tam_než_Pavel)</lemma>
-<tag>TT-------------</tag>
+<lemma>než-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9416-036-p6s1w2">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-cmpr9416-036-p6s1w8</LM>
 </w.rf>
 <form>znova</form>
-<lemma>znova</lemma>
+<lemma>znova_,s_^(^DD**znovu)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9416-036-p6s1w9">
@@ -821,7 +821,7 @@
 <LM>w#w-cmpr9416-036-p6s3w1</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9416-036-p6s3w2">
@@ -1228,7 +1228,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-036-p7s4w4">
 <src.rf>manual</src.rf>
@@ -1986,8 +1986,8 @@
 <LM>w#w-cmpr9416-036-p7s10w4</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-036-p7s10w5">
 <src.rf>manual</src.rf>

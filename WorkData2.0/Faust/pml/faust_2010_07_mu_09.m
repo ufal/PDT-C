@@ -130,7 +130,7 @@
 <LM>w#w-mu_09-SCzechM-p0874-s1-w3</LM>
 </w.rf>
 <form>lupenkou</form>
-<lemma>lupenka</lemma>
+<lemma>lupenka_,s_^(^DD**lupénka)</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="mu_09-SCzechM-p0874-s1-w4">
@@ -1195,8 +1195,8 @@
 <LM>w#w-mu_09-SCzechM-p0896-s1-w9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_09-SCzechM-p0896-s1-w10">
 <w.rf>
@@ -1339,8 +1339,8 @@
 <LM>w#w-mu_09-SCzechM-p0896-s1-w27</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_09-SCzechM-p0896-s1-w28">
 <w.rf>
@@ -1853,7 +1853,7 @@
 </w.rf>
 <form>které</form>
 <lemma>který</lemma>
-<tag>P4YP4----------</tag>
+<tag>P4IP1----------</tag>
 </m>
 <m id="mu_09-SCzechM-p0901-s1-w6">
 <w.rf>
@@ -1972,8 +1972,8 @@
 <LM>w#w-mu_09-SCzechM-p0901-s1-w20</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="mu_09-SCzechM-p0901-s1-w21">
 <w.rf>
@@ -2055,7 +2055,7 @@
 </w.rf>
 <form>dobrý</form>
 <lemma>dobrý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>AAIS1----1A----</tag>
 </m>
 <m id="mu_09-SCzechM-p0904-s1-w2">
 <w.rf>
@@ -2063,7 +2063,7 @@
 </w.rf>
 <form>rok</form>
 <lemma>rok</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 </s>
 <s id="s-mu_09-SCzechM-p0905-s1-w1">
@@ -2306,7 +2306,7 @@
 <LM>w#w-mu_09-SCzechM-p0913-s1-w12</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="mu_09-SCzechM-p0913-s1-w13">
@@ -3030,7 +3030,7 @@
 </w.rf>
 <form>Berani</form>
 <lemma>beran-1</lemma>
-<tag>NNMP1-----A----</tag>
+<tag>NNMP5-----A----</tag>
 </m>
 <m id="mu_09-SCzechM-p0937-s1-w2">
 <w.rf>
@@ -3141,8 +3141,8 @@
 <LM>w#w-mu_09-SCzechM-p0937-s1-w15</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_09-SCzechM-p0937-s1-w16">
 <w.rf>
@@ -3157,8 +3157,8 @@
 <LM>w#w-mu_09-SCzechM-p0937-s1-w17</LM>
 </w.rf>
 <form>však</form>
-<lemma>však-2</lemma>
-<tag>TT-------------</tag>
+<lemma>však-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="mu_09-SCzechM-p0937-s1-w18">
 <w.rf>
@@ -3309,8 +3309,8 @@
 <LM>w#w-mu_09-SCzechM-p0937-s1-w36</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_09-SCzechM-p0937-s1-w37">
 <w.rf>
@@ -3473,16 +3473,16 @@
 <LM>w#w-mu_09-SCzechM-p0941-s1-w9</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="mu_09-SCzechM-p0941-s1-w10">
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0941-s1-w10</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_09-SCzechM-p0941-s1-w11">
 <w.rf>
@@ -3588,7 +3588,7 @@
 </w.rf>
 <form>s</form>
 <lemma>s-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--7----------</tag>
 </m>
 <m id="mu_09-SCzechM-p0942-s1-w7">
 <w.rf>
@@ -4318,7 +4318,7 @@
 <form_change>spell</form_change>
 <form>harmonogram</form>
 <lemma>harmonogram</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="mu_09-SCzechM-p0957-s1-w2">
 <w.rf>

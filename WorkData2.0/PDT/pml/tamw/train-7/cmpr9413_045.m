@@ -129,8 +129,8 @@
 <LM>w#w-cmpr9413-045-p3s1w11</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-045-p3s1w12">
 <src.rf>manual</src.rf>
@@ -138,8 +138,8 @@
 <LM>w#w-cmpr9413-045-p3s1w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-045-p3s1w13">
 <src.rf>manual</src.rf>
@@ -790,7 +790,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-045-p6s2w8">
 <src.rf>manual</src.rf>
@@ -1296,8 +1296,8 @@
 <LM>w#w-cmpr9413-045-p8s2w3</LM>
 </w.rf>
 <form>vedoucí</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS1-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-045-p8s2w4">
 <src.rf>manual</src.rf>
@@ -1449,8 +1449,8 @@
 <LM>w#w-cmpr9413-045-p8s2w20</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-045-p8s2w21">
 <src.rf>manual</src.rf>
@@ -1458,8 +1458,8 @@
 <LM>w#w-cmpr9413-045-p8s2w21</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-045-p8s2w22">
 <src.rf>manual</src.rf>
@@ -1467,8 +1467,8 @@
 <LM>w#w-cmpr9413-045-p8s2w22</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9413-045-p8s2w23">
 <src.rf>manual</src.rf>
@@ -1503,8 +1503,8 @@
 <LM>w#w-cmpr9413-045-p8s2w26</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-045-p8s2w27">
 <src.rf>manual</src.rf>
@@ -1512,8 +1512,8 @@
 <LM>w#w-cmpr9413-045-p8s2w27</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-045-p8s2w28">
 <src.rf>manual</src.rf>
@@ -1889,8 +1889,8 @@
 <LM>w#w-cmpr9413-045-p9s3w3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-045-p9s3w4">
 <src.rf>manual</src.rf>

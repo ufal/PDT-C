@@ -947,8 +947,8 @@
 <LM>w#w-mf930713-028-p2s5w18</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-028-p2s5w19">
 <src.rf>manual</src.rf>

@@ -24,14 +24,14 @@
 <children>
 <LM id="a-ln95048-047-p1s1w1">
 <m.rf>m#m-ln95048-047-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95048-047-p1s1w3">
 <m.rf>m#m-ln95048-047-p1s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
@@ -94,7 +94,7 @@
 <children>
 <LM id="a-ln95048-047-p2s1w9">
 <m.rf>m#m-ln95048-047-p2s1w9</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -134,24 +134,26 @@
 </LM>
 </children>
 </LM>
-<LM id="a-ln95048-047-p2s1w14">
-<m.rf>m#m-ln95048-047-p2s1w14</m.rf>
-<afun>ExD</afun>
-<ord>14</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-ln95048-047-p2s1w15">
 <m.rf>m#m-ln95048-047-p2s1w15</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
 <ord>15</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-ln95048-047-p2s1w14">
+<m.rf>m#m-ln95048-047-p2s1w14</m.rf>
+<afun>AuxG</afun>
+<ord>14</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95048-047-p2s1w16">
 <m.rf>m#m-ln95048-047-p2s1w16</m.rf>
-<afun>ExD</afun>
+<afun>AuxG</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -981,6 +983,7 @@
 <LM id="a-ln95048-047-p2s5w16">
 <m.rf>m#m-ln95048-047-p2s5w16</m.rf>
 <afun>Adv</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>
@@ -992,7 +995,7 @@
 </LM>
 <LM id="a-ln95048-047-p2s5w15">
 <m.rf>m#m-ln95048-047-p2s5w15</m.rf>
-<afun>AuxZ</afun>
+<afun>Adv</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1003,6 +1006,9 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 <LM id="a-ln95048-047-p2s5w19">
 <m.rf>m#m-ln95048-047-p2s5w19</m.rf>

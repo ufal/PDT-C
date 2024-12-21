@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_111.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -47,7 +47,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9032f1</val_frame.rf>
+<val_frame.rf>v#v41qfqA</val_frame.rf>
 <children>
 <LM id="t-ln94207-111-p1s1w2">
 <a>
@@ -315,6 +315,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -328,7 +329,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w1855f2</val_frame.rf>
+<val_frame.rf>v#v41chlO</val_frame.rf>
 <children>
 <LM id="t-ln94207-111-p1s2w4">
 <a>
@@ -366,8 +367,9 @@
 <lex.rf>a#a-ln94207-111-p1s2w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kvalitativní</t_lemma>
+<t_lemma>kvalitativně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>kvalitativní</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -431,8 +433,9 @@
 <lex.rf>a#a-ln94207-111-p1s2w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kolik</t_lemma>
+<t_lemma>několik</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>kolik</proto_lemma>
 <gram>
 <sempos>adj.quant.indef</sempos>
 <indeftype>indef1</indeftype>
@@ -465,7 +468,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w3411f1</val_frame.rf>
+<val_frame.rf>v#v41fjzE</val_frame.rf>
 <children>
 <LM id="t-ln94207-111-p1s2w11">
 <a>
@@ -499,7 +502,7 @@
 <lex.rf>a#a-ln94207-111-p1s2w12</lex.rf>
 </a>
 <nodetype>atom</nodetype>
-<t_lemma>sporně</t_lemma>
+<t_lemma>nesporně</t_lemma>
 <functor>MOD</functor>
 <tfa>f</tfa>
 <deepord>12</deepord>
@@ -689,6 +692,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -701,7 +705,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94207-111-p1s3w3">
 <a>
@@ -749,8 +753,9 @@
 <lex.rf>a#a-ln94207-111-p1s3w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kolik</t_lemma>
+<t_lemma>několik</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>kolik</proto_lemma>
 <gram>
 <sempos>adj.quant.indef</sempos>
 <indeftype>indef1</indeftype>
@@ -1074,7 +1079,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w3265f1</val_frame.rf>
+<val_frame.rf>v#v41fdfA</val_frame.rf>
 <children>
 <LM id="t-ln94207-111-p1s4w1">
 <a>
@@ -1111,8 +1116,9 @@
 <lex.rf>a#a-ln94207-111-p1s4w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>denní</t_lemma>
+<t_lemma>denně</t_lemma>
 <functor>THO</functor>
+<proto_lemma>denní</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>

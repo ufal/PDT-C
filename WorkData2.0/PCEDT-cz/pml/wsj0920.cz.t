@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0920.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <trees>
@@ -19,11 +19,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>uvést</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>25</deepord>
-<val_frame.rf>v#v-w7449f1</val_frame.rf>
+<val_frame.rf>v#v41ndjA</val_frame.rf>
 <children>
 <LM id="T-wsj0920-001-p1s0a35">
 <a>
@@ -32,12 +33,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>mít</proto_lemma>
+<sentmod>enunc</sentmod>
 <is_dsp_root>1</is_dsp_root>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w1855f18</val_frame.rf>
+<val_frame.rf>v#v41chlDY</val_frame.rf>
 <children>
 <LM id="T-wsj0920-001-p1s0a2">
 <a>
@@ -88,7 +91,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7866f1</val_frame.rf>
+<val_frame.rf>v#v41nxzA</val_frame.rf>
 <children>
 <LM id="T-wsj0920-001-p1s0a7">
 <a>
@@ -395,11 +398,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>použít</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w4130f2</val_frame.rf>
+<val_frame.rf>v#v41gsyB</val_frame.rf>
 <children>
 <LM id="T-wsj0920-001-p1s1a10">
 <nodetype>complex</nodetype>

@@ -362,7 +362,7 @@
 </w.rf>
 <form>věnováno</form>
 <lemma>věnovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-wsj1520-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -472,7 +472,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1520-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -773,8 +773,8 @@
 <LM>w#w-wsj1520-001-p1s4W10</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1520-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -928,8 +928,8 @@
 <LM>w#w-wsj1520-001-p1s5W8</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1520-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>

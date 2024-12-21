@@ -416,8 +416,8 @@
 <LM>w#w-ln94204-20-p3s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-20-p3s1w6">
 <src.rf>manual</src.rf>
@@ -470,8 +470,8 @@
 <LM>w#w-ln94204-20-p3s1w11</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-20-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1916,7 +1916,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-20-p6s1w20">
 <src.rf>manual</src.rf>

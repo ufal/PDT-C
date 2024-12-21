@@ -587,8 +587,8 @@
 <LM>w#w-ln95042-039-p2s4w9</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95042-039-p2s4w10">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95042-039-p2s4w14">
 <src.rf>manual</src.rf>

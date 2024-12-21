@@ -129,7 +129,7 @@
 <LM>w#w-vesm9212-007-p2s1w6</LM>
 </w.rf>
 <form>dozvědět</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9212-007-p2s1w7">
@@ -484,7 +484,7 @@
 <LM>w#w-vesm9212-007-p3s2w1</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-vesm9212-007-p3s2w2">
@@ -2995,8 +2995,8 @@
 <LM>w#w-vesm9212-007-p5s2w15</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-007-p5s2w16">
 <src.rf>manual</src.rf>
@@ -5649,8 +5649,8 @@
 <LM>w#w-vesm9212-007-p6s4w67</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-007-p6s4w68">
 <src.rf>manual</src.rf>

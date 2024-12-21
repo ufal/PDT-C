@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_102.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -66,7 +66,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w7951f3</val_frame.rf>
+<val_frame.rf>v#v41ocbP</val_frame.rf>
 <children>
 <LM id="t-ln94210-102-p2s1w2">
 <a>
@@ -301,6 +301,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -471,15 +472,16 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w2500f1</val_frame.rf>
+<val_frame.rf>v#v41dpuA</val_frame.rf>
 <children>
 <LM id="t-ln94210-102-p2s2w1">
 <a>
 <lex.rf>a#a-ln94210-102-p2s2w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>poprvé</t_lemma>
 <functor>THO</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -539,8 +541,9 @@
 <lex.rf>a#a-ln94210-102-p2s2w3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tady</t_lemma>
+<t_lemma>zde</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>tady</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -595,6 +598,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -680,13 +684,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-102-p2s2w15</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w7568f1</val_frame.rf>
+<val_frame.rf>v#v41njeA</val_frame.rf>
 <children>
 <LM id="t-ln94210-102-p2s2a0">
 <nodetype>qcomplex</nodetype>

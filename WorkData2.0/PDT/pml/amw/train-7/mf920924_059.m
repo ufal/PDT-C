@@ -123,7 +123,7 @@
 </w.rf>
 <form>rekonstruována</form>
 <lemma>rekonstruovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-mf920924-059-p2s2w6">
 <src.rf>manual</src.rf>

@@ -311,8 +311,8 @@
 <LM>w#w-mf920901-040-p2s2w20</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-040-p2s2w21">
 <src.rf>manual</src.rf>
@@ -882,8 +882,8 @@
 <LM>w#w-mf920901-040-p3s1w14</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-040-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1680,8 +1680,8 @@
 <LM>w#w-mf920901-040-p4s1w16</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-040-p4s1w17">
 <src.rf>manual</src.rf>

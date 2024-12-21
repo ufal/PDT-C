@@ -298,7 +298,7 @@
 </w.rf>
 <form>stupňujícím</form>
 <lemma>stupňující_^(*5ovat)</lemma>
-<tag>AGNS6-----A----</tag>
+<tag>AGIS6-----A----</tag>
 </m>
 <m id="m-wsj2357-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -316,7 +316,7 @@
 </w.rf>
 <form>boji</form>
 <lemma>boj</lemma>
-<tag>NNIP7-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj2357-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1305,7 +1305,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2357-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>

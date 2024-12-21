@@ -312,7 +312,7 @@
 <LM>w#w-ln95043-030-p2s1Bw29</LM>
 </w.rf>
 <form>mysterium</form>
-<lemma>mysterium</lemma>
+<lemma>mysterium_,s_^(^DD**mystérium)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln95043-030-p2s1Bw30">
@@ -1495,7 +1495,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-030-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1966,8 +1966,8 @@
 <LM>w#w-ln95043-030-p4s1w21</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-030-p4s1w22">
 <src.rf>manual</src.rf>
@@ -3236,8 +3236,8 @@
 <LM>w#w-ln95043-030-p5s2w2</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-030-p5s2w3">
 <src.rf>manual</src.rf>
@@ -3281,8 +3281,8 @@
 <LM>w#w-ln95043-030-p5s2w7</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-030-p5s2w8">
 <src.rf>manual</src.rf>
@@ -3299,8 +3299,8 @@
 <LM>w#w-ln95043-030-p5s2w9</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95043-030-p5s2w10">
 <src.rf>manual</src.rf>
@@ -4789,8 +4789,8 @@
 <LM>w#w-ln95043-030-p7s1w4</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95043-030-p7s1w5">
 <src.rf>manual</src.rf>

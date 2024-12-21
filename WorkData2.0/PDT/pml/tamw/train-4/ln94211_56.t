@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94211_56.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -54,7 +54,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>wrongTR? co to "o" na konci nadpisu? (na a-rovine
 znaceno jako AuxK)
 Nemelo by to byt az na zacatku dalsi vety  -jako 
@@ -258,6 +258,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -277,13 +278,14 @@ oznaceni reci novinare?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-56-p2s2w2</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1855f10</val_frame.rf>
+<val_frame.rf>v#v41chlAH</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p2s1w5">
 <a>
@@ -388,7 +390,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w575f1</val_frame.rf>
+<val_frame.rf>v#v41yvA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p2s1a2">
 <nodetype>qcomplex</nodetype>
@@ -422,7 +424,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w8505f2</val_frame.rf>
+<val_frame.rf>v#v41pejA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p2s1w11">
 <a>
@@ -653,7 +655,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w4527f1</val_frame.rf>
+<val_frame.rf>v#v41hmkA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p2s2w2">
 <a>
@@ -727,7 +729,7 @@ oznaceni reci novinare?</discourse_comment>
 <type>SET_SUB</type>
 </LM>
 </bridging>
-<val_frame.rf>v#v-w6249f1</val_frame.rf>
+<val_frame.rf>v#v41kxkA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p2s2a1">
 <nodetype>qcomplex</nodetype>
@@ -825,6 +827,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>inter</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -837,7 +840,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p2s3w5">
 <a>
@@ -918,6 +921,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tak</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>tak</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -969,7 +973,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w761f2</val_frame.rf>
+<val_frame.rf>v#v41ahjE</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s1w5">
 <a>
@@ -1063,7 +1067,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w7017f2</val_frame.rf>
+<val_frame.rf>v#v41mhqC</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s1a2">
 <nodetype>complex</nodetype>
@@ -1144,6 +1148,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -1164,13 +1169,14 @@ oznaceni reci novinare?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-56-p3s1w12</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s1a3">
 <nodetype>complex</nodetype>
@@ -1230,7 +1236,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w9155f1</val_frame.rf>
+<val_frame.rf>v#v41qmaA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s1w18">
 <a>
@@ -1280,8 +1286,9 @@ oznaceni reci novinare?</discourse_comment>
 <lex.rf>a#a-ln94211-56-p3s1w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>hlasitý</t_lemma>
+<t_lemma>hlasitě</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>hlasitý</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -1321,6 +1328,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1340,13 +1348,14 @@ oznaceni reci novinare?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-56-p3s2w2</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s2w2">
 <a>
@@ -1403,7 +1412,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w409f1</val_frame.rf>
+<val_frame.rf>v#v41reO</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s2w7">
 <a>
@@ -1523,6 +1532,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>inter</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1535,7 +1545,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s3w2">
 <a>
@@ -1544,6 +1554,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -1625,6 +1636,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>hrát</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>hrát</proto_lemma>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -1637,7 +1649,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w1122f2</val_frame.rf>
+<val_frame.rf>v#v41aypD</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s3w14">
 <a>
@@ -1675,8 +1687,9 @@ oznaceni reci novinare?</discourse_comment>
 <lex.rf>a#a-ln94211-56-p3s3w12</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdo</t_lemma>
+<t_lemma>něčí</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>kdo</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>fem</gender>
@@ -1721,13 +1734,14 @@ oznaceni reci novinare?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-56-p3s3w15</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w9155f1</val_frame.rf>
+<val_frame.rf>v#v41qmaA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s3w20">
 <a>
@@ -1859,6 +1873,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>jaký</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jaký</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>inter</indeftype>
@@ -1913,7 +1928,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w1018f1</val_frame.rf>
+<val_frame.rf>v#v41atqA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s4w1">
 <a>
@@ -2054,6 +2069,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -2073,13 +2089,14 @@ oznaceni reci novinare?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-56-p3s5w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s5w1">
 <a>
@@ -2098,6 +2115,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>inan</gender>
@@ -2222,6 +2240,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>CNCS</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -2239,14 +2258,15 @@ oznaceni reci novinare?</discourse_comment>
 <type>discourse</type>
 <start_range>0</start_range>
 <target_range>0</target_range>
-<discourse_type>conc</discourse_type>
+<discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-56-p3s5w12</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s5w14">
 <a>
@@ -2255,6 +2275,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -2378,7 +2399,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w1018f1</val_frame.rf>
+<val_frame.rf>v#v41atqA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s6w4">
 <a>
@@ -2413,6 +2434,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -2523,6 +2545,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -2542,13 +2565,14 @@ oznaceni reci novinare?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-56-p3s7w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s7w1">
 <a>
@@ -2636,7 +2660,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w1339f2</val_frame.rf>
+<val_frame.rf>v#v41bikX</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s7w7">
 <a>
@@ -2645,6 +2669,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -2687,7 +2712,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w7033f1</val_frame.rf>
+<val_frame.rf>v#v41mikA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s7a0">
 <nodetype>qcomplex</nodetype>
@@ -2835,7 +2860,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w7548f1</val_frame.rf>
+<val_frame.rf>v#v41nihC</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s8Aw7">
 <a>
@@ -2847,6 +2872,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -2858,7 +2884,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s8Aw6">
 <a>
@@ -2882,7 +2908,7 @@ oznaceni reci novinare?</discourse_comment>
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w9225f1</val_frame.rf>
+<val_frame.rf>v#v41qprA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s8Aa1">
 <nodetype>qcomplex</nodetype>
@@ -2961,6 +2987,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -2981,13 +3008,14 @@ oznaceni reci novinare?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-56-p3s8Aw10</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1855f23</val_frame.rf>
+<val_frame.rf>v#v41chlCI</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s8Aw14">
 <a>
@@ -3145,7 +3173,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w9950f1</val_frame.rf>
+<val_frame.rf>v#v41sauB</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s8Bw5">
 <a>
@@ -3186,7 +3214,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w4382f1</val_frame.rf>
+<val_frame.rf>v#v41hetA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s8Ba2">
 <nodetype>qcomplex</nodetype>
@@ -3262,6 +3290,7 @@ oznaceni reci novinare?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -3273,7 +3302,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w243f193_MM</val_frame.rf>
+<val_frame.rf>v#v41jsP</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s8Bw15">
 <a>
@@ -3319,7 +3348,7 @@ oznaceni reci novinare?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w7131f1</val_frame.rf>
+<val_frame.rf>v#v41mnsA</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s8Ba5">
 <nodetype>qcomplex</nodetype>
@@ -3398,13 +3427,14 @@ oznaceni reci novinare?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-56-p3s9w2</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1953f1</val_frame.rf>
+<val_frame.rf>v#v41cmdB</val_frame.rf>
 <children>
 <LM id="t-ln94211-56-p3s9w2">
 <a>

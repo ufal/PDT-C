@@ -1110,7 +1110,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94105-120-p1s8Aw7">
 <src.rf>manual</src.rf>
@@ -1227,7 +1227,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94105-120-p1s8Aw20">
 <src.rf>manual</src.rf>
@@ -1525,7 +1525,7 @@
 <LM>w#w-lnd94105-120-p1s8Bw10</LM>
 </w.rf>
 <form>rebus</form>
-<lemma>rebus</lemma>
+<lemma>rebus_,s_^(^DD**rébus)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-120-p1s8Bw11">
@@ -2141,7 +2141,7 @@
 <LM>w#w-lnd94105-120-p1s14w7</LM>
 </w.rf>
 <form>utvářel</form>
-<lemma>utvářet_^(tvořit)</lemma>
+<lemma>utvářet</lemma>
 <tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-120-p1s14w8">

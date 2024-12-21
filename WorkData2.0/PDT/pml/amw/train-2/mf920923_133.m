@@ -927,7 +927,7 @@
 </w.rf>
 <form>reagovaly</form>
 <lemma>reagovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-mf920923-133-p3s2w4">
 <src.rf>manual</src.rf>

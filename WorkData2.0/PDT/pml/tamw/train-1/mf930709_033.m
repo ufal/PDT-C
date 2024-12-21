@@ -1208,8 +1208,8 @@
 <LM>w#w-mf930709-033-p3s3w9</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-033-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1309,8 +1309,8 @@
 <LM>w#w-mf930709-033-p4s1w7</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-033-p4s1w8">
 <src.rf>manual</src.rf>

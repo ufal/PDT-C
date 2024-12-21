@@ -1355,7 +1355,7 @@
 <LM>w#w-cmpr9407-039-p8s2w4</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9407-039-p8s2w5">
@@ -2166,8 +2166,8 @@
 <LM>w#w-cmpr9407-039-p11s1w3</LM>
 </w.rf>
 <form>kupující</form>
-<lemma>kupující_^(*5ovat)</lemma>
-<tag>AGMS1-----A----</tag>
+<lemma>kupující-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-039-p11s1w4">
 <src.rf>manual</src.rf>
@@ -2576,7 +2576,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-039-p12s1w18">
 <src.rf>manual</src.rf>
@@ -3452,7 +3452,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-039-p15s3w3">
 <src.rf>manual</src.rf>
@@ -3487,8 +3487,8 @@
 <LM>w#w-cmpr9407-039-p15s3w6</LM>
 </w.rf>
 <form>uváženou</form>
-<lemma>uvážený_^(*2t)_(*3it)</lemma>
-<tag>AAFS4----1A----</tag>
+<lemma>uvážená</lemma>
+<tag>NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9407-039-p15s3w7">
 <src.rf>manual</src.rf>

@@ -73,8 +73,8 @@
 <LM>w#w-lnd94103-104-p1s1w7</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-104-p1s1w8">
 <src.rf>manual</src.rf>

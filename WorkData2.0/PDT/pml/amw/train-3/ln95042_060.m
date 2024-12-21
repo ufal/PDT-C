@@ -57,8 +57,8 @@
 <LM>w#w-ln95042-060-p2s1w1</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-060-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-060-p3s9w18">
 <src.rf>manual</src.rf>

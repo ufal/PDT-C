@@ -185,8 +185,8 @@
 <LM>w#w-ln94203-13-p2s1Bw8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-13-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -742,8 +742,8 @@
 <LM>w#w-ln94203-13-p3s2w12</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-13-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1050,8 +1050,8 @@
 <LM>w#w-ln94203-13-p4s1w12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-13-p4s1w13">
 <src.rf>manual</src.rf>

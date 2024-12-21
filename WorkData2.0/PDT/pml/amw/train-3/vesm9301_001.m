@@ -1274,7 +1274,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-001-p4s4w22">
 <src.rf>manual</src.rf>
@@ -2734,8 +2734,8 @@
 <LM>w#w-vesm9301-001-p10s5w1</LM>
 </w.rf>
 <form>Následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-001-p10s5w2">
 <src.rf>manual</src.rf>

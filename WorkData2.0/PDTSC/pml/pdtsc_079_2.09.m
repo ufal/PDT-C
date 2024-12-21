@@ -541,7 +541,7 @@
 </w.rf>
 <form>práce</form>
 <lemma>práce_^(jako_činnost_i_místo)</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m147-d-id132477-punct">
 <w.rf>
@@ -898,8 +898,8 @@
 <LM>w#w-339-349</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t902-1">
 <w.rf>
@@ -1586,8 +1586,8 @@
 <LM>w#w-d1t936-2</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t936-3">
 <w.rf>
@@ -1960,8 +1960,8 @@
 <LM>w#w-448-451</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t943-11">
 <w.rf>
@@ -2042,8 +2042,8 @@
 <LM>w#w-d1t943-23</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t943-24">
 <w.rf>
@@ -2209,7 +2209,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m147-d1t943-47">
 <w.rf>
@@ -2915,8 +2915,8 @@
 <LM>w#w-d1t958-22</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t958-23">
 <w.rf>
@@ -3169,8 +3169,8 @@
 <LM>w#w-d1t962-2</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t962-3">
 <w.rf>

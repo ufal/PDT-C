@@ -356,7 +356,7 @@
 <LM>w#w-lnd94101-073-p1s2w22</LM>
 </w.rf>
 <form>jazzmanů</form>
-<lemma>jazzman</lemma>
+<lemma>jazzman_,s_^(^DD**džezman)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94101-073-p1s2w23">
@@ -655,8 +655,8 @@
 <LM>w#w-lnd94101-073-p1s3w7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-073-p1s3w8">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-073-p1s4w5">
 <src.rf>manual</src.rf>
@@ -1473,8 +1473,8 @@
 <LM>w#w-lnd94101-073-p1s7w12</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94101-073-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1709,8 +1709,8 @@
 <LM>w#w-lnd94101-073-p1s8w7</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94101-073-p1s8w8">
 <src.rf>manual</src.rf>
@@ -1811,7 +1811,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-073-p1s9w3">
 <src.rf>manual</src.rf>
@@ -1819,8 +1819,8 @@
 <LM>w#w-lnd94101-073-p1s9w3</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94101-073-p1s9w4">
 <src.rf>manual</src.rf>
@@ -2437,8 +2437,8 @@
 <LM>w#w-lnd94101-073-p1s12w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94101-073-p1s12w3">
 <src.rf>manual</src.rf>
@@ -2555,7 +2555,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-073-p1s12w16">
 <src.rf>manual</src.rf>

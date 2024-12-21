@@ -1976,8 +1976,8 @@
 <LM>w#w-mf920923-123-p6s2w16</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920923-123-p6s2w17">
 <src.rf>manual</src.rf>

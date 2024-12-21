@@ -331,8 +331,8 @@
 <LM>w#w-ln94204-147-p2s2w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-147-p2s2w4">
 <src.rf>manual</src.rf>
@@ -486,8 +486,8 @@
 <LM>w#w-ln94204-147-p2s3w9</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-147-p2s3w10">
 <src.rf>manual</src.rf>

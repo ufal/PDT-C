@@ -39,7 +39,7 @@
 <children>
 <LM id="a-wsj0951-001-p1s0W1-Ta">
 <m.rf>m#m-wsj0951-001-p1s0W1-Ta</m.rf>
-<afun>Adv</afun>
+<afun>AuxY</afun>
 <ord>1</ord>
 </LM>
 </children>
@@ -179,12 +179,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0951-001-p1s0W27-Ta">
 <m.rf>m#m-wsj0951-001-p1s0W27-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>28</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

@@ -322,8 +322,8 @@
 <LM>w#w-lnd91303-102-p9s1w1</LM>
 </w.rf>
 <form>ad</form>
-<lemma>ad-77</lemma>
-<tag>F%-------------</tag>
+<lemma>ad-2</lemma>
+<tag>RR--1----------</tag>
 </m>
 <m id="m-lnd91303-102-p9s1w2">
 <src.rf>manual</src.rf>
@@ -351,8 +351,8 @@
 <LM>w#w-lnd91303-102-p11s1w1</LM>
 </w.rf>
 <form>ad</form>
-<lemma>ad-77</lemma>
-<tag>F%-------------</tag>
+<lemma>ad-2</lemma>
+<tag>RR--1----------</tag>
 </m>
 <m id="m-lnd91303-102-p11s1w2">
 <src.rf>manual</src.rf>

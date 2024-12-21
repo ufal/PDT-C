@@ -3652,8 +3652,8 @@
 <LM>w#w-cmpr9406-037-p15s1w61</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9406-037-p15s1w62">
 <src.rf>manual</src.rf>
@@ -3837,7 +3837,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-037-p17s1w14">
 <src.rf>manual</src.rf>
@@ -6582,7 +6582,7 @@
 </w.rf>
 <form>zachovali</form>
 <lemma>zachovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-037-p23s5w9">
 <src.rf>manual</src.rf>

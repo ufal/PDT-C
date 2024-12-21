@@ -118,8 +118,8 @@
 <LM>w#w-ln95048-065-p1s1w12</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-065-p1s1w13">
 <src.rf>manual</src.rf>

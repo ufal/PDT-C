@@ -186,7 +186,7 @@
 </w.rf>
 <form>Oberstdorfu</form>
 <lemma>Oberstdorf_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95047-036-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -376,8 +376,8 @@
 <LM>w#w-ln95047-036-p2s2w8</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-036-p2s2w9">
 <src.rf>manual</src.rf>

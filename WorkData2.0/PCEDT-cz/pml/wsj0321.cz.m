@@ -687,8 +687,8 @@
 <LM>w#w-wsj0321-001-p1s2W18</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0321-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -786,8 +786,8 @@
 <LM>w#w-wsj0321-001-p1s2W29</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0321-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>

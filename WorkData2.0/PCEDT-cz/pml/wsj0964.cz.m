@@ -607,8 +607,8 @@
 <LM>w#w-wsj0964-001-p1s3W1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0964-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

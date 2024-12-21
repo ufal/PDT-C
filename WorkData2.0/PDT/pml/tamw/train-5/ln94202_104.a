@@ -18,7 +18,7 @@
 <children>
 <LM id="a-ln94202-104-p1s1Aw2">
 <m.rf>m#m-ln94202-104-p1s1Aw2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -138,13 +138,15 @@
 <children>
 <LM id="a-ln94202-104-p1s1Bw1">
 <m.rf>m#m-ln94202-104-p1s1Bw1</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94202-104-p1s1Bw2">
 <m.rf>m#m-ln94202-104-p1s1Bw2</m.rf>
-<afun>ExD</afun>
+<afun>Pnom</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>

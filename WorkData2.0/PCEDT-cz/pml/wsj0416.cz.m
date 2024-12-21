@@ -1216,8 +1216,8 @@
 <LM>w#w-wsj0416-001-p1s6W19</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0416-001-p1s6W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2396,8 +2396,8 @@
 <LM>w#w-wsj0416-001-p1s11W27</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0416-001-p1s11W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3878,7 +3878,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0416-001-p1s18W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5261,8 +5261,8 @@
 <LM>w#w-wsj0416-001-p1s25W28</LM>
 </w.rf>
 <form>vedoucích</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMP2-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMP2-----A----</tag>
 </m>
 <m id="m-wsj0416-001-p1s25W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6699,8 +6699,8 @@
 <LM>w#w-wsj0416-001-p1s33W3</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0416-001-p1s33W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6918,7 +6918,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0416-001-p1s34W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8309,7 +8309,7 @@
 </w.rf>
 <form>sponzoruje</form>
 <lemma>sponzorovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0416-001-p1s41W16-Ta">
 <src.rf>tagger-a</src.rf>

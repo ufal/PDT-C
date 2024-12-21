@@ -313,8 +313,8 @@
 <LM>w#w-ln94207-51-p2s2w7</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-51-p2s2w8">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-51-p3s2w14">
 <src.rf>manual</src.rf>

@@ -465,7 +465,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m145-d1t2592-19">
 <w.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-d1t2604-1</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m145-d1t2604-3">
@@ -685,7 +685,7 @@
 </w.rf>
 <form>pokrmy</form>
 <lemma>pokrm</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m145-d-m-d1e2597-x2-punct-punct">
 <w.rf>
@@ -1124,8 +1124,8 @@
 <LM>w#w-d1t2626-3</LM>
 </w.rf>
 <form>zas</form>
-<lemma>zas-1_,s_^(^DD**zase-1)</lemma>
-<tag>Db-------------</tag>
+<lemma>zas-2_,s_^(^DD**zase-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t2626-5">
 <w.rf>
@@ -1174,7 +1174,7 @@
 <LM>w#w-d1t2628-5</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m145-d1t2628-10">
@@ -1190,7 +1190,7 @@
 <LM>w#w-d1t2628-11</LM>
 </w.rf>
 <form>brejlatý</form>
-<lemma>brejlatý</lemma>
+<lemma>brejlatý_,h_^(^GC**brýlatý)</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m145-d1t2628-12">
@@ -1257,8 +1257,8 @@
 <LM>w#w-d1t2628-24</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>ten</lemma>
+<tag>PDNS4----------</tag>
 </m>
 <m id="m145-d1t2628-25">
 <w.rf>
@@ -1273,8 +1273,8 @@
 <LM>w#w-d1t2628-26</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t2628-29">
 <w.rf>
@@ -1515,8 +1515,8 @@
 <LM>w#w-d1t2657-3</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t2657-2">
 <w.rf>

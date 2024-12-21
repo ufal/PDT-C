@@ -670,7 +670,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1363-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-wsj1363-001-p1s3W15</LM>
 </w.rf>
 <form>mínus</form>
-<lemma>mínus-2_,h_^(mat._operace;_9_mínus_3,_též_mínus_dva_stupně)_(^GC**minus-2)</lemma>
+<lemma>mínus-2_,h_^(mat._operace;_9_mínus_3)_(^GC**minus-2)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1363-001-p1s3W16-Ta">
@@ -1235,7 +1235,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj1363-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1334,7 +1334,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj1363-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>

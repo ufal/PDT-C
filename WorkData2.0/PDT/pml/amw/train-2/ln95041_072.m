@@ -513,8 +513,8 @@
 <LM>w#w-ln95041-072-p3s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95041-072-p3s2w2">
 <src.rf>manual</src.rf>
@@ -704,8 +704,8 @@
 <LM>w#w-ln95041-072-p3s3w3</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-072-p3s3w4">
 <src.rf>manual</src.rf>

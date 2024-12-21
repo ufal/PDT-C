@@ -25,8 +25,8 @@
 <LM>w#w-wsj1313-001-p1s0W2</LM>
 </w.rf>
 <form>Prostořeký</form>
-<lemma>prostořeký</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>Prostořeký_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1313-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1325,7 +1325,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-wsj1313-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>

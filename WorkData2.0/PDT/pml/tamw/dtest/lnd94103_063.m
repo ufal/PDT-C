@@ -1006,8 +1006,8 @@
 <LM>w#w-lnd94103-063-p1s5w7</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-063-p1s5w8">
 <src.rf>manual</src.rf>
@@ -2232,8 +2232,8 @@
 <LM>w#w-lnd94103-063-p1s14w14</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-063-p1s14w15">
 <src.rf>manual</src.rf>
@@ -2596,8 +2596,8 @@
 <LM>w#w-lnd94103-063-p1s16w3</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-063-p1s16w4">
 <src.rf>manual</src.rf>
@@ -2605,7 +2605,7 @@
 <LM>w#w-lnd94103-063-p1s16w4</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s16w5">
@@ -2830,8 +2830,8 @@
 <LM>w#w-lnd94103-063-p1s16w29</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-063-p1s16w30">
 <src.rf>manual</src.rf>
@@ -3003,7 +3003,7 @@
 <LM>w#w-lnd94103-063-p1s17w15</LM>
 </w.rf>
 <form>nedozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s17w16">
@@ -3341,7 +3341,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-063-p1s19w9">
 <src.rf>manual</src.rf>
@@ -3504,8 +3504,8 @@
 <LM>w#w-lnd94103-063-p1s20w15</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94103-063-p1s20w16">
 <src.rf>manual</src.rf>
@@ -4080,7 +4080,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd94103-063-p1s24w5">
 <src.rf>manual</src.rf>
@@ -5172,8 +5172,8 @@
 <LM>w#w-lnd94103-063-p1s26w38</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-063-p1s26w39">
 <src.rf>manual</src.rf>

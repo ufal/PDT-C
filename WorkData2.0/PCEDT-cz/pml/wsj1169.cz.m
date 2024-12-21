@@ -964,8 +964,8 @@
 <LM>w#w-wsj1169-001-p1s5W30</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1169-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1009,8 +1009,8 @@
 <LM>w#w-wsj1169-001-p1s5W35</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1169-001-p1s5W36-Ta">
 <src.rf>tagger-a</src.rf>

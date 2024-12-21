@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2166.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <trees>
@@ -22,11 +22,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>jmenovat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w1344f2</val_frame.rf>
+<val_frame.rf>v#v41biqB</val_frame.rf>
 <children>
 <LM id="T-wsj2166-001-p1s0a14">
 <nodetype>qcomplex</nodetype>
@@ -116,6 +117,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -170,11 +172,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>ponechávat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w3849f1</val_frame.rf>
+<val_frame.rf>v#v41gfiA</val_frame.rf>
 <children>
 <LM id="T-wsj2166-001-p1s1a14">
 <nodetype>complex</nodetype>
@@ -294,9 +297,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>AM</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>10</deepord>
 </LM>
 <LM id="T-wsj2166-001-p1s1a9">
@@ -348,9 +348,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Ventures</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>16</deepord>
 </LM>
 </children>

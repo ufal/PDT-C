@@ -2185,7 +2185,7 @@
 <LM>w#w-lnd94104-055-p1s10w6</LM>
 </w.rf>
 <form>vyjednavač</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-055-p1s10w7">
@@ -2329,7 +2329,7 @@
 <LM>w#w-lnd94104-055-p1s10w22</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-lnd94104-055-p1s10w23">
@@ -3878,7 +3878,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-055-p1s19w9">
 <src.rf>manual</src.rf>

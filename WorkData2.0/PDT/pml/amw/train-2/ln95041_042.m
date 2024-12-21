@@ -506,8 +506,8 @@
 <LM>w#w-ln95041-042-p2s4w13</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-042-p2s4w14">
 <src.rf>manual</src.rf>
@@ -2666,8 +2666,8 @@
 <LM>w#w-ln95041-042-p7s1w2</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95041-042-p7s1w3">
 <src.rf>manual</src.rf>
@@ -4380,8 +4380,8 @@
 <LM>w#w-ln95041-042-p9s3w37</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-042-p9s3w38">
 <src.rf>manual</src.rf>

@@ -943,7 +943,7 @@
 </w.rf>
 <form>datován</form>
 <lemma>datovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-cmpr9406-053-p6s2w30">
 <src.rf>manual</src.rf>
@@ -6443,7 +6443,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-053-p22s4w23">
 <src.rf>manual</src.rf>

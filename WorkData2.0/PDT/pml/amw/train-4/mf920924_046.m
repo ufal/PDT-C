@@ -237,7 +237,7 @@
 <LM>w#w-mf920924-046-p1s1Bw6</LM>
 </w.rf>
 <form>shakespearomanie</form>
-<lemma>shakespearomanie</lemma>
+<lemma>shakespearomanie_,s_^(^DD**shakespearománie)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-046-p1s1Bw7">
@@ -1192,7 +1192,7 @@
 <LM>w#w-mf920924-046-p1s6w8</LM>
 </w.rf>
 <form>alžbětinské</form>
-<lemma>alžbětinský</lemma>
+<lemma>alžbětinský_,s_^(^DD**alžbětínský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-mf920924-046-p1s6w9">

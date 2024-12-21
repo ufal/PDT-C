@@ -368,7 +368,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-5-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -1173,8 +1173,8 @@
 <LM>w#w-ln94203-5-p3s5w4</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-5-p3s5w5">
 <src.rf>manual</src.rf>
@@ -3134,8 +3134,8 @@
 <LM>w#w-ln94203-5-p7s1w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-5-p7s1w8">
 <src.rf>manual</src.rf>

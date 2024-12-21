@@ -1351,7 +1351,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1021-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2290,7 +2290,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1021-001-p1s8W20-Ta">
 <src.rf>tagger-a</src.rf>

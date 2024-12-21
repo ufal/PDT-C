@@ -2125,7 +2125,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920902-006-p2s12w24">
 <src.rf>manual</src.rf>
@@ -3642,7 +3642,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-006-p4s2w3">
 <src.rf>manual</src.rf>
@@ -6351,7 +6351,7 @@
 </w.rf>
 <form>nevěnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-NAI--</tag>
+<tag>VB-S---3P-NAB--</tag>
 </m>
 <m id="m-mf920902-006-p4s11w24">
 <src.rf>manual</src.rf>
@@ -6532,7 +6532,7 @@
 <LM>w#w-mf920902-006-p4s12w16</LM>
 </w.rf>
 <form>přesmyknout</form>
-<lemma>přesmyknout</lemma>
+<lemma>přesmyknout_,s_^(^DD**přesmýknout)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920902-006-p4s12w17">

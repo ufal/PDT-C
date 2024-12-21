@@ -889,7 +889,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-098-p2s7w12">
 <src.rf>manual</src.rf>
@@ -962,8 +962,8 @@
 <LM>w#w-ln95046-098-p2s8w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-098-p2s8w4">
 <src.rf>manual</src.rf>

@@ -3042,7 +3042,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-065-p4s3w30">
 <src.rf>manual</src.rf>

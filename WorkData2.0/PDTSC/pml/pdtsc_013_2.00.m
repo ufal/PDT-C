@@ -101,7 +101,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m795-d1t20-18">
 <w.rf>
@@ -296,8 +296,8 @@
 <LM>w#w-d1t34-3</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m795-d1t34-4">
 <w.rf>
@@ -338,8 +338,8 @@
 <LM>w#w-d1t36-1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m795-d1t36-2">
 <w.rf>
@@ -769,7 +769,7 @@
 </w.rf>
 <form>mě</form>
 <lemma>já</lemma>
-<tag>PH-S4--1-------</tag>
+<tag>PH-S2--1-------</tag>
 </m>
 <m id="m795-d1t56-4">
 <w.rf>
@@ -1429,8 +1429,8 @@
 <LM>w#w-d1t86-3</LM>
 </w.rf>
 <form>Zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m795-d1t86-2">
 <w.rf>
@@ -1469,8 +1469,8 @@
 <LM>w#w-d1t86-5</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m795-d1t86-6">
 <w.rf>
@@ -2243,8 +2243,8 @@
 <LM>w#w-d1t127-6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m795-d1t127-8">
 <w.rf>
@@ -3900,8 +3900,8 @@
 <LM>w#w-d1t175-1</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m795-d1t175-2">
 <w.rf>
@@ -3964,8 +3964,8 @@
 <LM>w#w-701-703</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m795-d1t175-8">
 <w.rf>
@@ -4996,8 +4996,8 @@
 <LM>w#w-d1t216-1</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m795-d1t216-2">
 <w.rf>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_80.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -26,7 +26,7 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
-<discourse_special>caption</discourse_special>
+<discourse_feature>caption</discourse_feature>
 <children>
 <LM id="t-ln94207-80-p1s1w5">
 <a>
@@ -35,6 +35,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>říkat</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>říkat</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -48,7 +49,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w5882f1</val_frame.rf>
+<val_frame.rf>v#v41kejB</val_frame.rf>
 <children>
 <LM id="t-ln94207-80-p1s1w6">
 <a>
@@ -155,7 +156,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w8992f1</val_frame.rf>
+<val_frame.rf>v#v41qdnB</val_frame.rf>
 <children>
 <LM id="t-ln94207-80-p1s1w2">
 <a>
@@ -219,7 +220,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w8598f1</val_frame.rf>
+<val_frame.rf>v#v41piyB</val_frame.rf>
 <children>
 <LM id="t-ln94207-80-p1s1w15">
 <a>
@@ -253,6 +254,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -362,7 +364,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w3762f1</val_frame.rf>
+<val_frame.rf>v#v41gbhA</val_frame.rf>
 <children>
 <LM id="t-ln94207-80-p1s2w2">
 <a>
@@ -498,8 +500,9 @@
 <lex.rf>a#a-ln94207-80-p1s2w14</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdy</t_lemma>
+<t_lemma>někdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -534,8 +537,9 @@
 <lex.rf>a#a-ln94207-80-p1s2w15</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>marný</t_lemma>
+<t_lemma>marně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>marný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -562,7 +566,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w3923f1</val_frame.rf>
+<val_frame.rf>v#v41gjpC</val_frame.rf>
 <children>
 <LM id="t-ln94207-80-p1s2a1">
 <nodetype>qcomplex</nodetype>
@@ -625,7 +629,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w7646f1</val_frame.rf>
+<val_frame.rf>v#v41nmtB</val_frame.rf>
 </LM>
 </children>
 </LM>

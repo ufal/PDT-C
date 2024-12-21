@@ -25,8 +25,8 @@
 <LM>w#w-wsj0648-001-p1s0W2</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0648-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -866,8 +866,8 @@
 <LM>w#w-wsj0648-001-p1s2W21</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0648-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1321,7 +1321,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0648-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1882,8 +1882,8 @@
 <LM>w#w-wsj0648-001-p1s6W5</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0648-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2590,8 +2590,8 @@
 <LM>w#w-wsj0648-001-p1s9W13</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0648-001-p1s9W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2599,8 +2599,8 @@
 <LM>w#w-wsj0648-001-p1s9W14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0648-001-p1s9W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3298,8 +3298,8 @@
 <LM>w#w-wsj0648-001-p1s12W3</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0648-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4573,8 +4573,8 @@
 <LM>w#w-wsj0648-001-p1s15W38</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0648-001-p1s15W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5346,8 +5346,8 @@
 <LM>w#w-wsj0648-001-p1s19W5</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0648-001-p1s19W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6280,8 +6280,8 @@
 <LM>w#w-wsj0648-001-p1s22W2</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0648-001-p1s22W3-Ta">
 <src.rf>tagger-a</src.rf>

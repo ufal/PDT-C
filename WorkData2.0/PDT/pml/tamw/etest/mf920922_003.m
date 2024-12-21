@@ -38,7 +38,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-mf920922-003-p1s1w4">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-mf920922-003-p2s2w5</LM>
 </w.rf>
 <form>Jiráskově</form>
-<lemma>Jiráskův_;Y_^(*3ek)</lemma>
+<lemma>Jiráskův_;Y_^(*2o)_(*3ek)</lemma>
 <tag>AUNS6M---------</tag>
 </m>
 <m id="m-mf920922-003-p2s2w6">
@@ -365,8 +365,8 @@
 <LM>w#w-mf920922-003-p2s2w23</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-003-p2s2w24">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-003-p2s5w6">
 <src.rf>manual</src.rf>
@@ -2151,8 +2151,8 @@
 <LM>w#w-mf920922-003-p5s2w10</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-003-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2389,7 +2389,7 @@
 <LM>w#w-mf920922-003-p5s4w4</LM>
 </w.rf>
 <form>Jiráskově</form>
-<lemma>Jiráskův_;Y_^(*3ek)</lemma>
+<lemma>Jiráskův_;Y_^(*2o)_(*3ek)</lemma>
 <tag>AUNS6M---------</tag>
 </m>
 <m id="m-mf920922-003-p5s4w5">

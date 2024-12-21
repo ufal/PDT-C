@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94206_46.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -72,7 +72,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w5158f1</val_frame.rf>
+<val_frame.rf>v#v41isgP</val_frame.rf>
 <children>
 <LM id="t-ln94206-46-p1s1w2">
 <a>
@@ -115,8 +115,9 @@
 <lex.rf>a#a-ln94206-46-p1s1w3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>první</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -263,12 +264,13 @@
 <lex.rf>a#a-ln94206-46-p1s1w16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>čekaný</t_lemma>
-<functor>MANN</functor>
+<t_lemma>nečekaně</t_lemma>
+<functor>RESL</functor>
+<proto_lemma>nečekaný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
-<negation>neg1</negation>
+<negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
@@ -396,7 +398,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9311f1</val_frame.rf>
+<val_frame.rf>v#v41quhA</val_frame.rf>
 <children>
 <LM id="t-ln94206-46-p1s2w3">
 <a>
@@ -431,6 +433,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -504,8 +507,9 @@
 <lex.rf>a#a-ln94206-46-p1s2w7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>první</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -553,6 +557,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-46-p1s2w11</LM>
@@ -605,7 +610,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w7706f1</val_frame.rf>
+<val_frame.rf>v#v41nqaD</val_frame.rf>
 <children>
 <LM id="t-ln94206-46-p1s2a2">
 <nodetype>qcomplex</nodetype>
@@ -645,13 +650,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-46-p1s2w15</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94206-46-p1s2w17">
 <a>
@@ -698,8 +704,9 @@
 <lex.rf>a#a-ln94206-46-p1s2w20</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdy</t_lemma>
+<t_lemma>nikdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -748,13 +755,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-46-p1s3w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w643f1</val_frame.rf>
+<val_frame.rf>v#v41absA</val_frame.rf>
 <children>
 <LM id="t-ln94206-46-p1s3w1">
 <a>
@@ -871,7 +879,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w6896f1</val_frame.rf>
+<val_frame.rf>v#v41mboB</val_frame.rf>
 <children>
 <LM id="t-ln94206-46-p1s4w3">
 <a>
@@ -883,6 +891,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>CNCS</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -901,13 +910,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-46-p1s4w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94206-46-p1s4a0">
 <nodetype>atom</nodetype>
@@ -1153,7 +1163,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_special>caption</discourse_special>
+<discourse_feature>caption</discourse_feature>
 <children>
 <LM id="t-ln94206-46-p1s5w1">
 <a>

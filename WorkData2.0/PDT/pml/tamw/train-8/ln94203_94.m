@@ -653,8 +653,8 @@
 <LM>w#w-ln94203-94-p1s3w11</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94203-94-p1s3w12">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-ln94203-94-p1s5w1</LM>
 </w.rf>
 <form>Oscarem</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-94-p1s5w2">
@@ -1107,8 +1107,8 @@
 <LM>w#w-ln94203-94-p1s5w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-94-p1s5w15">
 <src.rf>manual</src.rf>

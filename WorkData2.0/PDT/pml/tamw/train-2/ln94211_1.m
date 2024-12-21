@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-1-p3s5w25">
 <src.rf>manual</src.rf>
@@ -1333,8 +1333,8 @@
 <LM>w#w-ln94211-1-p3s7w4</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94211-1-p3s7w5">
 <src.rf>manual</src.rf>
@@ -1987,8 +1987,8 @@
 <LM>w#w-ln94211-1-p4s3w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-1-p4s3w5">
 <src.rf>manual</src.rf>
@@ -2825,8 +2825,8 @@
 <LM>w#w-ln94211-1-p5s3w4</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-1-p5s3w5">
 <src.rf>manual</src.rf>
@@ -3017,7 +3017,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94211-1-p5s4w17">
 <src.rf>manual</src.rf>
@@ -3261,8 +3261,8 @@
 <LM>w#w-ln94211-1-p5s5w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-1-p5s5w14">
 <src.rf>manual</src.rf>
@@ -3820,8 +3820,8 @@
 <LM>w#w-ln94211-1-p6s5w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-1-p6s5w5">
 <src.rf>manual</src.rf>

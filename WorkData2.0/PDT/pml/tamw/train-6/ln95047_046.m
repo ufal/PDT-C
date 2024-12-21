@@ -82,8 +82,8 @@
 <LM>w#w-ln95047-046-p1s1w8</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-046-p1s1w9">
 <src.rf>manual</src.rf>

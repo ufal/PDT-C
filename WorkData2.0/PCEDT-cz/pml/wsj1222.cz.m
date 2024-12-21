@@ -333,8 +333,8 @@
 <LM>w#w-wsj1222-001-p1s1W10</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1222-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -542,8 +542,8 @@
 <LM>w#w-wsj1222-001-p1s2W6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1222-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-wsj1222-001-p1s7W14</LM>
 </w.rf>
 <form>baseballu</form>
-<lemma>baseball</lemma>
+<lemma>baseball_,s_^(^DD**basebal)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj1222-001-p1s7W15-Ta">
@@ -3075,7 +3075,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1222-001-p1s17W16-Ta">
 <src.rf>tagger-a</src.rf>

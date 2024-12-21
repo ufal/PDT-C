@@ -815,7 +815,7 @@
 </w.rf>
 <form>vdala</form>
 <lemma>vdát</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m146-d-m-d1e267-x2-punct-punct">
 <w.rf>
@@ -874,8 +874,8 @@
 <LM>w#w-d1t284-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d-m-d1e281-x2-punct-punct">
 <w.rf>
@@ -945,7 +945,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t300-2">
 <w.rf>
@@ -1018,8 +1018,8 @@
 <LM>w#w-d1t302-2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m146-d1t300-13">
 <w.rf>
@@ -1220,8 +1220,8 @@
 <LM>w#w-d1t316-11</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t316-12">
 <w.rf>
@@ -2124,8 +2124,8 @@
 <LM>w#w-d1t354-20</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t365-1">
 <w.rf>
@@ -2232,8 +2232,8 @@
 <LM>w#w-d1t379-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d-m-d1e376-x2-punct-punct">
 <w.rf>
@@ -2250,8 +2250,8 @@
 <LM>w#w-d1t390-2</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m146-d1t390-3">
 <w.rf>
@@ -2306,8 +2306,8 @@
 <LM>w#w-d1t390-10</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m146-d1t390-9">
 <w.rf>
@@ -2404,8 +2404,8 @@
 <LM>w#w-319-325</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m146-d1t392-7">
 <w.rf>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_042.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -35,8 +35,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w9213f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41qpeA</val_frame.rf>
 <children>
 <LM id="t-ln95046-042-p1s1a0">
 <nodetype>qcomplex</nodetype>
@@ -144,7 +144,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w9228f1</val_frame.rf>
+<val_frame.rf>v#v41qpuA</val_frame.rf>
 <children>
 <LM id="t-ln95046-042-p2s1Bw2">
 <a>
@@ -316,7 +316,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w2584f1</val_frame.rf>
+<val_frame.rf>v#v41dubA</val_frame.rf>
 <children>
 <LM id="t-ln95046-042-p2s1Bw11">
 <a>
@@ -325,6 +325,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ADDR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -480,7 +481,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w7379f1</val_frame.rf>
+<val_frame.rf>v#v41naeB</val_frame.rf>
 <children>
 <LM id="t-ln95046-042-p2s1Bw25">
 <a>

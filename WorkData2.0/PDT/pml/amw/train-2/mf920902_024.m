@@ -319,8 +319,8 @@
 <LM>w#w-mf920902-024-p3s4w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920902-024-p3s4w2">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-024-p3s6w7">
 <src.rf>manual</src.rf>
@@ -3092,7 +3092,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-024-p3s17w28">
 <src.rf>manual</src.rf>

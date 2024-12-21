@@ -250,8 +250,8 @@
 <LM>w#w-vesm9301-025-p5s1w8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-vesm9301-025-p6s4w5</LM>
 </w.rf>
 <form>spjato</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACNS------A----</tag>
 </m>
 <m id="m-vesm9301-025-p6s4w6">
@@ -1363,8 +1363,8 @@
 <LM>w#w-vesm9301-025-p7s1w9</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-025-p7s1w10">
 <src.rf>manual</src.rf>
@@ -3174,7 +3174,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p10s4w5">
 <src.rf>manual</src.rf>
@@ -3491,7 +3491,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p11s1w5">
 <src.rf>manual</src.rf>
@@ -3648,7 +3648,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p11s3w5">
 <src.rf>manual</src.rf>
@@ -4131,7 +4131,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p12s1w21">
 <src.rf>manual</src.rf>
@@ -4706,7 +4706,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p13s3w6">
 <src.rf>manual</src.rf>
@@ -4871,8 +4871,8 @@
 <LM>w#w-vesm9301-025-p15s1w1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-025-p15s1w2">
 <src.rf>manual</src.rf>
@@ -4898,8 +4898,8 @@
 <LM>w#w-vesm9301-025-p15s1w4</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-025-p15s1w5">
 <src.rf>manual</src.rf>
@@ -8968,7 +8968,7 @@
 </w.rf>
 <form>reaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9301-025-p22s1w24">
 <src.rf>manual</src.rf>
@@ -11130,7 +11130,7 @@
 </w.rf>
 <form>referovat</form>
 <lemma>referovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9301-025-p28s6w12">
 <src.rf>manual</src.rf>
@@ -15023,8 +15023,8 @@
 <LM>w#w-vesm9301-025-p34s3w8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p34s3w9">
 <src.rf>manual</src.rf>
@@ -19155,7 +19155,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p39s3w5">
 <src.rf>manual</src.rf>
@@ -19840,7 +19840,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p40s1w8">
 <src.rf>manual</src.rf>
@@ -20150,7 +20150,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p40s3w13">
 <src.rf>manual</src.rf>
@@ -27008,7 +27008,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-025-p57s1w31">
 <src.rf>manual</src.rf>

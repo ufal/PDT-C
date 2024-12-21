@@ -568,7 +568,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2066-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1509,7 +1509,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2066-001-p1s3W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1980,8 +1980,8 @@
 <LM>w#w-wsj2066-001-p1s5W10</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2066-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2134,7 +2134,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2066-001-p1s5W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3304,8 +3304,8 @@
 <LM>w#w-wsj2066-001-p1s10W23</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2066-001-p1s10W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3394,8 +3394,8 @@
 <LM>w#w-wsj2066-001-p1s10W33</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2066-001-p1s10W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3504,8 +3504,8 @@
 <LM>w#w-wsj2066-001-p1s11W6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2066-001-p1s11W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3734,7 +3734,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2066-001-p1s13W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3880,7 +3880,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2066-001-p1s14W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4605,7 +4605,7 @@
 <LM>w#w-wsj2066-001-p1s17W9</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-wsj2066-001-p1s17W10-Ta">

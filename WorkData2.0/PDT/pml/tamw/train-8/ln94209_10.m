@@ -406,7 +406,7 @@
 </w.rf>
 <form>distribuován</form>
 <lemma>distribuovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-ln94209-10-p2s3w8">
 <src.rf>manual</src.rf>

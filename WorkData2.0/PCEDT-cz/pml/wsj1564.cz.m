@@ -501,8 +501,8 @@
 <LM>w#w-wsj1564-001-p1s4W20</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s4W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -710,8 +710,8 @@
 <LM>w#w-wsj1564-001-p1s5W7</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -982,8 +982,8 @@
 <LM>w#w-wsj1564-001-p1s6W5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1327,7 +1327,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj1564-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2765,7 +2765,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1564-001-p1s15W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3190,7 +3190,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s16W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4306,8 +4306,8 @@
 <LM>w#w-wsj1564-001-p1s21W21</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s21W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5026,7 +5026,7 @@
 </w.rf>
 <form>dominují</form>
 <lemma>dominovat</lemma>
-<tag>VB-P---3P-AAB--</tag>
+<tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj1564-001-p1s25W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7411,8 +7411,8 @@
 <LM>w#w-wsj1564-001-p1s38W3</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1564-001-p1s38W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8439,7 +8439,7 @@
 </w.rf>
 <form>po</form>
 <lemma>po-1</lemma>
-<tag>RR--6----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-wsj1564-001-p1s43W12-Ta">
 <src.rf>tagger-a</src.rf>

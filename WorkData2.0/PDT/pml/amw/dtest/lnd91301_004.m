@@ -842,7 +842,7 @@
 <LM>w#w-lnd91301-004-p3s6w17</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-lnd91301-004-p3s6w18">
@@ -1921,7 +1921,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd91301-004-p4s3w12">
@@ -2265,8 +2265,8 @@
 <LM>w#w-lnd91301-004-p4s4w22</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91301-004-p4s4w23">
 <src.rf>manual</src.rf>
@@ -2895,7 +2895,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd91301-004-p4s8w7">
@@ -2922,8 +2922,8 @@
 <LM>w#w-lnd91301-004-p4s8w9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd91301-004-p4s8w10">
 <src.rf>manual</src.rf>
@@ -3365,8 +3365,8 @@
 <LM>w#w-lnd91301-004-p5s1w9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91301-004-p5s1w10">
 <src.rf>manual</src.rf>
@@ -3419,8 +3419,8 @@
 <LM>w#w-lnd91301-004-p5s1w15</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91301-004-p5s1w16">
 <src.rf>manual</src.rf>
@@ -3774,8 +3774,8 @@
 <LM>w#w-lnd91301-004-p6s2w5</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91301-004-p6s2w6">
 <src.rf>manual</src.rf>
@@ -6287,8 +6287,8 @@
 <LM>w#w-lnd91301-004-p11s1w1</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-004-p11s1w2">
 <src.rf>manual</src.rf>
@@ -6296,8 +6296,8 @@
 <LM>w#w-lnd91301-004-p11s1w2</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91301-004-p11s1w3">
 <src.rf>manual</src.rf>

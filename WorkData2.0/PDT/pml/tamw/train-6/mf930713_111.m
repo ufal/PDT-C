@@ -55,8 +55,8 @@
 <LM>w#w-mf930713-111-p1s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-111-p1s1w6">
 <src.rf>manual</src.rf>

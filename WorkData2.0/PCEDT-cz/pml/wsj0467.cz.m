@@ -1091,8 +1091,8 @@
 <LM>w#w-wsj0467-001-p1s2W26</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0467-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1491,8 +1491,8 @@
 <LM>w#w-wsj0467-001-p1s4W5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0467-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1890,7 +1890,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-wsj0467-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4687,7 +4687,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0467-001-p1s21W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4714,7 +4714,7 @@
 </w.rf>
 <form>předčí</form>
 <lemma>předčit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0467-001-p1s21W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5352,7 +5352,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj0467-001-p1s25W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5671,7 +5671,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0467-001-p1s27W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7362,8 +7362,8 @@
 <LM>w#w-wsj0467-001-p1s34W27</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0467-001-p1s34W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7671,7 +7671,7 @@
 </w.rf>
 <form>rok</form>
 <lemma>rok</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0467-001-p1s35W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7825,8 +7825,8 @@
 <LM>w#w-wsj0467-001-p1s36W16</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj0467-001-p1s36W17-Ta">
 <src.rf>tagger-a</src.rf>

@@ -937,7 +937,7 @@
 <LM>w#w-cmpr9406-050-p4s3w7</LM>
 </w.rf>
 <form>dozvíte</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---2P-AAP--</tag>
 </m>
 <m id="m-cmpr9406-050-p4s3w8">
@@ -1751,7 +1751,7 @@
 <LM>w#w-cmpr9406-050-p6s4w9</LM>
 </w.rf>
 <form>dozvíte</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---2P-AAP--</tag>
 </m>
 <m id="m-cmpr9406-050-p6s4w10">

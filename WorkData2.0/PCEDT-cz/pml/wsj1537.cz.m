@@ -451,7 +451,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj1537-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -871,7 +871,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1537-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>

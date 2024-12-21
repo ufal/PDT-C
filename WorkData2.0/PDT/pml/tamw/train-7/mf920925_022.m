@@ -823,7 +823,7 @@
 <LM>w#w-mf920925-022-p4s1Bw5</LM>
 </w.rf>
 <form>laděného</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-mf920925-022-p4s1Bw6">

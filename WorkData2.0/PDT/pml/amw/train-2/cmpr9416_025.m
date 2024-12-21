@@ -5646,7 +5646,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-cmpr9416-025-p17s1w19">
 <src.rf>manual</src.rf>

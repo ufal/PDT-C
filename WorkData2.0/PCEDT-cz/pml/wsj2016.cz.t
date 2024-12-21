@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2016.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <trees>
@@ -22,11 +22,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>zvolit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w9986f1</val_frame.rf>
+<val_frame.rf>v#v41sciA</val_frame.rf>
 <children>
 <LM id="T-wsj2016-001-p1s0a34">
 <a>
@@ -131,6 +132,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -373,11 +375,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>odstoupit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w2903f1</val_frame.rf>
+<val_frame.rf>v#v41ekcC</val_frame.rf>
 <children>
 <LM id="T-wsj2016-001-p1s1a2">
 <a>
@@ -455,6 +458,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -467,11 +471,8 @@
 <lex.rf>a#a-wsj2016-001-p1s1W10-Ta</lex.rf>
 </a>
 <nodetype>atom</nodetype>
-<t_lemma>stejný</t_lemma>
+<t_lemma>stejně</t_lemma>
 <functor>CM</functor>
-<gram>
-<sempos>adj.denot</sempos>
-</gram>
 <deepord>7</deepord>
 </LM>
 <LM id="T-wsj2016-001-p1s1a13">
@@ -530,6 +531,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>NESB</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
@@ -559,11 +561,13 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="T-wsj2016-001-p1s2a7">
 <nodetype>list</nodetype>
@@ -585,6 +589,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>NESB</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 </gram>

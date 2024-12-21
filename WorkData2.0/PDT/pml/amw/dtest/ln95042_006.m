@@ -286,7 +286,7 @@
 <LM>w#w-ln95042-006-p2s2w4</LM>
 </w.rf>
 <form>numismatickým</form>
-<lemma>numismatický</lemma>
+<lemma>numismatický_,s_^(^DD**numizmatický)</lemma>
 <tag>AAIS7----1A----</tag>
 </m>
 <m id="m-ln95042-006-p2s2w5">
@@ -668,7 +668,7 @@
 <LM>w#w-ln95042-006-p3s1w19</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-ln95042-006-p3s1w20">
@@ -741,7 +741,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-006-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1903,7 +1903,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-006-p3s6w36">
 <src.rf>manual</src.rf>

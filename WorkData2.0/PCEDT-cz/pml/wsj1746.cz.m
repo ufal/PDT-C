@@ -1591,8 +1591,8 @@
 <LM>w#w-wsj1746-001-p1s6W7</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1746-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>

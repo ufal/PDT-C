@@ -785,7 +785,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m041-d1t1540-3">
 <w.rf>
@@ -1020,8 +1020,8 @@
 <LM>w#w-d1t1566-3</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1566-4">
 <w.rf>
@@ -1282,8 +1282,8 @@
 <LM>w#w-d1t1587-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1587-5">
 <w.rf>
@@ -1708,8 +1708,8 @@
 <LM>w#w-d1t1606-14</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1606-13">
 <w.rf>
@@ -2721,8 +2721,8 @@
 <LM>w#w-d1t1678-6</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1678-7">
 <w.rf>
@@ -2877,8 +2877,8 @@
 <LM>w#w-d1t1689-7</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
-<tag>J,-------------</tag>
+<lemma>až-3_^(až_k_...,_až_dost)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1689-8">
 <w.rf>
@@ -3049,8 +3049,8 @@
 <LM>w#w-d1t1698-8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-65-66">
 <w.rf>
@@ -3781,7 +3781,7 @@
 <LM>w#w-d1t1754-2</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m041-156-175">
@@ -4223,8 +4223,8 @@
 <LM>w#w-d1t1776-6</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m041-d1t1776-7">
 <w.rf>
@@ -4543,7 +4543,7 @@
 <LM>w#w-d1t1801-11</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m041-d1t1801-10">

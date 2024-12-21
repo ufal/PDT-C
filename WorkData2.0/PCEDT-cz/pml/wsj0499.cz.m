@@ -597,7 +597,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0499-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1448,8 +1448,8 @@
 <LM>w#w-wsj0499-001-p1s5W21</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0499-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_109.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 </LM>
 </children>
 </LM>
@@ -62,6 +62,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
+<sense_PDTB3_manual>IGNORE</sense_PDTB3_manual>
 <src>pdit10</src>
 </LM>
 </discourse>
@@ -1840,8 +1842,9 @@
 <lex.rf>a#a-mf920922-109-p31s1w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>první</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -1983,7 +1986,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w4759f1</val_frame.rf>
+<val_frame.rf>v#v41hyeB</val_frame.rf>
 <children>
 <LM id="t-mf920922-109-p32s1w7">
 <a>
@@ -2718,8 +2721,9 @@
 <lex.rf>a#a-mf920922-109-p48s1w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>jednou</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>jeden</proto_lemma>
 <subfunctor>nr</subfunctor>
 <gram>
 <sempos>adj.quant.def</sempos>
@@ -2751,6 +2755,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -2859,7 +2864,8 @@
 <nodetype>complex</nodetype>
 <t_lemma>tisíc</t_lemma>
 <functor>ID</functor>
-<sentmod>enunc</sentmod>
+<proto_lemma>tisíc</proto_lemma>
+<sentmod>inter</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2877,7 +2883,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>risk</t_lemma>
 <functor>ID</functor>
-<sentmod>enunc</sentmod>
+<sentmod>inter</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
@@ -3303,8 +3309,9 @@
 <lex.rf>a#a-mf920922-109-p57s1w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>každý</t_lemma>
 <functor>ID</functor>
+<proto_lemma>který</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>n.pron.indef</sempos>

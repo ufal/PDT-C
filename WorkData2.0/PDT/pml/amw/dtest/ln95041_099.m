@@ -138,7 +138,7 @@
 <LM>w#w-ln95041-099-p2s1Aw9</LM>
 </w.rf>
 <form>dozvědět</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95041-099-p2s1Aw10">
@@ -595,7 +595,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-099-p2s3w14">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-099-p2s5w19">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-099-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1568,7 +1568,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-099-p3s2w20">
 <src.rf>manual</src.rf>
@@ -5686,7 +5686,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-099-p10s2w14">
 <src.rf>manual</src.rf>
@@ -6277,7 +6277,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-099-p11s1w22">
 <src.rf>manual</src.rf>
@@ -6555,7 +6555,7 @@
 <LM>w#w-ln95041-099-p11s1w52</LM>
 </w.rf>
 <form>odpisování</form>
-<lemma>odpisování_^(*3at)</lemma>
+<lemma>odpisování_^(^DD**odepisování)_(*3at)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-ln95041-099-p11s1w53">
@@ -7293,7 +7293,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-099-p13s2w3">
 <src.rf>manual</src.rf>
@@ -7630,7 +7630,7 @@
 </w.rf>
 <form>oceňování</form>
 <lemma>oceňování_^(*3at)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95041-099-p13s4w13">
 <src.rf>manual</src.rf>
@@ -8365,7 +8365,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-099-p14s1w18">
 <src.rf>manual</src.rf>
@@ -10244,7 +10244,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95041-099-p18s2Bw27">
 <src.rf>manual</src.rf>

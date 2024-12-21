@@ -2169,8 +2169,8 @@
 <LM>w#w-es_02-SCzechM-p0126-s1-w14</LM>
 </w.rf>
 <form>Přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="es_02-SCzechM-p0126-s1-w15">
 <w.rf>
@@ -3133,8 +3133,8 @@
 <LM>w#w-es_02-SCzechM-p0146-s1-w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="es_02-SCzechM-p0146-s1-w5">
 <w.rf>
@@ -3473,8 +3473,8 @@
 <LM>w#w-es_02-SCzechM-p0154-s1-w5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_02-SCzechM-p0154-s1-w6">
 <w.rf>
@@ -3531,8 +3531,8 @@
 <LM>w#w-es_02-SCzechM-p0156-s1-w5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_02-SCzechM-p0156-s1-w6">
 <w.rf>
@@ -3929,7 +3929,7 @@
 <LM>w#w-es_02-SCzechM-p0167-s1-w7</LM>
 </w.rf>
 <form>DNESKA</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="es_02-SCzechM-p0167-s1-w8">

@@ -428,8 +428,8 @@
 <LM>w#w-d1t965-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m123-d1t965-3">
 <w.rf>
@@ -988,8 +988,8 @@
 <LM>w#w-d1t1015-6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m123-d1t1015-9">
 <w.rf>
@@ -1047,7 +1047,7 @@
 </w.rf>
 <form>to</form>
 <lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m123-d1t1019-6">
 <w.rf>
@@ -1356,8 +1356,8 @@
 <LM>w#w-d1t1030-14</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m123-122-123">
 <w.rf>
@@ -2434,8 +2434,8 @@
 <LM>w#w-d1t1106-1</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m123-d1t1106-4">
 <w.rf>
@@ -2492,8 +2492,8 @@
 <LM>w#w-d1t1114-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m123-d1t1114-5">
 <w.rf>
@@ -2834,8 +2834,8 @@
 <LM>w#w-197-198</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m123-d1t1138-3">
 <w.rf>
@@ -3414,8 +3414,8 @@
 <LM>w#w-d1t1193-6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m123-d1t1193-7">
 <w.rf>
@@ -3497,7 +3497,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m123-d1t1193-15">
 <w.rf>
@@ -3602,8 +3602,8 @@
 <LM>w#w-d1t1196-7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m123-d1t1196-8">
 <w.rf>
@@ -4082,8 +4082,8 @@
 <LM>w#w-d1t1225-2</LM>
 </w.rf>
 <form>konečně</form>
-<lemma>konečně-2</lemma>
-<tag>TT-------------</tag>
+<lemma>konečně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m123-d1t1225-5">
 <w.rf>
@@ -4580,8 +4580,8 @@
 <LM>w#w-d1t1279-3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m123-d1t1279-4">
 <w.rf>

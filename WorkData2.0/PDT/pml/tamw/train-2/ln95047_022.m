@@ -560,8 +560,8 @@
 <LM>w#w-ln95047-022-p3s2w1</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95047-022-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1324,8 +1324,8 @@
 <LM>w#w-ln95047-022-p4s4w8</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-022-p4s4w9">
 <src.rf>manual</src.rf>

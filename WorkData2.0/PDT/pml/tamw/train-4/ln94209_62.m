@@ -154,8 +154,8 @@
 <LM>w#w-ln94209-62-p1s1w16</LM>
 </w.rf>
 <form>pardon</form>
-<lemma>pardon</lemma>
-<tag>NNIS1-----A----</tag>
+<lemma>pardon-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln94209-62-p1s1w17">
 <src.rf>manual</src.rf>

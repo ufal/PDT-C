@@ -204,7 +204,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-037-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -713,8 +713,8 @@
 <LM>w#w-ln95041-037-p2s4w11</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-037-p2s4w12">
 <src.rf>manual</src.rf>

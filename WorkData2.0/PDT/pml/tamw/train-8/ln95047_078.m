@@ -713,8 +713,8 @@
 <LM>w#w-ln95047-078-p2s4w5</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-078-p2s4w6">
 <src.rf>manual</src.rf>

@@ -153,8 +153,8 @@
 <LM>w#w-lnd94103-059-p1s1Ew2</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-059-p1s1Ew3">
 <src.rf>manual</src.rf>
@@ -1346,8 +1346,8 @@
 <LM>w#w-lnd94103-059-p1s8w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-059-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1874,8 +1874,8 @@
 <LM>w#w-lnd94103-059-p1s11Aw6</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-059-p1s11Aw7">
 <src.rf>manual</src.rf>
@@ -2146,8 +2146,8 @@
 <LM>w#w-lnd94103-059-p1s11Bw8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-059-p1s11Bw9">
 <src.rf>manual</src.rf>
@@ -2413,8 +2413,8 @@
 <LM>w#w-lnd94103-059-p1s14w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94103-059-p1s14w2">
 <src.rf>manual</src.rf>
@@ -2641,7 +2641,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-059-p1s15w6">
 <src.rf>manual</src.rf>
@@ -3380,7 +3380,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-059-p1s20w10">
 <src.rf>manual</src.rf>
@@ -3579,8 +3579,8 @@
 <LM>w#w-lnd94103-059-p1s21w5</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-059-p1s21w6">
 <src.rf>manual</src.rf>
@@ -3918,8 +3918,8 @@
 <LM>w#w-lnd94103-059-p1s24w10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-059-p1s24w11">
 <src.rf>manual</src.rf>

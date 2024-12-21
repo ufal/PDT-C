@@ -877,8 +877,8 @@
 <LM>w#w-wsj1690-001-p1s3W16</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1690-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1113,8 +1113,8 @@
 <LM>w#w-wsj1690-001-p1s4W13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1690-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1954,7 +1954,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1690-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2853,7 +2853,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1690-001-p1s14W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2951,8 +2951,8 @@
 <LM>w#w-wsj1690-001-p1s14W12</LM>
 </w.rf>
 <form>federálně</form>
-<lemma>federálně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>federálně-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-wsj1690-001-p1s14W13-Ta">
 <src.rf>tagger-a</src.rf>

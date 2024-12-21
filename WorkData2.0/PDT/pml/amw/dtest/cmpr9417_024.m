@@ -274,7 +274,7 @@
 </w.rf>
 <form>přesáhla</form>
 <lemma>přesáhnout</lemma>
-<tag>VpQW----R-AAP--</tag>
+<tag>VpQW----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9417-024-p5s1w27">
 <src.rf>manual</src.rf>

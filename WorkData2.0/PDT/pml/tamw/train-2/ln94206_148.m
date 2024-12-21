@@ -708,8 +708,8 @@
 <LM>w#w-ln94206-148-p3s3w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-148-p3s3w2">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-ln94206-148-p3s4w9</LM>
 </w.rf>
 <form>hovězího</form>
-<lemma>hovězí</lemma>
+<lemma>hovězí-2</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-ln94206-148-p3s4w10">
@@ -1137,7 +1137,7 @@
 <LM>w#w-ln94206-148-p4s2w6</LM>
 </w.rf>
 <form>hovězího</form>
-<lemma>hovězí</lemma>
+<lemma>hovězí-2</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-ln94206-148-p4s2w7">
@@ -1364,7 +1364,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-148-p4s2w32">
 <src.rf>manual</src.rf>

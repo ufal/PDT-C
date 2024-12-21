@@ -46,8 +46,8 @@
 <LM>w#w-mf920922-077-p1s1w4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-077-p1s1w5">
 <src.rf>manual</src.rf>

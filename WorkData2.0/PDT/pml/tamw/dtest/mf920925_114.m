@@ -625,8 +625,8 @@
 <LM>w#w-mf920925-114-p3s2w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-114-p3s2w6">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-114-p5s1w15">
 <src.rf>manual</src.rf>

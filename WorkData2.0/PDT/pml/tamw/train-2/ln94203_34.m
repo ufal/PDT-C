@@ -28,8 +28,8 @@
 <LM>w#w-ln94203-34-p1s1w2</LM>
 </w.rf>
 <form>nezávislých</form>
-<lemma>závislý</lemma>
-<tag>AAMP2----1N----</tag>
+<lemma>nezávislý</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94203-34-p1s1w3">
 <src.rf>manual</src.rf>
@@ -349,8 +349,8 @@
 <LM>w#w-ln94203-34-p2s2w7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-34-p2s2w8">
 <src.rf>manual</src.rf>
@@ -621,8 +621,8 @@
 <LM>w#w-ln94203-34-p2s3w7</LM>
 </w.rf>
 <form>nezávislých</form>
-<lemma>závislý</lemma>
-<tag>AAMP2----1N----</tag>
+<lemma>nezávislý</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94203-34-p2s3w8">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94203-34-p2s3w23">
 <src.rf>manual</src.rf>

@@ -1918,7 +1918,7 @@
 <LM>w#w-ln95041-016-p4s4w36</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95041-016-p4s4w37">

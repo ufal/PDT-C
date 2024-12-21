@@ -453,8 +453,8 @@
 <LM>w#w-mf930713-095-p2s4w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-095-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-095-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1226,7 +1226,7 @@
 <LM>w#w-mf930713-095-p2s8w3</LM>
 </w.rf>
 <form>zmrazení</form>
-<lemma>zmrazení_^(*3it)</lemma>
+<lemma>zmrazení_^(^DD**zmražení)_(*3it)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-mf930713-095-p2s8w4">

@@ -210,8 +210,8 @@
 <LM>w#w-d1t1360-4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1360-5">
 <w.rf>
@@ -382,8 +382,8 @@
 <LM>w#w-d1t1371-7</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1371-8">
 <w.rf>
@@ -538,8 +538,8 @@
 <LM>w#w-d1t1371-25</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1371-26">
 <w.rf>
@@ -992,8 +992,8 @@
 <LM>w#w-d1t1377-4</LM>
 </w.rf>
 <form>zrovna</form>
-<lemma>zrovna-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zrovna-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1377-5">
 <w.rf>
@@ -1074,16 +1074,16 @@
 <LM>w#w-d1t1380-1</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1380-2">
 <w.rf>
 <LM>w#w-d1t1380-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1380-4">
 <w.rf>
@@ -1308,8 +1308,8 @@
 <LM>w#w-d1t1384-3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1384-4">
 <w.rf>
@@ -1918,8 +1918,8 @@
 <LM>w#w-d1t1395-4</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m147-d1t1395-5">
 <w.rf>
@@ -2018,7 +2018,7 @@
 <LM>w#w-d1t1401-4</LM>
 </w.rf>
 <form>sehnali</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m147-d1t1401-5">
@@ -2270,8 +2270,8 @@
 <LM>w#w-d1t1403-24</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1403-25">
 <w.rf>
@@ -2534,7 +2534,7 @@
 <LM>w#w-d1t1414-1</LM>
 </w.rf>
 <form>sehnal</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m147-d1t1416-1">

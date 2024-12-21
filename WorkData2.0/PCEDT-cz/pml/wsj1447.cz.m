@@ -711,8 +711,8 @@
 <LM>w#w-wsj1447-001-p1s1W35</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1447-001-p1s1W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -720,8 +720,8 @@
 <LM>w#w-wsj1447-001-p1s1W36</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1447-001-p1s1W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1404,7 +1404,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1447-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3151,7 +3151,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1447-001-p1s13W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4522,7 +4522,7 @@
 </w.rf>
 <form>nereagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-wsj1447-001-p1s19W17-Ta">
 <src.rf>tagger-a</src.rf>

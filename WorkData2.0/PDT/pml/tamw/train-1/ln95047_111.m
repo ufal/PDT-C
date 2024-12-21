@@ -29,7 +29,7 @@
 </w.rf>
 <form>radiomrakodrapu</form>
 <lemma>radiomrakodrap</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95047-111-p1s1w3">
 <src.rf>manual</src.rf>
@@ -140,8 +140,8 @@
 <LM>w#w-ln95047-111-p2s1Bw8</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95047-111-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -396,8 +396,8 @@
 <LM>w#w-ln95047-111-p2s3w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-111-p2s3w3">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-111-p2s3w4">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-111-p2s5w2">
 <src.rf>manual</src.rf>

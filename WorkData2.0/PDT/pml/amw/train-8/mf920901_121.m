@@ -1617,7 +1617,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-121-p4s2w27">
 <src.rf>manual</src.rf>
@@ -1790,7 +1790,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf920901-121-p4s3w17">
 <src.rf>manual</src.rf>
@@ -2101,8 +2101,8 @@
 <LM>w#w-mf920901-121-p5s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920901-121-p5s2w2">
 <src.rf>manual</src.rf>
@@ -3035,7 +3035,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-121-p6s2w18">
 <src.rf>manual</src.rf>
@@ -4107,7 +4107,7 @@
 </w.rf>
 <form>napomoci</form>
 <lemma>napomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920901-121-p8s1w11">
 <src.rf>manual</src.rf>

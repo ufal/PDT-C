@@ -1794,8 +1794,8 @@
 <LM>w#w-ln95045-012-p5s1w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-012-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1894,7 +1894,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-012-p5s1w16">
 <src.rf>manual</src.rf>
@@ -2048,8 +2048,8 @@
 <LM>w#w-ln95045-012-p5s2w14</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-012-p5s2w15">
 <src.rf>manual</src.rf>
@@ -2113,8 +2113,8 @@
 <LM>w#w-ln95045-012-p5s3w5</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-012-p5s3w6">
 <src.rf>manual</src.rf>

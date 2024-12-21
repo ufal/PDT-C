@@ -331,8 +331,8 @@
 <LM>w#w-ln94208-36-p2s2w7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-36-p2s2w8">
 <src.rf>manual</src.rf>

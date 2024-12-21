@@ -235,8 +235,8 @@
 <LM>w#w-wsj0141-001-p1s1W11</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0141-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1333,7 +1333,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-wsj0141-001-p1s7W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1699,7 +1699,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0141-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3151,7 +3151,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-wsj0141-001-p1s16W16-Ta">
 <src.rf>tagger-a</src.rf>

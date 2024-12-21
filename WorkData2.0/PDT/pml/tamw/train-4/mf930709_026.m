@@ -37,8 +37,8 @@
 <LM>w#w-mf930709-026-p1s1w3</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-026-p1s1w4">
 <src.rf>manual</src.rf>
@@ -113,8 +113,8 @@
 <LM>w#w-mf930709-026-p2s1Bw3</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930709-026-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -749,8 +749,8 @@
 <LM>w#w-mf930709-026-p2s4w22</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-026-p2s4w23">
 <src.rf>manual</src.rf>

@@ -7,15 +7,18 @@
 <reffile id="w" name="wdata" href="pdtsc_004_1.04.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="jg-12941_01.04-SCzechA-jg-12941_01-3497-root">
 <s.rf>m#m911-12941_01-3497</s.rf>
 <ord>0</ord>
 <children>
-<LM id="jg-12941_01.04-SCzechA-m-3497-3505">
-<m.rf>m#m911-3497-3505</m.rf>
+<LM id="jg-12941_01.04-SCzechA-m-3497-3506">
+<m.rf>m#m911-3497-3506</m.rf>
 <afun>Coord</afun>
-<ord>5</ord>
+<ord>9</ord>
 <children>
 <LM id="jg-12941_01.04-SCzechA-m-d1t1409-17">
 <m.rf>m#m911-d1t1409-17</m.rf>
@@ -23,15 +26,17 @@
 <is_member>1</is_member>
 <ord>4</ord>
 <children>
-<LM id="jg-12941_01.04-SCzechA-m-3497-3504">
-<m.rf>m#m911-3497-3504</m.rf>
-<afun>Adv</afun>
-<ord>1</ord>
-</LM>
 <LM id="jg-12941_01.04-SCzechA-m-d1t1409-15">
 <m.rf>m#m911-d1t1409-15</m.rf>
 <afun>Sb</afun>
 <ord>2</ord>
+<children>
+<LM id="jg-12941_01.04-SCzechA-m-3497-3504">
+<m.rf>m#m911-3497-3504</m.rf>
+<afun>AuxZ</afun>
+<ord>1</ord>
+</LM>
+</children>
 </LM>
 <LM id="jg-12941_01.04-SCzechA-m-d1t1409-16">
 <m.rf>m#m911-d1t1409-16</m.rf>
@@ -40,35 +45,34 @@
 </LM>
 </children>
 </LM>
-<LM id="jg-12941_01.04-SCzechA-m-3497-3506">
-<m.rf>m#m911-3497-3506</m.rf>
+<LM id="jg-12941_01.04-SCzechA-m-3497-3505">
+<m.rf>m#m911-3497-3505</m.rf>
+<afun>AuxX</afun>
+<ord>5</ord>
+</LM>
+<LM id="jg-12941_01.04-SCzechA-m-d1t1411-4">
+<m.rf>m#m911-d1t1411-4</m.rf>
 <afun>Coord</afun>
 <is_member>1</is_member>
-<ord>9</ord>
+<ord>7</ord>
 <children>
 <LM id="jg-12941_01.04-SCzechA-m-d1t1411-3">
 <m.rf>m#m911-d1t1411-3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>6</ord>
-<children>
-<LM id="jg-12941_01.04-SCzechA-m-d1t1411-4">
-<m.rf>m#m911-d1t1411-4</m.rf>
-<afun>Atr</afun>
-<ord>7</ord>
-<children>
+</LM>
 <LM id="jg-12941_01.04-SCzechA-m-d1t1411-5">
 <m.rf>m#m911-d1t1411-5</m.rf>
-<afun>Atr</afun>
+<afun>Denom</afun>
+<is_member>1</is_member>
 <ord>8</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
 <LM id="jg-12941_01.04-SCzechA-m-d1t1411-6">
 <m.rf>m#m911-d1t1411-6</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>10</ord>
 <children>
@@ -79,14 +83,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="jg-12941_01.04-SCzechA-m-d-id107643">
 <m.rf>m#m911-d-id107643</m.rf>
 <afun>AuxK</afun>
 <ord>12</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

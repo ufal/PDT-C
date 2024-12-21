@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_072.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf920922-072-p1s1w2">
 <a>
@@ -258,8 +258,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>17</t_lemma>
-<functor>EXT</functor>
-<subfunctor>nr</subfunctor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -276,8 +275,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>33</t_lemma>
-<functor>EXT</functor>
-<subfunctor>nr</subfunctor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -412,8 +410,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>16</t_lemma>
-<functor>EXT</functor>
-<subfunctor>nr</subfunctor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -430,8 +427,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>0</t_lemma>
-<functor>EXT</functor>
-<subfunctor>nr</subfunctor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -566,8 +562,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>43</t_lemma>
-<functor>EXT</functor>
-<subfunctor>nr</subfunctor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -584,8 +579,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>6</t_lemma>
-<functor>EXT</functor>
-<subfunctor>nr</subfunctor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -804,8 +798,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>82</t_lemma>
-<functor>EXT</functor>
-<subfunctor>nr</subfunctor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -822,8 +815,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>0</t_lemma>
-<functor>EXT</functor>
-<subfunctor>nr</subfunctor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -870,7 +862,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w2771f1</val_frame.rf>
+<val_frame.rf>v#v41edkB</val_frame.rf>
 <children>
 <LM id="t-mf920922-072-p2s2w5">
 <a>

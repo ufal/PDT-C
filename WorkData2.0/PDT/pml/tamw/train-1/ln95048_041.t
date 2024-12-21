@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95048_041.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>adept na seznam,
 hypertéma zde,
 1.položka (2)-(9),
@@ -119,7 +119,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w2173f1</val_frame.rf>
+<val_frame.rf>v#v41czdA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s1w2">
 <a>
@@ -237,7 +237,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w6606f1</val_frame.rf>
+<val_frame.rf>v#v41lnvA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s2a0">
 <nodetype>complex</nodetype>
@@ -424,7 +424,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w3305f1</val_frame.rf>
+<val_frame.rf>v#v41ffeA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s3w2">
 <a>
@@ -612,7 +612,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w7144f1</val_frame.rf>
+<val_frame.rf>v#v41molB</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s3w14">
 <a>
@@ -680,7 +680,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w8510f1</val_frame.rf>
+<val_frame.rf>v#v41peoA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s4a0">
 <nodetype>complex</nodetype>
@@ -810,7 +810,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w2502f2</val_frame.rf>
+<val_frame.rf>v#v41dpwA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s4w8">
 <a>
@@ -984,6 +984,7 @@ hypertéma zde,
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -996,7 +997,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s5w2">
 <a>
@@ -1056,7 +1057,7 @@ hypertéma zde,
 </gram>
 <tfa>t</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w6244f1</val_frame.rf>
+<val_frame.rf>v#v41kxfA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s5w5">
 <a>
@@ -1199,7 +1200,7 @@ hypertéma zde,
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w8746f1</val_frame.rf>
+<val_frame.rf>v#v41pqjA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s6a0">
 <nodetype>complex</nodetype>
@@ -1295,7 +1296,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w1167f1</val_frame.rf>
+<val_frame.rf>v#v41barA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s7w3">
 <a>
@@ -1438,7 +1439,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w9430f1</val_frame.rf>
+<val_frame.rf>v#v41ramA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p2s8w1">
 <a>
@@ -1569,7 +1570,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w2173f1</val_frame.rf>
+<val_frame.rf>v#v41czdA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p3s1w4">
 <a>
@@ -1772,7 +1773,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w6606f1</val_frame.rf>
+<val_frame.rf>v#v41lnvA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p3s2a0">
 <nodetype>complex</nodetype>
@@ -1811,7 +1812,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w7144f1</val_frame.rf>
+<val_frame.rf>v#v41molB</val_frame.rf>
 </LM>
 <LM id="t-ln95048-041-p3s2w6">
 <a>
@@ -1927,7 +1928,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w8386f1</val_frame.rf>
+<val_frame.rf>v#v41oxyC</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p3s3a0">
 <nodetype>complex</nodetype>
@@ -2201,7 +2202,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9071f1</val_frame.rf>
+<val_frame.rf>v#v41qhtB</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p3s4w4">
 <a>
@@ -2353,8 +2354,9 @@ hypertéma zde,
 <lex.rf>a#a-ln95048-041-p3s4w16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>osmdesát</t_lemma>
+<t_lemma>osmdesátý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>osmdesát</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -2458,7 +2460,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w5251f1</val_frame.rf>
+<val_frame.rf>v#v41ixkA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p3s5w1">
 <a>
@@ -2571,7 +2573,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w4135f1</val_frame.rf>
+<val_frame.rf>v#v41gtdA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p3s5w12">
 <a>
@@ -2620,8 +2622,9 @@ hypertéma zde,
 <lex.rf>a#a-ln95048-041-p3s5w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>jenž</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -2699,7 +2702,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w3869f1</val_frame.rf>
+<val_frame.rf>v#v41ggqA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p3s6w3">
 <a>
@@ -2826,7 +2829,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w2706f1</val_frame.rf>
+<val_frame.rf>v#v41dzuB</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p3s7w4">
 <a>
@@ -3020,7 +3023,7 @@ hypertéma zde,
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w8510f1</val_frame.rf>
+<val_frame.rf>v#v41peoA</val_frame.rf>
 <children>
 <LM id="t-ln95048-041-p3s7w13">
 <a>
@@ -3029,6 +3032,7 @@ hypertéma zde,
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>

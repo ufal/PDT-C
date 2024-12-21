@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1833.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <trees>
@@ -19,11 +19,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>schválit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w6054f1</val_frame.rf>
+<val_frame.rf>v#v41knwB</val_frame.rf>
 <children>
 <LM id="T-wsj1833-001-p1s0a2">
 <a>
@@ -42,6 +43,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <deepord>3</deepord>
 <children>
 <LM id="T-wsj1833-001-p1s0a4">
@@ -195,6 +197,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <deepord>17</deepord>
 <children>
 <LM id="T-wsj1833-001-p1s0a18">
@@ -204,9 +207,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Minnesota</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>15</deepord>
 </LM>
 <LM id="T-wsj1833-001-p1s0a17">
@@ -320,11 +320,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>využívat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w8533f1</val_frame.rf>
+<val_frame.rf>v#v41pfnA</val_frame.rf>
 <children>
 <LM id="T-wsj1833-001-p1s1a3">
 <a>
@@ -380,6 +381,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>M</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
@@ -392,6 +394,9 @@
 <nodetype>complex</nodetype>
 <t_lemma>3</t_lemma>
 <functor>RSTR</functor>
+<gram>
+<sempos>adj.quant.def</sempos>
+</gram>
 <deepord>5</deepord>
 </LM>
 </children>
@@ -555,11 +560,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>hledat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w1058f1</val_frame.rf>
+<val_frame.rf>v#v41avoB</val_frame.rf>
 <children>
 <LM id="T-wsj1833-001-p1s2a5">
 <a>
@@ -584,6 +590,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <deepord>2</deepord>
 <children>
 <LM id="T-wsj1833-001-p1s2a6">
@@ -593,9 +600,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Control</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>3</deepord>
 </LM>
 <LM id="T-wsj1833-001-p1s2a7">
@@ -605,9 +609,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Data</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>5</deepord>
 </LM>
 </children>
@@ -654,6 +655,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -677,7 +679,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w2894f1</val_frame.rf>
+<val_frame.rf>v#v41ejsA</val_frame.rf>
 <children>
 <LM id="T-wsj1833-001-p1s2a20">
 <nodetype>complex</nodetype>
@@ -739,6 +741,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <deepord>14</deepord>
 <children>
 <LM id="T-wsj1833-001-p1s2a14">
@@ -748,9 +751,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>ETA</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>15</deepord>
 </LM>
 <LM id="T-wsj1833-001-p1s2a15">
@@ -760,9 +760,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Systems</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>16</deepord>
 </LM>
 </children>

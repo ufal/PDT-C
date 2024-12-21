@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_39.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94202-39-p1s1w1">
 <a>
@@ -187,7 +187,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w2584f1</val_frame.rf>
+<val_frame.rf>v#v41dubA</val_frame.rf>
 <children>
 <LM id="t-ln94202-39-p2s1Bw3">
 <a>
@@ -226,7 +226,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1074f1</val_frame.rf>
+<val_frame.rf>v#v41awiB</val_frame.rf>
 <children>
 <LM id="t-ln94202-39-p2s1Bw5">
 <a>
@@ -297,7 +297,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w693f1</val_frame.rf>
+<val_frame.rf>v#v41aeeA</val_frame.rf>
 <children>
 <LM id="t-ln94202-39-p2s1Bw7">
 <a>
@@ -306,6 +306,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -539,7 +540,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w8436f1</val_frame.rf>
+<val_frame.rf>v#v41panA</val_frame.rf>
 <children>
 <LM id="t-ln94202-39-p2s1Ba1">
 <nodetype>qcomplex</nodetype>
@@ -659,7 +660,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w10007f1</val_frame.rf>
+<val_frame.rf>v#v41sdjA</val_frame.rf>
 <children>
 <LM id="t-ln94202-39-p2s2w4">
 <a>
@@ -725,6 +726,7 @@ není PREC, ale
 <nodetype>complex</nodetype>
 <t_lemma>sedmnáct</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>sedmnáct</proto_lemma>
 <gram>
 <sempos>n.quant.def</sempos>
 <gender>nr</gender>

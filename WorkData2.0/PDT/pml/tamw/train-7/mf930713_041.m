@@ -1587,7 +1587,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-041-p3s3w4">
 <src.rf>manual</src.rf>

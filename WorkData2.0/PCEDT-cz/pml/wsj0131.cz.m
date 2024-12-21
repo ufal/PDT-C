@@ -187,7 +187,7 @@
 <LM>w#w-wsj0131-001-p1s0W20</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj0131-001-p1s0W21-Ta">

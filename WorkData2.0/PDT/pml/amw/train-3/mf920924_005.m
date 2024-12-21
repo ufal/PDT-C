@@ -140,7 +140,7 @@
 </w.rf>
 <form>citujeme</form>
 <lemma>citovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAB--</tag>
 </m>
 <m id="m-mf920924-005-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920924-005-p1s2w15">
 <src.rf>manual</src.rf>
@@ -4023,7 +4023,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-005-p1s23w7">
 <src.rf>manual</src.rf>

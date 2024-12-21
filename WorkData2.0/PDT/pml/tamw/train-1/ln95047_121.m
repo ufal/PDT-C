@@ -266,7 +266,7 @@
 <LM>w#w-ln95047-121-p2s1Bw21</LM>
 </w.rf>
 <form>Kolowratského</form>
-<lemma>kolowratský</lemma>
+<lemma>kolowratský_,s_^(^DD**kolovratský)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-ln95047-121-p2s1Bw22">
@@ -1106,8 +1106,8 @@
 <LM>w#w-ln95047-121-p2s7w5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-121-p2s7w6">
 <src.rf>manual</src.rf>

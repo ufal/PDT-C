@@ -343,7 +343,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0324-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -770,8 +770,8 @@
 <LM>w#w-wsj0324-001-p1s3W12</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0324-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>

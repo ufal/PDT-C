@@ -142,8 +142,8 @@
 <LM>w#w-wsj0820-001-p1s0W15</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0820-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-wsj0820-001-p1s1W27</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0820-001-p1s1W28-Ta">
@@ -1926,8 +1926,8 @@
 <LM>w#w-wsj0820-001-p1s10W11</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0820-001-p1s10W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3253,7 +3253,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0820-001-p1s20W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3417,7 +3417,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0820-001-p1s21W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3846,7 +3846,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0820-001-p1s24W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4098,7 +4098,7 @@
 </w.rf>
 <form>nákupu</form>
 <lemma>nákup</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj0820-001-p1s24W30-Ta">
 <src.rf>tagger-a</src.rf>

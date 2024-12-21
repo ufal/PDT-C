@@ -259,8 +259,8 @@
 <LM>w#w-ln94205-112-p2s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94205-112-p2s2w2">
 <src.rf>manual</src.rf>
@@ -634,8 +634,8 @@
 <LM>w#w-ln94205-112-p2s5w3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-112-p2s5w4">
 <src.rf>manual</src.rf>

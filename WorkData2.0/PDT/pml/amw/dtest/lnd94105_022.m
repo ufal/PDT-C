@@ -539,7 +539,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-022-p1s2w18">
 <src.rf>manual</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-lnd94105-022-p1s8w3</LM>
 </w.rf>
 <form>gentlemanské</form>
-<lemma>gentlemanský</lemma>
+<lemma>gentlemanský_,s_^(^DD**džentlmenský)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-lnd94105-022-p1s8w4">
@@ -1716,8 +1716,8 @@
 <LM>w#w-lnd94105-022-p1s10w9</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94105-022-p1s10w10">
 <src.rf>manual</src.rf>
@@ -2099,7 +2099,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-022-p1s12w7">
 <src.rf>manual</src.rf>

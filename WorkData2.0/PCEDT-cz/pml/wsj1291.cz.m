@@ -1089,7 +1089,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1291-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1826,7 +1826,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1291-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2542,8 +2542,8 @@
 <LM>w#w-wsj1291-001-p1s11W29</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1291-001-p1s11W30-Ta">
 <src.rf>tagger-a</src.rf>

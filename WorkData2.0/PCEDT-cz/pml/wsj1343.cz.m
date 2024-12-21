@@ -425,8 +425,8 @@
 <LM>w#w-wsj1343-001-p1s1W19</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1343-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1013,7 +1013,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1343-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>

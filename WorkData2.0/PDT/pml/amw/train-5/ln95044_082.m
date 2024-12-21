@@ -595,7 +595,7 @@
 </w.rf>
 <form>nereagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAB--</tag>
 </m>
 <m id="m-ln95044-082-p2s3w14">
 <src.rf>manual</src.rf>

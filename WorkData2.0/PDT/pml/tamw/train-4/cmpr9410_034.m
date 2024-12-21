@@ -816,8 +816,8 @@
 <LM>w#w-cmpr9410-034-p2s7w4</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-034-p2s7w5">
 <src.rf>manual</src.rf>
@@ -879,8 +879,8 @@
 <LM>w#w-cmpr9410-034-p2s7w11</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-034-p2s7w12">
 <src.rf>manual</src.rf>
@@ -918,7 +918,7 @@
 </w.rf>
 <form>Každé</form>
 <lemma>každý</lemma>
-<tag>AANS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-cmpr9410-034-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1603,7 +1603,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-034-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1923,8 +1923,8 @@
 <LM>w#w-cmpr9410-034-p4s7w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-034-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2272,7 +2272,7 @@
 </w.rf>
 <form>pravilo</form>
 <lemma>pravit</lemma>
-<tag>VpNS----R-AAP--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-cmpr9410-034-p5s3w5">
 <src.rf>manual</src.rf>
@@ -2307,8 +2307,8 @@
 <LM>w#w-cmpr9410-034-p5s3w8</LM>
 </w.rf>
 <form>obžalovaného</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS2----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-034-p5s3w9">
 <src.rf>manual</src.rf>
@@ -2824,7 +2824,7 @@
 <LM>w#w-cmpr9410-034-p6s1w28</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-034-p6s1w29">

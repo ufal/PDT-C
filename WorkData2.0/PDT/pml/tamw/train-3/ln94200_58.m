@@ -657,8 +657,8 @@
 <LM>w#w-ln94200-58-p3s1Aw17</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-58-p3s1Aw18">
 <src.rf>manual</src.rf>
@@ -810,8 +810,8 @@
 <LM>w#w-ln94200-58-p3s1Aw34</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-58-p3s1Aw35">
 <src.rf>manual</src.rf>

@@ -712,7 +712,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-107-p2s4Aw14">
 <src.rf>manual</src.rf>
@@ -1129,8 +1129,8 @@
 <LM>w#w-mf920902-107-p2s5w15</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-107-p2s5w16">
 <src.rf>manual</src.rf>

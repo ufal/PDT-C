@@ -173,7 +173,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m047-d1t2754-2">
 <w.rf>
@@ -412,8 +412,8 @@
 <LM>w#w-d1t2763-2</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d1t2761-11">
 <w.rf>
@@ -518,8 +518,8 @@
 <LM>w#w-d1t2765-8</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d1t2765-9">
 <w.rf>
@@ -769,7 +769,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m047-d1t2801-5">
 <w.rf>
@@ -868,8 +868,8 @@
 <LM>w#w-d1t2805-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d-m-d1e2802-x2-punct-punct">
 <w.rf>
@@ -1592,8 +1592,8 @@
 <LM>w#w-d1t2865-11</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d1t2865-12">
 <w.rf>
@@ -2192,8 +2192,8 @@
 <LM>w#w-d1t2904-3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m047-d-id157454-punct">
 <w.rf>
@@ -2632,16 +2632,16 @@
 <LM>w#w-d1t2944-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d1t2944-6">
 <w.rf>
 <LM>w#w-d1t2944-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m047-d1t2944-7">
 <w.rf>
@@ -2877,7 +2877,7 @@
 </w.rf>
 <form>vdali</form>
 <lemma>vdát</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m047-d-m-d1e2959-x2-punct-punct">
 <w.rf>

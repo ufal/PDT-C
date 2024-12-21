@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_076.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -158,8 +158,9 @@
 <lex.rf>a#a-mf930709-076-p1s1w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jedenáct</t_lemma>
+<t_lemma>jedenáctý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jedenáct</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -272,7 +273,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w545f1</val_frame.rf>
+<val_frame.rf>v#v41xlA</val_frame.rf>
 <children>
 <LM id="t-mf930709-076-p1s1w17">
 <a>
@@ -284,6 +285,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>který</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>n.pron.indef</sempos>

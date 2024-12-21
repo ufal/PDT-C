@@ -1890,8 +1890,8 @@
 <LM>w#w-wsj0537-001-p1s5W4</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0537-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3928,8 +3928,8 @@
 <LM>w#w-wsj0537-001-p1s11W25</LM>
 </w.rf>
 <form>obžalovaných</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0537-001-p1s11W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4880,8 +4880,8 @@
 <LM>w#w-wsj0537-001-p1s14W29</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0537-001-p1s14W30-Ta">
 <src.rf>tagger-a</src.rf>

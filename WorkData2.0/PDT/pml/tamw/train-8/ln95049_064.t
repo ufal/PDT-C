@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95049_064.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -21,6 +21,9 @@
 <LM id="t-ln95049-064-p1s1w1">
 <a>
 <lex.rf>a#a-ln95049-064-p1s1w1</lex.rf>
+<aux.rf>
+<LM>a#a-ln95049-064-p1s1w2</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>chystat</t_lemma>
@@ -37,8 +40,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w1208f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41bcuA</val_frame.rf>
 <children>
 <LM id="t-ln95049-064-p1s1a0">
 <nodetype>qcomplex</nodetype>
@@ -135,7 +138,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
-<val_frame.rf>v#v-w5119f1</val_frame.rf>
+<val_frame.rf>v#v41iqpC</val_frame.rf>
 <children>
 <LM id="t-ln95049-064-p2s1w2">
 <a>
@@ -306,8 +309,9 @@
 <lex.rf>a#a-ln95049-064-p2s1w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>populární</t_lemma>
+<t_lemma>populárně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>populární</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -630,7 +634,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7796f1</val_frame.rf>
+<val_frame.rf>v#v41nusB</val_frame.rf>
 <children>
 <LM id="t-ln95049-064-p2s2w2">
 <a>
@@ -787,7 +791,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w7058f1</val_frame.rf>
+<val_frame.rf>v#v41mjxA</val_frame.rf>
 <children>
 <LM id="t-ln95049-064-p2s2w12">
 <a>
@@ -796,6 +800,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -1120,7 +1125,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w2500f2</val_frame.rf>
+<val_frame.rf>v#v41dpuB</val_frame.rf>
 <children>
 <LM id="t-ln95049-064-p2s3w2">
 <a>
@@ -1183,8 +1188,9 @@
 <lex.rf>a#a-ln95049-064-p2s3w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>populární</t_lemma>
+<t_lemma>populárně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>populární</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -1524,7 +1530,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w1940f1</val_frame.rf>
+<val_frame.rf>v#v41cllA</val_frame.rf>
 <children>
 <LM id="t-ln95049-064-p2s4w3">
 <a>
@@ -1706,7 +1712,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w6011f1</val_frame.rf>
+<val_frame.rf>v#v41klsA</val_frame.rf>
 <children>
 <LM id="t-ln95049-064-p2s4a0">
 <nodetype>qcomplex</nodetype>

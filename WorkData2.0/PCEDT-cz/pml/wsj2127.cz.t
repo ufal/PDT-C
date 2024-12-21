@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2127.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
+<meta/>
 <trees>
 <LM id="T-wsj2127-001-p1s0">
 <atree.rf>a#a-wsj2127-001-p1s0</atree.rf>
@@ -19,11 +20,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>oznámit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w3328f1</val_frame.rf>
+<val_frame.rf>v#v41fgeB</val_frame.rf>
 <children>
 <LM id="T-wsj2127-001-p1s0a25">
 <nodetype>qcomplex</nodetype>
@@ -46,9 +48,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>CONTINENTAL</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>2</deepord>
 </LM>
 <LM id="T-wsj2127-001-p1s0a4">
@@ -58,9 +57,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>MORTGAGE</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>3</deepord>
 </LM>
 <LM id="T-wsj2127-001-p1s0a5">
@@ -79,9 +75,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>EQUITY</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>6</deepord>
 </LM>
 <LM id="T-wsj2127-001-p1s0a2">
@@ -91,9 +84,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>TRUST</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>7</deepord>
 </LM>
 </children>
@@ -112,7 +102,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w2529f1</val_frame.rf>
+<val_frame.rf>v#v41driA</val_frame.rf>
 <children>
 <LM id="T-wsj2127-001-p1s0a27">
 <nodetype>complex</nodetype>
@@ -308,11 +298,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>vyplatit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w8192f1</val_frame.rf>
+<val_frame.rf>v#v41oonA</val_frame.rf>
 <children>
 <LM id="T-wsj2127-001-p1s1a2">
 <a>
@@ -416,6 +407,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>1987</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
@@ -432,7 +424,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w2451f1</val_frame.rf>
+<val_frame.rf>v#v41dnkA</val_frame.rf>
 <children>
 <LM id="T-wsj2127-001-p1s1a13">
 <a>
@@ -441,6 +433,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>kdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <gram>
 <sempos>adv.pron.indef</sempos>
 </gram>
@@ -485,8 +478,6 @@
 </gram>
 <deepord>13</deepord>
 </LM>
-</children>
-</LM>
 <LM id="T-wsj2127-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj2127-001-p1s1W18-Ta</lex.rf>
@@ -509,6 +500,8 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
 <eng_sentence>The Dallas real estate investment trust last paid a dividend on Dec. 31, 1987, when shareholders received $1 a share.</eng_sentence>
 </LM>
 <LM id="T-wsj2127-001-p1s2">
@@ -522,11 +515,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>oznámit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w3328f1</val_frame.rf>
+<val_frame.rf>v#v41fgeB</val_frame.rf>
 <children>
 <LM id="T-wsj2127-001-p1s2a28">
 <nodetype>qcomplex</nodetype>
@@ -667,7 +661,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w2608f1</val_frame.rf>
+<val_frame.rf>v#v41dvcA</val_frame.rf>
 <children>
 <LM id="T-wsj2127-001-p1s2a29">
 <nodetype>complex</nodetype>
@@ -695,11 +689,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="T-wsj2127-001-p1s2a30">
 <nodetype>complex</nodetype>
@@ -760,7 +755,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w7034f1</val_frame.rf>
+<val_frame.rf>v#v41milD</val_frame.rf>
 </LM>
 <LM id="T-wsj2127-001-p1s2a21">
 <a>
@@ -774,7 +769,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w9956f2</val_frame.rf>
+<val_frame.rf>v#v41sbaA</val_frame.rf>
 </LM>
 <LM id="T-wsj2127-001-p1s2a26">
 <a>
@@ -799,6 +794,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -840,10 +839,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

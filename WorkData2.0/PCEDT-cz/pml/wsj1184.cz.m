@@ -432,8 +432,8 @@
 <LM>w#w-wsj1184-001-p1s1W7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1184-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6292,8 +6292,8 @@
 <LM>w#w-wsj1184-001-p1s19W48</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1184-001-p1s19W49-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7245,8 +7245,8 @@
 <LM>w#w-wsj1184-001-p1s23W2</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1184-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7318,7 +7318,7 @@
 </w.rf>
 <form>reaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj1184-001-p1s23W11-Ta">
 <src.rf>tagger-a</src.rf>

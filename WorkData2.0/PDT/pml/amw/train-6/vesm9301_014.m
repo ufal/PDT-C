@@ -1172,8 +1172,8 @@
 <LM>w#w-vesm9301-014-p2s5w16</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-vesm9301-014-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1960,7 +1960,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-014-p3s1w6">
 <src.rf>manual</src.rf>
@@ -3325,7 +3325,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9301-014-p7s2w34">
 <src.rf>manual</src.rf>
@@ -5979,7 +5979,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-014-p22s2w2">
 <src.rf>manual</src.rf>
@@ -7116,7 +7116,7 @@
 </w.rf>
 <form>Též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-014-p24s3w2">
 <src.rf>manual</src.rf>
@@ -7490,7 +7490,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-014-p25s2w3">
 <src.rf>manual</src.rf>
@@ -8456,7 +8456,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-014-p30s2w4">
 <src.rf>manual</src.rf>
@@ -8637,8 +8637,8 @@
 <LM>w#w-vesm9301-014-p30s3w8</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-014-p30s3w9">
 <src.rf>manual</src.rf>
@@ -8784,7 +8784,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-014-p31s1w7">
 <src.rf>manual</src.rf>
@@ -11123,7 +11123,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-014-p42s1w2">
 <src.rf>manual</src.rf>

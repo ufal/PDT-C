@@ -170,8 +170,8 @@
 <LM>w#w-d1t28-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m004-d1t28-3">
 <w.rf>
@@ -262,8 +262,8 @@
 <LM>w#w-d1t38-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m004-d1e39-x2-2">
 <w.rf>
@@ -362,8 +362,8 @@
 <LM>w#w-d1t48-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m004-d-m-d1e43-x2-punct-punct">
 <w.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-d1t50-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m004-d1e43-x3-350">
@@ -864,8 +864,8 @@
 <LM>w#w-d1t84-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m004-d1t84-4">
 <w.rf>
@@ -897,7 +897,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m004-d1t84-9">
 <w.rf>
@@ -1334,8 +1334,8 @@
 <LM>w#w-d1t124-2</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m004-d1t124-3">
 <w.rf>
@@ -1440,8 +1440,8 @@
 <LM>w#w-d1t134-4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m004-d1t134-5">
 <w.rf>
@@ -1702,8 +1702,8 @@
 <LM>w#w-d1t168-9</LM>
 </w.rf>
 <form>že</form>
-<lemma>že-1</lemma>
-<tag>J,-------------</tag>
+<lemma>že-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m004-d-id59395-punct">
 <w.rf>
@@ -1811,7 +1811,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m004-d1t174-3">
 <w.rf>
@@ -1934,8 +1934,8 @@
 <LM>w#w-d1t182-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m004-d1t182-6">
 <w.rf>
@@ -2846,7 +2846,7 @@
 <LM>w#w-d1t252-7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m004-d1t252-8">
@@ -2896,8 +2896,8 @@
 <LM>w#w-d1t258-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m004-d1e255-x2-226">
 <w.rf>
@@ -2956,8 +2956,8 @@
 <LM>w#w-d1t264-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m004-d-m-d1e261-x2-punct-punct">
 <w.rf>
@@ -2982,8 +2982,8 @@
 <LM>w#w-d1t268-2</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m004-d1t268-3">
 <w.rf>
@@ -3156,8 +3156,8 @@
 <LM>w#w-d1t284-7</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m004-d1t284-8">
 <w.rf>
@@ -3602,8 +3602,8 @@
 <LM>w#w-d1t343-1</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m004-d1t335-2">
 <w.rf>
@@ -3756,7 +3756,7 @@
 <LM>w#w-d1t361-5</LM>
 </w.rf>
 <form>zapřísáhlá</form>
-<lemma>zapřísáhlý_^(*2nout)</lemma>
+<lemma>zapřísáhlý_^(^GC**zapřisáhlý)_(*2nout)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m004-d1t364-1">

@@ -279,8 +279,8 @@
 <LM>w#w-ln94205-92-p2s2w3</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-92-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1144,8 +1144,8 @@
 <LM>w#w-ln94205-92-p3s5w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-92-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1908,8 +1908,8 @@
 <LM>w#w-ln94205-92-p4s4w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-92-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2063,7 +2063,7 @@
 <LM>w#w-ln94205-92-p4s5w9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-ln94205-92-p4s5w10">
@@ -2108,8 +2108,8 @@
 <LM>w#w-ln94205-92-p4s5w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-92-p4s5w15">
 <src.rf>manual</src.rf>
@@ -2509,7 +2509,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-ln94205-92-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2810,7 +2810,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AAIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-ln94205-92-p5s4w9">
 <src.rf>manual</src.rf>
@@ -3508,8 +3508,8 @@
 <LM>w#w-ln94205-92-p5s7w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-92-p5s7w8">
 <src.rf>manual</src.rf>
@@ -3598,8 +3598,8 @@
 <LM>w#w-ln94205-92-p5s7w17</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-92-p5s7w18">
 <src.rf>manual</src.rf>
@@ -4998,8 +4998,8 @@
 <LM>w#w-ln94205-92-p7s2w8</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-92-p7s2w9">
 <src.rf>manual</src.rf>

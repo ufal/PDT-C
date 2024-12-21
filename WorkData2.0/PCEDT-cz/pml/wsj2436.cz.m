@@ -762,7 +762,6 @@
 <w.rf>
 <LM>w#w-wsj2436-001-p1s4W6</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>2.3</form>
 <lemma>2.3</lemma>
 <tag>C=-------------</tag>
@@ -979,7 +978,6 @@
 <w.rf>
 <LM>w#w-wsj2436-001-p1s4W26</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>4.4</form>
 <lemma>4.4</lemma>
 <tag>C=-------------</tag>
@@ -1309,8 +1307,8 @@
 <LM>w#w-wsj2436-001-p1s5W18</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-wsj2436-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1638,7 +1636,7 @@
 </w.rf>
 <form>zachová</form>
 <lemma>zachovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-wsj2436-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1892,8 +1890,8 @@
 <LM>w#w-wsj2436-001-p1s8W6</LM>
 </w.rf>
 <form>vedoucím</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS7-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS7-----A----</tag>
 </m>
 <m id="m-wsj2436-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>

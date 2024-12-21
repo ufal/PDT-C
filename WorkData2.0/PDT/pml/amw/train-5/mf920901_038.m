@@ -751,8 +751,8 @@
 <LM>w#w-mf920901-038-p2s6w1</LM>
 </w.rf>
 <form>Odsouzení</form>
-<lemma>odsouzený_^(*4dit)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>odsouzený-2_^(osoba)</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-mf920901-038-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1416,8 +1416,8 @@
 <LM>w#w-mf920901-038-p2s10w7</LM>
 </w.rf>
 <form>odsouzeným</form>
-<lemma>odsouzený_^(*4dit)</lemma>
-<tag>AAMS7----1A----</tag>
+<lemma>odsouzený-2_^(osoba)</lemma>
+<tag>NNMS7-----A----</tag>
 </m>
 <m id="m-mf920901-038-p2s10w8">
 <src.rf>manual</src.rf>

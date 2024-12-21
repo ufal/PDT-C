@@ -648,8 +648,8 @@
 <LM>w#w-wsj2345-001-p1s1W47</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2345-001-p1s1W48-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1131,8 +1131,8 @@
 <LM>w#w-wsj2345-001-p1s3W13</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)</lemma>
-<tag>NNIS1-----A----</tag>
+<lemma>plus-4</lemma>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-wsj2345-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3050,8 +3050,8 @@
 <LM>w#w-wsj2345-001-p1s11W28</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2345-001-p1s11W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3778,7 +3778,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2345-001-p1s14W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3942,7 +3942,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2345-001-p1s15W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4595,7 +4595,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2345-001-p1s17W11-Ta">
 <src.rf>tagger-a</src.rf>

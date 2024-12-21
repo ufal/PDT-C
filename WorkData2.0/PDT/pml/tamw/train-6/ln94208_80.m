@@ -794,8 +794,8 @@
 <LM>w#w-ln94208-80-p4s1w11</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-80-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-80-p6s2w3">
 <src.rf>manual</src.rf>

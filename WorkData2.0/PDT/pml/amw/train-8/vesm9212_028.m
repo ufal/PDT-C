@@ -517,8 +517,8 @@
 <LM>w#w-vesm9212-028-p3s4w5</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9212-028-p3s4w6">
 <src.rf>manual</src.rf>
@@ -2081,7 +2081,7 @@
 <LM>w#w-vesm9212-028-p4s5w33</LM>
 </w.rf>
 <form>spjatý</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-vesm9212-028-p4s5w34">

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95049_088.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -37,8 +37,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w5158f2</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41isgK</val_frame.rf>
 <children>
 <LM id="t-ln95049-088-p1s1w1">
 <a>
@@ -157,7 +157,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9938f3</val_frame.rf>
+<val_frame.rf>v#v41sadD</val_frame.rf>
 <children>
 <LM id="t-ln95049-088-p2s1Bw1">
 <a>
@@ -282,7 +282,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w7658f1</val_frame.rf>
+<val_frame.rf>v#v41nnlA</val_frame.rf>
 <children>
 <LM id="t-ln95049-088-p2s1Bw11">
 <a>
@@ -291,6 +291,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -488,7 +489,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w2796f1</val_frame.rf>
+<val_frame.rf>v#v41eeqB</val_frame.rf>
 <children>
 <LM id="t-ln95049-088-p2s2a0">
 <nodetype>complex</nodetype>
@@ -643,7 +644,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w735f1</val_frame.rf>
+<val_frame.rf>v#v41afyI</val_frame.rf>
 <children>
 <LM id="t-ln95049-088-p3s1w3">
 <a>
@@ -852,7 +853,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w5564f1</val_frame.rf>
+<val_frame.rf>v#v41jmbA</val_frame.rf>
 <children>
 <LM id="t-ln95049-088-p3s1w19">
 <a>
@@ -861,6 +862,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -929,15 +931,16 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w6439f2</val_frame.rf>
+<val_frame.rf>v#v41lgcB</val_frame.rf>
 <children>
 <LM id="t-ln95049-088-p3s2w1">
 <a>
 <lex.rf>a#a-ln95049-088-p3s2w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tady</t_lemma>
+<t_lemma>odtud</t_lemma>
 <functor>DIR1</functor>
+<proto_lemma>tady</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>

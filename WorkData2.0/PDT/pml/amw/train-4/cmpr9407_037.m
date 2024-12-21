@@ -1857,7 +1857,7 @@
 <LM>w#w-cmpr9407-037-p13s1w5</LM>
 </w.rf>
 <form>zjednodušení</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS3-----A----</tag>
 </m>
 <m id="m-cmpr9407-037-p13s1w6">
@@ -2251,7 +2251,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-037-p13s4w8">
 <src.rf>manual</src.rf>

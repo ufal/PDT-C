@@ -525,7 +525,7 @@
 </w.rf>
 <form>to</form>
 <lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m-wsj2159-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>

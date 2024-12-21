@@ -1442,8 +1442,8 @@
 <LM>w#w-wsj1743-001-p1s11W3</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1743-001-p1s11W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3235,7 +3235,7 @@
 </w.rf>
 <form>financující</form>
 <lemma>financující_^(*5ovat)</lemma>
-<tag>AGFS7-----A----</tag>
+<tag>AGFP1-----A----</tag>
 </m>
 <m id="m-wsj1743-001-p1s18W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5966,7 +5966,7 @@
 <LM>w#w-wsj1743-001-p1s28W14</LM>
 </w.rf>
 <form>hypotéčních</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-wsj1743-001-p1s28W15-Ta">
@@ -6386,8 +6386,8 @@
 <LM>w#w-wsj1743-001-p1s30W3</LM>
 </w.rf>
 <form>TRUST</form>
-<lemma>Trust-77</lemma>
-<tag>F%-------------</tag>
+<lemma>trust</lemma>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj1743-001-p1s30W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6878,7 +6878,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1743-001-p1s32W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7196,7 +7196,7 @@
 </w.rf>
 <form>sponzoruje</form>
 <lemma>sponzorovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj1743-001-p1s33W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7324,7 +7324,7 @@
 </w.rf>
 <form>wan</form>
 <lemma>wan</lemma>
-<tag>SNIS4-----A----</tag>
+<tag>SNIS1-----A----</tag>
 </m>
 <m id="m-wsj1743-001-p1s34W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7341,8 +7341,8 @@
 <LM>w#w-wsj1743-001-p1s34W6</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1743-001-p1s34W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10697,8 +10697,8 @@
 <LM>w#w-wsj1743-001-p1s49W32</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1743-001-p1s49W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10881,7 +10881,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1743-001-p1s50W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13204,7 +13204,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1743-001-p1s61W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14479,8 +14479,8 @@
 <LM>w#w-wsj1743-001-p1s68W1</LM>
 </w.rf>
 <form>Okolo</form>
-<lemma>okolo-2</lemma>
-<tag>Db-------------</tag>
+<lemma>okolo-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1743-001-p1s68W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94207_60.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -36,7 +36,7 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
-<discourse_special>caption</discourse_special>
+<discourse_feature>caption</discourse_feature>
 <children>
 <LM id="t-ln94207-60-p1s1Aw1">
 <a>
@@ -71,7 +71,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w2126f1</val_frame.rf>
+<val_frame.rf>v#v41cwpA</val_frame.rf>
 <children>
 <LM id="t-ln94207-60-p1s1Aw4">
 <a>
@@ -99,7 +99,7 @@
 <type>SUB_SET</type>
 </LM>
 </bridging>
-<val_frame.rf>v#v-w7379f1</val_frame.rf>
+<val_frame.rf>v#v41naeB</val_frame.rf>
 <children>
 <LM id="t-ln94207-60-p1s1Aa0">
 <nodetype>qcomplex</nodetype>

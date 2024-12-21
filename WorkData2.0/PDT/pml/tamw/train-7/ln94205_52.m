@@ -1109,8 +1109,8 @@
 <LM>w#w-ln94205-52-p4s2w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-52-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94205-52-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1556,7 +1556,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94205-52-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1655,7 +1655,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-52-p5s1w16">
 <src.rf>manual</src.rf>

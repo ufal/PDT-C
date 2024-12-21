@@ -625,8 +625,8 @@
 <LM>w#w-ln94200-52-p3s1w8</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-52-p3s1w9">
 <src.rf>manual</src.rf>
@@ -2132,8 +2132,8 @@
 <LM>w#w-ln94200-52-p5s3w11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-52-p5s3w12">
 <src.rf>manual</src.rf>

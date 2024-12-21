@@ -5017,7 +5017,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0689-001-p1s24W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7614,7 +7614,7 @@
 <LM>w#w-wsj0689-001-p1s38W14</LM>
 </w.rf>
 <form>neodpočitatelnými</form>
-<lemma>odpočitatelný_^(*8ítat)</lemma>
+<lemma>odpočitatelný_,s_^(^DD**odpočítatelný)</lemma>
 <tag>AAIP7----1N----</tag>
 </m>
 <m id="m-wsj0689-001-p1s38W15-Ta">
@@ -10130,8 +10130,8 @@
 <LM>w#w-wsj0689-001-p1s49W18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0689-001-p1s49W19-Ta">
 <src.rf>tagger-a</src.rf>

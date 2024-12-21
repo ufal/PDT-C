@@ -464,8 +464,8 @@
 <LM>w#w-lnd91301-061-p2s1w6</LM>
 </w.rf>
 <form>cestujícími</form>
-<lemma>cestující_^(*5ovat)</lemma>
-<tag>AGMP7-----A----</tag>
+<lemma>cestující-2</lemma>
+<tag>NNMP7-----A----</tag>
 </m>
 <m id="m-lnd91301-061-p2s1w7">
 <src.rf>manual</src.rf>

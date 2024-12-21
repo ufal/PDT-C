@@ -771,8 +771,8 @@
 <LM>w#w-ln94205-127-p2s3w3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-127-p2s3w4">
 <src.rf>manual</src.rf>
@@ -1283,8 +1283,8 @@
 <LM>w#w-ln94205-127-p3s3w3</LM>
 </w.rf>
 <form>určitě</form>
-<lemma>určitě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>určitě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-127-p3s3w4">
 <src.rf>manual</src.rf>
@@ -2549,7 +2549,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-ln94205-127-p4s2w5">
 <src.rf>manual</src.rf>

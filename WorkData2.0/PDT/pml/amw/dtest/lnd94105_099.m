@@ -396,8 +396,8 @@
 <LM>w#w-lnd94105-099-p1s4w16</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94105-099-p1s4w17">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd94105-099-p1s6w24">
 <src.rf>manual</src.rf>

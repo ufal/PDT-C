@@ -1019,8 +1019,8 @@
 <LM>w#w-ln94200-73-p2s4w22</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-73-p2s4w23">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94200-73-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1494,8 +1494,8 @@
 <LM>w#w-ln94200-73-p2s7w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-73-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1840,8 +1840,8 @@
 <LM>w#w-ln94200-73-p2s9w4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-73-p2s9w5">
 <src.rf>manual</src.rf>

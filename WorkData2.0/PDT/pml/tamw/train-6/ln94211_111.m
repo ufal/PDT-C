@@ -82,8 +82,8 @@
 <LM>w#w-ln94211-111-p1s1Aw8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-111-p1s1Aw9">
 <src.rf>manual</src.rf>

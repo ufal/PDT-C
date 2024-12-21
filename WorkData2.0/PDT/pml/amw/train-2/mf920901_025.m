@@ -57,7 +57,7 @@
 <LM>w#w-mf920901-025-p1s1Bw2</LM>
 </w.rf>
 <form>PLUS</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-mf920901-025-p1s1Bw3">
@@ -4521,8 +4521,8 @@
 <LM>w#w-mf920901-025-p7s1w8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-025-p7s1w9">
 <src.rf>manual</src.rf>

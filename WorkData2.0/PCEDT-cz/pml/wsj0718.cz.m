@@ -98,7 +98,7 @@
 </w.rf>
 <form>Brockvillu</form>
 <lemma>Brockville_;G</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0718-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>

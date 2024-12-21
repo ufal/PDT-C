@@ -1408,8 +1408,8 @@
 <LM>w#w-wsj0444-001-p1s6W1</LM>
 </w.rf>
 <form>Přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0444-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1644,8 +1644,8 @@
 <LM>w#w-wsj0444-001-p1s7W18</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0444-001-p1s7W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1854,7 +1854,7 @@
 </w.rf>
 <form>den</form>
 <lemma>den-1_^(jednotka_času)</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0444-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3067,7 +3067,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj0444-001-p1s15W16-Ta">
 <src.rf>tagger-a</src.rf>

@@ -765,8 +765,8 @@
 <LM>w#w-ln94205-81-p2s3w9</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94205-81-p2s3w10">
 <src.rf>manual</src.rf>

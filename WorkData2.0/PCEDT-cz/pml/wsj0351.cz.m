@@ -2504,8 +2504,8 @@
 <LM>w#w-wsj0351-001-p1s13W1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0351-001-p1s13W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2734,7 +2734,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj0351-001-p1s14W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4469,8 +4469,8 @@
 <LM>w#w-wsj0351-001-p1s24W5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0351-001-p1s24W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5497,8 +5497,8 @@
 <LM>w#w-wsj0351-001-p1s29W10</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0351-001-p1s29W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6477,8 +6477,8 @@
 <LM>w#w-wsj0351-001-p1s35W2</LM>
 </w.rf>
 <form>pojistného</form>
-<lemma>pojistný_^(př._smlouva,_událost)</lemma>
-<tag>AANS2----1A----</tag>
+<lemma>pojistné_^(poplatek)</lemma>
+<tag>NNNS2-----A----</tag>
 </m>
 <m id="m-wsj0351-001-p1s35W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6514,7 +6514,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0351-001-p1s35W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8825,8 +8825,8 @@
 <LM>w#w-wsj0351-001-p1s45W20</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0351-001-p1s45W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10232,7 +10232,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0351-001-p1s50W7-Ta">
 <src.rf>tagger-a</src.rf>

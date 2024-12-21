@@ -184,7 +184,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95040-139-p2s1w2">
 <src.rf>manual</src.rf>
@@ -250,8 +250,8 @@
 <LM>w#w-ln95040-139-p3s1Bw1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-139-p3s1Bw2">
 <src.rf>manual</src.rf>
@@ -1460,7 +1460,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-139-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2608,8 +2608,8 @@
 <LM>w#w-ln95040-139-p5s3w12</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95040-139-p5s3w13">
 <src.rf>manual</src.rf>

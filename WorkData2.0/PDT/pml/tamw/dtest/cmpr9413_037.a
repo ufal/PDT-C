@@ -113,6 +113,12 @@
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-cmpr9413-037-p3s1Aw10">
+<m.rf>m#m-cmpr9413-037-p3s1Aw10</m.rf>
+<afun>Atr</afun>
+<ord>10</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9413-037-p3s1Aw8">
 <m.rf>m#m-cmpr9413-037-p3s1Aw8</m.rf>
 <afun>Atr</afun>
@@ -125,11 +131,7 @@
 <ord>9</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9413-037-p3s1Aw10">
-<m.rf>m#m-cmpr9413-037-p3s1Aw10</m.rf>
-<afun>Atr</afun>
-<ord>10</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 </children>
 </LM>
@@ -319,6 +321,11 @@
 <afun>AuxR</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
+<comments>
+<LM type="T-layer">
+<text>na t-rovině vypuštěno</text>
+</LM>
+</comments>
 </LM>
 <LM id="a-cmpr9413-037-p3s2w4">
 <m.rf>m#m-cmpr9413-037-p3s2w4</m.rf>
@@ -352,15 +359,15 @@
 <ord>8</ord>
 <clause_number>1</clause_number>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-cmpr9413-037-p3s2w9">
 <m.rf>m#m-cmpr9413-037-p3s2w9</m.rf>
 <afun>AuxK</afun>
 <ord>9</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -474,7 +481,7 @@
 </LM>
 <LM id="a-cmpr9413-037-p3s4Aw2">
 <m.rf>m#m-cmpr9413-037-p3s4Aw2</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -588,13 +595,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-cmpr9413-037-p3s4Bw6">
 <m.rf>m#m-cmpr9413-037-p3s4Bw6</m.rf>
-<afun>ExD</afun>
+<afun>AuxK</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -675,6 +682,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-cmpr9413-037-p3s5Aw11">
+<m.rf>m#m-cmpr9413-037-p3s5Aw11</m.rf>
+<afun>AuxZ</afun>
+<ord>11</ord>
+<clause_number>2</clause_number>
+</LM>
 <LM id="a-cmpr9413-037-p3s5Aw13">
 <m.rf>m#m-cmpr9413-037-p3s5Aw13</m.rf>
 <afun>Pred</afun>
@@ -682,12 +695,6 @@
 <ord>13</ord>
 <clause_number>2</clause_number>
 <children>
-<LM id="a-cmpr9413-037-p3s5Aw11">
-<m.rf>m#m-cmpr9413-037-p3s5Aw11</m.rf>
-<afun>Adv</afun>
-<ord>11</ord>
-<clause_number>2</clause_number>
-</LM>
 <LM id="a-cmpr9413-037-p3s5Aw12">
 <m.rf>m#m-cmpr9413-037-p3s5Aw12</m.rf>
 <afun>Obj</afun>

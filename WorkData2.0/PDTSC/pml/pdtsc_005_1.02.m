@@ -1629,7 +1629,7 @@
 <LM>w#w-8166-8293</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m913-8166-8292">
@@ -4252,8 +4252,8 @@
 <LM>w#w-8468-8665</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-8468-8664">
 <w.rf>
@@ -5261,7 +5261,7 @@
 </w.rf>
 <form>kontaktovat</form>
 <lemma>kontaktovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m913-8533-9527">
 <w.rf>
@@ -5324,8 +5324,8 @@
 <LM>w#w-8468-8498</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-8468-8502">
 <w.rf>
@@ -6008,8 +6008,8 @@
 <LM>w#w-d1t935-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-d1t935-3">
 <w.rf>
@@ -6064,7 +6064,7 @@
 <LM>w#w-d1t937-3</LM>
 </w.rf>
 <form>zemdlévali</form>
-<lemma>zemdlévat</lemma>
+<lemma>zemdlévat_^(*4ít)</lemma>
 <tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m913-d-id88544">
@@ -6260,8 +6260,8 @@
 <LM>w#w-d1t944-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-d1t946-2">
 <w.rf>
@@ -6340,8 +6340,8 @@
 <LM>w#w-d1t948-1</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-d1t948-2">
 <w.rf>

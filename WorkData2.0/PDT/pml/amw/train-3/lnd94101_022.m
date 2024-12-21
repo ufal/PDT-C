@@ -648,8 +648,8 @@
 <LM>w#w-lnd94101-022-p1s3w3</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-1</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-022-p1s3w4">
 <src.rf>manual</src.rf>

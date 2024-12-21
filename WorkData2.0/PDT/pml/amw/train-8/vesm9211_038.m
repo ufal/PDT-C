@@ -952,7 +952,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-038-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1934,7 +1934,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-038-p4s1w20">
 <src.rf>manual</src.rf>

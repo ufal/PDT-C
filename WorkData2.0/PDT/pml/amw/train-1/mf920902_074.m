@@ -891,8 +891,8 @@
 <LM>w#w-mf920902-074-p3s1Aw20</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920902-074-p3s1Aw21">
 <src.rf>manual</src.rf>

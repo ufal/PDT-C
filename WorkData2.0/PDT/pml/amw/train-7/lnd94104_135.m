@@ -509,8 +509,8 @@
 <LM>w#w-lnd94104-135-p1s2w19</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-135-p1s2w20">
 <src.rf>manual</src.rf>

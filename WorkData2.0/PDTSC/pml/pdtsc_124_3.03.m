@@ -262,8 +262,8 @@
 <LM>w#w-d1t752-10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t752-11">
 <w.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-d1t754-1</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m100-d1t754-2">
@@ -578,8 +578,8 @@
 <LM>w#w-d1t776-1</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t776-3">
 <w.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-158-159</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m100-d1t780-1">
@@ -1202,8 +1202,8 @@
 <LM>w#w-d1t819-15</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t819-17">
 <w.rf>
@@ -1310,8 +1310,8 @@
 <LM>w#w-d1t823-7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t823-8">
 <w.rf>
@@ -1390,8 +1390,8 @@
 <LM>w#w-d1t825-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t825-4">
 <w.rf>
@@ -2042,8 +2042,8 @@
 <LM>w#w-d1t874-4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t874-3">
 <w.rf>

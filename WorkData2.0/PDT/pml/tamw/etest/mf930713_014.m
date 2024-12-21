@@ -1623,8 +1623,8 @@
 <LM>w#w-mf930713-014-p2s9w25</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-014-p2s9w26">
 <src.rf>manual</src.rf>
@@ -1985,8 +1985,8 @@
 <LM>w#w-mf930713-014-p2s10w17</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf930713-014-p2s10w18">
 <src.rf>manual</src.rf>
@@ -1994,8 +1994,8 @@
 <LM>w#w-mf930713-014-p2s10w18</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-1</lemma>
-<tag>Db-------------</tag>
+<lemma>třeba-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-014-p2s10w19">
 <src.rf>manual</src.rf>

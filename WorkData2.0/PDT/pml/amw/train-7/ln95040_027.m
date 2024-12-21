@@ -932,7 +932,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95040-027-p2s4w14">
 <src.rf>manual</src.rf>
@@ -2535,7 +2535,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-027-p3s1w13">
 <src.rf>manual</src.rf>

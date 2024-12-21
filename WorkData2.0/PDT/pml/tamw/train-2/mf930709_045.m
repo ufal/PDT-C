@@ -1053,7 +1053,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-mf930709-045-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1198,8 +1198,8 @@
 <LM>w#w-mf930709-045-p2s9w14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-045-p2s9w15">
 <src.rf>manual</src.rf>
@@ -1354,7 +1354,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-045-p2s11w7">
 <src.rf>manual</src.rf>
@@ -1966,8 +1966,8 @@
 <LM>w#w-mf930709-045-p2s17w7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930709-045-p2s17w8">
 <src.rf>manual</src.rf>
@@ -2085,8 +2085,8 @@
 <LM>w#w-mf930709-045-p2s18w9</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-045-p2s18w10">
 <src.rf>manual</src.rf>
@@ -2370,8 +2370,8 @@
 <LM>w#w-mf930709-045-p2s21w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-045-p2s21w3">
 <src.rf>manual</src.rf>
@@ -2397,8 +2397,8 @@
 <LM>w#w-mf930709-045-p2s21w5</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-045-p2s21w6">
 <src.rf>manual</src.rf>
@@ -2534,8 +2534,8 @@
 <LM>w#w-mf930709-045-p2s22w12</LM>
 </w.rf>
 <form>napříč</form>
-<lemma>napříč-2</lemma>
-<tag>Db-------------</tag>
+<lemma>napříč-1</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-mf930709-045-p2s22w13">
 <src.rf>manual</src.rf>
@@ -2853,8 +2853,8 @@
 <LM>w#w-mf930709-045-p2s24w8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-045-p2s24w9">
 <src.rf>manual</src.rf>

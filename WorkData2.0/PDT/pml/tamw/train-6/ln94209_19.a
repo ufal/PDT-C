@@ -67,12 +67,13 @@
 <LM id="a-ln94209-19-p2s1Aw1">
 <m.rf>m#m-ln94209-19-p2s1Aw1</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94209-19-p2s1Aw3">
 <m.rf>m#m-ln94209-19-p2s1Aw3</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -94,13 +95,13 @@
 <children>
 <LM id="a-ln94209-19-p2s1Bw1">
 <m.rf>m#m-ln94209-19-p2s1Bw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94209-19-p2s1Bw2">
 <m.rf>m#m-ln94209-19-p2s1Bw2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -871,8 +872,9 @@
 </LM>
 <LM id="a-ln94209-19-p2s5w15">
 <m.rf>m#m-ln94209-19-p2s5w15</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>15</ord>
 <clause_number>1</clause_number>
 </LM>

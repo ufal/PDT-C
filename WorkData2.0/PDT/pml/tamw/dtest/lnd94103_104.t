@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_104.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -53,7 +53,7 @@
 <deepord>5</deepord>
 <discourse_comment>možná špatně segmentovaný
 text, wrongTR?</discourse_comment>
-<val_frame.rf>v#v-w6382f1</val_frame.rf>
+<val_frame.rf>v#v41ldnA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-104-p1s1w2">
 <a>
@@ -259,6 +259,7 @@ text, wrongTR?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-104-p1s1w17</LM>
@@ -288,7 +289,7 @@ text, wrongTR?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w8671f1</val_frame.rf>
+<val_frame.rf>v#v41pmsB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-104-p1s1a3">
 <nodetype>complex</nodetype>
@@ -371,21 +372,23 @@ text, wrongTR?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-104-p1s1w21</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w7449f2</val_frame.rf>
+<val_frame.rf>v#v41ndjG</val_frame.rf>
 <children>
 <LM id="t-lnd94103-104-p1s1w23">
 <a>
 <lex.rf>a#a-lnd94103-104-p1s1w23</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>následný</t_lemma>
+<t_lemma>následně</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>následný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>

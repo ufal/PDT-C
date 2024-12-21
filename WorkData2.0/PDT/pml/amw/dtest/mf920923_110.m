@@ -531,7 +531,7 @@
 <LM>w#w-mf920923-110-p4s3w13</LM>
 </w.rf>
 <form>abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AANS4----1A----</tag>
 </m>
 <m id="m-mf920923-110-p4s3w14">

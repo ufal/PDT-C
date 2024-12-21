@@ -579,7 +579,7 @@
 </w.rf>
 <form>divize</form>
 <lemma>divize</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0932-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -816,8 +816,8 @@
 <LM>w#w-wsj0932-001-p1s4W4</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0932-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1574,7 +1574,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0932-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>

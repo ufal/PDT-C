@@ -2065,8 +2065,8 @@
 <LM>w#w-lnd94103-031-p1s12w17</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-031-p1s12w18">
 <src.rf>manual</src.rf>
@@ -4243,8 +4243,8 @@
 <LM>w#w-lnd94103-031-p1s25w14</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94103-031-p1s25w15">
 <src.rf>manual</src.rf>
@@ -4525,8 +4525,8 @@
 <LM>w#w-lnd94103-031-p1s26w23</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-lnd94103-031-p1s26w24">
 <src.rf>manual</src.rf>
@@ -4543,8 +4543,8 @@
 <LM>w#w-lnd94103-031-p1s26w25</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-031-p1s26w26">
 <src.rf>manual</src.rf>

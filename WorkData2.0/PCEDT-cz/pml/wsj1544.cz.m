@@ -579,8 +579,8 @@
 <LM>w#w-wsj1544-001-p1s2W1</LM>
 </w.rf>
 <form>Počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1544-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>

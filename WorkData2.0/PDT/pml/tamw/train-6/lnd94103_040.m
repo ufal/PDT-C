@@ -213,7 +213,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-040-p1s3w14">
 <src.rf>manual</src.rf>
@@ -338,8 +338,8 @@
 <LM>w#w-lnd94103-040-p1s3w27</LM>
 </w.rf>
 <form>postupem</form>
-<lemma>postup</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>postupem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94103-040-p1s3w28">
 <src.rf>manual</src.rf>

@@ -551,7 +551,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0279-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1205,7 +1205,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0279-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3302,8 +3302,8 @@
 <LM>w#w-wsj0279-001-p1s12W15</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0279-001-p1s12W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3549,7 +3549,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0279-001-p1s13W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3719,7 +3719,7 @@
 <LM>w#w-wsj0279-001-p1s13W21</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-wsj0279-001-p1s13W22-Ta">
@@ -4261,7 +4261,7 @@
 <LM>w#w-wsj0279-001-p1s14W28</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0279-001-p1s14W29-Ta">
@@ -4288,8 +4288,8 @@
 <LM>w#w-wsj0279-001-p1s14W31</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0279-001-p1s14W32-Ta">
 <src.rf>tagger-a</src.rf>

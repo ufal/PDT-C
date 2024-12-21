@@ -19,7 +19,7 @@
 <LM>w#w-lnd91301-083-p1s1w1</LM>
 </w.rf>
 <form>Bomber</form>
-<lemma>bomber_,h</lemma>
+<lemma>bomber_,l_^(fotbalista)_(^DD**bombér)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-083-p1s1w2">
@@ -619,7 +619,7 @@
 <LM>w#w-lnd91301-083-p2s2w29</LM>
 </w.rf>
 <form>bomber</form>
-<lemma>bomber_,h</lemma>
+<lemma>bomber_,l_^(fotbalista)_(^DD**bombér)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-083-p2s2w30">

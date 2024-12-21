@@ -2931,7 +2931,7 @@
 <LM>w#w-ln95044-054-p5s3w25</LM>
 </w.rf>
 <form>spjata</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACQW------A----</tag>
 </m>
 <m id="m-ln95044-054-p5s3w26">
@@ -3060,7 +3060,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-054-p5s4w14">
 <src.rf>manual</src.rf>
@@ -4012,7 +4012,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-054-p6s4w20">
 <src.rf>manual</src.rf>
@@ -5115,7 +5115,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95044-054-p7s2w6">
 <src.rf>manual</src.rf>
@@ -5195,8 +5195,8 @@
 <LM>w#w-ln95044-054-p7s2w14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95044-054-p7s2w15">
 <src.rf>manual</src.rf>

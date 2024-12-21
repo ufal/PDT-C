@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94209_26.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -65,8 +65,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_special>caption</discourse_special>
-<val_frame.rf>v#v-w1323f1</val_frame.rf>
+<discourse_feature>caption</discourse_feature>
+<val_frame.rf>v#v41bhrA</val_frame.rf>
 <children>
 <LM id="t-ln94209-26-p1s1Aw4">
 <a>
@@ -172,7 +172,7 @@
 <lex.rf>a#a-ln94209-26-p1s1Aw14</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Dash</t_lemma>
+<t_lemma>-</t_lemma>
 <functor>FPHR</functor>
 <deepord>9</deepord>
 </LM>
@@ -181,7 +181,7 @@
 <lex.rf>a#a-ln94209-26-p1s1Aw15</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>pching</t_lemma>
+<t_lemma>pchingem</t_lemma>
 <functor>FPHR</functor>
 <is_name_of_person>1</is_name_of_person>
 <deepord>10</deepord>
@@ -218,7 +218,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w6039f1</val_frame.rf>
+<val_frame.rf>v#v41knbC</val_frame.rf>
 <children>
 <LM id="t-ln94209-26-p1s1Aw10">
 <a>

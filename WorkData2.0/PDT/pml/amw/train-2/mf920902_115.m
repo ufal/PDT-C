@@ -657,8 +657,8 @@
 <LM>w#w-mf920902-115-p2s3w12</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-115-p2s3w13">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <LM>w#w-mf920902-115-p2s5w10</LM>
 </w.rf>
 <form>ofsetové</form>
-<lemma>ofsetový</lemma>
+<lemma>ofsetový_,s_^(^DD**offsetový)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-mf920902-115-p2s5w11">
@@ -1738,8 +1738,8 @@
 <LM>w#w-mf920902-115-p2s8w10</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-115-p2s8w11">
 <src.rf>manual</src.rf>

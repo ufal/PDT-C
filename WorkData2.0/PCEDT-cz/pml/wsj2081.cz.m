@@ -358,8 +358,8 @@
 <LM>w#w-wsj2081-001-p1s0W39</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2081-001-p1s0W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1315,7 +1315,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2081-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1386,8 +1386,8 @@
 <LM>w#w-wsj2081-001-p1s4W12</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj2081-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>

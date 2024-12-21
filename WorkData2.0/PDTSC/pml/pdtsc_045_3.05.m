@@ -152,8 +152,8 @@
 <LM>w#w-d1t949-7</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m131-d1t949-3">
 <w.rf>
@@ -648,8 +648,8 @@
 <LM>w#w-d1t964-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m131-d1t964-3">
 <w.rf>
@@ -1134,8 +1134,8 @@
 <LM>w#w-d1t973-16</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m131-d1t973-17">
 <w.rf>
@@ -1348,8 +1348,8 @@
 <LM>w#w-d1t977-34</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m131-d1t979-6">
 <w.rf>
@@ -2480,16 +2480,16 @@
 <LM>w#w-d1t1034-22</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m131-d1t1034-23">
 <w.rf>
 <LM>w#w-d1t1034-23</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m131-d1t1034-24">
 <w.rf>
@@ -3028,7 +3028,7 @@
 <LM>w#w-d1t1050-18</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m131-d1t1050-19">
@@ -3268,8 +3268,8 @@
 <LM>w#w-d1t1056-7</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m131-466-64">
 <w.rf>
@@ -3416,8 +3416,8 @@
 <LM>w#w-d1t1065-1</LM>
 </w.rf>
 <form>zrovna</form>
-<lemma>zrovna-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zrovna-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m131-d1t1065-2">
 <w.rf>
@@ -3538,8 +3538,8 @@
 <LM>w#w-d1t1072-1</LM>
 </w.rf>
 <form>Místo</form>
-<lemma>místo-3</lemma>
-<tag>Db-------------</tag>
+<lemma>místo-2_^(záměnou_za)</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m131-485-486">
 <w.rf>
@@ -3939,7 +3939,7 @@
 </w.rf>
 <form>vdát</form>
 <lemma>vdát</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m131-d-id112753-punct">
 <w.rf>

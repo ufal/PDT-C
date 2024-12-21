@@ -1837,7 +1837,7 @@
 </w.rf>
 <form>přesáhl</form>
 <lemma>přesáhnout</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9417-022-p8s1w14">
 <src.rf>manual</src.rf>
@@ -2073,7 +2073,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-022-p8s2w19">
 <src.rf>manual</src.rf>
@@ -2482,7 +2482,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-022-p8s4w2">
 <src.rf>manual</src.rf>

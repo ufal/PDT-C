@@ -1083,7 +1083,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj2036-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1557,8 +1557,8 @@
 <LM>w#w-wsj2036-001-p1s8W11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2036-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2378,8 +2378,8 @@
 <LM>w#w-wsj2036-001-p1s13W12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2036-001-p1s13W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3824,7 +3824,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj2036-001-p1s20W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4005,8 +4005,8 @@
 <LM>w#w-wsj2036-001-p1s21W5</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2036-001-p1s21W6-Ta">
 <src.rf>tagger-a</src.rf>

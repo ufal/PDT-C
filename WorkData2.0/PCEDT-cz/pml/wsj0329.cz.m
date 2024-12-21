@@ -1330,7 +1330,7 @@
 <LM>w#w-wsj0329-001-p1s3W17</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj0329-001-p1s3W18-Ta">
@@ -1457,7 +1457,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0329-001-p1s3W32-Ta">
 <src.rf>tagger-a</src.rf>

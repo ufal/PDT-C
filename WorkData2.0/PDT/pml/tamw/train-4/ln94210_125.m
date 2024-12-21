@@ -404,8 +404,8 @@
 <LM>w#w-ln94210-125-p2s2w16</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-ln94210-125-p2s2w17">
 <src.rf>manual</src.rf>

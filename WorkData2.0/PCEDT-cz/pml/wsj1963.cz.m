@@ -151,7 +151,7 @@
 <LM>w#w-wsj1963-001-p1s0W16</LM>
 </w.rf>
 <form>zjednodušení</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj1963-001-p1s0W17-Ta">
@@ -178,8 +178,8 @@
 <LM>w#w-wsj1963-001-p1s0W19</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1963-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -459,8 +459,8 @@
 <LM>w#w-wsj1963-001-p1s1W25</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1963-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1664,8 +1664,8 @@
 <LM>w#w-wsj1963-001-p1s5W18</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1963-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2517,7 +2517,7 @@
 </w.rf>
 <form>zachováno</form>
 <lemma>zachovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj1963-001-p1s8W34-Ta">
 <src.rf>tagger-a</src.rf>

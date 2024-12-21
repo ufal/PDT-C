@@ -249,7 +249,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-020-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-020-p2s8w3">
 <src.rf>manual</src.rf>

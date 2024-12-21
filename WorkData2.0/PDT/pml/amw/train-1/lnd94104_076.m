@@ -1654,7 +1654,7 @@
 <LM>w#w-lnd94104-076-p1s13w1</LM>
 </w.rf>
 <form>Dozvěděla</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-076-p1s13w2">
@@ -2427,8 +2427,8 @@
 <LM>w#w-lnd94104-076-p1s17w3</LM>
 </w.rf>
 <form>padlým</form>
-<lemma>padlý_^(*2nout)</lemma>
-<tag>AAMP3----1A----</tag>
+<lemma>padlý-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-lnd94104-076-p1s17w4">
 <src.rf>manual</src.rf>
@@ -2445,8 +2445,8 @@
 <LM>w#w-lnd94104-076-p1s17w5</LM>
 </w.rf>
 <form>živým</form>
-<lemma>živý</lemma>
-<tag>AAMP3----1A----</tag>
+<lemma>živý-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-lnd94104-076-p1s17w6">
 <src.rf>manual</src.rf>

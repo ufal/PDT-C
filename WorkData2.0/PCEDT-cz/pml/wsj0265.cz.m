@@ -588,7 +588,7 @@
 </w.rf>
 <form>splátky</form>
 <lemma>splátka</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP4-----A----</tag>
 </m>
 <m id="m-wsj0265-001-p1s1W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1315,8 +1315,8 @@
 <LM>w#w-wsj0265-001-p1s3W33</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0265-001-p1s3W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1815,8 +1815,8 @@
 <LM>w#w-wsj0265-001-p1s5W26</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0265-001-p1s5W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2143,7 +2143,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0265-001-p1s6W20-Ta">
 <src.rf>tagger-a</src.rf>

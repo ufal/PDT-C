@@ -937,7 +937,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-020-p2s5w4">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf920902-020-p2s5w5">
 <src.rf>manual</src.rf>

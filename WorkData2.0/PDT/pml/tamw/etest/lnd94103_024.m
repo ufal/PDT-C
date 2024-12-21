@@ -118,8 +118,8 @@
 <LM>w#w-lnd94103-024-p1s1w12</LM>
 </w.rf>
 <form>Březí</form>
-<lemma>březí</lemma>
-<tag>AAFP1----1A----</tag>
+<lemma>Březí_;G</lemma>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-024-p1s1w13">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-024-p1s2w8">
 <src.rf>manual</src.rf>

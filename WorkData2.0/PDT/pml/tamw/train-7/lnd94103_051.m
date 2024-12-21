@@ -549,7 +549,7 @@
 <LM>w#w-lnd94103-051-p1s5w5</LM>
 </w.rf>
 <form>vybuchly</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd94103-051-p1s5w6">

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0016.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
+<meta/>
 <trees>
 <LM id="T-wsj0016-001-p1s0">
 <atree.rf>a#a-wsj0016-001-p1s0</atree.rf>
@@ -19,11 +20,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>oznámit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w3328f1</val_frame.rf>
+<val_frame.rf>v#v41fgeB</val_frame.rf>
 <children>
 <LM id="T-wsj0016-001-p1s0a35">
 <nodetype>qcomplex</nodetype>
@@ -101,7 +103,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w9317f1</val_frame.rf>
+<val_frame.rf>v#v41qurD</val_frame.rf>
 <children>
 <LM id="T-wsj0016-001-p1s0a10">
 <a>
@@ -370,11 +372,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>následovat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w2217f1</val_frame.rf>
+<val_frame.rf>v#v41dboC</val_frame.rf>
 <children>
 <LM id="T-wsj0016-001-p1s1a2">
 <a>
@@ -522,6 +525,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="T-wsj0016-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0016-001-p1s1W15-Ta</lex.rf>
@@ -562,8 +567,6 @@
 </children>
 </LM>
 </children>
-</LM>
-</children>
 <eng_sentence>The strong growth followed year-to-year increases of 21% in August and 12% in September.</eng_sentence>
 </LM>
 <LM id="T-wsj0016-001-p1s2">
@@ -577,11 +580,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>lámat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w1661f4_ZU</val_frame.rf>
+<val_frame.rf>v#v41bydF</val_frame.rf>
 <children>
 <LM id="T-wsj0016-001-p1s2a2">
 <a>
@@ -616,9 +620,6 @@
 <nodetype>dphr</nodetype>
 <t_lemma>rekordy</t_lemma>
 <functor>DPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>4</deepord>
 </LM>
 <LM id="T-wsj0016-001-p1s2a5">
@@ -638,8 +639,9 @@
 <lex.rf>a#a-wsj0016-001-p1s2W5-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>každý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 </gram>
@@ -689,11 +691,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>klesnout</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w1396f1</val_frame.rf>
+<val_frame.rf>v#v41blkA</val_frame.rf>
 <children>
 <LM id="T-wsj0016-001-p1s3a3">
 <a>
@@ -792,11 +795,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>vzrůst</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w8687f1</val_frame.rf>
+<val_frame.rf>v#v41pnkA</val_frame.rf>
 <children>
 <LM id="T-wsj0016-001-p1s4a2">
 <a>
@@ -947,11 +951,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>zdvojnásobit_se</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w9423f1</val_frame.rf>
+<val_frame.rf>v#v41raaA</val_frame.rf>
 <children>
 <LM id="T-wsj0016-001-p1s5a1">
 <a>
@@ -994,8 +999,9 @@
 <lex.rf>a#a-wsj0016-001-p1s5W2-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>střední</t_lemma>
+<t_lemma>středně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>střední</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
@@ -1014,7 +1020,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w9501f1</val_frame.rf>
+<val_frame.rf>v#v41reiB</val_frame.rf>
 <children>
 <LM id="T-wsj0016-001-p1s5a7">
 <a>
@@ -1023,6 +1029,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 </gram>
@@ -1074,7 +1081,7 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w9268f1</val_frame.rf>
+<val_frame.rf>v#v41qsiA</val_frame.rf>
 <children>
 <LM id="T-wsj0016-001-p1s5a29">
 <nodetype>qcomplex</nodetype>

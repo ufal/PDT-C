@@ -3122,8 +3122,8 @@
 <LM>w#w-vesm9301-044-p6s4w14</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-044-p6s4w15">
 <src.rf>manual</src.rf>
@@ -7485,7 +7485,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-044-p10s5w12">
 <src.rf>manual</src.rf>
@@ -8096,7 +8096,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-044-p11s1w11">
 <src.rf>manual</src.rf>
@@ -8615,7 +8615,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-044-p11s4w10">
 <src.rf>manual</src.rf>
@@ -9206,7 +9206,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-044-p11s7w12">
 <src.rf>manual</src.rf>
@@ -10544,7 +10544,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-044-p12s7w8">
 <src.rf>manual</src.rf>

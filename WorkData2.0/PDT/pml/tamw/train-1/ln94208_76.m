@@ -64,8 +64,8 @@
 <LM>w#w-ln94208-76-p1s1Aw6</LM>
 </w.rf>
 <form>chýši</form>
-<lemma>chýše</lemma>
-<tag>NNFS4-----A----</tag>
+<lemma>chýš</lemma>
+<tag>NNFS4-----A---1</tag>
 </m>
 <m id="m-ln94208-76-p1s1Aw7">
 <src.rf>manual</src.rf>

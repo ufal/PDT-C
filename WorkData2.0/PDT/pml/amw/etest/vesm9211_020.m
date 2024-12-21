@@ -477,7 +477,7 @@
 <LM>w#w-vesm9211-020-p4s2w10</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-020-p4s2w11">
@@ -1572,7 +1572,7 @@
 <LM>w#w-vesm9211-020-p7s1w7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-020-p7s1w8">
@@ -3271,7 +3271,7 @@
 <LM>w#w-vesm9211-020-p12s3w14</LM>
 </w.rf>
 <form>nedozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-NAP--</tag>
 </m>
 <m id="m-vesm9211-020-p12s3w15">
@@ -6060,8 +6060,8 @@
 <LM>w#w-vesm9211-020-p15s7w19</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>s-1</lemma>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-vesm9211-020-p15s7w20">
 <src.rf>manual</src.rf>
@@ -9557,8 +9557,8 @@
 <LM>w#w-vesm9211-020-p20s2w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-33</lemma>
+<tag>Q3-------------</tag>
 </m>
 <m id="m-vesm9211-020-p20s2w10">
 <src.rf>manual</src.rf>
@@ -9928,8 +9928,8 @@
 <LM>w#w-vesm9211-020-p21s1w19</LM>
 </w.rf>
 <form>tou</form>
-<lemma>ten</lemma>
-<tag>PDFS7----------</tag>
+<lemma>tý-2_^(x-tý)</lemma>
+<tag>SAFS4----1A----</tag>
 </m>
 <m id="m-vesm9211-020-p21s1w20">
 <src.rf>manual</src.rf>
@@ -10247,8 +10247,8 @@
 <LM>w#w-vesm9211-020-p22s1w18</LM>
 </w.rf>
 <form>tou</form>
-<lemma>ten</lemma>
-<tag>PDFS7----------</tag>
+<lemma>tý-2_^(x-tý)</lemma>
+<tag>SAFS4----1A----</tag>
 </m>
 <m id="m-vesm9211-020-p22s1w19">
 <src.rf>manual</src.rf>

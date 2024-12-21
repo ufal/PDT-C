@@ -223,8 +223,8 @@
 <LM>w#w-wsj2333-001-p1s0W24</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2333-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>

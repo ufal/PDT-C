@@ -1095,7 +1095,7 @@
 </w.rf>
 <form>Pensylvánii</form>
 <lemma>Pensylvánie_;G</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj1255-001-p1s3W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1649,8 +1649,8 @@
 <LM>w#w-wsj1255-001-p1s6W14</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1255-001-p1s6W15-Ta">
 <src.rf>tagger-a</src.rf>

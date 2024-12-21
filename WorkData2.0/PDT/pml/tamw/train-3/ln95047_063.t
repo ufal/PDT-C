@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_063.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln95047-063-p1s1w3">
 <a>
@@ -82,8 +82,9 @@
 <lex.rf>a#a-ln95047-063-p2s1w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>mít</t_lemma>
+<t_lemma>mívat</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -96,7 +97,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w1855f4</val_frame.rf>
+<val_frame.rf>v#v41chlAB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s1w2">
 <a>
@@ -191,8 +192,9 @@
 <lex.rf>a#a-ln95047-063-p2s1w7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>pravidelný</t_lemma>
+<t_lemma>pravidelně</t_lemma>
 <functor>THO</functor>
+<proto_lemma>pravidelný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -216,7 +218,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w3514f1</val_frame.rf>
+<val_frame.rf>v#v41fpfA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s1a3">
 <nodetype>qcomplex</nodetype>
@@ -252,7 +254,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w2604f1</val_frame.rf>
+<val_frame.rf>v#v41duxA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s1w13">
 <a>
@@ -342,7 +344,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w5868f1</val_frame.rf>
+<val_frame.rf>v#v41kdvB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s1a2">
 <nodetype>qcomplex</nodetype>
@@ -406,8 +408,9 @@
 <lex.rf>a#a-ln95047-063-p2s1w16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>důvěrný</t_lemma>
+<t_lemma>důvěrně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>důvěrný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -458,6 +461,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <comment>nebo o 2 patra niz u obou arg?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
@@ -465,7 +469,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w8634f1</val_frame.rf>
+<val_frame.rf>v#v41pkyA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s2w6">
 <a>
@@ -596,7 +600,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w3564f2</val_frame.rf>
+<val_frame.rf>v#v41frpB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s2a0">
 <nodetype>qcomplex</nodetype>
@@ -634,6 +638,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -645,7 +650,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s2w14">
 <a>
@@ -718,8 +723,9 @@
 <lex.rf>a#a-ln95047-063-p2s2w17</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kde</t_lemma>
+<t_lemma>někde</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>kde</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -803,7 +809,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w6171f1</val_frame.rf>
+<val_frame.rf>v#v41ktqD</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s3Aw4">
 <a>
@@ -885,7 +891,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w7430f1</val_frame.rf>
+<val_frame.rf>v#v41ncqA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s3Aa1">
 <nodetype>qcomplex</nodetype>
@@ -967,6 +973,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <quot>
 <LM>
 <type>title</type>
@@ -1091,6 +1098,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1103,7 +1111,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s3Bw2">
 <a>
@@ -1172,7 +1180,7 @@
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w1921f1</val_frame.rf>
+<val_frame.rf>v#v41cknA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s3Ba4">
 <nodetype>qcomplex</nodetype>
@@ -1230,7 +1238,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s3Ba2">
 <nodetype>qcomplex</nodetype>
@@ -1358,6 +1366,9 @@
 <LM id="t-ln95047-063-p2s4w1">
 <a>
 <lex.rf>a#a-ln95047-063-p2s4w1</lex.rf>
+<aux.rf>
+<LM>a#a-ln95047-063-p2s4w2</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>členit</t_lemma>
@@ -1383,6 +1394,8 @@
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<sense_PDTB3>Contingency.Cause+Belief.Result+Belief</sense_PDTB3>
+<sense_PDTB3_manual>Contingency.Cause+Belief.Result+Belief</sense_PDTB3_manual>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p2s4w17</LM>
@@ -1395,7 +1408,7 @@
 <id>1</id>
 </LM>
 </discourse_groups>
-<val_frame.rf>v#v-w347f1</val_frame.rf>
+<val_frame.rf>v#v41oiA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s4a1">
 <nodetype>qcomplex</nodetype>
@@ -1445,8 +1458,9 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>slyšet</t_lemma>
+<t_lemma>slýchávat</t_lemma>
 <functor>PAR</functor>
+<proto_lemma>slyšet</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
@@ -1460,7 +1474,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w6192f2</val_frame.rf>
+<val_frame.rf>v#v41kunA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s4w6">
 <a>
@@ -1615,6 +1629,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>dva</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -1638,6 +1653,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -1651,7 +1667,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w243f9</val_frame.rf>
+<val_frame.rf>v#v41jsER</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s4w19">
 <a>
@@ -1668,8 +1684,9 @@
 <lex.rf>a#a-ln95047-063-p2s4w20</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>plný</t_lemma>
+<t_lemma>plně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>plný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -1710,7 +1727,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w9247f2</val_frame.rf>
+<val_frame.rf>v#v41qrhD</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s4a4">
 <nodetype>qcomplex</nodetype>
@@ -1735,7 +1752,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w4015f1</val_frame.rf>
+<val_frame.rf>v#v41gnpA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s4a6">
 <nodetype>qcomplex</nodetype>
@@ -1776,8 +1793,9 @@
 <lex.rf>a#a-ln95047-063-p2s4w25</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>spravedlivý</t_lemma>
+<t_lemma>spravedlivě</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>spravedlivý</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -1821,7 +1839,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w2358f8</val_frame.rf>
+<val_frame.rf>v#v41djeL</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s5w1">
 <a>
@@ -1915,6 +1933,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -1926,7 +1945,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p2s5a1">
 <a>
@@ -1961,6 +1980,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>dva</t_lemma>
 <functor>DIR1</functor>
+<proto_lemma>dva</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -1978,6 +1998,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>onen</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>onen</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -1993,6 +2014,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>inter</indeftype>
@@ -2241,7 +2263,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w2603f1</val_frame.rf>
+<val_frame.rf>v#v41duwA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p3s1w1">
 <a>
@@ -2367,6 +2389,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-063-p3s1w10</LM>
@@ -2374,7 +2397,7 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w9986f1</val_frame.rf>
+<val_frame.rf>v#v41sciA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p3s1a0">
 <nodetype>complex</nodetype>
@@ -2619,6 +2642,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>inan</gender>
@@ -2653,15 +2677,16 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w1018f1</val_frame.rf>
+<val_frame.rf>v#v41atqA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p3s2w2">
 <a>
 <lex.rf>a#a-ln95047-063-p3s2w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>teď</t_lemma>
+<t_lemma>nyní</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>teď</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -2891,13 +2916,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p3s2w18</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5042f1</val_frame.rf>
+<val_frame.rf>v#v41imtA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p3s2w19">
 <a>
@@ -2928,8 +2954,9 @@
 <lex.rf>a#a-ln95047-063-p3s2w21</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>konečný</t_lemma>
+<t_lemma>konečně</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>konečný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -2956,6 +2983,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -2975,13 +3003,14 @@
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>grad</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p3s3w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1855f2</val_frame.rf>
+<val_frame.rf>v#v41chlO</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p3s3w1">
 <a>
@@ -3104,6 +3133,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -3124,6 +3154,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
+<sense_PDTB3>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p3s4w2</LM>
@@ -3135,6 +3166,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
+<sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
 <comment>zda se mi,ze to nesouvisi, 
 je to soucasti autorovy ironie</comment>
 <src>pdit10</src>
@@ -3143,7 +3176,7 @@ je to soucasti autorovy ironie</comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p3s4w2">
 <a>
@@ -3196,8 +3229,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p3s4w3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>etnický</t_lemma>
+<t_lemma>etnicky</t_lemma>
 <functor>REG</functor>
+<proto_lemma>etnický</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -3217,6 +3251,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -3230,7 +3265,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p3s4a0">
 <nodetype>atom</nodetype>
@@ -3345,6 +3380,7 @@ je to soucasti autorovy ironie</comment>
 <start_range>group</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p3s5w2</LM>
@@ -3356,7 +3392,7 @@ je to soucasti autorovy ironie</comment>
 <id>2</id>
 </LM>
 </discourse_groups>
-<val_frame.rf>v#v-w2121f1</val_frame.rf>
+<val_frame.rf>v#v41cweC</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p3s5w2">
 <a>
@@ -3421,6 +3457,7 @@ je to soucasti autorovy ironie</comment>
 <a>
 <lex.rf>a#a-ln95047-063-p3s5w11</lex.rf>
 <aux.rf>
+<LM>a#a-ln95047-063-p3s5w7</LM>
 <LM>a#a-ln95047-063-p3s5w6</LM>
 <LM>a#a-ln95047-063-p3s5w5</LM>
 </aux.rf>
@@ -3451,7 +3488,7 @@ je to soucasti autorovy ironie</comment>
 <type>CONTRAST</type>
 </LM>
 </bridging>
-<val_frame.rf>v#v-w2042f1</val_frame.rf>
+<val_frame.rf>v#v41croB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p3s5w10">
 <a>
@@ -3479,8 +3516,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p3s5w8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jaký</t_lemma>
+<t_lemma>nějaký</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jaký</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>indef1</indeftype>
@@ -3500,6 +3538,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -3526,6 +3565,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>slyšet</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>slyšet</proto_lemma>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -3545,13 +3585,14 @@ je to soucasti autorovy ironie</comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p3s5w13</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6192f3</val_frame.rf>
+<val_frame.rf>v#v41kunB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p3s5w17">
 <a>
@@ -3731,7 +3772,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w7230f1</val_frame.rf>
+<val_frame.rf>v#v41mspA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p4s1w1">
 <a>
@@ -3800,8 +3841,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p4s1w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>důrazný</t_lemma>
+<t_lemma>důrazně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>důrazný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -3831,7 +3873,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w6177f5</val_frame.rf>
+<val_frame.rf>v#v41ktwM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p4s1w8">
 <a>
@@ -4091,7 +4133,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>26</deepord>
-<val_frame.rf>v#v-w6496f1</val_frame.rf>
+<val_frame.rf>v#v41lioA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p4s1w34">
 <a>
@@ -4183,8 +4225,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p4s1w28</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>jenž</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -4214,7 +4257,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>27</deepord>
-<val_frame.rf>v#v-w7750f1</val_frame.rf>
+<val_frame.rf>v#v41nshB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p4s1w40">
 <a>
@@ -4359,15 +4402,16 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w4779f1</val_frame.rf>
+<val_frame.rf>v#v41hzaA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p4s2w1">
 <a>
 <lex.rf>a#a-ln95047-063-p4s2w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>teď</t_lemma>
+<t_lemma>nyní</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>teď</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -4422,7 +4466,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w782f3</val_frame.rf>
+<val_frame.rf>v#v41aikD</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p4s2a1">
 <nodetype>complex</nodetype>
@@ -4452,6 +4496,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -4555,6 +4600,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -4567,7 +4613,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p4s3w6">
 <a>
@@ -4608,6 +4654,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>onen</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>onen</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -4657,7 +4704,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w6376f1</val_frame.rf>
+<val_frame.rf>v#v41ldhA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p4s3a0">
 <nodetype>qcomplex</nodetype>
@@ -4739,6 +4786,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -4750,7 +4798,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p4s3w13">
 <a>
@@ -4759,6 +4807,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>jaký</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>jaký</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>relat</indeftype>
@@ -4954,7 +5003,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w634f1</val_frame.rf>
+<val_frame.rf>v#v41abjB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p5s1a1">
 <nodetype>complex</nodetype>
@@ -4987,6 +5036,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -4998,7 +5048,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p5s1w6">
 <a>
@@ -5020,8 +5070,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p5s1w5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>značný</t_lemma>
+<t_lemma>značně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>značný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -5049,7 +5100,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w7611f1</val_frame.rf>
+<val_frame.rf>v#v41nleA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p5s1w8">
 <a>
@@ -5142,6 +5193,9 @@ je to soucasti autorovy ironie</comment>
 <LM id="t-ln95047-063-p5s1w18">
 <a>
 <lex.rf>a#a-ln95047-063-p5s1w18</lex.rf>
+<aux.rf>
+<LM>a#a-ln95047-063-p5s1w15</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>přiřazovat</t_lemma>
@@ -5157,7 +5211,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w5257f1</val_frame.rf>
+<val_frame.rf>v#v41ixrB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p5s1w14">
 <a>
@@ -5166,6 +5220,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>kde</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>kde</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -5393,8 +5448,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p5s1w27</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>filozofický</t_lemma>
+<t_lemma>filozoficky</t_lemma>
 <functor>REG</functor>
+<proto_lemma>filozofický</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -5465,7 +5521,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>30</deepord>
-<val_frame.rf>v#v-w4992f1</val_frame.rf>
+<val_frame.rf>v#v41ikcA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p5s1a3">
 <nodetype>qcomplex</nodetype>
@@ -5585,6 +5641,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -5597,7 +5654,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p5s2w3">
 <a>
@@ -5651,6 +5708,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -5681,7 +5739,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w3525f1</val_frame.rf>
+<val_frame.rf>v#v41fpsA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p5s2a0">
 <nodetype>qcomplex</nodetype>
@@ -5721,8 +5779,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p5s2w7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>notný</t_lemma>
+<t_lemma>notně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>notný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -5813,8 +5872,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p5s2w16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>propagandistický</t_lemma>
+<t_lemma>propagandisticky</t_lemma>
 <functor>REG</functor>
+<proto_lemma>propagandistický</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -5828,7 +5888,7 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p5s2w17</lex.rf>
 </a>
 <nodetype>atom</nodetype>
-<t_lemma>sporně</t_lemma>
+<t_lemma>nesporně</t_lemma>
 <functor>MOD</functor>
 <tfa>f</tfa>
 <deepord>15</deepord>
@@ -5865,6 +5925,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -5882,7 +5943,7 @@ je to soucasti autorovy ironie</comment>
 <id>3</id>
 </LM>
 </discourse_groups>
-<val_frame.rf>v#v-w1855f25</val_frame.rf>
+<val_frame.rf>v#v41chlB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s1w6">
 <a>
@@ -5914,6 +5975,7 @@ je to soucasti autorovy ironie</comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-063-p6s1w1</LM>
@@ -5925,7 +5987,7 @@ je to soucasti autorovy ironie</comment>
 <id>3</id>
 </LM>
 </discourse_groups>
-<val_frame.rf>v#v-w8746f1</val_frame.rf>
+<val_frame.rf>v#v41pqjA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s1w5">
 <a>
@@ -6113,8 +6175,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s1w12</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>důkladný</t_lemma>
+<t_lemma>důkladně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>důkladný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>comp</degcmp>
@@ -6155,7 +6218,7 @@ je to soucasti autorovy ironie</comment>
 <id>3</id>
 </LM>
 </discourse_groups>
-<val_frame.rf>v#v-w327f2</val_frame.rf>
+<val_frame.rf>v#v41noF</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s1a1">
 <nodetype>complex</nodetype>
@@ -6201,8 +6264,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s1w16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>teď</t_lemma>
+<t_lemma>doposud</t_lemma>
 <functor>TTILL</functor>
+<proto_lemma>teď</proto_lemma>
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
@@ -6225,6 +6289,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAR</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
@@ -6238,7 +6303,23 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>t-ln95047-063-p6s1w6</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>f_reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
+<sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
+<comment>f kvůli chybějící části  -a udělat by to byl schopen</comment>
+<src>PS</src>
+<t-connectors.rf>
+<LM>t-ln95047-063-p6s1w21</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s1w21">
 <a>
@@ -6409,7 +6490,7 @@ je to soucasti autorovy ironie</comment>
 <id>3</id>
 </LM>
 </discourse_groups>
-<val_frame.rf>v#v-w9516f2</val_frame.rf>
+<val_frame.rf>v#v41reyA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s1a3">
 <nodetype>qcomplex</nodetype>
@@ -6500,8 +6581,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s1w35</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>blízký</t_lemma>
+<t_lemma>blízko</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>blízký</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -6515,7 +6597,7 @@ je to soucasti autorovy ironie</comment>
 <id>3</id>
 </LM>
 </discourse_groups>
-<val_frame.rf>v#v-w159f2</val_frame.rf>
+<val_frame.rf>v#v41fyB</val_frame.rf>
 </LM>
 </children>
 </LM>
@@ -6574,13 +6656,14 @@ je to soucasti autorovy ironie</comment>
 <target_group_id>3</target_group_id>
 <target_range>group</target_range>
 <discourse_type>grad</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p6s2w3</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w9515f1</val_frame.rf>
+<val_frame.rf>v#v41rexB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s2a1">
 <nodetype>complex</nodetype>
@@ -6623,6 +6706,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -6634,7 +6718,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s2w7">
 <a>
@@ -6865,8 +6949,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s2w27</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>jenž</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -6899,7 +6984,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w8314f2</val_frame.rf>
+<val_frame.rf>v#v41oukB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s2w31">
 <a>
@@ -7001,6 +7086,7 @@ je to soucasti autorovy ironie</comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p6s2w34</LM>
@@ -7008,7 +7094,7 @@ je to soucasti autorovy ironie</comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w7200f1</val_frame.rf>
+<val_frame.rf>v#v41mrcA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s2w38">
 <a>
@@ -7109,8 +7195,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s2w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>evropský</t_lemma>
+<t_lemma>evropsky</t_lemma>
 <functor>REG</functor>
+<proto_lemma>evropský</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -7130,8 +7217,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s2w20</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>důkladný</t_lemma>
+<t_lemma>důkladně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>důkladný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -7182,6 +7270,7 @@ je to soucasti autorovy ironie</comment>
 <start_range>0</start_range>
 <target_range>backward</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <comment>divne nicmene</comment>
 <src>pdit10</src>
 <t-connectors.rf>
@@ -7194,13 +7283,14 @@ je to soucasti autorovy ironie</comment>
 <start_range>4</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p6s8w2</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6505f7</val_frame.rf>
+<val_frame.rf>v#v41lixC</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s3w9">
 <a>
@@ -7420,7 +7510,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w1949f1</val_frame.rf>
+<val_frame.rf>v#v41clwA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s4a1">
 <nodetype>complex</nodetype>
@@ -7534,8 +7624,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s4w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>mělký</t_lemma>
+<t_lemma>mělce</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>mělký</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -7568,15 +7659,16 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w4836f1</val_frame.rf>
+<val_frame.rf>v#v41ibsA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s4w10">
 <a>
 <lex.rf>a#a-ln95047-063-p6s4w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>teď</t_lemma>
+<t_lemma>nyní</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>teď</proto_lemma>
 <subfunctor>basic</subfunctor>
 <is_parenthesis>1</is_parenthesis>
 <gram>
@@ -7621,7 +7713,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w112f3</val_frame.rf>
+<val_frame.rf>v#v41drC</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s4w15">
 <a>
@@ -7664,6 +7756,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>jak</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>jak</proto_lemma>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -7752,8 +7845,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s4w22</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>podobný</t_lemma>
+<t_lemma>podobně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>podobný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -7785,21 +7879,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>23</deepord>
-<discourse>
-<LM>
-<target_node.rf>t-ln95047-063-p6s4w1</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>conj</discourse_type>
-<src>pdit20</src>
-<t-connectors.rf>
-<LM>t-ln95047-063-p6s4w22</LM>
-</t-connectors.rf>
-<is_secondary>1</is_secondary>
-</LM>
-</discourse>
-<val_frame.rf>v#v-w1949f1</val_frame.rf>
+<val_frame.rf>v#v41clwA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s4a4">
 <nodetype>complex</nodetype>
@@ -7965,6 +8045,7 @@ je to soucasti autorovy ironie</comment>
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>corr</discourse_type>
+<sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-063-p6s5w1</LM>
@@ -7979,7 +8060,7 @@ je to soucasti autorovy ironie</comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1387f2</val_frame.rf>
+<val_frame.rf>v#v41bkwJ</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s5w2">
 <a>
@@ -7991,6 +8072,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>SUBS</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -8095,7 +8177,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w850f1</val_frame.rf>
+<val_frame.rf>v#v41alwA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s5a2">
 <nodetype>qcomplex</nodetype>
@@ -8171,15 +8253,16 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w4848f1</val_frame.rf>
+<val_frame.rf>v#v41iciD</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s5w14">
 <a>
 <lex.rf>a#a-ln95047-063-p6s5w14</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>jenž</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -8215,7 +8298,7 @@ je to soucasti autorovy ironie</comment>
 <type>ANAF</type>
 </LM>
 </bridging>
-<val_frame.rf>v#v-w7611f1</val_frame.rf>
+<val_frame.rf>v#v41nleA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s5w15">
 <a>
@@ -8224,6 +8307,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>takový</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>takový</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -8276,8 +8360,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s5w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>zásadní</t_lemma>
+<t_lemma>zásadně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>zásadní</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -8454,15 +8539,16 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w6318f2</val_frame.rf>
+<val_frame.rf>v#v41laoC</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s6w1">
 <a>
 <lex.rf>a#a-ln95047-063-p6s6w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tady</t_lemma>
+<t_lemma>zde</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>tady</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -8709,7 +8795,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w1162f1</val_frame.rf>
+<val_frame.rf>v#v41bamA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s7w2">
 <a>
@@ -8974,6 +9060,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -8986,7 +9073,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p6s8w2">
 <a>
@@ -9088,8 +9175,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s8w5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>omezený</t_lemma>
+<t_lemma>omezeně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>omezený</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -9121,8 +9209,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p6s8w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>abstraktní</t_lemma>
+<t_lemma>abstraktně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>abstraktní</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -9272,7 +9361,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w4096f1</val_frame.rf>
+<val_frame.rf>v#v41grpC</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p7s1a4">
 <nodetype>complex</nodetype>
@@ -9327,7 +9416,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w8133f1</val_frame.rf>
+<val_frame.rf>v#v41olnB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p7s1w2">
 <a>
@@ -9512,6 +9601,7 @@ je to soucasti autorovy ironie</comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-063-p7s1w14</LM>
@@ -9536,6 +9626,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>takový</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>takový</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -9573,6 +9664,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>CAUS</functor>
+<proto_lemma>být</proto_lemma>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -9585,7 +9677,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p7s1a1">
 <nodetype>atom</nodetype>
@@ -9607,6 +9699,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>CAUS</functor>
+<proto_lemma>být</proto_lemma>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -9626,13 +9719,14 @@ je to soucasti autorovy ironie</comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p7s1w18</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p7s1w19">
 <a>
@@ -9640,7 +9734,7 @@ je to soucasti autorovy ironie</comment>
 </a>
 <nodetype>atom</nodetype>
 <t_lemma>stěží</t_lemma>
-<functor>ATT</functor>
+<functor>MOD</functor>
 <tfa>t</tfa>
 <deepord>19</deepord>
 </LM>
@@ -9649,8 +9743,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p7s1w20</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdy</t_lemma>
+<t_lemma>někdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -9690,7 +9785,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1339f2</val_frame.rf>
+<val_frame.rf>v#v41bikX</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p7s2w2">
 <a>
@@ -9720,8 +9815,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p7s2w3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdy</t_lemma>
+<t_lemma>vždy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -9809,7 +9905,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1339f2</val_frame.rf>
+<val_frame.rf>v#v41bikX</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p7s3a2">
 <nodetype>qcomplex</nodetype>
@@ -9898,7 +9994,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w3997f1</val_frame.rf>
+<val_frame.rf>v#v41gmwA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p7s3w6">
 <a>
@@ -9907,6 +10003,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -10075,6 +10172,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -10108,7 +10206,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w4957f1</val_frame.rf>
+<val_frame.rf>v#v41iifB</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p7s3w23">
 <a>
@@ -10203,13 +10301,14 @@ je to soucasti autorovy ironie</comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p7s3w26</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w374f7</val_frame.rf>
+<val_frame.rf>v#v41psI</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p7s3w28">
 <a>
@@ -10342,7 +10441,7 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w3997f1</val_frame.rf>
+<val_frame.rf>v#v41gmwA</val_frame.rf>
 <children>
 <LM id="t-ln95047-063-p7s4w3">
 <a>
@@ -10444,8 +10543,9 @@ je to soucasti autorovy ironie</comment>
 <lex.rf>a#a-ln95047-063-p7s4w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tady</t_lemma>
+<t_lemma>zde</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>tady</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -10480,6 +10580,15 @@ je to soucasti autorovy ironie</comment>
 <atree.rf>a#a-ln95047-063-p7s5</atree.rf>
 <deepord>0</deepord>
 <children>
+<LM id="t-ln95047-063-p7s5a2">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#EmpVerb</t_lemma>
+<functor>PRED</functor>
+<sentmod>enunc</sentmod>
+<tfa>t</tfa>
+<deepord>6</deepord>
+<children>
 <LM id="t-ln95047-063-p7s5a1">
 <a>
 <aux.rf>
@@ -10490,8 +10599,7 @@ je to soucasti autorovy ironie</comment>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#EmpVerb</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
+<functor>CNCS</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
 <discourse_comment>one_arg  -u schovaného i když</discourse_comment>
@@ -10503,7 +10611,6 @@ je to soucasti autorovy ironie</comment>
 <nodetype>atom</nodetype>
 <t_lemma>zejména</t_lemma>
 <functor>RHEM</functor>
-<is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
 </LM>
@@ -10518,7 +10625,6 @@ je to soucasti autorovy ironie</comment>
 <t_lemma>společnost</t_lemma>
 <functor>LOC</functor>
 <subfunctor>basic</subfunctor>
-<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -10541,7 +10647,6 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>demokratický</t_lemma>
 <functor>RSTR</functor>
-<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -10557,7 +10662,6 @@ je to soucasti autorovy ironie</comment>
 <nodetype>complex</nodetype>
 <t_lemma>liberální</t_lemma>
 <functor>RSTR</functor>
-<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -10565,6 +10669,8 @@ je to soucasti autorovy ironie</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -10586,7 +10692,7 @@ je to soucasti autorovy ironie</comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>6</deepord>
+<deepord>7</deepord>
 </LM>
 </children>
 </LM>

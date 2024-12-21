@@ -1324,7 +1324,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1071-001-p1s4W35-Ta">
 <src.rf>tagger-a</src.rf>

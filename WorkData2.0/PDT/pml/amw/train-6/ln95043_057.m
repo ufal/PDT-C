@@ -49,7 +49,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95043-057-p2s1w2">
 <src.rf>manual</src.rf>
@@ -459,8 +459,8 @@
 <LM>w#w-ln95043-057-p3s2w11</LM>
 </w.rf>
 <form>poblíž</form>
-<lemma>poblíž-1</lemma>
-<tag>Db-------------</tag>
+<lemma>poblíž-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-057-p3s2w12">
 <src.rf>manual</src.rf>

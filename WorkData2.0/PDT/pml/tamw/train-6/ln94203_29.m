@@ -293,8 +293,8 @@
 <LM>w#w-ln94203-29-p2s1Bw18</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94203-29-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-29-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1033,8 +1033,8 @@
 <LM>w#w-ln94203-29-p3s2w9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94203-29-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1479,7 +1479,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94203-29-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1617,8 +1617,8 @@
 <LM>w#w-ln94203-29-p4s3w4</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94203-29-p4s3w5">
 <src.rf>manual</src.rf>

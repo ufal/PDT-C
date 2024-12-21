@@ -549,7 +549,7 @@
 <LM>w#w-ln94205-53-p2s3w14</LM>
 </w.rf>
 <form>hovězího</form>
-<lemma>hovězí</lemma>
+<lemma>hovězí-2</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-ln94205-53-p2s3w15">
@@ -1178,8 +1178,8 @@
 <LM>w#w-ln94205-53-p3s3w4</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-53-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1288,8 +1288,8 @@
 <LM>w#w-ln94205-53-p3s4w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-53-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1634,8 +1634,8 @@
 <LM>w#w-ln94205-53-p3s6w7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-53-p3s6w8">
 <src.rf>manual</src.rf>

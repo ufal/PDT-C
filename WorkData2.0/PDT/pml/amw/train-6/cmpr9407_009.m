@@ -402,8 +402,8 @@
 <LM>w#w-cmpr9407-009-p3s2w26</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-009-p3s2w27">
 <src.rf>manual</src.rf>

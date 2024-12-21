@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_117.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -26,7 +26,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf920922-117-p1s1w1">
 <a>
@@ -121,7 +121,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>2x stejný nadpis?
 popisek fotky?</discourse_comment>
 <children>
@@ -251,7 +251,7 @@ popisek fotky?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w645f2</val_frame.rf>
+<val_frame.rf>v#v41abxB</val_frame.rf>
 <children>
 <LM id="t-mf920922-117-p4s2w1">
 <a>
@@ -553,6 +553,7 @@ popisek fotky?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-117-p4s2w19</LM>
@@ -560,7 +561,7 @@ popisek fotky?</discourse_comment>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5957f1</val_frame.rf>
+<val_frame.rf>v#v41kimA</val_frame.rf>
 <children>
 <LM id="t-mf920922-117-p4s2w21">
 <a>
@@ -696,7 +697,7 @@ popisek fotky?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w3212f1</val_frame.rf>
+<val_frame.rf>v#v41faoA</val_frame.rf>
 <children>
 <LM id="t-mf920922-117-p4s3w7">
 <a>
@@ -1040,7 +1041,7 @@ popisek fotky?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w4099f1</val_frame.rf>
+<val_frame.rf>v#v41grtA</val_frame.rf>
 <children>
 <LM id="t-mf920922-117-p4s4w1">
 <a>
@@ -1121,7 +1122,7 @@ popisek fotky?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w573f1</val_frame.rf>
+<val_frame.rf>v#v41ysA</val_frame.rf>
 <children>
 <LM id="t-mf920922-117-p4s4w8">
 <a>
@@ -1238,13 +1239,14 @@ popisek fotky?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-117-p4s4w16</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w3931f1</val_frame.rf>
+<val_frame.rf>v#v41gjxA</val_frame.rf>
 <children>
 <LM id="t-mf920922-117-p4s4w13">
 <a>

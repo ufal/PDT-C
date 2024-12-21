@@ -1976,8 +1976,8 @@
 <LM>w#w-ln95044-080-p6s2w15</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95044-080-p6s2w16">
 <src.rf>manual</src.rf>
@@ -3039,7 +3039,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-080-p10s1w4">
 <src.rf>manual</src.rf>
@@ -3218,7 +3218,7 @@
 <LM>w#w-ln95044-080-p10s1w23</LM>
 </w.rf>
 <form>šajch</form>
-<lemma>šajch</lemma>
+<lemma>šajch_,s_^(^DD**šejch)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-080-p10s1w24">

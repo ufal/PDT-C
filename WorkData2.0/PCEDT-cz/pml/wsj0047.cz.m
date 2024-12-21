@@ -378,8 +378,8 @@
 <LM>w#w-wsj0047-001-p1s1W22</LM>
 </w.rf>
 <form>mladistvých</form>
-<lemma>mladistvý</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>mladistvý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0047-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -441,8 +441,8 @@
 <LM>w#w-wsj0047-001-p1s1W29</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0047-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1502,8 +1502,8 @@
 <LM>w#w-wsj0047-001-p1s5W26</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0047-001-p1s5W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4652,7 +4652,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0047-001-p1s18W18-Ta">
 <src.rf>tagger-a</src.rf>

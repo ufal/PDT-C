@@ -749,8 +749,8 @@
 <LM>w#w-lnd91303-027-p3s4w20</LM>
 </w.rf>
 <form>vedoucí</form>
-<lemma>vedoucí_^(*6ést)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>vedoucí-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91303-027-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 </w.rf>
 <form>vyspí</form>
 <lemma>vyspat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd91303-027-p3s6w6">
 <src.rf>manual</src.rf>
@@ -2357,7 +2357,7 @@
 </w.rf>
 <form>blokují</form>
 <lemma>blokovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-lnd91303-027-p4s2w10">
 <src.rf>manual</src.rf>

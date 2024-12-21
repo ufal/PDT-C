@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_078.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -26,7 +26,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln95045-078-p1s1w2">
 <a>
@@ -125,7 +125,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln95045-078-p2s1Aw3">
 <a>
@@ -238,6 +238,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -257,13 +258,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-078-p2s2w3</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95045-078-p2s1Cw2">
 <a>
@@ -485,7 +487,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w4756f1</val_frame.rf>
+<val_frame.rf>v#v41hybA</val_frame.rf>
 <children>
 <LM id="t-ln95045-078-p2s1Cw17">
 <a>
@@ -494,6 +496,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -887,7 +890,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w2784f2</val_frame.rf>
+<val_frame.rf>v#v41eecD</val_frame.rf>
 <children>
 <LM id="t-ln95045-078-p2s2w8">
 <a>
@@ -1081,13 +1084,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-078-p2s2w17</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w8621f1</val_frame.rf>
+<val_frame.rf>v#v41pjzA</val_frame.rf>
 <children>
 <LM id="t-ln95045-078-p2s2w21">
 <a>
@@ -1155,7 +1159,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w9543f1</val_frame.rf>
+<val_frame.rf>v#v41rgsA</val_frame.rf>
 <children>
 <LM id="t-ln95045-078-p2s2a2">
 <nodetype>complex</nodetype>
@@ -1435,7 +1439,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w5422f1</val_frame.rf>
+<val_frame.rf>v#v41jfoB</val_frame.rf>
 <children>
 <LM id="t-ln95045-078-p3s1w1">
 <a>
@@ -1466,6 +1470,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tak</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>tak</proto_lemma>
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
@@ -1501,7 +1506,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w2889f2</val_frame.rf>
+<val_frame.rf>v#v41ejmA</val_frame.rf>
 <children>
 <LM id="t-ln95045-078-p3s1w11">
 <a>
@@ -1731,7 +1736,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w2798f1</val_frame.rf>
+<val_frame.rf>v#v41eesA</val_frame.rf>
 <children>
 <LM id="t-ln95045-078-p3s1a0">
 <nodetype>qcomplex</nodetype>
@@ -1812,7 +1817,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>23</deepord>
-<val_frame.rf>v#v-w9718f1</val_frame.rf>
+<val_frame.rf>v#v41rpdA</val_frame.rf>
 <children>
 <LM id="t-ln95045-078-p3s1a1">
 <nodetype>qcomplex</nodetype>
@@ -1899,7 +1904,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>30</deepord>
-<val_frame.rf>v#v-w4101f2</val_frame.rf>
+<val_frame.rf>v#v41grvA</val_frame.rf>
 <children>
 <LM id="t-ln95045-078-p3s1w34">
 <a>
@@ -1930,6 +1935,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>

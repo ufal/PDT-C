@@ -4160,8 +4160,8 @@
 <LM>w#w-wsj1883-001-p1s14W29</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1883-001-p1s14W30-Ta">
 <src.rf>tagger-a</src.rf>

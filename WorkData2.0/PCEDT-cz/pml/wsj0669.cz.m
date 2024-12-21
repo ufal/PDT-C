@@ -1577,7 +1577,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0669-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1912,7 +1912,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0669-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>

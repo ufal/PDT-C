@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94208_1.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -37,7 +37,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w582f1</val_frame.rf>
+<val_frame.rf>v#v41zdL</val_frame.rf>
 <children>
 <LM id="t-ln94208-1-p1s1w2">
 <a>
@@ -201,7 +201,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w8932f1</val_frame.rf>
+<val_frame.rf>v#v41qaqA</val_frame.rf>
 <children>
 <LM id="t-ln94208-1-p1s2w2">
 <a>
@@ -470,7 +470,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w9074f1</val_frame.rf>
+<val_frame.rf>v#v41qhwA</val_frame.rf>
 <children>
 <LM id="t-ln94208-1-p1s3w7">
 <a>
@@ -479,6 +479,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -533,7 +534,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w6815f1</val_frame.rf>
+<val_frame.rf>v#v41lydA</val_frame.rf>
 <children>
 <LM id="t-ln94208-1-p1s3a1">
 <nodetype>complex</nodetype>
@@ -632,7 +633,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w3088f1</val_frame.rf>
+<val_frame.rf>v#v41etrA</val_frame.rf>
 <children>
 <LM id="t-ln94208-1-p1s3w14">
 <a>
@@ -683,13 +684,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-1-p1s3w16</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5228f2</val_frame.rf>
+<val_frame.rf>v#v41iwlA</val_frame.rf>
 <children>
 <LM id="t-ln94208-1-p1s3w17">
 <a>
@@ -728,8 +730,9 @@
 <lex.rf>a#a-ln94208-1-p1s3w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>jednou</t_lemma>
 <functor>THO</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>

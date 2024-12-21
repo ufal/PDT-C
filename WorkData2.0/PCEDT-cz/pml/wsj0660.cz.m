@@ -708,7 +708,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0660-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>

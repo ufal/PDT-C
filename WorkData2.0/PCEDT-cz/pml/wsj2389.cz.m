@@ -305,8 +305,8 @@
 <LM>w#w-wsj2389-001-p1s0W33</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2389-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -809,8 +809,8 @@
 <LM>w#w-wsj2389-001-p1s3W14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2389-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-wsj2389-001-p1s3W15</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj2389-001-p1s3W16-Ta">
@@ -980,8 +980,8 @@
 <LM>w#w-wsj2389-001-p1s3W33</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2389-001-p1s3W34-Ta">
 <src.rf>tagger-a</src.rf>

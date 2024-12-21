@@ -536,7 +536,7 @@
 <LM>w#w-mf920922-109-p25s1w2</LM>
 </w.rf>
 <form>Imago</form>
-<lemma>imago</lemma>
+<lemma>imago_,s_^(^DD**imágo)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 </s>
@@ -595,7 +595,7 @@
 </w.rf>
 <form>Screensport</form>
 <lemma>Screensport_;m</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920922-109-p28s1">
@@ -1289,7 +1289,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-mf920922-109-p57s1w3">
 <src.rf>manual</src.rf>

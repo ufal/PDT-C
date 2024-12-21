@@ -306,7 +306,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1701-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -871,7 +871,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1701-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>

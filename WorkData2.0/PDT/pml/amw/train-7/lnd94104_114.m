@@ -292,7 +292,7 @@
 </w.rf>
 <form>Frederica</form>
 <lemma>Frederico_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<tag>NNMS2-----A---1</tag>
 </m>
 <m id="m-lnd94104-114-p1s1Bw21">
 <src.rf>manual</src.rf>

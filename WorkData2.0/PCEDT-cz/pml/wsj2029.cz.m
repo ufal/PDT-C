@@ -441,8 +441,8 @@
 <LM>w#w-wsj2029-001-p1s1W20</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2029-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -743,7 +743,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2029-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-wsj2029-001-p1s3W25</LM>
 </w.rf>
 <form>fluorouracilem</form>
-<lemma>fluorouracil</lemma>
+<lemma>fluorouracil_,s_^(^DD**fluoruracil)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-wsj2029-001-p1s3W26-Ta">
@@ -1032,8 +1032,8 @@
 <LM>w#w-wsj2029-001-p1s4W18</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2029-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1133,8 +1133,8 @@
 <LM>w#w-wsj2029-001-p1s5W2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2029-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1208,7 +1208,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj2029-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1288,8 +1288,8 @@
 <LM>w#w-wsj2029-001-p1s6W13</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2029-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1659,8 +1659,8 @@
 <LM>w#w-wsj2029-001-p1s7W26</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2029-001-p1s7W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1941,7 +1941,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2029-001-p1s8W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1976,8 +1976,8 @@
 <LM>w#w-wsj2029-001-p1s8W22</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2029-001-p1s8W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2513,7 +2513,7 @@
 <LM>w#w-wsj2029-001-p1s11W16</LM>
 </w.rf>
 <form>fluorouracil</form>
-<lemma>fluorouracil</lemma>
+<lemma>fluorouracil_,s_^(^DD**fluoruracil)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj2029-001-p1s11W17-Ta">

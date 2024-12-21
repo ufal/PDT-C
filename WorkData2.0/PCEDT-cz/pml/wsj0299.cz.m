@@ -800,7 +800,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0299-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1556,8 +1556,8 @@
 <LM>w#w-wsj0299-001-p1s8W9</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0299-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>

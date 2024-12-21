@@ -781,7 +781,7 @@
 <LM>w#w-vesm9211-050-p1s3w10</LM>
 </w.rf>
 <form>bájí</form>
-<lemma>báje</lemma>
+<lemma>báj</lemma>
 <tag>NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9211-050-p1s3w11">

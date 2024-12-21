@@ -330,7 +330,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-099-p1s3w11">
 <src.rf>manual</src.rf>
@@ -794,8 +794,8 @@
 <LM>w#w-lnd94103-099-p1s6w14</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-099-p1s6w15">
 <src.rf>manual</src.rf>
@@ -832,8 +832,8 @@
 <LM>w#w-lnd94103-099-p1s7w2</LM>
 </w.rf>
 <form>totiž</form>
-<lemma>totiž-2</lemma>
-<tag>TT-------------</tag>
+<lemma>totiž-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-099-p1s7w3">
 <src.rf>manual</src.rf>

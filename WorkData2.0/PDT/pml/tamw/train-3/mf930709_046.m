@@ -594,8 +594,8 @@
 <LM>w#w-mf930709-046-p2s3w16</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-046-p2s3w17">
 <src.rf>manual</src.rf>

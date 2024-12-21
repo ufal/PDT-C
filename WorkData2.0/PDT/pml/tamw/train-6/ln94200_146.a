@@ -52,13 +52,13 @@
 <children>
 <LM id="a-ln94200-146-p2s1Aw1">
 <m.rf>m#m-ln94200-146-p2s1Aw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94200-146-p2s1Aw2">
 <m.rf>m#m-ln94200-146-p2s1Aw2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>

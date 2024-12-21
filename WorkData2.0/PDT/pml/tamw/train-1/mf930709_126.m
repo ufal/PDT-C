@@ -516,7 +516,7 @@
 </w.rf>
 <form>Tisíc</form>
 <lemma>tisíc`1000</lemma>
-<tag>CzIS4----------</tag>
+<tag>CzIS1----------</tag>
 </m>
 <m id="m-mf930709-126-p12s1w3">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 </w.rf>
 <form>risk</form>
 <lemma>risk</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-126-p12s1w6">
 <src.rf>manual</src.rf>
@@ -1759,7 +1759,7 @@
 <LM>w#w-mf930709-126-p35s1w6</LM>
 </w.rf>
 <form>jazzový</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-mf930709-126-p35s1w7">
@@ -2452,8 +2452,8 @@
 <LM>w#w-mf930709-126-p51s1w3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-126-p51s1w4">
 <src.rf>manual</src.rf>

@@ -36,24 +36,22 @@
 <afun>Atr</afun>
 <ord>2</ord>
 </LM>
-<LM id="a-wsj1244-001-p1s0W4-Ta">
-<m.rf>m#m-wsj1244-001-p1s0W4-Ta</m.rf>
-<afun>Coord</afun>
-<ord>4</ord>
-<children>
 <LM id="a-wsj1244-001-p1s0W3-Ta">
 <m.rf>m#m-wsj1244-001-p1s0W3-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>3</ord>
+<children>
+<LM id="a-wsj1244-001-p1s0W4-Ta">
+<m.rf>m#m-wsj1244-001-p1s0W4-Ta</m.rf>
+<afun>AuxG</afun>
+<ord>4</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj1244-001-p1s0W5-Ta">
 <m.rf>m#m-wsj1244-001-p1s0W5-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>5</ord>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj1244-001-p1s0W7-Ta">
 <m.rf>m#m-wsj1244-001-p1s0W7-Ta</m.rf>
@@ -147,17 +145,15 @@
 <afun>Atr</afun>
 <ord>22</ord>
 </LM>
-<LM id="a-wsj1244-001-p1s0W24-Ta">
-<m.rf>m#m-wsj1244-001-p1s0W24-Ta</m.rf>
-<afun>Atr</afun>
-<ord>24</ord>
-<children>
 <LM id="a-wsj1244-001-p1s0W25-Ta">
 <m.rf>m#m-wsj1244-001-p1s0W25-Ta</m.rf>
 <afun>Atr</afun>
 <ord>25</ord>
-</LM>
-</children>
+<children>
+<LM id="a-wsj1244-001-p1s0W24-Ta">
+<m.rf>m#m-wsj1244-001-p1s0W24-Ta</m.rf>
+<afun>Atr</afun>
+<ord>24</ord>
 </LM>
 </children>
 </LM>
@@ -175,6 +171,8 @@
 <m.rf>m#m-wsj1244-001-p1s0W26-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>26</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -197,12 +195,12 @@
 <afun>AuxV</afun>
 <ord>2</ord>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1244-001-p1s1W4-Ta">
 <m.rf>m#m-wsj1244-001-p1s1W4-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>4</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -470,7 +468,7 @@
 <children>
 <LM id="a-wsj1244-001-p1s2W41-Ta">
 <m.rf>m#m-wsj1244-001-p1s2W41-Ta</m.rf>
-<afun>AuxZ</afun>
+<afun>Atr</afun>
 <ord>41</ord>
 </LM>
 <LM id="a-wsj1244-001-p1s2W44-Ta">
@@ -504,12 +502,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1244-001-p1s2W47-Ta">
 <m.rf>m#m-wsj1244-001-p1s2W47-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>47</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -673,12 +671,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1244-001-p1s3W26-Ta">
 <m.rf>m#m-wsj1244-001-p1s3W26-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>26</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

@@ -1250,7 +1250,7 @@
 <LM>w#w-lnd94104-064-p1s5w16</LM>
 </w.rf>
 <form>napjaté</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-lnd94104-064-p1s5w17">
@@ -3671,7 +3671,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-064-p1s18w9">
 <src.rf>manual</src.rf>
@@ -4675,7 +4675,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-064-p1s24w10">
 <src.rf>manual</src.rf>

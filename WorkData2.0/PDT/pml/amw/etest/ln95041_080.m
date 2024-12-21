@@ -1603,8 +1603,8 @@
 <LM>w#w-ln95041-080-p3s12w6</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95041-080-p3s12w7">
 <src.rf>manual</src.rf>
@@ -1869,8 +1869,8 @@
 <LM>w#w-ln95041-080-p3s14w6</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95041-080-p3s14w7">
 <src.rf>manual</src.rf>
@@ -2434,7 +2434,7 @@
 </w.rf>
 <form>napomoci</form>
 <lemma>napomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95041-080-p3s18w20">
 <src.rf>manual</src.rf>

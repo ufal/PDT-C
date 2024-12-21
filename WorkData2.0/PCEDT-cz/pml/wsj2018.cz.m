@@ -279,8 +279,8 @@
 <LM>w#w-wsj2018-001-p1s1W4</LM>
 </w.rf>
 <form>národně</form>
-<lemma>národně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>národně-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-wsj2018-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -513,8 +513,8 @@
 <LM>w#w-wsj2018-001-p1s1W30</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2018-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>

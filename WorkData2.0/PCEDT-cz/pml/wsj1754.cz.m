@@ -887,7 +887,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1754-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1341,7 +1341,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pennsylvanii</form>
-<lemma>Pennsylvanie_;G</lemma>
+<lemma>Pennsylvanie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj1754-001-p1s5W24-Ta">

@@ -1365,7 +1365,7 @@
 <LM>w#w-lnd94104-088-p1s10w3</LM>
 </w.rf>
 <form>metal</form>
-<lemma>metal</lemma>
+<lemma>metal_,s_^(^DD**metál)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-088-p1s10w4">
@@ -2496,8 +2496,8 @@
 <LM>w#w-lnd94104-088-p1s14w40</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-088-p1s14w41">
 <src.rf>manual</src.rf>
@@ -2552,7 +2552,7 @@
 <LM>w#w-lnd94104-088-p1s16w3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-088-p1s16w4">

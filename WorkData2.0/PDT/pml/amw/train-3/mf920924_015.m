@@ -540,7 +540,7 @@
 <LM>w#w-mf920924-015-p2s4w5</LM>
 </w.rf>
 <form>lupenkou</form>
-<lemma>lupenka</lemma>
+<lemma>lupenka_,s_^(^DD**lupénka)</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="m-mf920924-015-p2s4w6">

@@ -1461,7 +1461,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w23">
 <src.rf>manual</src.rf>

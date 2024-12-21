@@ -422,7 +422,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln95041-082-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1479,8 +1479,8 @@
 <LM>w#w-ln95041-082-p4s3w14</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-082-p4s3w15">
 <src.rf>manual</src.rf>

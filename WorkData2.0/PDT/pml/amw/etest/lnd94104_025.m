@@ -176,8 +176,8 @@
 <LM>w#w-lnd94104-025-p1s1Cw4</LM>
 </w.rf>
 <form>Frýdecko</form>
-<lemma>Frýdecko_;G</lemma>
-<tag>NNNS1-----A----</tag>
+<lemma>Frýdecko-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-lnd94104-025-p1s1Cw5">
 <src.rf>manual</src.rf>
@@ -2217,8 +2217,8 @@
 <LM>w#w-lnd94104-025-p1s12w15</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-025-p1s12w16">
 <src.rf>manual</src.rf>

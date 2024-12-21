@@ -258,8 +258,8 @@
 <LM>w#w-d1t3880-1</LM>
 </w.rf>
 <form>Fajn</form>
-<lemma>fajn-3</lemma>
-<tag>TT-------------</tag>
+<lemma>fajn-2</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m053-d1e3877-x2-441">
 <w.rf>

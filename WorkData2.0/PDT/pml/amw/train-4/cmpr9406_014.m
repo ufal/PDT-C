@@ -275,8 +275,8 @@
 <LM>w#w-cmpr9406-014-p3s2w1</LM>
 </w.rf>
 <form>Postupem</form>
-<lemma>postup</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>postupem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-014-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1122,8 +1122,8 @@
 <LM>w#w-cmpr9406-014-p6s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9406-014-p6s2w2">
 <src.rf>manual</src.rf>
@@ -1615,8 +1615,8 @@
 <LM>w#w-cmpr9406-014-p7s2w5</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9406-014-p7s2w6">
 <src.rf>manual</src.rf>
@@ -4131,8 +4131,8 @@
 <LM>w#w-cmpr9406-014-p12s2w9</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
-<tag>J,-------------</tag>
+<lemma>co-5_^(př._co_nejméně,_co_nevidět_atd.)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9406-014-p12s2w10">
 <src.rf>manual</src.rf>
@@ -4332,8 +4332,8 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-014-p12s3w6">
 <src.rf>manual</src.rf>

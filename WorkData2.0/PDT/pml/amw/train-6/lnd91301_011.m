@@ -102,7 +102,7 @@
 <LM>w#w-lnd91301-011-p1s2w1</LM>
 </w.rf>
 <form>Opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-011-p1s2w2">

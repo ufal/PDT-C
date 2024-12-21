@@ -950,7 +950,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1626-001-p1s3W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1978,7 +1978,7 @@
 </w.rf>
 <form>svaz</form>
 <lemma>svaz</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj1626-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4274,8 +4274,8 @@
 <LM>w#w-wsj1626-001-p1s18W18</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1626-001-p1s18W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6275,7 +6275,7 @@
 <LM>w#w-wsj1626-001-p1s27W1</LM>
 </w.rf>
 <form>Opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj1626-001-p1s27W2-Ta">
@@ -6757,7 +6757,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1626-001-p1s29W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7102,8 +7102,8 @@
 <LM>w#w-wsj1626-001-p1s31W4</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1626-001-p1s31W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7428,8 +7428,8 @@
 <LM>w#w-wsj1626-001-p1s32W6</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1626-001-p1s32W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7438,7 +7438,7 @@
 </w.rf>
 <form>společností</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFP2-----A----</tag>
+<tag>NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1626-001-p1s32W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7565,8 +7565,8 @@
 <LM>w#w-wsj1626-001-p1s33W1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1626-001-p1s33W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8011,7 +8011,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1626-001-p1s35W2-Ta">
 <src.rf>tagger-a</src.rf>

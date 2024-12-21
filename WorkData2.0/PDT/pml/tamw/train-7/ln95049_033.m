@@ -750,7 +750,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-033-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1032,8 +1032,8 @@
 <LM>w#w-ln95049-033-p3s3w8</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95049-033-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-033-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1470,8 +1470,8 @@
 <LM>w#w-ln95049-033-p3s6w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-033-p3s6w16">
 <src.rf>manual</src.rf>
@@ -2009,8 +2009,8 @@
 <LM>w#w-ln95049-033-p4s4w8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-033-p4s4w9">
 <src.rf>manual</src.rf>
@@ -2073,7 +2073,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-033-p4s4w16">
 <src.rf>manual</src.rf>
@@ -2300,7 +2300,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-033-p4s5w21">
 <src.rf>manual</src.rf>

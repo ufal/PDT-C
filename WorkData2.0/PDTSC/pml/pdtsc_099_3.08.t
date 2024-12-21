@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
  <head>
-  <schema href="tdata_c_schema.xml" />
+  <schema href="tdata_c2_schema.xml" />
   <references>
    <reffile id="a" name="adata" href="pdtsc_099_3.08.a" />
-   <reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+   <reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
   </references>
  </head>
+ <meta/>
  <trees>
   <LM id="ps_003.08-SCzechT-ps_003-11880-root">
    <atree.rf>a#ps_003.08-SCzechA-ps_003-11880-root</atree.rf>
@@ -29,7 +30,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w406f1</val_frame.rf>
+     <val_frame.rf>v#v41rbA</val_frame.rf>
      <children>
       <LM id="ps_003.08-SCzechT-m-d1t2523-1x3">
        <nodetype>complex</nodetype>
@@ -116,6 +117,7 @@
      <nodetype>atom</nodetype>
      <t_lemma>Prosím</t_lemma>
      <functor>PARTL</functor>
+     <sentmod>enunc</sentmod>
      <deepord>1</deepord>
     </LM>
    </children>
@@ -151,7 +153,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w3536f2_ZU</val_frame.rf>
+       <val_frame.rf>v#v41fqcA</val_frame.rf>
        <children>
         <LM id="ps_003.08-SCzechT-ps_003-d1e2528-x2-roota1">
          <nodetype>complex</nodetype>
@@ -220,7 +222,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>8</deepord>
-       <val_frame.rf>v#v-w5158f1</val_frame.rf>
+       <val_frame.rf>v#v41isgP</val_frame.rf>
        <children>
         <LM id="ps_003.08-SCzechT-m-d1t2531-4">
          <a>
@@ -260,7 +262,7 @@
           <negation>neg0</negation>
          </gram>
          <deepord>10</deepord>
-         <val_frame.rf>v#v-w8426f1</val_frame.rf>
+         <val_frame.rf>v#v41ozzA</val_frame.rf>
          <children>
           <LM id="ps_003.08-SCzechT-m-d1t2531-5">
            <a>
@@ -323,7 +325,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>3</deepord>
-     <val_frame.rf>v#v-w406f1</val_frame.rf>
+     <val_frame.rf>v#v41rbA</val_frame.rf>
      <children>
       <LM id="ps_003.08-SCzechT-m-d1t2539-1">
        <a>
@@ -332,6 +334,7 @@
        <nodetype>atom</nodetype>
        <t_lemma>ano</t_lemma>
        <functor>PARTL</functor>
+       <sentmod>enunc</sentmod>
        <deepord>1</deepord>
       </LM>
       <LM id="ps_003.08-SCzechT-m-d1t2539-3x3">
@@ -374,29 +377,15 @@
    <atree.rf>a#ps_003.08-SCzechA-ps_003-d1e2532-x3-root</atree.rf>
    <deepord>0</deepord>
    <children>
-    <LM id="ps_003.08-SCzechT-ps_003-d1e2532-x3-roota1">
-     <nodetype>qcomplex</nodetype>
-     <is_generated>1</is_generated>
-     <t_lemma>#EmpVerb</t_lemma>
-     <functor>PRED</functor>
+    <LM id="ps_003.08-SCzechT-m-d1t2541-1">
+     <a>
+      <lex.rf>a#ps_003.08-SCzechA-m-d1t2541-1</lex.rf>
+     </a>
+     <nodetype>atom</nodetype>
+     <t_lemma>nashledanou</t_lemma>
+     <functor>PARTL</functor>
+     <sentmod>enunc</sentmod>
      <deepord>1</deepord>
-     <children>
-      <LM id="ps_003.08-SCzechT-m-d1t2541-1">
-       <a>
-        <lex.rf>a#ps_003.08-SCzechA-m-d1t2541-1</lex.rf>
-       </a>
-       <nodetype>complex</nodetype>
-       <t_lemma>shledaná</t_lemma>
-       <functor>PAT</functor>
-       <gram>
-        <sempos>n.denot</sempos>
-        <gender>nr</gender>
-        <number>nr</number>
-        <negation>neg0</negation>
-       </gram>
-       <deepord>2</deepord>
-      </LM>
-     </children>
     </LM>
    </children>
   </LM>
@@ -404,29 +393,15 @@
    <atree.rf>a#ps_003.08-SCzechA-ps_003-d1e2542-x2-root</atree.rf>
    <deepord>0</deepord>
    <children>
-    <LM id="ps_003.08-SCzechT-ps_003-d1e2542-x2-roota1">
-     <nodetype>qcomplex</nodetype>
-     <is_generated>1</is_generated>
-     <t_lemma>#EmpVerb</t_lemma>
-     <functor>PRED</functor>
+    <LM id="ps_003.08-SCzechT-m-d1t2545-1">
+     <a>
+      <lex.rf>a#ps_003.08-SCzechA-m-d1t2545-1</lex.rf>
+     </a>
+     <nodetype>atom</nodetype>
+     <t_lemma>nashledanou</t_lemma>
+     <functor>PARTL</functor>
+     <sentmod>enunc</sentmod>
      <deepord>1</deepord>
-     <children>
-      <LM id="ps_003.08-SCzechT-m-d1t2545-1">
-       <a>
-        <lex.rf>a#ps_003.08-SCzechA-m-d1t2545-1</lex.rf>
-       </a>
-       <nodetype>complex</nodetype>
-       <t_lemma>shledaná</t_lemma>
-       <functor>PAT</functor>
-       <gram>
-        <sempos>n.denot</sempos>
-        <gender>nr</gender>
-        <number>nr</number>
-        <negation>neg0</negation>
-       </gram>
-       <deepord>2</deepord>
-      </LM>
-     </children>
     </LM>
    </children>
   </LM>

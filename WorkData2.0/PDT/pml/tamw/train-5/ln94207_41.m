@@ -475,8 +475,8 @@
 <LM>w#w-ln94207-41-p2s3w4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-41-p2s3w5">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-41-p2s3w11">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-41-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln94207-41-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1660,8 +1660,8 @@
 <LM>w#w-ln94207-41-p4s4w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-41-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1853,8 +1853,8 @@
 <LM>w#w-ln94207-41-p4s6w10</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94207-41-p4s6w11">
 <src.rf>manual</src.rf>
@@ -1862,8 +1862,8 @@
 <LM>w#w-ln94207-41-p4s6w11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-41-p4s6w12">
 <src.rf>manual</src.rf>
@@ -2163,8 +2163,8 @@
 <LM>w#w-ln94207-41-p4s8w11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-41-p4s8w12">
 <src.rf>manual</src.rf>
@@ -2563,8 +2563,8 @@
 <LM>w#w-ln94207-41-p4s10w16</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-41-p4s10w17">
 <src.rf>manual</src.rf>
@@ -2645,7 +2645,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-41-p4s10w26">
 <src.rf>manual</src.rf>

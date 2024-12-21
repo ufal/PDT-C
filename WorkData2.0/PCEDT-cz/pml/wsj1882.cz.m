@@ -1105,7 +1105,7 @@
 </w.rf>
 <form>přesáhla</form>
 <lemma>přesáhnout</lemma>
-<tag>VpQW----R-AAP--</tag>
+<tag>VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj1882-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>

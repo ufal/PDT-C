@@ -3534,8 +3534,8 @@
 <LM>w#w-wsj1773-001-p1s12W25</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1773-001-p1s12W26-Ta">
 <src.rf>tagger-a</src.rf>

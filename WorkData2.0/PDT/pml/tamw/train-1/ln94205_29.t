@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_29.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -46,8 +46,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_special>caption</discourse_special>
-<val_frame.rf>v#v-w9784f4</val_frame.rf>
+<discourse_feature>caption</discourse_feature>
+<val_frame.rf>v#v41rsnA</val_frame.rf>
 <children>
 <LM id="t-ln94205-29-p1s1a0">
 <nodetype>qcomplex</nodetype>
@@ -76,6 +76,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>Německo</t_lemma>
 <functor>VOCAT</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 <gender>neut</gender>

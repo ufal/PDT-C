@@ -467,7 +467,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-137-p2s2w16">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-137-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1075,8 +1075,8 @@
 <LM>w#w-ln94210-137-p2s5w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-137-p2s5w3">
 <src.rf>manual</src.rf>

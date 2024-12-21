@@ -294,8 +294,8 @@
 <LM>w#w-cmpr9415-008-p7s1w3</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-008-p7s1w4">
 <src.rf>manual</src.rf>

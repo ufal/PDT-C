@@ -455,8 +455,8 @@
 <LM>w#w-mf920922-059-p2s4w8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-059-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1289,8 +1289,8 @@
 <LM>w#w-mf920922-059-p3s1w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-059-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1986,8 +1986,8 @@
 <LM>w#w-mf920922-059-p3s5w4</LM>
 </w.rf>
 <form>soutěžící</form>
-<lemma>soutěžící_^(*3it)</lemma>
-<tag>AGMP4-----A----</tag>
+<lemma>soutěžící-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-mf920922-059-p3s5w5">
 <src.rf>manual</src.rf>

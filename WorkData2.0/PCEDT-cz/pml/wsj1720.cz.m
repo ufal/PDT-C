@@ -640,7 +640,6 @@
 <w.rf>
 <LM>w#w-wsj1720-001-p1s2W20</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>830.5</form>
 <lemma>830.5</lemma>
 <tag>C=-------------</tag>
@@ -821,7 +820,6 @@
 <w.rf>
 <LM>w#w-wsj1720-001-p1s2W40</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>582.6</form>
 <lemma>582.6</lemma>
 <tag>C=-------------</tag>
@@ -939,7 +937,6 @@
 <w.rf>
 <LM>w#w-wsj1720-001-p1s2W53</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>309.3</form>
 <lemma>309.3</lemma>
 <tag>C=-------------</tag>
@@ -1007,7 +1004,7 @@
 </w.rf>
 <form>zachovají</form>
 <lemma>zachovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-wsj1720-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1661,7 +1658,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1720-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1850,7 +1847,6 @@
 <w.rf>
 <LM>w#w-wsj1720-001-p1s7W8</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>129.6</form>
 <lemma>129.6</lemma>
 <tag>C=-------------</tag>
@@ -1934,7 +1930,6 @@
 <w.rf>
 <LM>w#w-wsj1720-001-p1s8W6</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>125.7</form>
 <lemma>125.7</lemma>
 <tag>C=-------------</tag>
@@ -2062,7 +2057,6 @@
 <w.rf>
 <LM>w#w-wsj1720-001-p1s8W20</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>2.9</form>
 <lemma>2.9</lemma>
 <tag>C=-------------</tag>
@@ -2103,7 +2097,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1720-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2128,7 +2122,6 @@
 <w.rf>
 <LM>w#w-wsj1720-001-p1s9W4</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>91.7</form>
 <lemma>91.7</lemma>
 <tag>C=-------------</tag>
@@ -2210,7 +2203,6 @@
 <w.rf>
 <LM>w#w-wsj1720-001-p1s9W13</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>31.8</form>
 <lemma>31.8</lemma>
 <tag>C=-------------</tag>

@@ -711,8 +711,8 @@
 <LM>w#w-mf930709-149-p2s4w6</LM>
 </w.rf>
 <form>nakonec</form>
-<lemma>nakonec-1</lemma>
-<tag>Db-------------</tag>
+<lemma>nakonec-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-149-p2s4w7">
 <src.rf>manual</src.rf>

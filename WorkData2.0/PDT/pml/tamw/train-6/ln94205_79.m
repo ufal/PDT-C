@@ -514,7 +514,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-79-p2s3Aw5">
 <src.rf>manual</src.rf>
@@ -1488,7 +1488,7 @@
 <LM>w#w-ln94205-79-p3s3w5</LM>
 </w.rf>
 <form>sehnala</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-79-p3s3w6">
@@ -1883,7 +1883,7 @@
 <LM>w#w-ln94205-79-p4s2w8</LM>
 </w.rf>
 <form>setmění</form>
-<lemma>setmění_^(*2t)_(*3ít)</lemma>
+<lemma>setmění_^(*2t)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-ln94205-79-p4s2w9">

@@ -1444,8 +1444,8 @@
 <LM>w#w-d1t874-2</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m793-d1t874-1">
 <w.rf>
@@ -1830,7 +1830,7 @@
 <LM>w#w-d1t887-12</LM>
 </w.rf>
 <form>sehnal</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m793-d1e26-x125-4197">
@@ -1945,7 +1945,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m793-d-id109206">
 <w.rf>
@@ -2550,8 +2550,8 @@
 <LM>w#w-d1t923-11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m793-d1t923-12">
 <w.rf>
@@ -2738,8 +2738,8 @@
 <LM>w#w-d1t929-12</LM>
 </w.rf>
 <form>To</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m793-d1t929-13">
 <w.rf>
@@ -2818,8 +2818,8 @@
 <LM>w#w-d1t929-25</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m793-d1t929-28">
 <w.rf>

@@ -1614,8 +1614,8 @@
 <LM>w#w-wsj1689-001-p1s7W40</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1689-001-p1s7W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4310,7 +4310,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1689-001-p1s18W2-Ta">
 <src.rf>tagger-a</src.rf>

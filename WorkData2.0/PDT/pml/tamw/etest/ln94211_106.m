@@ -585,8 +585,8 @@
 <LM>w#w-ln94211-106-p2s3w7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-106-p2s3w8">
 <src.rf>manual</src.rf>
@@ -686,8 +686,8 @@
 <LM>w#w-ln94211-106-p3s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-106-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-ln94211-106-p3s3w24</LM>
 </w.rf>
 <form>využíváním</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS7-----A----</tag>
 </m>
 <m id="m-ln94211-106-p3s3w25">
@@ -1232,8 +1232,8 @@
 <LM>w#w-ln94211-106-p3s4w1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-106-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1470,7 +1470,7 @@
 <form_change>spell</form_change>
 <form>distribuuje</form>
 <lemma>distribuovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94211-106-p3s5w9">
 <src.rf>manual</src.rf>
@@ -2462,8 +2462,8 @@
 <LM>w#w-ln94211-106-p3s11w3</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-106-p3s11w4">
 <src.rf>manual</src.rf>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0200.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <trees>
@@ -22,11 +22,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>připsat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>28</deepord>
-<val_frame.rf>v#v-w5245f1</val_frame.rf>
+<val_frame.rf>v#v41ixdB</val_frame.rf>
 <children>
 <LM id="T-wsj0200-001-p1s0a45">
 <nodetype>qcomplex</nodetype>
@@ -69,6 +70,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>Misantrop</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
@@ -106,6 +108,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <deepord>7</deepord>
 <children>
 <LM id="T-wsj0200-001-p1s0a12">
@@ -115,9 +118,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Goodman</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>8</deepord>
 </LM>
 <LM id="T-wsj0200-001-p1s0a13">
@@ -127,9 +127,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Theatre</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>9</deepord>
 </LM>
 </children>
@@ -155,6 +152,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>klasika</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <gram>
@@ -231,6 +229,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <deepord>17</deepord>
@@ -243,9 +242,6 @@
 <t_lemma>Leisure</t_lemma>
 <functor>FPHR</functor>
 <is_parenthesis>1</is_parenthesis>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>14</deepord>
 </LM>
 <LM id="T-wsj0200-001-p1s0a26">
@@ -266,9 +262,6 @@
 <t_lemma>Arts</t_lemma>
 <functor>FPHR</functor>
 <is_parenthesis>1</is_parenthesis>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>19</deepord>
 </LM>
 </children>
@@ -432,11 +425,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>představit_se</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w4763f1</val_frame.rf>
+<val_frame.rf>v#v41hyiA</val_frame.rf>
 <children>
 <LM id="T-wsj0200-001-p1s1a7">
 <nodetype>qcomplex</nodetype>

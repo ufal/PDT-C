@@ -593,7 +593,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94203-145-p3s1w13">
 <src.rf>manual</src.rf>
@@ -882,8 +882,8 @@
 <LM>w#w-ln94203-145-p3s2w9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94203-145-p3s2w10">
 <src.rf>manual</src.rf>
@@ -2377,8 +2377,8 @@
 <LM>w#w-ln94203-145-p7s2w7</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-145-p7s2w8">
 <src.rf>manual</src.rf>
@@ -3316,7 +3316,7 @@
 </w.rf>
 <form>angažují</form>
 <lemma>angažovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln94203-145-p8s3w9">
 <src.rf>manual</src.rf>

@@ -224,7 +224,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94202-84-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1166,8 +1166,8 @@
 <LM>w#w-ln94202-84-p3s3w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-84-p3s3w6">
 <src.rf>manual</src.rf>

@@ -325,7 +325,7 @@
 <LM>w#w-wsj0624-001-p1s1W8</LM>
 </w.rf>
 <form>Oscar</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0624-001-p1s1W9-Ta">
@@ -1844,7 +1844,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0624-001-p1s8W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1852,7 +1852,7 @@
 <LM>w#w-wsj0624-001-p1s8W18</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj0624-001-p1s8W19-Ta">

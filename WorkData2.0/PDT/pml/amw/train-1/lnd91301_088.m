@@ -56,7 +56,7 @@
 </w.rf>
 <form>OBERSTDORFU</form>
 <lemma>Oberstdorf_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-lnd91301-088-p1s1w6">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 </w.rf>
 <form>Oberstdorfu</form>
 <lemma>Oberstdorf_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-lnd91301-088-p3s1w20">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 </w.rf>
 <form>Partenkirchenu</form>
 <lemma>Partenkirchen_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-lnd91301-088-p3s1w29">
 <src.rf>manual</src.rf>
@@ -2307,7 +2307,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-088-p5s2w14">
 <src.rf>manual</src.rf>
@@ -3071,7 +3071,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-088-p5s6w7">
 <src.rf>manual</src.rf>
@@ -3253,7 +3253,7 @@
 </w.rf>
 <form>Oberstdorfu</form>
 <lemma>Oberstdorf_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-lnd91301-088-p6s1w3">
 <src.rf>manual</src.rf>

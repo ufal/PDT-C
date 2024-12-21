@@ -2254,7 +2254,7 @@
 <LM>w#w-ln95044-041-p2s13w15</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-041-p2s13w16">
@@ -4492,7 +4492,7 @@
 <LM>w#w-ln95044-041-p5s6w15</LM>
 </w.rf>
 <form>seženou</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95044-041-p5s6w16">

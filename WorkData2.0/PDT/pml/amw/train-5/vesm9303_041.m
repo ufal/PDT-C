@@ -1110,7 +1110,7 @@
 <LM>w#w-vesm9303-041-p4s9w4</LM>
 </w.rf>
 <form>podpisoval</form>
-<lemma>podpisovat</lemma>
+<lemma>podpisovat_,s_^(^DD**podepisovat)</lemma>
 <tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-041-p4s9w5">
@@ -4831,7 +4831,7 @@
 </w.rf>
 <form>rukou</form>
 <lemma>ruka</lemma>
-<tag>NNFP2-----A----</tag>
+<tag>NNFP6-----A----</tag>
 </m>
 <m id="m-vesm9303-041-p9s11w9">
 <src.rf>manual</src.rf>
@@ -4849,7 +4849,7 @@
 </w.rf>
 <form>nohou</form>
 <lemma>noha</lemma>
-<tag>NNFS7-----A----</tag>
+<tag>NNFP6-----A----</tag>
 </m>
 <m id="m-vesm9303-041-p9s11w11">
 <src.rf>manual</src.rf>
@@ -8281,7 +8281,7 @@
 <LM>w#w-vesm9303-041-p12s7w1</LM>
 </w.rf>
 <form>Benedikta</form>
-<lemma>benedikt</lemma>
+<lemma>Benedikt_;Y</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-041-p12s7w2">
@@ -8443,8 +8443,8 @@
 <LM>w#w-vesm9303-041-p12s7w19</LM>
 </w.rf>
 <form>Pomuka</form>
-<lemma>Pomuk_;G</lemma>
-<tag>NNIS2-----A---1</tag>
+<lemma>Pomuk-2_;Y</lemma>
+<tag>NNMS4-----A----</tag>
 </m>
 <m id="m-vesm9303-041-p12s7w20">
 <src.rf>manual</src.rf>
@@ -10330,8 +10330,8 @@
 <LM>w#w-vesm9303-041-p16s3w12</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-041-p16s3w13">
 <src.rf>manual</src.rf>
@@ -10614,7 +10614,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-041-p16s5w8">
 <src.rf>manual</src.rf>
@@ -11250,7 +11250,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-041-p17s1w31">
 <src.rf>manual</src.rf>
@@ -11258,8 +11258,8 @@
 <LM>w#w-vesm9303-041-p17s1w31</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-041-p17s1w32">
 <src.rf>manual</src.rf>
@@ -13977,7 +13977,7 @@
 <LM>w#w-vesm9303-041-p20s4w21</LM>
 </w.rf>
 <form>domnělý</form>
-<lemma>domnělý_^(*3ít)</lemma>
+<lemma>domnělý</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m-vesm9303-041-p20s4w22">
@@ -17054,7 +17054,7 @@
 <LM>w#w-vesm9303-041-p25s5w14</LM>
 </w.rf>
 <form>načervenalé</form>
-<lemma>načervenalý_^(*2t)</lemma>
+<lemma>načervenalý</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9303-041-p25s5w15">
@@ -17218,7 +17218,7 @@
 <LM>w#w-vesm9303-041-p25s6w16</LM>
 </w.rf>
 <form>načervenalou</form>
-<lemma>načervenalý_^(*2t)</lemma>
+<lemma>načervenalý</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-vesm9303-041-p25s6w17">
@@ -17808,7 +17808,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9303-041-p26s2w16">
 <src.rf>manual</src.rf>
@@ -18163,7 +18163,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-041-p27s1w20">
 <src.rf>manual</src.rf>
@@ -19084,7 +19084,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-041-p29s1w2">
 <src.rf>manual</src.rf>
@@ -19137,7 +19137,7 @@
 <LM>w#w-vesm9303-041-p29s1w7</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-041-p29s1w8">
@@ -20665,7 +20665,7 @@
 </w.rf>
 <form>svatého</form>
 <lemma>svatý-2</lemma>
-<tag>NNMS2-----A----</tag>
+<tag>NNMS4-----A----</tag>
 </m>
 <m id="m-vesm9303-041-p30s9w6">
 <src.rf>manual</src.rf>
@@ -21470,7 +21470,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-041-p31s2w2">
 <src.rf>manual</src.rf>
@@ -25969,8 +25969,8 @@
 <LM>w#w-vesm9303-041-p41s1w12</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-041-p41s1w13">
 <src.rf>manual</src.rf>
@@ -26861,8 +26861,8 @@
 <LM>w#w-vesm9303-041-p42s3w5</LM>
 </w.rf>
 <form>vzedmutí</form>
-<lemma>vzedmutý_^(*3out)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>vzedmutí_^(*3out)</lemma>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9303-041-p42s3w6">
 <src.rf>manual</src.rf>
@@ -27652,8 +27652,8 @@
 <LM>w#w-vesm9303-041-p44s2w4</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-041-p44s2w5">
 <src.rf>manual</src.rf>
@@ -27980,8 +27980,8 @@
 <LM>w#w-vesm9303-041-p44s4w6</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-041-p44s4w7">
 <src.rf>manual</src.rf>

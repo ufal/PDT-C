@@ -1134,7 +1134,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-080-p1s6w6">
 <src.rf>manual</src.rf>
@@ -2317,8 +2317,8 @@
 <LM>w#w-lnd94101-080-p1s13w10</LM>
 </w.rf>
 <form>play</form>
-<lemma>play-77</lemma>
-<tag>F%-------------</tag>
+<lemma>play-1</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s13w11">
 <src.rf>manual</src.rf>
@@ -2326,8 +2326,8 @@
 <LM>w#w-lnd94101-080-p1s13w11</LM>
 </w.rf>
 <form>off</form>
-<lemma>off-77</lemma>
-<tag>F%-------------</tag>
+<lemma>off-1</lemma>
+<tag>SNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s13w12">
 <src.rf>manual</src.rf>
@@ -5614,8 +5614,8 @@
 <LM>w#w-lnd94101-080-p1s32w25</LM>
 </w.rf>
 <form>play</form>
-<lemma>play-77</lemma>
-<tag>F%-------------</tag>
+<lemma>play-1</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s32w26">
 <src.rf>manual</src.rf>
@@ -5623,8 +5623,8 @@
 <LM>w#w-lnd94101-080-p1s32w26</LM>
 </w.rf>
 <form>off</form>
-<lemma>off-77</lemma>
-<tag>F%-------------</tag>
+<lemma>off-1</lemma>
+<tag>SNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s32w27">
 <src.rf>manual</src.rf>

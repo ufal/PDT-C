@@ -1513,7 +1513,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-054-p5s5w28">
 <src.rf>manual</src.rf>
@@ -1832,7 +1832,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-054-p5s7w5">
 <src.rf>manual</src.rf>
@@ -5676,7 +5676,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-054-p8s4w25">
 <src.rf>manual</src.rf>
@@ -7579,7 +7579,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-054-p9s8w2">
 <src.rf>manual</src.rf>
@@ -9747,8 +9747,8 @@
 <LM>w#w-vesm9303-054-p11s3w40</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
-<tag>J,-------------</tag>
+<lemma>co-5_^(př._co_nejméně,_co_nevidět_atd.)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-054-p11s3w41">
 <src.rf>manual</src.rf>
@@ -10437,8 +10437,8 @@
 <LM>w#w-vesm9303-054-p12s3w21</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-054-p12s3w22">
 <src.rf>manual</src.rf>
@@ -10519,7 +10519,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-054-p12s3w31">
 <src.rf>manual</src.rf>
@@ -10943,8 +10943,8 @@
 <LM>w#w-vesm9303-054-p12s4w44</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-054-p12s4w45">
 <src.rf>manual</src.rf>
@@ -11492,7 +11492,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-054-p13s1w2">
 <src.rf>manual</src.rf>
@@ -11545,8 +11545,8 @@
 <LM>w#w-vesm9303-054-p13s1w7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-054-p13s1w8">
 <src.rf>manual</src.rf>
@@ -12885,8 +12885,8 @@
 <LM>w#w-vesm9303-054-p14s3w18</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-054-p14s3w19">
 <src.rf>manual</src.rf>
@@ -13934,7 +13934,7 @@
 </w.rf>
 <form>netrefí</form>
 <lemma>trefit</lemma>
-<tag>VB-S---3P-NAI--</tag>
+<tag>VB-S---3P-NAP--</tag>
 </m>
 <m id="m-vesm9303-054-p14s9w22">
 <src.rf>manual</src.rf>
@@ -14153,8 +14153,8 @@
 <LM>w#w-vesm9303-054-p15s1w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-054-p15s1w2">
 <src.rf>manual</src.rf>
@@ -16710,7 +16710,7 @@
 </w.rf>
 <form>věnovalo</form>
 <lemma>věnovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-vesm9303-054-p16s7w19">
 <src.rf>manual</src.rf>
@@ -18906,7 +18906,7 @@
 <LM>w#w-vesm9303-054-p18s1w11</LM>
 </w.rf>
 <form>vybuchne</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-vesm9303-054-p18s1w12">
@@ -21594,8 +21594,8 @@
 <LM>w#w-vesm9303-054-p20s2w24</LM>
 </w.rf>
 <form>živí</form>
-<lemma>živý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>živý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9303-054-p20s2w25">
 <src.rf>manual</src.rf>
@@ -21785,8 +21785,8 @@
 <LM>w#w-vesm9303-054-p21s1w16</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-054-p21s1w17">
 <src.rf>manual</src.rf>
@@ -21896,8 +21896,8 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-054-p21s2w11">
 <src.rf>manual</src.rf>

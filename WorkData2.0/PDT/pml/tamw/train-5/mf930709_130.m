@@ -657,8 +657,8 @@
 <LM>w#w-mf930709-130-p3s2w9</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf930709-130-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1378,8 +1378,8 @@
 <LM>w#w-mf930709-130-p4s5w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-130-p4s5w5">
 <src.rf>manual</src.rf>

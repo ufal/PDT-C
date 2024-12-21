@@ -216,8 +216,8 @@
 <LM>w#w-wsj0459-001-p1s1W1</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-33</lemma>
-<tag>Q3-------------</tag>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0459-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>

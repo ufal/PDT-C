@@ -97,8 +97,8 @@
 <LM>w#w-wsj1835-001-p1s0W10</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj1835-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -298,8 +298,8 @@
 <LM>w#w-wsj1835-001-p1s1W9</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1835-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -353,7 +353,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1835-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>

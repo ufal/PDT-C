@@ -1531,7 +1531,7 @@
 </w.rf>
 <form>věnují</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf920902-046-p2s7w10">
 <src.rf>manual</src.rf>
@@ -2414,7 +2414,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-046-p2s12w2">
 <src.rf>manual</src.rf>

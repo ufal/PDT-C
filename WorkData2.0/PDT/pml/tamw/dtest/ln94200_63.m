@@ -2032,7 +2032,7 @@
 <LM>w#w-ln94200-63-p5s4w12</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-63-p5s4w13">
@@ -2971,7 +2971,7 @@
 </w.rf>
 <form>reagovaly</form>
 <lemma>reagovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln94200-63-p7s1w5">
 <src.rf>manual</src.rf>
@@ -2979,8 +2979,8 @@
 <LM>w#w-ln94200-63-p7s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-63-p7s1w6">
 <src.rf>manual</src.rf>
@@ -3269,8 +3269,8 @@
 <LM>w#w-ln94200-63-p7s2w29</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-63-p7s2w30">
 <src.rf>manual</src.rf>
@@ -3779,7 +3779,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94200-63-p7s4w3">
 <src.rf>manual</src.rf>
@@ -3869,7 +3869,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-63-p7s4w13">
 <src.rf>manual</src.rf>

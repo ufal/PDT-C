@@ -477,8 +477,8 @@
 <LM>w#w-wsj1194-001-p1s1W10</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1194-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>

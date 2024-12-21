@@ -632,8 +632,8 @@
 <LM>w#w-ln94206-134-p2s4w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-134-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1005,8 +1005,8 @@
 <LM>w#w-ln94206-134-p2s6w18</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-134-p2s6w19">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 </w.rf>
 <form>sponzoroval</form>
 <lemma>sponzorovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94206-134-p2s6w22">
 <src.rf>manual</src.rf>

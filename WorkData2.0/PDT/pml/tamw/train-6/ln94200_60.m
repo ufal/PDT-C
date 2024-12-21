@@ -811,8 +811,8 @@
 <LM>w#w-ln94200-60-p3s1w29</LM>
 </w.rf>
 <form>přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94200-60-p3s1w30">
 <src.rf>manual</src.rf>
@@ -1164,8 +1164,8 @@
 <LM>w#w-ln94200-60-p3s2w33</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-60-p3s2w34">
 <src.rf>manual</src.rf>
@@ -1236,8 +1236,8 @@
 <LM>w#w-ln94200-60-p3s2w41</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-60-p3s2w42">
 <src.rf>manual</src.rf>
@@ -1245,8 +1245,8 @@
 <LM>w#w-ln94200-60-p3s2w42</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-60-p3s2w43">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln94200-60-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1683,8 +1683,8 @@
 <LM>w#w-ln94200-60-p4s3w11</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-60-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1692,8 +1692,8 @@
 <LM>w#w-ln94200-60-p4s3w12</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-60-p4s3w13">
 <src.rf>manual</src.rf>
@@ -3224,8 +3224,8 @@
 <LM>w#w-ln94200-60-p5s8w7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-60-p5s8w8">
 <src.rf>manual</src.rf>
@@ -3296,8 +3296,8 @@
 <LM>w#w-ln94200-60-p5s8w15</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-60-p5s8w16">
 <src.rf>manual</src.rf>

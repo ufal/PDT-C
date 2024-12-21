@@ -76,7 +76,7 @@
 </w.rf>
 <form>citujeme</form>
 <lemma>citovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAB--</tag>
 </m>
 <m id="m-mf920923-003-p2s1w5">
 <src.rf>manual</src.rf>
@@ -533,8 +533,8 @@
 <LM>w#w-mf920923-003-p5s2w2</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-003-p5s2w3">
 <src.rf>manual</src.rf>

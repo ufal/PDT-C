@@ -442,7 +442,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-mf930713-045-p2s4w2">
 <src.rf>manual</src.rf>
@@ -2337,8 +2337,8 @@
 <LM>w#w-mf930713-045-p2s17w3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-045-p2s17w4">
 <src.rf>manual</src.rf>

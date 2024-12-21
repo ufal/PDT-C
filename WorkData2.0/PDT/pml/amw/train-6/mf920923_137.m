@@ -4025,7 +4025,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>departement</form>
-<lemma>departement</lemma>
+<lemma>departement_,s_^(^DD**department)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-137-p7s2w18">
@@ -5262,7 +5262,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920923-137-p8s3w14">
 <src.rf>manual</src.rf>
@@ -5717,8 +5717,8 @@
 <LM>w#w-mf920923-137-p9s1w11</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920923-137-p9s1w12">
 <src.rf>manual</src.rf>

@@ -358,8 +358,8 @@
 <LM>w#w-ln94205-63-p2s2w17</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-63-p2s2w18">
 <src.rf>manual</src.rf>
@@ -713,8 +713,8 @@
 <LM>w#w-ln94205-63-p3s2w2</LM>
 </w.rf>
 <form>podezřelém</form>
-<lemma>podezřelý</lemma>
-<tag>AAMS6----1A----</tag>
+<lemma>podezřelý-2</lemma>
+<tag>NNMS6-----A----</tag>
 </m>
 <m id="m-ln94205-63-p3s2w3">
 <src.rf>manual</src.rf>

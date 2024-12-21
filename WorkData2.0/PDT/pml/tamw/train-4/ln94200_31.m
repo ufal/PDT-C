@@ -113,8 +113,8 @@
 <LM>w#w-ln94200-31-p2s1Bw3</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-31-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -1409,7 +1409,7 @@
 </w.rf>
 <form>sponzorováno</form>
 <lemma>sponzorovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-ln94200-31-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1535,7 +1535,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-ln94200-31-p4s2w20">
 <src.rf>manual</src.rf>
@@ -1925,8 +1925,8 @@
 <LM>w#w-ln94200-31-p5s2w4</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-31-p5s2w5">
 <src.rf>manual</src.rf>

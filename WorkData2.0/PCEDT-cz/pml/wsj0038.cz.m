@@ -334,7 +334,7 @@
 <LM>w#w-wsj0038-001-p1s0W36</LM>
 </w.rf>
 <form>nakup</form>
-<lemma>nakoupit</lemma>
+<lemma>nakupit</lemma>
 <tag>Vi-S---2--A-P--</tag>
 </m>
 <m id="m-wsj0038-001-p1s0W37-Ta">
@@ -445,7 +445,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0038-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-wsj0038-001-p1s1W14</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0038-001-p1s1W15-Ta">
@@ -607,7 +607,7 @@
 <LM>w#w-wsj0038-001-p1s1W28</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj0038-001-p1s1W29-Ta">

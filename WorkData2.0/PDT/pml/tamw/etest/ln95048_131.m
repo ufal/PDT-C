@@ -1110,7 +1110,7 @@
 </w.rf>
 <form>oba</form>
 <lemma>oba`2</lemma>
-<tag>CnYP4----------</tag>
+<tag>CnYP1----------</tag>
 </m>
 <m id="m-ln95048-131-p3s2w37">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 </w.rf>
 <form>objekty</form>
 <lemma>objekt</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-ln95048-131-p3s2w38">
 <src.rf>manual</src.rf>
@@ -1210,8 +1210,8 @@
 <LM>w#w-ln95048-131-p3s3w10</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-131-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1410,8 +1410,8 @@
 <LM>w#w-ln95048-131-p3s4w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-131-p3s4w8">
 <src.rf>manual</src.rf>

@@ -50,7 +50,7 @@
 <children>
 <LM id="a-ln95048-093-p2s1Aw2">
 <m.rf>m#m-ln95048-093-p2s1Aw2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -62,11 +62,16 @@
 </LM>
 <LM id="a-ln95048-093-p2s1Aw3">
 <m.rf>m#m-ln95048-093-p2s1Aw3</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
+<comments>
+<LM type="T-layer">
+<text>cizoj. název</text>
+</LM>
+</comments>
 </LM>
 </children>
 </LM>
@@ -340,7 +345,7 @@
 <children>
 <LM id="a-ln95048-093-p2s2w24">
 <m.rf>m#m-ln95048-093-p2s2w24</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>24</ord>
 <clause_number>3</clause_number>
 <children>
@@ -488,7 +493,7 @@
 <children>
 <LM id="a-ln95048-093-p2s2w44">
 <m.rf>m#m-ln95048-093-p2s2w44</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>44</ord>
 <clause_number>4</clause_number>
 </LM>

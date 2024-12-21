@@ -19,12 +19,13 @@
 <LM id="a-ln95041-022-p1s1w1">
 <m.rf>m#m-ln95041-022-p1s1w1</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95041-022-p1s1w3">
 <m.rf>m#m-ln95041-022-p1s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -178,17 +179,19 @@
 <ord>23</ord>
 <clause_number>2</clause_number>
 <children>
-<LM id="a-ln95041-022-p2s1w20">
-<m.rf>m#m-ln95041-022-p2s1w20</m.rf>
-<afun>AuxY</afun>
-<ord>20</ord>
-<clause_number>2</clause_number>
-</LM>
 <LM id="a-ln95041-022-p2s1w21">
 <m.rf>m#m-ln95041-022-p2s1w21</m.rf>
 <afun>Atr</afun>
 <ord>21</ord>
 <clause_number>2</clause_number>
+<children>
+<LM id="a-ln95041-022-p2s1w20">
+<m.rf>m#m-ln95041-022-p2s1w20</m.rf>
+<afun>AuxZ</afun>
+<ord>20</ord>
+<clause_number>2</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-ln95041-022-p2s1w22">
 <m.rf>m#m-ln95041-022-p2s1w22</m.rf>

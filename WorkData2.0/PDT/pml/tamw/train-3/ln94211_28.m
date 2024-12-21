@@ -64,8 +64,8 @@
 <LM>w#w-ln94211-28-p1s1Aw6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-28-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -112,7 +112,7 @@
 </w.rf>
 <form>Foto</form>
 <lemma>foto</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln94211-28-p1s1Bw2">
 <src.rf>manual</src.rf>

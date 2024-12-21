@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_085_1.12.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="lk_037.12-SCzechA-lk_037-d1e3762-x2-root">
 <s.rf>m#m037-d1e3762-x2</s.rf>
@@ -25,7 +28,7 @@
 <children>
 <LM id="lk_037.12-SCzechA-m-d1t3765-2">
 <m.rf>m#m037-d1t3765-2</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>2</ord>
 </LM>
 </children>
@@ -43,15 +46,13 @@
 </LM>
 <LM id="lk_037.12-SCzechA-m-d1t3771-4">
 <m.rf>m#m037-d1t3771-4</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>7</ord>
 <children>
 <LM id="lk_037.12-SCzechA-m-d1t3771-2">
 <m.rf>m#m037-d1t3771-2</m.rf>
 <afun>Obj</afun>
 <ord>5</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -64,6 +65,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="lk_037.12-SCzechA-lk_037-d1e3766-x3-root">
 <s.rf>m#m037-d1e3766-x3</s.rf>
 <ord>0</ord>
@@ -72,11 +75,13 @@
 <m.rf>m#m037-d1t3773-1</m.rf>
 <afun>Pred</afun>
 <ord>1</ord>
-</LM>
+<children>
 <LM id="lk_037.12-SCzechA-m-d1e3766-x3-1748">
 <m.rf>m#m037-d1e3766-x3-1748</m.rf>
 <afun>AuxK</afun>
 <ord>2</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -87,19 +92,20 @@
 <LM id="lk_037.12-SCzechA-m-1749-1751">
 <m.rf>m#m037-1749-1751</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <children>
 <LM id="lk_037.12-SCzechA-m-1749-1752">
 <m.rf>m#m037-1749-1752</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="lk_037.12-SCzechA-m-1749-1753">
 <m.rf>m#m037-1749-1753</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -110,19 +116,20 @@
 <LM id="lk_037.12-SCzechA-m-1749-1750">
 <m.rf>m#m037-1749-1750</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <children>
 <LM id="lk_037.12-SCzechA-m-d1t3775-1">
 <m.rf>m#m037-d1t3775-1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="lk_037.12-SCzechA-m-d-m-d1e3766-x3-punct-punct">
 <m.rf>m#m037-d-m-d1e3766-x3-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

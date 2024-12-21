@@ -650,7 +650,7 @@
 <LM>w#w-wsj0026-001-p1s2W9</LM>
 </w.rf>
 <form>odpíráno</form>
-<lemma>odpírat</lemma>
+<lemma>odpírat_,s_^(^DD**odepírat)</lemma>
 <tag>VsNS----X-API--</tag>
 </m>
 <m id="m-wsj0026-001-p1s2W10-Ta">

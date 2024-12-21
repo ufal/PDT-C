@@ -195,7 +195,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s0W19</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.5</form>
 <lemma>1.5</lemma>
 <tag>C=-------------</tag>
@@ -641,7 +640,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s1W16</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>2.3</form>
 <lemma>2.3</lemma>
 <tag>C=-------------</tag>
@@ -1033,7 +1031,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s2W28</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.2</form>
 <lemma>1.2</lemma>
 <tag>C=-------------</tag>
@@ -1136,7 +1133,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s3W8</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>70.5</form>
 <lemma>70.5</lemma>
 <tag>C=-------------</tag>
@@ -1183,8 +1179,8 @@
 <LM>w#w-wsj2438-001-p1s3W13</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2438-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1299,7 +1295,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s3W26</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>63.3</form>
 <lemma>63.3</lemma>
 <tag>C=-------------</tag>
@@ -2152,7 +2147,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s6W15</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>11.6</form>
 <lemma>11.6</lemma>
 <tag>C=-------------</tag>
@@ -2216,7 +2210,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s6W22</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>3.10</form>
 <lemma>3.10</lemma>
 <tag>C=-------------</tag>
@@ -2244,7 +2237,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s6W25</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>3.15</form>
 <lemma>3.15</lemma>
 <tag>C=-------------</tag>
@@ -2335,7 +2327,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s6W35</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>24.4</form>
 <lemma>24.4</lemma>
 <tag>C=-------------</tag>
@@ -2417,7 +2408,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s6W44</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>18.4</form>
 <lemma>18.4</lemma>
 <tag>C=-------------</tag>
@@ -2592,8 +2582,8 @@
 <LM>w#w-wsj2438-001-p1s7W13</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2438-001-p1s7W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2901,7 +2891,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s8W15</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>9.3</form>
 <lemma>9.3</lemma>
 <tag>C=-------------</tag>
@@ -2939,8 +2928,8 @@
 <LM>w#w-wsj2438-001-p1s8W19</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2438-001-p1s8W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2956,7 +2945,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s8W21</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>2.53</form>
 <lemma>2.53</lemma>
 <tag>C=-------------</tag>
@@ -3056,7 +3044,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s8W32</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>3.2</form>
 <lemma>3.2</lemma>
 <tag>C=-------------</tag>
@@ -3176,7 +3163,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s9W7</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>6.5</form>
 <lemma>6.5</lemma>
 <tag>C=-------------</tag>
@@ -3276,7 +3262,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s9W18</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>6.1</form>
 <lemma>6.1</lemma>
 <tag>C=-------------</tag>
@@ -3559,7 +3544,6 @@
 <w.rf>
 <LM>w#w-wsj2438-001-p1s10W21</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>190.4</form>
 <lemma>190.4</lemma>
 <tag>C=-------------</tag>
@@ -3901,7 +3885,7 @@
 </w.rf>
 <form>přesáhla</form>
 <lemma>přesáhnout</lemma>
-<tag>VpQW----R-AAP--</tag>
+<tag>VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj2438-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>

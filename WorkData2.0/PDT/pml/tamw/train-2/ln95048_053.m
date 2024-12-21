@@ -230,8 +230,8 @@
 <LM>w#w-ln95048-053-p2s2w2</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-053-p2s2w3">
 <src.rf>manual</src.rf>
@@ -531,8 +531,8 @@
 <LM>w#w-ln95048-053-p2s4w3</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-053-p2s4w4">
 <src.rf>manual</src.rf>
@@ -830,8 +830,8 @@
 <LM>w#w-ln95048-053-p3s1w8</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95048-053-p3s1w9">
 <src.rf>manual</src.rf>
@@ -3228,7 +3228,7 @@
 </w.rf>
 <form>Blahopřejeme</form>
 <lemma>blahopřát</lemma>
-<tag>VB-P---1P-AAP--</tag>
+<tag>VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln95048-053-p10s2w2">
 <src.rf>manual</src.rf>

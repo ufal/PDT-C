@@ -549,7 +549,7 @@
 <LM>w#w-lnd94105-006-p1s5w19</LM>
 </w.rf>
 <form>zmrazené</form>
-<lemma>zmrazený_^(*3it)</lemma>
+<lemma>zmrazený_^(^DD**zmražený)_(*3it)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd94105-006-p1s5w20">

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_006.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -40,7 +40,7 @@
 <discourse_comment>kolekce
 Tohle vypada jako konec nakeho clanku, neni
 jasne, o cem se mluvi.</discourse_comment>
-<val_frame.rf>v#v-w7970f2</val_frame.rf>
+<val_frame.rf>v#v41oczA</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p2s2w1">
 <a>
@@ -129,7 +129,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w672f1</val_frame.rf>
+<val_frame.rf>v#v41addA</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p6s2a0">
 <nodetype>complex</nodetype>
@@ -173,7 +173,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w1162f1</val_frame.rf>
+<val_frame.rf>v#v41bamA</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p6s2a2">
 <nodetype>qcomplex</nodetype>
@@ -295,7 +295,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w9247f2</val_frame.rf>
+<val_frame.rf>v#v41qrhD</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p6s3w2">
 <a>
@@ -318,7 +318,7 @@ jasne, o cem se mluvi.</discourse_comment>
 <type>ANAF</type>
 </LM>
 </bridging>
-<val_frame.rf>v#v-w4015f1</val_frame.rf>
+<val_frame.rf>v#v41gnpA</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p6s3w1">
 <a>
@@ -440,7 +440,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w275f1</val_frame.rf>
+<val_frame.rf>v#v41lcA</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p6s3w9">
 <a>
@@ -449,6 +449,7 @@ jasne, o cem se mluvi.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -480,7 +481,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w4862f1</val_frame.rf>
+<val_frame.rf>v#v41idbB</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p6s3w11">
 <a>
@@ -514,8 +515,9 @@ jasne, o cem se mluvi.</discourse_comment>
 <lex.rf>a#a-mf930709-006-p6s3w13</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>milý</t_lemma>
+<t_lemma>mile</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>milý</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -582,7 +584,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p7s1w3">
 <a>
@@ -613,6 +615,7 @@ jasne, o cem se mluvi.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>sám</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>sám</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -699,7 +702,7 @@ jasne, o cem se mluvi.</discourse_comment>
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w7968f1</val_frame.rf>
+<val_frame.rf>v#v41ocxC</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p7s1a4">
 <nodetype>qcomplex</nodetype>
@@ -807,7 +810,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w7970f1</val_frame.rf>
+<val_frame.rf>v#v41oczC</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p7s1a1">
 <nodetype>complex</nodetype>
@@ -846,7 +849,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w4662f3</val_frame.rf>
+<val_frame.rf>v#v41htpB</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p7s1a5">
 <nodetype>qcomplex</nodetype>
@@ -869,6 +872,7 @@ jasne, o cem se mluvi.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>mít</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>hrt</deontmod>
@@ -880,7 +884,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w1855f13</val_frame.rf>
+<val_frame.rf>v#v41chlAK</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p7s1w29">
 <a>
@@ -920,8 +924,9 @@ jasne, o cem se mluvi.</discourse_comment>
 <lex.rf>a#a-mf930709-006-p7s1w31</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdo</t_lemma>
+<t_lemma>kdokoli</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>kdo</proto_lemma>
 <quot>
 <LM>
 <type>other</type>
@@ -1032,7 +1037,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>34</deepord>
-<val_frame.rf>v#v-w4551f1</val_frame.rf>
+<val_frame.rf>v#v41hnrA</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p7s1w22">
 <a>
@@ -1053,7 +1058,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>28</deepord>
-<val_frame.rf>v#v-w2471f1</val_frame.rf>
+<val_frame.rf>v#v41domA</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p7s1a2">
 <nodetype>qcomplex</nodetype>
@@ -1151,6 +1156,7 @@ jasne, o cem se mluvi.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>takový</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>takový</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -1178,7 +1184,7 @@ jasne, o cem se mluvi.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>37</deepord>
-<val_frame.rf>v#v-w737f2</val_frame.rf>
+<val_frame.rf>v#v41agaA</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p7s1w41">
 <a>
@@ -1187,6 +1193,7 @@ jasne, o cem se mluvi.</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>jaký</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>jaký</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>

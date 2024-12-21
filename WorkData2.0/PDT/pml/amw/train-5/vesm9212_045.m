@@ -358,7 +358,7 @@
 </w.rf>
 <form>Země</form>
 <lemma>země</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9212-045-p1s3w9">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-045-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-vesm9212-045-p1s9w14</LM>
 </w.rf>
 <form>hájili</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-045-p1s9w15">
@@ -2766,7 +2766,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-045-p2s3w45">
 <src.rf>manual</src.rf>
@@ -5082,7 +5082,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-045-p4s3w20">
 <src.rf>manual</src.rf>
@@ -6007,8 +6007,8 @@
 <LM>w#w-vesm9212-045-p4s7w4</LM>
 </w.rf>
 <form>navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-vesm9212-045-p4s7w5">
 <src.rf>manual</src.rf>

@@ -28,8 +28,8 @@
 <LM>w#w-cmpr9413-042-p2s1w2</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p2s1w3">
 <src.rf>manual</src.rf>
@@ -75,8 +75,8 @@
 <LM>w#w-cmpr9413-042-p3s1w4</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p3s1w5">
 <src.rf>manual</src.rf>
@@ -468,8 +468,8 @@
 <LM>w#w-cmpr9413-042-p4s3w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p4s3w11">
 <src.rf>manual</src.rf>
@@ -641,8 +641,8 @@
 <LM>w#w-cmpr9413-042-p4s4w16</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1193,8 +1193,8 @@
 <LM>w#w-cmpr9413-042-p8s2w6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p8s2w7">
 <src.rf>manual</src.rf>
@@ -1798,8 +1798,8 @@
 <LM>w#w-cmpr9413-042-p9s3w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p9s3w5">
 <src.rf>manual</src.rf>
@@ -2341,8 +2341,8 @@
 <LM>w#w-cmpr9413-042-p12s1w1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p12s1w2">
 <src.rf>manual</src.rf>
@@ -2918,8 +2918,8 @@
 <LM>w#w-cmpr9413-042-p12s6w2</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p12s6w3">
 <src.rf>manual</src.rf>
@@ -3055,8 +3055,8 @@
 <LM>w#w-cmpr9413-042-p12s7w3</LM>
 </w.rf>
 <form>totiž</form>
-<lemma>totiž-2</lemma>
-<tag>TT-------------</tag>
+<lemma>totiž-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p12s7w4">
 <src.rf>manual</src.rf>
@@ -3111,8 +3111,8 @@
 <LM>w#w-cmpr9413-042-p12s8w3</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p12s8w4">
 <src.rf>manual</src.rf>
@@ -3889,7 +3889,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p13s3w2">
 <src.rf>manual</src.rf>
@@ -4497,8 +4497,8 @@
 <LM>w#w-cmpr9413-042-p14s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p14s1w6">
 <src.rf>manual</src.rf>
@@ -4580,8 +4580,8 @@
 <LM>w#w-cmpr9413-042-p14s2w5</LM>
 </w.rf>
 <form>totiž</form>
-<lemma>totiž-2</lemma>
-<tag>TT-------------</tag>
+<lemma>totiž-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p14s2w6">
 <src.rf>manual</src.rf>
@@ -4719,8 +4719,8 @@
 <LM>w#w-cmpr9413-042-p14s4w4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p14s4w5">
 <src.rf>manual</src.rf>
@@ -4755,8 +4755,8 @@
 <LM>w#w-cmpr9413-042-p14s4w8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p14s4w9">
 <src.rf>manual</src.rf>
@@ -4901,8 +4901,8 @@
 <LM>w#w-cmpr9413-042-p14s5w7</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p14s5w8">
 <src.rf>manual</src.rf>
@@ -4975,8 +4975,8 @@
 <LM>w#w-cmpr9413-042-p14s6w4</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9413-042-p14s6w5">
 <src.rf>manual</src.rf>
@@ -5186,8 +5186,8 @@
 <LM>w#w-cmpr9413-042-p14s8w9</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p14s8w10">
 <src.rf>manual</src.rf>
@@ -5473,8 +5473,8 @@
 <LM>w#w-cmpr9413-042-p16s3w4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p16s3w5">
 <src.rf>manual</src.rf>
@@ -5583,8 +5583,8 @@
 <LM>w#w-cmpr9413-042-p16s4w4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p16s4w5">
 <src.rf>manual</src.rf>
@@ -5902,8 +5902,8 @@
 <LM>w#w-cmpr9413-042-p17s1w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p17s1w8">
 <src.rf>manual</src.rf>
@@ -6349,8 +6349,8 @@
 <LM>w#w-cmpr9413-042-p17s4w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p17s4w17">
 <src.rf>manual</src.rf>
@@ -6596,8 +6596,8 @@
 <LM>w#w-cmpr9413-042-p17s6w21</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p17s6w22">
 <src.rf>manual</src.rf>
@@ -6915,8 +6915,8 @@
 <LM>w#w-cmpr9413-042-p17s8w9</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p17s8w10">
 <src.rf>manual</src.rf>
@@ -7254,8 +7254,8 @@
 <LM>w#w-cmpr9413-042-p21s1w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-042-p21s1w10">
 <src.rf>manual</src.rf>

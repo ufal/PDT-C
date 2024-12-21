@@ -1098,8 +1098,8 @@
 <LM>w#w-ln95044-001-p6s1w15</LM>
 </w.rf>
 <form>navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-ln95044-001-p6s1w16">
 <src.rf>manual</src.rf>

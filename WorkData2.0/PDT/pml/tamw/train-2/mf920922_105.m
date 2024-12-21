@@ -75,7 +75,7 @@
 <LM>w#w-mf920922-105-p1s1w7</LM>
 </w.rf>
 <form>BELVEDÉRU</form>
-<lemma>belvedér</lemma>
+<lemma>belvedér_,s_^(^DD**belveder)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-105-p1s1w8">
@@ -158,7 +158,7 @@
 <LM>w#w-mf920922-105-p2s1w6</LM>
 </w.rf>
 <form>Belvedéru</form>
-<lemma>belvedér</lemma>
+<lemma>belvedér_,s_^(^DD**belveder)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s1w7">
@@ -176,8 +176,8 @@
 <LM>w#w-mf920922-105-p2s1w8</LM>
 </w.rf>
 <form>určitě</form>
-<lemma>určitě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>určitě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s1w9">
 <src.rf>manual</src.rf>
@@ -396,8 +396,8 @@
 <LM>w#w-mf920922-105-p2s3w2</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s3w3">
 <src.rf>manual</src.rf>
@@ -838,8 +838,8 @@
 <LM>w#w-mf920922-105-p2s8w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1166,7 +1166,7 @@
 <LM>w#w-mf920922-105-p2s10w4</LM>
 </w.rf>
 <form>neony</form>
-<lemma>neon</lemma>
+<lemma>neon_,s_^(^DD**neón)</lemma>
 <tag>NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s10w5">
@@ -1808,7 +1808,7 @@
 <LM>w#w-mf920922-105-p2s16w21</LM>
 </w.rf>
 <form>neony</form>
-<lemma>neon</lemma>
+<lemma>neon_,s_^(^DD**neón)</lemma>
 <tag>NNIP4-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s16w22">
@@ -1873,8 +1873,8 @@
 <LM>w#w-mf920922-105-p2s17w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s17w4">
 <src.rf>manual</src.rf>
@@ -2028,8 +2028,8 @@
 <LM>w#w-mf920922-105-p2s18w11</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s18w12">
 <src.rf>manual</src.rf>
@@ -2300,8 +2300,8 @@
 <LM>w#w-mf920922-105-p2s19w22</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s19w23">
 <src.rf>manual</src.rf>
@@ -2309,8 +2309,8 @@
 <LM>w#w-mf920922-105-p2s19w23</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s19w24">
 <src.rf>manual</src.rf>
@@ -2374,8 +2374,8 @@
 <LM>w#w-mf920922-105-p2s20w1</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s20w2">
 <src.rf>manual</src.rf>
@@ -2448,7 +2448,7 @@
 <LM>w#w-mf920922-105-p2s21w2</LM>
 </w.rf>
 <form>Belvedéru</form>
-<lemma>belvedér</lemma>
+<lemma>belvedér_,s_^(^DD**belveder)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s21w3">
@@ -2785,8 +2785,8 @@
 <LM>w#w-mf920922-105-p2s23Aw2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s23Aw3">
 <src.rf>manual</src.rf>
@@ -3322,8 +3322,8 @@
 <LM>w#w-mf920922-105-p2s25w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s25w6">
 <src.rf>manual</src.rf>
@@ -3596,8 +3596,8 @@
 <LM>w#w-mf920922-105-p2s27w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-105-p2s27w11">
 <src.rf>manual</src.rf>

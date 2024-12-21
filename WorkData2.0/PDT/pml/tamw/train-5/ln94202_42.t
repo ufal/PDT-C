@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_42.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -55,8 +55,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_special>caption</discourse_special>
-<val_frame.rf>v#v-w4286f1</val_frame.rf>
+<discourse_feature>caption</discourse_feature>
+<val_frame.rf>v#v41gzyD</val_frame.rf>
 <children>
 <LM id="t-ln94202-42-p1s1w3">
 <a>
@@ -154,8 +154,9 @@
 <lex.rf>a#a-ln94202-42-p1s1w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>pět</t_lemma>
+<t_lemma>pátý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>pět</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -352,7 +353,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w4760f1</val_frame.rf>
+<val_frame.rf>v#v41hyfB</val_frame.rf>
 <children>
 <LM id="t-ln94202-42-p1s2w3">
 <a>
@@ -465,7 +466,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w6948f1</val_frame.rf>
+<val_frame.rf>v#v41memB</val_frame.rf>
 <children>
 <LM id="t-ln94202-42-p1s2w10">
 <a>
@@ -543,7 +544,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w1204f2</val_frame.rf>
+<val_frame.rf>v#v41bcpD</val_frame.rf>
 <children>
 <LM id="t-ln94202-42-p1s2w14">
 <a>
@@ -553,8 +554,9 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>jenž</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>který</proto_lemma>
 <subfunctor>betw</subfunctor>
 <gram>
 <sempos>n.pron.indef</sempos>
@@ -853,7 +855,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w8827f1</val_frame.rf>
+<val_frame.rf>v#v41pvaB</val_frame.rf>
 <children>
 <LM id="t-ln94202-42-p1s3w1">
 <a>
@@ -978,6 +980,9 @@
 <LM id="t-ln94202-42-p1s3w15">
 <a>
 <lex.rf>a#a-ln94202-42-p1s3w15</lex.rf>
+<aux.rf>
+<LM>a#a-ln94202-42-p1s3w14</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>plánovat</t_lemma>
@@ -995,7 +1000,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w3462f1</val_frame.rf>
+<val_frame.rf>v#v41fmmA</val_frame.rf>
 <children>
 <LM id="t-ln94202-42-p1s3w11">
 <a>

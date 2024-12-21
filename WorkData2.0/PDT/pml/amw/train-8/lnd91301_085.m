@@ -4159,8 +4159,8 @@
 <LM>w#w-lnd91301-085-p7s8w15</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91301-085-p7s8w16">
 <src.rf>manual</src.rf>

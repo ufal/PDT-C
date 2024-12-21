@@ -220,8 +220,8 @@
 <LM>w#w-d1t2156-3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t2156-13">
 <w.rf>
@@ -840,8 +840,8 @@
 <LM>w#w-d1t2220-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t2220-3">
 <w.rf>
@@ -1630,8 +1630,8 @@
 <LM>w#w-d1t2284-5</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t2286-1">
 <w.rf>
@@ -1948,8 +1948,8 @@
 <LM>w#w-d1t2301-2</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t2304-1">
 <w.rf>
@@ -3479,8 +3479,8 @@
 <LM>w#w-d1t2451-1</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t2451-2">
 <w.rf>
@@ -3693,8 +3693,8 @@
 <LM>w#w-224-247</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t2468-3">
 <w.rf>
@@ -3767,8 +3767,8 @@
 <LM>w#w-223-253</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d1t2473-6">
 <w.rf>
@@ -4235,7 +4235,7 @@
 <LM>w#w-d1t2510-11</LM>
 </w.rf>
 <form>mikrofonu</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m148-d-id121917-punct">
@@ -4301,8 +4301,8 @@
 <LM>w#w-d1t2518-4</LM>
 </w.rf>
 <form>dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m148-d-m-d1e2511-x2-punct-punct">
 <w.rf>

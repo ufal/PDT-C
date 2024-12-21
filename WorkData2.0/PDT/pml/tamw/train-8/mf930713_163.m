@@ -233,8 +233,8 @@
 <LM>w#w-mf930713-163-p1s2w1</LM>
 </w.rf>
 <form>Přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf930713-163-p1s2w2">
 <src.rf>manual</src.rf>
@@ -1647,8 +1647,8 @@
 <LM>w#w-mf930713-163-p3s3w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-163-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1805,7 +1805,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-163-p3s5w6">
 <src.rf>manual</src.rf>

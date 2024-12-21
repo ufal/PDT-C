@@ -298,7 +298,7 @@
 </w.rf>
 <form>Francisca</form>
 <lemma>Francisco-1_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<tag>NNMS2-----A---1</tag>
 </m>
 <m id="m-wsj0616-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1065,8 +1065,8 @@
 <LM>w#w-wsj0616-001-p1s5W11</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0616-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3146,8 +3146,8 @@
 <LM>w#w-wsj0616-001-p1s15W1</LM>
 </w.rf>
 <form>Důsledkem</form>
-<lemma>důsledek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>důsledkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0616-001-p1s15W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3591,7 +3591,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0616-001-p1s16W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5735,7 +5735,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0616-001-p1s29W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6845,7 +6845,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0616-001-p1s35W3-Ta">
 <src.rf>tagger-a</src.rf>

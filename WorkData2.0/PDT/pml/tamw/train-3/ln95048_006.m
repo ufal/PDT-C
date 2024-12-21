@@ -877,8 +877,8 @@
 <LM>w#w-ln95048-006-p4s1w18</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-006-p4s1w19">
 <src.rf>manual</src.rf>

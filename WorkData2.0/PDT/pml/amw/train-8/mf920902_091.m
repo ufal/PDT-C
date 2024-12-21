@@ -392,8 +392,8 @@
 <LM>w#w-mf920902-091-p2s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920902-091-p2s2w2">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-091-p2s4Aw3">
 <src.rf>manual</src.rf>

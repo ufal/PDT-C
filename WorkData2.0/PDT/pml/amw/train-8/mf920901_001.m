@@ -1013,8 +1013,8 @@
 <LM>w#w-mf920901-001-p3s1w39</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-001-p3s1w40">
 <src.rf>manual</src.rf>
@@ -1497,7 +1497,7 @@
 </w.rf>
 <form>věnována</form>
 <lemma>věnovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-mf920901-001-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-001-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1552,8 +1552,8 @@
 <LM>w#w-mf920901-001-p4s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920901-001-p4s2w2">
 <src.rf>manual</src.rf>
@@ -2106,7 +2106,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-001-p4s3Bw6">
 <src.rf>manual</src.rf>
@@ -3023,7 +3023,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-001-p5s3Aw3">
 <src.rf>manual</src.rf>
@@ -3032,7 +3032,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920901-001-p5s3Aw4">
 <src.rf>manual</src.rf>

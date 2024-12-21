@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
  <head>
-  <schema href="tdata_c_schema.xml" />
+  <schema href="tdata_c2_schema.xml" />
   <references>
    <reffile id="a" name="adata" href="pdtsc_089_2.14.a" />
-   <reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+   <reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
   </references>
  </head>
+ <meta/>
  <trees>
   <LM id="ak_042.14-SCzechT-ak_042-d1e3434-x2-root">
    <atree.rf>a#ak_042.14-SCzechA-ak_042-d1e3434-x2-root</atree.rf>
@@ -31,7 +32,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w406f1</val_frame.rf>
+     <val_frame.rf>v#v41rbA</val_frame.rf>
      <children>
       <LM id="ak_042.14-SCzechT-m-d1t3437-1x3">
        <nodetype>complex</nodetype>
@@ -92,7 +93,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>1</deepord>
-       <val_frame.rf>v#v-w3536f2_ZU</val_frame.rf>
+       <val_frame.rf>v#v41fqcA</val_frame.rf>
        <children>
         <LM id="ak_042.14-SCzechT-ak_042-d1e3438-x2-roota2">
          <nodetype>complex</nodetype>
@@ -163,7 +164,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>7</deepord>
-       <val_frame.rf>v#v-w5158f1</val_frame.rf>
+       <val_frame.rf>v#v41isgP</val_frame.rf>
        <children>
         <LM id="ak_042.14-SCzechT-m-d1t3441-4">
          <a>
@@ -204,7 +205,7 @@
           <negation>neg0</negation>
          </gram>
          <deepord>10</deepord>
-         <val_frame.rf>v#v-w8426f1</val_frame.rf>
+         <val_frame.rf>v#v41ozzA</val_frame.rf>
          <children>
           <LM id="ak_042.14-SCzechT-ak_042-d1e3438-x2-roota4">
            <nodetype>qcomplex</nodetype>
@@ -271,6 +272,7 @@
      <is_generated>1</is_generated>
      <t_lemma>#EmpVerb</t_lemma>
      <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
      <deepord>1</deepord>
      <children>
       <LM id="ak_042.14-SCzechT-m-d1t3451-1">
@@ -304,6 +306,7 @@
      <is_generated>1</is_generated>
      <t_lemma>#EmpVerb</t_lemma>
      <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
      <deepord>1</deepord>
      <children>
       <LM id="ak_042.14-SCzechT-m-d1t3453-1">

@@ -180,8 +180,8 @@
 <LM>w#w-wsj1141-001-p1s1W4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1141-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -995,8 +995,8 @@
 <LM>w#w-wsj1141-001-p1s8W1</LM>
 </w.rf>
 <form>Přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1141-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1220,8 +1220,8 @@
 <LM>w#w-wsj1141-001-p1s8W26</LM>
 </w.rf>
 <form>blíže</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------2A---1</tag>
+<lemma>blíže_,s_^(^DD**blíž)</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-wsj1141-001-p1s8W27-Ta">
 <src.rf>tagger-a</src.rf>

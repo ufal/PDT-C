@@ -477,8 +477,8 @@
 <LM>w#w-ln95049-124-p2s2w18</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-124-p2s2w19">
 <src.rf>manual</src.rf>
@@ -1375,8 +1375,8 @@
 <LM>w#w-ln95049-124-p2s8w5</LM>
 </w.rf>
 <form>cestou</form>
-<lemma>cesta</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>cestou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95049-124-p2s8w6">
 <src.rf>manual</src.rf>

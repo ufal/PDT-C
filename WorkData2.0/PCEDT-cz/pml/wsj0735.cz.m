@@ -297,7 +297,7 @@
 <LM>w#w-wsj0735-001-p1s1W8</LM>
 </w.rf>
 <form>hájil</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0735-001-p1s1W9-Ta">
@@ -1205,8 +1205,8 @@
 <LM>w#w-wsj0735-001-p1s5W8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0735-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2137,7 +2137,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-wsj0735-001-p1s7W58-Ta">
 <src.rf>tagger-a</src.rf>

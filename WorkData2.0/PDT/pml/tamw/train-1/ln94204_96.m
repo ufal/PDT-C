@@ -940,7 +940,7 @@
 <LM>w#w-ln94204-96-p2s6w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-ln94204-96-p2s6w5">
@@ -994,8 +994,8 @@
 <LM>w#w-ln94204-96-p2s6w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-96-p2s6w11">
 <src.rf>manual</src.rf>

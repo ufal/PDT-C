@@ -277,8 +277,8 @@
 <LM>w#w-cmpr9417-021-p3s3w8</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-021-p3s3w9">
 <src.rf>manual</src.rf>

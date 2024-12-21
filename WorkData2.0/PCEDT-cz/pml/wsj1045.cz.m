@@ -589,7 +589,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1045-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -732,8 +732,8 @@
 <LM>w#w-wsj1045-001-p1s2W32</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1045-001-p1s2W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -896,8 +896,8 @@
 <LM>w#w-wsj1045-001-p1s3W15</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1045-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>

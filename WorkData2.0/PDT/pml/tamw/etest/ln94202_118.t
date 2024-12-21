@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94202_118.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94202-118-p1s1w2">
 <a>
@@ -119,7 +119,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w8811f1</val_frame.rf>
+<val_frame.rf>v#v41pugA</val_frame.rf>
 <children>
 <LM id="t-ln94202-118-p2s1Bw8">
 <a>
@@ -395,7 +395,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w7703f1</val_frame.rf>
+<val_frame.rf>v#v41npvB</val_frame.rf>
 <children>
 <LM id="t-ln94202-118-p2s2w2">
 <a>
@@ -478,6 +478,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tři</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tři</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -552,7 +553,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w6086f1</val_frame.rf>
+<val_frame.rf>v#v41kpgC</val_frame.rf>
 <children>
 <LM id="t-ln94202-118-p2s2w15">
 <a>
@@ -680,13 +681,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-118-p2s2w21</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w7406f1</val_frame.rf>
+<val_frame.rf>v#v41nbkA</val_frame.rf>
 <children>
 <LM id="t-ln94202-118-p2s2w25">
 <a>
@@ -731,7 +733,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w5046f1</val_frame.rf>
+<val_frame.rf>v#v41indA</val_frame.rf>
 <children>
 <LM id="t-ln94202-118-p2s2a1">
 <nodetype>qcomplex</nodetype>
@@ -759,7 +761,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
-<val_frame.rf>v#v-w9859f1</val_frame.rf>
+<val_frame.rf>v#v41rwfB</val_frame.rf>
 <children>
 <LM id="t-ln94202-118-p2s2a2">
 <nodetype>qcomplex</nodetype>
@@ -829,7 +831,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9860f1</val_frame.rf>
+<val_frame.rf>v#v41rwgB</val_frame.rf>
 <children>
 <LM id="t-ln94202-118-p2s3w2">
 <a>
@@ -883,8 +885,9 @@
 <lex.rf>a#a-ln94202-118-p2s3w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>vážný</t_lemma>
+<t_lemma>vážně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>vážný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -915,7 +918,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w8538f1</val_frame.rf>
+<val_frame.rf>v#v41pgaB</val_frame.rf>
 <children>
 <LM id="t-ln94202-118-p2s3a0">
 <a>
@@ -962,6 +965,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>dva</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>

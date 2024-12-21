@@ -496,7 +496,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-ln94202-46-p2s2w22">
 <src.rf>manual</src.rf>

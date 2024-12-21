@@ -1362,8 +1362,8 @@
 <LM>w#w-wsj2072-001-p1s5W22</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2072-001-p1s5W23-Ta">
 <src.rf>tagger-a</src.rf>

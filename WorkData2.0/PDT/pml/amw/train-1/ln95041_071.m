@@ -122,7 +122,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95041-071-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1511,8 +1511,8 @@
 <LM>w#w-ln95041-071-p4s8w6</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-ln95041-071-p4s8w7">
 <src.rf>manual</src.rf>
@@ -1559,7 +1559,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-071-p4s9w2">
 <src.rf>manual</src.rf>
@@ -1849,7 +1849,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-071-p4s10w22">
 <src.rf>manual</src.rf>
@@ -2115,7 +2115,7 @@
 <LM>w#w-ln95041-071-p4s13w6</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-071-p4s13w7">
@@ -2801,7 +2801,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-071-p5s4w4">
 <src.rf>manual</src.rf>

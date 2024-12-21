@@ -38,7 +38,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-ln94206-110-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-ln94206-110-p1s1Aw11</LM>
 </w.rf>
 <form>dohližitelem</form>
-<lemma>dohližitel</lemma>
+<lemma>dohližitel_,s_^(^DD**dohlížitel)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln94206-110-p1s1Aw12">
@@ -127,8 +127,8 @@
 <LM>w#w-ln94206-110-p1s1Aw13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-110-p1s1Aw14">
 <src.rf>manual</src.rf>

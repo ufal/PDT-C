@@ -661,8 +661,8 @@
 <LM>w#w-ln95046-083-p3s1w15</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95046-083-p3s1w16">
 <src.rf>manual</src.rf>
@@ -688,8 +688,8 @@
 <LM>w#w-ln95046-083-p3s1w18</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95046-083-p3s1w19">
 <src.rf>manual</src.rf>

@@ -131,8 +131,8 @@
 <LM>w#w-ln95047-112-p2s1Bw7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-112-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-ln95047-112-p2s2w7</LM>
 </w.rf>
 <form>dohodovacího</form>
-<lemma>dohodovací_^(*2t)</lemma>
+<lemma>dohodovací_^(*2t)_(*2t-2)</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-ln95047-112-p2s2w8">
@@ -358,8 +358,8 @@
 <LM>w#w-ln95047-112-p2s2w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-112-p2s2w22">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-112-p2s4w2">
 <src.rf>manual</src.rf>

@@ -678,7 +678,7 @@
 </w.rf>
 <form>státy</form>
 <lemma>stát-1_^(státní_útvar)</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-wsj2214-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1891,8 +1891,8 @@
 <LM>w#w-wsj2214-001-p1s6W19</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2214-001-p1s6W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2375,7 +2375,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2214-001-p1s9W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2538,8 +2538,8 @@
 <LM>w#w-wsj2214-001-p1s10W14</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-2</lemma>
-<tag>TT-------------</tag>
+<lemma>již-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2214-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3019,8 +3019,8 @@
 <LM>w#w-wsj2214-001-p1s12W9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2214-001-p1s12W10-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0644.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
+<meta/>
 <trees>
 <LM id="T-wsj0644-001-p1s0">
 <atree.rf>a#a-wsj0644-001-p1s0</atree.rf>
@@ -22,11 +23,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>jmenovat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w1344f1</val_frame.rf>
+<val_frame.rf>v#v41biqD</val_frame.rf>
 <children>
 <LM id="T-wsj0644-001-p1s0a27">
 <nodetype>qcomplex</nodetype>
@@ -254,6 +256,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -320,11 +323,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>nahrazovat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w2020f2</val_frame.rf>
+<val_frame.rf>v#v41cqhC</val_frame.rf>
 <children>
 <LM id="T-wsj0644-001-p1s1a3">
 <a>
@@ -363,6 +367,9 @@
 <nodetype>complex</nodetype>
 <t_lemma>45</t_lemma>
 <functor>RSTR</functor>
+<gram>
+<sempos>adj.quant.def</sempos>
+</gram>
 <deepord>1</deepord>
 </LM>
 </children>
@@ -400,6 +407,9 @@
 <nodetype>complex</nodetype>
 <t_lemma>66</t_lemma>
 <functor>RSTR</functor>
+<gram>
+<sempos>adj.quant.def</sempos>
+</gram>
 <deepord>5</deepord>
 </LM>
 </children>
@@ -444,6 +454,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 </gram>
@@ -464,7 +475,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w2718f1</val_frame.rf>
+<val_frame.rf>v#v41ealA</val_frame.rf>
 <children>
 <LM id="T-wsj0644-001-p1s1a14">
 <a>
@@ -553,7 +564,22 @@
 <sempos>v</sempos>
 </gram>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w5388f1</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>T-wsj0644-001-p1s1a11</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
+<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>T-wsj0644-001-p1s1a1</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41jebB</val_frame.rf>
 <children>
 <LM id="T-wsj0644-001-p1s1a22">
 <a>

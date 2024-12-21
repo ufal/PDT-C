@@ -141,7 +141,7 @@
 <LM>w#w-ln95044-028-p2s1Bw8</LM>
 </w.rf>
 <form>paraguayského</form>
-<lemma>paraguayský</lemma>
+<lemma>paraguayský_,s_^(^DD**paraguajský)</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-ln95044-028-p2s1Bw9">

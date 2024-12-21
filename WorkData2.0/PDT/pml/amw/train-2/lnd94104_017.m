@@ -341,8 +341,8 @@
 <LM>w#w-lnd94104-017-p1s4w9</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-017-p1s4w10">
 <src.rf>manual</src.rf>

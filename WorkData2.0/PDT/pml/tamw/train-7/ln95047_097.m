@@ -1707,7 +1707,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln95047-097-p5s2w3">
 <src.rf>manual</src.rf>

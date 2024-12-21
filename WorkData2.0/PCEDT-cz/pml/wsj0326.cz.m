@@ -614,8 +614,8 @@
 <LM>w#w-wsj0326-001-p1s2W3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0326-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -839,8 +839,8 @@
 <LM>w#w-wsj0326-001-p1s2W28</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj0326-001-p1s2W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1057,8 +1057,8 @@
 <LM>w#w-wsj0326-001-p1s3W15</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0326-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2373,8 +2373,8 @@
 <LM>w#w-wsj0326-001-p1s8W13</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0326-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2383,7 +2383,7 @@
 </w.rf>
 <form>sponzoruje</form>
 <lemma>sponzorovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0326-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2519,7 +2519,7 @@
 <LM>w#w-wsj0326-001-p1s9W5</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať</lemma>
+<lemma>ať-3</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj0326-001-p1s9W6-Ta">
@@ -4214,7 +4214,7 @@
 <LM>w#w-wsj0326-001-p1s15W7</LM>
 </w.rf>
 <form>medellinská</form>
-<lemma>medellinský</lemma>
+<lemma>medellinský_,s_^(^DD**medellínský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-wsj0326-001-p1s15W8-Ta">
@@ -4623,8 +4623,8 @@
 <LM>w#w-wsj0326-001-p1s17W15</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj0326-001-p1s17W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4632,8 +4632,8 @@
 <LM>w#w-wsj0326-001-p1s17W16</LM>
 </w.rf>
 <form>černým</form>
-<lemma>černý_;o</lemma>
-<tag>AAMP3----1A----</tag>
+<lemma>černý-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-wsj0326-001-p1s17W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5286,8 +5286,8 @@
 <LM>w#w-wsj0326-001-p1s20W16</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0326-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>

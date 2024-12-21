@@ -210,8 +210,8 @@
 <LM>w#w-mf920924-048-p2s1w20</LM>
 </w.rf>
 <form>účinkující</form>
-<lemma>účinkující_^(*5ovat)</lemma>
-<tag>AGMP4-----A----</tag>
+<lemma>účinkující-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-mf920924-048-p2s1w21">
 <src.rf>manual</src.rf>

@@ -1058,7 +1058,7 @@
 </w.rf>
 <form>věnovali</form>
 <lemma>věnovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-mf920925-118-p4s3w22">
 <src.rf>manual</src.rf>

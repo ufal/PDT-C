@@ -497,8 +497,8 @@
 <LM>w#w-wsj1873-001-p1s2W4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1873-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -551,8 +551,8 @@
 <LM>w#w-wsj1873-001-p1s2W10</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1873-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1015,7 +1015,7 @@
 </w.rf>
 <form>distribuovali</form>
 <lemma>distribuovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj1873-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1253,7 +1253,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1873-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>

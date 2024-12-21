@@ -477,7 +477,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-27-p3s1w11">
 <src.rf>manual</src.rf>
@@ -602,8 +602,8 @@
 <LM>w#w-ln94211-27-p3s1w24</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-27-p3s1w25">
 <src.rf>manual</src.rf>
@@ -685,8 +685,8 @@
 <LM>w#w-ln94211-27-p3s2w5</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-27-p3s2w6">
 <src.rf>manual</src.rf>

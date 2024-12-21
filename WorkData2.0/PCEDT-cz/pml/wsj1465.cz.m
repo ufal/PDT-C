@@ -1291,8 +1291,8 @@
 <LM>w#w-wsj1465-001-p1s3W32</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1465-001-p1s3W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1629,7 +1629,7 @@
 </w.rf>
 <form>Matisse</form>
 <lemma>Matisse_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1465-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1883,8 +1883,8 @@
 <LM>w#w-wsj1465-001-p1s6W10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1465-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>

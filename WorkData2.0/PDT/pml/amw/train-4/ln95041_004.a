@@ -57,7 +57,7 @@
 <afun>Atr</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-ln95041-004-p1s1w6">
 <m.rf>m#m-ln95041-004-p1s1w6</m.rf>
 <afun>AuxP</afun>
@@ -69,8 +69,6 @@
 <afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -130,7 +128,7 @@
 </LM>
 <LM id="a-ln95041-004-p1s1w17">
 <m.rf>m#m-ln95041-004-p1s1w17</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>17</ord>
 <clause_number>1</clause_number>
 <children>

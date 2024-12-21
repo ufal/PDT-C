@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0014.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
+<meta/>
 <trees>
 <LM id="T-wsj0014-001-p1s0">
 <atree.rf>a#a-wsj0014-001-p1s0</atree.rf>
@@ -22,20 +23,18 @@
 <nodetype>complex</nodetype>
 <t_lemma>zvolit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>33</deepord>
-<val_frame.rf>v#v-w9986f2</val_frame.rf>
+<val_frame.rf>v#v41sciB</val_frame.rf>
 <children>
 <LM id="T-wsj0014-001-p1s0a46">
-<nodetype>complex</nodetype>
+<nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Gen</t_lemma>
 <functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
 <deepord>1</deepord>
 </LM>
 <LM id="T-wsj0014-001-p1s0a11">
@@ -179,6 +178,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <deepord>12</deepord>
 <children>
 <LM id="T-wsj0014-001-p1s0a22">
@@ -188,9 +188,6 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Toys</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>13</deepord>
 </LM>
 <LM id="T-wsj0014-001-p1s0a49">
@@ -346,6 +343,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <deepord>28</deepord>
 <children>
 <LM id="T-wsj0014-001-p1s0a57">
@@ -425,6 +423,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -519,11 +518,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>nahradit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w2014f1</val_frame.rf>
+<val_frame.rf>v#v41cqbB</val_frame.rf>
 <children>
 <LM id="T-wsj0014-001-p1s1a33">
 <nodetype>complex</nodetype>
@@ -682,6 +682,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <deepord>13</deepord>
 <children>
 <LM id="T-wsj0014-001-p1s1a15">
@@ -700,10 +701,9 @@
 <nodetype>fphr</nodetype>
 <t_lemma>City</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>15</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -720,7 +720,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w2682f4_ZU</val_frame.rf>
+<val_frame.rf>v#v41dyrC</val_frame.rf>
 <children>
 <LM id="T-wsj0014-001-p1s1a18">
 <a>
@@ -729,6 +729,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 </gram>
@@ -751,8 +752,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -858,6 +857,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>USA</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 </gram>

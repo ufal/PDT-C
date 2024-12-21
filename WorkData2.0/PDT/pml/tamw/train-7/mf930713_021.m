@@ -131,7 +131,7 @@
 <LM>w#w-mf930713-021-p2s1Bw2</LM>
 </w.rf>
 <form>baseballovým</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAIS7----1A----</tag>
 </m>
 <m id="m-mf930713-021-p2s1Bw3">
@@ -448,7 +448,7 @@
 <LM>w#w-mf930713-021-p2s2w15</LM>
 </w.rf>
 <form>baseballovém</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-mf930713-021-p2s2w16">
@@ -777,7 +777,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-021-p2s5w2">
 <src.rf>manual</src.rf>

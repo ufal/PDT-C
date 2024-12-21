@@ -237,7 +237,7 @@
 <LM>w#w-ln95049-069-p2s1w18</LM>
 </w.rf>
 <form>Cavaka</form>
-<lemma>Cavako_;Y_,s_^(^DD**Cavaco)</lemma>
+<lemma>Cavaco_;Y</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-069-p2s1w19">
@@ -1454,8 +1454,8 @@
 <LM>w#w-ln95049-069-p4s2w14</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-069-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1902,7 +1902,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-069-p4s5w9">
 <src.rf>manual</src.rf>

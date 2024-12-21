@@ -142,8 +142,8 @@
 <LM>w#w-d1t1330-1</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
-<tag>PDXXX----------</tag>
+<lemma>ten</lemma>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m124-d1t1330-2">
 <w.rf>
@@ -259,7 +259,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m124-d1t1330-21">
 <w.rf>
@@ -414,8 +414,8 @@
 <LM>w#w-d1t1338-5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1338-6">
 <w.rf>
@@ -570,7 +570,7 @@
 </w.rf>
 <form>třídy</form>
 <lemma>třída</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m124-d1t1338-29">
 <w.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-d1t1340-13</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1340-17">
@@ -839,8 +839,8 @@
 <LM>w#w-d1t1340-31</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1340-32">
 <w.rf>
@@ -2149,8 +2149,8 @@
 <LM>w#w-d1t1377-19</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1377-20">
 <w.rf>
@@ -2753,8 +2753,8 @@
 <LM>w#w-d1t1391-9</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1391-10">
 <w.rf>
@@ -3193,8 +3193,8 @@
 <LM>w#w-d1t1401-12</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1401-13">
 <w.rf>
@@ -3719,8 +3719,8 @@
 <LM>w#w-d1t1421-15</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1421-16">
 <w.rf>

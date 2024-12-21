@@ -1271,7 +1271,7 @@
 </w.rf>
 <form>rekonstruovat</form>
 <lemma>rekonstruovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf920924-017-p2s8w17">
 <src.rf>manual</src.rf>
@@ -2179,7 +2179,7 @@
 <LM>w#w-mf920924-017-p2s13Bw11</LM>
 </w.rf>
 <form>seženeme</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VB-P---1P-AAP--</tag>
 </m>
 <m id="m-mf920924-017-p2s13Bw12">

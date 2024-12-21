@@ -2569,7 +2569,7 @@
 <LM>w#w-vesm9211-011-p8s7w21</LM>
 </w.rf>
 <form>zrezivěly</form>
-<lemma>zrezivět</lemma>
+<lemma>zrezivět_,s_^(^DD**zrezavět)</lemma>
 <tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-011-p8s7w22">
@@ -2697,7 +2697,7 @@
 <LM>w#w-vesm9211-011-p8s8w13</LM>
 </w.rf>
 <form>zmrzačenou</form>
-<lemma>zmrzačený_^(*2t)_(*3it)</lemma>
+<lemma>zmrzačený_^(*3it)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-vesm9211-011-p8s8w14">

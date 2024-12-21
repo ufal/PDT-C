@@ -3054,7 +3054,7 @@
 <LM>w#w-mf920924-053-p6s6w8</LM>
 </w.rf>
 <form>mnohaměsíční</form>
-<lemma>mnohaměsíční</lemma>
+<lemma>mnohaměsíční_,s_^(^DD**mnohoměsíční)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-mf920924-053-p6s6w9">

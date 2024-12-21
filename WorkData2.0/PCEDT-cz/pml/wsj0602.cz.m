@@ -1443,8 +1443,8 @@
 <LM>w#w-wsj0602-001-p1s11W9</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0602-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1453,7 +1453,7 @@
 </w.rf>
 <form>korporace</form>
 <lemma>korporace</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0602-001-p1s11W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5365,7 +5365,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0602-001-p1s23W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5789,8 +5789,8 @@
 <LM>w#w-wsj0602-001-p1s24W29</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0602-001-p1s24W30-Ta">
 <src.rf>tagger-a</src.rf>

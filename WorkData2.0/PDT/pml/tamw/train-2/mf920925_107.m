@@ -538,8 +538,8 @@
 <LM>w#w-mf920925-107-p2s3w20</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-107-p2s3w21">
 <src.rf>manual</src.rf>
@@ -920,8 +920,8 @@
 <LM>w#w-mf920925-107-p3s2w9</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920925-107-p3s2w10">
 <src.rf>manual</src.rf>

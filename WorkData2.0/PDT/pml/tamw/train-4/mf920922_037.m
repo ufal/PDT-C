@@ -77,8 +77,8 @@
 <LM>w#w-mf920922-037-p2s2w3</LM>
 </w.rf>
 <form>recepční</form>
-<lemma>recepční-2</lemma>
-<tag>AAFS2----1A----</tag>
+<lemma>recepční-3</lemma>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-037-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1005,8 +1005,8 @@
 <LM>w#w-mf920922-037-p2s6Bw19</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-037-p2s6Bw20">
 <src.rf>manual</src.rf>
@@ -1108,7 +1108,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-037-p2s7w5">
 <src.rf>manual</src.rf>

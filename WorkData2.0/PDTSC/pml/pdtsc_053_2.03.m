@@ -348,7 +348,7 @@
 <LM>w#w-d1t713-8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m121-d1t713-9">
@@ -1046,7 +1046,7 @@
 </w.rf>
 <form>vdala</form>
 <lemma>vdát</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m121-d1t752-8">
 <w.rf>
@@ -1883,8 +1883,8 @@
 <LM>w#w-d1t790-2</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m121-d1t790-3">
 <w.rf>
@@ -2717,7 +2717,7 @@
 <LM>w#w-d1t815-7</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m121-d-id96759-punct">
@@ -2951,8 +2951,8 @@
 <LM>w#w-d1t821-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m121-d1t821-1">
 <w.rf>
@@ -3349,8 +3349,8 @@
 <LM>w#w-d1t837-4</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m121-d1t837-5">
 <w.rf>
@@ -3920,7 +3920,7 @@
 </w.rf>
 <form>vdala</form>
 <lemma>vdát</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m121-d1e852-x2-279">
 <w.rf>
@@ -4519,8 +4519,8 @@
 <LM>w#w-d1t870-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m121-d1t870-5">
 <w.rf>
@@ -4544,7 +4544,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m121-d1t870-17">
 <w.rf>
@@ -5114,7 +5114,7 @@
 </w.rf>
 <form>noční</form>
 <lemma>noční</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>AAFS2----1A----</tag>
 </m>
 <m id="m121-d1t885-5">
 <w.rf>
@@ -5219,7 +5219,7 @@
 <LM>w#w-d1t889-6</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m121-d1t889-7">

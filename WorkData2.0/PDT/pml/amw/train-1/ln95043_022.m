@@ -1199,8 +1199,8 @@
 <LM>w#w-ln95043-022-p2s4w8</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-022-p2s4w9">
 <src.rf>manual</src.rf>
@@ -4043,7 +4043,7 @@
 </w.rf>
 <form>angažovat</form>
 <lemma>angažovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95043-022-p2s21w9">
 <src.rf>manual</src.rf>

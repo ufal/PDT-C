@@ -1299,7 +1299,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-009-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1389,7 +1389,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-009-p3s1w31">
 <src.rf>manual</src.rf>
@@ -2408,7 +2408,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-009-p5s2w15">
 <src.rf>manual</src.rf>

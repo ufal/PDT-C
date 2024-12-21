@@ -389,7 +389,7 @@
 <LM>w#w-wsj2114-001-p1s2W8</LM>
 </w.rf>
 <form>opominuty</form>
-<lemma>opominout</lemma>
+<lemma>opominout_,s_^(^DD**opomenout)</lemma>
 <tag>VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2114-001-p1s2W9-Ta">

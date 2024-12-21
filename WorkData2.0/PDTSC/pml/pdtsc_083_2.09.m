@@ -421,7 +421,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m114-d1t2553-12">
 <w.rf>
@@ -628,8 +628,8 @@
 <LM>w#w-d1t2576-2</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m114-d1t2578-1">
 <w.rf>
@@ -856,8 +856,8 @@
 <LM>w#w-d1t2585-1</LM>
 </w.rf>
 <form>aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t2585-4">
 <w.rf>
@@ -1156,8 +1156,8 @@
 <LM>w#w-d1t2596-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t2596-4">
 <w.rf>
@@ -1476,7 +1476,7 @@
 <LM>w#w-d1t2606-10</LM>
 </w.rf>
 <form>Opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m114-d1t2606-11">
@@ -1584,8 +1584,8 @@
 <LM>w#w-d1t2615-7</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t2615-8">
 <w.rf>
@@ -2417,7 +2417,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m114-d1t2668-15">
 <w.rf>
@@ -2659,7 +2659,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t2679-15">
 <w.rf>
@@ -3482,8 +3482,8 @@
 <LM>w#w-d1t2712-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t2712-5">
 <w.rf>
@@ -4216,8 +4216,8 @@
 <LM>w#w-d1t2749-1</LM>
 </w.rf>
 <form>Zkrátka</form>
-<lemma>zkrátka-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zkrátka-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t2749-3">
 <w.rf>
@@ -4379,7 +4379,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d-id179655-punct">
 <w.rf>

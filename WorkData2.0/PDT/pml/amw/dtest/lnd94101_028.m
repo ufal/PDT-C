@@ -639,8 +639,8 @@
 <LM>w#w-lnd94101-028-p1s4w2</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-028-p1s4w3">
 <src.rf>manual</src.rf>

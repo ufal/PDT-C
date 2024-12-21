@@ -238,7 +238,7 @@
 </w.rf>
 <form>rekonstruovat</form>
 <lemma>rekonstruovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94202-64-p1s2w13">
 <src.rf>manual</src.rf>

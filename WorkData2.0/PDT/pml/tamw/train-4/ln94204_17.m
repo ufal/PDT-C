@@ -480,8 +480,8 @@
 <LM>w#w-ln94204-17-p3s1w9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-17-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1306,8 +1306,8 @@
 <LM>w#w-ln94204-17-p4s1w11</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-17-p4s1w12">
 <src.rf>manual</src.rf>

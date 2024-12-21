@@ -608,8 +608,8 @@
 <LM>w#w-wsj1863-001-p1s3W1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1863-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1818,8 +1818,8 @@
 <LM>w#w-wsj1863-001-p1s9W18</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1863-001-p1s9W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2165,7 +2165,7 @@
 </w.rf>
 <form>obchodování</form>
 <lemma>obchodování_^(*3at)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj1863-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2174,7 +2174,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1863-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2547,7 +2547,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj1863-001-p1s13W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3780,7 +3780,7 @@
 <LM>w#w-wsj1863-001-p1s18W5</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj1863-001-p1s18W6-Ta">
@@ -3987,8 +3987,8 @@
 <LM>w#w-wsj1863-001-p1s18W28</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1863-001-p1s18W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4895,7 +4895,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1863-001-p1s21W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5541,7 +5541,6 @@
 <w.rf>
 <LM>w#w-wsj1863-001-p1s25W3</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>10.10</form>
 <lemma>10.10</lemma>
 <tag>C=-------------</tag>

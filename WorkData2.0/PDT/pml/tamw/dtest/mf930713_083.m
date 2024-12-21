@@ -403,8 +403,8 @@
 <LM>w#w-mf930713-083-p2s2w2</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-083-p2s2w3">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-083-p3s2w8">
 <src.rf>manual</src.rf>

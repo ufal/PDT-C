@@ -1182,8 +1182,8 @@
 <LM>w#w-jh_20-SCzechM-p2111-s1-w1</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_20-SCzechM-p2111-s1-w2">
 <w.rf>
@@ -1246,8 +1246,8 @@
 <LM>w#w-jh_20-SCzechM-p2111-s1-w9</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-2_^(cože;_ale_co)</lemma>
-<tag>TT-------------</tag>
+<lemma>co-1</lemma>
+<tag>PQ--1----------</tag>
 </m>
 <m id="jh_20-SCzechM-p2111-s1-w10">
 <w.rf>
@@ -2245,8 +2245,8 @@
 <LM>w#w-jh_20-SCzechM-p2136-s1-w2</LM>
 </w.rf>
 <form>tu</form>
-<lemma>ten</lemma>
-<tag>PDFS4----------</tag>
+<lemma>tu-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="jh_20-SCzechM-p2136-s1-w3">
 <w.rf>
@@ -3998,8 +3998,8 @@
 <LM>w#w-jh_20-SCzechM-p2156-s1-w17</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_20-SCzechM-p2156-s1-w18">
 <w.rf>
@@ -4191,7 +4191,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="jh_20-SCzechM-p2156-s1-w42">
 <w.rf>
@@ -4215,7 +4215,7 @@
 </w.rf>
 <form>řešení</form>
 <lemma>řešení_^(*3it)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="jh_20-SCzechM-p2156-s1-w45">
 <w.rf>
@@ -4909,7 +4909,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_20-SCzechM-p2164-s1-w34">
 <w.rf>
@@ -6184,7 +6184,7 @@
 <LM>w#w-jh_20-SCzechM-p2192-s1-w3</LM>
 </w.rf>
 <form>péro</form>
-<lemma>péro</lemma>
+<lemma>péro_,s_^(^DD**pero)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="jh_20-SCzechM-p2192-s1-w4">

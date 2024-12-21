@@ -86,8 +86,8 @@
 <LM>w#w-d1t1220-2</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m111-d1t1220-4">
 <w.rf>
@@ -185,15 +185,15 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t1222-5">
 <w.rf>
 <LM>w#w-d1t1222-5</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t1222-6">
 <w.rf>
@@ -376,8 +376,8 @@
 <LM>w#w-d1t1233-3</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t1233-6">
 <w.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-d1t1237-14</LM>
 </w.rf>
 <form>nelítalo</form>
-<lemma>lítat</lemma>
+<lemma>lítat_,s_^(^DD**létat)</lemma>
 <tag>VpNS----R-NAI--</tag>
 </m>
 <m id="m111-d1t1237-15">
@@ -1683,8 +1683,8 @@
 <LM>w#w-d1t1283-9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t1283-10">
 <w.rf>
@@ -1903,7 +1903,7 @@
 </w.rf>
 <form>Věnovala</form>
 <lemma>věnovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m111-d1t1287-8">
 <w.rf>
@@ -1942,8 +1942,8 @@
 <LM>w#w-d1t1287-11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m111-d1t1287-12">
 <w.rf>
@@ -2840,8 +2840,8 @@
 <LM>w#w-d1t1346-3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m111-d1t1346-4">
 <w.rf>

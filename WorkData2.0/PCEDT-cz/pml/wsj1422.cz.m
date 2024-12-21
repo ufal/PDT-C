@@ -3991,7 +3991,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1422-001-p1s18W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4109,8 +4109,8 @@
 <LM>w#w-wsj1422-001-p1s19W6</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1422-001-p1s19W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4173,7 +4173,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1422-001-p1s19W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4527,8 +4527,8 @@
 <LM>w#w-wsj1422-001-p1s21W1</LM>
 </w.rf>
 <form>Proto</form>
-<lemma>proto-2_^(proto_že)</lemma>
-<tag>Db-------------</tag>
+<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1422-001-p1s21W2-Ta">
 <src.rf>tagger-a</src.rf>

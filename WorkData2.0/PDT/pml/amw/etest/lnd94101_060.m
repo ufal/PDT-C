@@ -783,8 +783,8 @@
 <LM>w#w-lnd94101-060-p1s5w26</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94101-060-p1s5w27">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-060-p1s6w4">
 <src.rf>manual</src.rf>
@@ -1303,7 +1303,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-060-p1s8w4">
 <src.rf>manual</src.rf>

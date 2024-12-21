@@ -178,8 +178,8 @@
 <LM>w#w-vesm9212-011-p4s1w8</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9212-011-p4s1w9">
 <src.rf>manual</src.rf>
@@ -504,8 +504,8 @@
 <LM>w#w-vesm9212-011-p4s2w10</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-011-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1825,7 +1825,7 @@
 <LM>w#w-vesm9212-011-p6s2w9</LM>
 </w.rf>
 <form>Jiráskově</form>
-<lemma>Jiráskův_;Y_^(*3ek)</lemma>
+<lemma>Jiráskův_;Y_^(*2o)_(*3ek)</lemma>
 <tag>AUNS6M---------</tag>
 </m>
 <m id="m-vesm9212-011-p6s2w10">
@@ -1952,7 +1952,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-vesm9212-011-p6s2w25">
 <src.rf>manual</src.rf>

@@ -440,7 +440,7 @@
 </w.rf>
 <form>napomoci</form>
 <lemma>napomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95046-061-p2s2w20">
 <src.rf>manual</src.rf>

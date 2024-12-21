@@ -251,8 +251,8 @@
 <LM>w#w-mf920924-122-p2s3w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-122-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1345,7 +1345,7 @@
 <LM>w#w-mf920924-122-p2s11w2</LM>
 </w.rf>
 <form>baseballovými</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAFP7----1A----</tag>
 </m>
 <m id="m-mf920924-122-p2s11w3">

@@ -1708,7 +1708,7 @@
 <LM>w#w-mf920902-146-p3s8w2</LM>
 </w.rf>
 <form>mnohaletou</form>
-<lemma>mnohaletý</lemma>
+<lemma>mnohaletý_,s_^(^DD**mnoholetý)</lemma>
 <tag>AAFS7----1A----</tag>
 </m>
 <m id="m-mf920902-146-p3s8w3">

@@ -544,8 +544,8 @@
 <LM>w#w-d1t1812-5</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t1812-3">
 <w.rf>
@@ -656,7 +656,7 @@
 <LM>w#w-d1t1814-8</LM>
 </w.rf>
 <form>uvíznutí</form>
-<lemma>uvíznutý_^(*3out)</lemma>
+<lemma>uvíznutý_^(^DD**uváznutý)_(*3out)</lemma>
 <tag>AAMP1----1A----</tag>
 </m>
 <m id="m049-214-218">
@@ -854,7 +854,7 @@
 <LM>w#w-d1t1823-11</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m049-d1t1823-9">
@@ -944,8 +944,8 @@
 <LM>w#w-d1t1834-1</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m049-d1t1834-2">
 <w.rf>
@@ -1732,8 +1732,8 @@
 <LM>w#w-d1t1884-1</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t1884-2">
 <w.rf>
@@ -2078,8 +2078,8 @@
 <LM>w#w-d1t1899-21</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t1899-22">
 <w.rf>
@@ -2162,8 +2162,8 @@
 <LM>w#w-d1t1912-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d1t1914-1">
 <w.rf>
@@ -2516,7 +2516,7 @@
 <LM>w#w-d1t1959-1</LM>
 </w.rf>
 <form>sukýnku</form>
-<lemma>sukýnka</lemma>
+<lemma>sukýnka_,s_^(^DD**sukénka)</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m049-d-id130447-punct">
@@ -3346,8 +3346,8 @@
 <LM>w#w-d1t2017-4</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m049-d1t2017-6">
 <w.rf>
@@ -3362,7 +3362,7 @@
 <LM>w#w-d1t2017-7</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m049-d1t2017-8">

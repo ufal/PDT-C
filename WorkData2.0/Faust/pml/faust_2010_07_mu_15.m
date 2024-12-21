@@ -783,8 +783,8 @@
 <LM>w#w-mu_15-SCzechM-p1543-s1-w12</LM>
 </w.rf>
 <form>teplo</form>
-<lemma>teplo-1</lemma>
-<tag>NNNS1-----A----</tag>
+<lemma>teplo-2_^(být_někomu_teplo)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="mu_15-SCzechM-p1543-s1-w13">
 <w.rf>
@@ -1350,16 +1350,16 @@
 <LM>w#w-mu_15-SCzechM-p1556-s1-w28</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="mu_15-SCzechM-p1556-s1-w29">
 <w.rf>
 <LM>w#w-mu_15-SCzechM-p1556-s1-w29</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_15-SCzechM-p1556-s1-w30">
 <w.rf>
@@ -2513,7 +2513,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_15-SCzechM-p1599-s1-w2">
 <w.rf>

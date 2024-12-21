@@ -1140,8 +1140,8 @@
 <LM>w#w-ln94204-41-p2s6w4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-41-p2s6w5">
 <src.rf>manual</src.rf>

@@ -1467,7 +1467,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0638-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2762,8 +2762,8 @@
 <LM>w#w-wsj0638-001-p1s9W31</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0638-001-p1s9W32-Ta">
 <src.rf>tagger-a</src.rf>

@@ -378,7 +378,7 @@
 <LM>w#w-wsj0003-001-p1s1W8</LM>
 </w.rf>
 <form>krokydolit</form>
-<lemma>krokydolit</lemma>
+<lemma>krokydolit_,s_^(^DD**krocidolit)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s1W9-Ta">
@@ -513,7 +513,7 @@
 <LM>w#w-wsj0003-001-p1s1W23</LM>
 </w.rf>
 <form>krokydolitu</form>
-<lemma>krokydolit</lemma>
+<lemma>krokydolit_,s_^(^DD**krocidolit)</lemma>
 <tag>NNIS3-----A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s1W24-Ta">
@@ -794,7 +794,7 @@
 <LM>w#w-wsj0003-001-p1s2W20</LM>
 </w.rf>
 <form>krokydolit</form>
-<lemma>krokydolit</lemma>
+<lemma>krokydolit_,s_^(^DD**krocidolit)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s2W21-Ta">
@@ -940,8 +940,8 @@
 <LM>w#w-wsj0003-001-p1s3W7</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0003-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3786,8 +3786,8 @@
 <LM>w#w-wsj0003-001-p1s17W4</LM>
 </w.rf>
 <form>vlastní</form>
-<lemma>vlastní</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0003-001-p1s17W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4130,7 +4130,7 @@
 <LM>w#w-wsj0003-001-p1s18W23</LM>
 </w.rf>
 <form>krokydolit</form>
-<lemma>krokydolit</lemma>
+<lemma>krokydolit_,s_^(^DD**krocidolit)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s18W24-Ta">
@@ -4193,7 +4193,7 @@
 <LM>w#w-wsj0003-001-p1s18W30</LM>
 </w.rf>
 <form>chrysotil</form>
-<lemma>chrysotil</lemma>
+<lemma>chrysotil_,s_^(^DD**chryzotil)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s18W31-Ta">
@@ -4591,8 +4591,8 @@
 <LM>w#w-wsj0003-001-p1s19W33</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0003-001-p1s19W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4609,7 +4609,7 @@
 <LM>w#w-wsj0003-001-p1s19W35</LM>
 </w.rf>
 <form>krokydolit</form>
-<lemma>krokydolit</lemma>
+<lemma>krokydolit_,s_^(^DD**krocidolit)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s19W36-Ta">
@@ -5322,7 +5322,7 @@
 <LM>w#w-wsj0003-001-p1s24W7</LM>
 </w.rf>
 <form>krokydolit</form>
-<lemma>krokydolit</lemma>
+<lemma>krokydolit_,s_^(^DD**krocidolit)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0003-001-p1s24W8-Ta">
@@ -5349,7 +5349,7 @@
 <LM>w#w-wsj0003-001-p1s24W10</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-wsj0003-001-p1s24W11-Ta">

@@ -801,8 +801,8 @@
 <LM>w#w-ln95048-129-p2s3w36</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-129-p2s3w37">
 <src.rf>manual</src.rf>
@@ -1217,8 +1217,8 @@
 <LM>w#w-ln95048-129-p2s4w29</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-129-p2s4w30">
 <src.rf>manual</src.rf>

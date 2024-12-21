@@ -293,8 +293,8 @@
 <LM>w#w-mf930713-139-p2s2w8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf930713-139-p2s2w9">
 <src.rf>manual</src.rf>
@@ -691,8 +691,8 @@
 <LM>w#w-mf930713-139-p2s3w19</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-139-p2s3w20">
 <src.rf>manual</src.rf>

@@ -334,7 +334,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1226-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -380,8 +380,8 @@
 <LM>w#w-wsj1226-001-p1s2W1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1226-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2177,7 +2177,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1226-001-p1s11W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3287,7 +3287,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1226-001-p1s16W9-Ta">
 <src.rf>tagger-a</src.rf>

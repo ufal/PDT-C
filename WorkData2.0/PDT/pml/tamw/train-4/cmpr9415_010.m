@@ -440,8 +440,8 @@
 <LM>w#w-cmpr9415-010-p8s1w12</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-cmpr9415-010-p8s1w13">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-010-p9s1w19">
 <src.rf>manual</src.rf>
@@ -652,8 +652,8 @@
 <LM>w#w-cmpr9415-010-p9s1w19</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9415-010-p9s1w20">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 </w.rf>
 <form>rekonstruován</form>
 <lemma>rekonstruovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-cmpr9415-010-p9s2w7">
 <src.rf>manual</src.rf>

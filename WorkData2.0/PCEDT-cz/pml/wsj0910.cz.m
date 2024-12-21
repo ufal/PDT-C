@@ -513,8 +513,8 @@
 <LM>w#w-wsj0910-001-p1s1W18</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0910-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -948,7 +948,7 @@
 </w.rf>
 <form>dominovat</form>
 <lemma>dominovat</lemma>
-<tag>Vf--------A-B--</tag>
+<tag>Vf--------A-I--</tag>
 </m>
 <m id="m-wsj0910-001-p1s2W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1013,7 +1013,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0910-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2174,7 +2174,7 @@
 <LM>w#w-wsj0910-001-p1s8W17</LM>
 </w.rf>
 <form>uvízne</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-wsj0910-001-p1s8W18-Ta">
@@ -2746,7 +2746,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0910-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>

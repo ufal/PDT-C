@@ -821,8 +821,8 @@
 <LM>w#w-mf920925-099-p3s1w26</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-099-p3s1w27">
 <src.rf>manual</src.rf>
@@ -958,8 +958,8 @@
 <LM>w#w-mf920925-099-p4s1w12</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920925-099-p4s1w13">
 <src.rf>manual</src.rf>

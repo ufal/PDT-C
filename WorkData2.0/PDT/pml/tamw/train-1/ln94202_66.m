@@ -529,8 +529,8 @@
 <LM>w#w-ln94202-66-p2s2w24</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-66-p2s2w25">
 <src.rf>manual</src.rf>
@@ -594,8 +594,8 @@
 <LM>w#w-ln94202-66-p2s3w4</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94202-66-p2s3w5">
 <src.rf>manual</src.rf>

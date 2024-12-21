@@ -825,8 +825,8 @@
 <LM>w#w-wsj0106-001-p1s3W13</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0106-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -240,8 +240,8 @@
 <LM>w#w-ln94203-139-p2s2w5</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-139-p2s2w6">
 <src.rf>manual</src.rf>
@@ -249,8 +249,8 @@
 <LM>w#w-ln94203-139-p2s2w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-139-p2s2w7">
 <src.rf>manual</src.rf>

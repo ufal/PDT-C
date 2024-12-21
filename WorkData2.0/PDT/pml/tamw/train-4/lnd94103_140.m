@@ -695,8 +695,8 @@
 <LM>w#w-lnd94103-140-p1s4w18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-140-p1s4w19">
 <src.rf>manual</src.rf>
@@ -742,8 +742,8 @@
 <LM>w#w-lnd94103-140-p1s5w3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-140-p1s5w4">
 <src.rf>manual</src.rf>
@@ -1059,8 +1059,8 @@
 <LM>w#w-lnd94103-140-p1s6w1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-140-p1s6w2">
 <src.rf>manual</src.rf>

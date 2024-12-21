@@ -1188,7 +1188,7 @@
 </w.rf>
 <form>Citovala</form>
 <lemma>citovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94204-39-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1736,7 +1736,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-39-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2324,8 +2324,8 @@
 <LM>w#w-ln94204-39-p6s2w7</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94204-39-p6s2w8">
 <src.rf>manual</src.rf>

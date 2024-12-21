@@ -175,7 +175,7 @@
 </w.rf>
 <form>Kolik</form>
 <lemma>kolik</lemma>
-<tag>Ca--4----------</tag>
+<tag>Ca--1----------</tag>
 </m>
 <m id="m110-d1t2374-5">
 <w.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-d1t2400-5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m110-d1t2400-6">
@@ -2052,8 +2052,8 @@
 <LM>w#w-d1t2498-6</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m110-d1t2498-7">
 <w.rf>
@@ -2888,8 +2888,8 @@
 <LM>w#w-234-239</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m110-d1t2535-6">
 <w.rf>
@@ -2920,8 +2920,8 @@
 <LM>w#w-d1t2535-9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m110-d1t2535-10">
 <w.rf>
@@ -3375,7 +3375,7 @@
 </w.rf>
 <form>Kolik</form>
 <lemma>kolik</lemma>
-<tag>Ca--4----------</tag>
+<tag>Ca--1----------</tag>
 </m>
 <m id="m110-d1t2554-2">
 <w.rf>

@@ -1372,8 +1372,8 @@
 <LM>w#w-ln95040-058-p2s5Bw11</LM>
 </w.rf>
 <form>Líbala</form>
-<lemma>líbat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<lemma>Líbal_;Y</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-058-p2s5Bw12">
 <src.rf>manual</src.rf>
@@ -1436,7 +1436,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95040-058-p2s5Bw19">
 <src.rf>manual</src.rf>
@@ -2671,7 +2671,7 @@
 <LM>w#w-ln95040-058-p2s10w21</LM>
 </w.rf>
 <form>Bernardovým</form>
-<lemma>Bernardův_;Y_^(*2)</lemma>
+<lemma>Bernardův_;Y_^(*2)_(*2o)</lemma>
 <tag>AUNS7M---------</tag>
 </m>
 <m id="m-ln95040-058-p2s10w22">
@@ -2779,8 +2779,8 @@
 <LM>w#w-ln95040-058-p2s10w33</LM>
 </w.rf>
 <form>stěží</form>
-<lemma>stěží</lemma>
-<tag>Db-------------</tag>
+<lemma>stěží-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-058-p2s10w34">
 <src.rf>manual</src.rf>
@@ -2835,7 +2835,7 @@
 <LM>w#w-ln95040-058-p2s11w4</LM>
 </w.rf>
 <form>Bernardových</form>
-<lemma>Bernardův_;Y_^(*2)</lemma>
+<lemma>Bernardův_;Y_^(*2)_(*2o)</lemma>
 <tag>AUIP2M---------</tag>
 </m>
 <m id="m-ln95040-058-p2s11w5">
@@ -3487,8 +3487,8 @@
 <LM>w#w-ln95040-058-p2s13w17</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-058-p2s13w18">
 <src.rf>manual</src.rf>
@@ -3935,7 +3935,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-058-p2s16Aw14">
 <src.rf>manual</src.rf>

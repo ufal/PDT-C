@@ -723,7 +723,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-057-p1s6w3">
 <src.rf>manual</src.rf>

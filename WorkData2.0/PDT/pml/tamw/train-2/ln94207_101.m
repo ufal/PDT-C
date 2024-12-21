@@ -130,7 +130,7 @@
 <LM>w#w-ln94207-101-p2s1w5</LM>
 </w.rf>
 <form>alžbětinské</form>
-<lemma>alžbětinský</lemma>
+<lemma>alžbětinský_,s_^(^DD**alžbětínský)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-ln94207-101-p2s1w6">
@@ -609,8 +609,8 @@
 <LM>w#w-ln94207-101-p2s3w25</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-101-p2s3w26">
 <src.rf>manual</src.rf>

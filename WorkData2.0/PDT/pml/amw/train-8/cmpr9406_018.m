@@ -586,8 +586,8 @@
 <LM>w#w-cmpr9406-018-p8s2w8</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-018-p8s2w9">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-018-p8s4w21">
 <src.rf>manual</src.rf>
@@ -1136,8 +1136,8 @@
 <LM>w#w-cmpr9406-018-p9s2w11</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9406-018-p9s2w12">
 <src.rf>manual</src.rf>

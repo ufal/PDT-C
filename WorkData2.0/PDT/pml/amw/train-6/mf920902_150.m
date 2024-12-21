@@ -352,7 +352,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-150-p2s3w6">
 <src.rf>manual</src.rf>
@@ -414,8 +414,8 @@
 <LM>w#w-mf920902-150-p2s3w12</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-150-p2s3w13">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 </w.rf>
 <form>reagovalo</form>
 <lemma>reagovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf920902-150-p2s5w4">
 <src.rf>manual</src.rf>

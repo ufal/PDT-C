@@ -684,8 +684,8 @@
 <LM>w#w-ln95048-126-p2s4w20</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-126-p2s4w21">
 <src.rf>manual</src.rf>

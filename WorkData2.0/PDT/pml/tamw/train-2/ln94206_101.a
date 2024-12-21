@@ -18,7 +18,8 @@
 <children>
 <LM id="a-ln94206-101-p1s1w1">
 <m.rf>m#m-ln94206-101-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -222,18 +223,20 @@
 <ord>18</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-ln94206-101-p2s2w16">
-<m.rf>m#m-ln94206-101-p2s2w16</m.rf>
-<afun>AuxZ</afun>
-<ord>16</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-ln94206-101-p2s2w17">
 <m.rf>m#m-ln94206-101-p2s2w17</m.rf>
 <afun>Adv</afun>
 <is_member>1</is_member>
 <ord>17</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-ln94206-101-p2s2w16">
+<m.rf>m#m-ln94206-101-p2s2w16</m.rf>
+<afun>AuxZ</afun>
+<ord>16</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-ln94206-101-p2s2w21">
 <m.rf>m#m-ln94206-101-p2s2w21</m.rf>

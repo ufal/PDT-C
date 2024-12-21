@@ -1433,7 +1433,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1219-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1603,7 +1603,7 @@
 <LM>w#w-wsj1219-001-p1s5W21</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1219-001-p1s5W22-Ta">

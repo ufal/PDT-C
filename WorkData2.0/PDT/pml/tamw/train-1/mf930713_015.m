@@ -783,8 +783,8 @@
 <LM>w#w-mf930713-015-p2s3w14</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-015-p2s3w15">
 <src.rf>manual</src.rf>

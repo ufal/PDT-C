@@ -959,7 +959,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91303-111-p2s6w11">
 <src.rf>manual</src.rf>
@@ -2766,7 +2766,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-111-p11s3w2">
 <src.rf>manual</src.rf>
@@ -3120,8 +3120,8 @@
 <LM>w#w-lnd91303-111-p11s5w10</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-111-p11s5w11">
 <src.rf>manual</src.rf>
@@ -3212,8 +3212,8 @@
 <LM>w#w-lnd91303-111-p11s6w7</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-111-p11s6w8">
 <src.rf>manual</src.rf>

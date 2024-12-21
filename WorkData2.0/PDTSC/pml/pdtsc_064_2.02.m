@@ -1030,8 +1030,8 @@
 <LM>w#w-948-999</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m134-948-998">
 <w.rf>
@@ -1094,7 +1094,7 @@
 <LM>w#w-948-991</LM>
 </w.rf>
 <form>znova</form>
-<lemma>znova</lemma>
+<lemma>znova_,s_^(^DD**znovu)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m134-948-990">
@@ -2898,8 +2898,8 @@
 <LM>w#w-d1t324-27</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m134-d1t324-28">
 <w.rf>
@@ -3045,7 +3045,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m134-d1t326-10">
 <w.rf>
@@ -3378,8 +3378,8 @@
 <LM>w#w-405-407</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m134-405-408">
 <w.rf>
@@ -3859,7 +3859,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m134-d1t330-19">
 <w.rf>
@@ -4339,7 +4339,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m134-d1t350-2">
 <w.rf>
@@ -5132,8 +5132,8 @@
 <LM>w#w-d1t360-14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m134-d1t360-15">
 <w.rf>
@@ -5174,7 +5174,7 @@
 <LM>w#w-d1t363-1</LM>
 </w.rf>
 <form>Plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m134-d1t363-4">
@@ -5288,7 +5288,7 @@
 <LM>w#w-d1t365-1</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m134-d1t365-2">
@@ -5646,8 +5646,8 @@
 <LM>w#w-d1t367-6</LM>
 </w.rf>
 <form>vedoucí</form>
-<lemma>vedoucí_^(*6ést)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>vedoucí-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m134-d1t367-7">
 <w.rf>
@@ -5679,7 +5679,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m134-d1t367-11">
 <w.rf>

@@ -650,7 +650,7 @@
 <LM>w#w-d1t2322-3</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m105-d1t2322-4">
@@ -658,8 +658,8 @@
 <LM>w#w-d1t2322-4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2322-5">
 <w.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-d1t2331-1</LM>
 </w.rf>
 <form>Opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m105-256-259">
@@ -990,7 +990,7 @@
 <LM>w#w-d1t2335-1</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m105-d1t2335-8">
@@ -1138,8 +1138,8 @@
 <LM>w#w-d1t2344-10</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2344-11">
 <w.rf>
@@ -1593,8 +1593,8 @@
 <LM>w#w-d1t2367-3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2367-4">
 <w.rf>
@@ -1877,8 +1877,8 @@
 <LM>w#w-d1t2382-15</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2382-16">
 <w.rf>
@@ -2477,8 +2477,8 @@
 <LM>w#w-d1t2410-9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2410-10">
 <w.rf>
@@ -2581,8 +2581,8 @@
 <LM>w#w-d1t2416-6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2416-4">
 <w.rf>
@@ -2647,8 +2647,8 @@
 <LM>w#w-d1t2412-3</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2414-2">
 <w.rf>

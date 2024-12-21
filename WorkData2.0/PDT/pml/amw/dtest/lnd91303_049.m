@@ -1310,7 +1310,7 @@
 </w.rf>
 <form>zachová</form>
 <lemma>zachovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd91303-049-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-lnd91303-049-p5s4w2">
 <src.rf>manual</src.rf>
@@ -2486,7 +2486,7 @@
 </w.rf>
 <form>obléci</form>
 <lemma>obléci</lemma>
-<tag>Vf--------A-P-2</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91303-049-p6s3w6">
 <src.rf>manual</src.rf>
@@ -3136,7 +3136,7 @@
 </w.rf>
 <form>obléci</form>
 <lemma>obléci</lemma>
-<tag>Vf--------A-P-2</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91303-049-p7s2w17">
 <src.rf>manual</src.rf>
@@ -3869,7 +3869,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd91303-049-p8s2w19">
 <src.rf>manual</src.rf>

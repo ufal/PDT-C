@@ -615,7 +615,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2360-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2553,7 +2553,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2360-001-p1s11W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4524,7 +4524,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2360-001-p1s19W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6558,8 +6558,8 @@
 <LM>w#w-wsj2360-001-p1s27W36</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2360-001-p1s27W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6696,7 +6696,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2360-001-p1s28W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7305,7 +7305,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2360-001-p1s31W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1547,8 +1547,8 @@
 <LM>w#w-vesm9303-024-p4s6w59</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-024-p4s6w60">
 <src.rf>manual</src.rf>
@@ -1703,7 +1703,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1948,7 +1948,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p5s2w25">
 <src.rf>manual</src.rf>
@@ -2463,7 +2463,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p5s3w23">
 <src.rf>manual</src.rf>
@@ -4050,7 +4050,7 @@
 </w.rf>
 <form>věnován</form>
 <lemma>věnovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-vesm9303-024-p7s3w13">
 <src.rf>manual</src.rf>
@@ -7020,7 +7020,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p13s2w32">
 <src.rf>manual</src.rf>
@@ -10618,8 +10618,8 @@
 <LM>w#w-vesm9303-024-p17s4w33</LM>
 </w.rf>
 <form>zemřelých</form>
-<lemma>zemřelý_^(*3ít)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>zemřelý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p17s4w34">
 <src.rf>manual</src.rf>
@@ -11999,7 +11999,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p20s3w6">
 <src.rf>manual</src.rf>
@@ -12981,7 +12981,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p22s2w7">
 <src.rf>manual</src.rf>
@@ -13317,7 +13317,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p22s3w21">
 <src.rf>manual</src.rf>
@@ -13508,7 +13508,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p23s1w9">
 <src.rf>manual</src.rf>
@@ -14241,7 +14241,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p23s3w49">
 <src.rf>manual</src.rf>
@@ -15380,7 +15380,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p26s3w11">
 <src.rf>manual</src.rf>
@@ -16824,8 +16824,8 @@
 <LM>w#w-vesm9303-024-p29s1w23</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-024-p29s1w24">
 <src.rf>manual</src.rf>
@@ -17024,8 +17024,8 @@
 <LM>w#w-vesm9303-024-p29s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-024-p29s2w2">
 <src.rf>manual</src.rf>
@@ -17216,7 +17216,7 @@
 </w.rf>
 <form>úrazy</form>
 <lemma>úraz</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s3w7">
 <src.rf>manual</src.rf>
@@ -17234,7 +17234,7 @@
 </w.rf>
 <form>otravy</form>
 <lemma>otrava-1</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s3w9">
 <src.rf>manual</src.rf>
@@ -17296,8 +17296,8 @@
 <LM>w#w-vesm9303-024-p29s3w15</LM>
 </w.rf>
 <form>zemřelých</form>
-<lemma>zemřelý_^(*3ít)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>zemřelý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s3w16">
 <src.rf>manual</src.rf>
@@ -18257,7 +18257,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p30s2w18">
 <src.rf>manual</src.rf>
@@ -18518,7 +18518,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-024-p30s2w47">
 <src.rf>manual</src.rf>

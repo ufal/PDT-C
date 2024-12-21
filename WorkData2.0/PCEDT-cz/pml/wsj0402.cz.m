@@ -462,8 +462,8 @@
 <LM>w#w-wsj0402-001-p1s1W21</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0402-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1167,7 +1167,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0402-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>

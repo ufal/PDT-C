@@ -1309,8 +1309,8 @@
 <LM>w#w-mf920925-104-p3s3w20</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-104-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1619,7 +1619,6 @@
 <w.rf>
 <LM>w#w-mf920925-104-p3s5w14</LM>
 </w.rf>
-<form_change>spell</form_change>
 <form>krávo</form>
 <lemma>kráva</lemma>
 <tag>NNFS5-----A----</tag>

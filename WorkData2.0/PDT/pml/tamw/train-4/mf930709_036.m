@@ -525,8 +525,8 @@
 <LM>w#w-mf930709-036-p2s3w9</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-036-p2s3w10">
 <src.rf>manual</src.rf>
@@ -725,8 +725,8 @@
 <LM>w#w-mf930709-036-p2s4w16</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf930709-036-p2s4w17">
 <src.rf>manual</src.rf>
@@ -1527,8 +1527,8 @@
 <LM>w#w-mf930709-036-p2s9w5</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf930709-036-p2s9w6">
 <src.rf>manual</src.rf>
@@ -1626,8 +1626,8 @@
 <LM>w#w-mf930709-036-p2s9w16</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-036-p2s9w17">
 <src.rf>manual</src.rf>

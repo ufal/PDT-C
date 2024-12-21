@@ -12,8 +12,8 @@
 <LM>w#w-d1t951-1</LM>
 </w.rf>
 <form>Fajn</form>
-<lemma>fajn-3</lemma>
-<tag>TT-------------</tag>
+<lemma>fajn-2</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m774-d-id91092">
 <w.rf>
@@ -110,8 +110,8 @@
 <LM>w#w-d1t969-1</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m774-d1t969-2">
 <w.rf>

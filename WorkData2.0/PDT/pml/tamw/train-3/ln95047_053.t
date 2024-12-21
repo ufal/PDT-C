@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95047_053.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -49,8 +49,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w7703f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41npvB</val_frame.rf>
 <children>
 <LM id="t-ln95047-053-p1s1w3">
 <a>
@@ -145,7 +145,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w7703f1</val_frame.rf>
+<val_frame.rf>v#v41npvB</val_frame.rf>
 <children>
 <LM id="t-ln95047-053-p2s1w4">
 <a>
@@ -555,6 +555,7 @@
 <lex.rf>a#a-ln95047-053-p2s2w10</lex.rf>
 <aux.rf>
 <LM>a#a-ln95047-053-p2s2w8</LM>
+<LM>a#a-ln95047-053-p2s2w7</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -580,6 +581,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-053-p2s2w9</LM>
@@ -588,7 +590,7 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w4436f1</val_frame.rf>
+<val_frame.rf>v#v41hhvA</val_frame.rf>
 <children>
 <LM id="t-ln95047-053-p2s2w9">
 <a>
@@ -704,15 +706,16 @@
 </gram>
 <tfa>t</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w4436f1</val_frame.rf>
+<val_frame.rf>v#v41hhvA</val_frame.rf>
 <children>
 <LM id="t-ln95047-053-p2s2w17">
 <a>
 <lex.rf>a#a-ln95047-053-p2s2w17</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>potom</t_lemma>
+<t_lemma>poté</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>potom</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -739,7 +742,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<children>
+</LM>
 <LM id="t-ln95047-053-p2s2w22">
 <a>
 <lex.rf>a#a-ln95047-053-p2s2w22</lex.rf>
@@ -789,8 +792,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="t-ln95047-053-p2s3">
 <atree.rf>a#a-ln95047-053-p2s3</atree.rf>
 <deepord>0</deepord>
@@ -824,7 +825,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w1339f1</val_frame.rf>
+<val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-ln95047-053-p2s3w5">
 <a>

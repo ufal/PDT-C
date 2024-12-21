@@ -457,7 +457,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2664-4">
 <w.rf>
@@ -1120,8 +1120,8 @@
 <LM>w#w-d1t2692-12</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-725-726">
 <w.rf>
@@ -1196,8 +1196,8 @@
 <LM>w#w-d1t2698-9</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2698-10">
 <w.rf>
@@ -1522,8 +1522,8 @@
 <LM>w#w-d1t2723-17</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2723-19">
 <w.rf>
@@ -2058,8 +2058,8 @@
 <LM>w#w-d1t2758-4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2758-6">
 <w.rf>
@@ -2286,8 +2286,8 @@
 <LM>w#w-d1t2779-1</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2779-2">
 <w.rf>
@@ -2394,7 +2394,7 @@
 <LM>w#w-d1t2781-4</LM>
 </w.rf>
 <form>jazz</form>
-<lemma>jazz</lemma>
+<lemma>jazz_,s_^(^DD**džez)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m105-d-id164458-punct">

@@ -625,8 +625,8 @@
 <LM>w#w-wsj2042-001-p1s2W2</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj2042-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -761,8 +761,8 @@
 <LM>w#w-wsj2042-001-p1s2W17</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2042-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>

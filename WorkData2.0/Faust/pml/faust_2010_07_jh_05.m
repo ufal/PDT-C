@@ -111,7 +111,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="jh_05-SCzechM-p0435-s1-w7">
 <w.rf>
@@ -328,8 +328,8 @@
 <LM>w#w-jh_05-SCzechM-p0436-s1-w24</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_05-SCzechM-p0436-s1-w25">
 <w.rf>
@@ -440,8 +440,8 @@
 <LM>w#w-jh_05-SCzechM-p0436-s1-w38</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_05-SCzechM-p0436-s1-w39">
 <w.rf>
@@ -456,8 +456,8 @@
 <LM>w#w-jh_05-SCzechM-p0436-s1-w40</LM>
 </w.rf>
 <form>nejbližší</form>
-<lemma>blízký</lemma>
-<tag>AAMP1----3A----</tag>
+<lemma>nejbližší</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="jh_05-SCzechM-p0436-s1-w41">
 <w.rf>
@@ -1624,8 +1624,8 @@
 <LM>w#w-jh_05-SCzechM-p0481-s1-w41</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_05-SCzechM-p0481-s1-w42">
 <w.rf>
@@ -1977,7 +1977,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_05-SCzechM-p0491-s1-w10">
 <w.rf>
@@ -2050,7 +2050,7 @@
 <LM>w#w-jh_05-SCzechM-p0492-s1-w7</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="jh_05-SCzechM-p0492-s1-w8">
@@ -2392,8 +2392,8 @@
 <LM>w#w-jh_05-SCzechM-p0497-s1-w2</LM>
 </w.rf>
 <form>Maine</form>
-<lemma>Main-1_;G</lemma>
-<tag>NNIS6-----A----</tag>
+<lemma>Maine_;G</lemma>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="jh_05-SCzechM-p0497-s1-w3">
 <w.rf>
@@ -2612,8 +2612,8 @@
 <LM>w#w-jh_05-SCzechM-p0500-s1-w19</LM>
 </w.rf>
 <form>bohatými</form>
-<lemma>bohatý</lemma>
-<tag>AAMP7----1A----</tag>
+<lemma>bohatý-2</lemma>
+<tag>NNMP7-----A----</tag>
 </m>
 <m id="jh_05-SCzechM-p0500-s1-w20">
 <w.rf>
@@ -2628,16 +2628,16 @@
 <LM>w#w-jh_05-SCzechM-p0500-s1-w21</LM>
 </w.rf>
 <form>chudými</form>
-<lemma>chudý-1</lemma>
-<tag>AAMP7----1A----</tag>
+<lemma>chudý-2_^(osoba)</lemma>
+<tag>NNMP7-----A----</tag>
 </m>
 <m id="jh_05-SCzechM-p0500-s1-w22">
 <w.rf>
 <LM>w#w-jh_05-SCzechM-p0500-s1-w22</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="jh_05-SCzechM-p0500-s1-w23">
 <w.rf>
@@ -2686,8 +2686,8 @@
 <LM>w#w-jh_05-SCzechM-p0501-s1-w3</LM>
 </w.rf>
 <form>ping</form>
-<lemma>ping_^(jen_ve_spojení_ping-pong)</lemma>
-<tag>S2--------A----</tag>
+<lemma>ping-2</lemma>
+<tag>NNIS4-----A----</tag>
 </m>
 </s>
 <s id="s-jh_05-SCzechM-p0502-s1-w2">
@@ -3414,8 +3414,8 @@
 <LM>w#w-jh_05-SCzechM-p0515-s1-w21</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="jh_05-SCzechM-p0515-s1-w22">
 <w.rf>
@@ -3614,8 +3614,8 @@
 <LM>w#w-jh_05-SCzechM-p0515-s1-w46</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="jh_05-SCzechM-p0515-s1-w47">
 <w.rf>

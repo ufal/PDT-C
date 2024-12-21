@@ -203,8 +203,8 @@
 <LM>w#w-ln94206-129-p2s1Bw11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-129-p2s1Bw12">
 <src.rf>manual</src.rf>

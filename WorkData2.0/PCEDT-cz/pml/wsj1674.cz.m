@@ -562,7 +562,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj1674-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -715,7 +715,7 @@
 </w.rf>
 <form>listopadu</form>
 <lemma>listopad</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1674-001-p1s1W42-Ta">
 <src.rf>tagger-a</src.rf>

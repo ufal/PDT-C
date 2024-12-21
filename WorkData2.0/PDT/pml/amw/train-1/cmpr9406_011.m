@@ -987,8 +987,8 @@
 <LM>w#w-cmpr9406-011-p5s2w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-011-p5s2w5">
 <src.rf>manual</src.rf>
@@ -996,8 +996,8 @@
 <LM>w#w-cmpr9406-011-p5s2w5</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9406-011-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 </w.rf>
 <form>věnovala</form>
 <lemma>věnovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-cmpr9406-011-p6s1w31">
 <src.rf>manual</src.rf>
@@ -1943,7 +1943,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-011-p9s1w10">
 <src.rf>manual</src.rf>
@@ -2464,7 +2464,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-011-p11s2w3">
 <src.rf>manual</src.rf>

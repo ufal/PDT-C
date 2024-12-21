@@ -482,8 +482,8 @@
 <LM>w#w-lnd94103-010-p1s3w5</LM>
 </w.rf>
 <form>dále</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------2A---1</tag>
+<lemma>dále-3_^(také,_za_další)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94103-010-p1s3w6">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-010-p1s5w5">
 <src.rf>manual</src.rf>

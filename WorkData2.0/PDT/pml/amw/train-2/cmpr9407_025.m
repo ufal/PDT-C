@@ -1887,7 +1887,7 @@
 <LM>w#w-cmpr9407-025-p7s5w6</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-025-p7s5w7">
@@ -3552,7 +3552,7 @@
 <LM>w#w-cmpr9407-025-p9s5w9</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-025-p9s5w10">

@@ -518,8 +518,8 @@
 <LM>w#w-ln94207-106-p2s2w25</LM>
 </w.rf>
 <form>soutěžící</form>
-<lemma>soutěžící_^(*3it)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>soutěžící-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94207-106-p2s2w26">
 <src.rf>manual</src.rf>

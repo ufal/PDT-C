@@ -223,8 +223,8 @@
 <LM>w#w-wsj0249-001-p1s0W24</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj0249-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -233,7 +233,7 @@
 </w.rf>
 <form>sítí</form>
 <lemma>síť</lemma>
-<tag>NNFS7-----A----</tag>
+<tag>NNFP2-----A----</tag>
 </m>
 <m id="m-wsj0249-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>

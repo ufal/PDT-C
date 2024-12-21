@@ -88,8 +88,8 @@
 <LM>w#w-wsj2267-001-p1s1W9</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-wsj2267-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

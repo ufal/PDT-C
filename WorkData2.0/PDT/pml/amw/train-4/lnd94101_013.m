@@ -1276,7 +1276,7 @@
 </w.rf>
 <form>osoby</form>
 <lemma>osoba</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94101-013-p1s8w16">
 <src.rf>manual</src.rf>
@@ -1568,7 +1568,7 @@
 </w.rf>
 <form>referovalo</form>
 <lemma>referovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-lnd94101-013-p1s10w13">
 <src.rf>manual</src.rf>

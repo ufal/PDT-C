@@ -66,8 +66,8 @@
 <LM>w#w-ln95045-112-p2s1Aw3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-112-p2s1Aw4">
 <src.rf>manual</src.rf>

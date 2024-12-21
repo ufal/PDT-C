@@ -1841,7 +1841,7 @@
 <LM>w#w-wsj1932-001-p1s7W28</LM>
 </w.rf>
 <form>napjatý</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-wsj1932-001-p1s7W29-Ta">
@@ -2451,7 +2451,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1932-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2578,8 +2578,8 @@
 <LM>w#w-wsj1932-001-p1s11W7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1932-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2731,8 +2731,8 @@
 <LM>w#w-wsj1932-001-p1s11W24</LM>
 </w.rf>
 <form>vedoucí</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS1-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS1-----A----</tag>
 </m>
 <m id="m-wsj1932-001-p1s11W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6543,8 +6543,8 @@
 <LM>w#w-wsj1932-001-p1s32W8</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1932-001-p1s32W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6552,8 +6552,8 @@
 <LM>w#w-wsj1932-001-p1s32W9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1932-001-p1s32W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6804,8 +6804,8 @@
 <LM>w#w-wsj1932-001-p1s32W37</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1932-001-p1s32W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7854,7 +7854,7 @@
 </w.rf>
 <form>Ceny</form>
 <lemma>cena</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1932-001-p1s38W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10596,8 +10596,8 @@
 <LM>w#w-wsj1932-001-p1s52W3</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1932-001-p1s52W4-Ta">
 <src.rf>tagger-a</src.rf>

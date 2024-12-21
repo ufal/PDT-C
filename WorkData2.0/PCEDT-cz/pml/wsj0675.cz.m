@@ -1631,8 +1631,8 @@
 <LM>w#w-wsj0675-001-p1s10W8</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0675-001-p1s10W9-Ta">
 <src.rf>tagger-a</src.rf>

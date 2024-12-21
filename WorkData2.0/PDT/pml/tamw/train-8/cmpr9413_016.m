@@ -453,8 +453,8 @@
 <LM>w#w-cmpr9413-016-p5s2w11</LM>
 </w.rf>
 <form>Vysokoškolákov</form>
-<lemma>Vysokoškolák_;G</lemma>
-<tag>NNMP2-----A----</tag>
+<lemma>Vysokoškolákov-77</lemma>
+<tag>F%-------------</tag>
 </m>
 <m id="m-cmpr9413-016-p5s2w12">
 <src.rf>manual</src.rf>

@@ -670,8 +670,8 @@
 <LM>w#w-lnd91301-005-p3s2w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91301-005-p3s2w4">
 <src.rf>manual</src.rf>
@@ -2483,7 +2483,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-005-p5s2w27">
 <src.rf>manual</src.rf>
@@ -3056,7 +3056,7 @@
 </w.rf>
 <form>vánoce</form>
 <lemma>vánoce_,i_^(^DS**Vánoce)</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-lnd91301-005-p6s3w21">
 <src.rf>manual</src.rf>

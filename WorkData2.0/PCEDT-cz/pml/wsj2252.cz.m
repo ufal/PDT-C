@@ -525,7 +525,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2252-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -863,8 +863,8 @@
 <LM>w#w-wsj2252-001-p1s5W3</LM>
 </w.rf>
 <form>vlastní</form>
-<lemma>vlastní</lemma>
-<tag>AAFS4----1A----</tag>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj2252-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>

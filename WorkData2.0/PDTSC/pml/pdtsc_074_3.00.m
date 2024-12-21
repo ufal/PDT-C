@@ -506,7 +506,7 @@
 <LM>w#w-d1t46-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m143-d1t46-3">
@@ -1434,8 +1434,8 @@
 <LM>w#w-d1t84-7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m143-d1t84-8">
 <w.rf>
@@ -1558,8 +1558,8 @@
 <LM>w#w-d1t93-5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m143-d1t93-6">
 <w.rf>
@@ -2238,8 +2238,8 @@
 <LM>w#w-d1t117-2</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m143-d1t117-3">
 <w.rf>
@@ -2369,7 +2369,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m143-d1t123-4">
 <w.rf>
@@ -2384,8 +2384,8 @@
 <LM>w#w-d1t123-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m143-d1t123-6">
 <w.rf>
@@ -2472,7 +2472,7 @@
 <LM>w#w-d1t130-9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m143-d1t130-10">
@@ -2806,7 +2806,7 @@
 <LM>w#w-d1t141-14</LM>
 </w.rf>
 <form>znova</form>
-<lemma>znova</lemma>
+<lemma>znova_,s_^(^DD**znovu)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m143-155-156">
@@ -3012,8 +3012,8 @@
 <LM>w#w-d1t158-3</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m143-d1t158-2">
 <w.rf>
@@ -3060,7 +3060,7 @@
 <LM>w#w-d1t158-8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m143-d1t158-9">
@@ -3232,8 +3232,8 @@
 <LM>w#w-d1t167-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m143-d1t167-4">
 <w.rf>
@@ -3396,8 +3396,8 @@
 <LM>w#w-d1t169-8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m143-d1t169-9">
 <w.rf>
@@ -3648,7 +3648,7 @@
 <LM>w#w-d1t182-3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m143-d1t184-1">
@@ -3794,7 +3794,7 @@
 <LM>w#w-d1t188-5</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m143-d1t188-6">
@@ -3924,8 +3924,8 @@
 <LM>w#w-d1t190-13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m143-d1t190-14">
 <w.rf>
@@ -4102,7 +4102,7 @@
 <LM>w#w-d1t199-8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m143-d1t199-9">
@@ -4184,8 +4184,8 @@
 <LM>w#w-d1t203-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m143-d1t203-6">
 <w.rf>
@@ -4348,8 +4348,8 @@
 <LM>w#w-d1t212-1</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m143-d1t214-2">
 <w.rf>
@@ -4542,8 +4542,8 @@
 <LM>w#w-d1t221-10</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m143-d1t221-12">
 <w.rf>
@@ -4772,8 +4772,8 @@
 <LM>w#w-d1t234-6</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m143-d1t234-7">
 <w.rf>

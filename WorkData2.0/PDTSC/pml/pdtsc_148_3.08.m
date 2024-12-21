@@ -236,8 +236,8 @@
 <LM>w#w-d1t1200-3</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>ten</lemma>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m103-d1t1200-6">
 <w.rf>
@@ -512,8 +512,8 @@
 <LM>w#w-d1t1208-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1208-2">
 <w.rf>
@@ -570,8 +570,8 @@
 <LM>w#w-d1t1208-9</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1208-10">
 <w.rf>
@@ -694,8 +694,8 @@
 <LM>w#w-d1t1216-12</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1e1213-x2-297">
 <w.rf>
@@ -946,8 +946,8 @@
 <LM>w#w-d1t1232-10</LM>
 </w.rf>
 <form>Akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1232-11">
 <w.rf>
@@ -1168,8 +1168,8 @@
 <LM>w#w-d1t1236-24</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m103-d1t1238-1">
 <w.rf>
@@ -1754,8 +1754,8 @@
 <LM>w#w-d1t1268-20</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m103-d1t1268-21">
 <w.rf>
@@ -2114,8 +2114,8 @@
 <LM>w#w-d1t1284-9</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1284-10">
 <w.rf>
@@ -2272,7 +2272,7 @@
 <LM>w#w-d1t1298-6</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1298-7">
@@ -2477,7 +2477,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m103-d1t1300-13">
 <w.rf>
@@ -2501,7 +2501,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m103-d1t1302-3">
 <w.rf>

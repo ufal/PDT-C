@@ -1115,8 +1115,8 @@
 <LM>w#w-lnd91301-034-p5s3w14</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91301-034-p5s3w15">
 <src.rf>manual</src.rf>
@@ -2395,7 +2395,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-034-p7s4w13">
 <src.rf>manual</src.rf>

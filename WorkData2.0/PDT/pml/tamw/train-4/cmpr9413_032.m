@@ -415,7 +415,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9413-032-p3s3w16">
 <src.rf>manual</src.rf>
@@ -880,8 +880,8 @@
 <LM>w#w-cmpr9413-032-p5s2w1</LM>
 </w.rf>
 <form>Patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-032-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1073,8 +1073,8 @@
 <LM>w#w-cmpr9413-032-p6s2w2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-032-p6s2w3">
 <src.rf>manual</src.rf>
@@ -1190,8 +1190,8 @@
 <LM>w#w-cmpr9413-032-p6s2w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-032-p6s2w16">
 <src.rf>manual</src.rf>
@@ -1491,8 +1491,8 @@
 <LM>w#w-cmpr9413-032-p7s2w9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-032-p7s2w10">
 <src.rf>manual</src.rf>
@@ -2167,8 +2167,8 @@
 <LM>w#w-cmpr9413-032-p9s3w4</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9413-032-p9s3w5">
 <src.rf>manual</src.rf>
@@ -2401,8 +2401,8 @@
 <LM>w#w-cmpr9413-032-p9s3w30</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-032-p9s3w31">
 <src.rf>manual</src.rf>
@@ -3106,8 +3106,8 @@
 <LM>w#w-cmpr9413-032-p13s1w1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-032-p13s1w2">
 <src.rf>manual</src.rf>
@@ -3426,7 +3426,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9413-032-p13s3Aw2">
 <src.rf>manual</src.rf>
@@ -3477,8 +3477,8 @@
 <LM>w#w-cmpr9413-032-p13s3Bw4</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-cmpr9413-032-p13s3Bw5">
 <src.rf>manual</src.rf>

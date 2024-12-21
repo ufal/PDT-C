@@ -230,8 +230,8 @@
 <LM>w#w-d1t2138-8</LM>
 </w.rf>
 <form>tu</form>
-<lemma>tu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ten</lemma>
+<tag>PDFS4----------</tag>
 </m>
 <m id="m036-d1t2138-9">
 <w.rf>
@@ -858,8 +858,8 @@
 <LM>w#w-d1t2149-5</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m036-d1t2149-6">
 <w.rf>
@@ -1558,7 +1558,7 @@
 <LM>w#w-d1t2185-13</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m036-d1t2185-19">
@@ -2388,7 +2388,7 @@
 <LM>w#w-d1t2222-1</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m036-d1t2222-2">
@@ -2478,8 +2478,8 @@
 <LM>w#w-d1t2224-2</LM>
 </w.rf>
 <form>Alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m036-d1t2224-3">
 <w.rf>
@@ -2802,7 +2802,7 @@
 <LM>w#w-d1t2246-4</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m036-d1t2246-5">
@@ -2934,8 +2934,8 @@
 <LM>w#w-d1t2256-2</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m036-d1t2256-1">
 <w.rf>
@@ -3357,7 +3357,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m036-d1t2299-14">
 <w.rf>
@@ -3576,16 +3576,16 @@
 <LM>w#w-d1t2303-6</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-2</lemma>
-<tag>TT-------------</tag>
+<lemma>hned-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m036-d1t2303-7">
 <w.rf>
 <LM>w#w-d1t2303-7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m036-d1t2303-10">
 <w.rf>

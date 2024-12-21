@@ -714,8 +714,8 @@
 <LM>w#w-ln94204-70-p2s4w3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-70-p2s4w4">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94204-70-p2s5w7">
 <src.rf>manual</src.rf>

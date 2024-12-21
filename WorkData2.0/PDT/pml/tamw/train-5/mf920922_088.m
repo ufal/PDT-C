@@ -59,8 +59,8 @@
 <LM>w#w-mf920922-088-p2s1Bw1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-088-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -1761,8 +1761,8 @@
 <LM>w#w-mf920922-088-p2s6w30</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-088-p2s6w31">
 <src.rf>manual</src.rf>

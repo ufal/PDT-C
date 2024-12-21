@@ -178,7 +178,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Florencie</form>
-<lemma>Florencie_;G</lemma>
+<lemma>Florencie_;G_;Y</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-026-p2s1Bw4">
@@ -745,7 +745,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-mf930713-026-p2s4w3">
 <src.rf>manual</src.rf>
@@ -780,8 +780,8 @@
 <LM>w#w-mf930713-026-p2s4w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-026-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1164,8 +1164,8 @@
 <LM>w#w-mf930713-026-p2s7w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-026-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-026-p2s7w24">
 <src.rf>manual</src.rf>
@@ -2199,7 +2199,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-026-p2s11w13">
 <src.rf>manual</src.rf>
@@ -2416,7 +2416,7 @@
 <LM>w#w-mf930713-026-p2s12w22</LM>
 </w.rf>
 <form>vleklé</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AAFP4----1A----</tag>
 </m>
 <m id="m-mf930713-026-p2s12w23">
@@ -2819,7 +2819,7 @@
 </w.rf>
 <form>Pescosolidem</form>
 <lemma>Pescosolido_;Y</lemma>
-<tag>NNNS7-----A----</tag>
+<tag>NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-026-p2s15w8">
 <src.rf>manual</src.rf>

@@ -860,8 +860,8 @@
 <LM>w#w-wsj0132-001-p1s2W22</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0132-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1254,7 +1254,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0132-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1400,7 +1400,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0132-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>

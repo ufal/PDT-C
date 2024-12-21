@@ -2159,7 +2159,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-114-p1s9w19">
 <src.rf>manual</src.rf>
@@ -2167,8 +2167,8 @@
 <LM>w#w-lnd94105-114-p1s9w19</LM>
 </w.rf>
 <form>poražení</form>
-<lemma>poražený_^(*4zit)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>poražený-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94105-114-p1s9w20">
 <src.rf>manual</src.rf>
@@ -4194,8 +4194,8 @@
 <LM>w#w-lnd94105-114-p1s19w9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94105-114-p1s19w10">
 <src.rf>manual</src.rf>

@@ -111,8 +111,8 @@
 <LM>w#w-mf920901-061-p2s1w5</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-061-p2s1w6">
 <src.rf>manual</src.rf>
@@ -331,8 +331,8 @@
 <LM>w#w-mf920901-061-p2s3w2</LM>
 </w.rf>
 <form>Špalková</form>
-<lemma>špalkový</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>Špalková_;Y</lemma>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-061-p2s3w3">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-mf920901-061-p2s5w7</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920901-061-p2s5w8">

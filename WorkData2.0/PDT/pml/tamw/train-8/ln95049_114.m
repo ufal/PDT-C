@@ -121,8 +121,8 @@
 <LM>w#w-ln95049-114-p2s1w9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-114-p2s1w10">
 <src.rf>manual</src.rf>
@@ -256,8 +256,8 @@
 <LM>w#w-ln95049-114-p2s1w24</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-114-p2s1w25">
 <src.rf>manual</src.rf>
@@ -566,8 +566,8 @@
 <LM>w#w-ln95049-114-p2s3w18</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-114-p2s3w19">
 <src.rf>manual</src.rf>
@@ -748,8 +748,8 @@
 <LM>w#w-ln95049-114-p2s4w9</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-114-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-ln95049-114-p2s6w16">
 <src.rf>manual</src.rf>
@@ -1485,8 +1485,8 @@
 <LM>w#w-ln95049-114-p3s1w1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-114-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1962,7 +1962,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-114-p4s1w3">
 <src.rf>manual</src.rf>
@@ -2225,7 +2225,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-ln95049-114-p4s2w16">
 <src.rf>manual</src.rf>
@@ -2343,8 +2343,8 @@
 <LM>w#w-ln95049-114-p4s3w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95049-114-p4s3w5">
 <src.rf>manual</src.rf>
@@ -2761,7 +2761,7 @@
 <LM>w#w-ln95049-114-p4s5w15</LM>
 </w.rf>
 <form>uvízne</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-114-p4s5w16">
@@ -3406,8 +3406,8 @@
 <LM>w#w-ln95049-114-p4s8w21</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-114-p4s8w22">
 <src.rf>manual</src.rf>

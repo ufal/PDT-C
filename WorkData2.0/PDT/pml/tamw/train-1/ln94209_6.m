@@ -185,8 +185,8 @@
 <LM>w#w-ln94209-6-p2s1Bw10</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-6-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -1012,8 +1012,8 @@
 <LM>w#w-ln94209-6-p4s1w7</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-6-p4s1w8">
 <src.rf>manual</src.rf>

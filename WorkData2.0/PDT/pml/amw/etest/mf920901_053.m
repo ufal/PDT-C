@@ -3489,7 +3489,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-053-p7s5w3">
 <src.rf>manual</src.rf>
@@ -4356,7 +4356,7 @@
 </w.rf>
 <form>limitován</form>
 <lemma>limitovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-mf920901-053-p9s2w18">
 <src.rf>manual</src.rf>
@@ -4850,7 +4850,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-053-p10s1w16">
 <src.rf>manual</src.rf>
@@ -4951,7 +4951,7 @@
 </w.rf>
 <form>citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920901-053-p10s2w5">
 <src.rf>manual</src.rf>

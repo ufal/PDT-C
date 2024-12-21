@@ -215,7 +215,7 @@
 </w.rf>
 <form>reagovalo</form>
 <lemma>reagovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-ln94207-25-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -484,8 +484,8 @@
 <LM>w#w-ln94207-25-p2s1Cw34</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-25-p2s1Cw35">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karadžić</form>
-<lemma>Karadžić_;Y</lemma>
+<lemma>Karadžić_;Y_,s_^(^DD**Karadžič)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-25-p3s1w23">
@@ -976,8 +976,8 @@
 <LM>w#w-ln94207-25-p3s1w26</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-25-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1441,8 +1441,8 @@
 <LM>w#w-ln94207-25-p4s3w16</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-25-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1533,8 +1533,8 @@
 <LM>w#w-ln94207-25-p4s4w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-25-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1823,8 +1823,8 @@
 <LM>w#w-ln94207-25-p4s5w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-25-p4s5w5">
 <src.rf>manual</src.rf>

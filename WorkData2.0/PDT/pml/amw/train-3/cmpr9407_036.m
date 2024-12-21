@@ -1488,8 +1488,8 @@
 <LM>w#w-cmpr9407-036-p13s2w14</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-036-p13s2w15">
 <src.rf>manual</src.rf>

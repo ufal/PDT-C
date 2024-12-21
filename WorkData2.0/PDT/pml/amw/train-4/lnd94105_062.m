@@ -686,8 +686,8 @@
 <LM>w#w-lnd94105-062-p1s3w13</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94105-062-p1s3w14">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-lnd94105-062-p1s3w15">
 <src.rf>manual</src.rf>
@@ -3250,7 +3250,7 @@
 <LM>w#w-lnd94105-062-p1s16w13</LM>
 </w.rf>
 <form>laděnou</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-lnd94105-062-p1s16w14">
@@ -5023,7 +5023,7 @@
 <LM>w#w-lnd94105-062-p1s25w12</LM>
 </w.rf>
 <form>utváří</form>
-<lemma>utvářet_^(tvořit)</lemma>
+<lemma>utvářet</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-062-p1s25w13">

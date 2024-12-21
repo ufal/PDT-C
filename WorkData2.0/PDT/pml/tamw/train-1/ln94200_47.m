@@ -312,8 +312,8 @@
 <LM>w#w-ln94200-47-p2s1Bw27</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-47-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -658,8 +658,8 @@
 <LM>w#w-ln94200-47-p3s2w16</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-47-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-47-p4s2w9">
 <src.rf>manual</src.rf>

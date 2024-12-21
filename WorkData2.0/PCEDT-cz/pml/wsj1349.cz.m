@@ -416,7 +416,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1349-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -533,7 +533,7 @@
 </w.rf>
 <form>o</form>
 <lemma>o-1</lemma>
-<tag>RR--6----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-wsj1349-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-wsj1349-001-p1s2W14</LM>
 </w.rf>
 <form>napjatou</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-wsj1349-001-p1s2W15-Ta">
@@ -2657,7 +2657,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1349-001-p1s9W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3211,7 +3211,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj1349-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4544,7 +4544,7 @@
 </w.rf>
 <form>delegace</form>
 <lemma>delegace</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1349-001-p1s15W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4553,7 +4553,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1349-001-p1s15W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5069,8 +5069,8 @@
 <LM>w#w-wsj1349-001-p1s17W24</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1349-001-p1s17W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5713,7 +5713,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1349-001-p1s19W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5966,8 +5966,8 @@
 <LM>w#w-wsj1349-001-p1s20W12</LM>
 </w.rf>
 <form>jménem</form>
-<lemma>jméno</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>jménem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1349-001-p1s20W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6275,7 +6275,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1349-001-p1s21W2-Ta">
 <src.rf>tagger-a</src.rf>

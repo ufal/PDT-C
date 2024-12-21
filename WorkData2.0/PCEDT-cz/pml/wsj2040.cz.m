@@ -344,7 +344,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2040-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -689,8 +689,8 @@
 <LM>w#w-wsj2040-001-p1s2W19</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2040-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1199,8 +1199,8 @@
 <LM>w#w-wsj2040-001-p1s5W6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2040-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2520,8 +2520,8 @@
 <LM>w#w-wsj2040-001-p1s12W7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2040-001-p1s12W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5528,7 +5528,7 @@
 </w.rf>
 <form>minimalizovala</form>
 <lemma>minimalizovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj2040-001-p1s25W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5755,7 +5755,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2040-001-p1s26W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6937,7 +6937,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2040-001-p1s29W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8067,7 +8067,7 @@
 </w.rf>
 <form>září</form>
 <lemma>září</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS3-----A----</tag>
 </m>
 <m id="m-wsj2040-001-p1s34W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10592,8 +10592,8 @@
 <LM>w#w-wsj2040-001-p1s47W13</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2040-001-p1s47W14-Ta">
 <src.rf>tagger-a</src.rf>

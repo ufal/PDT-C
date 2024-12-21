@@ -84,8 +84,8 @@
 <LM>w#w-mf930709-085-p1s1Bw5</LM>
 </w.rf>
 <form>UŽ</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-085-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -161,8 +161,8 @@
 <LM>w#w-mf930709-085-p1s1Dw1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-085-p1s1Dw2">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-085-p1s3w9">
 <src.rf>manual</src.rf>
@@ -1663,8 +1663,8 @@
 <LM>w#w-mf930709-085-p1s5w32</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-085-p1s5w33">
 <src.rf>manual</src.rf>

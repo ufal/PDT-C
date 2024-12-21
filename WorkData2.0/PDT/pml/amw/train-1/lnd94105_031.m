@@ -774,8 +774,8 @@
 <LM>w#w-lnd94105-031-p1s6w18</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94105-031-p1s6w19">
 <src.rf>manual</src.rf>

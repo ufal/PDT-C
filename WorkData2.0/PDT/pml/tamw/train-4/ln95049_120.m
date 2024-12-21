@@ -46,8 +46,8 @@
 <LM>w#w-ln95049-120-p1s1w4</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-120-p1s1w5">
 <src.rf>manual</src.rf>

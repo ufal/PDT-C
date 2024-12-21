@@ -747,7 +747,7 @@
 <LM>w#w-lnd94105-020-p1s5w26</LM>
 </w.rf>
 <form>neubrání</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd94105-020-p1s5w27">

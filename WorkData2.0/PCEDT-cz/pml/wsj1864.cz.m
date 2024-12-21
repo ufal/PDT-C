@@ -406,7 +406,7 @@
 </w.rf>
 <form>listopadu</form>
 <lemma>listopad</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS3-----A----</tag>
 </m>
 <m id="m-wsj1864-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>

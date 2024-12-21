@@ -1148,8 +1148,8 @@
 <LM>w#w-wsj1791-001-p1s3W9</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1791-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2168,8 +2168,8 @@
 <LM>w#w-wsj1791-001-p1s8W15</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1791-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2350,8 +2350,8 @@
 <LM>w#w-wsj1791-001-p1s9W6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1791-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2560,7 +2560,7 @@
 </w.rf>
 <form>září</form>
 <lemma>září</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS3-----A----</tag>
 </m>
 <m id="m-wsj1791-001-p1s10W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2686,8 +2686,8 @@
 <LM>w#w-wsj1791-001-p1s10W30</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1791-001-p1s10W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2770,7 +2770,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1791-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>

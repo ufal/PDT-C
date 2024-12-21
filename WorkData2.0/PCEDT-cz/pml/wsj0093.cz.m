@@ -234,8 +234,8 @@
 <LM>w#w-wsj0093-001-p1s1W2</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0093-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -823,8 +823,8 @@
 <LM>w#w-wsj0093-001-p1s3W3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0093-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1140,8 +1140,8 @@
 <LM>w#w-wsj0093-001-p1s4W23</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0093-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2030,8 +2030,8 @@
 <LM>w#w-wsj0093-001-p1s7W32</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0093-001-p1s7W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4019,7 +4019,7 @@
 <LM>w#w-wsj0093-001-p1s16W8</LM>
 </w.rf>
 <form>napjaté</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-wsj0093-001-p1s16W9-Ta">
@@ -4981,8 +4981,8 @@
 <LM>w#w-wsj0093-001-p1s20W10</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0093-001-p1s20W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5449,7 +5449,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0093-001-p1s24W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5821,8 +5821,8 @@
 <LM>w#w-wsj0093-001-p1s26W14</LM>
 </w.rf>
 <form>je</form>
-<lemma>on-1</lemma>
-<tag>PEXP4--3-------</tag>
+<lemma>být</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0093-001-p1s26W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6749,7 +6749,7 @@
 <LM>w#w-wsj0093-001-p1s31W2</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj0093-001-p1s31W3-Ta">
@@ -7076,7 +7076,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0093-001-p1s32W17-Ta">
 <src.rf>tagger-a</src.rf>

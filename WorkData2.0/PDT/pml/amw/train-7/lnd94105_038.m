@@ -394,8 +394,8 @@
 <LM>w#w-lnd94105-038-p1s3w3</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-038-p1s3w4">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 </w.rf>
 <form>nereagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-NAI--</tag>
+<tag>VB-P---3P-NAB--</tag>
 </m>
 <m id="m-lnd94105-038-p1s4w16">
 <src.rf>manual</src.rf>

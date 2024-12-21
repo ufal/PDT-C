@@ -810,8 +810,8 @@
 <LM>w#w-ln94203-46-p2s3w23</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-46-p2s3w24">
 <src.rf>manual</src.rf>

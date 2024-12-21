@@ -2732,7 +2732,7 @@
 </w.rf>
 <form>přesáhla</form>
 <lemma>přesáhnout</lemma>
-<tag>VpQW----R-AAP--</tag>
+<tag>VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj1765-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2886,8 +2886,8 @@
 <LM>w#w-wsj1765-001-p1s12W1</LM>
 </w.rf>
 <form>Následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1765-001-p1s12W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3466,7 +3466,7 @@
 </w.rf>
 <form>rezervy</form>
 <lemma>rezerva</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1765-001-p1s13W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3556,7 +3556,7 @@
 </w.rf>
 <form>rezervy</form>
 <lemma>rezerva</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1765-001-p1s13W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3657,7 +3657,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-wsj1765-001-p1s14W3-Ta">
 <src.rf>tagger-a</src.rf>

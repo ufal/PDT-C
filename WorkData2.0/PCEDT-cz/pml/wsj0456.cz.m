@@ -2580,8 +2580,8 @@
 <LM>w#w-wsj0456-001-p1s12W28</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0456-001-p1s12W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3122,7 +3122,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0456-001-p1s16W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3330,8 +3330,8 @@
 <LM>w#w-wsj0456-001-p1s17W4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0456-001-p1s17W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3513,8 +3513,8 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0456-001-p1s18W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4478,7 +4478,7 @@
 </w.rf>
 <form>věnovali</form>
 <lemma>věnovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj0456-001-p1s23W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4850,8 +4850,8 @@
 <LM>w#w-wsj0456-001-p1s25W12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0456-001-p1s25W13-Ta">
 <src.rf>tagger-a</src.rf>

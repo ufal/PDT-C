@@ -1198,7 +1198,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-026-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1471,8 +1471,8 @@
 <LM>w#w-mf920925-026-p4s3w9</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-026-p4s3w10">
 <src.rf>manual</src.rf>

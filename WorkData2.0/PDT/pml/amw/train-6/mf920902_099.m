@@ -1021,7 +1021,7 @@
 </w.rf>
 <form>nereagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-mf920902-099-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1250,7 +1250,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-099-p2s7w5">
 <src.rf>manual</src.rf>

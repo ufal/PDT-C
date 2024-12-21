@@ -560,8 +560,8 @@
 <LM>w#w-ln94200-69-p2s4w7</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-69-p2s4w8">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94200-69-p2s5w6">
 <src.rf>manual</src.rf>
@@ -751,8 +751,8 @@
 <LM>w#w-ln94200-69-p2s5w17</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-69-p2s5w18">
 <src.rf>manual</src.rf>
@@ -870,8 +870,8 @@
 <LM>w#w-ln94200-69-p2s6w10</LM>
 </w.rf>
 <form>dotázaných</form>
-<lemma>dotázaný_^(*2t)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>dotázaný-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-69-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94200-69-p2s8w14">
 <src.rf>manual</src.rf>

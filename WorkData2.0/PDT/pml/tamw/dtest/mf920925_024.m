@@ -55,7 +55,7 @@
 <LM>w#w-mf920925-024-p1s1w5</LM>
 </w.rf>
 <form>jazzu</form>
-<lemma>jazz</lemma>
+<lemma>jazz_,s_^(^DD**džez)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 </s>
@@ -113,7 +113,7 @@
 <LM>w#w-mf920925-024-p3s1w5</LM>
 </w.rf>
 <form>jazzu</form>
-<lemma>jazz</lemma>
+<lemma>jazz_,s_^(^DD**džez)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 </s>
@@ -178,7 +178,7 @@
 <LM>w#w-mf920925-024-p4s1w7</LM>
 </w.rf>
 <form>jazzových</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAMP2----1A----</tag>
 </m>
 <m id="m-mf920925-024-p4s1w8">
@@ -331,8 +331,8 @@
 <LM>w#w-mf920925-024-p4s1w24</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-024-p4s1w25">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-mf920925-024-p4s1w30</LM>
 </w.rf>
 <form>jazzového</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-mf920925-024-p4s1w31">
@@ -432,7 +432,7 @@
 <LM>w#w-mf920925-024-p4s2w3</LM>
 </w.rf>
 <form>jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-mf920925-024-p4s2w4">
@@ -814,7 +814,7 @@
 <LM>w#w-mf920925-024-p5s2w10</LM>
 </w.rf>
 <form>jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-mf920925-024-p5s2w11">
@@ -935,7 +935,7 @@
 <LM>w#w-mf920925-024-p5s4w3</LM>
 </w.rf>
 <form>jazzového</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-mf920925-024-p5s4w4">
@@ -1245,8 +1245,8 @@
 <LM>w#w-mf920925-024-p5s6w17</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-024-p5s6w18">
 <src.rf>manual</src.rf>
@@ -1582,7 +1582,7 @@
 <LM>w#w-mf920925-024-p6s1w13</LM>
 </w.rf>
 <form>jazzových</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIP6----1A----</tag>
 </m>
 <m id="m-mf920925-024-p6s1w14">
@@ -1665,7 +1665,7 @@
 <LM>w#w-mf920925-024-p6s2w5</LM>
 </w.rf>
 <form>jazzoví</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAMP1----1A----</tag>
 </m>
 <m id="m-mf920925-024-p6s2w6">
@@ -1793,8 +1793,8 @@
 <LM>w#w-mf920925-024-p6s3w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-024-p6s3w8">
 <src.rf>manual</src.rf>
@@ -2006,7 +2006,7 @@
 <LM>w#w-mf920925-024-p6s6w3</LM>
 </w.rf>
 <form>jazzových</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-mf920925-024-p6s6w4">
@@ -2042,8 +2042,8 @@
 <LM>w#w-mf920925-024-p6s6w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-024-p6s6w8">
 <src.rf>manual</src.rf>
@@ -2289,7 +2289,7 @@
 <LM>w#w-mf920925-024-p6s8w5</LM>
 </w.rf>
 <form>jazzový</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-mf920925-024-p6s8w6">
@@ -2334,8 +2334,8 @@
 <LM>w#w-mf920925-024-p6s8w10</LM>
 </w.rf>
 <form>místo</form>
-<lemma>místo-3</lemma>
-<tag>Db-------------</tag>
+<lemma>místo-2_^(záměnou_za)</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920925-024-p6s8w11">
 <src.rf>manual</src.rf>

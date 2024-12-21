@@ -1211,8 +1211,8 @@
 <LM>w#w-wsj2313-001-p1s3W24</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2313-001-p1s3W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1375,7 +1375,7 @@
 <LM>w#w-wsj2313-001-p1s4W6</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj2313-001-p1s4W7-Ta">
@@ -1384,7 +1384,7 @@
 <LM>w#w-wsj2313-001-p1s4W7</LM>
 </w.rf>
 <form>nesežene</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VB-S---3P-NAP--</tag>
 </m>
 <m id="m-wsj2313-001-p1s4W8-Ta">
@@ -1764,8 +1764,8 @@
 <LM>w#w-wsj2313-001-p1s5W3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2313-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1917,8 +1917,8 @@
 <LM>w#w-wsj2313-001-p1s5W20</LM>
 </w.rf>
 <form>hotové</form>
-<lemma>hotový</lemma>
-<tag>AAIP4----1A----</tag>
+<lemma>hotové</lemma>
+<tag>NNIP4-----A----</tag>
 </m>
 <m id="m-wsj2313-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2646,7 +2646,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2313-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>

@@ -790,7 +790,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2245-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -943,8 +943,8 @@
 <LM>w#w-wsj2245-001-p1s2W19</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2245-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>

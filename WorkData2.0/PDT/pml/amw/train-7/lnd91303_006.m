@@ -1303,7 +1303,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-006-p2s7w13">
 <src.rf>manual</src.rf>
@@ -2888,7 +2888,7 @@
 <LM>w#w-lnd91303-006-p5s1w8</LM>
 </w.rf>
 <form>divotvorce</form>
-<lemma>divotvorce</lemma>
+<lemma>divotvorce_,s_^(^DD**divotvůrce)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p5s1w9">
@@ -3291,7 +3291,7 @@
 </w.rf>
 <form>zachoval</form>
 <lemma>zachovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-006-p5s4w5">
 <src.rf>manual</src.rf>
@@ -3745,7 +3745,7 @@
 </w.rf>
 <form>triumfovala</form>
 <lemma>triumfovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd91303-006-p6s1w16">
 <src.rf>manual</src.rf>
@@ -3936,7 +3936,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91303-006-p7s1w7">
 <src.rf>manual</src.rf>

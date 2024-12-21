@@ -710,7 +710,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94204-106-p2s2w34">
 <src.rf>manual</src.rf>
@@ -1781,8 +1781,8 @@
 <LM>w#w-ln94204-106-p4s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-106-p4s1w6">
 <src.rf>manual</src.rf>

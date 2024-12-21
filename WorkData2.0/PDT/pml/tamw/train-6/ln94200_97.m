@@ -47,8 +47,8 @@
 <LM>w#w-ln94200-97-p1s1w4</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-97-p1s1w5">
 <src.rf>manual</src.rf>
@@ -406,8 +406,8 @@
 <LM>w#w-ln94200-97-p2s2w11</LM>
 </w.rf>
 <form>mladistvý</form>
-<lemma>mladistvý</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>mladistvý-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-97-p2s2w12">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-97-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1536,8 +1536,8 @@
 <LM>w#w-ln94200-97-p5s1w1</LM>
 </w.rf>
 <form>Obžalovaný</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-97-p5s1w2">
 <src.rf>manual</src.rf>

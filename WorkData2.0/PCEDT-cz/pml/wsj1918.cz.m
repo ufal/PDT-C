@@ -34,7 +34,7 @@
 <LM>w#w-wsj1918-001-p1s0W3</LM>
 </w.rf>
 <form>vyjednavače</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-wsj1918-001-p1s0W4-Ta">
@@ -360,7 +360,7 @@
 <LM>w#w-wsj1918-001-p1s1W16</LM>
 </w.rf>
 <form>vyjednavač</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1918-001-p1s1W17-Ta">
@@ -652,8 +652,8 @@
 <LM>w#w-wsj1918-001-p1s3W2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1918-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

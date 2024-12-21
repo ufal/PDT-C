@@ -98,12 +98,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1969-001-p1s0W15-Ta">
 <m.rf>m#m-wsj1969-001-p1s0W15-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>15</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -138,30 +138,26 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-<LM id="a-wsj1969-001-p1s1W4-Ta">
-<m.rf>m#m-wsj1969-001-p1s1W4-Ta</m.rf>
-<afun>Apos</afun>
-<ord>4</ord>
-<children>
-<LM id="a-wsj1969-001-p1s1W6-Ta">
-<m.rf>m#m-wsj1969-001-p1s1W6-Ta</m.rf>
-<afun>Sb</afun>
-<is_member>1</is_member>
-<ord>6</ord>
-<children>
 <LM id="a-wsj1969-001-p1s1W5-Ta">
 <m.rf>m#m-wsj1969-001-p1s1W5-Ta</m.rf>
 <afun>Atr</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>5</ord>
 <children>
+<LM id="a-wsj1969-001-p1s1W4-Ta">
+<m.rf>m#m-wsj1969-001-p1s1W4-Ta</m.rf>
+<afun>AuxX</afun>
+<ord>4</ord>
+</LM>
+<LM id="a-wsj1969-001-p1s1W6-Ta">
+<m.rf>m#m-wsj1969-001-p1s1W6-Ta</m.rf>
+<afun>Obj</afun>
+<ord>6</ord>
+</LM>
 <LM id="a-wsj1969-001-p1s1W7-Ta">
 <m.rf>m#m-wsj1969-001-p1s1W7-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>7</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -233,7 +229,7 @@
 <children>
 <LM id="a-wsj1969-001-p1s1W23-Ta">
 <m.rf>m#m-wsj1969-001-p1s1W23-Ta</m.rf>
-<afun>Pnom</afun>
+<afun>Obj</afun>
 <ord>23</ord>
 </LM>
 <LM id="a-wsj1969-001-p1s1W24-Ta">
@@ -275,12 +271,12 @@
 <afun>Sb</afun>
 <ord>27</ord>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1969-001-p1s1W28-Ta">
 <m.rf>m#m-wsj1969-001-p1s1W28-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>28</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -306,6 +302,7 @@
 <LM id="a-wsj1969-001-p1s2W3-Ta">
 <m.rf>m#m-wsj1969-001-p1s2W3-Ta</m.rf>
 <afun>Atr</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>3</ord>
 <children>
 <LM id="a-wsj1969-001-p1s2W2-Ta">
@@ -315,7 +312,7 @@
 </LM>
 <LM id="a-wsj1969-001-p1s2W4-Ta">
 <m.rf>m#m-wsj1969-001-p1s2W4-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>4</ord>
 </LM>
 <LM id="a-wsj1969-001-p1s2W5-Ta">
@@ -423,12 +420,12 @@
 <afun>Sb</afun>
 <ord>23</ord>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1969-001-p1s2W24-Ta">
 <m.rf>m#m-wsj1969-001-p1s2W24-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

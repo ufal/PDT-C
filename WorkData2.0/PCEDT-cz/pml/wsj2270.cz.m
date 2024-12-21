@@ -503,7 +503,6 @@
 <w.rf>
 <LM>w#w-wsj2270-001-p1s2W22</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.6</form>
 <lemma>1.6</lemma>
 <tag>C=-------------</tag>
@@ -2107,9 +2106,9 @@
 <w.rf>
 <LM>w#w-wsj2270-001-p1s7W19</LM>
 </w.rf>
-<form>indonéské</form>
+<form>indonéskou</form>
 <lemma>indonéský</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>AAFS7----1A----</tag>
 </m>
 <m id="m-wsj2270-001-p1s7W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2118,16 +2117,16 @@
 </w.rf>
 <form>státní</form>
 <lemma>státní</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>AAFS7----1A----</tag>
 </m>
 <m id="m-wsj2270-001-p1s7W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2270-001-p1s7W21</LM>
 </w.rf>
-<form>společnosti</form>
+<form>společností</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS7-----A----</tag>
 </m>
 <m id="m-wsj2270-001-p1s7W22-Ta">
 <src.rf>tagger-a</src.rf>

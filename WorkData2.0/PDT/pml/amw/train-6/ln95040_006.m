@@ -748,7 +748,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-006-p2s3w24">
 <src.rf>manual</src.rf>
@@ -1183,8 +1183,8 @@
 <LM>w#w-ln95040-006-p2s5w9</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-006-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 </w.rf>
 <form>nereagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-NAI--</tag>
+<tag>VB-P---3P-NAB--</tag>
 </m>
 <m id="m-ln95040-006-p2s5w17">
 <src.rf>manual</src.rf>

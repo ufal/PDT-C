@@ -229,7 +229,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AANS2----1A----</tag>
+<tag>PLNS2----------</tag>
 </m>
 <m id="m-ln94208-92-p2s1w14">
 <src.rf>manual</src.rf>
@@ -608,8 +608,8 @@
 <LM>w#w-ln94208-92-p3s1w6</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-92-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1299,7 +1299,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-92-p4s2w4">
 <src.rf>manual</src.rf>

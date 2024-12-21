@@ -88,8 +88,8 @@
 <LM>w#w-wsj0260-001-p1s0W9</LM>
 </w.rf>
 <form>jménem</form>
-<lemma>jméno</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>jménem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0260-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>

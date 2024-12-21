@@ -18,7 +18,8 @@
 <children>
 <LM id="a-ln95044-031-p1s1w1">
 <m.rf>m#m-ln95044-031-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -120,24 +121,26 @@
 <ord>13</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-ln95044-031-p2s1w15">
-<m.rf>m#m-ln95044-031-p2s1w15</m.rf>
-<afun>ExD</afun>
-<ord>15</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-ln95044-031-p2s1w16">
 <m.rf>m#m-ln95044-031-p2s1w16</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
 <ord>16</ord>
+<clause_number>1</clause_number>
+<children>
+<LM id="a-ln95044-031-p2s1w15">
+<m.rf>m#m-ln95044-031-p2s1w15</m.rf>
+<afun>AuxG</afun>
+<ord>15</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95044-031-p2s1w17">
 <m.rf>m#m-ln95044-031-p2s1w17</m.rf>
-<afun>ExD</afun>
+<afun>AuxG</afun>
 <ord>17</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -249,14 +252,14 @@
 </LM>
 <LM id="a-ln95044-031-p2s2w7">
 <m.rf>m#m-ln95044-031-p2s2w7</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95044-031-p2s2w9">
 <m.rf>m#m-ln95044-031-p2s2w9</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
@@ -281,15 +284,17 @@
 </LM>
 <LM id="a-ln95044-031-p2s2w13">
 <m.rf>m#m-ln95044-031-p2s2w13</m.rf>
-<afun>ExD</afun>
+<afun>Pnom</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>13</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95044-031-p2s2w14">
 <m.rf>m#m-ln95044-031-p2s2w14</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>14</ord>
 <clause_number>1</clause_number>
 <children>
@@ -308,14 +313,14 @@
 </LM>
 <LM id="a-ln95044-031-p2s2w16">
 <m.rf>m#m-ln95044-031-p2s2w16</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>16</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95044-031-p2s2w18">
 <m.rf>m#m-ln95044-031-p2s2w18</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>18</ord>
 <clause_number>1</clause_number>

@@ -504,8 +504,8 @@
 <LM>w#w-lnd94103-020-p1s5w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94103-020-p1s5w2">
 <src.rf>manual</src.rf>
@@ -513,8 +513,8 @@
 <LM>w#w-lnd94103-020-p1s5w2</LM>
 </w.rf>
 <form>dále</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------2A---1</tag>
+<lemma>dále-3_^(také,_za_další)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94103-020-p1s5w3">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-020-p1s6w14">
 <src.rf>manual</src.rf>

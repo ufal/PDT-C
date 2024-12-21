@@ -1322,8 +1322,8 @@
 <LM>w#w-ln94206-81-p7s1w10</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-81-p7s1w11">
 <src.rf>manual</src.rf>
@@ -1522,8 +1522,8 @@
 <LM>w#w-ln94206-81-p7s2w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-81-p7s2w8">
 <src.rf>manual</src.rf>
@@ -2292,7 +2292,7 @@
 <LM>w#w-ln94206-81-p11s1w3</LM>
 </w.rf>
 <form>Mosambického</form>
-<lemma>mosambický</lemma>
+<lemma>mosambický_,s_^(^DD**mozambický)</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-ln94206-81-p11s1w4">

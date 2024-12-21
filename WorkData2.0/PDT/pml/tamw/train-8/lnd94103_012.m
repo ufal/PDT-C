@@ -770,7 +770,7 @@
 </w.rf>
 <form>To</form>
 <lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m-lnd94103-012-p1s7w2">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 </w.rf>
 <form>vše</form>
 <lemma>všechen</lemma>
-<tag>PLNS4---------1</tag>
+<tag>PLNS1---------1</tag>
 </m>
 <m id="m-lnd94103-012-p1s7w3">
 <src.rf>manual</src.rf>
@@ -2133,8 +2133,8 @@
 <LM>w#w-lnd94103-012-p1s15w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-012-p1s15w4">
 <src.rf>manual</src.rf>

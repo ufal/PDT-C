@@ -1437,8 +1437,8 @@
 <LM>w#w-ln95045-073-p4s1w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-073-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1927,8 +1927,8 @@
 <LM>w#w-ln95045-073-p5s1w20</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-073-p5s1w21">
 <src.rf>manual</src.rf>

@@ -19,8 +19,8 @@
 <LM>w#w-ln95041-103-p1s1w1</LM>
 </w.rf>
 <form>Opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-103-p1s1w2">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 </w.rf>
 <form>dominuje</form>
 <lemma>dominovat</lemma>
-<tag>VB-S---3P-AAB--</tag>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-103-p3s1w27">
 <src.rf>manual</src.rf>
@@ -3155,7 +3155,7 @@
 </w.rf>
 <form>blokuje</form>
 <lemma>blokovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95041-103-p7s1w12">
 <src.rf>manual</src.rf>
@@ -3881,7 +3881,7 @@
 </w.rf>
 <form>zachován</form>
 <lemma>zachovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-103-p8s2w20">
 <src.rf>manual</src.rf>

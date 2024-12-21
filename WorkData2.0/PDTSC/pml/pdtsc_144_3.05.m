@@ -346,8 +346,8 @@
 <LM>w#w-d1t1471-14</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t1471-16">
 <w.rf>
@@ -508,8 +508,8 @@
 <LM>w#w-d1t1482-1</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1e1464-x2-137">
 <w.rf>
@@ -1642,8 +1642,8 @@
 <LM>w#w-d1t1562-22</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d-id100946-punct">
 <w.rf>
@@ -2790,8 +2790,8 @@
 <LM>w#w-d1t1622-12</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t1622-13">
 <w.rf>
@@ -3065,7 +3065,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t1653-5">
 <w.rf>
@@ -3558,8 +3558,8 @@
 <LM>w#w-355-357</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t1685-2">
 <w.rf>
@@ -3614,8 +3614,8 @@
 <LM>w#w-d1t1685-8</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t1685-9">
 <w.rf>
@@ -3656,7 +3656,7 @@
 <LM>w#w-388-390</LM>
 </w.rf>
 <form>mikrofon</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m102-388-392">
@@ -3692,8 +3692,8 @@
 <LM>w#w-d1t1703-2</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m102-d1t1703-3">
 <w.rf>
@@ -3716,7 +3716,7 @@
 <LM>w#w-d1t1703-5</LM>
 </w.rf>
 <form>mikrofon</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m102-d-id105779-punct">
@@ -3748,8 +3748,8 @@
 <LM>w#w-d1t1703-8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m102-d1e1700-x2-386">
 <w.rf>

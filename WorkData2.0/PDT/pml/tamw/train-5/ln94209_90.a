@@ -116,7 +116,7 @@
 <children>
 <LM id="a-ln94209-90-p1s1Aw14">
 <m.rf>m#m-ln94209-90-p1s1Aw14</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>14</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -162,13 +162,15 @@
 <children>
 <LM id="a-ln94209-90-p1s1Bw1">
 <m.rf>m#m-ln94209-90-p1s1Bw1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94209-90-p1s1Bw2">
 <m.rf>m#m-ln94209-90-p1s1Bw2</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>

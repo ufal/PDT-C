@@ -1610,7 +1610,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-014-p6s5w5">
 <src.rf>manual</src.rf>
@@ -4021,7 +4021,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-014-p9s2w4">
 <src.rf>manual</src.rf>
@@ -4459,8 +4459,8 @@
 <LM>w#w-lnd91301-014-p10s1w20</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd91301-014-p10s1w21">
 <src.rf>manual</src.rf>
@@ -5906,8 +5906,8 @@
 <LM>w#w-lnd91301-014-p13s4w7</LM>
 </w.rf>
 <form>nejbližší</form>
-<lemma>blízký</lemma>
-<tag>AAMP1----3A----</tag>
+<lemma>nejbližší</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91301-014-p13s4w8">
 <src.rf>manual</src.rf>

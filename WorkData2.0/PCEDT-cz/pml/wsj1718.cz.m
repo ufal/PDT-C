@@ -714,7 +714,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1718-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -914,7 +914,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1718-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>

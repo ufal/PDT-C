@@ -260,8 +260,8 @@
 <LM>w#w-d1t1836-4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t1836-5">
 <w.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-d1t1862-15</LM>
 </w.rf>
 <form>Pepíno</form>
-<lemma>Pepíno_;Y_,h</lemma>
+<lemma>Pepíno_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m145-d1e1859-x2-392">
@@ -970,7 +970,7 @@
 <LM>w#w-d1t1864-17</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m145-d1t1864-18">
@@ -1406,8 +1406,8 @@
 <LM>w#w-d1t1899-2</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m145-d1t1899-3">
 <w.rf>
@@ -1770,7 +1770,7 @@
 <LM>w#w-d1t1943-4</LM>
 </w.rf>
 <form>Pepíno</form>
-<lemma>Pepíno_;Y_,h</lemma>
+<lemma>Pepíno_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m145-d1t1943-6">
@@ -2010,7 +2010,7 @@
 <LM>w#w-d1t1962-14</LM>
 </w.rf>
 <form>Pepíno</form>
-<lemma>Pepíno_;Y_,h</lemma>
+<lemma>Pepíno_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m145-d1t1962-2">
@@ -2069,7 +2069,7 @@
 </w.rf>
 <form>To</form>
 <lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<tag>PDNS4----------</tag>
 </m>
 <m id="m145-d1t1962-10">
 <w.rf>
@@ -2308,7 +2308,7 @@
 <LM>w#w-d1t1976-18</LM>
 </w.rf>
 <form>Pepína</form>
-<lemma>Pepíno_;Y_,h</lemma>
+<lemma>Pepíno_;Y</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m145-d-m-d1e1973-x2-punct-punct">
@@ -2494,8 +2494,8 @@
 <LM>w#w-d1t2012-1</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t2012-2">
 <w.rf>
@@ -2511,7 +2511,7 @@
 </w.rf>
 <form>to</form>
 <lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<tag>PDNS4----------</tag>
 </m>
 <m id="m145-d1t2012-4">
 <w.rf>

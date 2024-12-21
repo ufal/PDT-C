@@ -365,8 +365,8 @@
 <LM>w#w-ln94208-94-p2s2w20</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94208-94-p2s2w21">
 <src.rf>manual</src.rf>

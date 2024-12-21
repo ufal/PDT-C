@@ -836,8 +836,8 @@
 <LM>w#w-mf920922-085-p2s6w6</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-085-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1236,8 +1236,8 @@
 <LM>w#w-mf920922-085-p2s8w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-085-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1528,8 +1528,8 @@
 <LM>w#w-mf920922-085-p2s10w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-085-p2s10w9">
 <src.rf>manual</src.rf>

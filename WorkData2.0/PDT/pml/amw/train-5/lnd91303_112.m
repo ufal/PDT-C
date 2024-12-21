@@ -1687,7 +1687,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-112-p5s4w34">
 <src.rf>manual</src.rf>
@@ -2150,7 +2150,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd91303-112-p6s2w9">
 <src.rf>manual</src.rf>
@@ -2159,7 +2159,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-112-p6s2w10">
 <src.rf>manual</src.rf>

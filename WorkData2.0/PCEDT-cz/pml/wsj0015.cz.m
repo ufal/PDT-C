@@ -750,7 +750,7 @@
 </w.rf>
 <form>každému</form>
 <lemma>každý</lemma>
-<tag>AAMS3----1A----</tag>
+<tag>PLMS3----------</tag>
 </m>
 <m id="m-wsj0015-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1193,7 +1193,7 @@
 </w.rf>
 <form>blokovat</form>
 <lemma>blokovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0015-001-p1s3W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2607,7 +2607,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0015-001-p1s10W23-Ta">
 <src.rf>tagger-a</src.rf>

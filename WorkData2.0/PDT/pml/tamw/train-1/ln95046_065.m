@@ -766,7 +766,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-065-p2s4w4">
 <src.rf>manual</src.rf>
@@ -2083,7 +2083,7 @@
 <LM>w#w-ln95046-065-p4s2w11</LM>
 </w.rf>
 <form>regulérnost</form>
-<lemma>regulérnost</lemma>
+<lemma>regulérnost_,s_^(^DD**regulárnost)</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m-ln95046-065-p4s2w12">

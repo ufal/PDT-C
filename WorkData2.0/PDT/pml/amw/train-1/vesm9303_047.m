@@ -531,7 +531,7 @@
 <LM>w#w-vesm9303-047-p3s3w19</LM>
 </w.rf>
 <form>vyvratitelné</form>
-<lemma>vyvratitelný_^(*8átit)</lemma>
+<lemma>vyvratitelný_,s_^(^DD**vyvrátitelný)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p3s3w20">
@@ -2072,7 +2072,7 @@
 <LM>w#w-vesm9303-047-p5s3w7</LM>
 </w.rf>
 <form>vyvratitelnost</form>
-<lemma>vyvratitelnost_^(*3ý)</lemma>
+<lemma>vyvratitelnost_^(^DD**vyvrátitelnost)_(*3ý)</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p5s3w8">
@@ -3979,8 +3979,8 @@
 <LM>w#w-vesm9303-047-p8s6w1</LM>
 </w.rf>
 <form>Stranou</form>
-<lemma>stranou</lemma>
-<tag>Db-------------</tag>
+<lemma>stranou-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-047-p8s6w2">
 <src.rf>manual</src.rf>
@@ -4813,7 +4813,7 @@
 <LM>w#w-vesm9303-047-p9s3w10</LM>
 </w.rf>
 <form>vyvratitelnou</form>
-<lemma>vyvratitelný_^(*8átit)</lemma>
+<lemma>vyvratitelný_,s_^(^DD**vyvrátitelný)</lemma>
 <tag>AAFS7----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p9s3w11">
@@ -5222,7 +5222,7 @@
 <LM>w#w-vesm9303-047-p9s5w19</LM>
 </w.rf>
 <form>vyvratitelný</form>
-<lemma>vyvratitelný_^(*8átit)</lemma>
+<lemma>vyvratitelný_,s_^(^DD**vyvrátitelný)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p9s5w20">
@@ -5569,7 +5569,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-047-p10s2w3">
 <src.rf>manual</src.rf>
@@ -5604,7 +5604,7 @@
 <LM>w#w-vesm9303-047-p10s2w6</LM>
 </w.rf>
 <form>vyvratitelné</form>
-<lemma>vyvratitelný_^(*8átit)</lemma>
+<lemma>vyvratitelný_,s_^(^DD**vyvrátitelný)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p10s2w7">
@@ -6598,8 +6598,8 @@
 <LM>w#w-vesm9303-047-p11s3w15</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-047-p11s3w16">
 <src.rf>manual</src.rf>
@@ -8856,8 +8856,8 @@
 <LM>w#w-vesm9303-047-p13s6w6</LM>
 </w.rf>
 <form>cestou</form>
-<lemma>cesta</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>cestou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-047-p13s6w7">
 <src.rf>manual</src.rf>
@@ -12113,7 +12113,7 @@
 <LM>w#w-vesm9303-047-p18s2w5</LM>
 </w.rf>
 <form>vyvratitelnost</form>
-<lemma>vyvratitelnost_^(*3ý)</lemma>
+<lemma>vyvratitelnost_^(^DD**vyvrátitelnost)_(*3ý)</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p18s2w6">
@@ -12641,8 +12641,8 @@
 <LM>w#w-vesm9303-047-p19s1w16</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-047-p19s1w17">
 <src.rf>manual</src.rf>
@@ -14763,8 +14763,8 @@
 <LM>w#w-vesm9303-047-p23s1w10</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-047-p23s1w11">
 <src.rf>manual</src.rf>
@@ -16014,7 +16014,7 @@
 <LM>w#w-vesm9303-047-p25s2w1</LM>
 </w.rf>
 <form>Zjednodušené</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p25s2w2">

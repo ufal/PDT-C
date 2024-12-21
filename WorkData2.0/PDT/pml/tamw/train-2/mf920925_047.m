@@ -369,8 +369,8 @@
 <LM>w#w-mf920925-047-p2s3w5</LM>
 </w.rf>
 <form>nečekaně</form>
-<lemma>čekaně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nečekaně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-mf920925-047-p2s3w6">
 <src.rf>manual</src.rf>

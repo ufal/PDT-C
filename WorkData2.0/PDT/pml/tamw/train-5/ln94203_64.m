@@ -1432,8 +1432,8 @@
 <LM>w#w-ln94203-64-p4s3w24</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94203-64-p4s3w25">
 <src.rf>manual</src.rf>
@@ -1477,8 +1477,8 @@
 <LM>w#w-ln94203-64-p4s3w29</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94203-64-p4s3w30">
 <src.rf>manual</src.rf>

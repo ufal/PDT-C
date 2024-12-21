@@ -28,8 +28,8 @@
 <LM>w#w-d1t577-8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m024-d1t577-11">
 <w.rf>
@@ -1070,8 +1070,8 @@
 <LM>w#w-d1t646-16</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m024-d1t646-18">
 <w.rf>
@@ -1097,7 +1097,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m024-d1t648-1">
 <w.rf>
@@ -1242,8 +1242,8 @@
 <LM>w#w-d1t650-10</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-4_^(který:_o_těch,_co_odešli)</lemma>
-<tag>P4XXX----------</tag>
+<lemma>co-5_^(př._co_nejméně,_co_nevidět_atd.)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m024-d1t650-11">
 <w.rf>
@@ -1678,8 +1678,8 @@
 <LM>w#w-d1t675-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m024-d1t675-2">
 <w.rf>
@@ -1802,8 +1802,8 @@
 <LM>w#w-d1t679-9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m024-d1t685-1">
 <w.rf>
@@ -1828,8 +1828,8 @@
 <LM>w#w-d1t687-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m024-d-m-d1e680-x3-punct-punct">
 <w.rf>
@@ -1912,8 +1912,8 @@
 <LM>w#w-d1t695-2</LM>
 </w.rf>
 <form>dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m024-d-m-d1e692-x2-punct-punct">
 <w.rf>
@@ -2278,8 +2278,8 @@
 <LM>w#w-d1t735-2</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m024-d1t735-5">
 <w.rf>
@@ -3293,7 +3293,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m024-d1t811-5">
 <w.rf>
@@ -3319,7 +3319,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m024-d-m-d1e812-x2-punct-punct">
 <w.rf>

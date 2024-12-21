@@ -764,7 +764,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-053-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1109,8 +1109,8 @@
 <LM>w#w-ln95045-053-p3s4w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-053-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1563,8 +1563,8 @@
 <LM>w#w-ln95045-053-p4s2w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-053-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1982,7 +1982,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-053-p5s2w8">
 <src.rf>manual</src.rf>

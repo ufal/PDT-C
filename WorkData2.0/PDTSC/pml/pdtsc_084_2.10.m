@@ -92,8 +92,8 @@
 <LM>w#w-d1t2773-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t2775-1">
 <w.rf>
@@ -491,7 +491,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t2806-9">
 <w.rf>
@@ -614,8 +614,8 @@
 <LM>w#w-d1t2814-4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t2814-5">
 <w.rf>
@@ -823,7 +823,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m133-d1t2847-3">
 <w.rf>
@@ -1003,7 +1003,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m133-d1t2862-5">
 <w.rf>
@@ -1103,7 +1103,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m133-d1t2871-9">
 <w.rf>
@@ -1727,7 +1727,7 @@
 <LM>w#w-d1t2914-3</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m133-225-226">
@@ -2250,7 +2250,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t2938-6">
 <w.rf>
@@ -2559,8 +2559,8 @@
 <LM>w#w-d1t2948-9</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t2948-10">
 <w.rf>
@@ -2670,7 +2670,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t2962-4">
 <w.rf>
@@ -3323,8 +3323,8 @@
 <LM>w#w-d1t3003-8</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t3003-9">
 <w.rf>
@@ -4165,8 +4165,8 @@
 <LM>w#w-d1t3054-4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t3054-6">
 <w.rf>

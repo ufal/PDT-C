@@ -194,8 +194,8 @@
 <LM>w#w-d1t30-4</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m050-d1t30-5">
 <w.rf>
@@ -270,8 +270,8 @@
 <LM>w#w-d1t42-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m050-d1t42-2">
 <w.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-d1t56-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m050-d1t56-3">
@@ -1348,8 +1348,8 @@
 <LM>w#w-d1t143-1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m050-d1t143-2">
 <w.rf>
@@ -1511,7 +1511,7 @@
 </w.rf>
 <form>to</form>
 <lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m050-d1e146-x2-81">
 <w.rf>
@@ -1670,7 +1670,7 @@
 <LM>w#w-d1t174-2</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m050-d1t174-5">
@@ -1745,7 +1745,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m050-86-88">
 <w.rf>
@@ -1803,7 +1803,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m050-d1t182-3">
 <w.rf>
@@ -2386,7 +2386,7 @@
 <LM>w#w-d1t214-26</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m050-d1t214-28">
@@ -2724,7 +2724,7 @@
 <LM>w#w-d1t251-8</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m050-123-125">

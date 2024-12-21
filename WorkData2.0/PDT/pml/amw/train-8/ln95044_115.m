@@ -664,7 +664,7 @@
 <LM>w#w-ln95044-115-p2s2w23</LM>
 </w.rf>
 <form>devótnosti</form>
-<lemma>devótnost</lemma>
+<lemma>devótnost_,s_^(^DD**devotnost)</lemma>
 <tag>NNFS3-----A----</tag>
 </m>
 <m id="m-ln95044-115-p2s2w24">

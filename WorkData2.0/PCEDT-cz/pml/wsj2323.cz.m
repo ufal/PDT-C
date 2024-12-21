@@ -675,7 +675,7 @@
 <LM>w#w-wsj2323-001-p1s1W43</LM>
 </w.rf>
 <form>domnělé</form>
-<lemma>domnělý_^(*3ít)</lemma>
+<lemma>domnělý</lemma>
 <tag>AANS4----1A----</tag>
 </m>
 <m id="m-wsj2323-001-p1s1W44-Ta">

@@ -230,8 +230,8 @@
 <LM>w#w-lnd94103-015-p1s3Aw8</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-015-p1s3Aw9">
 <src.rf>manual</src.rf>

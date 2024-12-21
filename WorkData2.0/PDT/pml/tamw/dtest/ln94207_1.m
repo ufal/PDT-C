@@ -314,7 +314,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-1-p2s2w9">
 <src.rf>manual</src.rf>
@@ -452,8 +452,8 @@
 <LM>w#w-ln94207-1-p2s4w5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-1-p2s4w6">
 <src.rf>manual</src.rf>

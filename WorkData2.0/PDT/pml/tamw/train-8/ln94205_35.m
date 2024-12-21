@@ -504,8 +504,8 @@
 <LM>w#w-ln94205-35-p2s1Cw28</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94205-35-p2s1Cw29">
 <src.rf>manual</src.rf>
@@ -513,8 +513,8 @@
 <LM>w#w-ln94205-35-p2s1Cw29</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-35-p2s1Cw30">
 <src.rf>manual</src.rf>
@@ -848,8 +848,8 @@
 <LM>w#w-ln94205-35-p3s1w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-35-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1093,8 +1093,8 @@
 <LM>w#w-ln94205-35-p3s2w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-35-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1374,8 +1374,8 @@
 <LM>w#w-ln94205-35-p3s3w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-35-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1940,8 +1940,8 @@
 <LM>w#w-ln94205-35-p3s6w9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-35-p3s6w10">
 <src.rf>manual</src.rf>
@@ -2041,8 +2041,8 @@
 <LM>w#w-ln94205-35-p3s7w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-35-p3s7w10">
 <src.rf>manual</src.rf>
@@ -2223,8 +2223,8 @@
 <LM>w#w-ln94205-35-p3s8w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-35-p3s8w10">
 <src.rf>manual</src.rf>
@@ -2478,7 +2478,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-35-p3s9w6">
 <src.rf>manual</src.rf>
@@ -2740,8 +2740,8 @@
 <LM>w#w-ln94205-35-p3s10w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-35-p3s10w17">
 <src.rf>manual</src.rf>

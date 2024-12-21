@@ -423,8 +423,8 @@
 <LM>w#w-ln95048-139-p2s2w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-139-p2s2w5">
 <src.rf>manual</src.rf>
@@ -888,8 +888,8 @@
 <LM>w#w-ln95048-139-p3s2Aw1</LM>
 </w.rf>
 <form>Prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95048-139-p3s2Aw2">
 <src.rf>manual</src.rf>
@@ -2895,8 +2895,8 @@
 <LM>w#w-ln95048-139-p3s13w3</LM>
 </w.rf>
 <form>zatčeným</form>
-<lemma>zatčený</lemma>
-<tag>AAMP3----1A----</tag>
+<lemma>zatčený-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-ln95048-139-p3s13w4">
 <src.rf>manual</src.rf>

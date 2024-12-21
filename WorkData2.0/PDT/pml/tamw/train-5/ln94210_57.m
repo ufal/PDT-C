@@ -542,8 +542,8 @@
 <LM>w#w-ln94210-57-p2s4w3</LM>
 </w.rf>
 <form>totiž</form>
-<lemma>totiž-2</lemma>
-<tag>TT-------------</tag>
+<lemma>totiž-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94210-57-p2s4w4">
 <src.rf>manual</src.rf>

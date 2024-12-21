@@ -258,8 +258,8 @@
 <LM>w#w-ln95040-030-p2s1Bw19</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95040-030-p2s1Bw20">
 <src.rf>manual</src.rf>

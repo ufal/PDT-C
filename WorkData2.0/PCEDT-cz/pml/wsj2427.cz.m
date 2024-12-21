@@ -379,8 +379,8 @@
 <LM>w#w-wsj2427-001-p1s1W8</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj2427-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -389,7 +389,7 @@
 </w.rf>
 <form>zaměstnanci</form>
 <lemma>zaměstnanec</lemma>
-<tag>NNMP1-----A----</tag>
+<tag>NNMP7-----A----</tag>
 </m>
 <m id="m-wsj2427-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

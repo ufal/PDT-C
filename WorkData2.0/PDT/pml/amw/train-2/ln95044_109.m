@@ -1278,7 +1278,7 @@
 <LM>w#w-ln95044-109-p4s2w9</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-109-p4s2w10">
@@ -1822,7 +1822,7 @@
 <LM>w#w-ln95044-109-p5s1w20</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-109-p5s1w21">

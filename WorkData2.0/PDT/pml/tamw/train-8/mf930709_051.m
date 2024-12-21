@@ -1302,8 +1302,8 @@
 <LM>w#w-mf930709-051-p5s2w10</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf930709-051-p5s2w11">
 <src.rf>manual</src.rf>

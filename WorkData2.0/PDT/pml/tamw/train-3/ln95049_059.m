@@ -66,8 +66,8 @@
 <LM>w#w-ln95049-059-p2s1w2</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-059-p2s1w3">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln95049-059-p2s1w15</LM>
 </w.rf>
 <form>jazzu</form>
-<lemma>jazz</lemma>
+<lemma>jazz_,s_^(^DD**džez)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-059-p2s1w16">
@@ -502,8 +502,8 @@
 <LM>w#w-ln95049-059-p3s2w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-059-p3s2w6">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-059-p3s2w11">
 <src.rf>manual</src.rf>
@@ -731,8 +731,8 @@
 <LM>w#w-ln95049-059-p4s2w7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-059-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1737,8 +1737,8 @@
 <LM>w#w-ln95049-059-p5s3w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-059-p5s3w15">
 <src.rf>manual</src.rf>
@@ -1847,8 +1847,8 @@
 <LM>w#w-ln95049-059-p5s4w2</LM>
 </w.rf>
 <form>Prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95049-059-p5s4w3">
 <src.rf>manual</src.rf>
@@ -2182,8 +2182,8 @@
 <LM>w#w-ln95049-059-p6s1w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-059-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2564,8 +2564,8 @@
 <LM>w#w-ln95049-059-p7s2w11</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-059-p7s2w12">
 <src.rf>manual</src.rf>
@@ -2793,8 +2793,8 @@
 <LM>w#w-ln95049-059-p7s4w3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-059-p7s4w4">
 <src.rf>manual</src.rf>

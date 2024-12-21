@@ -165,8 +165,8 @@
 <LM>w#w-ln95043-085-p1s2w3</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-085-p1s2w4">
 <src.rf>manual</src.rf>

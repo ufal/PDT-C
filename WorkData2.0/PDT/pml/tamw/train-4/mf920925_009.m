@@ -340,8 +340,8 @@
 <LM>w#w-mf920925-009-p2s3w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-009-p2s3w5">
 <src.rf>manual</src.rf>
@@ -432,8 +432,8 @@
 <LM>w#w-mf920925-009-p2s4w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920925-009-p2s4w4">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-009-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1506,8 +1506,8 @@
 <LM>w#w-mf920925-009-p4s2w20</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-009-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1590,7 +1590,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-009-p5s1w4">
 <src.rf>manual</src.rf>

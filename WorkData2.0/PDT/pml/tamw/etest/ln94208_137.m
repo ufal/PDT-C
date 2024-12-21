@@ -239,8 +239,8 @@
 <LM>w#w-ln94208-137-p2s1Bw11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-137-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-ln94208-137-p2s2w11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-ln94208-137-p2s2w12">
@@ -603,8 +603,8 @@
 <LM>w#w-ln94208-137-p3s1w3</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-137-p3s1w4">
 <src.rf>manual</src.rf>
@@ -897,8 +897,8 @@
 <LM>w#w-ln94208-137-p3s4w1</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-137-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1216,8 +1216,8 @@
 <LM>w#w-ln94208-137-p3s6w1</LM>
 </w.rf>
 <form>Alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-137-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1414,8 +1414,8 @@
 <LM>w#w-ln94208-137-p3s6w23</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-137-p3s6w24">
 <src.rf>manual</src.rf>
@@ -1850,8 +1850,8 @@
 <LM>w#w-ln94208-137-p3s8w8</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-137-p3s8w9">
 <src.rf>manual</src.rf>
@@ -2142,8 +2142,8 @@
 <LM>w#w-ln94208-137-p3s10w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-137-p3s10w6">
 <src.rf>manual</src.rf>
@@ -2253,7 +2253,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln94208-137-p3s11w2">
 <src.rf>manual</src.rf>

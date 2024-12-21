@@ -1032,7 +1032,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-030-p2s6w13">
 <src.rf>manual</src.rf>
@@ -4736,7 +4736,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-030-p7s6w2">
 <src.rf>manual</src.rf>
@@ -4825,8 +4825,8 @@
 <LM>w#w-vesm9211-030-p7s6w11</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-030-p7s6w12">
 <src.rf>manual</src.rf>
@@ -8400,7 +8400,7 @@
 </w.rf>
 <form>reaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-030-p16s2w10">
 <src.rf>manual</src.rf>
@@ -9738,8 +9738,8 @@
 <LM>w#w-vesm9211-030-p16s9w12</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-030-p16s9w13">
 <src.rf>manual</src.rf>
@@ -10060,7 +10060,7 @@
 </w.rf>
 <form>referuje</form>
 <lemma>referovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-030-p19s1w8">
 <src.rf>manual</src.rf>
@@ -11634,7 +11634,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-030-p20s4w3">
 <src.rf>manual</src.rf>
@@ -12511,8 +12511,8 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>s</form>
-<lemma>s-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>s-1</lemma>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-vesm9211-030-p23s2Bw29">
 <src.rf>manual</src.rf>
@@ -12521,8 +12521,8 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-vesm9211-030-p23s2Bw30">
 <src.rf>manual</src.rf>
@@ -12715,7 +12715,7 @@
 </w.rf>
 <form>Referují</form>
 <lemma>referovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-030-p23s4w2">
 <src.rf>manual</src.rf>
@@ -15201,7 +15201,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-030-p31s2w2">
 <src.rf>manual</src.rf>
@@ -15301,7 +15301,7 @@
 <LM>w#w-vesm9211-030-p31s2w12</LM>
 </w.rf>
 <form>zjednodušenou</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AAFS7----1A----</tag>
 </m>
 <m id="m-vesm9211-030-p31s2w13">
@@ -15367,7 +15367,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-030-p31s3w6">
 <src.rf>manual</src.rf>
@@ -15484,7 +15484,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-030-p31s3w19">
 <src.rf>manual</src.rf>
@@ -15611,7 +15611,7 @@
 <LM>w#w-vesm9211-030-p31s4w8</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-vesm9211-030-p31s4w9">

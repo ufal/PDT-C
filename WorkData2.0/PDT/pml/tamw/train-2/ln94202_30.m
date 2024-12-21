@@ -215,7 +215,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94202-30-p2s2w8">
 <src.rf>manual</src.rf>
@@ -371,8 +371,8 @@
 <LM>w#w-ln94202-30-p3s1w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-30-p3s1w2">
 <src.rf>manual</src.rf>
@@ -807,8 +807,8 @@
 <LM>w#w-ln94202-30-p4s1w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-30-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2102,8 +2102,8 @@
 <LM>w#w-ln94202-30-p6s1w7</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-30-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2882,8 +2882,8 @@
 <LM>w#w-ln94202-30-p7s1w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-30-p7s1w20">
 <src.rf>manual</src.rf>

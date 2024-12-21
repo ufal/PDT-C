@@ -59,8 +59,8 @@
 <LM>w#w-lnd91303-084-p3s1w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-084-p3s1w2">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 </w.rf>
 <form>dominovaly</form>
 <lemma>dominovat</lemma>
-<tag>VpTP----R-AAB--</tag>
+<tag>VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-084-p3s1w19">
 <src.rf>manual</src.rf>

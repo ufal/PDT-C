@@ -3573,7 +3573,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-038-p6s1w4">
 <src.rf>manual</src.rf>
@@ -4610,7 +4610,7 @@
 </w.rf>
 <form>datovány</form>
 <lemma>datovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-vesm9303-038-p8s2w12">
 <src.rf>manual</src.rf>
@@ -5019,7 +5019,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9303-038-p8s3Bw6">
 <src.rf>manual</src.rf>
@@ -5465,8 +5465,8 @@
 <LM>w#w-vesm9303-038-p9s2w5</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-038-p9s2w6">
 <src.rf>manual</src.rf>
@@ -6290,7 +6290,7 @@
 </w.rf>
 <form>datovány</form>
 <lemma>datovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-vesm9303-038-p9s7w15">
 <src.rf>manual</src.rf>
@@ -7263,7 +7263,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-038-p11s2w11">
 <src.rf>manual</src.rf>
@@ -7835,7 +7835,7 @@
 <form_change>spell</form_change>
 <form>°</form>
 <lemma>°_^(stupeň)</lemma>
-<tag>NNIP2-----A---8</tag>
+<tag>Z:-------------</tag>
 </m>
 <m id="m-vesm9303-038-p12s1w34">
 <src.rf>manual</src.rf>

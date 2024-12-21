@@ -1863,7 +1863,7 @@
 <LM>w#w-wsj0465-001-p1s10W9</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s10W10-Ta">
@@ -2506,7 +2506,7 @@
 <LM>w#w-wsj0465-001-p1s12W19</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s12W20-Ta">
@@ -3159,7 +3159,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0465-001-p1s14W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3314,7 +3314,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s15W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3340,8 +3340,8 @@
 <LM>w#w-wsj0465-001-p1s15W16</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s15W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3884,8 +3884,8 @@
 <LM>w#w-wsj0465-001-p1s17W8</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj0465-001-p1s17W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4311,8 +4311,8 @@
 <LM>w#w-wsj0465-001-p1s19W9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s19W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4927,8 +4927,8 @@
 <LM>w#w-wsj0465-001-p1s20W28</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-1</lemma>
-<tag>PQ--1----------</tag>
+<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s20W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7931,8 +7931,8 @@
 <LM>w#w-wsj0465-001-p1s35W10</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s35W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8066,8 +8066,8 @@
 <LM>w#w-wsj0465-001-p1s35W25</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s35W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8129,8 +8129,8 @@
 <LM>w#w-wsj0465-001-p1s35W32</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s35W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8383,8 +8383,8 @@
 <LM>w#w-wsj0465-001-p1s36W22</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s36W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8556,8 +8556,8 @@
 <LM>w#w-wsj0465-001-p1s37W7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s37W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9110,7 +9110,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s39W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9374,8 +9374,8 @@
 <LM>w#w-wsj0465-001-p1s41W11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s41W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9437,7 +9437,7 @@
 <LM>w#w-wsj0465-001-p1s41W18</LM>
 </w.rf>
 <form>chromozómů</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s41W19-Ta">
@@ -9474,7 +9474,7 @@
 </w.rf>
 <form>které</form>
 <lemma>který</lemma>
-<tag>P4YP4----------</tag>
+<tag>P4FP1----------</tag>
 </m>
 <m id="m-wsj0465-001-p1s41W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9483,7 +9483,7 @@
 </w.rf>
 <form>geny</form>
 <lemma>gen</lemma>
-<tag>NNIP1-----A----</tag>
+<tag>NNIP4-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s41W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9556,7 +9556,7 @@
 <LM>w#w-wsj0465-001-p1s42W6</LM>
 </w.rf>
 <form>chromozómů</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s42W7-Ta">
@@ -9693,7 +9693,7 @@
 <LM>w#w-wsj0465-001-p1s43W14</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s43W15-Ta">
@@ -9812,8 +9812,8 @@
 <LM>w#w-wsj0465-001-p1s44W3</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s44W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9857,7 +9857,7 @@
 <LM>w#w-wsj0465-001-p1s44W8</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s44W9-Ta">
@@ -10650,7 +10650,7 @@
 <LM>w#w-wsj0465-001-p1s49W11</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s49W12-Ta">
@@ -10749,7 +10749,7 @@
 <LM>w#w-wsj0465-001-p1s49W22</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s49W23-Ta">
@@ -11969,7 +11969,7 @@
 <LM>w#w-wsj0465-001-p1s56W16</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s56W17-Ta">
@@ -13048,7 +13048,7 @@
 <LM>w#w-wsj0465-001-p1s60W16</LM>
 </w.rf>
 <form>chromozómů</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s60W17-Ta">
@@ -13230,8 +13230,8 @@
 <LM>w#w-wsj0465-001-p1s61W11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s61W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13338,7 +13338,7 @@
 <LM>w#w-wsj0465-001-p1s61W23</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s61W24-Ta">
@@ -13383,8 +13383,8 @@
 <LM>w#w-wsj0465-001-p1s61W28</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s61W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14360,8 +14360,8 @@
 <LM>w#w-wsj0465-001-p1s68W4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s68W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14560,7 +14560,7 @@
 <LM>w#w-wsj0465-001-p1s69W4</LM>
 </w.rf>
 <form>chromozóm</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s69W5-Ta">
@@ -14733,7 +14733,7 @@
 <LM>w#w-wsj0465-001-p1s70W17</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s70W18-Ta">
@@ -16152,8 +16152,8 @@
 <LM>w#w-wsj0465-001-p1s76W26</LM>
 </w.rf>
 <form>přesto</form>
-<lemma>přesto-2</lemma>
-<tag>J^-------------</tag>
+<lemma>přesto-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s76W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17033,7 +17033,7 @@
 <LM>w#w-wsj0465-001-p1s79W19</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s79W20-Ta">
@@ -17462,8 +17462,8 @@
 <LM>w#w-wsj0465-001-p1s81W4</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-2</lemma>
-<tag>TT-------------</tag>
+<lemma>právě-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s81W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17872,7 +17872,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s83W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18362,7 +18362,7 @@
 <LM>w#w-wsj0465-001-p1s85W10</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s85W11-Ta">
@@ -18408,7 +18408,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s85W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18805,7 +18805,7 @@
 <LM>w#w-wsj0465-001-p1s86W38</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s86W39-Ta">
@@ -19014,7 +19014,7 @@
 <LM>w#w-wsj0465-001-p1s87W21</LM>
 </w.rf>
 <form>chromozómu</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s87W22-Ta">
@@ -19242,7 +19242,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s88W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19487,7 +19487,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s89W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19875,8 +19875,8 @@
 <LM>w#w-wsj0465-001-p1s90W41</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s90W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20348,7 +20348,7 @@
 </w.rf>
 <form>proteiny</form>
 <lemma>protein</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s92W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20357,7 +20357,7 @@
 </w.rf>
 <form>kontrolující</form>
 <lemma>kontrolující_^(*5ovat)</lemma>
-<tag>AGIP4-----A----</tag>
+<tag>AGIP1-----A----</tag>
 </m>
 <m id="m-wsj0465-001-p1s92W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20466,8 +20466,8 @@
 <LM>w#w-wsj0465-001-p1s93W1</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s93W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -20610,8 +20610,8 @@
 <LM>w#w-wsj0465-001-p1s93W17</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0465-001-p1s93W18-Ta">
 <src.rf>tagger-a</src.rf>

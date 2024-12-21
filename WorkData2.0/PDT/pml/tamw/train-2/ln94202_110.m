@@ -576,7 +576,7 @@
 <LM>w#w-ln94202-110-p4s1w21</LM>
 </w.rf>
 <form>Pennsylvania</form>
-<lemma>Pennsylvanie_;G</lemma>
+<lemma>Pennsylvanie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94202-110-p4s1w22">

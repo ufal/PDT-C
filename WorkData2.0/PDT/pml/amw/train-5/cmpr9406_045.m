@@ -1240,7 +1240,7 @@
 </w.rf>
 <form>přesáhl</form>
 <lemma>přesáhnout</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9406-045-p8s3w5">
 <src.rf>manual</src.rf>
@@ -1850,8 +1850,8 @@
 <LM>w#w-cmpr9406-045-p10s1w15</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9406-045-p10s1w16">
 <src.rf>manual</src.rf>
@@ -1898,7 +1898,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-045-p10s2w2">
 <src.rf>manual</src.rf>

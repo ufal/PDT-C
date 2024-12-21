@@ -723,7 +723,7 @@
 </w.rf>
 <form>věnují</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-wsj0782-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -897,8 +897,8 @@
 <LM>w#w-wsj0782-001-p1s4W8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0782-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3312,7 +3312,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0782-001-p1s14W4-Ta">
 <src.rf>tagger-a</src.rf>

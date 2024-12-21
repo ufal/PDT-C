@@ -527,8 +527,8 @@
 <LM>w#w-mf920922-084-p2s2w24</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-084-p2s2w25">
 <src.rf>manual</src.rf>

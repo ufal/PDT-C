@@ -156,7 +156,7 @@
 <LM>w#w-ln95040-103-p2s1Aw11</LM>
 </w.rf>
 <form>Jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln95040-103-p2s1Aw12">
@@ -2113,7 +2113,7 @@
 <LM>w#w-ln95040-103-p5s1w18</LM>
 </w.rf>
 <form>Jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln95040-103-p5s1w19">

@@ -1377,7 +1377,7 @@
 <LM>w#w-cmpr9406-022-p8s8w4</LM>
 </w.rf>
 <form>pulzní</form>
-<lemma>pulzní</lemma>
+<lemma>pulzní_,s_^(^DD**pulsní)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9406-022-p8s8w5">

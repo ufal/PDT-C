@@ -205,8 +205,8 @@
 <LM>w#w-ln95045-086-p2s1Cw9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-086-p2s1Cw10">
 <src.rf>manual</src.rf>
@@ -988,8 +988,8 @@
 <LM>w#w-ln95045-086-p3s3w27</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-086-p3s3w28">
 <src.rf>manual</src.rf>

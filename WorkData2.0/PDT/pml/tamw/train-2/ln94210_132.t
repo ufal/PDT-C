@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94210_132.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -47,8 +47,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_special>caption</discourse_special>
-<val_frame.rf>v#v-w7951f6</val_frame.rf>
+<discourse_feature>caption</discourse_feature>
+<val_frame.rf>v#v41ocbM</val_frame.rf>
 <children>
 <LM id="t-ln94210-132-p1s1w2">
 <a>
@@ -174,7 +174,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w5180f1</val_frame.rf>
+<val_frame.rf>v#v41itnB</val_frame.rf>
 <children>
 <LM id="t-ln94210-132-p1s2w1">
 <a>
@@ -382,7 +382,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w6980f1</val_frame.rf>
+<val_frame.rf>v#v41mfwA</val_frame.rf>
 <children>
 <LM id="t-ln94210-132-p1s3a1">
 <nodetype>qcomplex</nodetype>
@@ -475,6 +475,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>třicet</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>třicet</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -523,7 +524,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5953f1</val_frame.rf>
+<val_frame.rf>v#v41kifA</val_frame.rf>
 <children>
 <LM id="t-ln94210-132-p1s4w3">
 <a>
@@ -748,7 +749,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w8253f1</val_frame.rf>
+<val_frame.rf>v#v41orrA</val_frame.rf>
 <children>
 <LM id="t-ln94210-132-p1s5w3">
 <a>
@@ -893,6 +894,7 @@
 <a>
 <lex.rf>a#a-ln94210-132-p1s6w8</lex.rf>
 <aux.rf>
+<LM>a#a-ln94210-132-p1s6w5</LM>
 <LM>a#a-ln94210-132-p1s6w7</LM>
 </aux.rf>
 </a>
@@ -911,7 +913,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w4316f1</val_frame.rf>
+<val_frame.rf>v#v41hblA</val_frame.rf>
 <children>
 <LM id="t-ln94210-132-p1s6w1">
 <a>
@@ -936,6 +938,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tisíc</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tisíc</proto_lemma>
 <gram>
 <sempos>n.quant.def</sempos>
 <gender>inan</gender>
@@ -968,6 +971,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>pět</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>pět</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>

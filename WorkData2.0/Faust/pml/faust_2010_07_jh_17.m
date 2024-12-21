@@ -852,7 +852,7 @@
 </w.rf>
 <form>Ty</form>
 <lemma>ty</lemma>
-<tag>PP-S5--2-------</tag>
+<tag>PP-S1--2-------</tag>
 </m>
 <m id="jh_17-SCzechM-p1761-s1-w2">
 <w.rf>
@@ -1133,8 +1133,8 @@
 <LM>w#w-jh_17-SCzechM-p1763-s1-w31</LM>
 </w.rf>
 <form>má</form>
-<lemma>mít</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<lemma>můj</lemma>
+<tag>PSFS1-S1------1</tag>
 </m>
 <m id="jh_17-SCzechM-p1763-s1-w32">
 <w.rf>
@@ -2684,8 +2684,8 @@
 <LM>w#w-jh_17-SCzechM-p1786-s1-w25</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_17-SCzechM-p1786-s1-w26">
 <w.rf>
@@ -4026,7 +4026,7 @@
 <LM>w#w-jh_17-SCzechM-p1814-s1-w5</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="jh_17-SCzechM-p1814-s1-w6">
@@ -4212,7 +4212,7 @@
 <LM>w#w-jh_17-SCzechM-p1815-s1-w13</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="jh_17-SCzechM-p1815-s1-w14">
@@ -4367,8 +4367,8 @@
 <LM>w#w-jh_17-SCzechM-p1816-s1-w6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_17-SCzechM-p1816-s1-w7">
 <w.rf>
@@ -4904,7 +4904,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="jh_17-SCzechM-p1840-s1-w2">
 <w.rf>

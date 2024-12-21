@@ -317,7 +317,7 @@
 </w.rf>
 <form>pravil</form>
 <lemma>pravit</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m124-d-id147436-punct">
 <w.rf>
@@ -715,8 +715,8 @@
 <LM>w#w-d1t1468-8</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1468-9">
 <w.rf>
@@ -1058,7 +1058,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m124-d1t1481-12">
 <w.rf>
@@ -1156,7 +1156,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m124-d1t1485-15">
 <w.rf>
@@ -1689,8 +1689,8 @@
 <LM>w#w-d1t1506-9</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m124-d1t1506-10">
 <w.rf>
@@ -2045,8 +2045,8 @@
 <LM>w#w-d1t1528-23</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1530-13">
 <w.rf>
@@ -2182,7 +2182,7 @@
 </w.rf>
 <form>věnovaly</form>
 <lemma>věnovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m124-d1t1530-15">
 <w.rf>
@@ -2597,7 +2597,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m124-d1t1537-21">
 <w.rf>
@@ -2875,7 +2875,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d-id153392-punct">
 <w.rf>
@@ -2942,8 +2942,8 @@
 <LM>w#w-d1t1552-6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1552-7">
 <w.rf>
@@ -3008,7 +3008,7 @@
 <LM>w#w-d1t1554-7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1554-8">
@@ -3651,7 +3651,7 @@
 <LM>w#w-d1t1573-13</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1573-14">
@@ -4053,7 +4053,7 @@
 <LM>w#w-d1t1591-5</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m124-d1t1591-4">

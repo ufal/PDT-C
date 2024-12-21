@@ -1068,8 +1068,8 @@
 <LM>w#w-mf920923-076-p5s2w10</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920923-076-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-076-p5s3w5">
 <src.rf>manual</src.rf>
@@ -2933,8 +2933,8 @@
 <LM>w#w-mf920923-076-p8s2w27</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920923-076-p8s2w28">
 <src.rf>manual</src.rf>

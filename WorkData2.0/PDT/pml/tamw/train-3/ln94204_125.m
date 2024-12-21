@@ -86,8 +86,8 @@
 <LM>w#w-ln94204-125-p2s1Bw3</LM>
 </w.rf>
 <form>zrovna</form>
-<lemma>zrovna-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zrovna-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-125-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -169,8 +169,8 @@
 <LM>w#w-ln94204-125-p2s2w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-125-p2s2w4">
 <src.rf>manual</src.rf>
@@ -688,8 +688,8 @@
 <LM>w#w-ln94204-125-p2s5w3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-125-p2s5w4">
 <src.rf>manual</src.rf>
@@ -886,8 +886,8 @@
 <LM>w#w-ln94204-125-p2s5w25</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-125-p2s5w26">
 <src.rf>manual</src.rf>
@@ -895,7 +895,7 @@
 <LM>w#w-ln94204-125-p2s5w26</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-ln94204-125-p2s5w27">

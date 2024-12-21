@@ -231,7 +231,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln94205-80-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -266,8 +266,8 @@
 <LM>w#w-ln94205-80-p2s1Bw18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-80-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -459,8 +459,8 @@
 <LM>w#w-ln94205-80-p2s4w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-80-p2s4w8">
 <src.rf>manual</src.rf>
@@ -522,8 +522,8 @@
 <LM>w#w-ln94205-80-p2s4w14</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-80-p2s4w15">
 <src.rf>manual</src.rf>

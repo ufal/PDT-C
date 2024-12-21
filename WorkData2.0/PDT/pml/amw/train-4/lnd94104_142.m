@@ -460,7 +460,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-142-p1s5w4">
 <src.rf>manual</src.rf>
@@ -1295,8 +1295,8 @@
 <LM>w#w-lnd94104-142-p1s9w18</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-142-p1s9w19">
 <src.rf>manual</src.rf>

@@ -3689,8 +3689,8 @@
 <LM>w#w-vesm9212-008-p4s3w11</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-008-p4s3w12">
 <src.rf>manual</src.rf>

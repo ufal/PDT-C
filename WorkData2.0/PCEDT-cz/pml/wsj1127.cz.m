@@ -428,7 +428,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1127-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>

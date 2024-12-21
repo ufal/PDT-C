@@ -878,8 +878,8 @@
 <LM>w#w-jh_16-SCzechM-p1651-s1-w2</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="jh_16-SCzechM-p1651-s1-w3">
 <w.rf>
@@ -1663,7 +1663,7 @@
 </w.rf>
 <form>vlaštovky</form>
 <lemma>vlaštovka</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="jh_16-SCzechM-p1670-s1-w15">
 <w.rf>
@@ -2773,8 +2773,8 @@
 <LM>w#w-jh_16-SCzechM-p1716-s1-w1</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_16-SCzechM-p1716-s1-w2">
 <w.rf>

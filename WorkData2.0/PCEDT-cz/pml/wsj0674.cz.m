@@ -1407,8 +1407,8 @@
 <LM>w#w-wsj0674-001-p1s4W1</LM>
 </w.rf>
 <form>Vlivem</form>
-<lemma>vliv</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>vlivem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0674-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2734,8 +2734,8 @@
 <LM>w#w-wsj0674-001-p1s9W25</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0674-001-p1s9W26-Ta">
 <src.rf>tagger-a</src.rf>

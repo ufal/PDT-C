@@ -336,8 +336,8 @@
 <LM>w#w-d1t494-5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m054-d1t494-6">
 <w.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-d1t506-7</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m054-d1t506-8">
@@ -1098,8 +1098,8 @@
 <LM>w#w-d1t541-13</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m054-d1t541-11">
 <w.rf>
@@ -1138,8 +1138,8 @@
 <LM>w#w-d1t541-17</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m054-d-m-d1e495-x3-punct-punct">
 <w.rf>
@@ -1602,7 +1602,7 @@
 <LM>w#w-d1t594-9</LM>
 </w.rf>
 <form>lymskou</form>
-<lemma>lymský</lemma>
+<lemma>lymský_,s_^(^DD**lymeský)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m054-d1t594-10">
@@ -2377,8 +2377,8 @@
 <LM>w#w-d1t633-2</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m054-d1t633-3">
 <w.rf>
@@ -3029,8 +3029,8 @@
 <LM>w#w-d1t664-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m054-d1t664-2">
 <w.rf>
@@ -3575,8 +3575,8 @@
 <LM>w#w-d1t699-6</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m054-d1t699-7">
 <w.rf>

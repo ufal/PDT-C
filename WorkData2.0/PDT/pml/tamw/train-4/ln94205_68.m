@@ -436,8 +436,8 @@
 <LM>w#w-ln94205-68-p2s4w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-68-p2s4w8">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94205-68-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1009,8 +1009,8 @@
 <LM>w#w-ln94205-68-p2s7w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-68-p2s7w4">
 <src.rf>manual</src.rf>

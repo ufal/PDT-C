@@ -1197,8 +1197,8 @@
 <LM>w#w-cmpr9416-024-p6s3w27</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9416-024-p6s3w28">
 <src.rf>manual</src.rf>

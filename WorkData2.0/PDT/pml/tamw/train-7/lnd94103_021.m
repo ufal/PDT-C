@@ -122,8 +122,8 @@
 <LM>w#w-lnd94103-021-p1s3w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-021-p1s3w2">
 <src.rf>manual</src.rf>
@@ -522,8 +522,8 @@
 <LM>w#w-lnd94103-021-p1s5w10</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-021-p1s5w11">
 <src.rf>manual</src.rf>
@@ -850,8 +850,8 @@
 <LM>w#w-lnd94103-021-p1s7w6</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-021-p1s7w7">
 <src.rf>manual</src.rf>

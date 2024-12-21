@@ -295,8 +295,8 @@
 <LM>w#w-ln94200-84-p2s2w12</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-84-p2s2w13">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94200-84-p2s2w19">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94200-84-p2s3w16">
 <src.rf>manual</src.rf>
@@ -531,8 +531,8 @@
 <LM>w#w-ln94200-84-p2s3w19</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-84-p2s3w20">
 <src.rf>manual</src.rf>
@@ -560,8 +560,8 @@
 <LM>w#w-ln94200-84-p2s4w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-84-p2s4w2">
 <src.rf>manual</src.rf>
@@ -859,8 +859,8 @@
 <LM>w#w-ln94200-84-p2s5w17</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-84-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94200-84-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1098,7 +1098,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-84-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1416,8 +1416,8 @@
 <LM>w#w-ln94200-84-p2s9w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-84-p2s9w2">
 <src.rf>manual</src.rf>

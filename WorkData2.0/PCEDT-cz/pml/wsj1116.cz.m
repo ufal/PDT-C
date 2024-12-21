@@ -624,7 +624,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1116-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1395,7 +1395,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1116-001-p1s5W27-Ta">
 <src.rf>tagger-a</src.rf>

@@ -331,8 +331,8 @@
 <LM>w#w-wsj0073-001-p1s0W36</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0073-001-p1s0W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -460,7 +460,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAFP2----1A----</tag>
+<tag>PLFP2----------</tag>
 </m>
 <m id="m-wsj0073-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -534,7 +534,7 @@
 </w.rf>
 <form>Každé</form>
 <lemma>každý</lemma>
-<tag>AANS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-wsj0073-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>

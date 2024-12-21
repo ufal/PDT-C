@@ -503,7 +503,7 @@
 </w.rf>
 <form>přespat</form>
 <lemma>přespat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920902-052-p2s3w11">
 <src.rf>manual</src.rf>
@@ -520,8 +520,8 @@
 <LM>w#w-mf920902-052-p2s3w12</LM>
 </w.rf>
 <form>blízký</form>
-<lemma>blízký</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>blízký-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-052-p2s3w13">
 <src.rf>manual</src.rf>
@@ -713,8 +713,8 @@
 <LM>w#w-mf920902-052-p2s5w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920902-052-p2s5w2">
 <src.rf>manual</src.rf>

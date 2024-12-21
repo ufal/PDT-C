@@ -258,7 +258,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-008-p1s3w10">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-008-p2s3w7">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 </w.rf>
 <form>Věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-008-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-008-p5s2w8">
 <src.rf>manual</src.rf>

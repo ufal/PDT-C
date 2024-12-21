@@ -962,8 +962,8 @@
 <LM>w#w-wsj1253-001-p1s5W20</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1253-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2223,7 +2223,7 @@
 </w.rf>
 <form>netrefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAP--</tag>
 </m>
 <m id="m-wsj1253-001-p1s12W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3007,7 +3007,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1253-001-p1s17W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3391,7 +3391,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1253-001-p1s20W21-Ta">
 <src.rf>tagger-a</src.rf>

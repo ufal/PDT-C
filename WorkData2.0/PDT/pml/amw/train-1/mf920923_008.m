@@ -768,7 +768,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-008-p2s3w20">
 <src.rf>manual</src.rf>
@@ -2040,8 +2040,8 @@
 <LM>w#w-mf920923-008-p3s4w7</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920923-008-p3s4w8">
 <src.rf>manual</src.rf>

@@ -12,8 +12,8 @@
 <LM>w#w-id65198-1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m977-id65198-3">
 <w.rf>
@@ -158,8 +158,8 @@
 <LM>w#w-1132-1144</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m977-id65237-1">
 <w.rf>
@@ -436,8 +436,8 @@
 <LM>w#w-id65272-8</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m977-id65272-9">
 <w.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-id65434-1</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m977-id65434-2">
@@ -1202,7 +1202,7 @@
 <LM>w#w-id65444-4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m977-id65444-6">
@@ -1334,7 +1334,7 @@
 <LM>w#w-id65454-16</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m977-id65454-17">
@@ -1392,8 +1392,8 @@
 <LM>w#w-id65465-4</LM>
 </w.rf>
 <form>Až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m977-id65465-6">
 <w.rf>
@@ -1654,8 +1654,8 @@
 <LM>w#w-id65525-1</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m977-id65525-2">
 <w.rf>
@@ -3102,8 +3102,8 @@
 <LM>w#w-id66080-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m977-id66080-6">
 <w.rf>

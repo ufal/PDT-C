@@ -816,7 +816,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj0400-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1753,7 +1753,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0400-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7646,7 +7646,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0400-001-p1s37W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8403,7 +8403,7 @@
 </w.rf>
 <form>datovány</form>
 <lemma>datovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-wsj0400-001-p1s42W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8835,7 +8835,7 @@
 </w.rf>
 <form>datovány</form>
 <lemma>datovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-wsj0400-001-p1s46W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10316,7 +10316,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj0400-001-p1s52W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10499,7 +10499,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0400-001-p1s53W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12132,7 +12132,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0400-001-p1s59W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13395,7 +13395,7 @@
 </w.rf>
 <form>mezi</form>
 <lemma>mezi-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-wsj0400-001-p1s64W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17954,7 +17954,7 @@
 <LM>w#w-wsj0400-001-p1s84W4</LM>
 </w.rf>
 <form>nervózním</form>
-<lemma>nervóznit</lemma>
+<lemma>nervóznět</lemma>
 <tag>VB-S---1P-AAI--</tag>
 </m>
 <m id="m-wsj0400-001-p1s84W5-Ta">

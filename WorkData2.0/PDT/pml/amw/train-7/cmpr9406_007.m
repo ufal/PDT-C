@@ -251,7 +251,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-007-p4s2w6">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-cmpr9406-007-p4s4w23</LM>
 </w.rf>
 <form>pasažerů</form>
-<lemma>pasažer</lemma>
+<lemma>pasažer_,s_^(^DD**pasažér)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9406-007-p4s4w24">
@@ -907,7 +907,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-007-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1291,7 +1291,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-007-p6s2w9">
 <src.rf>manual</src.rf>
@@ -1720,8 +1720,8 @@
 <LM>w#w-cmpr9406-007-p6s5w10</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-007-p6s5w11">
 <src.rf>manual</src.rf>

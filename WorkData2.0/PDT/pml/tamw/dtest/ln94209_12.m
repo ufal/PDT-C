@@ -95,8 +95,8 @@
 <LM>w#w-ln94209-12-p2s1Bw3</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94209-12-p2s1Bw4">
 <src.rf>manual</src.rf>

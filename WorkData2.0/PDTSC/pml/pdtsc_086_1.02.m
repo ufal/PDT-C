@@ -636,8 +636,8 @@
 <LM>w#w-389-390</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m137-d1t551-10">
 <w.rf>
@@ -1160,8 +1160,8 @@
 <LM>w#w-d1t587-13</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m137-d1t587-14">
 <w.rf>
@@ -1523,7 +1523,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m137-d1t598-13">
 <w.rf>
@@ -2278,8 +2278,8 @@
 <LM>w#w-d1t642-1</LM>
 </w.rf>
 <form>Postupem</form>
-<lemma>postup</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>postupem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m137-d1t642-2">
 <w.rf>
@@ -2898,8 +2898,8 @@
 <LM>w#w-d1t677-2</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m137-d1t677-3">
 <w.rf>
@@ -3895,7 +3895,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m137-d1t719-14">
 <w.rf>

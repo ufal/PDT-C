@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95049_101.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -37,8 +37,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w4316f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41hblA</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p1s1a3">
 <nodetype>qcomplex</nodetype>
@@ -229,7 +229,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>26</deepord>
-<val_frame.rf>v#v-w2548f1</val_frame.rf>
+<val_frame.rf>v#v41dsdA</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p2s1Bw2">
 <a>
@@ -271,7 +271,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w4313f1</val_frame.rf>
+<val_frame.rf>v#v41hbiA</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p2s1Bw6">
 <a>
@@ -603,8 +603,9 @@
 <lex.rf>a#a-ln95049-101-p2s1Bw24</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>světový</t_lemma>
+<t_lemma>světově</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>světový</proto_lemma>
 <quot>
 <LM>
 <type>other</type>
@@ -818,7 +819,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9543f1</val_frame.rf>
+<val_frame.rf>v#v41rgsA</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p2s2w2">
 <a>
@@ -880,7 +881,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w9279f1</val_frame.rf>
+<val_frame.rf>v#v41qswA</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p2s2w6">
 <a>
@@ -1065,13 +1066,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-101-p2s3w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1162f2</val_frame.rf>
+<val_frame.rf>v#v41bamD</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p2s3a0">
 <nodetype>complex</nodetype>
@@ -1130,7 +1132,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w4313f1</val_frame.rf>
+<val_frame.rf>v#v41hbiA</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p2s3w6">
 <a>
@@ -1349,6 +1351,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -1365,6 +1368,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>proč</t_lemma>
 <functor>CAUS</functor>
+<proto_lemma>proč</proto_lemma>
 <gram>
 <sempos>adv.pron.indef</sempos>
 <indeftype>inter</indeftype>
@@ -1422,7 +1426,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w3603f1</val_frame.rf>
+<val_frame.rf>v#v41ftlB</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p2s4w1">
 <a>
@@ -1497,7 +1501,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w1611f1</val_frame.rf>
+<val_frame.rf>v#v41bvgA</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p2s4a2">
 <nodetype>qcomplex</nodetype>
@@ -1587,8 +1591,9 @@
 <lex.rf>a#a-ln95049-101-p2s4w8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>všechen</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <quot>
 <LM>
 <type>citation</type>
@@ -1625,6 +1630,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-101-p2s4w13</LM>
@@ -1939,7 +1945,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>23</deepord>
-<val_frame.rf>v#v-w2388f4</val_frame.rf>
+<val_frame.rf>v#v41dkkE</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p2s4w33">
 <a>
@@ -2053,13 +2059,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-101-p2s4w36</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w735f1</val_frame.rf>
+<val_frame.rf>v#v41afyI</val_frame.rf>
 <children>
 <LM id="t-ln95049-101-p2s4w40">
 <a>

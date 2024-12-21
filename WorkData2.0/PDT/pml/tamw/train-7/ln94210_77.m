@@ -623,7 +623,7 @@
 <LM>w#w-ln94210-77-p2s4w8</LM>
 </w.rf>
 <form>šajcha</form>
-<lemma>šajch</lemma>
+<lemma>šajch_,s_^(^DD**šejch)</lemma>
 <tag>NNMS4-----A----</tag>
 </m>
 <m id="m-ln94210-77-p2s4w9">

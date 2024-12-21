@@ -257,8 +257,8 @@
 <LM>w#w-ln94207-28-p2s1Bw20</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94207-28-p2s1Bw21">
 <src.rf>manual</src.rf>

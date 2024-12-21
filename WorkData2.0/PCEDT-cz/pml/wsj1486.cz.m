@@ -190,7 +190,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1486-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -217,7 +217,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj1486-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -521,8 +521,8 @@
 <LM>w#w-wsj1486-001-p1s5W1</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-33</lemma>
-<tag>Q3-------------</tag>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1486-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>

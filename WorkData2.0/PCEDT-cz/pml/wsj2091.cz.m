@@ -53,7 +53,7 @@
 </w.rf>
 <form>předčil</form>
 <lemma>předčit</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj2091-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1790,8 +1790,8 @@
 <LM>w#w-wsj2091-001-p1s6W12</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj2091-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2382,8 +2382,8 @@
 <LM>w#w-wsj2091-001-p1s9W10</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj2091-001-p1s9W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3635,8 +3635,8 @@
 <LM>w#w-wsj2091-001-p1s13W26</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2091-001-p1s13W27-Ta">
 <src.rf>tagger-a</src.rf>

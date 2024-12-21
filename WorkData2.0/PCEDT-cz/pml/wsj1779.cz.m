@@ -1129,7 +1129,7 @@
 </w.rf>
 <form>předčil</form>
 <lemma>předčit</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj1779-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1694,8 +1694,8 @@
 <LM>w#w-wsj1779-001-p1s7W14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1779-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1740,7 +1740,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1779-001-p1s7W20-Ta">
 <src.rf>tagger-a</src.rf>

@@ -585,7 +585,7 @@
 <LM>w#w-lnd94104-039-p1s5w7</LM>
 </w.rf>
 <form>rozladění</form>
-<lemma>rozladění</lemma>
+<lemma>rozladění_,s_^(^DD**rozlazení)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94104-039-p1s5w8">

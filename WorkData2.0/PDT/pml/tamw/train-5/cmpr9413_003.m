@@ -402,8 +402,8 @@
 <LM>w#w-cmpr9413-003-p4s1w23</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-003-p4s1w24">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-003-p6s4w11">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-003-p6s5w8">
 <src.rf>manual</src.rf>
@@ -1871,8 +1871,8 @@
 <LM>w#w-cmpr9413-003-p8s4w3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-003-p8s4w4">
 <src.rf>manual</src.rf>
@@ -2429,7 +2429,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-cmpr9413-003-p10s1w22">
 <src.rf>manual</src.rf>
@@ -2642,7 +2642,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AAMS7----1A----</tag>
+<tag>PLMS7----------</tag>
 </m>
 <m id="m-cmpr9413-003-p12s1w5">
 <src.rf>manual</src.rf>
@@ -2805,7 +2805,7 @@
 <LM>w#w-cmpr9413-003-p12s2w4</LM>
 </w.rf>
 <form>předpisuje</form>
-<lemma>předpisovat</lemma>
+<lemma>předpisovat_,s_^(^DD**předepisovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-003-p12s2w5">
@@ -3117,8 +3117,8 @@
 <LM>w#w-cmpr9413-003-p12s5w4</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-cmpr9413-003-p12s5w5">
 <src.rf>manual</src.rf>

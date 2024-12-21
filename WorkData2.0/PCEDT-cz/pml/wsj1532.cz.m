@@ -1078,7 +1078,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1532-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1123,7 +1123,7 @@
 </w.rf>
 <form>distribuovány</form>
 <lemma>distribuovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-wsj1532-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_1.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94205-1-p1s1w3">
 <a>
@@ -93,7 +93,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w3265f2</val_frame.rf>
+<val_frame.rf>v#v41fdfC</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p2s1w3">
 <a>
@@ -311,7 +311,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5158f14</val_frame.rf>
+<val_frame.rf>v#v41isgAQ</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p2s2w3">
 <a>
@@ -453,7 +453,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w5879f1</val_frame.rf>
+<val_frame.rf>v#v41kegA</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p2s3a0">
 <nodetype>list</nodetype>
@@ -501,7 +501,7 @@
 <lex.rf>a#a-ln94205-1-p2s3w4</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Period</t_lemma>
+<t_lemma>.</t_lemma>
 <functor>FPHR</functor>
 <deepord>5</deepord>
 </LM>
@@ -679,7 +679,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w1468f1</val_frame.rf>
+<val_frame.rf>v#v41bozA</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p3s1w2">
 <a>
@@ -900,7 +900,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w8758f1</val_frame.rf>
+<val_frame.rf>v#v41prdA</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p3s1a0">
 <nodetype>qcomplex</nodetype>
@@ -1029,7 +1029,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w5951f1</val_frame.rf>
+<val_frame.rf>v#v41kidA</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p3s2w10">
 <a>
@@ -1086,7 +1086,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w9107f1</val_frame.rf>
+<val_frame.rf>v#v41qjoB</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p3s2w6">
 <a>
@@ -1246,7 +1246,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w1949f1</val_frame.rf>
+<val_frame.rf>v#v41clwA</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p4s1w2">
 <a>
@@ -1329,7 +1329,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w6322f1</val_frame.rf>
+<val_frame.rf>v#v41latA</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p4s1w6">
 <a>
@@ -1338,6 +1338,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -1572,7 +1573,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w4243f1</val_frame.rf>
+<val_frame.rf>v#v41gyaF</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p4s1a3">
 <nodetype>qcomplex</nodetype>
@@ -1677,8 +1678,9 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <lex.rf>a#a-ln94205-1-p4s1w31</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>všechen</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>total1</indeftype>
@@ -1749,7 +1751,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w4243f2</val_frame.rf>
+<val_frame.rf>v#v41gyaE</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p4s2w1">
 <a>
@@ -1829,8 +1831,9 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <lex.rf>a#a-ln94205-1-p4s2w5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>všechen</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>total1</indeftype>
@@ -2149,7 +2152,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w7449f5</val_frame.rf>
+<val_frame.rf>v#v41ndjC</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p5s1w2">
 <a>
@@ -2334,7 +2337,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w5679f1</val_frame.rf>
+<val_frame.rf>v#v41jsrA</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p5s1a2">
 <nodetype>qcomplex</nodetype>
@@ -2518,13 +2521,14 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-1-p5s2w6</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w716f1</val_frame.rf>
+<val_frame.rf>v#v41afdB</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p5s2w1">
 <a>
@@ -2603,7 +2607,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w327f1</val_frame.rf>
+<val_frame.rf>v#v41noG</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p5s2w8">
 <a>
@@ -2703,6 +2707,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tisíc</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>tisíc</proto_lemma>
 <subfunctor>nr</subfunctor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2821,7 +2826,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w5195f1</val_frame.rf>
+<val_frame.rf>v#v41iulD</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p6s1w2">
 <a>
@@ -3011,8 +3016,9 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <lex.rf>a#a-ln94205-1-p6s1w13</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kolik</t_lemma>
+<t_lemma>několik</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>kolik</proto_lemma>
 <gram>
 <sempos>adj.quant.indef</sempos>
 <indeftype>indef1</indeftype>
@@ -3067,6 +3073,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-1-p6s2w1</LM>
@@ -3080,7 +3087,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w3620f1</val_frame.rf>
+<val_frame.rf>v#v41fufC</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p6s2w5">
 <a>
@@ -3094,6 +3101,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>RESTR</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -3105,7 +3113,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p6s2a1">
 <nodetype>complex</nodetype>
@@ -3306,7 +3314,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w902f1</val_frame.rf>
+<val_frame.rf>v#v41aobA</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p6s3w3">
 <a>
@@ -3507,7 +3515,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w7330f1</val_frame.rf>
+<val_frame.rf>v#v41mxmA</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p7s1w3">
 <a>
@@ -3584,6 +3592,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>n.quant.def</sempos>
 <gender>fem</gender>
@@ -3603,6 +3612,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>málo</t_lemma>
 <functor>DIR1</functor>
+<proto_lemma>málo</proto_lemma>
 <subfunctor>nr</subfunctor>
 <gram>
 <sempos>adj.quant.grad</sempos>
@@ -3722,7 +3732,7 @@ obcanu do normalniho zivota, ve vete 5) a vety 6</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w4760f1</val_frame.rf>
+<val_frame.rf>v#v41hyfB</val_frame.rf>
 <children>
 <LM id="t-ln94205-1-p7s2w2">
 <a>

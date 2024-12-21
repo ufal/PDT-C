@@ -660,8 +660,8 @@
 <LM>w#w-wsj1120-001-p1s2W22</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj1120-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2559,7 +2559,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1120-001-p1s15W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3478,8 +3478,8 @@
 <LM>w#w-wsj1120-001-p1s20W30</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1120-001-p1s20W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4130,8 +4130,8 @@
 <LM>w#w-wsj1120-001-p1s22W35</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1120-001-p1s22W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5043,7 +5043,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1120-001-p1s28W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5629,7 +5629,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1120-001-p1s33W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6594,8 +6594,8 @@
 <LM>w#w-wsj1120-001-p1s39W12</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1120-001-p1s39W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7106,8 +7106,8 @@
 <LM>w#w-wsj1120-001-p1s43W4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1120-001-p1s43W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7436,7 +7436,7 @@
 <LM>w#w-wsj1120-001-p1s46W10</LM>
 </w.rf>
 <form>uvízli</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1120-001-p1s46W11-Ta">
@@ -7492,8 +7492,8 @@
 <LM>w#w-wsj1120-001-p1s47W3</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1120-001-p1s47W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7591,8 +7591,8 @@
 <LM>w#w-wsj1120-001-p1s47W14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1120-001-p1s47W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7726,8 +7726,8 @@
 <LM>w#w-wsj1120-001-p1s47W29</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1120-001-p1s47W30-Ta">
 <src.rf>tagger-a</src.rf>

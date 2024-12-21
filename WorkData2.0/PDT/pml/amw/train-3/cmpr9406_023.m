@@ -1177,7 +1177,7 @@
 <LM>w#w-cmpr9406-023-p8s9Aw2</LM>
 </w.rf>
 <form>rozšiřitelná</form>
-<lemma>rozšiřitelný_^(*8ířit)</lemma>
+<lemma>rozšiřitelný_,s_^(^DD**rozšířitelný)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-023-p8s9Aw3">
@@ -1328,7 +1328,7 @@
 <LM>w#w-cmpr9406-023-p8s10w3</LM>
 </w.rf>
 <form>odesilatele</form>
-<lemma>odesilatel</lemma>
+<lemma>odesilatel_,s_^(^DD**odesílatel)</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-023-p8s10w4">

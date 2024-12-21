@@ -179,7 +179,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2034-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1479,8 +1479,8 @@
 <LM>w#w-wsj2034-001-p1s7W4</LM>
 </w.rf>
 <form>poblíž</form>
-<lemma>poblíž-1</lemma>
-<tag>Db-------------</tag>
+<lemma>poblíž-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2034-001-p1s7W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1668,7 +1668,7 @@
 <LM>w#w-wsj2034-001-p1s7W25</LM>
 </w.rf>
 <form>jezdění</form>
-<lemma>jezdění_^(*3it)</lemma>
+<lemma>jezdění_,s_^(^DD**ježdění)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj2034-001-p1s7W26-Ta">
@@ -2734,7 +2734,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2034-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3848,8 +3848,8 @@
 <LM>w#w-wsj2034-001-p1s16W14</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2034-001-p1s16W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7627,7 +7627,7 @@
 <LM>w#w-wsj2034-001-p1s33W15</LM>
 </w.rf>
 <form>baťůžkáři</form>
-<lemma>baťůžkář</lemma>
+<lemma>baťůžkář_,s_^(^DD**batůžkář)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj2034-001-p1s33W16-Ta">

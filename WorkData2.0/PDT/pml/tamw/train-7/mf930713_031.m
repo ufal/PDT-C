@@ -239,8 +239,8 @@
 <LM>w#w-mf930713-031-p2s1Bw17</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-031-p2s1Bw18">
 <src.rf>manual</src.rf>

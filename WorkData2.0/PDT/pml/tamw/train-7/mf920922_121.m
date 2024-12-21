@@ -1980,8 +1980,8 @@
 <LM>w#w-mf920922-121-p2s11w12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-121-p2s11w13">
 <src.rf>manual</src.rf>
@@ -2939,8 +2939,8 @@
 <LM>w#w-mf920922-121-p2s17Bw9</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-121-p2s17Bw10">
 <src.rf>manual</src.rf>

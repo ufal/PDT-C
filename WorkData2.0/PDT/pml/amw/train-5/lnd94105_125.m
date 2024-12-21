@@ -595,7 +595,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd94105-125-p1s5w9">

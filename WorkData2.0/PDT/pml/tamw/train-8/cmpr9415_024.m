@@ -504,8 +504,8 @@
 <LM>w#w-cmpr9415-024-p6s1w5</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-024-p6s1w6">
 <src.rf>manual</src.rf>

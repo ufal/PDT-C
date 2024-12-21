@@ -497,7 +497,7 @@
 </w.rf>
 <form>snížení</form>
 <lemma>snížení_^(*3it)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj1900-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>

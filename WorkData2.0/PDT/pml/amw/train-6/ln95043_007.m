@@ -1315,8 +1315,8 @@
 <LM>w#w-ln95043-007-p2s7w2</LM>
 </w.rf>
 <form>zkraje</form>
-<lemma>zkraje-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zkraje-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-007-p2s7w3">
 <src.rf>manual</src.rf>
@@ -3113,8 +3113,8 @@
 <LM>w#w-ln95043-007-p3s2w10</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-007-p3s2w11">
 <src.rf>manual</src.rf>

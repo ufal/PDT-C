@@ -194,8 +194,8 @@
 <LM>w#w-ln94210-133-p2s1Bw10</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-133-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -837,8 +837,8 @@
 <LM>w#w-ln94210-133-p3s1w22</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94210-133-p3s1w23">
 <src.rf>manual</src.rf>
@@ -945,8 +945,8 @@
 <LM>w#w-ln94210-133-p3s1w34</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-133-p3s1w35">
 <src.rf>manual</src.rf>
@@ -1080,8 +1080,8 @@
 <LM>w#w-ln94210-133-p3s1w50</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-133-p3s1w51">
 <src.rf>manual</src.rf>

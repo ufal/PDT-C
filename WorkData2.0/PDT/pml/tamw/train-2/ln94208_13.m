@@ -547,8 +547,8 @@
 <LM>w#w-ln94208-13-p3s1w12</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-13-p3s1w13">
 <src.rf>manual</src.rf>

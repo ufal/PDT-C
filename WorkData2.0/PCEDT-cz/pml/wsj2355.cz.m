@@ -289,7 +289,7 @@
 </w.rf>
 <form>Denveru</form>
 <lemma>Denver-2_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj2355-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -314,8 +314,8 @@
 <LM>w#w-mf930713-006-p2s1Bw16</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-006-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -1195,8 +1195,8 @@
 <LM>w#w-mf930713-006-p2s4w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-006-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1559,8 +1559,8 @@
 <LM>w#w-mf930713-006-p2s7w3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-006-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1833,7 +1833,7 @@
 <LM>w#w-mf930713-006-p2s9w3</LM>
 </w.rf>
 <form>ubránit</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-006-p2s9w4">
@@ -2062,8 +2062,8 @@
 <LM>w#w-mf930713-006-p2s11w4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-006-p2s11w5">
 <src.rf>manual</src.rf>
@@ -3416,8 +3416,8 @@
 <LM>w#w-mf930713-006-p2s22w5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-006-p2s22w6">
 <src.rf>manual</src.rf>
@@ -4731,7 +4731,7 @@
 </w.rf>
 <form>věnují</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf930713-006-p2s31w8">
 <src.rf>manual</src.rf>
@@ -5058,8 +5058,8 @@
 <LM>w#w-mf930713-006-p2s33w15</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-006-p2s33w16">
 <src.rf>manual</src.rf>
@@ -5168,8 +5168,8 @@
 <LM>w#w-mf930713-006-p2s34w7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-1</lemma>
-<tag>Db-------------</tag>
+<lemma>třeba-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-006-p2s34w8">
 <src.rf>manual</src.rf>

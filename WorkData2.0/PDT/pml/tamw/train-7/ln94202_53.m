@@ -569,8 +569,8 @@
 <LM>w#w-ln94202-53-p2s3w16</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-53-p2s3w17">
 <src.rf>manual</src.rf>
@@ -760,8 +760,8 @@
 <LM>w#w-ln94202-53-p2s4w15</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-53-p2s4w16">
 <src.rf>manual</src.rf>

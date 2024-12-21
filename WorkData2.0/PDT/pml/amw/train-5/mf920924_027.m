@@ -328,7 +328,7 @@
 </w.rf>
 <form>Škoda</form>
 <lemma>Škoda-1_;m</lemma>
-<tag>NNFS1-----A----</tag>
+<tag>NNFXX-----A----</tag>
 </m>
 <m id="m-mf920924-027-p2s1w23">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 </w.rf>
 <form>Škoda</form>
 <lemma>Škoda-1_;m</lemma>
-<tag>NNFS1-----A----</tag>
+<tag>NNFXX-----A----</tag>
 </m>
 <m id="m-mf920924-027-p2s1w30">
 <src.rf>manual</src.rf>
@@ -1053,8 +1053,8 @@
 <LM>w#w-mf920924-027-p2s4w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-027-p2s4w2">
 <src.rf>manual</src.rf>

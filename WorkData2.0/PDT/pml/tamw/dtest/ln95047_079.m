@@ -221,8 +221,8 @@
 <LM>w#w-ln95047-079-p2s1Bw12</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-079-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-ln95047-079-p3s1w2</LM>
 </w.rf>
 <form>Zjednodušené</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-ln95047-079-p3s1w3">
@@ -489,7 +489,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-079-p3s2w3">
 <src.rf>manual</src.rf>
@@ -2203,7 +2203,7 @@
 <LM>w#w-ln95047-079-p5s3w11</LM>
 </w.rf>
 <form>napjatou</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-ln95047-079-p5s3w12">
@@ -2314,7 +2314,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-079-p5s4w7">
 <src.rf>manual</src.rf>
@@ -2495,8 +2495,8 @@
 <LM>w#w-ln95047-079-p5s5w4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-079-p5s5w5">
 <src.rf>manual</src.rf>

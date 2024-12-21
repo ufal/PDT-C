@@ -160,8 +160,8 @@
 <LM>w#w-wsj0281-001-p1s0W17</LM>
 </w.rf>
 <form>jménem</form>
-<lemma>jméno</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>jménem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0281-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -178,8 +178,8 @@
 <LM>w#w-wsj0281-001-p1s0W19</LM>
 </w.rf>
 <form>mrtvých</form>
-<lemma>mrtvý</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>mrtvý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0281-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -532,7 +532,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0281-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -733,8 +733,8 @@
 <LM>w#w-wsj0281-001-p1s3W1</LM>
 </w.rf>
 <form>Jménem</form>
-<lemma>jméno</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>jménem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0281-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

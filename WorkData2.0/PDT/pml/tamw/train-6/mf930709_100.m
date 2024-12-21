@@ -1119,7 +1119,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-mf930709-100-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1217,8 +1217,8 @@
 <LM>w#w-mf930709-100-p2s7w12</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-100-p2s7w13">
 <src.rf>manual</src.rf>

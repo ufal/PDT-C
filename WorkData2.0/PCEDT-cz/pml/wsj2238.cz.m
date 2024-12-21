@@ -125,7 +125,7 @@
 </w.rf>
 <form>potýkající</form>
 <lemma>potýkající_^(*4t)</lemma>
-<tag>AGMS1-----A----</tag>
+<tag>AGFS1-----A----</tag>
 </m>
 <m id="m-wsj2238-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1531,7 +1531,7 @@
 </w.rf>
 <form>podepsání</form>
 <lemma>podepsání_^(*3at)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj2238-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>

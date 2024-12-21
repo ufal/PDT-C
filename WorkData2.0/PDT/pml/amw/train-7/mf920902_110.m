@@ -332,7 +332,7 @@
 <LM>w#w-mf920902-110-p1s4w2</LM>
 </w.rf>
 <form>DEMIŽÓN</form>
-<lemma>demižón</lemma>
+<lemma>demižón_,s_^(^DD**demižon)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-mf920902-110-p1s4w3">
@@ -736,8 +736,8 @@
 <LM>w#w-mf920902-110-p1s8w12</LM>
 </w.rf>
 <form>Březové</form>
-<lemma>březový</lemma>
-<tag>AAFS6----1A----</tag>
+<lemma>Březová_;G</lemma>
+<tag>NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-110-p1s8w13">
 <src.rf>manual</src.rf>

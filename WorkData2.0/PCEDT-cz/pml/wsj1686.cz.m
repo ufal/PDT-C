@@ -17,7 +17,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1686-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2232,7 +2232,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1686-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2540,7 +2540,7 @@
 </w.rf>
 <form>nereagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-wsj1686-001-p1s10W10-Ta">
 <src.rf>tagger-a</src.rf>

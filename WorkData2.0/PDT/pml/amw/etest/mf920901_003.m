@@ -2960,8 +2960,8 @@
 <LM>w#w-mf920901-003-p7s4w15</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-003-p7s4w16">
 <src.rf>manual</src.rf>

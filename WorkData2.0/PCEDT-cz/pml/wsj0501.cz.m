@@ -1565,7 +1565,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0501-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1848,7 +1848,7 @@
 </w.rf>
 <form>miliony</form>
 <lemma>milion`1000000_,s_^(^DD**milión)</lemma>
-<tag>CzIP4----------</tag>
+<tag>CzIP7----------</tag>
 </m>
 <m id="m-wsj0501-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2384,8 +2384,8 @@
 <LM>w#w-wsj0501-001-p1s14W11</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0501-001-p1s14W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -360,8 +360,8 @@
 <LM>w#w-ln94204-42-p2s3w2</LM>
 </w.rf>
 <form>s</form>
-<lemma>společnost</lemma>
-<tag>NNFXX-----A---a</tag>
+<lemma>s-1</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-ln94204-42-p2s3w3">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-42-p2s3w17">
 <src.rf>manual</src.rf>
@@ -756,8 +756,8 @@
 <LM>w#w-ln94204-42-p2s3w46</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-42-p2s3w47">
 <src.rf>manual</src.rf>
@@ -1167,8 +1167,8 @@
 <LM>w#w-ln94204-42-p2s7w19</LM>
 </w.rf>
 <form>kolemjdoucích</form>
-<lemma>kolemjdoucí</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>kolemjdoucí-1</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94204-42-p2s7w20">
 <src.rf>manual</src.rf>

@@ -2292,8 +2292,8 @@
 <LM>w#w-wsj1855-001-p1s8W7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1855-001-p1s8W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2409,8 +2409,8 @@
 <LM>w#w-wsj1855-001-p1s8W20</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1855-001-p1s8W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3543,7 +3543,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1855-001-p1s12W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3976,7 +3976,7 @@
 <LM>w#w-wsj1855-001-p1s13W32</LM>
 </w.rf>
 <form>mnohamilionové</form>
-<lemma>mnohamilionový_,s_^(^DD**mnohamiliónový)</lemma>
+<lemma>mnohamilionový_,s_^(^DD**mnohomiliónový)</lemma>
 <tag>AANS4----1A----</tag>
 </m>
 <m id="m-wsj1855-001-p1s13W33-Ta">

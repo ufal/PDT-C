@@ -49,7 +49,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95043-081-p2s1w2">
 <src.rf>manual</src.rf>
@@ -995,7 +995,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-081-p4s3w4">
 <src.rf>manual</src.rf>

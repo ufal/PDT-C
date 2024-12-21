@@ -68,8 +68,8 @@
 <LM>w#w-d1t506-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m954-d1t515-4">
 <w.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-d1t524-1</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m954-d1t524-3">
@@ -156,8 +156,8 @@
 <LM>w#w-d1t536-1</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m954-d1t536-2">
 <w.rf>
@@ -240,8 +240,8 @@
 <LM>w#w-d1t542-1</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m954-d1t542-2">
 <w.rf>
@@ -267,7 +267,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m954-d1t548-4">
 <w.rf>
@@ -537,7 +537,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m954-d1t580-3">
 <w.rf>
@@ -561,7 +561,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m954-d1t582-2">
 <w.rf>
@@ -2101,8 +2101,8 @@
 <LM>w#w-d1t749-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m954-d1t751-2">
 <w.rf>
@@ -2383,8 +2383,8 @@
 <LM>w#w-d1t773-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m954-d1t773-2">
 <w.rf>
@@ -2687,8 +2687,8 @@
 <LM>w#w-d1t807-6</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m954-d1t807-3">
 <w.rf>
@@ -2957,8 +2957,8 @@
 <LM>w#w-d1e837-x2-2363</LM>
 </w.rf>
 <form>mladým</form>
-<lemma>mladý</lemma>
-<tag>AAMS7----1A----</tag>
+<lemma>mladý-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m954-d1t860-1">
 <w.rf>
@@ -3023,8 +3023,8 @@
 <LM>w#w-d1t848-3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m954-d1t850-1">
 <w.rf>
@@ -3440,8 +3440,8 @@
 <LM>w#w-2903-2981</LM>
 </w.rf>
 <form>Aby</form>
-<lemma>aby-2_^(už_aby_to_bylo)</lemma>
-<tag>TT-------------</tag>
+<lemma>aby</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m954-2903-2982">
 <w.rf>

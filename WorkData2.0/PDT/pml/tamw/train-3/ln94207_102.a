@@ -18,7 +18,7 @@
 <children>
 <LM id="a-ln94207-102-p1s1Aw6">
 <m.rf>m#m-ln94207-102-p1s1Aw6</m.rf>
-<afun>Coord</afun>
+<afun>Apos</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -31,7 +31,7 @@
 <children>
 <LM id="a-ln94207-102-p1s1Aw2">
 <m.rf>m#m-ln94207-102-p1s1Aw2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>2</ord>
 <clause_number>1</clause_number>
@@ -46,7 +46,7 @@
 </LM>
 <LM id="a-ln94207-102-p1s1Aw5">
 <m.rf>m#m-ln94207-102-p1s1Aw5</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>5</ord>
 <clause_number>1</clause_number>
@@ -70,7 +70,7 @@
 <children>
 <LM id="a-ln94207-102-p1s1Aw8">
 <m.rf>m#m-ln94207-102-p1s1Aw8</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
@@ -87,16 +87,9 @@
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-ln94207-102-p1s1Aw13">
-<m.rf>m#m-ln94207-102-p1s1Aw13</m.rf>
-<afun>Coord</afun>
-<ord>13</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-ln94207-102-p1s1Aw10">
 <m.rf>m#m-ln94207-102-p1s1Aw10</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
@@ -114,14 +107,19 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94207-102-p1s1Aw14">
 <m.rf>m#m-ln94207-102-p1s1Aw14</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-ln94207-102-p1s1Aw13">
+<m.rf>m#m-ln94207-102-p1s1Aw13</m.rf>
+<afun>AuxG</afun>
+<ord>13</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -131,7 +129,7 @@
 </LM>
 <LM id="a-ln94207-102-p1s1Aw16">
 <m.rf>m#m-ln94207-102-p1s1Aw16</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>16</ord>
 <clause_number>1</clause_number>
@@ -148,13 +146,15 @@
 <children>
 <LM id="a-ln94207-102-p1s1Bw1">
 <m.rf>m#m-ln94207-102-p1s1Bw1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94207-102-p1s1Bw2">
 <m.rf>m#m-ln94207-102-p1s1Bw2</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>

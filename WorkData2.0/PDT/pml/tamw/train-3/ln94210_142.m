@@ -320,7 +320,7 @@
 <LM>w#w-ln94210-142-p2s1Bw22</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-ln94210-142-p2s1Bw23">
@@ -587,8 +587,8 @@
 <LM>w#w-ln94210-142-p2s4w2</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-142-p2s4w3">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln94210-142-p2s4w17</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln94210-142-p2s4w18">

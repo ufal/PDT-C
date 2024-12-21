@@ -2052,8 +2052,8 @@
 <LM>w#w-ln94207-34-p7s1w11</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94207-34-p7s1w12">
 <src.rf>manual</src.rf>

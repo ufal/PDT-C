@@ -642,8 +642,8 @@
 <LM>w#w-wsj1124-001-p1s2W4</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1124-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -935,7 +935,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1124-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1027,7 +1027,7 @@
 </w.rf>
 <form>předčily</form>
 <lemma>předčit</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-wsj1124-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1172,8 +1172,8 @@
 <LM>w#w-wsj1124-001-p1s5W1</LM>
 </w.rf>
 <form>Přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1124-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>

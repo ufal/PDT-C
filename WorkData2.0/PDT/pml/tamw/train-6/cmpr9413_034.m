@@ -338,8 +338,8 @@
 <LM>w#w-cmpr9413-034-p3s2w22</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-034-p3s2w23">
 <src.rf>manual</src.rf>
@@ -1477,8 +1477,8 @@
 <LM>w#w-cmpr9413-034-p5s1w9</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-034-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1668,8 +1668,8 @@
 <LM>w#w-cmpr9413-034-p5s2w17</LM>
 </w.rf>
 <form>postupem</form>
-<lemma>postup</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>postupem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9413-034-p5s2w18">
 <src.rf>manual</src.rf>
@@ -2151,8 +2151,8 @@
 <LM>w#w-cmpr9413-034-p5s5w13</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-034-p5s5w14">
 <src.rf>manual</src.rf>
@@ -2825,8 +2825,8 @@
 <LM>w#w-cmpr9413-034-p8s1w10</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-034-p8s1w11">
 <src.rf>manual</src.rf>
@@ -3189,8 +3189,8 @@
 <LM>w#w-cmpr9413-034-p8s3w12</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-034-p8s3w13">
 <src.rf>manual</src.rf>
@@ -3198,8 +3198,8 @@
 <LM>w#w-cmpr9413-034-p8s3w13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-034-p8s3w14">
 <src.rf>manual</src.rf>
@@ -3281,8 +3281,8 @@
 <LM>w#w-cmpr9413-034-p8s4w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-034-p8s4w3">
 <src.rf>manual</src.rf>
@@ -3528,8 +3528,8 @@
 <LM>w#w-cmpr9413-034-p9s2w10</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-034-p9s2w11">
 <src.rf>manual</src.rf>

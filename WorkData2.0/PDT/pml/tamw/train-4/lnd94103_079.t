@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_079.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -37,8 +37,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w7181f4</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41mqeC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s1Aw1">
 <a>
@@ -143,7 +143,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w4766f1</val_frame.rf>
+<val_frame.rf>v#v41hylC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s1Bw3">
 <a>
@@ -235,8 +235,9 @@
 <lex.rf>a#a-lnd94103-079-p1s1Bw1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>stálý</t_lemma>
+<t_lemma>stále</t_lemma>
 <functor>THL</functor>
+<proto_lemma>stálý</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -330,7 +331,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w8306f1</val_frame.rf>
+<val_frame.rf>v#v41ouaC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s1Bw15">
 <a>
@@ -342,6 +343,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -391,6 +393,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>sám</t_lemma>
 <functor>COMPL</functor>
+<proto_lemma>sám</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -431,7 +434,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w4103f1</val_frame.rf>
+<val_frame.rf>v#v41grxA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s2w1">
 <a>
@@ -456,6 +459,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -569,7 +573,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w2168f1</val_frame.rf>
+<val_frame.rf>v#v41cyxD</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s3w5">
 <a>
@@ -646,6 +650,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -732,13 +737,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s3w13</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6839f1</val_frame.rf>
+<val_frame.rf>v#v41lzeC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s3w17">
 <a>
@@ -759,7 +765,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w5868f2</val_frame.rf>
+<val_frame.rf>v#v41kdvA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s3a0">
 <nodetype>qcomplex</nodetype>
@@ -943,13 +949,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s4w8</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w8306f1</val_frame.rf>
+<val_frame.rf>v#v41ouaC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s4w8">
 <a>
@@ -1015,8 +1022,9 @@
 <lex.rf>a#a-lnd94103-079-p1s4w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>žádný</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>negat</indeftype>
@@ -1036,6 +1044,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -1269,15 +1278,16 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w8687f1</val_frame.rf>
+<val_frame.rf>v#v41pnkA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s5w9">
 <a>
 <lex.rf>a#a-lnd94103-079-p1s5w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>prudký</t_lemma>
+<t_lemma>prudce</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>prudký</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -1316,13 +1326,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s5w12</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w8687f1</val_frame.rf>
+<val_frame.rf>v#v41pnkA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s5w18">
 <a>
@@ -1435,6 +1446,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s6w4</LM>
@@ -1495,7 +1507,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w3569f1</val_frame.rf>
+<val_frame.rf>v#v41frxA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s6w5">
 <a>
@@ -1617,6 +1629,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -1637,13 +1650,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
+<sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s6w15</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s6w18">
 <a>
@@ -1706,6 +1720,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -1805,6 +1820,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -1818,7 +1834,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s7w5">
 <a>
@@ -1827,16 +1843,10 @@
 <LM>a#a-lnd94103-079-p1s7w3</LM>
 </aux.rf>
 </a>
-<nodetype>complex</nodetype>
+<nodetype>atom</nodetype>
 <t_lemma>strana</t_lemma>
-<functor>REG</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<typgroup>single</typgroup>
-</gram>
-<tfa>c</tfa>
+<functor>PREC</functor>
+<tfa>t</tfa>
 <deepord>2</deepord>
 <children>
 <LM id="t-lnd94103-079-p1s7w4">
@@ -1846,6 +1856,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -1920,6 +1931,7 @@
 <is_generated>1</is_generated>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -1940,13 +1952,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s7w9</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s7w11">
 <a>
@@ -1955,15 +1968,9 @@
 <LM>a#a-lnd94103-079-p1s7w10</LM>
 </aux.rf>
 </a>
-<nodetype>complex</nodetype>
+<nodetype>atom</nodetype>
 <t_lemma>strana</t_lemma>
-<functor>REG</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<typgroup>single</typgroup>
-</gram>
+<functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
 <children>
@@ -1972,8 +1979,9 @@
 <lex.rf>a#a-lnd94103-079-p1s7w12</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dva</t_lemma>
+<t_lemma>druhý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -2121,6 +2129,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -2133,7 +2142,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s8w9">
 <a>
@@ -2304,8 +2313,9 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <lex.rf>a#a-lnd94103-079-p1s8w14</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>stálý</t_lemma>
+<t_lemma>stále</t_lemma>
 <functor>THL</functor>
+<proto_lemma>stálý</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -2369,7 +2379,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w9851f1</val_frame.rf>
+<val_frame.rf>v#v41rvvB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s9w2">
 <a>
@@ -2378,6 +2388,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -2716,7 +2727,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w6480f3</val_frame.rf>
+<val_frame.rf>v#v41lhzC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s10w2">
 <a>
@@ -2931,13 +2942,14 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s11w6</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5281f1</val_frame.rf>
+<val_frame.rf>v#v41iywB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s11w4">
 <a>
@@ -3104,13 +3116,14 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s11w16</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w2718f1</val_frame.rf>
+<val_frame.rf>v#v41ealA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s11w16">
 <a>
@@ -3148,6 +3161,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>DIR1</functor>
+<proto_lemma>který</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>n.pron.indef</sempos>
@@ -3218,8 +3232,9 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <lex.rf>a#a-lnd94103-079-p1s11w21</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>podstatný</t_lemma>
+<t_lemma>podstatně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>podstatný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -3271,13 +3286,14 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s12w3</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w198f2</val_frame.rf>
+<val_frame.rf>v#v41hoA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s12w1">
 <a>
@@ -3286,6 +3302,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -3380,7 +3397,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w3503f1</val_frame.rf>
+<val_frame.rf>v#v41fopA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s12w6">
 <a>
@@ -3434,7 +3451,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w4243f1</val_frame.rf>
+<val_frame.rf>v#v41gyaF</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s12w12">
 <a>
@@ -3517,6 +3534,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -3529,7 +3547,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s13w2">
 <a>
@@ -3705,8 +3723,9 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <lex.rf>a#a-lnd94103-079-p1s13w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>ekonomický</t_lemma>
+<t_lemma>ekonomicky</t_lemma>
 <functor>REG</functor>
+<proto_lemma>ekonomický</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -3735,7 +3754,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w1395f1</val_frame.rf>
+<val_frame.rf>v#v41bljA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s13w15">
 <a>
@@ -3760,6 +3779,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>APP</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -3842,6 +3862,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -3855,7 +3876,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s14w1">
 <a>
@@ -3873,7 +3894,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w5868f1</val_frame.rf>
+<val_frame.rf>v#v41kdvB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s14a0">
 <nodetype>qcomplex</nodetype>
@@ -3977,6 +3998,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -3997,6 +4019,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s15w3</LM>
@@ -4008,21 +4031,23 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s14w13</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s14w11">
 <a>
 <lex.rf>a#a-lnd94103-079-p1s14w11</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>což</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -4051,7 +4076,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w3249f2</val_frame.rf>
+<val_frame.rf>v#v41fcnB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s14w17">
 <a>
@@ -4074,9 +4099,12 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <a>
 <lex.rf>a#a-lnd94103-079-p1s14w15</lex.rf>
 </a>
-<nodetype>atom</nodetype>
+<nodetype>complex</nodetype>
 <t_lemma>spíše</t_lemma>
-<functor>RHEM</functor>
+<functor>EXT</functor>
+<gram>
+<sempos>adv.denot.ngrad.nneg</sempos>
+</gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
 </LM>
@@ -4122,6 +4150,9 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <LM id="t-lnd94103-079-p1s15w4">
 <a>
 <lex.rf>a#a-lnd94103-079-p1s15w4</lex.rf>
+<aux.rf>
+<LM>a#a-lnd94103-079-p1s15w2</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nabízet</t_lemma>
@@ -4138,7 +4169,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w1949f1</val_frame.rf>
+<val_frame.rf>v#v41clwA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s15w3">
 <a>
@@ -4206,7 +4237,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w5868f1</val_frame.rf>
+<val_frame.rf>v#v41kdvB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s15a3">
 <nodetype>qcomplex</nodetype>
@@ -4273,7 +4304,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w6253f1</val_frame.rf>
+<val_frame.rf>v#v41kxoA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s15w9">
 <a>
@@ -4369,7 +4400,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w4326f1</val_frame.rf>
+<val_frame.rf>v#v41hbxA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s15w17">
 <a>
@@ -4435,6 +4466,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s16w4</LM>
@@ -4475,7 +4507,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w6595f1</val_frame.rf>
+<val_frame.rf>v#v41lniA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s16w2">
 <a>
@@ -4506,6 +4538,7 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -4519,8 +4552,9 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <lex.rf>a#a-lnd94103-079-p1s16w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>pečlivý</t_lemma>
+<t_lemma>pečlivě</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>pečlivý</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -4611,13 +4645,14 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-079-p1s16w10</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w9378f2</val_frame.rf>
+<val_frame.rf>v#v41qxnA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-079-p1s16w13">
 <a>

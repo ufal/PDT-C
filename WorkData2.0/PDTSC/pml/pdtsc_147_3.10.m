@@ -646,8 +646,8 @@
 <LM>w#w-d1t2441-3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m117-d1t2441-4">
 <w.rf>
@@ -774,8 +774,8 @@
 <LM>w#w-d1t2461-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1e2456-x2-546">
 <w.rf>

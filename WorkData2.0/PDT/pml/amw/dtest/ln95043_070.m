@@ -94,7 +94,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95043-070-p2s1w2">
 <src.rf>manual</src.rf>

@@ -1268,7 +1268,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2242-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

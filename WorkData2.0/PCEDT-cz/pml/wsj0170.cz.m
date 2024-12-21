@@ -98,7 +98,7 @@
 </w.rf>
 <form>potenciální</form>
 <lemma>potenciální</lemma>
-<tag>AAIP4----1A----</tag>
+<tag>AAIP1----1A----</tag>
 </m>
 <m id="m-wsj0170-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -107,7 +107,7 @@
 </w.rf>
 <form>problémy</form>
 <lemma>problém</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-wsj0170-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -989,7 +989,7 @@
 <LM>w#w-wsj0170-001-p1s4W10</LM>
 </w.rf>
 <form>pasažerů</form>
-<lemma>pasažer</lemma>
+<lemma>pasažer_,s_^(^DD**pasažér)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0170-001-p1s4W11-Ta">
@@ -1162,8 +1162,8 @@
 <LM>w#w-wsj0170-001-p1s5W6</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0170-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>

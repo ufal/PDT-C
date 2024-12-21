@@ -2094,7 +2094,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-029-p5s5w11">
 <src.rf>manual</src.rf>
@@ -2905,7 +2905,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-029-p7s1w9">
 <src.rf>manual</src.rf>
@@ -3633,7 +3633,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9211-029-p8s2w15">
 <src.rf>manual</src.rf>
@@ -4390,7 +4390,7 @@
 </w.rf>
 <form>zachovány</form>
 <lemma>zachovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APP--</tag>
 </m>
 <m id="m-vesm9211-029-p9s2w4">
 <src.rf>manual</src.rf>
@@ -6672,7 +6672,7 @@
 <LM>w#w-vesm9211-029-p10s1w32</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGFS4-----A----</tag>
 </m>
 <m id="m-vesm9211-029-p10s1w33">
@@ -7281,7 +7281,7 @@
 <LM>w#w-vesm9211-029-p11s3w4</LM>
 </w.rf>
 <form>gigantománii</form>
-<lemma>gigantománie_,s_^(^DD**gigantomanie)</lemma>
+<lemma>gigantománie</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9211-029-p11s3w5">
@@ -7742,7 +7742,7 @@
 </w.rf>
 <form>socialismu</form>
 <lemma>socialismus_,s_^(^DD**socializmus)</lemma>
-<tag>NNIS6-----A----</tag>
+<tag>NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-029-p13s1w6">
 <src.rf>manual</src.rf>
@@ -8984,8 +8984,8 @@
 <LM>w#w-vesm9211-029-p13s6w15</LM>
 </w.rf>
 <form>pracujících</form>
-<lemma>pracující_^(*5ovat)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>pracující-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9211-029-p13s6w16">
 <src.rf>manual</src.rf>
@@ -10153,7 +10153,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-029-p15s4w2">
 <src.rf>manual</src.rf>
@@ -10606,8 +10606,8 @@
 <LM>w#w-vesm9211-029-p15s6w13</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9211-029-p15s6w14">
 <src.rf>manual</src.rf>
@@ -12418,7 +12418,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-029-p18s1w13">
 <src.rf>manual</src.rf>
@@ -13162,7 +13162,7 @@
 </w.rf>
 <form>zachována</form>
 <lemma>zachovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9211-029-p18s4w23">
 <src.rf>manual</src.rf>
@@ -15767,8 +15767,8 @@
 <LM>w#w-vesm9211-029-p23s1w13</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-029-p23s1w14">
 <src.rf>manual</src.rf>
@@ -16316,7 +16316,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-029-p23s5w22">
 <src.rf>manual</src.rf>

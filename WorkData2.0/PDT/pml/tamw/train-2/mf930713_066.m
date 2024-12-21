@@ -515,8 +515,8 @@
 <LM>w#w-mf930713-066-p4s2w12</LM>
 </w.rf>
 <form>blízkých</form>
-<lemma>blízký</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>blízký-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-066-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1073,8 +1073,8 @@
 <LM>w#w-mf930713-066-p9s1w7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-066-p9s1w8">
 <src.rf>manual</src.rf>
@@ -1082,8 +1082,8 @@
 <LM>w#w-mf930713-066-p9s1w8</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930713-066-p9s1w9">
 <src.rf>manual</src.rf>
@@ -1606,8 +1606,8 @@
 <LM>w#w-mf930713-066-p9s2w24</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-066-p9s2w25">
 <src.rf>manual</src.rf>

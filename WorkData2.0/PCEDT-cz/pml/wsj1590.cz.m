@@ -16,8 +16,8 @@
 <LM>w#w-wsj1590-001-p1s0W1</LM>
 </w.rf>
 <form>Následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1590-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -779,7 +779,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1590-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1752,7 +1752,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1590-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2360,8 +2360,8 @@
 <LM>w#w-wsj1590-001-p1s11W7</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1590-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>

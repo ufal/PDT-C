@@ -762,7 +762,7 @@
 </w.rf>
 <form>Společnosti</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1641-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2167,7 +2167,7 @@
 </w.rf>
 <form>Emeryville</form>
 <lemma>Emeryville_;G</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-wsj1641-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2746,8 +2746,8 @@
 <LM>w#w-wsj1641-001-p1s10W39</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ani-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1641-001-p1s10W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2827,8 +2827,8 @@
 <LM>w#w-wsj1641-001-p1s10W48</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1641-001-p1s10W49-Ta">
 <src.rf>tagger-a</src.rf>

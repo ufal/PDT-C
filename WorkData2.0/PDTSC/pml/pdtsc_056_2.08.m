@@ -68,7 +68,7 @@
 <LM>w#w-d1t1840-10</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m106-d1t1840-6">
@@ -266,8 +266,8 @@
 <LM>w#w-d1t1858-10</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m106-d1t1858-11">
 <w.rf>
@@ -418,8 +418,8 @@
 <LM>w#w-d1t1864-6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m106-d1t1864-7">
 <w.rf>
@@ -891,7 +891,7 @@
 </w.rf>
 <form>Vyspíme</form>
 <lemma>vyspat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAP--</tag>
 </m>
 <m id="m106-856-860">
 <w.rf>
@@ -1244,8 +1244,8 @@
 <LM>w#w-d1t1892-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m106-d1t1892-3">
 <w.rf>

@@ -1160,8 +1160,8 @@
 <LM>w#w-wsj1887-001-p1s4W7</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1887-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1280,7 +1280,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1887-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>

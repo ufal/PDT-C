@@ -630,8 +630,8 @@
 <LM>w#w-ln94205-47-p3s2w6</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-47-p3s2w7">
 <src.rf>manual</src.rf>

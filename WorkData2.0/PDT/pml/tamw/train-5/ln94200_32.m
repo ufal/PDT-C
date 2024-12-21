@@ -230,8 +230,8 @@
 <LM>w#w-ln94200-32-p2s2w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-32-p2s2w5">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-ln94200-32-p3s1w18</LM>
 </w.rf>
 <form>bezespárové</form>
-<lemma>bezespárový</lemma>
+<lemma>bezespárový_,s_^(^DD**bezspárový)</lemma>
 <tag>AAFP4----1A----</tag>
 </m>
 <m id="m-ln94200-32-p3s1w19">

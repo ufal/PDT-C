@@ -156,8 +156,8 @@
 <LM>w#w-ln94207-107-p2s1w12</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-107-p2s1w13">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-107-p2s6w7">
 <src.rf>manual</src.rf>

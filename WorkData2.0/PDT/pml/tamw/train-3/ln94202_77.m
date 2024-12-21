@@ -37,8 +37,8 @@
 <LM>w#w-ln94202-77-p1s1w3</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-77-p1s1w4">
 <src.rf>manual</src.rf>

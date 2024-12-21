@@ -167,8 +167,8 @@
 <LM>w#w-mf930713-160-p2s1Bw9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-160-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-160-p2s3w16">
 <src.rf>manual</src.rf>

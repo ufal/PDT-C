@@ -1953,7 +1953,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-137-p1s13w2">
 <src.rf>manual</src.rf>

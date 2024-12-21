@@ -5278,8 +5278,8 @@
 <LM>w#w-wsj1999-001-p1s26W15</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1999-001-p1s26W16-Ta">
 <src.rf>tagger-a</src.rf>

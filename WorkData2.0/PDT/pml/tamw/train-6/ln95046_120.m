@@ -1010,8 +1010,8 @@
 <LM>w#w-ln95046-120-p4s3w1</LM>
 </w.rf>
 <form>Počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-ln95046-120-p4s3w2">
 <src.rf>manual</src.rf>

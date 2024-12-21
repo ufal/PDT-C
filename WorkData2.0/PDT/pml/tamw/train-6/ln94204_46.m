@@ -1371,8 +1371,8 @@
 <LM>w#w-ln94204-46-p7s1w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-46-p7s1w5">
 <src.rf>manual</src.rf>
@@ -1479,7 +1479,7 @@
 <LM>w#w-ln94204-46-p7s1w16</LM>
 </w.rf>
 <form>Lobkowicz</form>
-<lemma>Lobkowicz_;Y</lemma>
+<lemma>Lobkowicz_;Y_,s_^(^DD**Lobkovic)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-46-p7s1w17">
@@ -1753,8 +1753,8 @@
 <LM>w#w-ln94204-46-p7s3w2</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-46-p7s3w3">
 <src.rf>manual</src.rf>

@@ -1030,8 +1030,8 @@
 <LM>w#w-ln94211-40-p5s1w21</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-40-p5s1w22">
 <src.rf>manual</src.rf>
@@ -1215,7 +1215,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-40-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2068,8 +2068,8 @@
 <LM>w#w-ln94211-40-p9s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-40-p9s1w6">
 <src.rf>manual</src.rf>

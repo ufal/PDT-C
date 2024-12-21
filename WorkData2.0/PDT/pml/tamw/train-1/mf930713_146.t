@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930713_146.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -37,8 +37,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w1339f3</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41bikAI</val_frame.rf>
 <children>
 <LM id="t-mf930713-146-p1s1w1">
 <a>
@@ -210,7 +210,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w489f2</val_frame.rf>
+<val_frame.rf>v#v41uwB</val_frame.rf>
 <children>
 <LM id="t-mf930713-146-p2s1Bw1">
 <a>
@@ -467,7 +467,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w7556f2</val_frame.rf>
+<val_frame.rf>v#v41nirC</val_frame.rf>
 <children>
 <LM id="t-mf930713-146-p2s2w2">
 <a>
@@ -476,6 +476,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -523,7 +524,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9665f1</val_frame.rf>
+<val_frame.rf>v#v41rmsB</val_frame.rf>
 </LM>
 <LM id="t-mf930713-146-p2s2w8">
 <a>
@@ -681,7 +682,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w1339f25</val_frame.rf>
+<val_frame.rf>v#v41bikAH</val_frame.rf>
 <children>
 <LM id="t-mf930713-146-p2s3w2">
 <a>
@@ -835,7 +836,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w8539f1</val_frame.rf>
+<val_frame.rf>v#v41pgbA</val_frame.rf>
 <children>
 <LM id="t-mf930713-146-p2s3w12">
 <a>

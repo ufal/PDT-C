@@ -163,7 +163,7 @@
 </w.rf>
 <form>Depardieu</form>
 <lemma>Depardieu_;Y</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMXX-----A----</tag>
 </m>
 <m id="m115-d1t1501-2">
 <w.rf>
@@ -995,8 +995,8 @@
 <LM>w#w-d1t1526-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1526-5">
 <w.rf>
@@ -1037,8 +1037,8 @@
 <LM>w#w-d1t1532-2</LM>
 </w.rf>
 <form>Samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1532-3">
 <w.rf>
@@ -1069,8 +1069,8 @@
 <LM>w#w-d1t1532-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1532-7">
 <w.rf>
@@ -1395,8 +1395,8 @@
 <LM>w#w-d1t1547-6</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1547-7">
 <w.rf>
@@ -1461,8 +1461,8 @@
 <LM>w#w-d1t1551-8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1551-9">
 <w.rf>
@@ -1667,8 +1667,8 @@
 <LM>w#w-1008-1009</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1561-5">
 <w.rf>
@@ -1717,8 +1717,8 @@
 <LM>w#w-d1t1561-15</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1561-13">
 <w.rf>
@@ -2578,7 +2578,7 @@
 <LM>w#w-d1t1592-15</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1592-16">
@@ -3548,8 +3548,8 @@
 <LM>w#w-d1t1637-1</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1637-2">
 <w.rf>
@@ -3665,7 +3665,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m115-d1t1641-4">
 <w.rf>

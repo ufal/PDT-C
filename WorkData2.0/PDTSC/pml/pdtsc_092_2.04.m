@@ -168,8 +168,8 @@
 <LM>w#w-d1t512-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m142-d1t512-5">
 <w.rf>
@@ -248,8 +248,8 @@
 <LM>w#w-d1t512-22</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m142-d1t512-21">
 <w.rf>
@@ -306,8 +306,8 @@
 <LM>w#w-d1t512-30</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m142-d1t512-29">
 <w.rf>
@@ -1766,8 +1766,8 @@
 <LM>w#w-d1t553-18</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m142-d1t553-25">
 <w.rf>
@@ -1888,8 +1888,8 @@
 <LM>w#w-d1t553-41</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m142-d-id96195-punct">
 <w.rf>
@@ -2692,7 +2692,7 @@
 <LM>w#w-d1t566-6</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m142-d1t566-7">
@@ -2758,8 +2758,8 @@
 <LM>w#w-d1t568-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m142-d1t568-6">
 <w.rf>
@@ -2928,7 +2928,7 @@
 <LM>w#w-d1t571-5</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m142-d1t571-8">
@@ -3344,8 +3344,8 @@
 <LM>w#w-d1t588-14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m142-d1t588-15">
 <w.rf>
@@ -4011,8 +4011,8 @@
 <LM>w#w-d1t600-42</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m142-d1t600-41">
 <w.rf>

@@ -190,7 +190,7 @@
 <LM>w#w-lnd94101-027-p1s1w20</LM>
 </w.rf>
 <form>Doubravce</form>
-<lemma>Doubravka_;G</lemma>
+<lemma>Doubravka_;G_;Y</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94101-027-p1s1w21">

@@ -37,8 +37,8 @@
 <LM>w#w-ln95047-001-p1s1w3</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-001-p1s1w4">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-001-p2s1Cw25">
 <src.rf>manual</src.rf>
@@ -558,8 +558,8 @@
 <LM>w#w-ln95047-001-p3s1w8</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-001-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1023,8 +1023,8 @@
 <LM>w#w-ln95047-001-p4s2w4</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-001-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-ln95047-001-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1351,8 +1351,8 @@
 <LM>w#w-ln95047-001-p5s1w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-001-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1778,8 +1778,8 @@
 <LM>w#w-ln95047-001-p5s3w18</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-001-p5s3w19">
 <src.rf>manual</src.rf>
@@ -1934,7 +1934,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-001-p5s4w8">
 <src.rf>manual</src.rf>
@@ -2107,7 +2107,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln95047-001-p6s1w15">
 <src.rf>manual</src.rf>
@@ -2124,8 +2124,8 @@
 <LM>w#w-ln95047-001-p6s1w16</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-001-p6s1w17">
 <src.rf>manual</src.rf>
@@ -2466,8 +2466,8 @@
 <LM>w#w-ln95047-001-p6s1w54</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-001-p6s1w55">
 <src.rf>manual</src.rf>

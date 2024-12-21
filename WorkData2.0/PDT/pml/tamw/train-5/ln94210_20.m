@@ -150,7 +150,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94210-20-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -322,8 +322,8 @@
 <LM>w#w-ln94210-20-p2s2w6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-20-p2s2w7">
 <src.rf>manual</src.rf>

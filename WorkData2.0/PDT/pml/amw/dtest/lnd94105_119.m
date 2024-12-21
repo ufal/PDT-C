@@ -1956,8 +1956,8 @@
 <LM>w#w-lnd94105-119-p1s9w14</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94105-119-p1s9w15">
 <src.rf>manual</src.rf>

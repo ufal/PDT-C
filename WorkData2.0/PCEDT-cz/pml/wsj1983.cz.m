@@ -361,7 +361,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1983-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1853,7 +1853,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1983-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>

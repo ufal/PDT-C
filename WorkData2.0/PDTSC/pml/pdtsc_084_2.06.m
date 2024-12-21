@@ -111,7 +111,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m133-d1t1633-11">
 <w.rf>
@@ -431,7 +431,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-194-195">
 <w.rf>
@@ -478,8 +478,8 @@
 <LM>w#w-d-id119298-punct</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m133-194-197">
 <w.rf>
@@ -560,8 +560,8 @@
 <LM>w#w-d1t1648-12</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1648-13">
 <w.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-d1t1691-3</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m133-d1t1691-2">
@@ -1714,8 +1714,8 @@
 <LM>w#w-d1t1743-11</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1743-15">
 <w.rf>
@@ -1773,7 +1773,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m133-d1t1745-3">
 <w.rf>
@@ -2248,8 +2248,8 @@
 <LM>w#w-d1t1778-7</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1778-9">
 <w.rf>
@@ -2454,8 +2454,8 @@
 <LM>w#w-d1t1791-11</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1791-10">
 <w.rf>
@@ -2718,8 +2718,8 @@
 <LM>w#w-d1t1822-1</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1822-2">
 <w.rf>
@@ -2752,8 +2752,8 @@
 <LM>w#w-d1t1822-5</LM>
 </w.rf>
 <form>Akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1822-7">
 <w.rf>

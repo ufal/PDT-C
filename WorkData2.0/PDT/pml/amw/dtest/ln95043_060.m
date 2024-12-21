@@ -130,7 +130,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95043-060-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1977,8 +1977,8 @@
 <LM>w#w-ln95043-060-p6s3w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95043-060-p6s3w2">
 <src.rf>manual</src.rf>
@@ -2552,7 +2552,7 @@
 <LM>w#w-ln95043-060-p8s3w5</LM>
 </w.rf>
 <form>ladění</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AAMP1----1A----</tag>
 </m>
 <m id="m-ln95043-060-p8s3w6">

@@ -969,8 +969,8 @@
 <LM>w#w-wsj1164-001-p1s4W19</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1164-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1369,8 +1369,8 @@
 <LM>w#w-wsj1164-001-p1s6W5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1164-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3590,7 +3590,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1164-001-p1s17W19-Ta">
 <src.rf>tagger-a</src.rf>

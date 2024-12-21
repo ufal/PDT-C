@@ -208,7 +208,7 @@
 <LM>w#w-1736-472</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m711-d1t755-9">
@@ -1314,7 +1314,7 @@
 <LM>w#w-d1t805-6</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m711-d1t805-7">
@@ -1609,7 +1609,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m711-d1t810-8">
 <w.rf>
@@ -1974,8 +1974,8 @@
 <LM>w#w-d1t831-11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m711-d1t831-12">
 <w.rf>
@@ -2924,8 +2924,8 @@
 <LM>w#w-d1t855-21</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t857-4">
 <w.rf>
@@ -3668,7 +3668,7 @@
 <LM>w#w-d1t902-10</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m711-d1t902-11">
@@ -3938,8 +3938,8 @@
 <LM>w#w-d1t921-4</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t921-12">
 <w.rf>
@@ -4148,8 +4148,8 @@
 <LM>w#w-139_1-290</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t923-14">
 <w.rf>
@@ -4620,8 +4620,8 @@
 <LM>w#w-d1t938-6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t938-9">
 <w.rf>
@@ -5132,8 +5132,8 @@
 <LM>w#w-d1t958-15</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t958-17">
 <w.rf>
@@ -5694,7 +5694,7 @@
 <LM>w#w-d1t980-9</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m711-d1t980-3">

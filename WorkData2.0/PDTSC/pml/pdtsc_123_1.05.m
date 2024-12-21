@@ -209,7 +209,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--6----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m118-d1t966-7">
 <w.rf>
@@ -522,8 +522,8 @@
 <LM>w#w-d1t984-1</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m118-401-402">
 <w.rf>
@@ -2598,8 +2598,8 @@
 <LM>w#w-d1t1061-1</LM>
 </w.rf>
 <form>Vždyť</form>
-<lemma>vždyť-1</lemma>
-<tag>J^-------------</tag>
+<lemma>vždyť-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m118-d1t1061-2">
 <w.rf>
@@ -3162,8 +3162,8 @@
 <LM>w#w-d1t1076-13</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m118-d1t1076-15">
 <w.rf>

@@ -2020,7 +2020,7 @@
 </w.rf>
 <form>angažován</form>
 <lemma>angažovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-cmpr9406-049-p6s2w5">
 <src.rf>manual</src.rf>
@@ -2869,7 +2869,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-cmpr9406-049-p8s4w5">
 <src.rf>manual</src.rf>

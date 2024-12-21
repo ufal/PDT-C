@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_042.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -46,8 +46,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w6923f2</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41mdbA</val_frame.rf>
 <children>
 <LM id="t-mf930709-042-p1s1w1">
 <a>
@@ -229,7 +229,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w7970f1</val_frame.rf>
+<val_frame.rf>v#v41oczC</val_frame.rf>
 <children>
 <LM id="t-mf930709-042-p2s1Bw1">
 <a>
@@ -246,7 +246,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w2434f1</val_frame.rf>
+<val_frame.rf>v#v41dmqB</val_frame.rf>
 <children>
 <LM id="t-mf930709-042-p2s1Ba0">
 <nodetype>qcomplex</nodetype>
@@ -337,6 +337,15 @@
 </LM>
 </children>
 </LM>
+<LM id="t-mf930709-042-p2s1Bw10">
+<a>
+<lex.rf>a#a-mf930709-042-p2s1Bw10</lex.rf>
+</a>
+<nodetype>atom</nodetype>
+<t_lemma>mimo_jiné</t_lemma>
+<functor>CM</functor>
+<deepord>8</deepord>
+</LM>
 <LM id="t-mf930709-042-p2s1Bw13">
 <a>
 <lex.rf>a#a-mf930709-042-p2s1Bw13</lex.rf>
@@ -352,8 +361,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>8</deepord>
-<discourse_comment>wrongTR? nemelo by "mj. znameho Fernetu" byt PAR?</discourse_comment>
+<deepord>9</deepord>
 <children>
 <LM id="t-mf930709-042-p2s1Bw12">
 <a>
@@ -368,24 +376,7 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>9</deepord>
-<children>
-<LM id="t-mf930709-042-p2s1Bw10">
-<a>
-<lex.rf>a#a-mf930709-042-p2s1Bw10</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>mj</t_lemma>
-<functor>RESTR</functor>
-<gram>
-<sempos>adv.denot.grad.neg</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<tfa>f</tfa>
 <deepord>10</deepord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -754,7 +745,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9283f1</val_frame.rf>
+<val_frame.rf>v#v41qtaA</val_frame.rf>
 <children>
 <LM id="t-mf930709-042-p2s2w1">
 <a>
@@ -778,7 +769,7 @@
 <type>CONTRAST</type>
 </LM>
 </bridging>
-<val_frame.rf>v#v-w8814f1</val_frame.rf>
+<val_frame.rf>v#v41pujA</val_frame.rf>
 <children>
 <LM id="t-mf930709-042-p2s2w2">
 <a>
@@ -831,7 +822,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w5636f1</val_frame.rf>
+<val_frame.rf>v#v41jqjB</val_frame.rf>
 <children>
 <LM id="t-mf930709-042-p2s2a1">
 <nodetype>qcomplex</nodetype>
@@ -899,7 +890,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w8192f1</val_frame.rf>
+<val_frame.rf>v#v41oonA</val_frame.rf>
 <children>
 <LM id="t-mf930709-042-p2s3w1">
 <a>
@@ -936,7 +927,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w1322f1</val_frame.rf>
+<val_frame.rf>v#v41bhqA</val_frame.rf>
 <children>
 <LM id="t-mf930709-042-p2s3w6">
 <a>
@@ -1061,7 +1052,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w6539f1</val_frame.rf>
+<val_frame.rf>v#v41lkuB</val_frame.rf>
 <children>
 <LM id="t-mf930709-042-p2s4w1">
 <a>
@@ -1115,6 +1106,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tisíc</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>tisíc</proto_lemma>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -1279,6 +1271,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1291,7 +1284,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf930709-042-p2s5w3">
 <a>
@@ -1337,6 +1330,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>

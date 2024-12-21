@@ -424,7 +424,7 @@
 <LM>w#w-mf930713-019-p2s3w5</LM>
 </w.rf>
 <form>opravňovalo</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-019-p2s3w6">

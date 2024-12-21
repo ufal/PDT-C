@@ -597,8 +597,8 @@
 <LM>w#w-lnd91303-057-p3s3w7</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-057-p3s3w8">
 <src.rf>manual</src.rf>
@@ -3283,7 +3283,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-057-p5s5w26">
 <src.rf>manual</src.rf>
@@ -3528,7 +3528,7 @@
 <LM>w#w-lnd91303-057-p5s6w19</LM>
 </w.rf>
 <form>témbr</form>
-<lemma>témbr</lemma>
+<lemma>témbr_,s_^(^DD**tembr)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-lnd91303-057-p5s6w20">
@@ -3612,7 +3612,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-057-p5s7w5">
 <src.rf>manual</src.rf>

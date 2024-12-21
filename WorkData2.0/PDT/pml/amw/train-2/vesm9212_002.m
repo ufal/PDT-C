@@ -907,7 +907,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p4s5w2">
 <src.rf>manual</src.rf>
@@ -1552,7 +1552,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p5s3w4">
 <src.rf>manual</src.rf>
@@ -3996,7 +3996,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p8s2w12">
 <src.rf>manual</src.rf>
@@ -5151,7 +5151,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p10s2w2">
 <src.rf>manual</src.rf>
@@ -7164,7 +7164,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p11s4w19">
 <src.rf>manual</src.rf>
@@ -8138,7 +8138,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p14s1w2">
 <src.rf>manual</src.rf>
@@ -8945,7 +8945,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p14s4w33">
 <src.rf>manual</src.rf>
@@ -9043,7 +9043,7 @@
 <LM>w#w-vesm9212-002-p14s4w43</LM>
 </w.rf>
 <form>neandertálců</form>
-<lemma>neandertálec</lemma>
+<lemma>neandertálec_,s_^(^DD**neandrtálec)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9212-002-p14s4w44">
@@ -10036,7 +10036,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p15s3w8">
 <src.rf>manual</src.rf>
@@ -11880,8 +11880,8 @@
 <LM>w#w-vesm9212-002-p16s4w17</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p16s4w18">
 <src.rf>manual</src.rf>
@@ -13421,7 +13421,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p18s6w5">
 <src.rf>manual</src.rf>
@@ -13955,8 +13955,8 @@
 <LM>w#w-vesm9212-002-p18s8w19</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-002-p18s8w20">
 <src.rf>manual</src.rf>

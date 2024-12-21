@@ -267,7 +267,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-18-p2s2w8">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 </w.rf>
 <form>přesáhly</form>
 <lemma>přesáhnout</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94208-18-p2s2w14">
 <src.rf>manual</src.rf>
@@ -1649,7 +1649,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-18-p4s4w22">
 <src.rf>manual</src.rf>
@@ -2369,7 +2369,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-18-p7s1w16">
 <src.rf>manual</src.rf>
@@ -2937,7 +2937,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-18-p8s5Aw3">
 <src.rf>manual</src.rf>

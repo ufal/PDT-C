@@ -1432,8 +1432,8 @@
 <LM>w#w-es_15-SCzechM-p1559-s1-w2</LM>
 </w.rf>
 <form>ti</form>
-<lemma>ten</lemma>
-<tag>PDMP1----------</tag>
+<lemma>ty</lemma>
+<tag>PH-S3--2-------</tag>
 </m>
 <m id="es_15-SCzechM-p1559-s1-w3">
 <w.rf>
@@ -2521,7 +2521,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_15-SCzechM-p1599-s1-w2">
 <w.rf>
@@ -3272,8 +3272,8 @@
 <LM>w#w-es_15-SCzechM-p1623-s1-w2</LM>
 </w.rf>
 <form>PADLÝCH</form>
-<lemma>padlý_^(*2nout)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>padlý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 </s>
 </mdata>

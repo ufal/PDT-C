@@ -884,7 +884,7 @@
 <LM>w#w-vesm9301-030-p2s4w14</LM>
 </w.rf>
 <form>vytýčené</form>
-<lemma>vytýčený_^(*3it)</lemma>
+<lemma>vytýčený_^(^DD**vytyčený)_(*3it)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9301-030-p2s4w15">
@@ -2023,7 +2023,7 @@
 <LM>w#w-vesm9301-030-p5s3w23</LM>
 </w.rf>
 <form>adenozintrifosfátem</form>
-<lemma>adenozintrifosfát</lemma>
+<lemma>adenozintrifosfát_,s_^(^DD**adenosintrifosfát)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9301-030-p5s3w24">
@@ -3635,7 +3635,7 @@
 <LM>w#w-vesm9301-030-p6s7w5</LM>
 </w.rf>
 <form>chromozómech</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIP6-----A----</tag>
 </m>
 <m id="m-vesm9301-030-p6s7w6">
@@ -4580,7 +4580,7 @@
 <LM>w#w-vesm9301-030-p7s1w29</LM>
 </w.rf>
 <form>adenozintrifosfátem</form>
-<lemma>adenozintrifosfát</lemma>
+<lemma>adenozintrifosfát_,s_^(^DD**adenosintrifosfát)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9301-030-p7s1w30">
@@ -5097,7 +5097,7 @@
 <LM>w#w-vesm9301-030-p7s3w10</LM>
 </w.rf>
 <form>adenozintrifosfátu</form>
-<lemma>adenozintrifosfát</lemma>
+<lemma>adenozintrifosfát_,s_^(^DD**adenosintrifosfát)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9301-030-p7s3w11">

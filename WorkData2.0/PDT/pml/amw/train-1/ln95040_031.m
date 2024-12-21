@@ -20,7 +20,7 @@
 </w.rf>
 <form>V</form>
 <lemma>v-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-ln95040-031-p1s1w2">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 </w.rf>
 <form>Dublinu</form>
 <lemma>Dublin_;G</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95040-031-p2s1Bw10">
 <src.rf>manual</src.rf>

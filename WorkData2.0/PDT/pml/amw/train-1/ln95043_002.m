@@ -1391,7 +1391,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-002-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1519,7 +1519,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-002-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1536,7 +1536,7 @@
 <LM>w#w-ln95043-002-p3s3w6</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-ln95043-002-p3s3w7">
@@ -1582,7 +1582,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-002-p3s3w12">
 <src.rf>manual</src.rf>

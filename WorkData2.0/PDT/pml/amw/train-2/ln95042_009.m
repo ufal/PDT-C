@@ -2648,7 +2648,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-009-p7s2w13">
 <src.rf>manual</src.rf>
@@ -2895,7 +2895,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-009-p7s4w5">
 <src.rf>manual</src.rf>
@@ -5224,7 +5224,7 @@
 <LM>w#w-ln95042-009-p13s1w10</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-009-p13s1w11">

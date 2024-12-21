@@ -1057,7 +1057,7 @@
 <LM>w#w-wsj2216-001-p1s3W16</LM>
 </w.rf>
 <form>opravňují</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj2216-001-p1s3W17-Ta">
@@ -1529,7 +1529,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2216-001-p1s4W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1756,7 +1756,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2216-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2010,7 +2010,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj2216-001-p1s5W39-Ta">
 <src.rf>tagger-a</src.rf>

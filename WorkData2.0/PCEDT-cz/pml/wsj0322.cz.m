@@ -163,7 +163,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0322-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2060,7 +2060,7 @@
 </w.rf>
 <form>věnovali</form>
 <lemma>věnovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj0322-001-p1s10W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4545,7 +4545,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj0322-001-p1s26W18-Ta">
 <src.rf>tagger-a</src.rf>

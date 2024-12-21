@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95046_068.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -40,8 +40,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w3781f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41gcbA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p1s1w1">
 <a>
@@ -77,7 +77,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w4510f1</val_frame.rf>
+<val_frame.rf>v#v41hloA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p1s1a0">
 <nodetype>qcomplex</nodetype>
@@ -106,7 +106,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w2504f1</val_frame.rf>
+<val_frame.rf>v#v41dpzA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p1s1a2">
 <nodetype>qcomplex</nodetype>
@@ -191,7 +191,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w3781f1</val_frame.rf>
+<val_frame.rf>v#v41gcbA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s1Bw2">
 <a>
@@ -296,7 +296,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w4510f1</val_frame.rf>
+<val_frame.rf>v#v41hloA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s1Ba0">
 <nodetype>qcomplex</nodetype>
@@ -384,7 +384,7 @@
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w2504f1</val_frame.rf>
+<val_frame.rf>v#v41dpzA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s1Ba1">
 <nodetype>qcomplex</nodetype>
@@ -464,13 +464,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-068-p2s1Bw19</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w2853f1</val_frame.rf>
+<val_frame.rf>v#v41ehtB</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s1Bw21">
 <a>
@@ -587,7 +588,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w7449f1</val_frame.rf>
+<val_frame.rf>v#v41ndjA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s2w2">
 <a>
@@ -596,6 +597,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -714,7 +716,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w2960f2</val_frame.rf>
+<val_frame.rf>v#v41eneB</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s2a0">
 <nodetype>qcomplex</nodetype>
@@ -906,7 +908,7 @@ to nebyl diskurzni vztah  -ze by to bylo mezi
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w7559f1</val_frame.rf>
+<val_frame.rf>v#v41niuA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s3w3">
 <a>
@@ -1001,7 +1003,7 @@ to nebyl diskurzni vztah  -ze by to bylo mezi
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7970f1</val_frame.rf>
+<val_frame.rf>v#v41oczC</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s3w6">
 <a>
@@ -1039,7 +1041,7 @@ to nebyl diskurzni vztah  -ze by to bylo mezi
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w5236f1</val_frame.rf>
+<val_frame.rf>v#v41iwuA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s3a3">
 <nodetype>qcomplex</nodetype>
@@ -1070,7 +1072,7 @@ to nebyl diskurzni vztah  -ze by to bylo mezi
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w2529f1</val_frame.rf>
+<val_frame.rf>v#v41driA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s3a0">
 <nodetype>qcomplex</nodetype>
@@ -1118,7 +1120,7 @@ to nebyl diskurzni vztah  -ze by to bylo mezi
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w7559f1</val_frame.rf>
+<val_frame.rf>v#v41niuA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s3w13">
 <a>
@@ -1211,7 +1213,7 @@ to nebyl diskurzni vztah  -ze by to bylo mezi
 </gram>
 <tfa>t</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w2529f1</val_frame.rf>
+<val_frame.rf>v#v41driA</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s3a2">
 <nodetype>complex</nodetype>
@@ -1289,7 +1291,7 @@ v ramci jedne vety</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>24</deepord>
-<val_frame.rf>v#v-w5161f1</val_frame.rf>
+<val_frame.rf>v#v41isjF</val_frame.rf>
 <children>
 <LM id="t-ln95046-068-p2s3w24">
 <a>

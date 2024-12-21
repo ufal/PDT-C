@@ -393,7 +393,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-062-p1s2w4">
 <src.rf>manual</src.rf>
@@ -1156,8 +1156,8 @@
 <LM>w#w-ln95041-062-p3s1w21</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-062-p3s1w22">
 <src.rf>manual</src.rf>
@@ -2095,7 +2095,7 @@
 </w.rf>
 <form>distribuována</form>
 <lemma>distribuovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-ln95041-062-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2384,8 +2384,8 @@
 <LM>w#w-ln95041-062-p5s3w14</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-062-p5s3w15">
 <src.rf>manual</src.rf>

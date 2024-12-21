@@ -240,7 +240,7 @@
 </w.rf>
 <form>Reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf920922-074-p2s2w2">
 <src.rf>manual</src.rf>
@@ -805,8 +805,8 @@
 <LM>w#w-mf920922-074-p2s6Aw10</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920922-074-p2s6Aw11">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-mf920922-074-p2s6Aw17">
 <src.rf>manual</src.rf>
@@ -1196,8 +1196,8 @@
 <LM>w#w-mf920922-074-p2s7w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-074-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1342,8 +1342,8 @@
 <LM>w#w-mf920922-074-p2s8w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-074-p2s8w2">
 <src.rf>manual</src.rf>

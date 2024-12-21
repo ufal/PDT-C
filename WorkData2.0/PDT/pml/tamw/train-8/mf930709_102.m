@@ -505,8 +505,8 @@
 <LM>w#w-mf930709-102-p2s2w22</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-102-p2s2w23">
 <src.rf>manual</src.rf>

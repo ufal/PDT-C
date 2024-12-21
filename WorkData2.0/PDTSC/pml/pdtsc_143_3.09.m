@@ -168,8 +168,8 @@
 <LM>w#w-d1t1394-9</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1394-11">
 <w.rf>
@@ -202,8 +202,8 @@
 <LM>w#w-d1t1394-14</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1394-15">
 <w.rf>
@@ -433,7 +433,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m115-d1t1406-2">
 <w.rf>
@@ -1048,8 +1048,8 @@
 <LM>w#w-d1t1410-47</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1410-48">
 <w.rf>
@@ -1147,7 +1147,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m115-d1t1410-61">
 <w.rf>
@@ -1194,8 +1194,8 @@
 <LM>w#w-d1t1410-66</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1410-67">
 <w.rf>
@@ -1203,7 +1203,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m115-d1t1410-68">
 <w.rf>
@@ -1980,8 +1980,8 @@
 <LM>w#w-d1t1437-3</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1437-5">
 <w.rf>
@@ -3288,8 +3288,8 @@
 <LM>w#w-d1t1458-22</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m115-800-801">
 <w.rf>
@@ -3452,8 +3452,8 @@
 <LM>w#w-d1t1461-22</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1463-2">
 <w.rf>
@@ -3800,8 +3800,8 @@
 <LM>w#w-d1t1476-10</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1476-11">
 <w.rf>
@@ -4068,8 +4068,8 @@
 <LM>w#w-d1t1482-7</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1482-8">
 <w.rf>

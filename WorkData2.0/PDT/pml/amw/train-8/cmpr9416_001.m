@@ -780,8 +780,8 @@
 <LM>w#w-cmpr9416-001-p6s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9416-001-p6s2w2">
 <src.rf>manual</src.rf>
@@ -1592,7 +1592,7 @@
 </w.rf>
 <form>limitována</form>
 <lemma>limitovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-cmpr9416-001-p10s2w6">
 <src.rf>manual</src.rf>
@@ -2019,7 +2019,7 @@
 </w.rf>
 <form>tlumočnice</form>
 <lemma>tlumočnice_^(*3ík)</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9416-001-p11s1w37">
 <src.rf>manual</src.rf>
@@ -2037,7 +2037,7 @@
 </w.rf>
 <form>hostesky</form>
 <lemma>hosteska</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9416-001-p11s1w39">
 <src.rf>manual</src.rf>
@@ -2386,7 +2386,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-001-p12s2w7">
 <src.rf>manual</src.rf>
@@ -3738,7 +3738,7 @@
 </w.rf>
 <form>specializována</form>
 <lemma>specializovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-cmpr9416-001-p20s2w15">
 <src.rf>manual</src.rf>

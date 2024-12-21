@@ -2004,7 +2004,7 @@
 <LM>w#w-wsj0120-001-p1s12W8</LM>
 </w.rf>
 <form>foliovém</form>
-<lemma>foliový</lemma>
+<lemma>foliový_,s_^(^DD**fóliový)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-wsj0120-001-p1s12W9-Ta">
@@ -2370,8 +2370,8 @@
 <LM>w#w-wsj0120-001-p1s14W13</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0120-001-p1s14W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3071,8 +3071,8 @@
 <LM>w#w-wsj0120-001-p1s18W17</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0120-001-p1s18W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3217,8 +3217,8 @@
 <LM>w#w-wsj0120-001-p1s19W10</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0120-001-p1s19W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3328,7 +3328,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0120-001-p1s20W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3500,8 +3500,8 @@
 <LM>w#w-wsj0120-001-p1s21W4</LM>
 </w.rf>
 <form>volajícím</form>
-<lemma>volající_^(*4t)</lemma>
-<tag>AGMP3-----A----</tag>
+<lemma>volající-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-wsj0120-001-p1s21W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3836,7 +3836,7 @@
 </w.rf>
 <form>miliardy</form>
 <lemma>miliarda`1000000000</lemma>
-<tag>CzFS2----------</tag>
+<tag>CzFP4----------</tag>
 </m>
 <m id="m-wsj0120-001-p1s22W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3871,7 +3871,7 @@
 <LM>w#w-wsj0120-001-p1s22W37</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj0120-001-p1s22W38-Ta">
@@ -4080,8 +4080,8 @@
 <LM>w#w-wsj0120-001-p1s23W5</LM>
 </w.rf>
 <form>volajícího</form>
-<lemma>volající_^(*4t)</lemma>
-<tag>AGMS4-----A----</tag>
+<lemma>volající-2</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-wsj0120-001-p1s23W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4380,7 +4380,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0120-001-p1s24W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5089,8 +5089,8 @@
 <LM>w#w-wsj0120-001-p1s28W5</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0120-001-p1s28W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6145,8 +6145,8 @@
 <LM>w#w-wsj0120-001-p1s33W16</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0120-001-p1s33W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7474,7 +7474,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0120-001-p1s40W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8674,7 +8674,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0120-001-p1s46W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8746,7 +8746,7 @@
 </w.rf>
 <form>plenkové</form>
 <lemma>plenkový</lemma>
-<tag>AAIP4----1A----</tag>
+<tag>AAIP1----1A----</tag>
 </m>
 <m id="m-wsj0120-001-p1s46W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8755,7 +8755,7 @@
 </w.rf>
 <form>přebaly</form>
 <lemma>přebal</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-wsj0120-001-p1s46W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8876,7 +8876,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0120-001-p1s48W2-Ta">
 <src.rf>tagger-a</src.rf>

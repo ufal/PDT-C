@@ -1115,7 +1115,7 @@
 <LM>w#w-ln95040-123-p3s5w24</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95040-123-p3s5w25">
@@ -1875,7 +1875,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-123-p4s3w3">
 <src.rf>manual</src.rf>
@@ -2319,8 +2319,8 @@
 <LM>w#w-ln95040-123-p4s5w10</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-123-p4s5w11">
 <src.rf>manual</src.rf>

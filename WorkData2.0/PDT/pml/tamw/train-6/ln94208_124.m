@@ -93,8 +93,8 @@
 <LM>w#w-ln94208-124-p2s1Aw5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-124-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -468,8 +468,8 @@
 <LM>w#w-ln94208-124-p2s2w15</LM>
 </w.rf>
 <form>Kawasaki</form>
-<lemma>Kawasaki_;Y</lemma>
-<tag>NNMS1-----A----</tag>
+<lemma>Kawasaki-2_;G</lemma>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-124-p2s2w16">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-124-p2s3w7">
 <src.rf>manual</src.rf>
@@ -906,8 +906,8 @@
 <LM>w#w-ln94208-124-p3s1w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-124-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1354,7 +1354,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-124-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1652,8 +1652,8 @@
 <LM>w#w-ln94208-124-p4s2w2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-124-p4s2w3">
 <src.rf>manual</src.rf>
@@ -2661,8 +2661,8 @@
 <LM>w#w-ln94208-124-p5s2w22</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-124-p5s2w23">
 <src.rf>manual</src.rf>
@@ -2877,8 +2877,8 @@
 <LM>w#w-ln94208-124-p5s2w46</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-124-p5s2w47">
 <src.rf>manual</src.rf>
@@ -2933,8 +2933,8 @@
 <LM>w#w-ln94208-124-p5s3w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-124-p5s3w5">
 <src.rf>manual</src.rf>

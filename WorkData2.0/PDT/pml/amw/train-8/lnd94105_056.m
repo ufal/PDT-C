@@ -464,7 +464,7 @@
 <LM>w#w-lnd94105-056-p1s3w1</LM>
 </w.rf>
 <form>Ázerbájdžánský</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s3w2">
@@ -1482,8 +1482,8 @@
 <LM>w#w-lnd94105-056-p1s8w5</LM>
 </w.rf>
 <form>pracujících</form>
-<lemma>pracující_^(*5ovat)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>pracující-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s8w6">
 <src.rf>manual</src.rf>
@@ -3298,8 +3298,8 @@
 <LM>w#w-lnd94105-056-p1s16w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94105-056-p1s16w2">
 <src.rf>manual</src.rf>

@@ -18,7 +18,8 @@
 <children>
 <LM id="a-ln94204-86-p1s1w3">
 <m.rf>m#m-ln94204-86-p1s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -41,12 +42,13 @@
 <LM id="a-ln94204-86-p1s1w4">
 <m.rf>m#m-ln94204-86-p1s1w4</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94204-86-p1s1w6">
 <m.rf>m#m-ln94204-86-p1s1w6</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -74,13 +76,13 @@
 <children>
 <LM id="a-ln94204-86-p2s1Aw1">
 <m.rf>m#m-ln94204-86-p2s1Aw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94204-86-p2s1Aw2">
 <m.rf>m#m-ln94204-86-p2s1Aw2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -141,14 +143,17 @@
 <m.rf>m#m-ln94204-86-p2s1Bw7</m.rf>
 <afun>Atr</afun>
 <is_member>1</is_member>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>7</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-ln94204-86-p2s1Bw8">
 <m.rf>m#m-ln94204-86-p2s1Bw8</m.rf>
 <afun>AuxG</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -474,7 +479,7 @@
 <children>
 <LM id="a-ln94204-86-p2s3w12">
 <m.rf>m#m-ln94204-86-p2s3w12</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -656,6 +661,16 @@
 <ord>22</ord>
 <clause_number>4</clause_number>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-ln94204-86-p2s4w25">
+<m.rf>m#m-ln94204-86-p2s4w25</m.rf>
+<afun>AuxC</afun>
+<ord>25</ord>
+<clause_number>4</clause_number>
+<children>
 <LM id="a-ln94204-86-p2s4w26">
 <m.rf>m#m-ln94204-86-p2s4w26</m.rf>
 <afun>AuxP</afun>
@@ -668,12 +683,6 @@
 <ord>27</ord>
 <clause_number>4</clause_number>
 <children>
-<LM id="a-ln94204-86-p2s4w25">
-<m.rf>m#m-ln94204-86-p2s4w25</m.rf>
-<afun>AuxY</afun>
-<ord>25</ord>
-<clause_number>4</clause_number>
-</LM>
 <LM id="a-ln94204-86-p2s4w30">
 <m.rf>m#m-ln94204-86-p2s4w30</m.rf>
 <afun>Atr</afun>
@@ -703,8 +712,6 @@
 <afun>Atr</afun>
 <ord>31</ord>
 <clause_number>4</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

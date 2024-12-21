@@ -440,7 +440,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-058-p2s3w25">
 <src.rf>manual</src.rf>
@@ -448,8 +448,8 @@
 <LM>w#w-mf930709-058-p2s3w25</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-1</lemma>
-<tag>Db-------------</tag>
+<lemma>třeba-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-058-p2s3w26">
 <src.rf>manual</src.rf>
@@ -613,8 +613,8 @@
 <LM>w#w-mf930709-058-p2s4w12</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-058-p2s4w13">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 </w.rf>
 <form>distribuuje</form>
 <lemma>distribuovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf930709-058-p2s4w24">
 <src.rf>manual</src.rf>
@@ -1105,8 +1105,8 @@
 <LM>w#w-mf930709-058-p2s7w7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-058-p2s7w8">
 <src.rf>manual</src.rf>
@@ -1187,7 +1187,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-058-p2s7w17">
 <src.rf>manual</src.rf>

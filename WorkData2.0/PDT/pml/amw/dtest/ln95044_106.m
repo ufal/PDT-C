@@ -1530,7 +1530,7 @@
 </w.rf>
 <form>angažuje</form>
 <lemma>angažovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95044-106-p3s5w15">
 <src.rf>manual</src.rf>

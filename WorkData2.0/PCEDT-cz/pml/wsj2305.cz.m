@@ -373,7 +373,7 @@
 </w.rf>
 <form>datovány</form>
 <lemma>datovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-wsj2305-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -637,7 +637,6 @@
 <w.rf>
 <LM>w#w-wsj2305-001-p1s3W8</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>13.00</form>
 <lemma>13.00</lemma>
 <tag>C=-------------</tag>

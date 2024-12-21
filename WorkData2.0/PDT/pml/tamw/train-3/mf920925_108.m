@@ -1540,8 +1540,8 @@
 <LM>w#w-mf920925-108-p6s1w37</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920925-108-p6s1w38">
 <src.rf>manual</src.rf>

@@ -741,8 +741,8 @@
 <LM>w#w-cmpr9407-019-p2s2w52</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-019-p2s2w53">
 <src.rf>manual</src.rf>

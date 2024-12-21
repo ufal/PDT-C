@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9415_029.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>adept na seznam  -zanorene seznamy v 1 hlavnim
 , ale derave a bez jasnych sloves</discourse_comment>
 <children>
@@ -78,7 +78,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-cmpr9415-029-p3s1w3">
 <a>
@@ -318,7 +318,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w8460f1</val_frame.rf>
+<val_frame.rf>v#v41pcdA</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-029-p5s1a2">
 <nodetype>qcomplex</nodetype>
@@ -355,7 +355,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w7593f1</val_frame.rf>
+<val_frame.rf>v#v41nkiA</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-029-p5s1a4">
 <nodetype>qcomplex</nodetype>
@@ -1192,7 +1192,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w7766f1</val_frame.rf>
+<val_frame.rf>v#v41nteB</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-029-p7s1w7">
 <a>
@@ -2734,7 +2734,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<val_frame.rf>v#v-w9169f2</val_frame.rf>
+<val_frame.rf>v#v41qmpC</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-029-p12s1w1">
 <a>
@@ -2782,7 +2782,7 @@
 <lex.rf>a#a-cmpr9415-029-p12s1w5</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Comma</t_lemma>
+<t_lemma>,</t_lemma>
 <functor>FPHR</functor>
 <deepord>6</deepord>
 </LM>
@@ -2800,7 +2800,7 @@
 <lex.rf>a#a-cmpr9415-029-p12s1w7</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Period</t_lemma>
+<t_lemma>.</t_lemma>
 <functor>FPHR</functor>
 <deepord>8</deepord>
 </LM>
@@ -2818,7 +2818,7 @@
 <lex.rf>a#a-cmpr9415-029-p12s1w9</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Period</t_lemma>
+<t_lemma>.</t_lemma>
 <functor>FPHR</functor>
 <deepord>10</deepord>
 </LM>
@@ -2982,7 +2982,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
-<val_frame.rf>v#v-w5835f1</val_frame.rf>
+<val_frame.rf>v#v41kcfB</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-029-p12s1w23">
 <a>
@@ -3627,7 +3627,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w9169f2</val_frame.rf>
+<val_frame.rf>v#v41qmpC</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-029-p14s3a0">
 <nodetype>qcomplex</nodetype>
@@ -4348,7 +4348,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w9107f1</val_frame.rf>
+<val_frame.rf>v#v41qjoB</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-029-p17s1w11">
 <a>
@@ -4734,7 +4734,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w9107f1</val_frame.rf>
+<val_frame.rf>v#v41qjoB</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-029-p18s1w26">
 <a>
@@ -4972,7 +4972,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<val_frame.rf>v#v-w9169f2</val_frame.rf>
+<val_frame.rf>v#v41qmpC</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-029-p19s1a1">
 <nodetype>list</nodetype>
@@ -5095,7 +5095,7 @@
 <lex.rf>a#a-cmpr9415-029-p19s1w9</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Period</t_lemma>
+<t_lemma>.</t_lemma>
 <functor>FPHR</functor>
 <deepord>10</deepord>
 </LM>
@@ -5114,7 +5114,7 @@
 <lex.rf>a#a-cmpr9415-029-p19s1w11</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Period</t_lemma>
+<t_lemma>.</t_lemma>
 <functor>FPHR</functor>
 <deepord>12</deepord>
 </LM>
@@ -5153,7 +5153,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w5835f1</val_frame.rf>
+<val_frame.rf>v#v41kcfB</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-029-p19s1w17">
 <a>
@@ -6268,7 +6268,7 @@
 <lex.rf>a#a-cmpr9415-029-p23s1w18</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Period</t_lemma>
+<t_lemma>.</t_lemma>
 <functor>FPHR</functor>
 <deepord>15</deepord>
 </LM>

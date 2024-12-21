@@ -1938,8 +1938,8 @@
 <LM>w#w-wsj1843-001-p1s8W22</LM>
 </w.rf>
 <form>relativně</form>
-<lemma>relativně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>relativně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1843-001-p1s8W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2342,7 +2342,7 @@
 </w.rf>
 <form>příliv</form>
 <lemma>příliv</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj1843-001-p1s10W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2368,8 +2368,8 @@
 <LM>w#w-wsj1843-001-p1s10W32</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1843-001-p1s10W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4004,8 +4004,8 @@
 <LM>w#w-wsj1843-001-p1s18W11</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1843-001-p1s18W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5097,7 +5097,7 @@
 </w.rf>
 <form>fondy</form>
 <lemma>fond</lemma>
-<tag>NNIP1-----A----</tag>
+<tag>NNIP7-----A----</tag>
 </m>
 <m id="m-wsj1843-001-p1s25W6-Ta">
 <src.rf>tagger-a</src.rf>

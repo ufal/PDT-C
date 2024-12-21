@@ -1167,7 +1167,7 @@
 <LM>w#w-wsj1250-001-p1s4W31</LM>
 </w.rf>
 <form>Hesensko</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj1250-001-p1s4W32-Ta">
@@ -2273,8 +2273,8 @@
 <LM>w#w-wsj1250-001-p1s8W6</LM>
 </w.rf>
 <form>podezřelí</form>
-<lemma>podezřelý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>podezřelý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj1250-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5724,8 +5724,8 @@
 <LM>w#w-wsj1250-001-p1s23W15</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-1_^(2_až_3)</lemma>
-<tag>J^-------------</tag>
+<lemma>až-3_^(až_k_...,_až_dost)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1250-001-p1s23W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6032,8 +6032,8 @@
 <LM>w#w-wsj1250-001-p1s24W22</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1250-001-p1s24W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7934,7 +7934,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj1250-001-p1s32W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8872,7 +8872,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1250-001-p1s36W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -226,8 +226,8 @@
 <LM>w#w-d1t1873-18</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1873-19">
 <w.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-d1t1883-8</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1883-9">
@@ -668,8 +668,8 @@
 <LM>w#w-d1t1890-13</LM>
 </w.rf>
 <form>zrovna</form>
-<lemma>zrovna-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zrovna-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1890-14">
 <w.rf>
@@ -759,7 +759,7 @@
 </w.rf>
 <form>Každé</form>
 <lemma>každý</lemma>
-<tag>AANS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m115-d1t1901-3">
 <w.rf>
@@ -783,7 +783,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m115-d1t1901-6">
 <w.rf>
@@ -1093,7 +1093,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m115-d1t1907-2">
 <w.rf>
@@ -1630,8 +1630,8 @@
 <LM>w#w-d1t1925-16</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1925-17">
 <w.rf>
@@ -2334,8 +2334,8 @@
 <LM>w#w-d1t1978-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1978-4">
 <w.rf>
@@ -2534,8 +2534,8 @@
 <LM>w#w-d1t1985-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1985-7">
 <w.rf>
@@ -2764,8 +2764,8 @@
 <LM>w#w-d1t1993-2</LM>
 </w.rf>
 <form>Prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1993-3">
 <w.rf>
@@ -3590,8 +3590,8 @@
 <LM>w#w-d1t2026-4</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m115-d1t2026-5">
 <w.rf>
@@ -3730,8 +3730,8 @@
 <LM>w#w-d1t2035-8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t2035-9">
 <w.rf>

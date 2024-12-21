@@ -19,7 +19,7 @@
 <LM>w#w-ln94211-31-p1s1w1</LM>
 </w.rf>
 <form>Výhružné</form>
-<lemma>výhružný</lemma>
+<lemma>výhružný_,s_^(^DD**výhrůžný)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-ln94211-31-p1s1w2">
@@ -177,7 +177,7 @@
 </w.rf>
 <form>minimalizovaly</form>
 <lemma>minimalizovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln94211-31-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -569,8 +569,8 @@
 <LM>w#w-ln94211-31-p3s2w1</LM>
 </w.rf>
 <form>Zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-31-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1478,7 +1478,7 @@
 </w.rf>
 <form>věnována</form>
 <lemma>věnovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-ln94211-31-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-31-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1740,8 +1740,8 @@
 <LM>w#w-ln94211-31-p4s4w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-31-p4s4w18">
 <src.rf>manual</src.rf>

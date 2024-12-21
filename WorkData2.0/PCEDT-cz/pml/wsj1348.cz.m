@@ -679,7 +679,7 @@
 </w.rf>
 <form>po</form>
 <lemma>po-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj1348-001-p1s1W41-Ta">
 <src.rf>tagger-a</src.rf>

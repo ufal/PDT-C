@@ -947,7 +947,7 @@
 <LM>w#w-wsj2248-001-p1s4W1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj2248-001-p1s4W2-Ta">
@@ -1139,7 +1139,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj2248-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>

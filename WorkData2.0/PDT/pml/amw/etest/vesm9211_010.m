@@ -210,8 +210,8 @@
 <LM>w#w-vesm9211-010-p2s1w18</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-010-p2s1w19">
 <src.rf>manual</src.rf>
@@ -392,8 +392,8 @@
 <LM>w#w-vesm9211-010-p2s2w12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9211-010-p2s2w13">
 <src.rf>manual</src.rf>
@@ -1520,7 +1520,7 @@
 <LM>w#w-vesm9211-010-p4s3w7</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-vesm9211-010-p4s3w8">
@@ -3285,7 +3285,7 @@
 <LM>w#w-vesm9211-010-p6s2w20</LM>
 </w.rf>
 <form>nahluchlé</form>
-<lemma>nahluchlý_^(*2nout)</lemma>
+<lemma>nahluchlý</lemma>
 <tag>AAMP4----1A----</tag>
 </m>
 <m id="m-vesm9211-010-p6s2w21">
@@ -3593,7 +3593,7 @@
 <LM>w#w-vesm9211-010-p7s1w12</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-vesm9211-010-p7s1w13">

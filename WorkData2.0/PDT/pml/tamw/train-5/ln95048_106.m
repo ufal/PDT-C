@@ -91,8 +91,8 @@
 <LM>w#w-ln95048-106-p1s1w9</LM>
 </w.rf>
 <form>věřících</form>
-<lemma>věřící_^(*3it)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>věřící-1</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln95048-106-p1s1w10">
 <src.rf>manual</src.rf>

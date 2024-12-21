@@ -938,8 +938,8 @@
 <LM>w#w-mf920924-049-p2s4w8</LM>
 </w.rf>
 <form>namísto</form>
-<lemma>namísto-3</lemma>
-<tag>J,-------------</tag>
+<lemma>namísto-2_^(záměnou_za)</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920924-049-p2s4w9">
 <src.rf>manual</src.rf>
@@ -3343,8 +3343,8 @@
 <LM>w#w-mf920924-049-p2s14w39</LM>
 </w.rf>
 <form>Zavřela</form>
-<lemma>zavřít</lemma>
-<tag>VpQW----R-AAP--</tag>
+<lemma>Zavřel_;Y</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-049-p2s14w40">
 <src.rf>manual</src.rf>

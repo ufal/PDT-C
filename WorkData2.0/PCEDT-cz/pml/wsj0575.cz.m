@@ -2118,7 +2118,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0575-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3825,7 +3825,7 @@
 </w.rf>
 <form>část</form>
 <lemma>část</lemma>
-<tag>NNFS4-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0575-001-p1s17W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4852,8 +4852,8 @@
 <LM>w#w-wsj0575-001-p1s22W13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0575-001-p1s22W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4906,8 +4906,8 @@
 <LM>w#w-wsj0575-001-p1s22W19</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj0575-001-p1s22W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5060,7 +5060,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0575-001-p1s22W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5632,7 +5632,7 @@
 <LM>w#w-wsj0575-001-p1s25W18</LM>
 </w.rf>
 <form>zjednodušeným</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AAIS7----1A----</tag>
 </m>
 <m id="m-wsj0575-001-p1s25W19-Ta">
@@ -5860,7 +5860,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0575-001-p1s26W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6186,7 +6186,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj0575-001-p1s27W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7023,8 +7023,8 @@
 <LM>w#w-wsj0575-001-p1s32W12</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0575-001-p1s32W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7114,7 +7114,7 @@
 </w.rf>
 <form>strojírenské</form>
 <lemma>strojírenský</lemma>
-<tag>AAFP1----1A----</tag>
+<tag>AAFP4----1A----</tag>
 </m>
 <m id="m-wsj0575-001-p1s32W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7132,7 +7132,7 @@
 </w.rf>
 <form>akademické</form>
 <lemma>akademický</lemma>
-<tag>AAFP1----1A----</tag>
+<tag>AAFP4----1A----</tag>
 </m>
 <m id="m-wsj0575-001-p1s32W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7141,7 +7141,7 @@
 </w.rf>
 <form>obce</form>
 <lemma>obec</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFP4-----A----</tag>
 </m>
 <m id="m-wsj0575-001-p1s32W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7634,8 +7634,8 @@
 <LM>w#w-wsj0575-001-p1s36W14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0575-001-p1s36W15-Ta">
 <src.rf>tagger-a</src.rf>

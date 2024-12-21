@@ -60,8 +60,8 @@
 <LM>w#w-d1t866-6</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m064-d1t866-8">
 <w.rf>
@@ -350,8 +350,8 @@
 <LM>w#w-d1t883-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m064-d-id82245-punct">
 <w.rf>
@@ -606,8 +606,8 @@
 <LM>w#w-d1t907-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m064-d-m-d1e904-x2-punct-punct">
 <w.rf>
@@ -656,8 +656,8 @@
 <LM>w#w-d1t915-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m064-d1t915-6">
 <w.rf>
@@ -1136,8 +1136,8 @@
 <LM>w#w-d1t961-4</LM>
 </w.rf>
 <form>určitě</form>
-<lemma>určitě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>určitě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m064-d1e958-x2-183">
 <w.rf>
@@ -1170,8 +1170,8 @@
 <LM>w#w-d1t965-3</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m064-d1t965-4">
 <w.rf>
@@ -1468,8 +1468,8 @@
 <LM>w#w-d1t985-7</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m064-d1t985-9">
 <w.rf>
@@ -2524,8 +2524,8 @@
 <LM>w#w-d1t1070-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m064-d-m-d1e1065-x2-punct-punct">
 <w.rf>
@@ -2584,8 +2584,8 @@
 <LM>w#w-d1t1080-7</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m064-d1t1080-6">
 <w.rf>
@@ -2660,8 +2660,8 @@
 <LM>w#w-d1t1097-2</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m064-d-id88854-punct">
 <w.rf>

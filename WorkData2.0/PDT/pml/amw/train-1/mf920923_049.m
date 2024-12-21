@@ -91,8 +91,8 @@
 <LM>w#w-mf920923-049-p1s1w9</LM>
 </w.rf>
 <form>Pro</form>
-<lemma>pro-7_^(předpona,_sam.)</lemma>
-<tag>S2--------A----</tag>
+<lemma>Pro-77</lemma>
+<tag>F%-------------</tag>
 </m>
 <m id="m-mf920923-049-p1s1w10">
 <src.rf>manual</src.rf>
@@ -612,8 +612,8 @@
 <LM>w#w-mf920923-049-p4s2w10</LM>
 </w.rf>
 <form>Pro</form>
-<lemma>pro-7_^(předpona,_sam.)</lemma>
-<tag>S2--------A----</tag>
+<lemma>Pro-77</lemma>
+<tag>F%-------------</tag>
 </m>
 <m id="m-mf920923-049-p4s2w11">
 <src.rf>manual</src.rf>

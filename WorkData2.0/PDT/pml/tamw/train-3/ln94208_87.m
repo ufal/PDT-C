@@ -358,8 +358,8 @@
 <LM>w#w-ln94208-87-p3s1w6</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94208-87-p3s1w7">
 <src.rf>manual</src.rf>
@@ -877,8 +877,8 @@
 <LM>w#w-ln94208-87-p4s1w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-87-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1313,8 +1313,8 @@
 <LM>w#w-ln94208-87-p5s1w10</LM>
 </w.rf>
 <form>Uprostřed</form>
-<lemma>uprostřed-1</lemma>
-<tag>Db-------------</tag>
+<lemma>uprostřed-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94208-87-p5s1w11">
 <src.rf>manual</src.rf>

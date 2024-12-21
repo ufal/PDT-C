@@ -278,7 +278,7 @@
 </w.rf>
 <form>kontaktuje</form>
 <lemma>kontaktovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj2240-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1166,7 +1166,7 @@
 </w.rf>
 <form>kontaktoval</form>
 <lemma>kontaktovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj2240-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>

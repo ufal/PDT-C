@@ -773,8 +773,8 @@
 <LM>w#w-cmpr9406-038-p8s1w1</LM>
 </w.rf>
 <form>Začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-038-p8s1w2">
 <src.rf>manual</src.rf>
@@ -2175,8 +2175,8 @@
 <LM>w#w-cmpr9406-038-p10s4w29</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-038-p10s4w30">
 <src.rf>manual</src.rf>
@@ -4423,7 +4423,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-038-p13s2w14">
 <src.rf>manual</src.rf>
@@ -4644,8 +4644,8 @@
 <LM>w#w-cmpr9406-038-p14s3w1</LM>
 </w.rf>
 <form>Stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-038-p14s3w2">
 <src.rf>manual</src.rf>
@@ -4653,8 +4653,8 @@
 <LM>w#w-cmpr9406-038-p14s3w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-038-p14s3w3">
 <src.rf>manual</src.rf>
@@ -8563,7 +8563,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-038-p22s1w5">
 <src.rf>manual</src.rf>
@@ -9551,8 +9551,8 @@
 <LM>w#w-cmpr9406-038-p22s5w2</LM>
 </w.rf>
 <form>prodávající</form>
-<lemma>prodávající_^(*4t)</lemma>
-<tag>AGMS1-----A----</tag>
+<lemma>prodávající-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-038-p22s5w3">
 <src.rf>manual</src.rf>
@@ -9578,8 +9578,8 @@
 <LM>w#w-cmpr9406-038-p22s5w5</LM>
 </w.rf>
 <form>kupující</form>
-<lemma>kupující_^(*5ovat)</lemma>
-<tag>AGMS1-----A----</tag>
+<lemma>kupující-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-038-p22s5w6">
 <src.rf>manual</src.rf>
@@ -11489,8 +11489,8 @@
 <LM>w#w-cmpr9406-038-p24s12w16</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9406-038-p24s12w17">
 <src.rf>manual</src.rf>

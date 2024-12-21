@@ -96,7 +96,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-ln94208-34-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -675,8 +675,8 @@
 <LM>w#w-ln94208-34-p2s3w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-34-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1541,7 +1541,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-34-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94208-34-p2s8w15">
 <src.rf>manual</src.rf>

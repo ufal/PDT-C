@@ -920,8 +920,8 @@
 <LM>w#w-ln95045-009-p3s2w7</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95045-009-p3s2w8">
 <src.rf>manual</src.rf>

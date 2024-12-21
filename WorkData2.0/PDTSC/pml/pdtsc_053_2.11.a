@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_053_2.11.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="ep_121.11-SCzechA-ep_121-d1e2225-x3-root">
 <s.rf>m#m121-d1e2225-x3</s.rf>
@@ -15,19 +18,20 @@
 <LM id="ep_121.11-SCzechA-m-d1t2232-1">
 <m.rf>m#m121-d1t2232-1</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <children>
 <LM id="ep_121.11-SCzechA-m-d1t2232-2">
 <m.rf>m#m121-d1t2232-2</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="ep_121.11-SCzechA-m-d-m-d1e2225-x3-punct-punct">
 <m.rf>m#m121-d-m-d1e2225-x3-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

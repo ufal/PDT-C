@@ -386,7 +386,7 @@
 </w.rf>
 <form>listopadu</form>
 <lemma>listopad</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS3-----A----</tag>
 </m>
 <m id="m-wsj0246-001-p1s0W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -887,7 +887,7 @@
 </w.rf>
 <form>září</form>
 <lemma>září</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS3-----A----</tag>
 </m>
 <m id="m-wsj0246-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

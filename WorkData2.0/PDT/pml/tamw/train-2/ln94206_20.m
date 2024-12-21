@@ -250,8 +250,8 @@
 <LM>w#w-ln94206-20-p2s2w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-20-p2s2w2">
 <src.rf>manual</src.rf>

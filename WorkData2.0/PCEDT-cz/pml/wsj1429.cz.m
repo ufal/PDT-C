@@ -333,8 +333,8 @@
 <LM>w#w-wsj1429-001-p1s1W3</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1429-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -360,8 +360,8 @@
 <LM>w#w-wsj1429-001-p1s1W6</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1429-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1429,9 +1429,10 @@
 <w.rf>
 <LM>w#w-wsj1429-001-p1s5W2</LM>
 </w.rf>
-<form>něž</form>
-<lemma>jenž_^(který_[ve_vedl.větě])</lemma>
-<tag>P4XP4---------1</tag>
+<form_change>spell</form_change>
+<form>než</form>
+<lemma>než-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj1429-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2513,8 +2514,8 @@
 <LM>w#w-wsj1429-001-p1s10W4</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1429-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4221,8 +4222,8 @@
 <LM>w#w-wsj1429-001-p1s18W27</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1429-001-p1s18W28-Ta">
 <src.rf>tagger-a</src.rf>

@@ -183,8 +183,8 @@
 <LM>w#w-ln94200-85-p2s1w10</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-85-p2s1w11">
 <src.rf>manual</src.rf>
@@ -340,8 +340,8 @@
 <LM>w#w-ln94200-85-p3s1w3</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-85-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1185,8 +1185,8 @@
 <LM>w#w-ln94200-85-p3s4w27</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-85-p3s4w28">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln94200-85-p3s5w3">
 <src.rf>manual</src.rf>

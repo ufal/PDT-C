@@ -741,7 +741,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-023-p3s2w12">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-mf930709-023-p3s2w22">
 <src.rf>manual</src.rf>

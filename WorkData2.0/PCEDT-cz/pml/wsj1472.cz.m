@@ -523,7 +523,7 @@
 </w.rf>
 <form>tento</form>
 <lemma>tento</lemma>
-<tag>PDIS4----------</tag>
+<tag>PDYS1----------</tag>
 </m>
 <m id="m-wsj1472-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -532,7 +532,7 @@
 </w.rf>
 <form>krok</form>
 <lemma>krok</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj1472-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -632,8 +632,8 @@
 <LM>w#w-wsj1472-001-p1s2W2</LM>
 </w.rf>
 <form>zrovna</form>
-<lemma>zrovna-2</lemma>
-<tag>TT-------------</tag>
+<lemma>zrovna-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1472-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1088,7 +1088,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1472-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>

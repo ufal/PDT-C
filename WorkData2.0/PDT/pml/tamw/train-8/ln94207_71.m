@@ -775,7 +775,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-71-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1448,8 +1448,8 @@
 <LM>w#w-ln94207-71-p3s6w10</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-71-p3s6w11">
 <src.rf>manual</src.rf>

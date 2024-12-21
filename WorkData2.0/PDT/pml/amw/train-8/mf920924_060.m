@@ -2088,7 +2088,7 @@
 <LM>w#w-mf920924-060-p2s12w6</LM>
 </w.rf>
 <form>Samaru</form>
-<lemma>Samara_;G_;Y_;m_^(vozidlo;;město;jméno)</lemma>
+<lemma>Samara_;G_;Y_;m</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s12w7">
@@ -2299,8 +2299,8 @@
 <LM>w#w-mf920924-060-p2s14w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-060-p2s14w2">
 <src.rf>manual</src.rf>

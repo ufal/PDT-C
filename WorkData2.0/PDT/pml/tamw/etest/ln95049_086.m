@@ -20,7 +20,7 @@
 </w.rf>
 <form>Žádný</form>
 <lemma>žádný</lemma>
-<tag>PWIS4----------</tag>
+<tag>PWYS1----------</tag>
 </m>
 <m id="m-ln95049-086-p1s1w2">
 <src.rf>manual</src.rf>
@@ -29,7 +29,7 @@
 </w.rf>
 <form>strach</form>
 <lemma>strach</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-086-p1s1w3">
 <src.rf>manual</src.rf>
@@ -148,8 +148,8 @@
 <LM>w#w-ln95049-086-p2s1w11</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-086-p2s1w12">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln95049-086-p2s2w2">
 <src.rf>manual</src.rf>
@@ -809,8 +809,8 @@
 <LM>w#w-ln95049-086-p2s3w40</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-086-p2s3w41">
 <src.rf>manual</src.rf>
@@ -1110,8 +1110,8 @@
 <LM>w#w-ln95049-086-p2s5w2</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-086-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1119,8 +1119,8 @@
 <LM>w#w-ln95049-086-p2s5w3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-086-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1155,8 +1155,8 @@
 <LM>w#w-ln95049-086-p2s5w7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-086-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1959,8 +1959,8 @@
 <LM>w#w-ln95049-086-p3s6w5</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-086-p3s6w6">
 <src.rf>manual</src.rf>

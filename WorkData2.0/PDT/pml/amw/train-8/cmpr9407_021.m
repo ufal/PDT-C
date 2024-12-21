@@ -1628,7 +1628,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-021-p7s2w7">
 <src.rf>manual</src.rf>
@@ -3366,7 +3366,7 @@
 </w.rf>
 <form>limitován</form>
 <lemma>limitovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-cmpr9407-021-p11s5w5">
 <src.rf>manual</src.rf>

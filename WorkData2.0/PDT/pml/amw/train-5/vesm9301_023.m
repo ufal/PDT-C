@@ -539,7 +539,7 @@
 </w.rf>
 <form>chorobné</form>
 <lemma>chorobný</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>AAFP1----1A----</tag>
 </m>
 <m id="m-vesm9301-023-p2s3w14">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 </w.rf>
 <form>závislosti</form>
 <lemma>závislost_^(*3ý)</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9301-023-p2s3w15">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 </w.rf>
 <form>pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-vesm9301-023-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1283,8 +1283,8 @@
 <LM>w#w-vesm9301-023-p3s3w30</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-vesm9301-023-p3s3w31">
 <src.rf>manual</src.rf>

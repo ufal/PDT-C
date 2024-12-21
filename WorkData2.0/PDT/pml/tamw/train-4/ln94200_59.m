@@ -451,7 +451,7 @@
 </w.rf>
 <form>Reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94200-59-p2s3w2">
 <src.rf>manual</src.rf>

@@ -485,7 +485,7 @@
 </w.rf>
 <form>Vdala</form>
 <lemma>vdát</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m138-d1t3283-13">
 <w.rf>
@@ -950,8 +950,8 @@
 <LM>w#w-d1t3324-1</LM>
 </w.rf>
 <form>Akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m138-d1t3324-4">
 <w.rf>
@@ -1342,7 +1342,7 @@
 <LM>w#w-d1t3362-1</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m138-d-id141051-punct">
@@ -1706,8 +1706,8 @@
 <LM>w#w-d1t3448-3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m138-d1t3448-4">
 <w.rf>
@@ -2346,8 +2346,8 @@
 <LM>w#w-d1t3534-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m138-d1t3534-4">
 <w.rf>
@@ -2605,7 +2605,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m138-d1t3575-2">
 <w.rf>
@@ -2654,8 +2654,8 @@
 <LM>w#w-396-397</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m138-d1t3580-3">
 <w.rf>

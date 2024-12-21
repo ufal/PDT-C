@@ -678,7 +678,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-113-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1086,8 +1086,8 @@
 <LM>w#w-mf920901-113-p3s3w11</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-113-p3s3w12">
 <src.rf>manual</src.rf>
@@ -2033,7 +2033,7 @@
 </w.rf>
 <form>Wismaru</form>
 <lemma>Wismar_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-mf920901-113-p5s1w14">
 <src.rf>manual</src.rf>

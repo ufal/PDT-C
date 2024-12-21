@@ -38,8 +38,8 @@
 <LM>w#w-d1e1747-x2-254</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m017-d1e1747-x2-256">
 <w.rf>
@@ -652,8 +652,8 @@
 <LM>w#w-d1t1779-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m017-d1t1781-1">
 <w.rf>
@@ -748,8 +748,8 @@
 <LM>w#w-d1t1783-5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m017-d1t1783-6">
 <w.rf>
@@ -1060,8 +1060,8 @@
 <LM>w#w-d1t1814-6</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m017-d1t1814-7">
 <w.rf>
@@ -1084,7 +1084,7 @@
 <LM>w#w-d1t1814-9</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m017-d1t1816-1">
@@ -1101,7 +1101,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m017-d1t1818-3">
 <w.rf>
@@ -1158,8 +1158,8 @@
 <LM>w#w-d1t1826-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m017-d1t1826-6">
 <w.rf>
@@ -1714,7 +1714,7 @@
 <LM>w#w-d1t1882-1</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m017-d1t1882-2">
@@ -2390,7 +2390,7 @@
 <LM>w#w-d1t1981-10</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m017-536-538">
@@ -2407,7 +2407,7 @@
 </w.rf>
 <form>roztrhané</form>
 <lemma>roztrhaný_^(*2t)</lemma>
-<tag>AAFP4----1A----</tag>
+<tag>AAFP1----1A----</tag>
 </m>
 <m id="m017-d1t1981-13">
 <w.rf>
@@ -2415,7 +2415,7 @@
 </w.rf>
 <form>rifle</form>
 <lemma>rifle</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m017-d1e1967-x2-40">
 <w.rf>
@@ -2630,8 +2630,8 @@
 <LM>w#w-d1t2012-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m017-d1t2012-6">
 <w.rf>
@@ -2697,7 +2697,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m017-d1t2018-6">
 <w.rf>

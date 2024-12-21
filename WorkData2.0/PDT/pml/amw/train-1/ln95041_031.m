@@ -1074,7 +1074,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-031-p3s5w10">
 <src.rf>manual</src.rf>
@@ -2132,7 +2132,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-031-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2368,7 +2368,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-031-p4s8w14">
 <src.rf>manual</src.rf>

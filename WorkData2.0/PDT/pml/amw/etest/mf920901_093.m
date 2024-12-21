@@ -1824,8 +1824,8 @@
 <LM>w#w-mf920901-093-p54s1w1</LM>
 </w.rf>
 <form>OK</form>
-<lemma>oko-1</lemma>
-<tag>NNNP2-----A----</tag>
+<lemma>OK-88</lemma>
+<tag>BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-093-p54s1w2">
 <src.rf>manual</src.rf>

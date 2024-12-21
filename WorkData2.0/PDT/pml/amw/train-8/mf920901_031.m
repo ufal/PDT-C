@@ -347,8 +347,8 @@
 <LM>w#w-mf920901-031-p2s1w20</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920901-031-p2s1w21">
 <src.rf>manual</src.rf>
@@ -848,8 +848,8 @@
 <LM>w#w-mf920901-031-p3s2w11</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-031-p3s2w12">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 </w.rf>
 <form>Grijse</form>
 <lemma>Grijse_;Y</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMXX-----A----</tag>
 </m>
 <m id="m-mf920901-031-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <LM>w#w-mf920901-031-p4s2w1</LM>
 </w.rf>
 <form>Nedozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf920901-031-p4s2w2">
@@ -1921,7 +1921,7 @@
 <LM>w#w-mf920901-031-p5s1Aw24</LM>
 </w.rf>
 <form>mikrofonu</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-mf920901-031-p5s1Aw25">
@@ -2358,7 +2358,7 @@
 <LM>w#w-mf920901-031-p5s1Bw13</LM>
 </w.rf>
 <form>neblufuji</form>
-<lemma>blufovat</lemma>
+<lemma>blufovat_,s_^(^DD**blafovat)</lemma>
 <tag>VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-mf920901-031-p5s1Bw14">
@@ -2524,7 +2524,7 @@
 <LM>w#w-mf920901-031-p5s3w6</LM>
 </w.rf>
 <form>dozvím</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-S---1P-AAP--</tag>
 </m>
 <m id="m-mf920901-031-p5s3w7">
@@ -3191,8 +3191,8 @@
 <LM>w#w-mf920901-031-p6s3w3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920901-031-p6s3w4">
 <src.rf>manual</src.rf>
@@ -5252,7 +5252,7 @@
 <LM>w#w-mf920901-031-p8s3w7</LM>
 </w.rf>
 <form>dozvědí</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf920901-031-p8s3w8">

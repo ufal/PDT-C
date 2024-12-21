@@ -1811,7 +1811,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0726-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2029,7 +2029,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0726-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>

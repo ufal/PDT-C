@@ -62,8 +62,8 @@
 <LM>w#w-d1t606-7</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m140-d1t606-10">
 <w.rf>
@@ -268,8 +268,8 @@
 <LM>w#w-d1t617-3</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m140-d1t617-4">
 <w.rf>
@@ -492,8 +492,8 @@
 <LM>w#w-d1t631-1</LM>
 </w.rf>
 <form>To</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m140-d1t631-2">
 <w.rf>
@@ -840,8 +840,8 @@
 <LM>w#w-d1t650-11</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m140-d1t650-10">
 <w.rf>
@@ -1420,8 +1420,8 @@
 <LM>w#w-d1t680-19</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m140-d1t680-20">
 <w.rf>
@@ -2428,8 +2428,8 @@
 <LM>w#w-d1t728-4</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m140-d1t728-5">
 <w.rf>
@@ -2455,7 +2455,7 @@
 </w.rf>
 <form>Specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m140-d1t730-2">
 <w.rf>
@@ -2988,7 +2988,7 @@
 <LM>w#w-d1t751-8</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m140-d1t751-9">

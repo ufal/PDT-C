@@ -315,7 +315,7 @@
 </w.rf>
 <form>společnost</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS4-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1197-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -699,8 +699,8 @@
 <LM>w#w-wsj1197-001-p1s2W16</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1197-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -946,8 +946,8 @@
 <LM>w#w-wsj1197-001-p1s3W22</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1197-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>

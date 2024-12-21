@@ -255,8 +255,8 @@
 <LM>w#w-mf920925-034-p1s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920925-034-p1s2w2">
 <src.rf>manual</src.rf>
@@ -300,8 +300,8 @@
 <LM>w#w-mf920925-034-p1s2w6</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-034-p1s2w7">
 <src.rf>manual</src.rf>
@@ -518,8 +518,8 @@
 <LM>w#w-mf920925-034-p1s3w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-034-p1s3w5">
 <src.rf>manual</src.rf>

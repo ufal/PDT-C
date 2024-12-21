@@ -889,7 +889,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFP4----1A----</tag>
+<tag>PLFP4----------</tag>
 </m>
 <m id="m-wsj0496-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>

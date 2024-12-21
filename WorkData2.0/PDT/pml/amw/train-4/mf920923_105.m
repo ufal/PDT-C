@@ -911,7 +911,7 @@
 </w.rf>
 <form>zříci</form>
 <lemma>zříci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920923-105-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1101,7 +1101,7 @@
 <LM>w#w-mf920923-105-p3s3w19</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf920923-105-p3s3w20">

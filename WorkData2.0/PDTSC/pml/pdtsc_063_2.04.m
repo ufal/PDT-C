@@ -602,8 +602,8 @@
 <LM>w#w-d1t1376-5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m053-d1t1376-3">
 <w.rf>
@@ -914,8 +914,8 @@
 <LM>w#w-d1t1403-10</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m053-d1t1405-1">
 <w.rf>
@@ -930,7 +930,7 @@
 <LM>w#w-d1t1405-2</LM>
 </w.rf>
 <form>oddychla</form>
-<lemma>oddychnout</lemma>
+<lemma>oddychnout_,s_^(^DD**oddechnout)</lemma>
 <tag>VpQW----R-AAP-1</tag>
 </m>
 <m id="m053-d1t1405-3">
@@ -1512,8 +1512,8 @@
 <LM>w#w-d1t1443-3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m053-d1t1443-4">
 <w.rf>
@@ -2597,7 +2597,7 @@
 </w.rf>
 <form>ve</form>
 <lemma>v-1</lemma>
-<tag>RV--6----------</tag>
+<tag>RV--4----------</tag>
 </m>
 <m id="m053-d1t1524-19">
 <w.rf>
@@ -2605,7 +2605,7 @@
 </w.rf>
 <form>čtyři</form>
 <lemma>čtyři`4</lemma>
-<tag>Cl-P1----------</tag>
+<tag>Cl-P4----------</tag>
 </m>
 <m id="m053-d-id104303-punct">
 <w.rf>
@@ -2628,8 +2628,8 @@
 <LM>w#w-d1t1524-22</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m053-d1t1524-23">
 <w.rf>
@@ -3076,8 +3076,8 @@
 <LM>w#w-d1t1576-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m053-d1t1576-4">
 <w.rf>
@@ -3398,8 +3398,8 @@
 <LM>w#w-d1t1600-1</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m053-d1t1600-2">
 <w.rf>
@@ -3618,8 +3618,8 @@
 <LM>w#w-d1t1627-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m053-d1t1629-3">
 <w.rf>

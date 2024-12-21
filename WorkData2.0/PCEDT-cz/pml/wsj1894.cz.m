@@ -515,8 +515,8 @@
 <LM>w#w-wsj1894-001-p1s1W17</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1894-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1980,8 +1980,8 @@
 <LM>w#w-wsj1894-001-p1s7W10</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1894-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>

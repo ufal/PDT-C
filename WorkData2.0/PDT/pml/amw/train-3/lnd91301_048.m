@@ -559,8 +559,8 @@
 <LM>w#w-lnd91301-048-p3s3w3</LM>
 </w.rf>
 <form>odsouzení</form>
-<lemma>odsouzený_^(*4dit)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>odsouzený-2_^(osoba)</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91301-048-p3s3w4">
 <src.rf>manual</src.rf>

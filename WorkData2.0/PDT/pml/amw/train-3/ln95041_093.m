@@ -950,7 +950,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-093-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1870,7 +1870,7 @@
 <LM>w#w-ln95041-093-p6s1w5</LM>
 </w.rf>
 <form>dozvěděla</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-093-p6s1w6">

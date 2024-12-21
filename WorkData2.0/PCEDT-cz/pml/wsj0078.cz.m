@@ -462,8 +462,8 @@
 <LM>w#w-wsj0078-001-p1s1W5</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0078-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -150,8 +150,8 @@
 <LM>w#w-jh_11-SCzechM-p1076-s1-w14</LM>
 </w.rf>
 <form>je</form>
-<lemma>on-1</lemma>
-<tag>PEXP4--3-------</tag>
+<lemma>být</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="jh_11-SCzechM-p1076-s1-w15">
 <w.rf>
@@ -922,8 +922,8 @@
 <LM>w#w-jh_11-SCzechM-p1100-s1-w10</LM>
 </w.rf>
 <form>určitě</form>
-<lemma>určitě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>určitě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_11-SCzechM-p1100-s1-w11">
 <w.rf>
@@ -3016,8 +3016,8 @@
 <LM>w#w-jh_11-SCzechM-p1170-s1-w1</LM>
 </w.rf>
 <form>Co</form>
-<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
-<tag>J,-------------</tag>
+<lemma>co-4_^(který:_o_těch,_co_odešli)</lemma>
+<tag>P4XXX----------</tag>
 </m>
 <m id="jh_11-SCzechM-p1170-s1-w2">
 <w.rf>
@@ -3233,7 +3233,7 @@
 </w.rf>
 <form>zachovány</form>
 <lemma>zachovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APP--</tag>
 </m>
 <m id="jh_11-SCzechM-p1170-s1-w29">
 <w.rf>
@@ -3265,7 +3265,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_11-SCzechM-p1170-s1-w33">
 <w.rf>
@@ -3826,8 +3826,8 @@
 <LM>w#w-jh_11-SCzechM-p1186-s1-w4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_11-SCzechM-p1186-s1-w5">
 <w.rf>

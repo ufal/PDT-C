@@ -674,7 +674,7 @@
 </w.rf>
 <form>organizace</form>
 <lemma>organizace</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-041-p4s3w20">
 <src.rf>manual</src.rf>
@@ -1233,7 +1233,7 @@
 </w.rf>
 <form>vyjmenujte</form>
 <lemma>vyjmenovat</lemma>
-<tag>Vi-P---2--A-B--</tag>
+<tag>Vi-P---2--A-P--</tag>
 </m>
 <m id="m-cmpr9417-041-p6s2w11">
 <src.rf>manual</src.rf>

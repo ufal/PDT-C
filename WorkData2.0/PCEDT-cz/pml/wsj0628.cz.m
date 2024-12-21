@@ -1971,7 +1971,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0628-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2008,8 +2008,8 @@
 <LM>w#w-wsj0628-001-p1s9W1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0628-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3154,7 +3154,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0628-001-p1s14W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5195,8 +5195,8 @@
 <LM>w#w-wsj0628-001-p1s21W58</LM>
 </w.rf>
 <form>vzrůst</form>
-<lemma>vzrůst-1</lemma>
-<tag>Vf--------A-P--</tag>
+<lemma>vzrůst-2</lemma>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0628-001-p1s21W59-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5569,8 +5569,8 @@
 <LM>w#w-wsj0628-001-p1s22W40</LM>
 </w.rf>
 <form>vzrůst</form>
-<lemma>vzrůst-1</lemma>
-<tag>Vf--------A-P--</tag>
+<lemma>vzrůst-2</lemma>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0628-001-p1s22W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6033,8 +6033,8 @@
 <LM>w#w-wsj0628-001-p1s24W23</LM>
 </w.rf>
 <form>vzrůst</form>
-<lemma>vzrůst-1</lemma>
-<tag>Vf--------A-P--</tag>
+<lemma>vzrůst-2</lemma>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0628-001-p1s24W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6482,8 +6482,8 @@
 <LM>w#w-wsj0628-001-p1s27W11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0628-001-p1s27W12-Ta">
 <src.rf>tagger-a</src.rf>

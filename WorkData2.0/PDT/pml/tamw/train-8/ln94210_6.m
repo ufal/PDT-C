@@ -702,8 +702,8 @@
 <LM>w#w-ln94210-6-p4s1w15</LM>
 </w.rf>
 <form>soutěžící</form>
-<lemma>soutěžící_^(*3it)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>soutěžící-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94210-6-p4s1w16">
 <src.rf>manual</src.rf>
@@ -767,8 +767,8 @@
 <LM>w#w-ln94210-6-p4s2w6</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-6-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1203,8 +1203,8 @@
 <LM>w#w-ln94210-6-p5s2w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-6-p5s2w22">
 <src.rf>manual</src.rf>

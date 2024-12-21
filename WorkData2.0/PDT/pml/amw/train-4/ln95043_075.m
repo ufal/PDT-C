@@ -140,7 +140,7 @@
 <LM>w#w-ln95043-075-p2s1Bw7</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-ln95043-075-p2s1Bw8">
@@ -467,7 +467,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-075-p2s2w17">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-075-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-ln95043-075-p2s7w7</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-ln95043-075-p2s7w8">
@@ -1379,7 +1379,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-075-p2s8w5">
 <src.rf>manual</src.rf>

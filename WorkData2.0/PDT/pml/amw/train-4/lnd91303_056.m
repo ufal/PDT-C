@@ -1095,8 +1095,8 @@
 <LM>w#w-lnd91303-056-p3s3w18</LM>
 </w.rf>
 <form>patře</form>
-<lemma>patřit</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>patro</lemma>
+<tag>NNNS6-----A---1</tag>
 </m>
 <m id="m-lnd91303-056-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1915,7 +1915,7 @@
 <LM>w#w-lnd91303-056-p3s7w7</LM>
 </w.rf>
 <form>mytizovaný</form>
-<lemma>mytizovaný_^(*2t)</lemma>
+<lemma>mytizovaný_^(^DD**mýtizovaný)_(*2t)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-lnd91303-056-p3s7w8">

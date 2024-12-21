@@ -621,8 +621,8 @@
 <LM>w#w-ln94200-37-p2s4w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-37-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1628,8 +1628,8 @@
 <LM>w#w-ln94200-37-p3s4w2</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-37-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1865,7 +1865,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-37-p3s5w4">
 <src.rf>manual</src.rf>
@@ -2444,8 +2444,8 @@
 <LM>w#w-ln94200-37-p3s7w23</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94200-37-p3s7w24">
 <src.rf>manual</src.rf>

@@ -1100,8 +1100,8 @@
 <LM>w#w-lnd91301-055-p4s1w17</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91301-055-p4s1w18">
 <src.rf>manual</src.rf>
@@ -4928,8 +4928,8 @@
 <LM>w#w-lnd91301-055-p8s1w37</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-1</lemma>
-<tag>J^-------------</tag>
+<lemma>a-3</lemma>
+<tag>SNNP4-----A----</tag>
 </m>
 <m id="m-lnd91301-055-p8s1w38">
 <src.rf>manual</src.rf>

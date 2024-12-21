@@ -1404,8 +1404,8 @@
 <LM>w#w-wsj0981-001-p1s4W11</LM>
 </w.rf>
 <form>vlastní</form>
-<lemma>vlastní</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0981-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3319,8 +3319,8 @@
 <LM>w#w-wsj0981-001-p1s10W5</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0981-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -105,8 +105,8 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>play</form>
-<lemma>play-77</lemma>
-<tag>F%-------------</tag>
+<lemma>play-1</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s3w7">
 <src.rf>manual</src.rf>
@@ -114,8 +114,8 @@
 <LM>w#w-lnd94101-082-p1s3w7</LM>
 </w.rf>
 <form>off</form>
-<lemma>off-77</lemma>
-<tag>F%-------------</tag>
+<lemma>off-1</lemma>
+<tag>SNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s3w8">
 <src.rf>manual</src.rf>

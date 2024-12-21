@@ -1214,8 +1214,8 @@
 <LM>w#w-mf920922-043-p7s2w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-043-p7s2w2">
 <src.rf>manual</src.rf>

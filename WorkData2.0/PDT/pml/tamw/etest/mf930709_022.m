@@ -295,8 +295,8 @@
 <LM>w#w-mf930709-022-p2s2w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-022-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-mf930709-022-p4s2w10">
 <src.rf>manual</src.rf>

@@ -685,7 +685,7 @@
 </w.rf>
 <form>obligace</form>
 <lemma>obligace</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-23-p2s9w17">
 <src.rf>manual</src.rf>

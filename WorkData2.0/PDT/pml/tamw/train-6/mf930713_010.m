@@ -397,8 +397,8 @@
 <LM>w#w-mf930713-010-p2s3w5</LM>
 </w.rf>
 <form>účinkujícími</form>
-<lemma>účinkující_^(*5ovat)</lemma>
-<tag>AGMP7-----A----</tag>
+<lemma>účinkující-2</lemma>
+<tag>NNMP7-----A----</tag>
 </m>
 <m id="m-mf930713-010-p2s3w6">
 <src.rf>manual</src.rf>

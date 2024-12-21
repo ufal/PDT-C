@@ -56,7 +56,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-107-p1s1w6">
 <src.rf>manual</src.rf>
@@ -1881,8 +1881,8 @@
 <LM>w#w-ln94209-107-p8s1w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-107-p8s1w7">
 <src.rf>manual</src.rf>
@@ -2144,8 +2144,8 @@
 <LM>w#w-ln94209-107-p9s1w25</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-107-p9s1w26">
 <src.rf>manual</src.rf>

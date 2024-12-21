@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_59.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -53,7 +53,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94205-59-p1s1w8">
 <a>
@@ -272,7 +272,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w3541f7</val_frame.rf>
+<val_frame.rf>v#v41fqjF</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p2s1a0">
 <nodetype>qcomplex</nodetype>
@@ -512,13 +512,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-59-p2s1w16</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w857f1</val_frame.rf>
+<val_frame.rf>v#v41amfA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p2s1a1">
 <nodetype>complex</nodetype>
@@ -595,7 +596,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
-<val_frame.rf>v#v-w6999f1</val_frame.rf>
+<val_frame.rf>v#v41mgwD</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p2s1w22">
 <a>
@@ -604,6 +605,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tak</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>tak</proto_lemma>
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
@@ -713,13 +715,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94205-59-p3s1w10</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5416f1</val_frame.rf>
+<val_frame.rf>v#v41jfhA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s1w1">
 <a>
@@ -847,7 +850,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w3541f7</val_frame.rf>
+<val_frame.rf>v#v41fqjF</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s1w13">
 <a>
@@ -907,7 +910,7 @@
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w5123f1</val_frame.rf>
+<val_frame.rf>v#v41iqtA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s1a4">
 <nodetype>complex</nodetype>
@@ -1005,6 +1008,7 @@
 <start_range>5</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-59-p3s8w2</LM>
@@ -1039,13 +1043,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-59-p3s2w4</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w8323f1</val_frame.rf>
+<val_frame.rf>v#v41ouvB</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s2w4">
 <a>
@@ -1073,7 +1078,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w3538f1</val_frame.rf>
+<val_frame.rf>v#v41fqfA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s2w2">
 <a>
@@ -1129,8 +1134,9 @@
 <lex.rf>a#a-ln94205-59-p3s2w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>nic</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -1154,8 +1160,9 @@
 <lex.rf>a#a-ln94205-59-p3s2w5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>stejný</t_lemma>
+<t_lemma>stejně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>stejný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -1173,6 +1180,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -1192,14 +1200,16 @@
 <type>discourse</type>
 <start_range>0</start_range>
 <target_range>0</target_range>
-<discourse_type>explicat</discourse_type>
+<discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
+<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-59-p3s2w8</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s2w9">
 <a>
@@ -1245,7 +1255,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w3541f2</val_frame.rf>
+<val_frame.rf>v#v41fqjC</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s2a3">
 <nodetype>qcomplex</nodetype>
@@ -1296,6 +1306,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tehdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>tehdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -1333,6 +1344,7 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
+<sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
 <comment>sporná anotace,
 wrongTR? způsobová věta?</comment>
 <src>pdit10</src>
@@ -1341,7 +1353,7 @@ wrongTR? způsobová věta?</comment>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5422f1</val_frame.rf>
+<val_frame.rf>v#v41jfoB</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s2a5">
 <nodetype>qcomplex</nodetype>
@@ -1382,8 +1394,9 @@ wrongTR? způsobová věta?</comment>
 <lex.rf>a#a-ln94205-59-p3s2w21</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>bezprostřední</t_lemma>
+<t_lemma>bezprostředně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>bezprostřední</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -1413,6 +1426,7 @@ wrongTR? způsobová věta?</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1425,7 +1439,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s3w3">
 <a>
@@ -1466,7 +1480,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>c</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w369f30</val_frame.rf>
+<val_frame.rf>v#v41plG</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s3w2">
 <a>
@@ -1489,7 +1503,7 @@ wrongTR? způsobová věta?</comment>
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w5123f1</val_frame.rf>
+<val_frame.rf>v#v41iqtA</val_frame.rf>
 </LM>
 <LM id="t-ln94205-59-p3s3a1">
 <nodetype>qcomplex</nodetype>
@@ -1520,7 +1534,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>c</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w311f1</val_frame.rf>
+<val_frame.rf>v#v41mtC</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s3w4">
 <a>
@@ -1529,6 +1543,7 @@ wrongTR? způsobová věta?</comment>
 <nodetype>complex</nodetype>
 <t_lemma>potom</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>potom</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -1567,6 +1582,7 @@ wrongTR? způsobová věta?</comment>
 <nodetype>complex</nodetype>
 <t_lemma>deset</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>deset</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -1682,13 +1698,14 @@ wrongTR? způsobová věta?</comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-59-p3s5w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w9364f2</val_frame.rf>
+<val_frame.rf>v#v41qwvB</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s4w2">
 <a>
@@ -1727,7 +1744,33 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w8408f1</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>t-ln94205-59-p3s4w10</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
+<src>MR</src>
+<a-connectors.rf>
+<LM>a#a-ln94205-59-p3s4w2</LM>
+</a-connectors.rf>
+<t-connectors.rf>
+<LM>t-ln94205-59-p3s4w9</LM>
+</t-connectors.rf>
+<a-connectors_ext.rf>
+<LM>a#a-ln94205-59-p3s4w3</LM>
+</a-connectors_ext.rf>
+<t-connectors_ext.rf>
+<LM>t-ln94205-59-p3s4w2</LM>
+<LM>t-ln94205-59-p3s4w4</LM>
+<LM>t-ln94205-59-p3s4w9</LM>
+</t-connectors_ext.rf>
+<is_secondary>1</is_secondary>
+</LM>
+</discourse>
+<val_frame.rf>v#v41ozaA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s4w4">
 <a>
@@ -1736,6 +1779,7 @@ wrongTR? způsobová věta?</comment>
 <nodetype>complex</nodetype>
 <t_lemma>kdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -1797,7 +1841,6 @@ wrongTR? způsobová věta?</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
-<discourse_comment>není prec, patří do této věty</discourse_comment>
 </LM>
 <LM id="t-ln94205-59-p3s4w8">
 <a>
@@ -1859,7 +1902,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w311f1</val_frame.rf>
+<val_frame.rf>v#v41mtC</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s4a2">
 <nodetype>qcomplex</nodetype>
@@ -1894,15 +1937,16 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w8975f1</val_frame.rf>
+<val_frame.rf>v#v41qcuA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s4w16">
 <a>
 <lex.rf>a#a-ln94205-59-p3s4w16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdo</t_lemma>
+<t_lemma>někdo</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>kdo</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>anim</gender>
@@ -2005,7 +2049,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w6270f1</val_frame.rf>
+<val_frame.rf>v#v41kykA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s5w1">
 <a>
@@ -2048,6 +2092,7 @@ wrongTR? způsobová věta?</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -2059,7 +2104,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s5w6">
 <a>
@@ -2105,7 +2150,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w10014f2</val_frame.rf>
+<val_frame.rf>v#v41sdqA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s5w9">
 <a>
@@ -2213,6 +2258,7 @@ wrongTR? způsobová věta?</comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>mít</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>hrt</deontmod>
@@ -2224,7 +2270,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w1855f13</val_frame.rf>
+<val_frame.rf>v#v41chlAK</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s5w16">
 <a>
@@ -2233,6 +2279,7 @@ wrongTR? způsobová věta?</comment>
 <nodetype>complex</nodetype>
 <t_lemma>kdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -2280,7 +2327,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w858f1</val_frame.rf>
+<val_frame.rf>v#v41amgA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s5a5">
 <nodetype>qcomplex</nodetype>
@@ -2314,7 +2361,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
-<val_frame.rf>v#v-w1918f1</val_frame.rf>
+<val_frame.rf>v#v41ckkA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s5a6">
 <nodetype>qcomplex</nodetype>
@@ -2348,7 +2395,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>23</deepord>
-<val_frame.rf>v#v-w5158f1</val_frame.rf>
+<val_frame.rf>v#v41isgP</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s5w24">
 <a>
@@ -2407,6 +2454,7 @@ wrongTR? způsobová věta?</comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-59-p3s5w27</LM>
@@ -2461,7 +2509,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>30</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s5a10">
 <nodetype>qcomplex</nodetype>
@@ -2494,6 +2542,7 @@ wrongTR? způsobová věta?</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>být</proto_lemma>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>v</sempos>
@@ -2506,7 +2555,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>32</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s5w34">
 <a>
@@ -2515,6 +2564,7 @@ wrongTR? způsobová věta?</comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.pron.def.demon</sempos>
@@ -2643,6 +2693,7 @@ wrongTR? způsobová věta?</comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-59-p3s7w1</LM>
@@ -2670,7 +2721,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w3620f1</val_frame.rf>
+<val_frame.rf>v#v41fufC</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s6w2">
 <a>
@@ -2699,14 +2750,16 @@ wrongTR? způsobová věta?</comment>
 <type>discourse</type>
 <start_range>0</start_range>
 <target_range>0</target_range>
-<discourse_type>cond</discourse_type>
+<discourse_type>f_cond</discourse_type>
+<sense_PDTB3>Contingency.Condition+SpeechAct</sense_PDTB3>
+<sense_PDTB3_manual>Contingency.Condition+SpeechAct</sense_PDTB3_manual>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-59-p3s6w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w7548f2</val_frame.rf>
+<val_frame.rf>v#v41nihB</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s6a0">
 <nodetype>complex</nodetype>
@@ -2925,13 +2978,14 @@ wrongTR? způsobová věta?</comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-59-p3s6w13</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w3620f1</val_frame.rf>
+<val_frame.rf>v#v41fufC</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s6w18">
 <a>
@@ -2969,8 +3023,9 @@ wrongTR? způsobová věta?</comment>
 <lex.rf>a#a-ln94205-59-p3s6w16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>všechen</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>total1</indeftype>
@@ -3125,7 +3180,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w1757f1</val_frame.rf>
+<val_frame.rf>v#v41ccxA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s7w1">
 <a>
@@ -3164,14 +3219,15 @@ wrongTR? způsobová věta?</comment>
 <type>discourse</type>
 <start_range>0</start_range>
 <target_range>0</target_range>
-<discourse_type>conc</discourse_type>
+<discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-59-p3s7w2</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w647f1</val_frame.rf>
+<val_frame.rf>v#v41abzE</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s7w3">
 <a>
@@ -3246,8 +3302,9 @@ wrongTR? způsobová věta?</comment>
 <lex.rf>a#a-ln94205-59-p3s7w8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jak</t_lemma>
+<t_lemma>jakkoli</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>jak</proto_lemma>
 <gram>
 <sempos>adv.pron.indef</sempos>
 <indeftype>indef3</indeftype>
@@ -3284,7 +3341,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s7w12">
 <a>
@@ -3347,6 +3404,7 @@ wrongTR? způsobová věta?</comment>
 <a>
 <lex.rf>a#a-ln94205-59-p3s7w26</lex.rf>
 <aux.rf>
+<LM>a#a-ln94205-59-p3s7w24</LM>
 <LM>a#a-ln94205-59-p3s7w16</LM>
 </aux.rf>
 </a>
@@ -3364,15 +3422,16 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w9615f1</val_frame.rf>
+<val_frame.rf>v#v41rkdA</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s7w25">
 <a>
 <lex.rf>a#a-ln94205-59-p3s7w25</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>nic</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -3526,6 +3585,7 @@ wrongTR? způsobová věta?</comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -3538,7 +3598,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w243f3</val_frame.rf>
+<val_frame.rf>v#v41jsAF</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s8w2">
 <a>
@@ -3603,7 +3663,7 @@ wrongTR? způsobová věta?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w6326f1</val_frame.rf>
+<val_frame.rf>v#v41laxB</val_frame.rf>
 <children>
 <LM id="t-ln94205-59-p3s8a2">
 <nodetype>qcomplex</nodetype>
@@ -3621,8 +3681,9 @@ wrongTR? způsobová věta?</comment>
 <lex.rf>a#a-ln94205-59-p3s8w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kde</t_lemma>
+<t_lemma>nikam</t_lemma>
 <functor>DIR3</functor>
+<proto_lemma>kde</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>

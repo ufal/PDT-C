@@ -89,7 +89,7 @@
 </w.rf>
 <form>blokuje</form>
 <lemma>blokovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj2126-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1089,7 +1089,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2126-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

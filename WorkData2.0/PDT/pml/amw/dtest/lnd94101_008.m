@@ -28,7 +28,7 @@
 <LM>w#w-lnd94101-008-p1s1w2</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-008-p1s1w3">

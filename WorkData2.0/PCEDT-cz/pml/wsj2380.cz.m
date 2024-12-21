@@ -1396,8 +1396,8 @@
 <LM>w#w-wsj2380-001-p1s15W5</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2380-001-p1s15W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5612,7 +5612,7 @@
 <LM>w#w-wsj2380-001-p1s41W5</LM>
 </w.rf>
 <form>hypotéční</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-wsj2380-001-p1s41W6-Ta">
@@ -6099,7 +6099,7 @@
 <LM>w#w-wsj2380-001-p1s45W5</LM>
 </w.rf>
 <form>hypotéční</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-wsj2380-001-p1s45W6-Ta">

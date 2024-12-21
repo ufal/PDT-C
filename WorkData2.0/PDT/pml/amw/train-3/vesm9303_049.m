@@ -957,7 +957,7 @@
 </w.rf>
 <form>termín</form>
 <lemma>termín</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9303-049-p3s4w17">
 <src.rf>manual</src.rf>
@@ -2916,7 +2916,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-049-p3s11w8">
 <src.rf>manual</src.rf>
@@ -4709,7 +4709,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-049-p4s4w9">
 <src.rf>manual</src.rf>

@@ -1055,8 +1055,8 @@
 <LM>w#w-wsj1940-001-p1s6W3</LM>
 </w.rf>
 <form>obvinění</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj1940-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>

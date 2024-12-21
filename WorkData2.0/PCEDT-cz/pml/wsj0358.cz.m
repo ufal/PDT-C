@@ -1330,7 +1330,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0358-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1655,8 +1655,8 @@
 <LM>w#w-wsj0358-001-p1s5W9</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj0358-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1691,7 +1691,7 @@
 <LM>w#w-wsj0358-001-p1s5W13</LM>
 </w.rf>
 <form>hájil</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0358-001-p1s5W14-Ta">
@@ -2500,7 +2500,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-wsj0358-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>

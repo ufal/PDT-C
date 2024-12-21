@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94203_36.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -41,10 +41,10 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>může být celé i jako
 popis obrázku</discourse_comment>
-<val_frame.rf>v#v-w527f1</val_frame.rf>
+<val_frame.rf>v#v41wqB</val_frame.rf>
 <children>
 <LM id="t-ln94203-36-p1s1w1">
 <a>
@@ -115,7 +115,7 @@ popis obrázku</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w10030f1</val_frame.rf>
+<val_frame.rf>v#v41sekE</val_frame.rf>
 <children>
 <LM id="t-ln94203-36-p1s1w6">
 <a>
@@ -124,6 +124,7 @@ popis obrázku</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>kde</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>kde</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -193,7 +194,7 @@ popis obrázku</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w5277f1</val_frame.rf>
+<val_frame.rf>v#v41iysA</val_frame.rf>
 <children>
 <LM id="t-ln94203-36-p1s1w16">
 <a>
@@ -290,7 +291,7 @@ popis obrázku</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w4745f1</val_frame.rf>
+<val_frame.rf>v#v41hxpB</val_frame.rf>
 <children>
 <LM id="t-ln94203-36-p1s2w1">
 <a>
@@ -312,6 +313,7 @@ popis obrázku</discourse_comment>
 <a>
 <lex.rf>a#a-ln94203-36-p1s2w10</lex.rf>
 <aux.rf>
+<LM>a#a-ln94203-36-p1s2w5</LM>
 <LM>a#a-ln94203-36-p1s2w4</LM>
 </aux.rf>
 </a>
@@ -329,7 +331,7 @@ popis obrázku</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7460f1</val_frame.rf>
+<val_frame.rf>v#v41ndvH</val_frame.rf>
 <children>
 <LM id="t-ln94203-36-p1s2w7">
 <a>

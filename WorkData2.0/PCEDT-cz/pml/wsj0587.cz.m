@@ -3249,8 +3249,8 @@
 <LM>w#w-wsj0587-001-p1s17W3</LM>
 </w.rf>
 <form>protestujících</form>
-<lemma>protestující_^(*5ovat)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>protestující-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0587-001-p1s17W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3979,7 +3979,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0587-001-p1s21W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4095,8 +4095,8 @@
 <LM>w#w-wsj0587-001-p1s21W16</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0587-001-p1s21W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4986,7 +4986,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0587-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6131,8 +6131,8 @@
 <LM>w#w-wsj0587-001-p1s31W17</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0587-001-p1s31W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6167,7 +6167,7 @@
 <LM>w#w-wsj0587-001-p1s31W21</LM>
 </w.rf>
 <form>baseballu</form>
-<lemma>baseball</lemma>
+<lemma>baseball_,s_^(^DD**basebal)</lemma>
 <tag>NNIS6-----A---1</tag>
 </m>
 <m id="m-wsj0587-001-p1s31W22-Ta">

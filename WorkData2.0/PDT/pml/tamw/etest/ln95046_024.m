@@ -142,8 +142,8 @@
 <LM>w#w-ln95046-024-p2s1Cw1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-024-p2s1Cw2">
 <src.rf>manual</src.rf>
@@ -1925,7 +1925,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-024-p4s5w4">
 <src.rf>manual</src.rf>
@@ -2381,7 +2381,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-024-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2482,7 +2482,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-024-p5s3w6">
 <src.rf>manual</src.rf>

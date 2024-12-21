@@ -433,8 +433,8 @@
 <LM>w#w-mf930713-142-p3s1w7</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-142-p3s1w8">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-142-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1587,7 +1587,7 @@
 <LM>w#w-mf930713-142-p7s1w24</LM>
 </w.rf>
 <form>nevypočitatelným</form>
-<lemma>vypočitatelný_^(*8ítat)</lemma>
+<lemma>vypočitatelný_,s_^(^DD**vypočítatelný)</lemma>
 <tag>AAIS7----1N----</tag>
 </m>
 <m id="m-mf930713-142-p7s1w25">

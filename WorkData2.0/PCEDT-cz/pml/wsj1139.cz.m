@@ -642,8 +642,8 @@
 <LM>w#w-wsj1139-001-p1s2W4</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1139-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -732,7 +732,7 @@
 <LM>w#w-wsj1139-001-p1s2W14</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj1139-001-p1s2W15-Ta">
@@ -4033,7 +4033,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1139-001-p1s16W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4244,7 +4244,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1139-001-p1s17W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4252,8 +4252,8 @@
 <LM>w#w-wsj1139-001-p1s17W17</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1139-001-p1s17W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4481,8 +4481,8 @@
 <LM>w#w-wsj1139-001-p1s18W10</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1139-001-p1s18W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4710,8 +4710,8 @@
 <LM>w#w-wsj1139-001-p1s19W1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1139-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5304,8 +5304,8 @@
 <LM>w#w-wsj1139-001-p1s22W1</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-33</lemma>
-<tag>Q3-------------</tag>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1139-001-p1s22W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5350,7 +5350,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1139-001-p1s22W7-Ta">
 <src.rf>tagger-a</src.rf>

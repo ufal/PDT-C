@@ -1263,7 +1263,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1182-001-p1s4W35-Ta">
 <src.rf>tagger-a</src.rf>

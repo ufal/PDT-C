@@ -760,8 +760,8 @@
 <LM>w#w-mf930709-042-p2s5w7</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930709-042-p2s5w8">
 <src.rf>manual</src.rf>

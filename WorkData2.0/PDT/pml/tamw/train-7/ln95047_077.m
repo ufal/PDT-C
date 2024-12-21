@@ -230,8 +230,8 @@
 <LM>w#w-ln95047-077-p2s1Bw17</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>s-1</lemma>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-ln95047-077-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -239,8 +239,8 @@
 <LM>w#w-ln95047-077-p2s1Bw18</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln95047-077-p2s1Bw19">
 <src.rf>manual</src.rf>

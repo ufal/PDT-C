@@ -12,7 +12,7 @@
 <LM>w#w-d1t3451-4</LM>
 </w.rf>
 <form>Opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m037-d1t3451-2">
@@ -1086,7 +1086,7 @@
 <LM>w#w-d1t3534-4</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m037-d1t3534-5">
@@ -1457,7 +1457,7 @@
 </w.rf>
 <form>Vyspal</form>
 <lemma>vyspat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m037-d1t3557-11">
 <w.rf>
@@ -1660,8 +1660,8 @@
 <LM>w#w-d1t3579-12</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m037-d1t3579-13">
 <w.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-d1t3579-27</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m037-d1t3579-28">
@@ -3156,7 +3156,7 @@
 <LM>w#w-d1t3662-7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m037-d1t3664-1">
@@ -3276,8 +3276,8 @@
 <LM>w#w-d1t3664-15</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m037-d1t3664-18">
 <w.rf>
@@ -3529,7 +3529,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m037-d1t3666-20">
 <w.rf>
@@ -3578,8 +3578,8 @@
 <LM>w#w-d1t3666-27</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m037-d1t3666-28">
 <w.rf>
@@ -4062,8 +4062,8 @@
 <LM>w#w-d1t3700-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m037-d-m-d1e3697-x2-punct-punct">
 <w.rf>
@@ -4286,8 +4286,8 @@
 <LM>w#w-d1e3736-x2-1699</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m037-d1t3739-9">
 <w.rf>
@@ -4387,7 +4387,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m037-d1t3751-3">
 <w.rf>

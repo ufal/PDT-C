@@ -1178,8 +1178,8 @@
 <LM>w#w-ln95040-116-p3s6w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95040-116-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1459,8 +1459,8 @@
 <LM>w#w-ln95040-116-p3s7w5</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95040-116-p3s7w6">
 <src.rf>manual</src.rf>

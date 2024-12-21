@@ -323,7 +323,7 @@
 </w.rf>
 <form>vzrůstu</form>
 <lemma>vzrůst-2</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1976-001-p1s0W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1413,7 +1413,7 @@
 </w.rf>
 <form>Devítiměsíční</form>
 <lemma>devítiměsíční</lemma>
-<tag>AAFP4----1A----</tag>
+<tag>AAFP1----1A----</tag>
 </m>
 <m id="m-wsj1976-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1422,7 +1422,7 @@
 </w.rf>
 <form>hodnoty</form>
 <lemma>hodnota</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1976-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1485,7 +1485,7 @@
 </w.rf>
 <form>dividendy</form>
 <lemma>dividenda</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFP4-----A----</tag>
 </m>
 <m id="m-wsj1976-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>

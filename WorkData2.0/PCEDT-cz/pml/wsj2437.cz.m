@@ -959,8 +959,8 @@
 <LM>w#w-wsj2437-001-p1s2W18</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2437-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1597,8 +1597,8 @@
 <LM>w#w-wsj2437-001-p1s5W13</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2437-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>

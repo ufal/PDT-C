@@ -891,8 +891,8 @@
 <LM>w#w-mf920902-097-p1s4w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920902-097-p1s4w2">
 <src.rf>manual</src.rf>
@@ -1190,8 +1190,8 @@
 <LM>w#w-mf920902-097-p1s5w19</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-097-p1s5w20">
 <src.rf>manual</src.rf>

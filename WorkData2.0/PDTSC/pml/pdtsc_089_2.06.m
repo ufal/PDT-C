@@ -194,8 +194,8 @@
 <LM>w#w-d1t1584-3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m042-d1t1584-4">
 <w.rf>
@@ -278,16 +278,16 @@
 <LM>w#w-d1t1586-8</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m042-d1t1586-9">
 <w.rf>
 <LM>w#w-d1t1586-9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m042-d1t1586-10">
 <w.rf>
@@ -648,8 +648,8 @@
 <LM>w#w-d1t1623-5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m042-d1t1623-6">
 <w.rf>
@@ -1118,8 +1118,8 @@
 <LM>w#w-d1t1645-11</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m042-d1t1645-13">
 <w.rf>
@@ -1142,8 +1142,8 @@
 <LM>w#w-d1t1645-17</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m042-d1t1645-16">
 <w.rf>
@@ -1542,8 +1542,8 @@
 <LM>w#w-d1t1677-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m042-d1t1677-7">
 <w.rf>
@@ -1642,8 +1642,8 @@
 <LM>w#w-d1t1681-13</LM>
 </w.rf>
 <form>myslím</form>
-<lemma>mysl</lemma>
-<tag>NNFP3-----A----</tag>
+<lemma>myslit</lemma>
+<tag>VB-S---1P-AAI--</tag>
 </m>
 <m id="m042-d1t1681-15">
 <w.rf>
@@ -1708,8 +1708,8 @@
 <LM>w#w-d1t1683-7</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m042-d1t1683-8">
 <w.rf>
@@ -1842,8 +1842,8 @@
 <LM>w#w-d1t1697-7</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m042-d1t1697-5">
 <w.rf>
@@ -2894,7 +2894,7 @@
 <LM>w#w-d1t1755-1</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m042-d1t1755-2">

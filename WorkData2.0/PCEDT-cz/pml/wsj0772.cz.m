@@ -52,8 +52,8 @@
 <LM>w#w-wsj0772-001-p1s0W5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0772-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1259,8 +1259,8 @@
 <LM>w#w-wsj0772-001-p1s5W6</LM>
 </w.rf>
 <form>je</form>
-<lemma>on-1</lemma>
-<tag>PEXP4--3-------</tag>
+<lemma>být</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0772-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2449,7 +2449,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0772-001-p1s10W2-Ta">
 <src.rf>tagger-a</src.rf>

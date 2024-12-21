@@ -296,7 +296,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-010-p2s2w2">
 <src.rf>manual</src.rf>
@@ -304,8 +304,8 @@
 <LM>w#w-mf920923-010-p2s2w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920923-010-p2s2w3">
 <src.rf>manual</src.rf>
@@ -948,7 +948,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-010-p2s4w18">
 <src.rf>manual</src.rf>

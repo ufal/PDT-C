@@ -554,8 +554,8 @@
 <LM>w#w-ln95040-007-p2s5w11</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-007-p2s5w12">
 <src.rf>manual</src.rf>

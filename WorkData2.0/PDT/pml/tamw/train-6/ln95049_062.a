@@ -652,6 +652,10 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-ln95049-062-p3s1w12">
 <m.rf>m#m-ln95049-062-p3s1w12</m.rf>
 <afun>Atr</afun>
@@ -704,13 +708,9 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-ln95049-062-p3s1w17">
 <m.rf>m#m-ln95049-062-p3s1w17</m.rf>
-<afun>AuxR</afun>
+<afun>AuxT</afun>
 <ord>17</ord>
 <clause_number>1</clause_number>
 </LM>

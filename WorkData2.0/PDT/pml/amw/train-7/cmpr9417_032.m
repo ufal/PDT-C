@@ -568,7 +568,7 @@
 </w.rf>
 <form>druhý</form>
 <lemma>druhý`2</lemma>
-<tag>CrIS4----------</tag>
+<tag>CrIS1----------</tag>
 </m>
 <m id="m-cmpr9417-032-p5s2w28">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-cmpr9417-032-p9s1w37">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 <LM>w#w-cmpr9417-032-p12s2w4</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9417-032-p12s2w5">
@@ -2316,8 +2316,8 @@
 <LM>w#w-cmpr9417-032-p12s5w1</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9417-032-p12s5w2">
 <src.rf>manual</src.rf>
@@ -2962,7 +2962,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-032-p14s2w6">
 <src.rf>manual</src.rf>
@@ -3544,7 +3544,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-032-p16s1w4">
 <src.rf>manual</src.rf>

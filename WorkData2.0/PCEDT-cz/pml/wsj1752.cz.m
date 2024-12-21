@@ -1381,7 +1381,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj1752-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>

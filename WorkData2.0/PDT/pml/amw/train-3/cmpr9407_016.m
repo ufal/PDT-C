@@ -942,8 +942,8 @@
 <LM>w#w-cmpr9407-016-p4s2w6</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9407-016-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1016,8 +1016,8 @@
 <LM>w#w-cmpr9407-016-p4s3w6</LM>
 </w.rf>
 <form>vstříc</form>
-<lemma>vstříc-1</lemma>
-<tag>RR--3----------</tag>
+<lemma>vstříc-2</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9407-016-p4s3w7">
 <src.rf>manual</src.rf>
@@ -2222,8 +2222,8 @@
 <LM>w#w-cmpr9407-016-p6s4w1</LM>
 </w.rf>
 <form>Že</form>
-<lemma>že-1</lemma>
-<tag>J,-------------</tag>
+<lemma>že-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-016-p6s4w2">
 <src.rf>manual</src.rf>
@@ -2360,7 +2360,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-016-p6s5w2">
 <src.rf>manual</src.rf>
@@ -2559,8 +2559,8 @@
 <LM>w#w-cmpr9407-016-p6s6w2</LM>
 </w.rf>
 <form>že</form>
-<lemma>že-1</lemma>
-<tag>J,-------------</tag>
+<lemma>že-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-016-p6s6w3">
 <src.rf>manual</src.rf>
@@ -3016,7 +3016,7 @@
 </w.rf>
 <form>věnuji</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---1P-AAI-1</tag>
+<tag>VB-S---1P-AAB-1</tag>
 </m>
 <m id="m-cmpr9407-016-p7s3w6">
 <src.rf>manual</src.rf>

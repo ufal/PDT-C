@@ -73,8 +73,8 @@
 <LM>w#w-ln94208-6-p1s1w7</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94208-6-p1s1w8">
 <src.rf>manual</src.rf>
@@ -147,8 +147,8 @@
 <LM>w#w-ln94208-6-p1s2w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-6-p1s2w7">
 <src.rf>manual</src.rf>

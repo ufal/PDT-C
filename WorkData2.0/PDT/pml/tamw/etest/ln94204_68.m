@@ -462,7 +462,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-68-p2s3w11">
 <src.rf>manual</src.rf>
@@ -562,8 +562,8 @@
 <LM>w#w-ln94204-68-p2s4w8</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-68-p2s4w9">
 <src.rf>manual</src.rf>
@@ -616,8 +616,8 @@
 <LM>w#w-ln94204-68-p2s4w14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-68-p2s4w15">
 <src.rf>manual</src.rf>

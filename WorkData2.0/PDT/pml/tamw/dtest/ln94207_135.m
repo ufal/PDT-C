@@ -123,7 +123,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-ln94207-135-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -643,8 +643,8 @@
 <LM>w#w-ln94207-135-p2s5w8</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-135-p2s5w9">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-ln94207-135-p2s5w24</LM>
 </w.rf>
 <form>lymskou</form>
-<lemma>lymský</lemma>
+<lemma>lymský_,s_^(^DD**lymeský)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-ln94207-135-p2s5w25">
@@ -796,7 +796,7 @@
 <LM>w#w-ln94207-135-p2s5w25</LM>
 </w.rf>
 <form>borreliózu</form>
-<lemma>borrelióza</lemma>
+<lemma>borrelióza_,s_^(^DD**borelióza)</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m-ln94207-135-p2s5w26">
@@ -996,7 +996,7 @@
 <LM>w#w-ln94207-135-p2s6w18</LM>
 </w.rf>
 <form>lymské</form>
-<lemma>lymský</lemma>
+<lemma>lymský_,s_^(^DD**lymeský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln94207-135-p2s6w19">
@@ -1005,7 +1005,7 @@
 <LM>w#w-ln94207-135-p2s6w19</LM>
 </w.rf>
 <form>borreliózy</form>
-<lemma>borrelióza</lemma>
+<lemma>borrelióza_,s_^(^DD**borelióza)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-135-p2s6w20">

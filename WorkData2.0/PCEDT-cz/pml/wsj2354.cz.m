@@ -452,8 +452,8 @@
 <LM>w#w-wsj2354-001-p1s2W13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2354-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -743,8 +743,8 @@
 <LM>w#w-wsj2354-001-p1s3W3</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2354-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1847,8 +1847,8 @@
 <LM>w#w-wsj2354-001-p1s6W30</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2354-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3353,7 +3353,7 @@
 </w.rf>
 <form>miliardy</form>
 <lemma>miliarda`1000000000</lemma>
-<tag>CzFS2----------</tag>
+<tag>CzFP4----------</tag>
 </m>
 <m id="m-wsj2354-001-p1s11W53-Ta">
 <src.rf>tagger-a</src.rf>

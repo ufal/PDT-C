@@ -1050,8 +1050,8 @@
 <LM>w#w-wsj0938-001-p1s3W10</LM>
 </w.rf>
 <form>pošlou</form>
-<lemma>pošlý_^(*3jít)</lemma>
-<tag>AAFS4----1A----</tag>
+<lemma>poslat</lemma>
+<tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-wsj0938-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2711,7 +2711,7 @@
 </w.rf>
 <form>nabídky</form>
 <lemma>nabídka</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj0938-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2828,8 +2828,8 @@
 <LM>w#w-wsj0938-001-p1s9W21</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0938-001-p1s9W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5533,7 +5533,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj0938-001-p1s19W8-Ta">
 <src.rf>tagger-a</src.rf>

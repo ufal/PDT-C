@@ -631,7 +631,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-005-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1197,7 +1197,7 @@
 <LM>w#w-cmpr9415-005-p9s3w3</LM>
 </w.rf>
 <form>Québeku</form>
-<lemma>Québek_;G_,s_^(^DD**Québec)</lemma>
+<lemma>Québek_;G_,s_^(^DD**Quebec)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p9s3w4">
@@ -1590,8 +1590,8 @@
 <LM>w#w-cmpr9415-005-p11s2w12</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-005-p11s2w13">
 <src.rf>manual</src.rf>
@@ -1727,8 +1727,8 @@
 <LM>w#w-cmpr9415-005-p11s3w9</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-005-p11s3w10">
 <src.rf>manual</src.rf>
@@ -2658,7 +2658,7 @@
 <LM>w#w-cmpr9415-005-p13s2w10</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-005-p13s2w11">
@@ -2667,8 +2667,8 @@
 <LM>w#w-cmpr9415-005-p13s2w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-005-p13s2w12">
 <src.rf>manual</src.rf>
@@ -2970,8 +2970,8 @@
 <LM>w#w-cmpr9415-005-p13s5w16</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-005-p13s5w17">
 <src.rf>manual</src.rf>
@@ -2988,7 +2988,7 @@
 <LM>w#w-cmpr9415-005-p13s5w18</LM>
 </w.rf>
 <form>Québeku</form>
-<lemma>Québek_;G_,s_^(^DD**Québec)</lemma>
+<lemma>Québek_;G_,s_^(^DD**Quebec)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p13s5w19">
@@ -3872,8 +3872,8 @@
 <LM>w#w-cmpr9415-005-p14s5w29</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-005-p14s5w30">
 <src.rf>manual</src.rf>

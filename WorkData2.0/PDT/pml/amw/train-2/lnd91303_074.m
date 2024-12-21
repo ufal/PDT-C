@@ -666,7 +666,7 @@
 <LM>w#w-lnd91303-074-p4s1w21</LM>
 </w.rf>
 <form>nedozví</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd91303-074-p4s1w22">
@@ -941,7 +941,7 @@
 </w.rf>
 <form>Pravil</form>
 <lemma>pravit</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd91303-074-p4s3w2">
 <src.rf>manual</src.rf>

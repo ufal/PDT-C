@@ -437,7 +437,7 @@
 </w.rf>
 <form>Bodejť</form>
 <lemma>bodejť</lemma>
-<tag>II-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-018-p5s3w2">
 <src.rf>manual</src.rf>
@@ -537,8 +537,8 @@
 <LM>w#w-cmpr9416-018-p5s4w8</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-018-p5s4w9">
 <src.rf>manual</src.rf>
@@ -4314,7 +4314,7 @@
 </w.rf>
 <form>trefím</form>
 <lemma>trefit</lemma>
-<tag>VB-S---1P-AAI--</tag>
+<tag>VB-S---1P-AAP--</tag>
 </m>
 <m id="m-cmpr9416-018-p17s1w12">
 <src.rf>manual</src.rf>
@@ -4359,7 +4359,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-018-p17s1w17">
 <src.rf>manual</src.rf>

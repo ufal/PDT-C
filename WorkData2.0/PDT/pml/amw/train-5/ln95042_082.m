@@ -239,8 +239,8 @@
 <LM>w#w-ln95042-082-p2s1Bw9</LM>
 </w.rf>
 <form>přítomní</form>
-<lemma>přítomný</lemma>
-<tag>AAMP5----1A----</tag>
+<lemma>přítomný-2</lemma>
+<tag>NNMP5-----A----</tag>
 </m>
 <m id="m-ln95042-082-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -3281,7 +3281,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-082-p2s13w35">
 <src.rf>manual</src.rf>
@@ -3880,7 +3880,7 @@
 <LM>w#w-ln95042-082-p2s16w3</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-082-p2s16w4">

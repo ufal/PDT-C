@@ -604,7 +604,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-002-p2s4w2">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 <LM>w#w-vesm9301-002-p3s1w20</LM>
 </w.rf>
 <form>zjednodušení</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p3s1w21">
@@ -996,7 +996,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9301-002-p3s2w6">
 <src.rf>manual</src.rf>
@@ -3324,7 +3324,7 @@
 <LM>w#w-vesm9301-002-p6s5w9</LM>
 </w.rf>
 <form>nevypočitatelné</form>
-<lemma>vypočitatelný_^(*8ítat)</lemma>
+<lemma>vypočitatelný_,s_^(^DD**vypočítatelný)</lemma>
 <tag>AAFP1----1N----</tag>
 </m>
 <m id="m-vesm9301-002-p6s5w10">

@@ -765,8 +765,8 @@
 <LM>w#w-ln94206-151-p3s1w38</LM>
 </w.rf>
 <form>an</form>
-<lemma>an-77</lemma>
-<tag>F%-------------</tag>
+<lemma>an-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-ln94206-151-p3s1w39">
 <src.rf>manual</src.rf>
@@ -783,8 +783,8 @@
 <LM>w#w-ln94206-151-p3s1w40</LM>
 </w.rf>
 <form>men</form>
-<lemma>men-77</lemma>
-<tag>F%-------------</tag>
+<lemma>men-1_^(Tchien-an-men)</lemma>
+<tag>SNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-151-p3s1w41">
 <src.rf>manual</src.rf>

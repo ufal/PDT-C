@@ -185,8 +185,8 @@
 <LM>w#w-cmpr9407-010-p4s1w7</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-010-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1615,7 +1615,7 @@
 <LM>w#w-cmpr9407-010-p9s4w11</LM>
 </w.rf>
 <form>využívané</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-cmpr9407-010-p9s4w12">
@@ -1678,7 +1678,7 @@
 <LM>w#w-cmpr9407-010-p9s4w18</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-010-p9s4w19">
@@ -1735,7 +1735,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-010-p10s1w4">
 <src.rf>manual</src.rf>
@@ -3311,7 +3311,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9407-010-p11s5w4">
 <src.rf>manual</src.rf>

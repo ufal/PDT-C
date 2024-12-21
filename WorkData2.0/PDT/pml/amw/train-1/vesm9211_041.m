@@ -781,7 +781,7 @@
 <LM>w#w-vesm9211-041-p3s1w12</LM>
 </w.rf>
 <form>Orkneyská</form>
-<lemma>orkneyský</lemma>
+<lemma>orkneyský_,s_^(^DD**orknejský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9211-041-p3s1w13">
@@ -826,7 +826,7 @@
 <LM>w#w-vesm9211-041-p3s1w17</LM>
 </w.rf>
 <form>Orkneyských</form>
-<lemma>orkneyský</lemma>
+<lemma>orkneyský_,s_^(^DD**orknejský)</lemma>
 <tag>AANP2----1A----</tag>
 </m>
 <m id="m-vesm9211-041-p3s1w18">
@@ -909,7 +909,7 @@
 <LM>w#w-vesm9211-041-p3s2w1</LM>
 </w.rf>
 <form>Orkneyské</form>
-<lemma>orkneyský</lemma>
+<lemma>orkneyský_,s_^(^DD**orknejský)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-vesm9211-041-p3s2w2">
@@ -1264,7 +1264,7 @@
 <LM>w#w-vesm9211-041-p4s1w3</LM>
 </w.rf>
 <form>Orkneyské</form>
-<lemma>orkneyský</lemma>
+<lemma>orkneyský_,s_^(^DD**orknejský)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-vesm9211-041-p4s1w4">
@@ -1444,7 +1444,7 @@
 <LM>w#w-vesm9211-041-p4s1w23</LM>
 </w.rf>
 <form>Orkneyským</form>
-<lemma>orkneyský</lemma>
+<lemma>orkneyský_,s_^(^DD**orknejský)</lemma>
 <tag>AANS7----1A----</tag>
 </m>
 <m id="m-vesm9211-041-p4s1w24">
@@ -1563,8 +1563,8 @@
 <LM>w#w-vesm9211-041-p4s2w6</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-041-p4s2w7">
 <src.rf>manual</src.rf>

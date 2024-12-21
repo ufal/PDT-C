@@ -852,7 +852,7 @@
 <LM>w#w-vesm9211-014-p25s1w1</LM>
 </w.rf>
 <form>Lymská</form>
-<lemma>lymský</lemma>
+<lemma>lymský_,s_^(^DD**lymeský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9211-014-p25s1w2">
@@ -1466,7 +1466,7 @@
 <LM>w#w-vesm9211-014-p48s1w1</LM>
 </w.rf>
 <form>Využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9211-014-p48s1w2">

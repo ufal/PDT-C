@@ -150,7 +150,6 @@
 <w.rf>
 <LM>w#w-wsj2434-001-p1s0W16</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>14.11</form>
 <lemma>14.11</lemma>
 <tag>C=-------------</tag>
@@ -187,7 +186,6 @@
 <w.rf>
 <LM>w#w-wsj2434-001-p1s0W20</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>31.12</form>
 <lemma>31.12</lemma>
 <tag>C=-------------</tag>
@@ -888,7 +886,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-wsj2434-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -971,7 +969,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2434-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

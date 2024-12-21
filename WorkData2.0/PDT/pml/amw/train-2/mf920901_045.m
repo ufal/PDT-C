@@ -46,8 +46,8 @@
 <LM>w#w-mf920901-045-p1s1w4</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-045-p1s1w5">
 <src.rf>manual</src.rf>

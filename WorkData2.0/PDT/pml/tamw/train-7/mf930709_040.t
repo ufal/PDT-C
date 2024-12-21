@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_040.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -26,7 +26,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf930709-040-p1s1a0">
 <a>
@@ -138,8 +138,9 @@
 <lex.rf>a#a-mf930709-040-p1s1w7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dva</t_lemma>
+<t_lemma>druhý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -163,7 +164,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w2482f1</val_frame.rf>
+<val_frame.rf>v#v41dpaA</val_frame.rf>
 <children>
 <LM id="t-mf930709-040-p1s1a3">
 <nodetype>qcomplex</nodetype>
@@ -211,7 +212,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>caption</discourse_special>
+<discourse_feature>caption</discourse_feature>
 <children>
 <LM id="t-mf930709-040-p2s1w2">
 <a>
@@ -253,7 +254,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>caption</discourse_special>
+<discourse_feature>caption</discourse_feature>
 <coref_text>
 <LM>
 <target_node.rf>t-mf930709-040-p1s1a0</target_node.rf>
@@ -300,7 +301,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>caption</discourse_special>
+<discourse_feature>caption</discourse_feature>
 <coref_text>
 <LM>
 <target_node.rf>t-mf930709-040-p1s1w4</target_node.rf>
@@ -3659,7 +3660,7 @@
 <lex.rf>a#a-mf930709-040-p29s1w2</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>#Dash</t_lemma>
+<t_lemma>-</t_lemma>
 <functor>FPHR</functor>
 <deepord>3</deepord>
 </LM>
@@ -3826,8 +3827,9 @@
 <lex.rf>a#a-mf930709-040-p30s1w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>stavební</t_lemma>
+<t_lemma>stavebně</t_lemma>
 <functor>REG</functor>
+<proto_lemma>stavební</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>

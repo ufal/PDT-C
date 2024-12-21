@@ -1013,8 +1013,8 @@
 <LM>w#w-ln94208-62-p3s2w1</LM>
 </w.rf>
 <form>Počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-ln94208-62-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1477,8 +1477,8 @@
 <LM>w#w-ln94208-62-p3s4w15</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-62-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1551,8 +1551,8 @@
 <LM>w#w-ln94208-62-p4s1w5</LM>
 </w.rf>
 <form>nesporně</form>
-<lemma>sporně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nesporně</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-62-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1780,8 +1780,8 @@
 <LM>w#w-ln94208-62-p4s2w6</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-62-p4s2w7">
 <src.rf>manual</src.rf>
@@ -2108,8 +2108,8 @@
 <LM>w#w-ln94208-62-p5s2w1</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-62-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2180,7 +2180,7 @@
 <LM>w#w-ln94208-62-p5s2w9</LM>
 </w.rf>
 <form>oddychovém</form>
-<lemma>oddychový</lemma>
+<lemma>oddychový_,s_^(^DD**oddechový)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-ln94208-62-p5s2w10">
@@ -2282,7 +2282,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-62-p5s3w5">
 <src.rf>manual</src.rf>
@@ -2625,8 +2625,8 @@
 <LM>w#w-ln94208-62-p6s1w7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-62-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2706,8 +2706,8 @@
 <LM>w#w-ln94208-62-p6s1w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-62-p6s1w17">
 <src.rf>manual</src.rf>

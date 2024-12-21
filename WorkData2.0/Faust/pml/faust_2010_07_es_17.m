@@ -526,7 +526,7 @@
 </w.rf>
 <form>Obrázek</form>
 <lemma>obrázek</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w46">
 <w.rf>
@@ -821,8 +821,8 @@
 <LM>w#w-es_17-SCzechM-p1763-s1-w3</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="es_17-SCzechM-p1763-s1-w4">
 <w.rf>
@@ -1137,8 +1137,8 @@
 <LM>w#w-es_17-SCzechM-p1769-s1-w4</LM>
 </w.rf>
 <form>Lhalo</form>
-<lemma>lhát</lemma>
-<tag>VpNS----R-AAI--</tag>
+<lemma>Lhala_;Y</lemma>
+<tag>NNFS5-----A----</tag>
 </m>
 <m id="es_17-SCzechM-p1769-s1-w5">
 <w.rf>
@@ -2125,7 +2125,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_17-SCzechM-p1779-s1-w12">
 <w.rf>
@@ -3915,7 +3915,7 @@
 <LM>w#w-es_17-SCzechM-p1814-s1-w5</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="es_17-SCzechM-p1814-s1-w6">
@@ -4752,7 +4752,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="es_17-SCzechM-p1840-s1-w2">
 <w.rf>

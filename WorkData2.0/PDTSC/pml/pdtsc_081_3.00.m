@@ -188,8 +188,8 @@
 <LM>w#w-d1t33-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m110-d1t33-3">
 <w.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-d1t47-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m110-d1t47-3">
@@ -1863,7 +1863,7 @@
 <LM>w#w-d1t142-3</LM>
 </w.rf>
 <form>sehnala</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m110-d1t142-4">
@@ -2039,8 +2039,8 @@
 <LM>w#w-d1e172-x2-47</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m110-d-id59966-punct">
 <w.rf>

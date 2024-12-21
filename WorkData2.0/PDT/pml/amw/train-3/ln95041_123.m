@@ -188,7 +188,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95041-123-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-123-p4s3w9">
 <src.rf>manual</src.rf>
@@ -2925,8 +2925,8 @@
 <LM>w#w-ln95041-123-p6s6w21</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-123-p6s6w22">
 <src.rf>manual</src.rf>

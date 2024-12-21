@@ -939,7 +939,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-105-p1s14w8">
 <src.rf>manual</src.rf>
@@ -2708,7 +2708,7 @@
 <LM>w#w-lnd94101-105-p1s26w7</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd94101-105-p1s26w8">
@@ -3702,7 +3702,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-105-p1s32w5">
 <src.rf>manual</src.rf>

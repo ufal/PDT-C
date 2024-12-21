@@ -441,8 +441,8 @@
 <LM>w#w-ln94202-59-p2s2w1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-59-p2s2w2">
 <src.rf>manual</src.rf>
@@ -675,8 +675,8 @@
 <LM>w#w-ln94202-59-p2s2w27</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-59-p2s2w28">
 <src.rf>manual</src.rf>
@@ -1449,7 +1449,7 @@
 </w.rf>
 <form>věnováno</form>
 <lemma>věnovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-ln94202-59-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1929,8 +1929,8 @@
 <LM>w#w-ln94202-59-p4s2w23</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-59-p4s2w24">
 <src.rf>manual</src.rf>
@@ -2304,8 +2304,8 @@
 <LM>w#w-ln94202-59-p5s2w4</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-59-p5s2w5">
 <src.rf>manual</src.rf>
@@ -2734,7 +2734,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-59-p6s1w5">
 <src.rf>manual</src.rf>
@@ -3104,8 +3104,8 @@
 <LM>w#w-ln94202-59-p6s2w28</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-59-p6s2w29">
 <src.rf>manual</src.rf>
@@ -3679,8 +3679,8 @@
 <LM>w#w-ln94202-59-p6s6w26</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-59-p6s6w27">
 <src.rf>manual</src.rf>
@@ -3808,7 +3808,7 @@
 </w.rf>
 <form>zachován</form>
 <lemma>zachovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94202-59-p6s7w8">
 <src.rf>manual</src.rf>
@@ -4209,8 +4209,8 @@
 <LM>w#w-ln94202-59-p7s3w1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-59-p7s3w2">
 <src.rf>manual</src.rf>
@@ -4982,8 +4982,8 @@
 <LM>w#w-ln94202-59-p7s7w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-59-p7s7w16">
 <src.rf>manual</src.rf>
@@ -5853,7 +5853,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-59-p9s1w6">
 <src.rf>manual</src.rf>

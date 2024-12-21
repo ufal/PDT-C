@@ -376,8 +376,8 @@
 <LM>w#w-ln95044-134-p2s2w9</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
-<tag>J,-------------</tag>
+<lemma>co-5_^(př._co_nejméně,_co_nevidět_atd.)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-134-p2s2w10">
 <src.rf>manual</src.rf>

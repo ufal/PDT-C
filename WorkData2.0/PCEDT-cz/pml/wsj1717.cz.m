@@ -321,7 +321,6 @@
 <w.rf>
 <LM>w#w-wsj1717-001-p1s0W35</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>116.7</form>
 <lemma>116.7</lemma>
 <tag>C=-------------</tag>
@@ -1495,7 +1494,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1717-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>

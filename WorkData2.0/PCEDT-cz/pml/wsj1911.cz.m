@@ -1026,7 +1026,7 @@
 </w.rf>
 <form>uzavření</form>
 <lemma>uzavření_^(*3ít)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj1911-001-p1s4W23-Ta">
 <src.rf>tagger-a</src.rf>

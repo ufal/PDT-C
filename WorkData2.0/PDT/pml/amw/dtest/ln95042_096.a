@@ -291,7 +291,7 @@
 <afun>Obj</afun>
 <ord>24</ord>
 <clause_number>3</clause_number>
-</LM>
+<children>
 <LM id="a-ln95042-096-p1s2w25">
 <m.rf>m#m-ln95042-096-p1s2w25</m.rf>
 <afun>AuxP</afun>
@@ -303,6 +303,8 @@
 <afun>Adv</afun>
 <ord>26</ord>
 <clause_number>3</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

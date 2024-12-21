@@ -229,7 +229,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95041-059-p2s1w19">
 <src.rf>manual</src.rf>
@@ -610,8 +610,8 @@
 <LM>w#w-ln95041-059-p3s1w12</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95041-059-p3s1w13">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-ln95041-059-p3s3w13</LM>
 </w.rf>
 <form>lochnesské</form>
-<lemma>lochnesský</lemma>
+<lemma>lochnesský_,s_^(^DD**lochneský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln95041-059-p3s3w14">

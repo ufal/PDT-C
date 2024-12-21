@@ -596,8 +596,8 @@
 <LM>w#w-wsj1007-001-p1s2W15</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1007-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4440,8 +4440,8 @@
 <LM>w#w-wsj1007-001-p1s16W34</LM>
 </w.rf>
 <form>li</form>
-<lemma>li-2</lemma>
-<tag>J,-------------</tag>
+<lemma>li-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1007-001-p1s16W35-Ta">
 <src.rf>tagger-a</src.rf>

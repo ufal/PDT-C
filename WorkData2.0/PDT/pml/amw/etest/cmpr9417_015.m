@@ -679,7 +679,7 @@
 <LM>w#w-cmpr9417-015-p3s5w8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-015-p3s5w9">

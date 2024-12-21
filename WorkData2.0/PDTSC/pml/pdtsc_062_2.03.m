@@ -96,8 +96,8 @@
 <LM>w#w-d1t762-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m015-d1t762-6">
 <w.rf>
@@ -146,8 +146,8 @@
 <LM>w#w-d1t766-4</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m015-d1t766-7">
 <w.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-d1t766-19</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m015-d1t766-20">
@@ -276,7 +276,7 @@
 <LM>w#w-d1t766-32</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m015-d1t766-31">
@@ -580,8 +580,8 @@
 <LM>w#w-d1t782-14</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m015-d1t782-15">
 <w.rf>
@@ -1542,8 +1542,8 @@
 <LM>w#w-d1t846-5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m015-d1t846-6">
 <w.rf>
@@ -2279,7 +2279,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m015-d1t886-14">
 <w.rf>
@@ -2344,8 +2344,8 @@
 <LM>w#w-d1t886-21</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m015-d1t886-22">
 <w.rf>
@@ -2595,7 +2595,7 @@
 </w.rf>
 <form>mezi</form>
 <lemma>mezi-1</lemma>
-<tag>RR--7----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m015-d1t901-14">
 <w.rf>
@@ -2944,8 +2944,8 @@
 <LM>w#w-d1t915-15</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m015-d1t915-16">
 <w.rf>
@@ -3430,8 +3430,8 @@
 <LM>w#w-d1t951-60</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m015-d1t951-61">
 <w.rf>

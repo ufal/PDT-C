@@ -376,8 +376,8 @@
 <LM>w#w-d1t1257-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m944-d1t1257-6">
 <w.rf>
@@ -845,7 +845,7 @@
 </w.rf>
 <form>kontaktovala</form>
 <lemma>kontaktovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m944-760-776">
 <w.rf>
@@ -1226,8 +1226,8 @@
 <LM>w#w-d1t1324-19</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m944-d1t1324-20">
 <w.rf>
@@ -1844,8 +1844,8 @@
 <LM>w#w-d1t1345-28</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m944-d1t1345-25">
 <w.rf>
@@ -2186,7 +2186,7 @@
 <LM>w#w-d1t1358-2</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m944-d1t1358-3">
@@ -2357,7 +2357,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m944-2042-2051">
 <w.rf>
@@ -2462,8 +2462,8 @@
 <LM>w#w-d1t1380-2</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m944-d1t1380-1">
 <w.rf>
@@ -2794,8 +2794,8 @@
 <LM>w#w-d1t1399-5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m944-d1t1399-6">
 <w.rf>
@@ -3543,7 +3543,7 @@
 </w.rf>
 <form>nezachovalo</form>
 <lemma>zachovat</lemma>
-<tag>VpNS----R-NAI--</tag>
+<tag>VpNS----R-NAP--</tag>
 </m>
 <m id="m944-d1t1473-7">
 <w.rf>
@@ -3729,7 +3729,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m944-d1t1484-12">
 <w.rf>
@@ -4063,7 +4063,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m944-d1t1510-6">
 <w.rf>
@@ -4495,7 +4495,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m944-d1t1549-1">
 <w.rf>

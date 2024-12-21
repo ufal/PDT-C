@@ -38,7 +38,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln95045-077-p1s1w4">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 </w.rf>
 <form>reaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95045-077-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -852,8 +852,8 @@
 <LM>w#w-ln95045-077-p3s3w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-077-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1034,8 +1034,8 @@
 <LM>w#w-ln95045-077-p3s4w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-077-p3s4w11">
 <src.rf>manual</src.rf>
@@ -2012,8 +2012,8 @@
 <LM>w#w-ln95045-077-p6s1w13</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-077-p6s1w14">
 <src.rf>manual</src.rf>
@@ -2176,8 +2176,8 @@
 <LM>w#w-ln95045-077-p6s2w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-077-p6s2w12">
 <src.rf>manual</src.rf>
@@ -2544,8 +2544,8 @@
 <LM>w#w-ln95045-077-p7s4w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-077-p7s4w2">
 <src.rf>manual</src.rf>
@@ -2607,8 +2607,8 @@
 <LM>w#w-ln95045-077-p7s4w8</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-077-p7s4w9">
 <src.rf>manual</src.rf>
@@ -2789,8 +2789,8 @@
 <LM>w#w-ln95045-077-p8s1w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-077-p8s1w18">
 <src.rf>manual</src.rf>
@@ -3238,8 +3238,8 @@
 <LM>w#w-ln95045-077-p9s2w12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-077-p9s2w13">
 <src.rf>manual</src.rf>
@@ -3285,8 +3285,8 @@
 <LM>w#w-ln95045-077-p9s3w3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-077-p9s3w4">
 <src.rf>manual</src.rf>

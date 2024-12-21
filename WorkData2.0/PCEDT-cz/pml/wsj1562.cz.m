@@ -573,8 +573,8 @@
 <LM>w#w-wsj1562-001-p1s4W3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1562-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4491,7 +4491,7 @@
 </w.rf>
 <form>příkaz</form>
 <lemma>příkaz</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj1562-001-p1s22W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4964,7 +4964,7 @@
 <LM>w#w-wsj1562-001-p1s25W4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj1562-001-p1s25W5-Ta">
@@ -5850,8 +5850,8 @@
 <LM>w#w-wsj1562-001-p1s27W29</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1562-001-p1s27W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8896,7 +8896,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1562-001-p1s42W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10402,7 +10402,7 @@
 </w.rf>
 <form>aktivují</form>
 <lemma>aktivovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-wsj1562-001-p1s48W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10411,7 +10411,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1562-001-p1s48W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11511,7 +11511,7 @@
 <LM>w#w-wsj1562-001-p1s54W19</LM>
 </w.rf>
 <form>uvíznou</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-wsj1562-001-p1s54W20-Ta">

@@ -121,7 +121,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-vesm9211-006-p2s1w7">
 <src.rf>manual</src.rf>

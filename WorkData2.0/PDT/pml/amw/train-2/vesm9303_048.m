@@ -2213,7 +2213,7 @@
 </w.rf>
 <form>organizaci</form>
 <lemma>organizace</lemma>
-<tag>NNFS6-----A----</tag>
+<tag>NNFS4-----A----</tag>
 </m>
 <m id="m-vesm9303-048-p8s1w29">
 <src.rf>manual</src.rf>

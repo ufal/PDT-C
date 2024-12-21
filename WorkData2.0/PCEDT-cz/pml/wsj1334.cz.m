@@ -731,8 +731,8 @@
 <LM>w#w-wsj1334-001-p1s2W8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1334-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -905,7 +905,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1334-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1015,7 +1015,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1334-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1841,7 +1841,7 @@
 </w.rf>
 <form>prezidenta</form>
 <lemma>prezident</lemma>
-<tag>NNMS2-----A----</tag>
+<tag>NNMS4-----A----</tag>
 </m>
 <m id="m-wsj1334-001-p1s7W44-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3077,8 +3077,8 @@
 <LM>w#w-wsj1334-001-p1s13W17</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1334-001-p1s13W18-Ta">
 <src.rf>tagger-a</src.rf>

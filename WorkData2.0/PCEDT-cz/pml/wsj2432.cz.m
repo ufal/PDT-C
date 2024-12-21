@@ -444,7 +444,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2432-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -497,8 +497,8 @@
 <LM>w#w-wsj2432-001-p1s2W12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2432-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -542,8 +542,8 @@
 <LM>w#w-wsj2432-001-p1s2W17</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2432-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1525,7 +1525,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2432-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1881,7 +1881,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2432-001-p1s12W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2389,8 +2389,8 @@
 <LM>w#w-wsj2432-001-p1s14W19</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2432-001-p1s14W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2544,8 +2544,8 @@
 <LM>w#w-wsj2432-001-p1s15W8</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2432-001-p1s15W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2799,8 +2799,8 @@
 <LM>w#w-wsj2432-001-p1s16W11</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2432-001-p1s16W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4762,7 +4762,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s30W5</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>2569.26</form>
 <lemma>2569.26</lemma>
 <tag>C=-------------</tag>
@@ -4818,7 +4817,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s30W11</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1406.29</form>
 <lemma>1406.29</lemma>
 <tag>C=-------------</tag>
@@ -4846,7 +4844,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s30W14</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>78.06</form>
 <lemma>78.06</lemma>
 <tag>C=-------------</tag>
@@ -4892,7 +4889,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s30W19</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>211.96</form>
 <lemma>211.96</lemma>
 <tag>C=-------------</tag>
@@ -4920,7 +4916,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s30W22</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>7.29</form>
 <lemma>7.29</lemma>
 <tag>C=-------------</tag>
@@ -5004,7 +4999,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s31W8</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>3421.29</form>
 <lemma>3421.29</lemma>
 <tag>C=-------------</tag>
@@ -5088,7 +5082,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s32W7</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>129.87</form>
 <lemma>129.87</lemma>
 <tag>C=-------------</tag>
@@ -5116,7 +5109,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s32W10</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>0.01</form>
 <lemma>0.01</lemma>
 <tag>C=-------------</tag>
@@ -5153,7 +5145,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s32W14</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>129.25</form>
 <lemma>129.25</lemma>
 <tag>C=-------------</tag>
@@ -5181,7 +5172,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s32W17</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>0.28</form>
 <lemma>0.28</lemma>
 <tag>C=-------------</tag>
@@ -5220,7 +5210,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s33W3</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>142.10</form>
 <lemma>142.10</lemma>
 <tag>C=-------------</tag>
@@ -5257,7 +5246,6 @@
 <w.rf>
 <LM>w#w-wsj2432-001-p1s33W7</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>2.07</form>
 <lemma>2.07</lemma>
 <tag>C=-------------</tag>

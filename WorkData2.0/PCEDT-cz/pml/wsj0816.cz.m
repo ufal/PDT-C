@@ -124,8 +124,8 @@
 <LM>w#w-wsj0816-001-p1s0W13</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0816-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1446,8 +1446,8 @@
 <LM>w#w-wsj0816-001-p1s7W8</LM>
 </w.rf>
 <form>uprostřed</form>
-<lemma>uprostřed-1</lemma>
-<tag>Db-------------</tag>
+<lemma>uprostřed-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0816-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1802,7 +1802,7 @@
 </w.rf>
 <form>přesáhl</form>
 <lemma>přesáhnout</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0816-001-p1s9W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2201,8 +2201,8 @@
 <LM>w#w-wsj0816-001-p1s10W32</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0816-001-p1s10W33-Ta">
 <src.rf>tagger-a</src.rf>

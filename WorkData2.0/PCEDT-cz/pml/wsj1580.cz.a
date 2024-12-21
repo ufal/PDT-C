@@ -157,12 +157,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj1580-001-p1s0W24-Ta">
 <m.rf>m#m-wsj1580-001-p1s0W24-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -202,6 +202,8 @@
 <afun>Atr</afun>
 <ord>5</ord>
 </LM>
+</children>
+</LM>
 <LM id="a-wsj1580-001-p1s1W7-Ta">
 <m.rf>m#m-wsj1580-001-p1s1W7-Ta</m.rf>
 <afun>Atr</afun>
@@ -236,8 +238,6 @@
 <m.rf>m#m-wsj1580-001-p1s1W13-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>13</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

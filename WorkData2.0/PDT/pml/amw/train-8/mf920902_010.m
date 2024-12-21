@@ -789,8 +789,8 @@
 <LM>w#w-mf920902-010-p1s7w7</LM>
 </w.rf>
 <form>podezřelí</form>
-<lemma>podezřelý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>podezřelý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-010-p1s7w8">
 <src.rf>manual</src.rf>
@@ -917,8 +917,8 @@
 <LM>w#w-mf920902-010-p1s8w9</LM>
 </w.rf>
 <form>podezřelí</form>
-<lemma>podezřelý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>podezřelý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-010-p1s8w10">
 <src.rf>manual</src.rf>

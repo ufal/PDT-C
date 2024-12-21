@@ -561,7 +561,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-38-p2s3w5">
 <src.rf>manual</src.rf>
@@ -724,8 +724,8 @@
 <LM>w#w-ln94203-38-p2s4w13</LM>
 </w.rf>
 <form>dotyčný</form>
-<lemma>dotyčný</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>dotyčný-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-38-p2s4w14">
 <src.rf>manual</src.rf>
@@ -915,8 +915,8 @@
 <LM>w#w-ln94203-38-p2s5w13</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-38-p2s5w14">
 <src.rf>manual</src.rf>
@@ -933,8 +933,8 @@
 <LM>w#w-ln94203-38-p2s5w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-38-p2s5w16">
 <src.rf>manual</src.rf>
@@ -942,8 +942,8 @@
 <LM>w#w-ln94203-38-p2s5w16</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94203-38-p2s5w17">
 <src.rf>manual</src.rf>

@@ -767,8 +767,8 @@
 <LM>w#w-ln95040-131-p3s1w37</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-131-p3s1w38">
 <src.rf>manual</src.rf>
@@ -1141,7 +1141,7 @@
 </w.rf>
 <form>rekonstruovala</form>
 <lemma>rekonstruovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95040-131-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1476,7 +1476,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-131-p4s2w30">
 <src.rf>manual</src.rf>
@@ -1639,7 +1639,7 @@
 <LM>w#w-ln95040-131-p4s3w15</LM>
 </w.rf>
 <form>nevyužívanou</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAFS4----1N----</tag>
 </m>
 <m id="m-ln95040-131-p4s3w16">
@@ -1851,7 +1851,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-131-p5s1w6">
 <src.rf>manual</src.rf>

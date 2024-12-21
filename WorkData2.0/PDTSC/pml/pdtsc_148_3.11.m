@@ -708,8 +708,8 @@
 <LM>w#w-d1t1650-10</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m103-d1t1650-12">
 <w.rf>

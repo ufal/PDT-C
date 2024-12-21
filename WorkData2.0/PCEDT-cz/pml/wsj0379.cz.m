@@ -97,8 +97,8 @@
 <LM>w#w-wsj0379-001-p1s0W10</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0379-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-wsj0379-001-p1s1W24</LM>
 </w.rf>
 <form>využívaných</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-wsj0379-001-p1s1W25-Ta">
@@ -705,8 +705,8 @@
 <LM>w#w-wsj0379-001-p1s2W9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0379-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -942,7 +942,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0379-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

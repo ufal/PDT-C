@@ -451,7 +451,7 @@
 </w.rf>
 <form>čtvrtletí</form>
 <lemma>čtvrtletí</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj1513-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>

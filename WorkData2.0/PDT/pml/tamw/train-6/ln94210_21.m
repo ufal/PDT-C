@@ -1204,8 +1204,8 @@
 <LM>w#w-ln94210-21-p4s1w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-21-p4s1w18">
 <src.rf>manual</src.rf>

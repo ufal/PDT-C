@@ -1349,8 +1349,8 @@
 <LM>w#w-lnd94103-147-p1s8w37</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-147-p1s8w38">
 <src.rf>manual</src.rf>

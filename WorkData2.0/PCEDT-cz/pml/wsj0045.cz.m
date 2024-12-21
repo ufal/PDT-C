@@ -16,8 +16,8 @@
 <LM>w#w-wsj0045-001-p1s0W1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0045-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -361,7 +361,7 @@
 </w.rf>
 <form>rozdají</form>
 <lemma>rozdat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-wsj0045-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2214,8 +2214,8 @@
 <LM>w#w-wsj0045-001-p1s10W14</LM>
 </w.rf>
 <form>stěží</form>
-<lemma>stěží</lemma>
-<tag>Db-------------</tag>
+<lemma>stěží-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0045-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2849,7 +2849,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0045-001-p1s12W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2912,7 +2912,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0045-001-p1s12W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3445,8 +3445,8 @@
 <LM>w#w-wsj0045-001-p1s13W16</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0045-001-p1s13W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3645,8 +3645,8 @@
 <LM>w#w-wsj0045-001-p1s14W15</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0045-001-p1s14W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4941,7 +4941,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0045-001-p1s18W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5070,7 +5070,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-wsj0045-001-p1s19W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6315,7 +6315,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0045-001-p1s25W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6712,8 +6712,8 @@
 <LM>w#w-wsj0045-001-p1s26W26</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0045-001-p1s26W27-Ta">
 <src.rf>tagger-a</src.rf>

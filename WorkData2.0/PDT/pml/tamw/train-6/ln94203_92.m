@@ -327,8 +327,8 @@
 <LM>w#w-ln94203-92-p2s1w28</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94203-92-p2s1w29">
 <src.rf>manual</src.rf>
@@ -509,8 +509,8 @@
 <LM>w#w-ln94203-92-p2s2w12</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln94203-92-p2s2w13">
 <src.rf>manual</src.rf>
@@ -770,8 +770,8 @@
 <LM>w#w-ln94203-92-p2s2w41</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-92-p2s2w42">
 <src.rf>manual</src.rf>

@@ -2444,7 +2444,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1630-001-p1s11W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2872,8 +2872,8 @@
 <LM>w#w-wsj1630-001-p1s14W1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1630-001-p1s14W2-Ta">
 <src.rf>tagger-a</src.rf>

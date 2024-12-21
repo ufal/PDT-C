@@ -165,8 +165,8 @@
 <LM>w#w-lnd91303-054-p1s2w8</LM>
 </w.rf>
 <form>že</form>
-<lemma>že-1</lemma>
-<tag>J,-------------</tag>
+<lemma>že-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-054-p1s2w9">
 <src.rf>manual</src.rf>
@@ -367,8 +367,8 @@
 <LM>w#w-lnd91303-054-p2s1w12</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-054-p2s1w13">
 <src.rf>manual</src.rf>

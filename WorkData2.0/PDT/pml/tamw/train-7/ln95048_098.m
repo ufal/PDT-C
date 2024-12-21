@@ -184,7 +184,7 @@
 </w.rf>
 <form>Oberstdorfu</form>
 <lemma>Oberstdorf_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95048-098-p2s1w19">
 <src.rf>manual</src.rf>

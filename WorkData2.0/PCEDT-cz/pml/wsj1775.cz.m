@@ -843,8 +843,8 @@
 <LM>w#w-wsj1775-001-p1s4W9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1775-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -853,7 +853,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1775-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -906,8 +906,8 @@
 <LM>w#w-wsj1775-001-p1s4W16</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1775-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>

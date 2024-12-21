@@ -2551,7 +2551,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-140-p5s2w4">
 <src.rf>manual</src.rf>
@@ -3803,7 +3803,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-140-p6s1w9">
 <src.rf>manual</src.rf>
@@ -4408,7 +4408,7 @@
 </w.rf>
 <form>zachováni</form>
 <lemma>zachovat</lemma>
-<tag>VsMP----X-API--</tag>
+<tag>VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95044-140-p6s3w24">
 <src.rf>manual</src.rf>
@@ -4843,8 +4843,8 @@
 <LM>w#w-ln95044-140-p7s2w1</LM>
 </w.rf>
 <form>Jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-140-p7s2w2">
 <src.rf>manual</src.rf>

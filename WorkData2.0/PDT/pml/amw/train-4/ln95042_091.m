@@ -1415,7 +1415,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-091-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2361,8 +2361,8 @@
 <LM>w#w-ln95042-091-p7s3w16</LM>
 </w.rf>
 <form>uprostřed</form>
-<lemma>uprostřed-1</lemma>
-<tag>Db-------------</tag>
+<lemma>uprostřed-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95042-091-p7s3w17">
 <src.rf>manual</src.rf>
@@ -3362,7 +3362,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-091-p10s1w2">
 <src.rf>manual</src.rf>

@@ -414,8 +414,8 @@
 <LM>w#w-mf930713-070-p4s1w4</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-070-p4s1w5">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-070-p4s2w7">
 <src.rf>manual</src.rf>
@@ -722,8 +722,8 @@
 <LM>w#w-mf930713-070-p4s2w18</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf930713-070-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1505,8 +1505,8 @@
 <LM>w#w-mf930713-070-p6s1w12</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-070-p6s1w13">
 <src.rf>manual</src.rf>

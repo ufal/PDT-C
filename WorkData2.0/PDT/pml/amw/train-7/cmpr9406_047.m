@@ -3224,8 +3224,8 @@
 <LM>w#w-cmpr9406-047-p7s2w7</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9406-047-p7s2w8">
 <src.rf>manual</src.rf>
@@ -3407,7 +3407,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-047-p7s3w14">
 <src.rf>manual</src.rf>

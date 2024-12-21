@@ -1930,8 +1930,8 @@
 <LM>w#w-cmpr9407-008-p9s1w25</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-008-p9s1w26">
 <src.rf>manual</src.rf>
@@ -2225,7 +2225,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-008-p11s2w3">
 <src.rf>manual</src.rf>

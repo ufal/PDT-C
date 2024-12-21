@@ -295,8 +295,8 @@
 <LM>w#w-ln95049-089-p2s2w7</LM>
 </w.rf>
 <form>obviněný</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-089-p2s2w8">
 <src.rf>manual</src.rf>

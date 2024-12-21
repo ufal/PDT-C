@@ -2851,8 +2851,8 @@
 <LM>w#w-ln95044-063-p3s5w11</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95044-063-p3s5w12">
 <src.rf>manual</src.rf>
@@ -4008,7 +4008,7 @@
 <LM>w#w-ln95044-063-p4s6w1</LM>
 </w.rf>
 <form>Opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-063-p4s6w2">

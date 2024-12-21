@@ -28,8 +28,8 @@
 <LM>w#w-ln95045-083-p1s1w2</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-083-p1s1w3">
 <src.rf>manual</src.rf>
@@ -705,8 +705,8 @@
 <LM>w#w-ln95045-083-p2s4w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-083-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1249,8 +1249,8 @@
 <LM>w#w-ln95045-083-p2s6w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-083-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1649,8 +1649,8 @@
 <LM>w#w-ln95045-083-p2s8w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-083-p2s8w13">
 <src.rf>manual</src.rf>

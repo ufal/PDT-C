@@ -102,7 +102,7 @@
 <LM>w#w-lnd94103-089-p1s1Bw5</LM>
 </w.rf>
 <form>motocrossovou</form>
-<lemma>motocrossový</lemma>
+<lemma>motocrossový_,s_^(^DD**motokrosový)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-lnd94103-089-p1s1Bw6">
@@ -174,8 +174,8 @@
 <LM>w#w-lnd94103-089-p1s1Bw13</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-089-p1s1Bw14">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-089-p1s3w4">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 <LM>w#w-lnd94103-089-p1s11w17</LM>
 </w.rf>
 <form>Pennsylvanii</form>
-<lemma>Pennsylvanie_;G</lemma>
+<lemma>Pennsylvanie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94103-089-p1s11w18">
@@ -1622,8 +1622,8 @@
 <LM>w#w-lnd94103-089-p1s13w1</LM>
 </w.rf>
 <form>Jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-089-p1s13w2">
 <src.rf>manual</src.rf>
@@ -2620,8 +2620,8 @@
 <LM>w#w-lnd94103-089-p1s17w37</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-089-p1s17w38">
 <src.rf>manual</src.rf>
@@ -2710,8 +2710,8 @@
 <LM>w#w-lnd94103-089-p1s17w47</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-089-p1s17w48">
 <src.rf>manual</src.rf>
@@ -2865,8 +2865,8 @@
 <LM>w#w-lnd94103-089-p1s18w6</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94103-089-p1s18w7">
 <src.rf>manual</src.rf>
@@ -4416,8 +4416,8 @@
 <LM>w#w-lnd94103-089-p1s24Aw58</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-lnd94103-089-p1s24Aw59">
 <src.rf>manual</src.rf>
@@ -4553,8 +4553,8 @@
 <LM>w#w-lnd94103-089-p1s24Bw12</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-089-p1s24Bw13">
 <src.rf>manual</src.rf>
@@ -4989,8 +4989,8 @@
 <LM>w#w-lnd94103-089-p1s26w7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-089-p1s26w8">
 <src.rf>manual</src.rf>
@@ -5153,8 +5153,8 @@
 <LM>w#w-lnd94103-089-p1s27w1</LM>
 </w.rf>
 <form>Aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-089-p1s27w2">
 <src.rf>manual</src.rf>

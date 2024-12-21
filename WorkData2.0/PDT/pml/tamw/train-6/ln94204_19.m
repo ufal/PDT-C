@@ -183,8 +183,8 @@
 <LM>w#w-ln94204-19-p2s1w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-19-p2s1w14">
 <src.rf>manual</src.rf>
@@ -556,8 +556,8 @@
 <LM>w#w-ln94204-19-p3s1w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-19-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1342,8 +1342,8 @@
 <LM>w#w-ln94204-19-p6s2w9</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>s-1</lemma>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-ln94204-19-p6s2w10">
 <src.rf>manual</src.rf>
@@ -1351,8 +1351,8 @@
 <LM>w#w-ln94204-19-p6s2w10</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln94204-19-p6s2w11">
 <src.rf>manual</src.rf>
@@ -1524,8 +1524,8 @@
 <LM>w#w-ln94204-19-p7s1w13</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-19-p7s1w14">
 <src.rf>manual</src.rf>

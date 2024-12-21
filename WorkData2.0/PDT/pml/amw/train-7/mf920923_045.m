@@ -722,8 +722,8 @@
 <LM>w#w-mf920923-045-p2s5w9</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920923-045-p2s5w10">
 <src.rf>manual</src.rf>
@@ -859,8 +859,8 @@
 <LM>w#w-mf920923-045-p2s6w13</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-045-p2s6w14">
 <src.rf>manual</src.rf>

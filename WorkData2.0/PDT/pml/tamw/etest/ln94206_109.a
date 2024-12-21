@@ -18,7 +18,7 @@
 <children>
 <LM id="a-ln94206-109-p1s1w1">
 <m.rf>m#m-ln94206-109-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -163,6 +163,11 @@
 </children>
 </LM>
 </children>
+<comments>
+<LM type="Other">
+<text>výjimka: Invalid Sb case</text>
+</LM>
+</comments>
 </LM>
 </children>
 </LM>
@@ -244,7 +249,7 @@
 <children>
 <LM id="a-ln94206-109-p1s4w1">
 <m.rf>m#m-ln94206-109-p1s4w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>

@@ -1647,8 +1647,8 @@
 <LM>w#w-wsj0087-001-p1s13W22</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0087-001-p1s13W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1920,7 +1920,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0087-001-p1s14W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1983,7 +1983,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0087-001-p1s14W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2277,7 +2277,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0087-001-p1s17W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2860,7 +2860,7 @@
 </w.rf>
 <form>Každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj0087-001-p1s20W2-Ta">
 <src.rf>tagger-a</src.rf>

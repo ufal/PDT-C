@@ -1889,7 +1889,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-046-p7s1w28">
 <src.rf>manual</src.rf>
@@ -2007,8 +2007,8 @@
 <LM>w#w-vesm9301-046-p7s2w2</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9301-046-p7s2w3">
 <src.rf>manual</src.rf>
@@ -6870,7 +6870,7 @@
 <LM>w#w-vesm9301-046-p12s3w9</LM>
 </w.rf>
 <form>korových</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-vesm9301-046-p12s3w10">
@@ -6988,7 +6988,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-046-p12s3w23">
 <src.rf>manual</src.rf>
@@ -7023,7 +7023,7 @@
 <LM>w#w-vesm9301-046-p12s3w26</LM>
 </w.rf>
 <form>korové</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-vesm9301-046-p12s3w27">
@@ -7529,7 +7529,7 @@
 <LM>w#w-vesm9301-046-p13s1w38</LM>
 </w.rf>
 <form>korové</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-vesm9301-046-p13s1w39">
@@ -8392,7 +8392,7 @@
 <LM>w#w-vesm9301-046-p14s3w31</LM>
 </w.rf>
 <form>korových</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP6----1A----</tag>
 </m>
 <m id="m-vesm9301-046-p14s3w32">
@@ -8844,7 +8844,7 @@
 <LM>w#w-vesm9301-046-p14s4w33</LM>
 </w.rf>
 <form>korových</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP6----1A----</tag>
 </m>
 <m id="m-vesm9301-046-p14s4w34">
@@ -9181,7 +9181,7 @@
 <LM>w#w-vesm9301-046-p14s6w3</LM>
 </w.rf>
 <form>korové</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-vesm9301-046-p14s6w4">
@@ -9754,8 +9754,8 @@
 <LM>w#w-vesm9301-046-p16s1w25</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-vesm9301-046-p16s1w26">
 <src.rf>manual</src.rf>
@@ -13443,7 +13443,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-046-p19s2w40">
 <src.rf>manual</src.rf>
@@ -17529,7 +17529,7 @@
 </w.rf>
 <form>pohledu</form>
 <lemma>pohled</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9301-046-p26s3w17">
 <src.rf>manual</src.rf>
@@ -18123,8 +18123,8 @@
 <LM>w#w-vesm9301-046-p28s1w8</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-vesm9301-046-p28s1w9">
 <src.rf>manual</src.rf>
@@ -18325,8 +18325,8 @@
 <LM>w#w-vesm9301-046-p28s3w1</LM>
 </w.rf>
 <form>Počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-vesm9301-046-p28s3w2">
 <src.rf>manual</src.rf>
@@ -20127,7 +20127,7 @@
 <LM>w#w-vesm9301-046-p29s1w17</LM>
 </w.rf>
 <form>korové</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-vesm9301-046-p29s1w18">
@@ -21784,7 +21784,7 @@
 </w.rf>
 <form>aktivovalo</form>
 <lemma>aktivovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-vesm9301-046-p29s10w12">
 <src.rf>manual</src.rf>
@@ -21792,7 +21792,7 @@
 <LM>w#w-vesm9301-046-p29s10w12</LM>
 </w.rf>
 <form>korové</form>
-<lemma>korový</lemma>
+<lemma>korový_,s_^(^DD**kůrový)</lemma>
 <tag>AAFP4----1A----</tag>
 </m>
 <m id="m-vesm9301-046-p29s10w13">
@@ -21930,7 +21930,7 @@
 </w.rf>
 <form>aktivovalo</form>
 <lemma>aktivovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-vesm9301-046-p29s11w5">
 <src.rf>manual</src.rf>
@@ -22157,7 +22157,7 @@
 </w.rf>
 <form>aktivovalo</form>
 <lemma>aktivovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-vesm9301-046-p29s12w4">
 <src.rf>manual</src.rf>
@@ -22602,7 +22602,7 @@
 </w.rf>
 <form>aktivovala</form>
 <lemma>aktivovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-vesm9301-046-p29s14w14">
 <src.rf>manual</src.rf>
@@ -26150,8 +26150,8 @@
 <LM>w#w-vesm9301-046-p33s10w10</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-046-p33s10w11">
 <src.rf>manual</src.rf>

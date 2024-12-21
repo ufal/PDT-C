@@ -358,8 +358,8 @@
 <LM>w#w-es_03-SCzechM-p0202-s1-w1</LM>
 </w.rf>
 <form>Ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_03-SCzechM-p0202-s1-w2">
 <w.rf>
@@ -536,8 +536,8 @@
 <LM>w#w-es_03-SCzechM-p0206-s1-w9</LM>
 </w.rf>
 <form>aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_03-SCzechM-p0206-s1-w10">
 <w.rf>
@@ -844,8 +844,8 @@
 <LM>w#w-es_03-SCzechM-p0211-s1-w11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_03-SCzechM-p0211-s1-w12">
 <w.rf>
@@ -951,7 +951,7 @@
 </w.rf>
 <form>kontaktoval</form>
 <lemma>kontaktovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 </s>
 <s id="s-es_03-SCzechM-p0215-s1-w4">
@@ -1443,7 +1443,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="es_03-SCzechM-p0232-s1-w12">
 <w.rf>
@@ -1539,7 +1539,7 @@
 </w.rf>
 <form>srdce</form>
 <lemma>srdce</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="es_03-SCzechM-p0232-s1-w24">
 <w.rf>
@@ -2177,8 +2177,8 @@
 <LM>w#w-es_03-SCzechM-p0247-s1-w20</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_03-SCzechM-p0247-s1-w21">
 <w.rf>
@@ -2331,8 +2331,8 @@
 <LM>w#w-es_03-SCzechM-p0248-s1-w5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_03-SCzechM-p0248-s1-w6">
 <w.rf>
@@ -3108,7 +3108,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 </s>
 <s id="s-es_03-SCzechM-p0272-s1-w2">
@@ -3316,7 +3316,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_03-SCzechM-p0282-s1-w4">
 <w.rf>
@@ -3393,8 +3393,8 @@
 <LM>w#w-es_03-SCzechM-p0288-s1-w1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_03-SCzechM-p0288-s1-w2">
 <w.rf>
@@ -3535,8 +3535,8 @@
 <LM>w#w-es_03-SCzechM-p0298-s1-w1</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_03-SCzechM-p0298-s1-w2">
 <w.rf>
@@ -3561,8 +3561,8 @@
 <LM>w#w-es_03-SCzechM-p0302-s1-w2</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 </s>
 <s id="s-es_03-SCzechM-p0308-s1-w2">

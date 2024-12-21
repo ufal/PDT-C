@@ -1533,7 +1533,7 @@
 </w.rf>
 <form>Přísnější</form>
 <lemma>přísný</lemma>
-<tag>AAIS4----2A----</tag>
+<tag>AAIS1----2A----</tag>
 </m>
 <m id="m-cmpr9416-020-p15s1w2">
 <src.rf>manual</src.rf>
@@ -1542,7 +1542,7 @@
 </w.rf>
 <form>metr</form>
 <lemma>metr</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p15s1w3">
 <src.rf>manual</src.rf>
@@ -4097,7 +4097,7 @@
 </w.rf>
 <form>vydávání</form>
 <lemma>vydávání_^(*3at)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p21s3w6">
 <src.rf>manual</src.rf>
@@ -5061,7 +5061,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-020-p24s2w18">
 <src.rf>manual</src.rf>
@@ -5957,7 +5957,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-020-p27s3w8">
 <src.rf>manual</src.rf>
@@ -7965,7 +7965,7 @@
 <LM>w#w-cmpr9416-020-p31s1w18</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať</lemma>
+<lemma>ať-3</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-020-p31s1w19">

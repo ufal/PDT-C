@@ -830,8 +830,8 @@
 <LM>w#w-ln94210-144-p2s4w24</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-144-p2s4w25">
 <src.rf>manual</src.rf>
@@ -904,8 +904,8 @@
 <LM>w#w-ln94210-144-p2s5w2</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-144-p2s5w3">
 <src.rf>manual</src.rf>

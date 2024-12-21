@@ -1001,7 +1001,7 @@
 <LM>w#w-ln95047-102-p4s2w10</LM>
 </w.rf>
 <form>Jazzová</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-ln95047-102-p4s2w11">
@@ -1056,7 +1056,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-102-p4s2w17">
 <src.rf>manual</src.rf>

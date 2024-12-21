@@ -259,7 +259,7 @@
 </w.rf>
 <form>podmínky</form>
 <lemma>podmínka</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="es_07-SCzechM-p0649-s1-w17">
 <w.rf>
@@ -742,8 +742,8 @@
 <LM>w#w-es_07-SCzechM-p0654-s1-w42</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_07-SCzechM-p0654-s1-w43">
 <w.rf>
@@ -774,8 +774,8 @@
 <LM>w#w-es_07-SCzechM-p0654-s1-w46</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_07-SCzechM-p0654-s1-w47">
 <w.rf>
@@ -859,7 +859,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_07-SCzechM-p0660-s1-w3">
 <w.rf>
@@ -1081,7 +1081,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="es_07-SCzechM-p0673-s1-w2">
 <w.rf>
@@ -1258,8 +1258,8 @@
 <LM>w#w-es_07-SCzechM-p0677-s1-w18</LM>
 </w.rf>
 <form>Právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_07-SCzechM-p0677-s1-w19">
 <w.rf>
@@ -2162,8 +2162,8 @@
 <LM>w#w-es_07-SCzechM-p0696-s1-w28</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_07-SCzechM-p0696-s1-w29">
 <w.rf>
@@ -3124,8 +3124,8 @@
 <LM>w#w-es_07-SCzechM-p0711-s1-w6</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="es_07-SCzechM-p0711-s1-w7">
 <w.rf>
@@ -3816,7 +3816,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_07-SCzechM-p0731-s1-w3">
 <w.rf>
@@ -4016,7 +4016,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_07-SCzechM-p0735-s1-w5">
 <w.rf>

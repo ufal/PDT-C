@@ -1126,8 +1126,8 @@
 <LM>w#w-mf930713-080-p3s5w2</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-080-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-080-p3s6w4">
 <src.rf>manual</src.rf>

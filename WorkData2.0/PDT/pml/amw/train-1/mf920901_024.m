@@ -515,7 +515,7 @@
 <LM>w#w-mf920901-024-p2s4w3</LM>
 </w.rf>
 <form>nesehnali</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf920901-024-p2s4w4">
@@ -779,7 +779,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-024-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1497,8 +1497,8 @@
 <LM>w#w-mf920901-024-p2s9w3</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920901-024-p2s9w4">
 <src.rf>manual</src.rf>

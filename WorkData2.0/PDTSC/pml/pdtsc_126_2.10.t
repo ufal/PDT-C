@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
  <head>
-  <schema href="tdata_c_schema.xml" />
+  <schema href="tdata_c2_schema.xml" />
   <references>
    <reffile id="a" name="adata" href="pdtsc_126_2.10.a" />
-   <reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+   <reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
   </references>
  </head>
+ <meta/>
  <trees>
   <LM id="es_127.10-SCzechT-es_127-306-root">
    <atree.rf>a#es_127.10-SCzechA-es_127-306-root</atree.rf>
@@ -19,6 +20,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>být</t_lemma>
      <functor>PRED</functor>
+     <proto_lemma>být</proto_lemma>
      <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
@@ -31,7 +33,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>3</deepord>
-     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <val_frame.rf>v#v41jsM</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2176-2">
        <a>
@@ -55,6 +57,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>takový</t_lemma>
          <functor>RSTR</functor>
+         <proto_lemma>takový</proto_lemma>
          <gram>
           <sempos>adj.pron.def.demon</sempos>
           <gender>anim</gender>
@@ -71,6 +74,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>ten</t_lemma>
        <functor>ACT</functor>
+       <proto_lemma>ten</proto_lemma>
        <gram>
         <sempos>n.pron.def.demon</sempos>
         <gender>neut</gender>
@@ -94,6 +98,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>mít</t_lemma>
      <functor>PRED</functor>
+     <proto_lemma>mít</proto_lemma>
      <sentmod>inter</sentmod>
      <gram>
       <sempos>v</sempos>
@@ -106,8 +111,23 @@
       <negation>neg0</negation>
      </gram>
      <deepord>3</deepord>
-     <val_frame.rf>v#v-w1855f2</val_frame.rf>
+     <val_frame.rf>v#v41chlI</val_frame.rf>
      <children>
+      <LM id="es_127.10-SCzechT-m-d1t2178-1">
+       <a>
+        <lex.rf>a#es_127.10-SCzechA-m-d1t2178-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>kolik</t_lemma>
+       <functor>EFF</functor>
+       <proto_lemma>kolik</proto_lemma>
+       <gram>
+        <sempos>adj.quant.indef</sempos>
+        <indeftype>inter</indeftype>
+        <numertype>basic</numertype>
+       </gram>
+       <deepord>1</deepord>
+      </LM>
       <LM id="es_127.10-SCzechT-m-d1t2178-2x3">
        <nodetype>complex</nodetype>
        <is_generated>1</is_generated>
@@ -133,22 +153,6 @@
         <negation>neg0</negation>
        </gram>
        <deepord>4</deepord>
-       <children>
-        <LM id="es_127.10-SCzechT-m-d1t2178-1">
-         <a>
-          <lex.rf>a#es_127.10-SCzechA-m-d1t2178-1</lex.rf>
-         </a>
-         <nodetype>complex</nodetype>
-         <t_lemma>kolik</t_lemma>
-         <functor>RSTR</functor>
-         <gram>
-          <sempos>adj.quant.indef</sempos>
-          <indeftype>inter</indeftype>
-          <numertype>basic</numertype>
-         </gram>
-         <deepord>1</deepord>
-        </LM>
-       </children>
       </LM>
      </children>
     </LM>
@@ -174,6 +178,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>mít</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>mít</proto_lemma>
        <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
@@ -187,7 +192,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>3</deepord>
-       <val_frame.rf>v#v-w1855f2</val_frame.rf>
+       <val_frame.rf>v#v41chlI</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2185-1">
          <a>
@@ -209,23 +214,6 @@
            <type>SPEC</type>
           </LM>
          </coref_text>
-         <children>
-          <LM id="es_127.10-SCzechT-m-d1t2185-3">
-           <a>
-            <lex.rf>a#es_127.10-SCzechA-m-d1t2185-3</lex.rf>
-           </a>
-           <nodetype>complex</nodetype>
-           <t_lemma>pět</t_lemma>
-           <functor>RSTR</functor>
-           <gram>
-            <sempos>n.quant.def</sempos>
-            <gender>nr</gender>
-            <number>pl</number>
-            <numertype>basic</numertype>
-           </gram>
-           <deepord>5</deepord>
-          </LM>
-         </children>
         </LM>
         <LM id="es_127.10-SCzechT-m-d1e2180-x2-309x3">
          <nodetype>complex</nodetype>
@@ -256,6 +244,28 @@
          </gram>
          <deepord>4</deepord>
         </LM>
+        <LM id="es_127.10-SCzechT-m-d1t2185-3">
+         <a>
+          <lex.rf>a#es_127.10-SCzechA-m-d1t2185-3</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>pět</t_lemma>
+         <functor>EFF</functor>
+         <proto_lemma>pět</proto_lemma>
+         <gram>
+          <sempos>n.quant.def</sempos>
+          <gender>nr</gender>
+          <number>pl</number>
+          <numertype>basic</numertype>
+         </gram>
+         <deepord>5</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>es_127.10-SCzechT-m-d1t2178-1</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
        </children>
       </LM>
       <LM id="es_127.10-SCzechT-m-d1t2185-10">
@@ -266,8 +276,19 @@
        <t_lemma>a</t_lemma>
        <functor>CONJ</functor>
        <is_member>1</is_member>
-       <deepord>12</deepord>
+       <deepord>13</deepord>
        <children>
+        <LM id="es_127.10-SCzechT-m-d1t2185-13x3">
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+         </gram>
+         <deepord>7</deepord>
+         <coref_special>exoph</coref_special>
+        </LM>
         <LM id="es_127.10-SCzechT-m-d1t2185-7">
          <a>
           <lex.rf>a#es_127.10-SCzechA-m-d1t2185-7</lex.rf>
@@ -275,6 +296,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>mít</t_lemma>
          <functor>PRED</functor>
+         <proto_lemma>mít</proto_lemma>
          <sentmod>enunc</sentmod>
          <is_member>1</is_member>
          <gram>
@@ -287,9 +309,43 @@
           <person>1</person>
           <negation>neg0</negation>
          </gram>
-         <deepord>9</deepord>
-         <val_frame.rf>v#v-w1855f2</val_frame.rf>
+         <deepord>10</deepord>
+         <val_frame.rf>v#v41chlF</val_frame.rf>
          <children>
+          <LM id="es_127.10-SCzechT-m-d1e2180-x2-382">
+           <a>
+            <lex.rf>a#es_127.10-SCzechA-m-d1e2180-x2-382</lex.rf>
+            <aux.rf>
+             <LM>a#es_127.10-SCzechA-m-d1t2185-5</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>syn</t_lemma>
+           <functor>ORIG</functor>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>anim</gender>
+            <number>sg</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>9</deepord>
+           <children>
+            <LM id="es_127.10-SCzechT-m-d1t2185-6">
+             <a>
+              <lex.rf>a#es_127.10-SCzechA-m-d1t2185-6</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>starý</t_lemma>
+             <functor>RSTR</functor>
+             <gram>
+              <sempos>adj.denot</sempos>
+              <degcmp>comp</degcmp>
+              <negation>neg0</negation>
+             </gram>
+             <deepord>8</deepord>
+            </LM>
+           </children>
+          </LM>
           <LM id="es_127.10-SCzechT-m-d1t2185-9">
            <a>
             <lex.rf>a#es_127.10-SCzechA-m-d1t2185-9</lex.rf>
@@ -303,42 +359,8 @@
             <number>pl</number>
             <negation>neg0</negation>
            </gram>
-           <deepord>11</deepord>
+           <deepord>12</deepord>
            <children>
-            <LM id="es_127.10-SCzechT-m-d1e2180-x2-382">
-             <a>
-              <lex.rf>a#es_127.10-SCzechA-m-d1e2180-x2-382</lex.rf>
-              <aux.rf>
-               <LM>a#es_127.10-SCzechA-m-d1t2185-5</LM>
-              </aux.rf>
-             </a>
-             <nodetype>complex</nodetype>
-             <t_lemma>syn</t_lemma>
-             <functor>RSTR</functor>
-             <gram>
-              <sempos>n.denot</sempos>
-              <gender>anim</gender>
-              <number>sg</number>
-              <negation>neg0</negation>
-             </gram>
-             <deepord>8</deepord>
-             <children>
-              <LM id="es_127.10-SCzechT-m-d1t2185-6">
-               <a>
-                <lex.rf>a#es_127.10-SCzechA-m-d1t2185-6</lex.rf>
-               </a>
-               <nodetype>complex</nodetype>
-               <t_lemma>starý</t_lemma>
-               <functor>RSTR</functor>
-               <gram>
-                <sempos>adj.denot</sempos>
-                <degcmp>comp</degcmp>
-                <negation>neg0</negation>
-               </gram>
-               <deepord>7</deepord>
-              </LM>
-             </children>
-            </LM>
             <LM id="es_127.10-SCzechT-m-d1t2185-8">
              <a>
               <lex.rf>a#es_127.10-SCzechA-m-d1t2185-8</lex.rf>
@@ -346,28 +368,18 @@
              <nodetype>complex</nodetype>
              <t_lemma>tři</t_lemma>
              <functor>RSTR</functor>
+             <proto_lemma>tři</proto_lemma>
              <gram>
               <sempos>n.quant.def</sempos>
               <gender>nr</gender>
               <number>pl</number>
               <numertype>basic</numertype>
              </gram>
-             <deepord>10</deepord>
+             <deepord>11</deepord>
             </LM>
            </children>
           </LM>
          </children>
-        </LM>
-        <LM id="es_127.10-SCzechT-m-d1t2185-13x3">
-         <nodetype>complex</nodetype>
-         <is_generated>1</is_generated>
-         <t_lemma>#PersPron</t_lemma>
-         <functor>ACT</functor>
-         <gram>
-          <sempos>n.pron.def.pers</sempos>
-         </gram>
-         <deepord>13</deepord>
-         <coref_special>exoph</coref_special>
         </LM>
         <LM id="es_127.10-SCzechT-m-d1t2185-13">
          <a>
@@ -376,6 +388,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>mít</t_lemma>
          <functor>PRED</functor>
+         <proto_lemma>mít</proto_lemma>
          <sentmod>enunc</sentmod>
          <is_member>1</is_member>
          <gram>
@@ -389,8 +402,55 @@
           <negation>neg0</negation>
          </gram>
          <deepord>15</deepord>
-         <val_frame.rf>v#v-w1855f2</val_frame.rf>
+         <discourse>
+          <LM>
+           <target_node.rf>es_127.10-SCzechT-m-d1t2185-7</target_node.rf>
+           <type>discourse</type>
+           <start_range>0</start_range>
+           <target_range>0</target_range>
+           <discourse_type>conj</discourse_type>
+           <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+           <comment>PHASE:1</comment>
+           <src>A_H_A</src>
+           <t-connectors.rf>
+            <LM>es_127.10-SCzechT-m-d1t2185-10</LM>
+           </t-connectors.rf>
+          </LM>
+         </discourse>
+         <val_frame.rf>v#v41chlF</val_frame.rf>
          <children>
+          <LM id="es_127.10-SCzechT-es_127-d1e2180-x2-roota2">
+           <a>
+            <lex.rf>a#es_127.10-SCzechA-m-d1e2180-x2-382</lex.rf>
+            <aux.rf>
+             <LM>a#es_127.10-SCzechA-m-d1t2185-11</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <is_generated>1</is_generated>
+           <t_lemma>syn</t_lemma>
+           <functor>ORIG</functor>
+           <gram>
+            <sempos>n.denot</sempos>
+           </gram>
+           <deepord>16</deepord>
+           <children>
+            <LM id="es_127.10-SCzechT-m-d1t2185-12">
+             <a>
+              <lex.rf>a#es_127.10-SCzechA-m-d1t2185-12</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>mladý</t_lemma>
+             <functor>RSTR</functor>
+             <gram>
+              <sempos>adj.denot</sempos>
+              <degcmp>comp</degcmp>
+              <negation>neg0</negation>
+             </gram>
+             <deepord>14</deepord>
+            </LM>
+           </children>
+          </LM>
           <LM id="es_127.10-SCzechT-m-d1t2185-15">
            <a>
             <lex.rf>a#es_127.10-SCzechA-m-d1t2185-15</lex.rf>
@@ -404,25 +464,8 @@
             <number>pl</number>
             <negation>neg0</negation>
            </gram>
-           <deepord>17</deepord>
+           <deepord>18</deepord>
            <children>
-            <LM id="es_127.10-SCzechT-m-d1t2185-12">
-             <a>
-              <lex.rf>a#es_127.10-SCzechA-m-d1t2185-12</lex.rf>
-              <aux.rf>
-               <LM>a#es_127.10-SCzechA-m-d1t2185-11</LM>
-              </aux.rf>
-             </a>
-             <nodetype>complex</nodetype>
-             <t_lemma>mladý</t_lemma>
-             <functor>DIR1</functor>
-             <gram>
-              <sempos>adj.denot</sempos>
-              <degcmp>comp</degcmp>
-              <negation>neg0</negation>
-             </gram>
-             <deepord>14</deepord>
-            </LM>
             <LM id="es_127.10-SCzechT-m-d1t2185-14">
              <a>
               <lex.rf>a#es_127.10-SCzechA-m-d1t2185-14</lex.rf>
@@ -430,13 +473,14 @@
              <nodetype>complex</nodetype>
              <t_lemma>dva</t_lemma>
              <functor>RSTR</functor>
+             <proto_lemma>dva</proto_lemma>
              <gram>
               <sempos>n.quant.def</sempos>
               <gender>nr</gender>
               <number>pl</number>
               <numertype>basic</numertype>
              </gram>
-             <deepord>16</deepord>
+             <deepord>17</deepord>
             </LM>
            </children>
           </LM>
@@ -481,7 +525,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>8</deepord>
-       <val_frame.rf>v#v-w1179f1</val_frame.rf>
+       <val_frame.rf>v#v41bbiI</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-es_127-380-roota1">
          <a>
@@ -515,6 +559,7 @@
              <nodetype>complex</nodetype>
              <t_lemma>ten</t_lemma>
              <functor>RSTR</functor>
+             <proto_lemma>ten</proto_lemma>
              <gram>
               <sempos>n.pron.def.demon</sempos>
               <gender>fem</gender>
@@ -628,6 +673,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>chodit</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -640,7 +686,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>12</deepord>
-       <val_frame.rf>v#v-w1179f1</val_frame.rf>
+       <val_frame.rf>v#v41bbiI</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2189-19">
          <a>
@@ -700,6 +746,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>chodit</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -712,7 +759,22 @@
         <negation>neg0</negation>
        </gram>
        <deepord>18</deepord>
-       <val_frame.rf>v#v-w1179f1</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2189-21</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>conj</discourse_type>
+         <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+         <comment>PHASE:1</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2189-24</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41bbiI</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2189-26">
          <a>
@@ -756,6 +818,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>teď</t_lemma>
          <functor>TWHEN</functor>
+         <proto_lemma>teď</proto_lemma>
          <gram>
           <sempos>adv.pron.def</sempos>
          </gram>
@@ -825,7 +888,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w3818f1</val_frame.rf>
+     <val_frame.rf>v#v41gdxB</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2193-1x3">
        <nodetype>complex</nodetype>
@@ -887,7 +950,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>4</deepord>
-       <val_frame.rf>v#v-w6483f1</val_frame.rf>
+       <val_frame.rf>v#v41licA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-es_127-d1e2190-x2-roota1">
          <nodetype>qcomplex</nodetype>
@@ -949,7 +1012,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>3</deepord>
-     <val_frame.rf>v#v-w6234f1</val_frame.rf>
+     <val_frame.rf>v#v41kwuA</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2197-5">
        <a>
@@ -1029,7 +1092,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>3</deepord>
-       <val_frame.rf>v#v-w4096f1</val_frame.rf>
+       <val_frame.rf>v#v41grpC</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2199-2">
          <a>
@@ -1103,12 +1166,13 @@
          <is_generated>1</is_generated>
          <t_lemma>potřebovat</t_lemma>
          <functor>PRED</functor>
+         <sentmod>enunc</sentmod>
          <is_member>1</is_member>
          <gram>
           <sempos>v</sempos>
          </gram>
          <deepord>8</deepord>
-         <val_frame.rf>v#v-w4096f1</val_frame.rf>
+         <val_frame.rf>v#v41grpC</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-m-d1t2199-8">
            <a>
@@ -1163,6 +1227,7 @@
            <nodetype>complex</nodetype>
            <t_lemma>tolik</t_lemma>
            <functor>EXT</functor>
+           <proto_lemma>tolik</proto_lemma>
            <gram>
             <sempos>adj.quant.def</sempos>
             <numertype>basic</numertype>
@@ -1187,6 +1252,8 @@
          <nodetype>complex</nodetype>
          <t_lemma>být</t_lemma>
          <functor>PRED</functor>
+         <proto_lemma>být</proto_lemma>
+         <sentmod>enunc</sentmod>
          <is_member>1</is_member>
          <gram>
           <sempos>v</sempos>
@@ -1199,7 +1266,7 @@
           <negation>neg1</negation>
          </gram>
          <deepord>16</deepord>
-         <val_frame.rf>v#v-w243f2</val_frame.rf>
+         <val_frame.rf>v#v41jsU</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-m-d1t2201-4">
            <a>
@@ -1226,6 +1293,7 @@
              <nodetype>complex</nodetype>
              <t_lemma>ten</t_lemma>
              <functor>RSTR</functor>
+             <proto_lemma>ten</proto_lemma>
              <gram>
               <sempos>n.pron.def.demon</sempos>
               <gender>nr</gender>
@@ -1246,6 +1314,7 @@
              <nodetype>complex</nodetype>
              <t_lemma>takový</t_lemma>
              <functor>RSTR</functor>
+             <proto_lemma>takový</proto_lemma>
              <gram>
               <sempos>adj.pron.def.demon</sempos>
               <gender>inan</gender>
@@ -1290,6 +1359,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>být</proto_lemma>
        <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
@@ -1303,14 +1373,14 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w243f2</val_frame.rf>
+       <val_frame.rf>v#v41jsU</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2201-9">
          <a>
           <lex.rf>a#es_127.10-SCzechA-m-d1t2201-9</lex.rf>
          </a>
          <nodetype>atom</nodetype>
-         <t_lemma>ten</t_lemma>
+         <t_lemma>to</t_lemma>
          <functor>INTF</functor>
          <deepord>1</deepord>
         </LM>
@@ -1371,6 +1441,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>být</proto_lemma>
        <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
@@ -1384,7 +1455,22 @@
         <negation>neg0</negation>
        </gram>
        <deepord>9</deepord>
-       <val_frame.rf>v#v-w243f194_MM</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2201-10</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>conj</discourse_type>
+         <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+         <comment>PHASE:1</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2201-13</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41jsCV</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2201-16">
          <a>
@@ -1393,6 +1479,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>ACT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -1462,7 +1549,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w202f11</val_frame.rf>
+     <val_frame.rf>v#v41hsN</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2207-1x3">
        <nodetype>complex</nodetype>
@@ -1567,7 +1654,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w6234f1</val_frame.rf>
+     <val_frame.rf>v#v41kwuA</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2211-1x3">
        <nodetype>complex</nodetype>
@@ -1628,6 +1715,8 @@
        <nodetype>complex</nodetype>
        <t_lemma>jezdit</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>jezdit</proto_lemma>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -1638,7 +1727,22 @@
         <negation>neg0</negation>
        </gram>
        <deepord>6</deepord>
-       <val_frame.rf>v#v-w1328f1</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2213-13</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>reason</discourse_type>
+         <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
+         <comment>PHASE:2 MANUAL</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2213-10</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41bhxG</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2213-1">
          <a>
@@ -1647,6 +1751,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>teď</t_lemma>
          <functor>TWHEN</functor>
+         <proto_lemma>teď</proto_lemma>
          <gram>
           <sempos>adv.pron.def</sempos>
          </gram>
@@ -1681,6 +1786,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>ACT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>anim</gender>
@@ -1746,6 +1852,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>začít</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -1758,7 +1865,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>12</deepord>
-       <val_frame.rf>v#v-w8756f1</val_frame.rf>
+       <val_frame.rf>v#v41prbA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2213-11">
          <a>
@@ -1767,6 +1874,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>teď</t_lemma>
          <functor>TWHEN</functor>
+         <proto_lemma>teď</proto_lemma>
          <gram>
           <sempos>adv.pron.def</sempos>
          </gram>
@@ -1792,6 +1900,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>jezdit</t_lemma>
          <functor>PAT</functor>
+         <proto_lemma>jezdit</proto_lemma>
          <gram>
           <sempos>v</sempos>
           <deontmod>decl</deontmod>
@@ -1801,7 +1910,7 @@
           <negation>neg0</negation>
          </gram>
          <deepord>13</deepord>
-         <val_frame.rf>v#v-w1328f1</val_frame.rf>
+         <val_frame.rf>v#v41bhxG</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-es_127-421-roota3">
            <nodetype>qcomplex</nodetype>
@@ -1879,6 +1988,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>jezdit</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>jezdit</proto_lemma>
        <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
@@ -1892,7 +2002,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>3</deepord>
-       <val_frame.rf>v#v-w1328f1</val_frame.rf>
+       <val_frame.rf>v#v41bhxG</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2213-21">
          <a>
@@ -1901,8 +2011,9 @@
          <nodetype>complex</nodetype>
          <t_lemma>posledně</t_lemma>
          <functor>TWHEN</functor>
+         <proto_lemma>poslední</proto_lemma>
          <gram>
-          <sempos>adv.denot.grad.neg</sempos>
+          <sempos>adj.denot</sempos>
           <degcmp>pos</degcmp>
           <negation>neg0</negation>
          </gram>
@@ -1947,6 +2058,7 @@
            <nodetype>complex</nodetype>
            <t_lemma>dva</t_lemma>
            <functor>MANN</functor>
+           <proto_lemma>dva</proto_lemma>
            <is_member>1</is_member>
            <gram>
             <sempos>n.quant.def</sempos>
@@ -1966,6 +2078,7 @@
            <nodetype>complex</nodetype>
            <t_lemma>ten</t_lemma>
            <functor>ACMP</functor>
+           <proto_lemma>ten</proto_lemma>
            <is_member>1</is_member>
            <gram>
             <sempos>n.pron.def.demon</sempos>
@@ -2007,6 +2120,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>umět</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -2019,7 +2133,7 @@
         <negation>neg1</negation>
        </gram>
        <deepord>17</deepord>
-       <val_frame.rf>v#v-w7146f1</val_frame.rf>
+       <val_frame.rf>v#v41monA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2219-1">
          <a>
@@ -2049,6 +2163,8 @@
            <nodetype>complex</nodetype>
            <t_lemma>říkat</t_lemma>
            <functor>PAR</functor>
+           <proto_lemma>říkat</proto_lemma>
+           <sentmod>enunc</sentmod>
            <is_parenthesis>1</is_parenthesis>
            <gram>
             <sempos>v</sempos>
@@ -2061,7 +2177,7 @@
             <negation>neg0</negation>
            </gram>
            <deepord>12</deepord>
-           <val_frame.rf>v#v-w5882f6</val_frame.rf>
+           <val_frame.rf>v#v41kejI</val_frame.rf>
            <children>
             <LM id="es_127.10-SCzechT-m-d1t2219-3">
              <a>
@@ -2070,12 +2186,19 @@
              <nodetype>complex</nodetype>
              <t_lemma>jak</t_lemma>
              <functor>MANN</functor>
+             <proto_lemma>jak</proto_lemma>
              <is_parenthesis>1</is_parenthesis>
              <gram>
               <sempos>adv.pron.indef</sempos>
               <indeftype>inter</indeftype>
              </gram>
              <deepord>11</deepord>
+             <coref_text>
+              <LM>
+               <target_node.rf>es_127.10-SCzechT-m-d1t2219-1</target_node.rf>
+               <type>SPEC</type>
+              </LM>
+             </coref_text>
             </LM>
             <LM id="es_127.10-SCzechT-es_127-424-roota3">
              <nodetype>complex</nodetype>
@@ -2121,6 +2244,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>PAT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -2193,7 +2317,23 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w732f6</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-429-220</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>f_reason</discourse_type>
+         <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
+         <sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
+         <comment>PHASE:3 RETYPED reason->f_reason</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2222-15</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41afvA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2222-1x3">
          <nodetype>complex</nodetype>
@@ -2248,7 +2388,7 @@
           <negation>neg0</negation>
          </gram>
          <deepord>4</deepord>
-         <val_frame.rf>v#v-w2284f1</val_frame.rf>
+         <val_frame.rf>v#v41dfiA</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-es_127-429-roota2">
            <nodetype>qcomplex</nodetype>
@@ -2267,6 +2407,7 @@
            <nodetype>complex</nodetype>
            <t_lemma>jezdit</t_lemma>
            <functor>PAT</functor>
+           <proto_lemma>jezdit</proto_lemma>
            <gram>
             <sempos>v</sempos>
             <deontmod>decl</deontmod>
@@ -2276,7 +2417,7 @@
             <negation>neg0</negation>
            </gram>
            <deepord>6</deepord>
-           <val_frame.rf>v#v-w1328f1</val_frame.rf>
+           <val_frame.rf>v#v41bhxG</val_frame.rf>
            <children>
             <LM id="es_127.10-SCzechT-es_127-429-roota3">
              <nodetype>qcomplex</nodetype>
@@ -2320,11 +2461,12 @@
            <is_generated>1</is_generated>
            <t_lemma>jezdit</t_lemma>
            <functor>AIM</functor>
+           <proto_lemma>jezdit</proto_lemma>
            <gram>
             <sempos>v</sempos>
            </gram>
            <deepord>10</deepord>
-           <val_frame.rf>v#v-w1328f1</val_frame.rf>
+           <val_frame.rf>v#v41bhxG</val_frame.rf>
            <children>
             <LM id="es_127.10-SCzechT-m-d1t2222-11x3">
              <nodetype>complex</nodetype>
@@ -2398,6 +2540,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>začít</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -2410,7 +2553,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>19</deepord>
-       <val_frame.rf>v#v-w8756f2</val_frame.rf>
+       <val_frame.rf>v#v41prbC</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2222-17">
          <a>
@@ -2419,6 +2562,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>teď</t_lemma>
          <functor>TWHEN</functor>
+         <proto_lemma>teď</proto_lemma>
          <gram>
           <sempos>adv.pron.def</sempos>
          </gram>
@@ -2431,6 +2575,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>ACT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -2517,6 +2662,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>jezdit</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>jezdit</proto_lemma>
        <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
@@ -2530,7 +2676,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w1328f2</val_frame.rf>
+       <val_frame.rf>v#v41bhxF</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-es_127-431-roota1">
          <nodetype>qcomplex</nodetype>
@@ -2583,7 +2729,7 @@
           <negation>neg0</negation>
          </gram>
          <deepord>5</deepord>
-         <val_frame.rf>v#v-w1574f2</val_frame.rf>
+         <val_frame.rf>v#v41btnA</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-es_127-431-roota2">
            <nodetype>qcomplex</nodetype>
@@ -2606,6 +2752,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>spát</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -2618,7 +2765,22 @@
         <negation>neg0</negation>
        </gram>
        <deepord>15</deepord>
-       <val_frame.rf>v#v-w6315f1</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2222-24</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>conjalt</discourse_type>
+         <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
+         <comment>PHASE:3 RETYPED disjalt->conjalt</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2226-1</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41lalB</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2226-4">
          <a>
@@ -2641,7 +2803,25 @@
           <negation>neg0</negation>
          </gram>
          <deepord>9</deepord>
-         <val_frame.rf>v#v-w4096f1</val_frame.rf>
+         <discourse>
+          <LM>
+           <target_node.rf>es_127.10-SCzechT-m-d1t2228-6</target_node.rf>
+           <type>discourse</type>
+           <start_range>0</start_range>
+           <target_range>0</target_range>
+           <discourse_type>cond</discourse_type>
+           <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
+           <comment>PHASE:2 MANUAL</comment>
+           <src>A_V_A</src>
+           <a-connectors.rf>
+            <LM>a#es_127.10-SCzechA-m-d1t2226-2</LM>
+           </a-connectors.rf>
+           <t-connectors.rf>
+            <LM>es_127.10-SCzechT-m-d1t2228-4</LM>
+           </t-connectors.rf>
+          </LM>
+         </discourse>
+         <val_frame.rf>v#v41grpC</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-m-d1t2226-3">
            <a>
@@ -2677,7 +2857,7 @@
             <negation>neg0</negation>
            </gram>
            <deepord>11</deepord>
-           <val_frame.rf>v#v-w11935_ZUf2_ZU</val_frame.rf>
+           <val_frame.rf>v#v41othA</val_frame.rf>
            <children>
             <LM id="es_127.10-SCzechT-m-d1t2226-5">
              <a>
@@ -2772,7 +2952,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w6234f1</val_frame.rf>
+     <val_frame.rf>v#v41kwuA</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2228-13x3">
        <nodetype>complex</nodetype>
@@ -2806,7 +2986,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>3</deepord>
-       <val_frame.rf>v#v-w8216f1</val_frame.rf>
+       <val_frame.rf>v#v41opxA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-es_127-455-roota3">
          <nodetype>complex</nodetype>
@@ -2849,7 +3029,7 @@
           <sempos>v</sempos>
          </gram>
          <deepord>8</deepord>
-         <val_frame.rf>v#v-w8216f1</val_frame.rf>
+         <val_frame.rf>v#v41opxA</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-es_127-455-roota7">
            <a>
@@ -2858,6 +3038,7 @@
            <nodetype>complex</nodetype>
            <t_lemma>jak</t_lemma>
            <functor>EXT</functor>
+           <proto_lemma>jak</proto_lemma>
            <gram>
             <sempos>adv.denot.grad.neg</sempos>
            </gram>
@@ -2910,6 +3091,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>CNCS</functor>
+       <proto_lemma>být</proto_lemma>
        <gram>
         <sempos>v</sempos>
         <number>pl</number>
@@ -2921,7 +3103,23 @@
         <negation>neg1</negation>
        </gram>
        <deepord>10</deepord>
-       <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2228-13</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>conc</discourse_type>
+         <sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
+         <comment>PHASE:1</comment>
+         <src>A_V_A</src>
+         <a-connectors.rf>
+          <LM>a#es_127.10-SCzechA-m-d1t2230-2</LM>
+          <LM>a#es_127.10-SCzechA-m-d1t2230-1</LM>
+         </a-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41jsM</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-es_127-455-roota4">
          <nodetype>complex</nodetype>
@@ -2974,6 +3172,7 @@
            <nodetype>complex</nodetype>
            <t_lemma>ten</t_lemma>
            <functor>RSTR</functor>
+           <proto_lemma>ten</proto_lemma>
            <gram>
             <sempos>n.pron.def.demon</sempos>
             <gender>nr</gender>
@@ -3009,6 +3208,7 @@
            <nodetype>complex</nodetype>
            <t_lemma>mít</t_lemma>
            <functor>RSTR</functor>
+           <proto_lemma>mít</proto_lemma>
            <gram>
             <sempos>v</sempos>
             <number>pl</number>
@@ -3020,7 +3220,7 @@
             <negation>neg0</negation>
            </gram>
            <deepord>17</deepord>
-           <val_frame.rf>v#v-w1855f2</val_frame.rf>
+           <val_frame.rf>v#v41chlO</val_frame.rf>
            <children>
             <LM id="es_127.10-SCzechT-m-d1t2232-1">
              <a>
@@ -3029,6 +3229,7 @@
              <nodetype>complex</nodetype>
              <t_lemma>který</t_lemma>
              <functor>ACT</functor>
+             <proto_lemma>který</proto_lemma>
              <gram>
               <sempos>n.pron.indef</sempos>
               <gender>anim</gender>
@@ -3088,6 +3289,21 @@
      <t_lemma>takže</t_lemma>
      <functor>CSQ</functor>
      <deepord>10</deepord>
+     <discourse>
+      <LM>
+       <target_node.rf>es_127.10-SCzechT-m-d1t2228-13</target_node.rf>
+       <type>discourse</type>
+       <start_range>0</start_range>
+       <target_range>0</target_range>
+       <discourse_type>conj</discourse_type>
+       <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+       <comment>PHASE:2 MANUAL</comment>
+       <src>A_I_A</src>
+       <t-connectors.rf>
+        <LM>es_127.10-SCzechT-m-d1t2232-10</LM>
+       </t-connectors.rf>
+      </LM>
+     </discourse>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2232-9">
        <a>
@@ -3096,6 +3312,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>mít</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>mít</proto_lemma>
        <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
@@ -3109,7 +3326,22 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w1855f1</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2235-6</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>reason</discourse_type>
+         <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
+         <comment>PHASE:2 MANUAL</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-es_127-347-roota1</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41chlQ</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2232-9x3">
          <nodetype>complex</nodetype>
@@ -3243,6 +3475,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>rozvrstvit</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -3255,7 +3488,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>12</deepord>
-       <val_frame.rf>v#v-w11936_ZUf1_ZU</val_frame.rf>
+       <val_frame.rf>v#v41kcaA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2235-2">
          <a>
@@ -3264,6 +3497,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>PAT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -3352,6 +3586,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>být</proto_lemma>
        <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
@@ -3365,7 +3600,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+       <val_frame.rf>v#v41jsM</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2245-5">
          <a>
@@ -3373,7 +3608,8 @@
          </a>
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
-         <functor>PAT</functor>
+         <functor>ACT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -3388,7 +3624,7 @@
          </a>
          <nodetype>complex</nodetype>
          <t_lemma>dovolená</t_lemma>
-         <functor>ACT</functor>
+         <functor>PAT</functor>
          <gram>
           <sempos>n.denot</sempos>
           <gender>fem</gender>
@@ -3422,6 +3658,8 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>být</proto_lemma>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -3434,7 +3672,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>7</deepord>
-       <val_frame.rf>v#v-w243f2</val_frame.rf>
+       <val_frame.rf>v#v41jsU</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2245-10">
          <a>
@@ -3443,6 +3681,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>ACT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -3516,7 +3755,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w6866f1</val_frame.rf>
+       <val_frame.rf>v#v41maiA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-22-96">
          <a>
@@ -3528,6 +3767,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>PAT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>nr</gender>
@@ -3562,8 +3802,9 @@
            <nodetype>complex</nodetype>
            <t_lemma>strašně</t_lemma>
            <functor>EXT</functor>
+           <proto_lemma>strašný</proto_lemma>
            <gram>
-            <sempos>adv.denot.grad.nneg</sempos>
+            <sempos>adj.denot</sempos>
             <degcmp>pos</degcmp>
             <negation>neg0</negation>
            </gram>
@@ -3598,7 +3839,23 @@
         <negation>neg1</negation>
        </gram>
        <deepord>6</deepord>
-       <val_frame.rf>v#v-w635f1</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2249-14</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>preced</discourse_type>
+         <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
+         <comment>PHASE:2 CONN_CHANGE pak->až pak; RETYPED conj->preced</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-es_127-22-roota3</LM>
+          <LM>es_127.10-SCzechT-m-d1t2249-10</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41abkA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2249-1">
          <a>
@@ -3681,6 +3938,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>najít</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -3693,7 +3951,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>16</deepord>
-       <val_frame.rf>v#v-w2042f1</val_frame.rf>
+       <val_frame.rf>v#v41croB</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-es_127-22-roota3">
          <a>
@@ -3736,6 +3994,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>jeden</t_lemma>
          <functor>PAT</functor>
+         <proto_lemma>jeden</proto_lemma>
          <gram>
           <sempos>n.quant.def</sempos>
           <gender>fem</gender>
@@ -3779,6 +4038,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>být</t_lemma>
      <functor>PRED</functor>
+     <proto_lemma>být</proto_lemma>
      <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
@@ -3791,7 +4051,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <val_frame.rf>v#v41jsM</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2251-1">
        <a>
@@ -3800,6 +4060,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>ten</t_lemma>
        <functor>ACT</functor>
+       <proto_lemma>ten</proto_lemma>
        <gram>
         <sempos>n.pron.def.demon</sempos>
         <gender>neut</gender>
@@ -3896,7 +4157,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w2495f1</val_frame.rf>
+     <val_frame.rf>v#v41dppB</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2256-2x3">
        <nodetype>complex</nodetype>
@@ -3975,6 +4236,8 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>být</proto_lemma>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -3987,7 +4250,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+       <val_frame.rf>v#v41jsM</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2256-8">
          <a>
@@ -3996,6 +4259,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>ACT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -4027,6 +4291,7 @@
              <nodetype>complex</nodetype>
              <t_lemma>letět</t_lemma>
              <functor>ID</functor>
+             <sentmod>imper</sentmod>
              <is_member>1</is_member>
              <gram>
               <sempos>v</sempos>
@@ -4039,7 +4304,7 @@
               <negation>neg0</negation>
              </gram>
              <deepord>4</deepord>
-             <val_frame.rf>v#v-w1694f1</val_frame.rf>
+             <val_frame.rf>v#v41bzxE</val_frame.rf>
             </LM>
             <LM id="es_127.10-SCzechT-es_127-224-roota3">
              <nodetype>complex</nodetype>
@@ -4059,6 +4324,7 @@
              <nodetype>complex</nodetype>
              <t_lemma>jet</t_lemma>
              <functor>ID</functor>
+             <sentmod>imper</sentmod>
              <is_member>1</is_member>
              <gram>
               <sempos>v</sempos>
@@ -4071,7 +4337,22 @@
               <negation>neg0</negation>
              </gram>
              <deepord>7</deepord>
-             <val_frame.rf>v#v-w1325f1</val_frame.rf>
+             <discourse>
+              <LM>
+               <target_node.rf>es_127.10-SCzechT-m-d1t2256-10</target_node.rf>
+               <type>discourse</type>
+               <start_range>0</start_range>
+               <target_range>0</target_range>
+               <discourse_type>conj</discourse_type>
+               <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+               <comment>PHASE:1</comment>
+               <src>A_H_A</src>
+               <t-connectors.rf>
+                <LM>es_127.10-SCzechT-m-d1t2256-11</LM>
+               </t-connectors.rf>
+              </LM>
+             </discourse>
+             <val_frame.rf>v#v41bhuF</val_frame.rf>
              <children>
               <LM id="es_127.10-SCzechT-es_127-224-roota4">
                <nodetype>qcomplex</nodetype>
@@ -4117,7 +4398,7 @@
           <negation>neg0</negation>
          </gram>
          <deepord>13</deepord>
-         <val_frame.rf>v#v-w369f1</val_frame.rf>
+         <val_frame.rf>v#v41plI</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-m-d1t2258-2">
            <a>
@@ -4160,13 +4441,10 @@
            </coref_text>
           </LM>
           <LM id="es_127.10-SCzechT-m-d1t2258-4x3">
-           <nodetype>complex</nodetype>
+           <nodetype>qcomplex</nodetype>
            <is_generated>1</is_generated>
            <t_lemma>#Unsp</t_lemma>
            <functor>ACT</functor>
-           <gram>
-            <sempos>n.pron.def.pers</sempos>
-           </gram>
            <deepord>12</deepord>
           </LM>
           <LM id="es_127.10-SCzechT-m-d1t2258-5">
@@ -4196,6 +4474,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>jezdit</t_lemma>
          <functor>PRED</functor>
+         <proto_lemma>jezdit</proto_lemma>
          <sentmod>enunc</sentmod>
          <is_member>1</is_member>
          <gram>
@@ -4209,7 +4488,22 @@
           <negation>neg0</negation>
          </gram>
          <deepord>17</deepord>
-         <val_frame.rf>v#v-w1328f2</val_frame.rf>
+         <discourse>
+          <LM>
+           <target_node.rf>es_127.10-SCzechT-m-d1t2258-4</target_node.rf>
+           <type>discourse</type>
+           <start_range>0</start_range>
+           <target_range>0</target_range>
+           <discourse_type>conj</discourse_type>
+           <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+           <comment>PHASE:1</comment>
+           <src>A_H_A</src>
+           <t-connectors.rf>
+            <LM>es_127.10-SCzechT-m-d1t2258-6</LM>
+           </t-connectors.rf>
+          </LM>
+         </discourse>
+         <val_frame.rf>v#v41bhxF</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-m-d1t2258-9x3">
            <nodetype>complex</nodetype>
@@ -4285,6 +4579,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>říkat</t_lemma>
      <functor>PRED</functor>
+     <proto_lemma>říkat</proto_lemma>
      <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
@@ -4297,7 +4592,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>1</deepord>
-     <val_frame.rf>v#v-w5882f2</val_frame.rf>
+     <val_frame.rf>v#v41kejG</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-es_127-38-roota1">
        <nodetype>qcomplex</nodetype>
@@ -4313,6 +4608,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>ten</t_lemma>
        <functor>PAT</functor>
+       <proto_lemma>ten</proto_lemma>
        <gram>
         <sempos>n.pron.def.demon</sempos>
         <gender>nr</gender>
@@ -4388,6 +4684,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>prodávat</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -4400,7 +4697,7 @@
         <negation>neg1</negation>
        </gram>
        <deepord>9</deepord>
-       <val_frame.rf>v#v-w4316f1</val_frame.rf>
+       <val_frame.rf>v#v41hblA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2258-25">
          <a>
@@ -4409,6 +4706,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>PAT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -4437,7 +4735,7 @@
             <negation>neg0</negation>
            </gram>
            <deepord>4</deepord>
-           <val_frame.rf>v#v-w4316f1</val_frame.rf>
+           <val_frame.rf>v#v41hblA</val_frame.rf>
            <children>
             <LM id="es_127.10-SCzechT-m-d1t2258-27">
              <a>
@@ -4446,6 +4744,7 @@
              <nodetype>complex</nodetype>
              <t_lemma>co</t_lemma>
              <functor>PAT</functor>
+             <proto_lemma>co</proto_lemma>
              <gram>
               <sempos>n.pron.indef</sempos>
               <gender>neut</gender>
@@ -4521,6 +4820,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>tam</t_lemma>
          <functor>LOC</functor>
+         <proto_lemma>tam</proto_lemma>
          <gram>
           <sempos>adv.pron.def</sempos>
          </gram>
@@ -4568,7 +4868,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>16</deepord>
-       <val_frame.rf>v#v-w5841f2</val_frame.rf>
+       <val_frame.rf>v#v41kcmD</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2260-7">
          <a>
@@ -4577,6 +4877,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>tam</t_lemma>
          <functor>LOC</functor>
+         <proto_lemma>tam</proto_lemma>
          <gram>
           <sempos>adv.pron.def</sempos>
          </gram>
@@ -4589,6 +4890,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>ACT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -4666,6 +4968,7 @@
      <is_generated>1</is_generated>
      <t_lemma>#EmpVerb</t_lemma>
      <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
      <deepord>1</deepord>
      <children>
       <LM id="es_127.10-SCzechT-m-60-121">
@@ -4735,6 +5038,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>být</t_lemma>
      <functor>PRED</functor>
+     <proto_lemma>být</proto_lemma>
      <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
@@ -4747,7 +5051,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>1</deepord>
-     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <val_frame.rf>v#v41jsM</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2268-3">
        <a>
@@ -4756,6 +5060,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>ten</t_lemma>
        <functor>ACT</functor>
+       <proto_lemma>ten</proto_lemma>
        <gram>
         <sempos>n.pron.def.demon</sempos>
         <gender>neut</gender>
@@ -4851,7 +5156,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w8170f1</val_frame.rf>
+       <val_frame.rf>v#v41oniD</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2276-1">
          <a>
@@ -4860,6 +5165,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>jak</t_lemma>
          <functor>MANN</functor>
+         <proto_lemma>jak</proto_lemma>
          <gram>
           <sempos>adv.pron.indef</sempos>
           <indeftype>inter</indeftype>
@@ -4949,6 +5255,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>chystat_se</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -4961,7 +5268,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>11</deepord>
-       <val_frame.rf>v#v-w1209f1</val_frame.rf>
+       <val_frame.rf>v#v41bcvA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2276-10">
          <a>
@@ -4970,6 +5277,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>jak</t_lemma>
          <functor>MANN</functor>
+         <proto_lemma>jak</proto_lemma>
          <gram>
           <sempos>adv.pron.indef</sempos>
           <indeftype>inter</indeftype>
@@ -5035,11 +5343,12 @@
      <is_generated>1</is_generated>
      <t_lemma>vypadat</t_lemma>
      <functor>PRED</functor>
+     <sentmod>inter</sentmod>
      <gram>
       <sempos>v</sempos>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w8170f1</val_frame.rf>
+     <val_frame.rf>v#v41oniD</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-es_127-d1e2277-x2-roota2">
        <nodetype>qcomplex</nodetype>
@@ -5143,7 +5452,23 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w7019f1</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2282-24</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>preced</discourse_type>
+         <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
+         <comment>PHASE:3 TYPECHECKED</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2282-21</LM>
+          <LM>es_127.10-SCzechT-m-d1t2282-22</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41mhsB</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2282-6">
          <a>
@@ -5207,6 +5532,7 @@
              <nodetype>complex</nodetype>
              <t_lemma>vidět</t_lemma>
              <functor>PAR</functor>
+             <sentmod>imper</sentmod>
              <is_parenthesis>1</is_parenthesis>
              <gram>
               <sempos>v</sempos>
@@ -5218,7 +5544,7 @@
               <negation>neg0</negation>
              </gram>
              <deepord>6</deepord>
-             <val_frame.rf>v#v-w7612f22_ZU</val_frame.rf>
+             <val_frame.rf>v#v41nlfG</val_frame.rf>
              <children>
               <LM id="es_127.10-SCzechT-es_127-d1e2277-x3-roota2">
                <nodetype>complex</nodetype>
@@ -5295,6 +5621,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>začít</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -5307,7 +5634,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>14</deepord>
-       <val_frame.rf>v#v-w8756f1</val_frame.rf>
+       <val_frame.rf>v#v41prbA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2282-22">
          <a>
@@ -5337,7 +5664,7 @@
           <negation>neg0</negation>
          </gram>
          <deepord>15</deepord>
-         <val_frame.rf>v#v-w6020f1</val_frame.rf>
+         <val_frame.rf>v#v41kmcA</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-m-d1t2282-23">
            <a>
@@ -5346,6 +5673,7 @@
            <nodetype>complex</nodetype>
            <t_lemma>ten</t_lemma>
            <functor>PAT</functor>
+           <proto_lemma>ten</proto_lemma>
            <gram>
             <sempos>n.pron.def.demon</sempos>
             <gender>neut</gender>
@@ -5388,7 +5716,7 @@
      <nodetype>coap</nodetype>
      <t_lemma>#Comma</t_lemma>
      <functor>CONJ</functor>
-     <deepord>19</deepord>
+     <deepord>20</deepord>
      <children>
       <LM id="es_127.10-SCzechT-m-148-154">
        <a>
@@ -5400,6 +5728,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>COND</functor>
+       <proto_lemma>být</proto_lemma>
        <gram>
         <sempos>v</sempos>
         <number>pl</number>
@@ -5411,7 +5740,25 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-es_127-148-roota1</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>cond</discourse_type>
+         <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
+         <comment>PHASE:2 MANUAL</comment>
+         <src>A_V_A</src>
+         <a-connectors.rf>
+          <LM>a#es_127.10-SCzechA-m-148-152</LM>
+         </a-connectors.rf>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2291-1</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41jsM</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-148-153">
          <a>
@@ -5419,7 +5766,8 @@
          </a>
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
-         <functor>PAT</functor>
+         <functor>ACT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -5439,7 +5787,7 @@
          </a>
          <nodetype>complex</nodetype>
          <t_lemma>zájezd</t_lemma>
-         <functor>ACT</functor>
+         <functor>PAT</functor>
          <gram>
           <sempos>n.denot</sempos>
           <gender>inan</gender>
@@ -5486,6 +5834,7 @@
              <nodetype>complex</nodetype>
              <t_lemma>být</t_lemma>
              <functor>CPR</functor>
+             <proto_lemma>být</proto_lemma>
              <gram>
               <sempos>v</sempos>
               <number>sg</number>
@@ -5497,7 +5846,7 @@
               <negation>neg0</negation>
              </gram>
              <deepord>6</deepord>
-             <val_frame.rf>v#v-w243f2</val_frame.rf>
+             <val_frame.rf>v#v41jsU</val_frame.rf>
              <children>
               <LM id="es_127.10-SCzechT-m-d1t2288-8">
                <a>
@@ -5535,6 +5884,7 @@
                  <nodetype>complex</nodetype>
                  <t_lemma>říkat</t_lemma>
                  <functor>PAR</functor>
+                 <proto_lemma>říkat</proto_lemma>
                  <sentmod>enunc</sentmod>
                  <is_parenthesis>1</is_parenthesis>
                  <gram>
@@ -5548,7 +5898,7 @@
                   <negation>neg0</negation>
                  </gram>
                  <deepord>11</deepord>
-                 <val_frame.rf>v#v-w5882f6</val_frame.rf>
+                 <val_frame.rf>v#v41kejI</val_frame.rf>
                  <children>
                   <LM id="es_127.10-SCzechT-m-d1t2288-12">
                    <a>
@@ -5557,12 +5907,19 @@
                    <nodetype>complex</nodetype>
                    <t_lemma>jak</t_lemma>
                    <functor>MANN</functor>
+                   <proto_lemma>jak</proto_lemma>
                    <is_parenthesis>1</is_parenthesis>
                    <gram>
                     <sempos>adv.pron.indef</sempos>
                     <indeftype>inter</indeftype>
                    </gram>
                    <deepord>9</deepord>
+                   <coref_text>
+                    <LM>
+                     <target_node.rf>es_127.10-SCzechT-m-d1t2288-8</target_node.rf>
+                     <type>SPEC</type>
+                    </LM>
+                   </coref_text>
                   </LM>
                   <LM id="es_127.10-SCzechT-m-d1t2288-13x3">
                    <nodetype>complex</nodetype>
@@ -5593,7 +5950,7 @@
                    <deepord>12</deepord>
                    <coref_text>
                     <LM>
-                     <target_node.rf>es_127.10-SCzechT-m-d1t2288-8</target_node.rf>
+                     <target_node.rf>es_127.10-SCzechT-m-d1t2288-11</target_node.rf>
                      <type>SPEC</type>
                     </LM>
                    </coref_text>
@@ -5608,6 +5965,7 @@
                    <nodetype>complex</nodetype>
                    <t_lemma>jezdit</t_lemma>
                    <functor>COND</functor>
+                   <proto_lemma>jezdit</proto_lemma>
                    <is_parenthesis>1</is_parenthesis>
                    <gram>
                     <sempos>v</sempos>
@@ -5620,7 +5978,22 @@
                     <negation>neg0</negation>
                    </gram>
                    <deepord>14</deepord>
-                   <val_frame.rf>v#v-w1328f2</val_frame.rf>
+                   <discourse>
+                    <LM>
+                     <target_node.rf>es_127.10-SCzechT-m-d1t2288-13</target_node.rf>
+                     <type>discourse</type>
+                     <start_range>0</start_range>
+                     <target_range>0</target_range>
+                     <discourse_type>cond</discourse_type>
+                     <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
+                     <comment>PHASE:2 MANUAL</comment>
+                     <src>A_V_A</src>
+                     <a-connectors.rf>
+                      <LM>a#es_127.10-SCzechA-m-d1t2288-10</LM>
+                     </a-connectors.rf>
+                    </LM>
+                   </discourse>
+                   <val_frame.rf>v#v41bhxF</val_frame.rf>
                    <children>
                     <LM id="es_127.10-SCzechT-m-d1t2288-11x3">
                      <nodetype>complex</nodetype>
@@ -5672,6 +6045,31 @@
         </LM>
        </children>
       </LM>
+      <LM id="es_127.10-SCzechT-m-d1t2291-1">
+       <a>
+        <lex.rf>a#es_127.10-SCzechA-m-d1t2291-1</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>tak</t_lemma>
+       <functor>PREC</functor>
+       <deepord>16</deepord>
+      </LM>
+      <LM id="es_127.10-SCzechT-m-d1t2291-5x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>17</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2288-11x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
       <LM id="es_127.10-SCzechT-m-d1t2291-2">
        <a>
         <lex.rf>a#es_127.10-SCzechA-m-d1t2291-2</lex.rf>
@@ -5682,6 +6080,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>sehnat</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -5691,18 +6090,9 @@
         <iterativeness>it0</iterativeness>
         <negation>neg0</negation>
        </gram>
-       <deepord>17</deepord>
-       <val_frame.rf>v#v-w5948f1</val_frame.rf>
+       <deepord>18</deepord>
+       <val_frame.rf>v#v41khzA</val_frame.rf>
        <children>
-        <LM id="es_127.10-SCzechT-m-d1t2291-1">
-         <a>
-          <lex.rf>a#es_127.10-SCzechA-m-d1t2291-1</lex.rf>
-         </a>
-         <nodetype>atom</nodetype>
-         <t_lemma>tak</t_lemma>
-         <functor>PREC</functor>
-         <deepord>16</deepord>
-        </LM>
         <LM id="es_127.10-SCzechT-m-d1t2291-3">
          <a>
           <lex.rf>a#es_127.10-SCzechA-m-d1t2291-3</lex.rf>
@@ -5716,25 +6106,9 @@
           <number>sg</number>
           <negation>neg0</negation>
          </gram>
-         <deepord>18</deepord>
+         <deepord>19</deepord>
         </LM>
        </children>
-      </LM>
-      <LM id="es_127.10-SCzechT-m-d1t2291-5x3">
-       <nodetype>complex</nodetype>
-       <is_generated>1</is_generated>
-       <t_lemma>#PersPron</t_lemma>
-       <functor>ACT</functor>
-       <gram>
-        <sempos>n.pron.def.pers</sempos>
-       </gram>
-       <deepord>20</deepord>
-       <coref_text>
-        <LM>
-         <target_node.rf>es_127.10-SCzechT-m-d1t2288-11x3</target_node.rf>
-         <type>SPEC</type>
-        </LM>
-       </coref_text>
       </LM>
       <LM id="es_127.10-SCzechT-m-d1t2291-5">
        <a>
@@ -5746,6 +6120,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>sehnat</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -5758,7 +6133,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>21</deepord>
-       <val_frame.rf>v#v-w5948f1</val_frame.rf>
+       <val_frame.rf>v#v41khzA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2291-6">
          <a>
@@ -5801,6 +6176,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>mít</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>mít</proto_lemma>
        <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
@@ -5814,7 +6190,22 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w1855f3</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-es_127-158-roota2</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>reason</discourse_type>
+         <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
+         <comment>PHASE:2 MANUAL</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2291-16</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41chlF</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2291-10">
          <a>
@@ -5859,6 +6250,7 @@
            <nodetype>complex</nodetype>
            <t_lemma>málo</t_lemma>
            <functor>RSTR</functor>
+           <proto_lemma>málo</proto_lemma>
            <gram>
             <sempos>adj.quant.grad</sempos>
             <degcmp>pos</degcmp>
@@ -5890,6 +6282,7 @@
        <is_generated>1</is_generated>
        <t_lemma>#EmpVerb</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <deepord>7</deepord>
        <children>
@@ -5982,7 +6375,22 @@
           <negation>neg0</negation>
          </gram>
          <deepord>15</deepord>
-         <val_frame.rf>v#v-w369f1</val_frame.rf>
+         <discourse>
+          <LM>
+           <target_node.rf>es_127.10-SCzechT-es_127-158-roota2</target_node.rf>
+           <type>discourse</type>
+           <start_range>0</start_range>
+           <target_range>0</target_range>
+           <discourse_type>purp</discourse_type>
+           <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
+           <comment>PHASE:2 MANUAL</comment>
+           <src>A_V_A</src>
+           <a-connectors.rf>
+            <LM>a#es_127.10-SCzechA-m-d1t2295-3</LM>
+           </a-connectors.rf>
+          </LM>
+         </discourse>
+         <val_frame.rf>v#v41plI</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-m-d1t2295-4">
            <a>
@@ -6052,6 +6460,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>pomoci</t_lemma>
      <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
       <number>pl</number>
@@ -6063,7 +6472,22 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w3830f1</val_frame.rf>
+     <discourse>
+      <LM>
+       <target_node.rf>es_127.10-SCzechT-m-d1t2299-4</target_node.rf>
+       <type>discourse</type>
+       <start_range>0</start_range>
+       <target_range>0</target_range>
+       <discourse_type>preced</discourse_type>
+       <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
+       <comment>PHASE:3 TYPECHECKED</comment>
+       <src>A_I_A</src>
+       <t-connectors.rf>
+        <LM>es_127.10-SCzechT-m-d1t2299-2</LM>
+       </t-connectors.rf>
+      </LM>
+     </discourse>
+     <val_frame.rf>v#v41geoB</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2295-10x3">
        <nodetype>complex</nodetype>
@@ -6172,6 +6596,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>udělat_si</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -6184,7 +6609,23 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w7019f1</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2299-10</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>preced</discourse_type>
+         <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
+         <comment>PHASE:3 TYPECHECKED</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2299-6</LM>
+          <LM>es_127.10-SCzechT-m-d1t2299-7</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41mhsB</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2299-2">
          <a>
@@ -6260,6 +6701,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>tam</t_lemma>
          <functor>LOC</functor>
+         <proto_lemma>tam</proto_lemma>
          <gram>
           <sempos>adv.pron.def</sempos>
          </gram>
@@ -6285,7 +6727,7 @@
           <negation>neg0</negation>
          </gram>
          <deepord>8</deepord>
-         <val_frame.rf>v#v-w263f1</val_frame.rf>
+         <val_frame.rf>v#v41kpA</val_frame.rf>
         </LM>
         <LM id="es_127.10-SCzechT-m-d1t2299-11">
          <a>
@@ -6307,7 +6749,22 @@
           <negation>neg0</negation>
          </gram>
          <deepord>10</deepord>
-         <val_frame.rf>v#v-w4213f1</val_frame.rf>
+         <discourse>
+          <LM>
+           <target_node.rf>es_127.10-SCzechT-m-d1t2299-9</target_node.rf>
+           <type>discourse</type>
+           <start_range>0</start_range>
+           <target_range>0</target_range>
+           <discourse_type>conj</discourse_type>
+           <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+           <comment>PHASE:1</comment>
+           <src>A_H_A</src>
+           <t-connectors.rf>
+            <LM>es_127.10-SCzechT-m-d1t2299-10</LM>
+           </t-connectors.rf>
+          </LM>
+         </discourse>
+         <val_frame.rf>v#v41gwtC</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-es_127-187-roota1">
            <nodetype>qcomplex</nodetype>
@@ -6357,7 +6814,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w1179f1</val_frame.rf>
+       <val_frame.rf>v#v41bbiI</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2299-14">
          <a>
@@ -6438,6 +6895,8 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>být</proto_lemma>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -6450,7 +6909,7 @@
         <negation>neg1</negation>
        </gram>
        <deepord>7</deepord>
-       <val_frame.rf>v#v-w243f2</val_frame.rf>
+       <val_frame.rf>v#v41jsU</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-es_127-201-roota1">
          <nodetype>atom</nodetype>
@@ -6510,6 +6969,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>být</t_lemma>
      <functor>PRED</functor>
+     <proto_lemma>být</proto_lemma>
      <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
@@ -6522,7 +6982,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>7</deepord>
-     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <val_frame.rf>v#v41jsM</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2301-7">
        <a>
@@ -6545,7 +7005,25 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w1325f1</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2301-13</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>cond</discourse_type>
+         <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
+         <comment>PHASE:2 MANUAL</comment>
+         <src>A_V_A</src>
+         <a-connectors.rf>
+          <LM>a#es_127.10-SCzechA-m-d1t2301-6</LM>
+         </a-connectors.rf>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2301-11</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41bhuF</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2301-7x3">
          <nodetype>complex</nodetype>
@@ -6580,6 +7058,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>tenhle</t_lemma>
          <functor>INTT</functor>
+         <proto_lemma>tenhle</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -6611,6 +7090,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>ten</t_lemma>
        <functor>ACT</functor>
+       <proto_lemma>ten</proto_lemma>
        <gram>
         <sempos>n.pron.def.demon</sempos>
         <gender>neut</gender>
@@ -6653,6 +7133,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>říkat</t_lemma>
      <functor>PRED</functor>
+     <proto_lemma>říkat</proto_lemma>
      <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
@@ -6665,7 +7146,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>8</deepord>
-     <val_frame.rf>v#v-w5882f2</val_frame.rf>
+     <val_frame.rf>v#v41kejG</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2301-17">
        <a>
@@ -6688,13 +7169,31 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2304-9</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>cond</discourse_type>
+         <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
+         <comment>PHASE:2 MANUAL</comment>
+         <src>A_V_A</src>
+         <a-connectors.rf>
+          <LM>a#es_127.10-SCzechA-m-d1t2301-16</LM>
+         </a-connectors.rf>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2304-7</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
        <coref_text>
         <LM>
          <target_node.rf>es_127.10-SCzechT-es_127-148-roota2</target_node.rf>
          <type>SPEC</type>
         </LM>
        </coref_text>
-       <val_frame.rf>v#v-w1325f1</val_frame.rf>
+       <val_frame.rf>v#v41bhuF</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2301-17x3">
          <nodetype>complex</nodetype>
@@ -6769,6 +7268,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>ten</t_lemma>
        <functor>PAT</functor>
+       <proto_lemma>ten</proto_lemma>
        <gram>
         <sempos>n.pron.def.demon</sempos>
         <gender>nr</gender>
@@ -6850,7 +7350,22 @@
         <negation>neg0</negation>
        </gram>
        <deepord>13</deepord>
-       <val_frame.rf>v#v-w1325f1</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2304-9</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>reason</discourse_type>
+         <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
+         <comment>PHASE:3 RETYPED purp->reason</comment>
+         <src>A_V_A</src>
+         <a-connectors.rf>
+          <LM>a#es_127.10-SCzechA-m-d1t2304-13</LM>
+         </a-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41bhuF</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2304-14">
          <a>
@@ -6859,6 +7374,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>tam</t_lemma>
          <functor>DIR3</functor>
+         <proto_lemma>tam</proto_lemma>
          <gram>
           <sempos>adv.pron.def</sempos>
          </gram>
@@ -6920,7 +7436,7 @@
             <negation>neg0</negation>
            </gram>
            <deepord>15</deepord>
-           <val_frame.rf>v#v-w8030f1</val_frame.rf>
+           <val_frame.rf>v#v41ogeA</val_frame.rf>
           </LM>
           <LM id="es_127.10-SCzechT-es_127-422-roota1">
            <nodetype>qcomplex</nodetype>
@@ -6954,7 +7470,7 @@
             <negation>neg0</negation>
            </gram>
            <deepord>21</deepord>
-           <val_frame.rf>v#v-w3574f1</val_frame.rf>
+           <val_frame.rf>v#v41fsdH</val_frame.rf>
            <children>
             <LM id="es_127.10-SCzechT-m-d1t2306-4">
              <a>
@@ -6980,9 +7496,6 @@
                <nodetype>dphr</nodetype>
                <t_lemma>a_tam</t_lemma>
                <functor>DPHR</functor>
-               <gram>
-                <sempos>adv.pron.def</sempos>
-               </gram>
                <deepord>19</deepord>
               </LM>
              </children>
@@ -7030,6 +7543,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>být</proto_lemma>
        <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
@@ -7043,7 +7557,7 @@
         <negation>neg1</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+       <val_frame.rf>v#v41jsM</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2306-12">
          <a>
@@ -7052,6 +7566,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>ACT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -7095,6 +7610,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>PRED</functor>
+       <proto_lemma>být</proto_lemma>
        <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
@@ -7107,7 +7623,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>7</deepord>
-       <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+       <val_frame.rf>v#v41jsM</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2306-16">
          <a>
@@ -7116,6 +7632,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>ten</t_lemma>
          <functor>ACT</functor>
+         <proto_lemma>ten</proto_lemma>
          <gram>
           <sempos>n.pron.def.demon</sempos>
           <gender>neut</gender>
@@ -7189,7 +7706,22 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-whsa_1722hsa_1723</val_frame.rf>
+     <discourse>
+      <LM>
+       <target_node.rf>es_127.10-SCzechT-m-d1t2304-15</target_node.rf>
+       <type>discourse</type>
+       <start_range>0</start_range>
+       <target_range>0</target_range>
+       <discourse_type>conj</discourse_type>
+       <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+       <comment>PHASE:2 RETARGETED</comment>
+       <src>A_I_A</src>
+       <t-connectors.rf>
+        <LM>es_127.10-SCzechT-m-d1t2312-2</LM>
+       </t-connectors.rf>
+      </LM>
+     </discourse>
+     <val_frame.rf>v#v41erlA</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2312-1x3">
        <nodetype>complex</nodetype>
@@ -7279,11 +7811,12 @@
      <is_generated>1</is_generated>
      <t_lemma>ochutnávat</t_lemma>
      <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-whsa_1722hsa_1723</val_frame.rf>
+     <val_frame.rf>v#v41erlA</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-es_127-d1e2316-x2-roota2">
        <nodetype>complex</nodetype>
@@ -7368,6 +7901,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>být</t_lemma>
        <functor>CAUS</functor>
+       <proto_lemma>být</proto_lemma>
        <gram>
         <sempos>v</sempos>
         <number>pl</number>
@@ -7379,7 +7913,22 @@
         <negation>neg0</negation>
        </gram>
        <deepord>8</deepord>
-       <val_frame.rf>v#v-w243hsa_64</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-es_127-d1e2316-x2-roota1</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>reason</discourse_type>
+         <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
+         <comment>PHASE:2 MANUAL</comment>
+         <src>A_V_A</src>
+         <a-connectors.rf>
+          <LM>a#es_127.10-SCzechA-m-d1t2319-8</LM>
+         </a-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41jsG</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2319-9">
          <a>
@@ -7450,7 +7999,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w1334f1</val_frame.rf>
+     <val_frame.rf>v#v41bifA</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1e2316-x2-273x3">
        <nodetype>complex</nodetype>
@@ -7529,6 +8078,8 @@
      <nodetype>complex</nodetype>
      <t_lemma>být</t_lemma>
      <functor>PRED</functor>
+     <proto_lemma>být</proto_lemma>
+     <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
       <number>pl</number>
@@ -7540,7 +8091,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>10</deepord>
-     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <val_frame.rf>v#v41jsM</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2323-1">
        <a>
@@ -7574,7 +8125,7 @@
           <negation>neg0</negation>
          </gram>
          <deepord>4</deepord>
-         <val_frame.rf>v#v-w544f2</val_frame.rf>
+         <val_frame.rf>v#v41xjB</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-m-d1t2323-2">
            <a>
@@ -7583,6 +8134,7 @@
            <nodetype>complex</nodetype>
            <t_lemma>co</t_lemma>
            <functor>PAT</functor>
+           <proto_lemma>co</proto_lemma>
            <gram>
             <sempos>n.pron.indef</sempos>
             <gender>neut</gender>
@@ -7640,6 +8192,7 @@
              <nodetype>complex</nodetype>
              <t_lemma>říci</t_lemma>
              <functor>PAR</functor>
+             <sentmod>enunc</sentmod>
              <is_parenthesis>1</is_parenthesis>
              <gram>
               <sempos>v</sempos>
@@ -7650,17 +8203,14 @@
               <negation>neg0</negation>
              </gram>
              <deepord>6</deepord>
-             <val_frame.rf>v#v-w5874f1</val_frame.rf>
+             <val_frame.rf>v#v41kebA</val_frame.rf>
              <children>
               <LM id="es_127.10-SCzechT-m-d1t2323-7x3">
-               <nodetype>complex</nodetype>
+               <nodetype>qcomplex</nodetype>
                <is_generated>1</is_generated>
                <t_lemma>#Gen</t_lemma>
                <functor>ACT</functor>
                <is_parenthesis>1</is_parenthesis>
-               <gram>
-                <sempos>n.pron.def.pers</sempos>
-               </gram>
                <deepord>5</deepord>
               </LM>
               <LM id="es_127.10-SCzechT-es_127-271-roota2">
@@ -7717,7 +8267,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>12</deepord>
-       <val_frame.rf>v#v-w3450f1</val_frame.rf>
+       <val_frame.rf>v#v41fluA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2325-2x3">
          <nodetype>complex</nodetype>
@@ -7770,6 +8320,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>snažit_se</t_lemma>
      <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
       <number>sg</number>
@@ -7781,7 +8332,22 @@
       <negation>neg0</negation>
      </gram>
      <deepord>4</deepord>
-     <val_frame.rf>v#v-w6234f1</val_frame.rf>
+     <discourse>
+      <LM>
+       <target_node.rf>es_127.10-SCzechT-m-271-281</target_node.rf>
+       <type>discourse</type>
+       <start_range>0</start_range>
+       <target_range>0</target_range>
+       <discourse_type>opp</discourse_type>
+       <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
+       <comment>PHASE:2 MANUAL</comment>
+       <src>A_I_A</src>
+       <t-connectors.rf>
+        <LM>es_127.10-SCzechT-m-d1t2325-5</LM>
+       </t-connectors.rf>
+      </LM>
+     </discourse>
+     <val_frame.rf>v#v41kwuA</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2325-5">
        <a>
@@ -7837,7 +8403,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>5</deepord>
-       <val_frame.rf>v#v-w3450f1</val_frame.rf>
+       <val_frame.rf>v#v41fluA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-es_127-439-roota1">
          <nodetype>qcomplex</nodetype>
@@ -7928,7 +8494,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>3</deepord>
-       <val_frame.rf>v#v-w2042f1</val_frame.rf>
+       <val_frame.rf>v#v41croB</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2330-8">
          <a>
@@ -8028,6 +8594,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>říci</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -8038,16 +8605,28 @@
         <negation>neg0</negation>
        </gram>
        <deepord>9</deepord>
-       <val_frame.rf>v#v-w5874f1</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2330-9</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>conj</discourse_type>
+         <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+         <comment>PHASE:1</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2330-14</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41kebA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2330-15x3">
-         <nodetype>complex</nodetype>
+         <nodetype>qcomplex</nodetype>
          <is_generated>1</is_generated>
          <t_lemma>#Gen</t_lemma>
          <functor>ACT</functor>
-         <gram>
-          <sempos>n.pron.def.pers</sempos>
-         </gram>
          <deepord>8</deepord>
         </LM>
         <LM id="es_127.10-SCzechT-es_127-283-roota1">
@@ -8078,7 +8657,7 @@
           <negation>neg0</negation>
          </gram>
          <deepord>12</deepord>
-         <val_frame.rf>v#v-w3450f1</val_frame.rf>
+         <val_frame.rf>v#v41fluA</val_frame.rf>
          <children>
           <LM id="es_127.10-SCzechT-m-d1t2330-22">
            <a>
@@ -8134,7 +8713,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>2</deepord>
-     <val_frame.rf>v#v-w5850f1</val_frame.rf>
+     <val_frame.rf>v#v41kcvA</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2334-1x3">
        <nodetype>complex</nodetype>
@@ -8179,7 +8758,7 @@
       <negation>neg1</negation>
      </gram>
      <deepord>3</deepord>
-     <val_frame.rf>v#v-w5850f1</val_frame.rf>
+     <val_frame.rf>v#v41kcvA</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2338-2">
        <a>
@@ -8188,6 +8767,7 @@
        <nodetype>atom</nodetype>
        <t_lemma>ne</t_lemma>
        <functor>PARTL</functor>
+       <sentmod>enunc</sentmod>
        <deepord>1</deepord>
       </LM>
       <LM id="es_127.10-SCzechT-m-d1t2338-4x3">
@@ -8250,7 +8830,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>2</deepord>
-       <val_frame.rf>v#v-w1639f1</val_frame.rf>
+       <val_frame.rf>v#v41bwvA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2340-1">
          <a>
@@ -8314,7 +8894,22 @@
         <negation>neg0</negation>
        </gram>
        <deepord>6</deepord>
-       <val_frame.rf>v#v-w376hsa_1441</val_frame.rf>
+       <discourse>
+        <LM>
+         <target_node.rf>es_127.10-SCzechT-m-d1t2340-2</target_node.rf>
+         <type>discourse</type>
+         <start_range>0</start_range>
+         <target_range>0</target_range>
+         <discourse_type>conjalt</discourse_type>
+         <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
+         <comment>PHASE:3 RETYPED disjalt->conjalt</comment>
+         <src>A_H_A</src>
+         <t-connectors.rf>
+          <LM>es_127.10-SCzechT-m-d1t2340-3</LM>
+         </t-connectors.rf>
+        </LM>
+       </discourse>
+       <val_frame.rf>v#v41puA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2340-5">
          <a>
@@ -8385,6 +8980,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>objevit</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -8397,7 +8993,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>3</deepord>
-       <val_frame.rf>v#v-w2499f1</val_frame.rf>
+       <val_frame.rf>v#v41dptA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2340-12">
          <a>
@@ -8482,6 +9078,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>jmenovat_se</t_lemma>
        <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
        <is_member>1</is_member>
        <gram>
         <sempos>v</sempos>
@@ -8494,7 +9091,7 @@
         <negation>neg0</negation>
        </gram>
        <deepord>9</deepord>
-       <val_frame.rf>v#v-w1345f1</val_frame.rf>
+       <val_frame.rf>v#v41birA</val_frame.rf>
        <children>
         <LM id="es_127.10-SCzechT-m-d1t2344-1">
          <a>
@@ -8544,6 +9141,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>být</t_lemma>
      <functor>PRED</functor>
+     <proto_lemma>být</proto_lemma>
      <sentmod>enunc</sentmod>
      <gram>
       <sempos>v</sempos>
@@ -8556,7 +9154,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>1</deepord>
-     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <val_frame.rf>v#v41jsM</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-307-309">
        <a>
@@ -8565,6 +9163,7 @@
        <nodetype>complex</nodetype>
        <t_lemma>ten</t_lemma>
        <functor>ACT</functor>
+       <proto_lemma>ten</proto_lemma>
        <gram>
         <sempos>n.pron.def.demon</sempos>
         <gender>neut</gender>
@@ -8714,7 +9313,7 @@
      <nodetype>complex</nodetype>
      <t_lemma>podívat_se</t_lemma>
      <functor>PRED</functor>
-     <sentmod>enunc</sentmod>
+     <sentmod>inter</sentmod>
      <gram>
       <sempos>v</sempos>
       <number>pl</number>
@@ -8726,7 +9325,7 @@
       <negation>neg0</negation>
      </gram>
      <deepord>5</deepord>
-     <val_frame.rf>v#v-w3574f1</val_frame.rf>
+     <val_frame.rf>v#v41fsdH</val_frame.rf>
      <children>
       <LM id="es_127.10-SCzechT-m-d1t2353-3">
        <a>
@@ -8753,6 +9352,7 @@
          <nodetype>complex</nodetype>
          <t_lemma>který</t_lemma>
          <functor>RSTR</functor>
+         <proto_lemma>který</proto_lemma>
          <gram>
           <sempos>n.pron.indef</sempos>
           <gender>fem</gender>

@@ -434,7 +434,7 @@
 </w.rf>
 <form>nárůstu</form>
 <lemma>nárůst</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0016-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -517,7 +517,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0016-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -534,8 +534,8 @@
 <LM>w#w-wsj0016-001-p1s2W7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0016-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

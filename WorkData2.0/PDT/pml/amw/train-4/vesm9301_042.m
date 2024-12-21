@@ -5640,7 +5640,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-042-p27s10w8">
 <src.rf>manual</src.rf>

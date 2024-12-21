@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_087.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 </LM>
 </children>
 </LM>
@@ -61,8 +61,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w5071f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41iogA</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s1Bw1">
 <a>
@@ -128,7 +128,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w5870f1</val_frame.rf>
+<val_frame.rf>v#v41kdxB</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s2w1">
 <a>
@@ -296,7 +296,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w2659f1</val_frame.rf>
+<val_frame.rf>v#v41dxtB</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s2w14">
 <a>
@@ -525,7 +525,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w7994f2</val_frame.rf>
+<val_frame.rf>v#v41odzL</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s3Aw2">
 <a>
@@ -623,13 +623,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-087-p1s3Aw5</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w5040f1</val_frame.rf>
+<val_frame.rf>v#v41imrA</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s3Aw7">
 <a>
@@ -651,7 +652,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w9859f1</val_frame.rf>
+<val_frame.rf>v#v41rwfB</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s3Aa3">
 <nodetype>qcomplex</nodetype>
@@ -747,7 +748,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf920922-087-p1s3Bw1">
 <a>
@@ -794,7 +795,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w6198f1</val_frame.rf>
+<val_frame.rf>v#v41kuxA</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s4w1">
 <a>
@@ -860,6 +861,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>sto</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>sto</proto_lemma>
 <gram>
 <sempos>n.quant.def</sempos>
 <gender>neut</gender>
@@ -1019,7 +1021,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w7449f1</val_frame.rf>
+<val_frame.rf>v#v41ndjA</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s5Aa0">
 <nodetype>complex</nodetype>
@@ -1063,7 +1065,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w732f1</val_frame.rf>
+<val_frame.rf>v#v41afvD</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s5Aw4">
 <a>
@@ -1230,7 +1232,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf920922-087-p1s5Bw2">
 <a>
@@ -1284,7 +1286,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w3407f1</val_frame.rf>
+<val_frame.rf>v#v41fjvA</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s6w4">
 <a>
@@ -1327,6 +1329,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tři</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tři</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -1472,7 +1475,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w9919f1</val_frame.rf>
+<val_frame.rf>v#v41rzeA</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s7w2">
 <a>
@@ -1654,7 +1657,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w9919f1</val_frame.rf>
+<val_frame.rf>v#v41rzeA</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s7w15">
 <a>
@@ -1846,7 +1849,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w9317f1</val_frame.rf>
+<val_frame.rf>v#v41qurD</val_frame.rf>
 <children>
 <LM id="t-mf920922-087-p1s8w3">
 <a>

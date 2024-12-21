@@ -230,8 +230,8 @@
 <LM>w#w-mf920925-018-p2s2w5</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-018-p2s2w6">
 <src.rf>manual</src.rf>
@@ -439,8 +439,8 @@
 <LM>w#w-mf920925-018-p2s3w20</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-018-p2s3w21">
 <src.rf>manual</src.rf>
@@ -1153,8 +1153,8 @@
 <LM>w#w-mf920925-018-p2s8w3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-018-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1474,8 +1474,8 @@
 <LM>w#w-mf920925-018-p2s11w11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-018-p2s11w12">
 <src.rf>manual</src.rf>
@@ -1501,8 +1501,8 @@
 <LM>w#w-mf920925-018-p2s11w14</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-018-p2s11w15">
 <src.rf>manual</src.rf>
@@ -1802,8 +1802,8 @@
 <LM>w#w-mf920925-018-p3s1w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-018-p3s1w14">
 <src.rf>manual</src.rf>

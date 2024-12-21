@@ -630,8 +630,8 @@
 <LM>w#w-mf930709-066-p2s1w12</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf930709-066-p2s1w13">
 <src.rf>manual</src.rf>
@@ -1057,8 +1057,8 @@
 <LM>w#w-mf930709-066-p2s5w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-066-p2s5w12">
 <src.rf>manual</src.rf>

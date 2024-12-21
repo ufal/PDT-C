@@ -512,7 +512,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-036-p1s4w9">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-036-p1s5w4">
 <src.rf>manual</src.rf>
@@ -732,8 +732,8 @@
 <LM>w#w-lnd94103-036-p1s6w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-036-p1s6w2">
 <src.rf>manual</src.rf>
@@ -1160,7 +1160,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-036-p1s8w5">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-lnd94103-036-p1s8w9">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-lnd94103-036-p1s10w28">
 <src.rf>manual</src.rf>
@@ -1759,8 +1759,8 @@
 <LM>w#w-lnd94103-036-p1s11w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-036-p1s11w3">
 <src.rf>manual</src.rf>
@@ -2515,7 +2515,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-036-p1s13w26">
 <src.rf>manual</src.rf>

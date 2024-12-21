@@ -264,8 +264,8 @@
 <LM>w#w-lnd91303-008-p1s2w13</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91303-008-p1s2w14">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-008-p1s2w21">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-008-p2s3w4">
 <src.rf>manual</src.rf>
@@ -2814,7 +2814,7 @@
 <LM>w#w-lnd91303-008-p6s1w2</LM>
 </w.rf>
 <form>ázerbájdžánského</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAMS2----1A----</tag>
 </m>
 <m id="m-lnd91303-008-p6s1w3">

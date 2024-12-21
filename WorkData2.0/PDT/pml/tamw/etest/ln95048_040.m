@@ -790,8 +790,8 @@
 <LM>w#w-ln95048-040-p2s6w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-040-p2s6w11">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95048-040-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1024,8 +1024,8 @@
 <LM>w#w-ln95048-040-p2s6w36</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-040-p2s6w37">
 <src.rf>manual</src.rf>

@@ -4399,7 +4399,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-047-p4s13w19">
 <src.rf>manual</src.rf>
@@ -4572,7 +4572,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-047-p4s14w11">
 <src.rf>manual</src.rf>
@@ -4691,7 +4691,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd91303-047-p4s15w11">
 <src.rf>manual</src.rf>
@@ -5662,8 +5662,8 @@
 <LM>w#w-lnd91303-047-p6s4w1</LM>
 </w.rf>
 <form>Díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP7-----A----</tag>
+<lemma>díky</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-lnd91303-047-p6s4w2">
 <src.rf>manual</src.rf>

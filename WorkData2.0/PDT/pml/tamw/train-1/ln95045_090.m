@@ -660,7 +660,7 @@
 </w.rf>
 <form>Každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-ln95045-090-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1077,8 +1077,8 @@
 <LM>w#w-ln95045-090-p3s5w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-090-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1232,8 +1232,8 @@
 <LM>w#w-ln95045-090-p3s6w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-090-p3s6w11">
 <src.rf>manual</src.rf>
@@ -1331,8 +1331,8 @@
 <LM>w#w-ln95045-090-p3s6w21</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-090-p3s6w22">
 <src.rf>manual</src.rf>

@@ -253,7 +253,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1304-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -396,8 +396,8 @@
 <LM>w#w-wsj1304-001-p1s1W20</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1304-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1199,8 +1199,8 @@
 <LM>w#w-wsj1304-001-p1s5W27</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1304-001-p1s5W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2363,8 +2363,8 @@
 <LM>w#w-wsj1304-001-p1s10W10</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1304-001-p1s10W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2788,8 +2788,8 @@
 <LM>w#w-wsj1304-001-p1s11W23</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-1_^(2_až_3)</lemma>
-<tag>J^-------------</tag>
+<lemma>až-3_^(až_k_...,_až_dost)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1304-001-p1s11W24-Ta">
 <src.rf>tagger-a</src.rf>

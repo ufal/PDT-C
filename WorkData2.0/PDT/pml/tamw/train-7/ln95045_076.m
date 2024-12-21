@@ -230,8 +230,8 @@
 <LM>w#w-ln95045-076-p2s1Bw17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-076-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -813,8 +813,8 @@
 <LM>w#w-ln95045-076-p2s4w6</LM>
 </w.rf>
 <form>obviněný</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-076-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1067,8 +1067,8 @@
 <LM>w#w-ln95045-076-p2s5w1</LM>
 </w.rf>
 <form>Obviněnému</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMS3----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMS3-----A----</tag>
 </m>
 <m id="m-ln95045-076-p2s5w2">
 <src.rf>manual</src.rf>

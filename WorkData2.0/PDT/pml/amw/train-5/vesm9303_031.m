@@ -907,7 +907,7 @@
 <LM>w#w-vesm9303-031-p3s2w17</LM>
 </w.rf>
 <form>vleklé</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AAFS3----1A----</tag>
 </m>
 <m id="m-vesm9303-031-p3s2w18">
@@ -3612,7 +3612,7 @@
 <LM>w#w-vesm9303-031-p4s6w1</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-031-p4s6w2">
@@ -3666,7 +3666,7 @@
 <LM>w#w-vesm9303-031-p4s6w7</LM>
 </w.rf>
 <form>representují</form>
-<lemma>representovat</lemma>
+<lemma>representovat_,s_^(^DD**reprezentovat)</lemma>
 <tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9303-031-p4s6w8">
@@ -9021,7 +9021,7 @@
 <LM>w#w-vesm9303-031-p6s5w38</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-031-p6s5w39">
@@ -10282,8 +10282,8 @@
 <LM>w#w-vesm9303-031-p6s9w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-031-p6s9w4">
 <src.rf>manual</src.rf>
@@ -10918,7 +10918,7 @@
 <LM>w#w-vesm9303-031-p6s12w4</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9303-031-p6s12w5">
@@ -11927,7 +11927,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9303-031-p7s3w9">
 <src.rf>manual</src.rf>

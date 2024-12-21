@@ -695,8 +695,8 @@
 <LM>w#w-ln94206-2-p3s2w16</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94206-2-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1999,8 +1999,8 @@
 <LM>w#w-ln94206-2-p5s1w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-2-p5s1w7">
 <src.rf>manual</src.rf>

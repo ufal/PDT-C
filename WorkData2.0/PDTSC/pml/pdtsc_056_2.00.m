@@ -444,7 +444,7 @@
 <LM>w#w-d1t41-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m106-d1t41-3">
@@ -828,8 +828,8 @@
 <LM>w#w-d1t51-7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m106-d1t51-8">
 <w.rf>
@@ -1439,7 +1439,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m106-d1t80-21">
 <w.rf>

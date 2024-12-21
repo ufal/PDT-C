@@ -284,8 +284,8 @@
 <LM>w#w-mf920922-103-p2s1w13</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s1w14">
 <src.rf>manual</src.rf>
@@ -349,8 +349,8 @@
 <LM>w#w-mf920922-103-p2s2w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s2w3">
 <src.rf>manual</src.rf>
@@ -358,8 +358,8 @@
 <LM>w#w-mf920922-103-p2s2w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s2w4">
 <src.rf>manual</src.rf>
@@ -689,8 +689,8 @@
 <LM>w#w-mf920922-103-p2s5w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1552,8 +1552,8 @@
 <LM>w#w-mf920922-103-p2s8Bw4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s8Bw5">
 <src.rf>manual</src.rf>
@@ -1889,8 +1889,8 @@
 <LM>w#w-mf920922-103-p2s10w20</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s10w21">
 <src.rf>manual</src.rf>
@@ -1999,8 +1999,8 @@
 <LM>w#w-mf920922-103-p2s11Aw8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s11Aw9">
 <src.rf>manual</src.rf>
@@ -2598,8 +2598,8 @@
 <LM>w#w-mf920922-103-p2s16w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s16w4">
 <src.rf>manual</src.rf>
@@ -2870,8 +2870,8 @@
 <LM>w#w-mf920922-103-p2s17Aw11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s17Aw12">
 <src.rf>manual</src.rf>
@@ -3211,8 +3211,8 @@
 <LM>w#w-mf920922-103-p2s20w1</LM>
 </w.rf>
 <form>Zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s20w2">
 <src.rf>manual</src.rf>
@@ -3274,8 +3274,8 @@
 <LM>w#w-mf920922-103-p2s20w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s20w9">
 <src.rf>manual</src.rf>
@@ -3648,7 +3648,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf920922-103-p2s21Bw24">
 <src.rf>manual</src.rf>
@@ -4021,7 +4021,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s23w13">
 <src.rf>manual</src.rf>
@@ -4177,8 +4177,8 @@
 <LM>w#w-mf920922-103-p2s24Bw3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s24Bw4">
 <src.rf>manual</src.rf>
@@ -4705,8 +4705,8 @@
 <LM>w#w-mf920922-103-p2s26Aw14</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s26Aw15">
 <src.rf>manual</src.rf>
@@ -5417,8 +5417,8 @@
 <LM>w#w-mf920922-103-p2s30w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s30w11">
 <src.rf>manual</src.rf>
@@ -5853,8 +5853,8 @@
 <LM>w#w-mf920922-103-p2s32Aw7</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-103-p2s32Aw8">
 <src.rf>manual</src.rf>

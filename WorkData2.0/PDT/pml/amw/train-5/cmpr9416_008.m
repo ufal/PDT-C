@@ -1661,8 +1661,8 @@
 <LM>w#w-cmpr9416-008-p9s1w3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9416-008-p9s1w4">
 <src.rf>manual</src.rf>
@@ -2244,8 +2244,8 @@
 <LM>w#w-cmpr9416-008-p10s1w16</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-008-p10s1w17">
 <src.rf>manual</src.rf>
@@ -2465,7 +2465,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-008-p11s1w4">
 <src.rf>manual</src.rf>
@@ -3713,8 +3713,8 @@
 <LM>w#w-cmpr9416-008-p13s3w10</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-008-p13s3w11">
 <src.rf>manual</src.rf>

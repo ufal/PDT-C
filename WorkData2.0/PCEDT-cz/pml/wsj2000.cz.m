@@ -570,7 +570,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-wsj2000-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

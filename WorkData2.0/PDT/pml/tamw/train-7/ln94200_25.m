@@ -113,8 +113,8 @@
 <LM>w#w-ln94200-25-p2s3w3</LM>
 </w.rf>
 <form>Nezaměstnaní</form>
-<lemma>zaměstnaný_^(*2t)</lemma>
-<tag>AAMP1----1N----</tag>
+<lemma>nezaměstnaný-2_^(člověk_bez_zaměstnání)</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94200-25-p2s3w4">
 <src.rf>manual</src.rf>
@@ -131,8 +131,8 @@
 <LM>w#w-ln94200-25-p2s3w5</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-25-p2s3w6">
 <src.rf>manual</src.rf>

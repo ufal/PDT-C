@@ -150,7 +150,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94206-90-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-ln94206-90-p2s4w6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-ln94206-90-p2s4w7">
@@ -653,8 +653,8 @@
 <LM>w#w-ln94206-90-p2s5w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-90-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1662,8 +1662,8 @@
 <LM>w#w-ln94206-90-p3s1w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-90-p3s1w22">
 <src.rf>manual</src.rf>
@@ -2029,8 +2029,8 @@
 <LM>w#w-ln94206-90-p3s4w1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-90-p3s4w2">
 <src.rf>manual</src.rf>
@@ -2101,8 +2101,8 @@
 <LM>w#w-ln94206-90-p3s4w9</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-90-p3s4w10">
 <src.rf>manual</src.rf>
@@ -3916,8 +3916,8 @@
 <LM>w#w-ln94206-90-p5s2w9</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-90-p5s2w10">
 <src.rf>manual</src.rf>
@@ -4710,7 +4710,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-90-p5s11w5">
 <src.rf>manual</src.rf>
@@ -4754,8 +4754,8 @@
 <LM>w#w-ln94206-90-p5s11w9</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-90-p5s11w10">
 <src.rf>manual</src.rf>

@@ -339,7 +339,7 @@
 </w.rf>
 <form>Julie</form>
 <lemma>Julie_;Y</lemma>
-<tag>NNFS1-----A----</tag>
+<tag>NNFS5-----A----</tag>
 </m>
 <m id="m-mf920922-031-p1s3w6">
 <src.rf>manual</src.rf>

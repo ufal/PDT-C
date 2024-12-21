@@ -160,8 +160,8 @@
 <LM>w#w-wsj0573-001-p1s0W17</LM>
 </w.rf>
 <form>zjevně</form>
-<lemma>zjevně-2</lemma>
-<tag>TT-------------</tag>
+<lemma>zjevně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj0573-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3123,8 +3123,8 @@
 <LM>w#w-wsj0573-001-p1s15W19</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0573-001-p1s15W20-Ta">
 <src.rf>tagger-a</src.rf>

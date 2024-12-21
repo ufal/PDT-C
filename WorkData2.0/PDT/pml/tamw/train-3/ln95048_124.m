@@ -488,8 +488,8 @@
 <LM>w#w-ln95048-124-p3s3w3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-124-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1937,8 +1937,8 @@
 <LM>w#w-ln95048-124-p3s12w15</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-124-p3s12w16">
 <src.rf>manual</src.rf>
@@ -2155,8 +2155,8 @@
 <LM>w#w-ln95048-124-p3s13w18</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-124-p3s13w19">
 <src.rf>manual</src.rf>
@@ -2382,8 +2382,8 @@
 <LM>w#w-ln95048-124-p3s14w23</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-124-p3s14w24">
 <src.rf>manual</src.rf>
@@ -2556,7 +2556,7 @@
 </w.rf>
 <form>blahopřeji</form>
 <lemma>blahopřát</lemma>
-<tag>VB-S---1P-AAP-1</tag>
+<tag>VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-ln95048-124-p3s15w17">
 <src.rf>manual</src.rf>
@@ -3018,8 +3018,8 @@
 <LM>w#w-ln95048-124-p3s17w17</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-124-p3s17w18">
 <src.rf>manual</src.rf>
@@ -3263,8 +3263,8 @@
 <LM>w#w-ln95048-124-p3s18w9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-124-p3s18w10">
 <src.rf>manual</src.rf>
@@ -3492,8 +3492,8 @@
 <LM>w#w-ln95048-124-p3s20w7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-124-p3s20w8">
 <src.rf>manual</src.rf>
@@ -3701,8 +3701,8 @@
 <LM>w#w-ln95048-124-p3s21w18</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-124-p3s21w19">
 <src.rf>manual</src.rf>
@@ -3719,8 +3719,8 @@
 <LM>w#w-ln95048-124-p3s21w20</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-124-p3s21w21">
 <src.rf>manual</src.rf>
@@ -3911,7 +3911,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95048-124-p3s22w20">
 <src.rf>manual</src.rf>

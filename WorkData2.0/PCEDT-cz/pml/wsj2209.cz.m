@@ -1235,7 +1235,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj2209-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2088,8 +2088,8 @@
 <LM>w#w-wsj2209-001-p1s8W21</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2209-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>

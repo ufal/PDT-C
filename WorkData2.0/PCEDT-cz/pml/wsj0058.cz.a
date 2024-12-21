@@ -16,27 +16,20 @@
 <s.rf>m#m-wsj0058-001-p1s0</s.rf>
 <ord>0</ord>
 <children>
-<LM id="a-wsj0058-001-p1s0W6-Ta">
-<m.rf>m#m-wsj0058-001-p1s0W6-Ta</m.rf>
-<afun>Apos</afun>
-<ord>6</ord>
-<children>
 <LM id="a-wsj0058-001-p1s0W4-Ta">
 <m.rf>m#m-wsj0058-001-p1s0W4-Ta</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Denom</afun>
 <ord>4</ord>
+<children>
+<LM id="a-wsj0058-001-p1s0W1-Ta">
+<m.rf>m#m-wsj0058-001-p1s0W1-Ta</m.rf>
+<afun>Atr</afun>
+<ord>1</ord>
 <children>
 <LM id="a-wsj0058-001-p1s0W2-Ta">
 <m.rf>m#m-wsj0058-001-p1s0W2-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>2</ord>
-<children>
-<LM id="a-wsj0058-001-p1s0W1-Ta">
-<m.rf>m#m-wsj0058-001-p1s0W1-Ta</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
-<ord>1</ord>
 </LM>
 </children>
 </LM>
@@ -50,17 +43,20 @@
 <afun>AuxG</afun>
 <ord>5</ord>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0058-001-p1s0W9-Ta">
 <m.rf>m#m-wsj0058-001-p1s0W9-Ta</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>9</ord>
 <children>
+<LM id="a-wsj0058-001-p1s0W6-Ta">
+<m.rf>m#m-wsj0058-001-p1s0W6-Ta</m.rf>
+<afun>AuxG</afun>
+<ord>6</ord>
+</LM>
 <LM id="a-wsj0058-001-p1s0W8-Ta">
 <m.rf>m#m-wsj0058-001-p1s0W8-Ta</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>8</ord>
 <children>
@@ -73,7 +69,7 @@
 </LM>
 <LM id="a-wsj0058-001-p1s0W11-Ta">
 <m.rf>m#m-wsj0058-001-p1s0W11-Ta</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>11</ord>
 <children>
@@ -91,12 +87,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0058-001-p1s0W13-Ta">
 <m.rf>m#m-wsj0058-001-p1s0W13-Ta</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>13</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -175,6 +171,8 @@
 <afun>Atr</afun>
 <ord>9</ord>
 </LM>
+</children>
+</LM>
 <LM id="a-wsj0058-001-p1s1W11-Ta">
 <m.rf>m#m-wsj0058-001-p1s1W11-Ta</m.rf>
 <afun>Atr</afun>
@@ -204,8 +202,6 @@
 <m.rf>m#m-wsj0058-001-p1s1W16-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>16</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -323,12 +319,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0058-001-p1s1W36-Ta">
 <m.rf>m#m-wsj0058-001-p1s1W36-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>36</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

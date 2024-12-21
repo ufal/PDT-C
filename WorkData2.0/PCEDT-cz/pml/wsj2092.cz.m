@@ -542,8 +542,8 @@
 <LM>w#w-wsj2092-001-p1s2W2</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj2092-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1460,7 +1460,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2092-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1630,8 +1630,8 @@
 <LM>w#w-wsj2092-001-p1s6W23</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2092-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1991,8 +1991,8 @@
 <LM>w#w-lnd94104-138-p1s10w6</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-138-p1s10w7">
 <src.rf>manual</src.rf>
@@ -2227,8 +2227,8 @@
 <LM>w#w-lnd94104-138-p1s11w5</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-138-p1s11w6">
 <src.rf>manual</src.rf>
@@ -2445,7 +2445,7 @@
 <LM>w#w-lnd94104-138-p1s12w13</LM>
 </w.rf>
 <form>hájili</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-138-p1s12w14">

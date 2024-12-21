@@ -19,7 +19,7 @@
 <LM>w#w-ln94210-96-p1s1w1</LM>
 </w.rf>
 <form>Nevyvratitelný</form>
-<lemma>vyvratitelný_^(*8átit)</lemma>
+<lemma>vyvratitelný_,s_^(^DD**vyvrátitelný)</lemma>
 <tag>AAIS1----1N----</tag>
 </m>
 <m id="m-ln94210-96-p1s1w2">
@@ -1357,7 +1357,7 @@
 <LM>w#w-ln94210-96-p3s8w3</LM>
 </w.rf>
 <form>spjata</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACQW------A----</tag>
 </m>
 <m id="m-ln94210-96-p3s8w4">
@@ -1366,8 +1366,8 @@
 <LM>w#w-ln94210-96-p3s8w4</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-96-p3s8w5">
 <src.rf>manual</src.rf>
@@ -2237,8 +2237,8 @@
 <LM>w#w-ln94210-96-p4s2w62</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-96-p4s2w63">
 <src.rf>manual</src.rf>
@@ -3014,8 +3014,8 @@
 <LM>w#w-ln94210-96-p4s8w19</LM>
 </w.rf>
 <form>postupem</form>
-<lemma>postup</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>postupem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-96-p4s8w20">
 <src.rf>manual</src.rf>
@@ -3061,8 +3061,8 @@
 <LM>w#w-ln94210-96-p4s9w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-96-p4s9w2">
 <src.rf>manual</src.rf>
@@ -3807,8 +3807,8 @@
 <LM>w#w-ln94210-96-p5s1w8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-96-p5s1w9">
 <src.rf>manual</src.rf>

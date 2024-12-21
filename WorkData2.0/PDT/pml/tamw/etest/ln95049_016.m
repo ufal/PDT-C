@@ -55,8 +55,8 @@
 <LM>w#w-ln95049-016-p1s1w5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-016-p1s1w6">
 <src.rf>manual</src.rf>
@@ -778,8 +778,8 @@
 <LM>w#w-ln95049-016-p3s3w12</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-016-p3s3w13">
 <src.rf>manual</src.rf>
@@ -787,8 +787,8 @@
 <LM>w#w-ln95049-016-p3s3w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-016-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1062,7 +1062,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln95049-016-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 </w.rf>
 <form>věnováno</form>
 <lemma>věnovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-ln95049-016-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1399,7 +1399,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95049-016-p4s2w12">
 <src.rf>manual</src.rf>

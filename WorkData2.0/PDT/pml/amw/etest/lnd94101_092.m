@@ -2110,7 +2110,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-092-p1s12w7">
 <src.rf>manual</src.rf>
@@ -2494,7 +2494,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-092-p1s14w11">
 <src.rf>manual</src.rf>
@@ -2932,7 +2932,7 @@
 </w.rf>
 <form>to</form>
 <lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m-lnd94101-092-p1s17w10">
 <src.rf>manual</src.rf>
@@ -3287,7 +3287,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-092-p1s18Bw12">
 <src.rf>manual</src.rf>
@@ -3360,8 +3360,8 @@
 <LM>w#w-lnd94101-092-p1s19w2</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-lnd94101-092-p1s19w3">
 <src.rf>manual</src.rf>
@@ -3844,7 +3844,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-092-p1s22w7">
 <src.rf>manual</src.rf>
@@ -4869,7 +4869,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-092-p1s29Bw2">
 <src.rf>manual</src.rf>

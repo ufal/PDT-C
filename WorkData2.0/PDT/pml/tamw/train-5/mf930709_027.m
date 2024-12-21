@@ -1115,8 +1115,8 @@
 <LM>w#w-mf930709-027-p3s2w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-027-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1675,8 +1675,8 @@
 <LM>w#w-mf930709-027-p3s3w32</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-027-p3s3w33">
 <src.rf>manual</src.rf>
@@ -1767,8 +1767,8 @@
 <LM>w#w-mf930709-027-p3s4w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-027-p3s4w9">
 <src.rf>manual</src.rf>

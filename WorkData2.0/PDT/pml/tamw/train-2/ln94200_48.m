@@ -803,8 +803,8 @@
 <LM>w#w-ln94200-48-p3s2w8</LM>
 </w.rf>
 <form>mladiství</form>
-<lemma>mladistvý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>mladistvý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94200-48-p3s2w9">
 <src.rf>manual</src.rf>
@@ -967,8 +967,8 @@
 <LM>w#w-ln94200-48-p3s3w7</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-48-p3s3w8">
 <src.rf>manual</src.rf>

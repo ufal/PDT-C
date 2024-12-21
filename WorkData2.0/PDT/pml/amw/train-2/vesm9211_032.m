@@ -228,8 +228,8 @@
 <LM>w#w-vesm9211-032-p2s1w17</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-032-p2s1w18">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 </w.rf>
 <form>aktivují</form>
 <lemma>aktivovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-032-p2s2w19">
 <src.rf>manual</src.rf>
@@ -2054,8 +2054,8 @@
 <LM>w#w-vesm9211-032-p2s9w7</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9211-032-p2s9w8">
 <src.rf>manual</src.rf>
@@ -2674,8 +2674,8 @@
 <LM>w#w-vesm9211-032-p2s13w5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9211-032-p2s13w6">
 <src.rf>manual</src.rf>

@@ -305,7 +305,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s1W6</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>39.55</form>
 <lemma>39.55</lemma>
 <tag>C=-------------</tag>
@@ -333,7 +332,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s1W8</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>2683.20</form>
 <lemma>2683.20</lemma>
 <tag>C=-------------</tag>
@@ -682,7 +680,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s4W8</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>0.2</form>
 <lemma>0.2</lemma>
 <tag>C=-------------</tag>
@@ -711,8 +708,8 @@
 <LM>w#w-wsj1728-001-p1s4W11</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1728-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1094,7 +1091,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1728-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2138,8 +2135,8 @@
 <LM>w#w-wsj1728-001-p1s11W22</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1728-001-p1s11W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2512,7 +2509,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1728-001-p1s13W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3740,8 +3737,8 @@
 <LM>w#w-wsj1728-001-p1s20W16</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1728-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3903,7 +3900,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s21W13</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>4.2</form>
 <lemma>4.2</lemma>
 <tag>C=-------------</tag>
@@ -4224,8 +4220,8 @@
 <LM>w#w-wsj1728-001-p1s23W13</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1728-001-p1s23W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4233,8 +4229,8 @@
 <LM>w#w-wsj1728-001-p1s23W14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1728-001-p1s23W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4965,7 +4961,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s29W5</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>2683.20</form>
 <lemma>2683.20</lemma>
 <tag>C=-------------</tag>
@@ -5002,7 +4997,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s29W9</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>39.55</form>
 <lemma>39.55</lemma>
 <tag>C=-------------</tag>
@@ -5030,7 +5024,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s29W12</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1263.51</form>
 <lemma>1263.51</lemma>
 <tag>C=-------------</tag>
@@ -5067,7 +5060,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s29W16</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>15.64</form>
 <lemma>15.64</lemma>
 <tag>C=-------------</tag>
@@ -5095,7 +5087,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s29W19</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>215.42</form>
 <lemma>215.42</lemma>
 <tag>C=-------------</tag>
@@ -5132,7 +5123,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s29W23</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.45</form>
 <lemma>1.45</lemma>
 <tag>C=-------------</tag>
@@ -5216,7 +5206,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s30W8</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>3398.65</form>
 <lemma>3398.65</lemma>
 <tag>C=-------------</tag>
@@ -5318,7 +5307,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s31W9</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>130.13</form>
 <lemma>130.13</lemma>
 <tag>C=-------------</tag>
@@ -5355,7 +5343,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s31W13</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>0.23</form>
 <lemma>0.23</lemma>
 <tag>C=-------------</tag>
@@ -5383,7 +5370,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s31W16</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>130.46</form>
 <lemma>130.46</lemma>
 <tag>C=-------------</tag>
@@ -5420,7 +5406,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s31W20</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>0.10</form>
 <lemma>0.10</lemma>
 <tag>C=-------------</tag>
@@ -5468,7 +5453,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s32W4</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>141.70</form>
 <lemma>141.70</lemma>
 <tag>C=-------------</tag>
@@ -5505,7 +5489,6 @@
 <w.rf>
 <LM>w#w-wsj1728-001-p1s32W8</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>0.25</form>
 <lemma>0.25</lemma>
 <tag>C=-------------</tag>

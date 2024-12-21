@@ -241,8 +241,8 @@
 <LM>w#w-wsj2271-001-p1s1W24</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-4_^(který:_o_těch,_co_odešli)</lemma>
-<tag>P4XXX----------</tag>
+<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj2271-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -470,7 +470,7 @@
 </w.rf>
 <form>Rocku</form>
 <lemma>Rock_;G</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj2271-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>

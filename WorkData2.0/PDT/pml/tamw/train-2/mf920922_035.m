@@ -805,8 +805,8 @@
 <LM>w#w-mf920922-035-p2s6w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920922-035-p2s6w2">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf920922-035-p2s6w11">
 <src.rf>manual</src.rf>

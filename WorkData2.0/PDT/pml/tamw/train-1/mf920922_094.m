@@ -538,8 +538,8 @@
 <LM>w#w-mf920922-094-p2s3Aw4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s3Aw5">
 <src.rf>manual</src.rf>
@@ -682,8 +682,8 @@
 <LM>w#w-mf920922-094-p2s3Aw20</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s3Aw21">
 <src.rf>manual</src.rf>
@@ -855,8 +855,8 @@
 <LM>w#w-mf920922-094-p2s3Bw4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s3Bw5">
 <src.rf>manual</src.rf>
@@ -1049,7 +1049,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-mf920922-094-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1230,8 +1230,8 @@
 <LM>w#w-mf920922-094-p2s6Aw7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s6Aw8">
 <src.rf>manual</src.rf>
@@ -1466,8 +1466,8 @@
 <LM>w#w-mf920922-094-p2s6Bw6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s6Bw7">
 <src.rf>manual</src.rf>
@@ -1594,8 +1594,8 @@
 <LM>w#w-mf920922-094-p2s7w3</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1840,7 +1840,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AANS7----1A----</tag>
+<tag>PLNS7----------</tag>
 </m>
 <m id="m-mf920922-094-p2s8w14">
 <src.rf>manual</src.rf>
@@ -2250,8 +2250,8 @@
 <LM>w#w-mf920922-094-p2s11w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s11w2">
 <src.rf>manual</src.rf>
@@ -2358,8 +2358,8 @@
 <LM>w#w-mf920922-094-p2s11w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s11w14">
 <src.rf>manual</src.rf>

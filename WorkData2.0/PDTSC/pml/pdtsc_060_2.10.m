@@ -242,8 +242,8 @@
 <LM>w#w-d1t2407-21</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m129-d1t2407-24">
 <w.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-d1t2416-7</LM>
 </w.rf>
 <form>rozesadit</form>
-<lemma>rozesadit</lemma>
+<lemma>rozesadit_,s_^(^DD**rozsadit)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m129-d1t2416-8">
@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m129-75-338">
 <w.rf>
@@ -1358,8 +1358,8 @@
 <LM>w#w-d1t2476-4</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m129-d1t2476-5">
 <w.rf>
@@ -1488,7 +1488,7 @@
 <LM>w#w-d1t2485-5</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m129-d1t2485-3">
@@ -2619,8 +2619,8 @@
 <LM>w#w-d1t2536-11</LM>
 </w.rf>
 <form>Až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m129-d1t2536-12">
 <w.rf>
@@ -3261,7 +3261,7 @@
 <LM>w#w-d1t2565-4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m129-d1t2565-7">
@@ -3401,8 +3401,8 @@
 <LM>w#w-d1t2571-4</LM>
 </w.rf>
 <form>Kupodivu</form>
-<lemma>kupodivu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>kupodivu-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m129-d1t2571-1">
 <w.rf>

@@ -1471,8 +1471,8 @@
 <LM>w#w-lnd94101-049-p1s11w18</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-049-p1s11w19">
 <src.rf>manual</src.rf>
@@ -1830,7 +1830,7 @@
 <LM>w#w-lnd94101-049-p1s14w4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-049-p1s14w5">
@@ -1903,7 +1903,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-049-p1s14w13">
 <src.rf>manual</src.rf>

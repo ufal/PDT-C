@@ -170,8 +170,8 @@
 <LM>w#w-d1t29-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d-m-d1e24-x2-punct-punct">
 <w.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-d1t43-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m112-d1t43-3">
@@ -940,8 +940,8 @@
 <LM>w#w-d1t83-1</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t83-2">
 <w.rf>
@@ -1504,8 +1504,8 @@
 <LM>w#w-d1t110-3</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t110-4">
 <w.rf>
@@ -2158,8 +2158,8 @@
 <LM>w#w-d1t144-15</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m112-d1t144-16">
 <w.rf>
@@ -2193,7 +2193,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m112-d1t146-3">
 <w.rf>
@@ -2330,8 +2330,8 @@
 <LM>w#w-d1t149-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t149-6">
 <w.rf>
@@ -3096,8 +3096,8 @@
 <LM>w#w-d1t191-1</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t191-2">
 <w.rf>
@@ -3394,8 +3394,8 @@
 <LM>w#w-d1t208-1</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t208-2">
 <w.rf>
@@ -4445,7 +4445,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t274-8">
 <w.rf>

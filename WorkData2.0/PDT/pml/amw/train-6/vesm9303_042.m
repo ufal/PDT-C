@@ -327,7 +327,7 @@
 </w.rf>
 <form>nebezpečí</form>
 <lemma>nebezpečí</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-042-p7s1">
@@ -500,8 +500,8 @@
 <LM>w#w-vesm9303-042-p12s1w5</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-1</lemma>
-<tag>J^-------------</tag>
+<lemma>a-77</lemma>
+<tag>F%-------------</tag>
 </m>
 <m id="m-vesm9303-042-p12s1w6">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 </w.rf>
 <form>uplatnenia</form>
 <lemma>uplatnenie</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-042-p13s1">
@@ -567,7 +567,7 @@
 <LM>w#w-vesm9303-042-p14s1w2</LM>
 </w.rf>
 <form>neeukleidovských</form>
-<lemma>eukleidovský</lemma>
+<lemma>eukleidovský_,s_^(^DD**euklidovský)</lemma>
 <tag>AAIP2----1N----</tag>
 </m>
 <m id="m-vesm9303-042-p14s1w3">

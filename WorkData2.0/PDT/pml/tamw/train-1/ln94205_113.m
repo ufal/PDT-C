@@ -141,7 +141,7 @@
 </w.rf>
 <form>sezony</form>
 <lemma>sezona_,s_^(^DD**sezóna)</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-113-p2s1Bw7">
 <src.rf>manual</src.rf>

@@ -859,8 +859,8 @@
 <LM>w#w-lnd91303-105-p4s5w12</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd91303-105-p4s5w13">
 <src.rf>manual</src.rf>
@@ -1050,8 +1050,8 @@
 <LM>w#w-lnd91303-105-p4s6w1</LM>
 </w.rf>
 <form>Nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91303-105-p4s6w2">
 <src.rf>manual</src.rf>

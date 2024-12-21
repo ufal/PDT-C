@@ -624,8 +624,8 @@
 <LM>w#w-lnd94101-100-p1s4w13</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94101-100-p1s4w14">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 </w.rf>
 <form>rozdá</form>
 <lemma>rozdat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94101-100-p1s4w32">
 <src.rf>manual</src.rf>
@@ -2085,7 +2085,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-100-p1s8w25">
 <src.rf>manual</src.rf>

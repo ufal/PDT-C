@@ -350,8 +350,8 @@
 <LM>w#w-d1t789-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m118-d1t789-4">
 <w.rf>
@@ -434,8 +434,8 @@
 <LM>w#w-d1t797-4</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m118-d1t797-2">
 <w.rf>
@@ -2622,8 +2622,8 @@
 <LM>w#w-d1t922-16</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m118-d1t922-17">
 <w.rf>
@@ -2704,7 +2704,7 @@
 <LM>w#w-d1t922-28</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m118-d1t922-29">
@@ -3094,7 +3094,7 @@
 <LM>w#w-d1t937-10</LM>
 </w.rf>
 <form>jockey</form>
-<lemma>jockey_^(žokej)</lemma>
+<lemma>jockey_,s_^(^DD**žokej)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m118-d1t939-1">
@@ -3192,7 +3192,7 @@
 <LM>w#w-d1t948-1</LM>
 </w.rf>
 <form>jockey</form>
-<lemma>jockey_^(žokej)</lemma>
+<lemma>jockey_,s_^(^DD**žokej)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m118-d1t950-1">
@@ -3216,7 +3216,7 @@
 <LM>w#w-d1t952-3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m118-d1t952-4">
@@ -3282,8 +3282,8 @@
 <LM>w#w-d1t952-10</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
-<tag>J,-------------</tag>
+<lemma>až-3_^(až_k_...,_až_dost)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m118-d1t952-11">
 <w.rf>
@@ -3484,8 +3484,8 @@
 <LM>w#w-d1t956-17</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m118-d1t956-18">
 <w.rf>

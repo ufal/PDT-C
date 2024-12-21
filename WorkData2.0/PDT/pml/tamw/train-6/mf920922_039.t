@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_039.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf920922-039-p1s1w1">
 <a>
@@ -120,7 +120,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9515f1</val_frame.rf>
+<val_frame.rf>v#v41rexB</val_frame.rf>
 <children>
 <LM id="t-mf920922-039-p2s2w3">
 <a>
@@ -436,7 +436,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w7842f4</val_frame.rf>
+<val_frame.rf>v#v41nwvL</val_frame.rf>
 <children>
 <LM id="t-mf920922-039-p2s3a0">
 <nodetype>qcomplex</nodetype>
@@ -501,7 +501,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w8856f1</val_frame.rf>
+<val_frame.rf>v#v41pwkA</val_frame.rf>
 <children>
 <LM id="t-mf920922-039-p2s3w4">
 <a>
@@ -551,7 +551,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w8856f1</val_frame.rf>
+<val_frame.rf>v#v41pwkA</val_frame.rf>
 <children>
 <LM id="t-mf920922-039-p2s3w6">
 <a>
@@ -692,7 +692,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w3540f1</val_frame.rf>
+<val_frame.rf>v#v41fqiA</val_frame.rf>
 <children>
 <LM id="t-mf920922-039-p2s4a0">
 <nodetype>qcomplex</nodetype>
@@ -720,7 +720,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w1218f1</val_frame.rf>
+<val_frame.rf>v#v41bdgB</val_frame.rf>
 <children>
 <LM id="t-mf920922-039-p2s4w3">
 <a>
@@ -812,8 +812,9 @@
 <lex.rf>a#a-mf920922-039-p2s4w7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>stonásobný</t_lemma>
+<t_lemma>stonásobně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>stonásobný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>

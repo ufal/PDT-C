@@ -559,7 +559,6 @@
 <w.rf>
 <LM>w#w-wsj2273-001-p1s3W10</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>2.6</form>
 <lemma>2.6</lemma>
 <tag>C=-------------</tag>
@@ -1015,7 +1014,6 @@
 <w.rf>
 <LM>w#w-wsj2273-001-p1s5W23</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>62.5</form>
 <lemma>62.5</lemma>
 <tag>C=-------------</tag>
@@ -1280,7 +1278,6 @@
 <w.rf>
 <LM>w#w-wsj2273-001-p1s6W11</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>82.1</form>
 <lemma>82.1</lemma>
 <tag>C=-------------</tag>

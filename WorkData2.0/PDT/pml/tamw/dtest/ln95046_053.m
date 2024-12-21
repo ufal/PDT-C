@@ -1413,7 +1413,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95046-053-p2s8w6">
 <src.rf>manual</src.rf>
@@ -2467,7 +2467,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-ln95046-053-p3s4w25">
 <src.rf>manual</src.rf>

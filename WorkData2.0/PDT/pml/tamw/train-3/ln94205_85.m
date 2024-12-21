@@ -565,8 +565,8 @@
 <LM>w#w-ln94205-85-p3s1w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-85-p3s1w18">
 <src.rf>manual</src.rf>
@@ -601,8 +601,8 @@
 <LM>w#w-ln94205-85-p3s1w21</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94205-85-p3s1w22">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-ln94205-85-p3s2w21">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-85-p3s2w27">
 <src.rf>manual</src.rf>

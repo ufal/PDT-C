@@ -221,8 +221,8 @@
 <LM>w#w-vesm9303-051-p3s1w12</LM>
 </w.rf>
 <form>stranou</form>
-<lemma>stranou</lemma>
-<tag>Db-------------</tag>
+<lemma>stranou-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-051-p3s1w13">
 <src.rf>manual</src.rf>
@@ -2613,7 +2613,7 @@
 </w.rf>
 <form>obléci</form>
 <lemma>obléci</lemma>
-<tag>Vf--------A-P-2</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9303-051-p5s3w30">
 <src.rf>manual</src.rf>
@@ -4832,7 +4832,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-051-p7s6w2">
 <src.rf>manual</src.rf>
@@ -4948,7 +4948,7 @@
 <LM>w#w-vesm9303-051-p7s6w14</LM>
 </w.rf>
 <form>Sekyra</form>
-<lemma>sekyra</lemma>
+<lemma>sekyra_,s_^(^DD**sekera)</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-051-p7s6w15">
@@ -5061,7 +5061,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-051-p9s4w10">
 <src.rf>manual</src.rf>
@@ -5405,7 +5405,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-051-p10s1w28">
 <src.rf>manual</src.rf>
@@ -6168,8 +6168,8 @@
 <LM>w#w-vesm9303-051-p11s2w16</LM>
 </w.rf>
 <form>Smutný</form>
-<lemma>smutný</lemma>
-<tag>AAFP1----1A---6</tag>
+<lemma>Smutný_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-051-p11s2w17">
 <src.rf>manual</src.rf>

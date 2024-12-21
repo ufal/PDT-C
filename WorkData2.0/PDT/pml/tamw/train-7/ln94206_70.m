@@ -376,7 +376,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-70-p2s2w15">
 <src.rf>manual</src.rf>
@@ -501,8 +501,8 @@
 <LM>w#w-ln94206-70-p2s2w28</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-70-p2s2w29">
 <src.rf>manual</src.rf>
@@ -575,8 +575,8 @@
 <LM>w#w-ln94206-70-p2s3w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-70-p2s3w5">
 <src.rf>manual</src.rf>

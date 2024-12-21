@@ -890,7 +890,7 @@
 <LM>w#w-vesm9303-037-p1s4w8</LM>
 </w.rf>
 <form>dozvěděla</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-037-p1s4w9">
@@ -1924,7 +1924,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-037-p4s4w13">
 <src.rf>manual</src.rf>

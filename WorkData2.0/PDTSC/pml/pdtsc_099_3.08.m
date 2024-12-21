@@ -181,7 +181,7 @@
 </w.rf>
 <form>Nashledanou</form>
 <lemma>nashledanou</lemma>
-<tag>TT------------6</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m003-d-m-d1e2532-x3-punct-punct">
 <w.rf>
@@ -199,7 +199,7 @@
 </w.rf>
 <form>Nashledanou</form>
 <lemma>nashledanou</lemma>
-<tag>TT------------6</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m003-d-m-d1e2542-x2-punct-punct">
 <w.rf>

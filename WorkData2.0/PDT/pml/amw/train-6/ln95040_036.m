@@ -1310,7 +1310,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95040-036-p2s5w22">
 <src.rf>manual</src.rf>
@@ -2131,8 +2131,8 @@
 <LM>w#w-ln95040-036-p2s9w1</LM>
 </w.rf>
 <form>Uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-036-p2s9w2">
 <src.rf>manual</src.rf>
@@ -5766,7 +5766,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-036-p2s26w10">
 <src.rf>manual</src.rf>

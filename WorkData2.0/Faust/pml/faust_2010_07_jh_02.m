@@ -2956,8 +2956,8 @@
 <LM>w#w-jh_02-SCzechM-p0142-s1-w1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_02-SCzechM-p0142-s1-w2">
 <w.rf>
@@ -2972,8 +2972,8 @@
 <LM>w#w-jh_02-SCzechM-p0142-s1-w3</LM>
 </w.rf>
 <form>díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP4-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="jh_02-SCzechM-p0142-s1-w4">
 <w.rf>
@@ -3444,8 +3444,8 @@
 <LM>w#w-jh_02-SCzechM-p0156-s1-w4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_02-SCzechM-p0156-s1-w5">
 <w.rf>
@@ -4475,7 +4475,7 @@
 <LM>w#w-jh_02-SCzechM-p0183-s1-w2</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="jh_02-SCzechM-p0183-s1-w3">
@@ -4897,7 +4897,7 @@
 <LM>w#w-jh_02-SCzechM-p0194-s1-w25</LM>
 </w.rf>
 <form>brždění</form>
-<lemma>brždění_,i_^(^DS**brzdění)</lemma>
+<lemma>brždění_,s_^(^DD**brzdění)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="jh_02-SCzechM-p0194-s1-w26">

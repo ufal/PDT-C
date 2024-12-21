@@ -694,8 +694,8 @@
 <LM>w#w-jh_19-SCzechM-p2004-s1-w1</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 </s>
 <s id="s-jh_19-SCzechM-p2006-s1-w3">
@@ -905,15 +905,15 @@
 </w.rf>
 <form>Větší</form>
 <lemma>velký</lemma>
-<tag>AAMP4----2A----</tag>
+<tag>AAFS4----2A----</tag>
 </m>
 <m id="jh_19-SCzechM-p2012-s1-w11">
 <w.rf>
 <LM>w#w-jh_19-SCzechM-p2012-s1-w11</LM>
 </w.rf>
 <form>Noidu</form>
-<lemma>Noid_;Y</lemma>
-<tag>NNMS6-----A---1</tag>
+<lemma>Noida-2_;G_;m</lemma>
+<tag>NNFS4-----A----</tag>
 </m>
 <m id="jh_19-SCzechM-p2012-s1-w12">
 <w.rf>
@@ -2232,7 +2232,7 @@
 </w.rf>
 <form>obrázek</form>
 <lemma>obrázek</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="jh_19-SCzechM-p2026-s1-w26">
 <w.rf>
@@ -2289,8 +2289,8 @@
 <LM>w#w-jh_19-SCzechM-p2027-s1-w5</LM>
 </w.rf>
 <form>jakoby</form>
-<lemma>jakoby</lemma>
-<tag>J,-------------</tag>
+<lemma>jakoby-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_19-SCzechM-p2027-s1-w6">
 <w.rf>
@@ -2721,8 +2721,8 @@
 <LM>w#w-jh_19-SCzechM-p2034-s1-w28</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_19-SCzechM-p2034-s1-w29">
 <w.rf>
@@ -2873,16 +2873,16 @@
 <LM>w#w-jh_19-SCzechM-p2034-s1-w47</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-1</lemma>
-<tag>TT-------------</tag>
+<lemma>jen-3</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="jh_19-SCzechM-p2034-s1-w48">
 <w.rf>
 <LM>w#w-jh_19-SCzechM-p2034-s1-w48</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-5_^(př._co_nejméně,_co_nevidět_atd.)</lemma>
-<tag>Db-------------</tag>
+<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="jh_19-SCzechM-p2034-s1-w49">
 <w.rf>
@@ -2913,8 +2913,8 @@
 <LM>w#w-jh_19-SCzechM-p2034-s1-w52</LM>
 </w.rf>
 <form>díky</form>
-<lemma>díky</lemma>
-<tag>RR--3----------</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="jh_19-SCzechM-p2034-s1-w53">
 <w.rf>
@@ -3171,7 +3171,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_19-SCzechM-p2038-s1-w4">
 <w.rf>
@@ -3602,8 +3602,8 @@
 <LM>w#w-jh_19-SCzechM-p2049-s1-w29</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="jh_19-SCzechM-p2049-s1-w30">
 <w.rf>
@@ -3971,7 +3971,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_19-SCzechM-p2053-s1-w2">
 <w.rf>

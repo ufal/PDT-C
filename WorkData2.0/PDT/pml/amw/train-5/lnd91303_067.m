@@ -232,8 +232,8 @@
 <LM>w#w-lnd91303-067-p3s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91303-067-p3s2w2">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-067-p3s3w6">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-067-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-067-p4s4w11">
 <src.rf>manual</src.rf>

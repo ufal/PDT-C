@@ -977,7 +977,7 @@
 <LM>w#w-ln94206-42-p3s3w5</LM>
 </w.rf>
 <form>poživatelům</form>
-<lemma>poživatel</lemma>
+<lemma>poživatel_,s_^(^DD**požívatel)</lemma>
 <tag>NNMP3-----A----</tag>
 </m>
 <m id="m-ln94206-42-p3s3w6">
@@ -1488,7 +1488,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-42-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2133,7 +2133,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94206-42-p5s4w15">
 <src.rf>manual</src.rf>

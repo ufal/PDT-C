@@ -716,7 +716,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-077-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1406,7 +1406,7 @@
 <LM>w#w-lnd91303-077-p3s12w2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-077-p3s12w3">
@@ -1815,8 +1815,8 @@
 <LM>w#w-lnd91303-077-p3s14w10</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91303-077-p3s14w11">
 <src.rf>manual</src.rf>
@@ -2033,7 +2033,7 @@
 <LM>w#w-lnd91303-077-p3s15w16</LM>
 </w.rf>
 <form>zrnéčko</form>
-<lemma>zrnéčko</lemma>
+<lemma>zrnéčko_,s_^(^DD**zrníčko)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-077-p3s15w17">

@@ -79,7 +79,7 @@
 <LM>w#w-wsj0731-001-p1s0W8</LM>
 </w.rf>
 <form>víceprezidentem</form>
-<lemma>víceprezident_^(^GC**viceprezident)</lemma>
+<lemma>víceprezident_,i_^(^DS**viceprezident)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-wsj0731-001-p1s0W9-Ta">

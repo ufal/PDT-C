@@ -221,8 +221,8 @@
 <LM>w#w-ln94205-107-p2s1Bw15</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-107-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -295,8 +295,8 @@
 <LM>w#w-ln94205-107-p2s2w3</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-107-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1536,7 +1536,7 @@
 </w.rf>
 <form>cituje</form>
 <lemma>citovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94205-107-p3s7w8">
 <src.rf>manual</src.rf>
@@ -1563,7 +1563,7 @@
 </w.rf>
 <form>Chirica</form>
 <lemma>Chirico_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<tag>NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94205-107-p3s7w11">
 <src.rf>manual</src.rf>
@@ -1608,7 +1608,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-107-p3s7w16">
 <src.rf>manual</src.rf>
@@ -2374,7 +2374,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-ln94205-107-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2546,8 +2546,8 @@
 <LM>w#w-ln94205-107-p4s3w12</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94205-107-p4s3w13">
 <src.rf>manual</src.rf>
@@ -3424,8 +3424,8 @@
 <LM>w#w-ln94205-107-p4s10w6</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln94205-107-p4s10w7">
 <src.rf>manual</src.rf>
@@ -3718,8 +3718,8 @@
 <LM>w#w-ln94205-107-p4s13w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-107-p4s13w5">
 <src.rf>manual</src.rf>

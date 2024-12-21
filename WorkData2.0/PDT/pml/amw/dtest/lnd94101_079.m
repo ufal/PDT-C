@@ -698,7 +698,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-079-p1s6w2">
 <src.rf>manual</src.rf>
@@ -1764,8 +1764,8 @@
 <LM>w#w-lnd94101-079-p1s13w3</LM>
 </w.rf>
 <form>play</form>
-<lemma>play-77</lemma>
-<tag>F%-------------</tag>
+<lemma>play-1</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-lnd94101-079-p1s13w4">
 <src.rf>manual</src.rf>
@@ -1773,8 +1773,8 @@
 <LM>w#w-lnd94101-079-p1s13w4</LM>
 </w.rf>
 <form>off</form>
-<lemma>off-77</lemma>
-<tag>F%-------------</tag>
+<lemma>off-1</lemma>
+<tag>SNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-079-p1s13w5">
 <src.rf>manual</src.rf>

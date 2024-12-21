@@ -544,8 +544,8 @@
 <LM>w#w-d1t819-11</LM>
 </w.rf>
 <form>Akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t821-2">
 <w.rf>
@@ -998,8 +998,8 @@
 <LM>w#w-d1t853-1</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t853-2">
 <w.rf>
@@ -1196,8 +1196,8 @@
 <LM>w#w-d1t881-3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m105-d-m-d1e876-x2-punct-punct">
 <w.rf>
@@ -2404,8 +2404,8 @@
 <LM>w#w-d1t972-3</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t972-5">
 <w.rf>

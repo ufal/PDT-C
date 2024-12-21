@@ -1522,8 +1522,8 @@
 <LM>w#w-ln94210-105-p4s3w22</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-105-p4s3w23">
 <src.rf>manual</src.rf>
@@ -1896,7 +1896,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-105-p4s5w3">
 <src.rf>manual</src.rf>

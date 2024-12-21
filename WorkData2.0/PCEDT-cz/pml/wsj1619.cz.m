@@ -4602,7 +4602,7 @@
 <LM>w#w-wsj1619-001-p1s15W10</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj1619-001-p1s15W11-Ta">
@@ -4766,8 +4766,8 @@
 <LM>w#w-wsj1619-001-p1s16W1</LM>
 </w.rf>
 <form>Následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1619-001-p1s16W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6228,7 +6228,7 @@
 </w.rf>
 <form>cituje</form>
 <lemma>citovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj1619-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6817,7 +6817,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj1619-001-p1s24W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7007,8 +7007,8 @@
 <LM>w#w-wsj1619-001-p1s25W2</LM>
 </w.rf>
 <form>nabízející</form>
-<lemma>nabízející_^(*4t)</lemma>
-<tag>AGMS1-----A----</tag>
+<lemma>nabízející-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1619-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8470,7 +8470,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1619-001-p1s31W15-Ta">
 <src.rf>tagger-a</src.rf>

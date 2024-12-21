@@ -320,7 +320,7 @@
 <LM>w#w-mf920923-034-p2s2w26</LM>
 </w.rf>
 <form>Roentgenova</form>
-<lemma>roentgenův</lemma>
+<lemma>Roentgenův_;Y_^(*2)</lemma>
 <tag>AUFS1M---------</tag>
 </m>
 <m id="m-mf920923-034-p2s2w27">

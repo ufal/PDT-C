@@ -340,8 +340,8 @@
 <LM>w#w-d1t861-11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t861-12">
 <w.rf>
@@ -420,8 +420,8 @@
 <LM>w#w-d1t863-11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t863-12">
 <w.rf>
@@ -494,8 +494,8 @@
 <LM>w#w-d1t865-6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t865-7">
 <w.rf>
@@ -1100,8 +1100,8 @@
 <LM>w#w-d1t907-3</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t907-4">
 <w.rf>
@@ -2172,7 +2172,7 @@
 <LM>w#w-d1t969-10</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m112-d1t971-1">
@@ -2490,7 +2490,7 @@
 <LM>w#w-d1t988-4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m112-d1t988-5">
@@ -2546,8 +2546,8 @@
 <LM>w#w-d1t990-8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t990-9">
 <w.rf>
@@ -2578,8 +2578,8 @@
 <LM>w#w-d1t990-12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m112-d1t990-13">
 <w.rf>
@@ -2610,8 +2610,8 @@
 <LM>w#w-d1t990-16</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m112-d1t990-17">
 <w.rf>
@@ -3307,7 +3307,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m112-d1t1059-3">
 <w.rf>
@@ -3772,8 +3772,8 @@
 <LM>w#w-d1t1083-6</LM>
 </w.rf>
 <form>on</form>
-<lemma>on-2_^(on-line)</lemma>
-<tag>S2--------A----</tag>
+<lemma>on-1</lemma>
+<tag>PEYS1--3-------</tag>
 </m>
 <m id="m112-d1t1083-7">
 <w.rf>

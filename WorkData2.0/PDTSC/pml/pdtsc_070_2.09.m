@@ -70,7 +70,7 @@
 <LM>w#w-d1t2100-5</LM>
 </w.rf>
 <form>zmačknout</form>
-<lemma>zmačknout_,h</lemma>
+<lemma>zmačknout_,h_^(^GC**zmáčknout)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m105-d-id133276-punct">
@@ -236,8 +236,8 @@
 <LM>w#w-d1t2108-14</LM>
 </w.rf>
 <form>ono</form>
-<lemma>on-1</lemma>
-<tag>PENS1--3-------</tag>
+<lemma>ono-1_^(ono_to_jinak_nejde)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2108-15">
 <w.rf>
@@ -818,7 +818,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2148-4">
 <w.rf>
@@ -1553,8 +1553,8 @@
 <LM>w#w-d1t2184-2</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2184-3">
 <w.rf>
@@ -1797,8 +1797,8 @@
 <LM>w#w-d1t2199-4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2199-6">
 <w.rf>
@@ -1921,8 +1921,8 @@
 <LM>w#w-d1t2201-13</LM>
 </w.rf>
 <form>Akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m105-d1t2201-14">
 <w.rf>
@@ -2741,8 +2741,8 @@
 <LM>w#w-d1t2246-17</LM>
 </w.rf>
 <form>buď</form>
-<lemma>buď</lemma>
-<tag>J^-------------</tag>
+<lemma>být</lemma>
+<tag>Vi-S---2--A-I--</tag>
 </m>
 <m id="m105-d1t2246-18">
 <w.rf>

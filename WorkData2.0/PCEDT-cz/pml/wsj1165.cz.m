@@ -3895,8 +3895,8 @@
 <LM>w#w-wsj1165-001-p1s15W17</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ani-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1165-001-p1s15W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3970,7 +3970,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1165-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>

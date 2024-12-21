@@ -403,8 +403,8 @@
 <LM>w#w-ln95040-015-p2s2w4</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-015-p2s2w5">
 <src.rf>manual</src.rf>
@@ -2952,7 +2952,7 @@
 </w.rf>
 <form>dominuje</form>
 <lemma>dominovat</lemma>
-<tag>VB-S---3P-AAB--</tag>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95040-015-p5s6w5">
 <src.rf>manual</src.rf>

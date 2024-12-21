@@ -695,8 +695,8 @@
 <LM>w#w-mf930709-001-p3s3w16</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-001-p3s3w17">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <LM>w#w-mf930709-001-p3s6w5</LM>
 </w.rf>
 <form>neslučitelná</form>
-<lemma>slučitelný</lemma>
+<lemma>slučitelný_^(*8oučit)</lemma>
 <tag>AAFS1----1N----</tag>
 </m>
 <m id="m-mf930709-001-p3s6w6">

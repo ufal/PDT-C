@@ -228,7 +228,7 @@
 <LM>w#w-mf920902-004-p3s1w11</LM>
 </w.rf>
 <form>domnělá</form>
-<lemma>domnělý_^(*3ít)</lemma>
+<lemma>domnělý</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-mf920902-004-p3s1w12">
@@ -383,8 +383,8 @@
 <LM>w#w-mf920902-004-p5s1w14</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-004-p5s1w15">
 <src.rf>manual</src.rf>

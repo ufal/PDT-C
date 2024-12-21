@@ -369,8 +369,8 @@
 <LM>w#w-ln94200-36-p3s1w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94200-36-p3s1w2">
 <src.rf>manual</src.rf>
@@ -486,8 +486,8 @@
 <LM>w#w-ln94200-36-p3s1w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-36-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1776,8 +1776,8 @@
 <LM>w#w-ln94200-36-p5s1w28</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94200-36-p5s1w29">
 <src.rf>manual</src.rf>
@@ -1830,8 +1830,8 @@
 <LM>w#w-ln94200-36-p5s1w34</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94200-36-p5s1w35">
 <src.rf>manual</src.rf>
@@ -1839,8 +1839,8 @@
 <LM>w#w-ln94200-36-p5s1w35</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-36-p5s1w36">
 <src.rf>manual</src.rf>
@@ -2057,8 +2057,8 @@
 <LM>w#w-ln94200-36-p5s2w16</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-36-p5s2w17">
 <src.rf>manual</src.rf>
@@ -3649,7 +3649,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-36-p7s3w7">
 <src.rf>manual</src.rf>
@@ -4427,7 +4427,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-36-p9s1w13">
 <src.rf>manual</src.rf>
@@ -4562,7 +4562,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-36-p9s1w28">
 <src.rf>manual</src.rf>
@@ -5188,8 +5188,8 @@
 <LM>w#w-ln94200-36-p10s2w19</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-36-p10s2w20">
 <src.rf>manual</src.rf>

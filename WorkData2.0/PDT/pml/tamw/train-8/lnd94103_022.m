@@ -73,8 +73,8 @@
 <LM>w#w-lnd94103-022-p1s3w7</LM>
 </w.rf>
 <form>obviněných</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94103-022-p1s3w8">
 <src.rf>manual</src.rf>
@@ -702,8 +702,8 @@
 <LM>w#w-lnd94103-022-p1s6w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-022-p1s6w4">
 <src.rf>manual</src.rf>

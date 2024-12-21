@@ -158,8 +158,8 @@
 <LM>w#w-ln94207-67-p2s1Bw5</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-67-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-67-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-ln94207-67-p2s5w22</LM>
 </w.rf>
 <form>ubránit</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-67-p2s5w23">
@@ -958,8 +958,8 @@
 <LM>w#w-ln94207-67-p2s6w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-67-p2s6w9">
 <src.rf>manual</src.rf>

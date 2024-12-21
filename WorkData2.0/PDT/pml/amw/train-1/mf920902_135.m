@@ -231,7 +231,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920902-135-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-mf920902-135-p2s4w7</LM>
 </w.rf>
 <form>zjednodušení</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-mf920902-135-p2s4w8">
@@ -2236,7 +2236,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-135-p2s9w9">
 <src.rf>manual</src.rf>
@@ -2919,7 +2919,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf920902-135-p2s13w18">
 <src.rf>manual</src.rf>
@@ -4446,7 +4446,7 @@
 <LM>w#w-mf920902-135-p2s21w12</LM>
 </w.rf>
 <form>domnělá</form>
-<lemma>domnělý_^(*3ít)</lemma>
+<lemma>domnělý</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-mf920902-135-p2s21w13">

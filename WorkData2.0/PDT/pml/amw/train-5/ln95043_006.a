@@ -48,12 +48,6 @@
 <ord>4</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-ln95043-006-p1s1w16">
-<m.rf>m#m-ln95043-006-p1s1w16</m.rf>
-<afun>Atv</afun>
-<ord>16</ord>
-<clause_number>1</clause_number>
-</LM>
 </children>
 </LM>
 <LM id="a-ln95043-006-p1s1w6">
@@ -127,6 +121,12 @@
 </children>
 </LM>
 </children>
+</LM>
+<LM id="a-ln95043-006-p1s1w16">
+<m.rf>m#m-ln95043-006-p1s1w16</m.rf>
+<afun>Atv</afun>
+<ord>16</ord>
+<clause_number>1</clause_number>
 </LM>
 </children>
 </LM>

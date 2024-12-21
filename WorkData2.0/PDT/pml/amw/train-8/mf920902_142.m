@@ -332,7 +332,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-142-p2s2w3">
 <src.rf>manual</src.rf>
@@ -403,8 +403,8 @@
 <LM>w#w-mf920902-142-p2s2w10</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920902-142-p2s2w11">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-142-p3s1w14">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-mf920902-142-p3s1w25</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-142-p3s1w26">
@@ -2947,7 +2947,7 @@
 <LM>w#w-mf920902-142-p7s1w35</LM>
 </w.rf>
 <form>zjednodušené</form>
-<lemma>zjednodušený_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušený_^(*3it)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-mf920902-142-p7s1w36">
@@ -3807,8 +3807,8 @@
 <LM>w#w-mf920902-142-p9s2w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920902-142-p9s2w5">
 <src.rf>manual</src.rf>
@@ -4344,8 +4344,8 @@
 <LM>w#w-mf920902-142-p10s2w4</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-142-p10s2w5">
 <src.rf>manual</src.rf>

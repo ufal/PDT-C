@@ -316,8 +316,8 @@
 <LM>w#w-cmpr9415-003-p4s2w8</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-003-p4s2w9">
 <src.rf>manual</src.rf>
@@ -570,8 +570,8 @@
 <LM>w#w-cmpr9415-003-p4s3w19</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9415-003-p4s3w20">
 <src.rf>manual</src.rf>
@@ -644,8 +644,8 @@
 <LM>w#w-cmpr9415-003-p4s4w1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-003-p4s4w2">
 <src.rf>manual</src.rf>
@@ -653,8 +653,8 @@
 <LM>w#w-cmpr9415-003-p4s4w2</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9415-003-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1832,7 +1832,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-003-p7s3w16">
 <src.rf>manual</src.rf>
@@ -2107,7 +2107,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-003-p7s5w6">
 <src.rf>manual</src.rf>
@@ -2482,7 +2482,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-cmpr9415-003-p9s1w14">
 <src.rf>manual</src.rf>
@@ -3344,8 +3344,8 @@
 <LM>w#w-cmpr9415-003-p10s1w21</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-003-p10s1w22">
 <src.rf>manual</src.rf>
@@ -3638,8 +3638,8 @@
 <LM>w#w-cmpr9415-003-p11s2w5</LM>
 </w.rf>
 <form>vinou</form>
-<lemma>vina</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>vinou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9415-003-p11s2w6">
 <src.rf>manual</src.rf>
@@ -3976,7 +3976,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-cmpr9415-003-p12s1w6">
 <src.rf>manual</src.rf>
@@ -4050,7 +4050,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-003-p12s2w3">
 <src.rf>manual</src.rf>
@@ -4131,7 +4131,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-003-p12s2w12">
 <src.rf>manual</src.rf>
@@ -4301,8 +4301,8 @@
 <LM>w#w-cmpr9415-003-p12s2w30</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-003-p12s2w31">
 <src.rf>manual</src.rf>

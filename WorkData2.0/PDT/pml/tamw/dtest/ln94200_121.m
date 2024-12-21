@@ -413,7 +413,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-121-p2s2w2">
 <src.rf>manual</src.rf>
@@ -639,8 +639,8 @@
 <LM>w#w-ln94200-121-p3s1w3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-121-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1881,7 +1881,7 @@
 </w.rf>
 <form>fašismu</form>
 <lemma>fašismus_,s_^(^DD**fašizmus)</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS3-----A----</tag>
 </m>
 <m id="m-ln94200-121-p5s1w27">
 <src.rf>manual</src.rf>
@@ -3514,8 +3514,8 @@
 <LM>w#w-ln94200-121-p8s2w43</LM>
 </w.rf>
 <form>přítomné</form>
-<lemma>přítomný</lemma>
-<tag>AAMP4----1A----</tag>
+<lemma>přítomný-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-ln94200-121-p8s2w44">
 <src.rf>manual</src.rf>
@@ -3705,8 +3705,8 @@
 <LM>w#w-ln94200-121-p9s1w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-121-p9s1w2">
 <src.rf>manual</src.rf>
@@ -4260,8 +4260,8 @@
 <LM>w#w-ln94200-121-p10s1w12</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-121-p10s1w13">
 <src.rf>manual</src.rf>
@@ -5034,8 +5034,8 @@
 <LM>w#w-ln94200-121-p12s1w12</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln94200-121-p12s1w13">
 <src.rf>manual</src.rf>
@@ -5691,7 +5691,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-121-p13s2w3">
 <src.rf>manual</src.rf>
@@ -5783,7 +5783,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-121-p13s3w6">
 <src.rf>manual</src.rf>

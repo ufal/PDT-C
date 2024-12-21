@@ -828,8 +828,8 @@
 <LM>w#w-mf920902-101-p2s4w6</LM>
 </w.rf>
 <form>obviněných</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-101-p2s4w7">
 <src.rf>manual</src.rf>

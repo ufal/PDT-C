@@ -4280,8 +4280,8 @@
 <LM>w#w-wsj1931-001-p1s17W3</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1931-001-p1s17W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4869,8 +4869,8 @@
 <LM>w#w-wsj1931-001-p1s19W25</LM>
 </w.rf>
 <form>zjevně</form>
-<lemma>zjevně-2</lemma>
-<tag>TT-------------</tag>
+<lemma>zjevně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj1931-001-p1s19W26-Ta">
 <src.rf>tagger-a</src.rf>

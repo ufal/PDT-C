@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_25.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,6 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
+<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-ln94200-25-p1s1w2">
 <a>
@@ -73,35 +74,28 @@
 <atree.rf>a#a-ln94200-25-p2s2</atree.rf>
 <deepord>0</deepord>
 <children>
-<LM id="t-ln94200-25-p2s2a0">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#EmpVerb</t_lemma>
-<functor>PRED</functor>
+<LM id="t-ln94200-25-p2s2w4">
+<a>
+<lex.rf>a#a-ln94200-25-p2s2w4</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>průměr</t_lemma>
+<functor>DENOM</functor>
 <sentmod>enunc</sentmod>
-<tfa>t</tfa>
+<gram>
+<sempos>n.denot</sempos>
+<gender>inan</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
 <deepord>2</deepord>
-<discourse>
+<bridging>
 <LM>
 <target_node.rf>t-ln94200-25-p1s1w3</target_node.rf>
-<type>discourse</type>
-<start_range>0</start_range>
-<target_range>0</target_range>
-<discourse_type>spec</discourse_type>
-<src>pdit10</src>
+<type>SET_SUB</type>
 </LM>
-<LM>
-<type>list</type>
-<start_range>0</start_range>
-<src>pdit10</src>
-<a-connectors.rf>
-<LM>a#a-ln94200-25-p2s2w2</LM>
-</a-connectors.rf>
-<t-connectors.rf>
-<LM>t-ln94200-25-p2s2w1</LM>
-</t-connectors.rf>
-</LM>
-</discourse>
+</bridging>
 <children>
 <LM id="t-ln94200-25-p2s2w1">
 <a>
@@ -113,28 +107,6 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 </LM>
-<LM id="t-ln94200-25-p2s2w4">
-<a>
-<lex.rf>a#a-ln94200-25-p2s2w4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>průměr</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<typgroup>single</typgroup>
-</gram>
-<tfa>f</tfa>
-<deepord>3</deepord>
-<bridging>
-<LM>
-<target_node.rf>t-ln94200-25-p1s1w3</target_node.rf>
-<type>SET_SUB</type>
-</LM>
-</bridging>
-<children>
 <LM id="t-ln94200-25-p2s2w3">
 <a>
 <lex.rf>a#a-ln94200-25-p2s2w3</lex.rf>
@@ -148,9 +120,7 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>4</deepord>
-</LM>
-</children>
+<deepord>3</deepord>
 </LM>
 </children>
 </LM>
@@ -160,28 +130,28 @@
 <atree.rf>a#a-ln94200-25-p2s3</atree.rf>
 <deepord>0</deepord>
 <children>
-<LM id="t-ln94200-25-p2s3a0">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#EmpVerb</t_lemma>
-<functor>PRED</functor>
+<LM id="t-ln94200-25-p2s3w3">
+<a>
+<lex.rf>a#a-ln94200-25-p2s3w3</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>zaměstnaný</t_lemma>
+<functor>DENOM</functor>
 <sentmod>enunc</sentmod>
-<tfa>t</tfa>
+<gram>
+<sempos>n.denot</sempos>
+<gender>anim</gender>
+<number>pl</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
 <deepord>2</deepord>
-<discourse>
+<bridging>
 <LM>
-<target_node.rf>t-ln94200-25-p2s2a0</target_node.rf>
-<type>list</type>
-<start_range>0</start_range>
-<src>pdit10</src>
-<a-connectors.rf>
-<LM>a#a-ln94200-25-p2s3w2</LM>
-</a-connectors.rf>
-<t-connectors.rf>
-<LM>t-ln94200-25-p2s3w1</LM>
-</t-connectors.rf>
+<target_node.rf>t-ln94200-25-p1s1w3</target_node.rf>
+<type>SET_SUB</type>
 </LM>
-</discourse>
+</bridging>
 <children>
 <LM id="t-ln94200-25-p2s3w1">
 <a>
@@ -193,28 +163,6 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 </LM>
-<LM id="t-ln94200-25-p2s3w3">
-<a>
-<lex.rf>a#a-ln94200-25-p2s3w3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>zaměstnaný</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>pl</number>
-<typgroup>single</typgroup>
-</gram>
-<tfa>f</tfa>
-<deepord>3</deepord>
-<bridging>
-<LM>
-<target_node.rf>t-ln94200-25-p1s1w3</target_node.rf>
-<type>SET_SUB</type>
-</LM>
-</bridging>
-<children>
 <LM id="t-ln94200-25-p2s3w4">
 <a>
 <lex.rf>a#a-ln94200-25-p2s3w4</lex.rf>
@@ -228,7 +176,7 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>4</deepord>
+<deepord>3</deepord>
 <children>
 <LM id="t-ln94200-25-p2s3w6">
 <a>
@@ -248,9 +196,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>5</deepord>
-</LM>
-</children>
+<deepord>4</deepord>
 </LM>
 </children>
 </LM>

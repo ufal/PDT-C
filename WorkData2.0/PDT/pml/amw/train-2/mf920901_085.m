@@ -1333,8 +1333,8 @@
 <LM>w#w-mf920901-085-p3s3w32</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-085-p3s3w33">
 <src.rf>manual</src.rf>

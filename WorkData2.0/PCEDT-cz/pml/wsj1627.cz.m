@@ -16,8 +16,8 @@
 <LM>w#w-wsj1627-001-p1s0W1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj1627-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -612,7 +612,7 @@
 </w.rf>
 <form>velkoobchodní</form>
 <lemma>velkoobchodní</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>AAIS1----1A----</tag>
 </m>
 <m id="m-wsj1627-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -621,7 +621,7 @@
 </w.rf>
 <form>prodej</form>
 <lemma>prodej_^(akt_prodeje_zboží)</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj1627-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>

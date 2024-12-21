@@ -755,7 +755,7 @@
 </w.rf>
 <form>věnována</form>
 <lemma>věnovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-cmpr9406-054-p3s4Bw8">
 <src.rf>manual</src.rf>

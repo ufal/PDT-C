@@ -2082,7 +2082,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2416-001-p1s10W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3259,7 +3259,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2416-001-p1s13W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3629,7 +3629,7 @@
 <LM>w#w-wsj2416-001-p1s14W28</LM>
 </w.rf>
 <form>baseballový</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m-wsj2416-001-p1s14W29-Ta">

@@ -933,8 +933,8 @@
 <LM>w#w-ln94204-72-p3s4w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94204-72-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1043,8 +1043,8 @@
 <LM>w#w-ln94204-72-p3s5w7</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-72-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1062,7 +1062,7 @@
 </w.rf>
 <form>Mnichov</form>
 <lemma>Mnichov_;G</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-72-p3s5w10">
 <src.rf>manual</src.rf>

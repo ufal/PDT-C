@@ -174,7 +174,7 @@
 <LM>w#w-ln94206-102-p2s1w12</LM>
 </w.rf>
 <form>schematu</form>
-<lemma>schema</lemma>
+<lemma>schema_,s_^(^DD**schéma)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln94206-102-p2s1w13">
@@ -338,8 +338,8 @@
 <LM>w#w-ln94206-102-p2s2w15</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-102-p2s2w16">
 <src.rf>manual</src.rf>
@@ -437,8 +437,8 @@
 <LM>w#w-ln94206-102-p2s2w26</LM>
 </w.rf>
 <form>informativně</form>
-<lemma>informativně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>informativně-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-ln94206-102-p2s2w27">
 <src.rf>manual</src.rf>
@@ -745,8 +745,8 @@
 <LM>w#w-ln94206-102-p3s1w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-102-p3s1w20">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-102-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1547,8 +1547,8 @@
 <LM>w#w-ln94206-102-p4s1w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-102-p4s1w9">
 <src.rf>manual</src.rf>
@@ -2154,8 +2154,8 @@
 <LM>w#w-ln94206-102-p4s3w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-102-p4s3w8">
 <src.rf>manual</src.rf>
@@ -2199,8 +2199,8 @@
 <LM>w#w-ln94206-102-p4s3w12</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-1</lemma>
-<tag>Db-------------</tag>
+<lemma>třeba-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-102-p4s3w13">
 <src.rf>manual</src.rf>
@@ -2907,7 +2907,7 @@
 <LM>w#w-ln94206-102-p5s1w9</LM>
 </w.rf>
 <form>schematu</form>
-<lemma>schema</lemma>
+<lemma>schema_,s_^(^DD**schéma)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln94206-102-p5s1w10">

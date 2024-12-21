@@ -176,8 +176,8 @@
 <LM>w#w-cmpr9413-027-p6s1w5</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-33</lemma>
-<tag>Q3-------------</tag>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9413-027-p6s1w6">
 <src.rf>manual</src.rf>

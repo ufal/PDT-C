@@ -129,7 +129,7 @@
 <LM>w#w-ln94202-87-p2s1w12</LM>
 </w.rf>
 <form>vystřihávat</form>
-<lemma>vystřihávat_^(*4at)</lemma>
+<lemma>vystřihávat_^(^DD**vystříhávat)_(*4at)</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-ln94202-87-p2s1w13">
@@ -566,8 +566,8 @@
 <LM>w#w-ln94202-87-p2s3w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-87-p2s3w17">
 <src.rf>manual</src.rf>

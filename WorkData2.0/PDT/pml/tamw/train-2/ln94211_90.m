@@ -577,7 +577,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94211-90-p3s3w6">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-ln94211-90-p4s1w18</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln94211-90-p4s1w19">
@@ -2036,7 +2036,7 @@
 <LM>w#w-ln94211-90-p8s1w14</LM>
 </w.rf>
 <form>Québeku</form>
-<lemma>Québek_;G_,s_^(^DD**Québec)</lemma>
+<lemma>Québek_;G_,s_^(^DD**Quebec)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-90-p8s1w15">
@@ -2800,8 +2800,8 @@
 <LM>w#w-ln94211-90-p10s2w23</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-90-p10s2w24">
 <src.rf>manual</src.rf>
@@ -3302,7 +3302,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Québeku</form>
-<lemma>Québek_;G_,s_^(^DD**Québec)</lemma>
+<lemma>Québek_;G_,s_^(^DD**Quebec)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-90-p12s1w17">
@@ -3512,7 +3512,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94211-90-p12s2w12">
 <src.rf>manual</src.rf>

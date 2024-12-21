@@ -396,8 +396,8 @@
 <LM>w#w-wsj0665-001-p1s1W11</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0665-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1195,7 +1195,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0665-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -930,8 +930,8 @@
 <LM>w#w-d1t259-6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m140-d1t259-8">
 <w.rf>
@@ -1256,8 +1256,8 @@
 <LM>w#w-d1t284-2</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m140-d1t284-3">
 <w.rf>
@@ -1620,8 +1620,8 @@
 <LM>w#w-d1t293-16</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m140-d1t293-17">
 <w.rf>
@@ -2344,8 +2344,8 @@
 <LM>w#w-d1t337-8</LM>
 </w.rf>
 <form>mladí</form>
-<lemma>mladý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>mladý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m140-d1t337-9">
 <w.rf>
@@ -2758,7 +2758,7 @@
 <LM>w#w-d1t372-3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m140-d1t372-4">
@@ -3069,7 +3069,7 @@
 </w.rf>
 <form>bílého</form>
 <lemma>bílý_;o</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>AANS2----1A----</tag>
 </m>
 <m id="m140-d1e356-x3-379">
 <w.rf>

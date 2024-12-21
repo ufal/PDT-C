@@ -1192,8 +1192,8 @@
 <LM>w#w-wsj1692-001-p1s3W1</LM>
 </w.rf>
 <form>Jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1692-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1202,7 +1202,7 @@
 </w.rf>
 <form>součást</form>
 <lemma>součást</lemma>
-<tag>NNFS4-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1692-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1981,8 +1981,8 @@
 <LM>w#w-wsj1692-001-p1s6W1</LM>
 </w.rf>
 <form>Začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1692-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3960,7 +3960,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1692-001-p1s14W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6296,8 +6296,8 @@
 <LM>w#w-wsj1692-001-p1s26W6</LM>
 </w.rf>
 <form>obviněných</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1692-001-p1s26W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6386,8 +6386,8 @@
 <LM>w#w-wsj1692-001-p1s26W16</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1692-001-p1s26W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7957,7 +7957,7 @@
 <LM>w#w-wsj1692-001-p1s33W7</LM>
 </w.rf>
 <form>Pennsylvánii</form>
-<lemma>Pennsylvánie_;G</lemma>
+<lemma>Pennsylvánie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1692-001-p1s33W8-Ta">
@@ -9804,7 +9804,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1692-001-p1s42W23-Ta">
 <src.rf>tagger-a</src.rf>

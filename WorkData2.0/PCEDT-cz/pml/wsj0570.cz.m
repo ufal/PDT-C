@@ -242,8 +242,8 @@
 <LM>w#w-wsj0570-001-p1s0W26</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0570-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1050,7 +1050,7 @@
 </w.rf>
 <form>nereagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-NAI--</tag>
+<tag>VpMP----R-NAB--</tag>
 </m>
 <m id="m-wsj0570-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1118,7 +1118,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-004-p10s1w5">
 <src.rf>manual</src.rf>
@@ -1507,7 +1507,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-004-p10s2w3">
 <src.rf>manual</src.rf>

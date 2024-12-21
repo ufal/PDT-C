@@ -86,8 +86,8 @@
 <LM>w#w-lnd94101-055-p1s3w1</LM>
 </w.rf>
 <form>Navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-lnd94101-055-p1s3w2">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-lnd94101-055-p1s4w24</LM>
 </w.rf>
 <form>ázerbájdžánští</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAMP1----1A----</tag>
 </m>
 <m id="m-lnd94101-055-p1s4w25">

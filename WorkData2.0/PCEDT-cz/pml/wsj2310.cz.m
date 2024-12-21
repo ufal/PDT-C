@@ -161,8 +161,8 @@
 <LM>w#w-wsj2310-001-p1s0W17</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2310-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>

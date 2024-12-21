@@ -1351,7 +1351,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-068-p3s3w16">
 <src.rf>manual</src.rf>
@@ -2160,8 +2160,8 @@
 <LM>w#w-ln95043-068-p3s7w9</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-068-p3s7w10">
 <src.rf>manual</src.rf>

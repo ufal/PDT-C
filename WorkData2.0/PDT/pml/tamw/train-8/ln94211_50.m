@@ -230,8 +230,8 @@
 <LM>w#w-ln94211-50-p2s1Bw14</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94211-50-p2s1Bw15">
 <src.rf>manual</src.rf>

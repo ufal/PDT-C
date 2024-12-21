@@ -964,7 +964,7 @@
 </w.rf>
 <form>základní</form>
 <lemma>základní</lemma>
-<tag>AAIP4----1A----</tag>
+<tag>AAIP1----1A----</tag>
 </m>
 <m id="m-cmpr9417-006-p6s1w2">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 </w.rf>
 <form>požadavky</form>
 <lemma>požadavek</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9417-006-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2155,7 +2155,7 @@
 <LM>w#w-cmpr9417-006-p16s1w34</LM>
 </w.rf>
 <form>srdéčkem</form>
-<lemma>srdéčko</lemma>
+<lemma>srdéčko_,s_^(^DD**srdíčko)</lemma>
 <tag>NNNS7-----A----</tag>
 </m>
 <m id="m-cmpr9417-006-p16s1w35">
@@ -2811,8 +2811,8 @@
 <LM>w#w-cmpr9417-006-p17s1w24</LM>
 </w.rf>
 <form>vlivem</form>
-<lemma>vliv</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>vlivem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9417-006-p17s1w25">
 <src.rf>manual</src.rf>
@@ -3314,8 +3314,8 @@
 <LM>w#w-cmpr9417-006-p18s1w13</LM>
 </w.rf>
 <form>vlivem</form>
-<lemma>vliv</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>vlivem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9417-006-p18s1w14">
 <src.rf>manual</src.rf>
@@ -3413,7 +3413,7 @@
 <LM>w#w-cmpr9417-006-p18s1w24</LM>
 </w.rf>
 <form>srdéčko</form>
-<lemma>srdéčko</lemma>
+<lemma>srdéčko_,s_^(^DD**srdíčko)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-006-p18s1w25">
@@ -4188,7 +4188,7 @@
 </w.rf>
 <form>stanovených</form>
 <lemma>stanovený_^(*3it)</lemma>
-<tag>AAFP2----1A----</tag>
+<tag>AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9417-006-p21s1w29">
 <src.rf>manual</src.rf>

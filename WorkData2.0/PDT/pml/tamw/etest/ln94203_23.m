@@ -110,7 +110,7 @@
 </w.rf>
 <form>Ulsteru</form>
 <lemma>Ulster_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-23-p2s1A">
@@ -338,8 +338,8 @@
 <LM>w#w-ln94203-23-p2s1Bw23</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-23-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -1273,8 +1273,8 @@
 <LM>w#w-ln94203-23-p3s1w13</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-23-p3s1w14">
 <src.rf>manual</src.rf>

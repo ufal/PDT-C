@@ -1549,8 +1549,8 @@
 <LM>w#w-lnd94103-019-p1s10w26</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-019-p1s10w27">
 <src.rf>manual</src.rf>
@@ -1886,8 +1886,8 @@
 <LM>w#w-lnd94103-019-p1s12w23</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-019-p1s12w24">
 <src.rf>manual</src.rf>

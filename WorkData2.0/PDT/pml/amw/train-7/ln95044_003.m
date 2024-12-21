@@ -952,7 +952,7 @@
 <LM>w#w-ln95044-003-p2s2w48</LM>
 </w.rf>
 <form>dumpingu</form>
-<lemma>dumping</lemma>
+<lemma>dumping_,s_^(^DD**damping)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-003-p2s2w49">

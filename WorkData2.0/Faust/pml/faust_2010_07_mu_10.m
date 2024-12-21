@@ -93,9 +93,10 @@
 <w.rf>
 <LM>w#w-mu_10-SCzechM-p0985-s1-w8</LM>
 </w.rf>
-<form>Němej</form>
-<lemma>němý</lemma>
-<tag>AAIS1----1A---6</tag>
+<form_change>spell</form_change>
+<form>Neměj</form>
+<lemma>mít</lemma>
+<tag>Vi-S---2--N-I--</tag>
 </m>
 <m id="mu_10-SCzechM-p0985-s1-w9">
 <w.rf>
@@ -764,8 +765,8 @@
 <LM>w#w-mu_10-SCzechM-p0996-s1-w3</LM>
 </w.rf>
 <form>milované</form>
-<lemma>milovaný_^(*2t)</lemma>
-<tag>AAFS3----1A----</tag>
+<lemma>milovaná-2_^(*3ý-2)</lemma>
+<tag>NNFS3-----A----</tag>
 </m>
 <m id="mu_10-SCzechM-p0996-s1-w4">
 <w.rf>
@@ -812,8 +813,8 @@
 <LM>w#w-mu_10-SCzechM-p0996-s1-w9</LM>
 </w.rf>
 <form>milovaná</form>
-<lemma>milovaný_^(*2t)</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>milovaná-2_^(*3ý-2)</lemma>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="mu_10-SCzechM-p0996-s1-w10">
 <w.rf>
@@ -1594,8 +1595,8 @@
 <LM>w#w-mu_10-SCzechM-p1010-s1-w1</LM>
 </w.rf>
 <form>Až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="mu_10-SCzechM-p1010-s1-w2">
 <w.rf>
@@ -2171,7 +2172,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="mu_10-SCzechM-p1018-s1-w2">
 <w.rf>
@@ -2812,8 +2813,8 @@
 <LM>w#w-mu_10-SCzechM-p1044-s1-w3</LM>
 </w.rf>
 <form>díky</form>
-<lemma>díky</lemma>
-<tag>RR--3----------</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="mu_10-SCzechM-p1044-s1-w4">
 <w.rf>
@@ -2950,8 +2951,8 @@
 <LM>w#w-mu_10-SCzechM-p1045-s1-w1</LM>
 </w.rf>
 <form>Díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP4-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="mu_10-SCzechM-p1045-s1-w2">
 <w.rf>
@@ -4165,7 +4166,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="mu_10-SCzechM-p1065-s1-w4">
 <w.rf>

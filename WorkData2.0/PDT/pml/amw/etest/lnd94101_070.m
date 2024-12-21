@@ -73,8 +73,8 @@
 <LM>w#w-lnd94101-070-p1s1w7</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94101-070-p1s1w8">
 <src.rf>manual</src.rf>
@@ -145,8 +145,8 @@
 <LM>w#w-lnd94101-070-p1s1w15</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94101-070-p1s1w16">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-070-p1s2w9">
 <src.rf>manual</src.rf>
@@ -547,8 +547,8 @@
 <LM>w#w-lnd94101-070-p1s4Aw1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-070-p1s4Aw2">
 <src.rf>manual</src.rf>

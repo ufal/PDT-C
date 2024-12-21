@@ -24,19 +24,17 @@
 <children>
 <LM id="a-ln94200-40-p1s1w1">
 <m.rf>m#m-ln94200-40-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94200-40-p1s1w3">
 <m.rf>m#m-ln94200-40-p1s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 <LM id="a-ln94200-40-p1s1w4">
 <m.rf>m#m-ln94200-40-p1s1w4</m.rf>
@@ -46,9 +44,11 @@
 <children>
 <LM id="a-ln94200-40-p1s1w5">
 <m.rf>m#m-ln94200-40-p1s1w5</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

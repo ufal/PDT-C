@@ -396,8 +396,8 @@
 <LM>w#w-wsj1025-001-p1s1W3</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1025-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>

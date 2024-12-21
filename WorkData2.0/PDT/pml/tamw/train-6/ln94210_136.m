@@ -29,7 +29,7 @@
 </w.rf>
 <form>blokuje</form>
 <lemma>blokovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94210-136-p1s1w3">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 </w.rf>
 <form>blokujeme</form>
 <lemma>blokovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAB--</tag>
 </m>
 <m id="m-ln94210-136-p3s1w14">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-136-p3s1w24">
 <src.rf>manual</src.rf>

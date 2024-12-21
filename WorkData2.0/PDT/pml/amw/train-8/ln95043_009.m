@@ -322,8 +322,8 @@
 <LM>w#w-ln95043-009-p2s2w4</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-009-p2s2w5">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-009-p2s2w21">
 <src.rf>manual</src.rf>
@@ -2302,8 +2302,8 @@
 <LM>w#w-ln95043-009-p3s6w6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95043-009-p3s6w7">
 <src.rf>manual</src.rf>
@@ -3004,7 +3004,7 @@
 <LM>w#w-ln95043-009-p4s4w4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-009-p4s4w5">
@@ -3369,7 +3369,7 @@
 </w.rf>
 <form>cituje</form>
 <lemma>citovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95043-009-p4s6w13">
 <src.rf>manual</src.rf>

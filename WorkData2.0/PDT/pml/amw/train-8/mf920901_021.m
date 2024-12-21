@@ -726,7 +726,7 @@
 </w.rf>
 <form>pravil</form>
 <lemma>pravit</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920901-021-p3s2w29">
 <src.rf>manual</src.rf>

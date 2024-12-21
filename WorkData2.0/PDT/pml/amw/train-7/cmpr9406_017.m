@@ -1317,7 +1317,7 @@
 <LM>w#w-cmpr9406-017-p8s10w5</LM>
 </w.rf>
 <form>odesilatel</form>
-<lemma>odesilatel</lemma>
+<lemma>odesilatel_,s_^(^DD**odesílatel)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-017-p8s10w6">

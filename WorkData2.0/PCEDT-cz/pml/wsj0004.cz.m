@@ -1319,7 +1319,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0004-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1662,8 +1662,8 @@
 <LM>w#w-wsj0004-001-p1s7W11</LM>
 </w.rf>
 <form>přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0004-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1017,7 +1017,7 @@
 <LM>w#w-mf920901-028-p3s2w21</LM>
 </w.rf>
 <form>vypjatých</form>
-<lemma>vypjatý</lemma>
+<lemma>vypjatý_,s_^(^DD**vypnutý)</lemma>
 <tag>AAFP6----1A----</tag>
 </m>
 <m id="m-mf920901-028-p3s2w22">
@@ -2057,7 +2057,7 @@
 <LM>w#w-mf920901-028-p4s7w3</LM>
 </w.rf>
 <form>utváří</form>
-<lemma>utvářet_^(tvořit)</lemma>
+<lemma>utvářet</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-028-p4s7w4">

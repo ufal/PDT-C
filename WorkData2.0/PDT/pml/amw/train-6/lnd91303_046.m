@@ -167,8 +167,8 @@
 <LM>w#w-lnd91303-046-p3s1w9</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91303-046-p3s1w10">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-046-p4s1w17">
 <src.rf>manual</src.rf>
@@ -857,8 +857,8 @@
 <LM>w#w-lnd91303-046-p5s1w24</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91303-046-p5s1w25">
 <src.rf>manual</src.rf>

@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0419-001-p1s4W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1629,7 +1629,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj0419-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1830,7 +1830,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj0419-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3149,8 +3149,8 @@
 <LM>w#w-wsj0419-001-p1s11W24</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0419-001-p1s11W25-Ta">
 <src.rf>tagger-a</src.rf>

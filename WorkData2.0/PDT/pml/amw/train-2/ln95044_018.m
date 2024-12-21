@@ -1477,8 +1477,8 @@
 <LM>w#w-ln95044-018-p4s3w7</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-018-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1722,8 +1722,8 @@
 <LM>w#w-ln95044-018-p5s1w14</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-018-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1751,8 +1751,8 @@
 <LM>w#w-ln95044-018-p5s2w2</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-018-p5s2w3">
 <src.rf>manual</src.rf>

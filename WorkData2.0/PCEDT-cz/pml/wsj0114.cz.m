@@ -570,8 +570,8 @@
 <LM>w#w-wsj0114-001-p1s1W32</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0114-001-p1s1W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -645,7 +645,7 @@
 </w.rf>
 <form>dominuje</form>
 <lemma>dominovat</lemma>
-<tag>VB-S---3P-AAB--</tag>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0114-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1129,8 +1129,8 @@
 <LM>w#w-wsj0114-001-p1s4W3</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0114-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1175,7 +1175,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0114-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1700,8 +1700,8 @@
 <LM>w#w-wsj0114-001-p1s6W33</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0114-001-p1s6W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2291,8 +2291,8 @@
 <LM>w#w-wsj0114-001-p1s9W12</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0114-001-p1s9W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3653,8 +3653,8 @@
 <LM>w#w-wsj0114-001-p1s15W20</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0114-001-p1s15W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3707,8 +3707,8 @@
 <LM>w#w-wsj0114-001-p1s15W26</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0114-001-p1s15W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5620,7 +5620,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0114-001-p1s26W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7561,8 +7561,8 @@
 <LM>w#w-wsj0114-001-p1s38W3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0114-001-p1s38W4-Ta">
 <src.rf>tagger-a</src.rf>

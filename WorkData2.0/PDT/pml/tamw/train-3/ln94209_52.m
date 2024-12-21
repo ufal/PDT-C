@@ -1039,8 +1039,8 @@
 <LM>w#w-ln94209-52-p3s3w11</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-52-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1167,8 +1167,8 @@
 <LM>w#w-ln94209-52-p3s4w10</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-52-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1302,8 +1302,8 @@
 <LM>w#w-ln94209-52-p3s4w25</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-52-p3s4w26">
 <src.rf>manual</src.rf>
@@ -1642,7 +1642,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-52-p4s3w10">
 <src.rf>manual</src.rf>

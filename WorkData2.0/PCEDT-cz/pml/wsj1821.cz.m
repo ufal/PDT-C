@@ -344,8 +344,8 @@
 <LM>w#w-wsj1821-001-p1s2W7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1821-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -772,7 +772,7 @@
 </w.rf>
 <form>tržby</form>
 <lemma>tržba</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1821-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -862,8 +862,8 @@
 <LM>w#w-mf930713-140-p2s3w10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-140-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1981,8 +1981,8 @@
 <LM>w#w-mf930713-140-p2s10w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-140-p2s10w7">
 <src.rf>manual</src.rf>
@@ -2080,8 +2080,8 @@
 <LM>w#w-mf930713-140-p2s10w17</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-140-p2s10w18">
 <src.rf>manual</src.rf>
@@ -3002,8 +3002,8 @@
 <LM>w#w-mf930713-140-p2s13w37</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-140-p2s13w38">
 <src.rf>manual</src.rf>

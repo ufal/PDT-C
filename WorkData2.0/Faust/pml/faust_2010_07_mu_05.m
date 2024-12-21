@@ -12,8 +12,8 @@
 <LM>w#w-mu_05-SCzechM-p0434-s1-w1</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_05-SCzechM-p0434-s1-w2">
 <w.rf>
@@ -119,7 +119,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="mu_05-SCzechM-p0435-s1-w8">
 <w.rf>
@@ -464,8 +464,8 @@
 <LM>w#w-mu_05-SCzechM-p0436-s1-w41</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_05-SCzechM-p0436-s1-w42">
 <w.rf>
@@ -2051,7 +2051,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_05-SCzechM-p0491-s1-w7">
 <w.rf>
@@ -2124,7 +2124,7 @@
 <LM>w#w-mu_05-SCzechM-p0492-s1-w8</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="mu_05-SCzechM-p0492-s1-w9">
@@ -2464,8 +2464,8 @@
 <LM>w#w-mu_05-SCzechM-p0496-s1-w36</LM>
 </w.rf>
 <form>mladých</form>
-<lemma>mladý</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>mladý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="mu_05-SCzechM-p0496-s1-w37">
 <w.rf>
@@ -3611,8 +3611,8 @@
 <LM>w#w-mu_05-SCzechM-p0515-s1-w23</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="mu_05-SCzechM-p0515-s1-w24">
 <w.rf>
@@ -3743,8 +3743,8 @@
 <LM>w#w-mu_05-SCzechM-p0518-s1-w10</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_05-SCzechM-p0518-s1-w11">
 <w.rf>

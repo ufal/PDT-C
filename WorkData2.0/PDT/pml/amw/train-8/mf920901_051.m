@@ -1055,7 +1055,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-051-p5s2w12">
 <src.rf>manual</src.rf>
@@ -1409,7 +1409,7 @@
 <LM>w#w-mf920901-051-p6s1w16</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-051-p6s1w17">
@@ -1793,8 +1793,8 @@
 <LM>w#w-mf920901-051-p6s4w2</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920901-051-p6s4w3">
 <src.rf>manual</src.rf>

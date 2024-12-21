@@ -408,8 +408,8 @@
 <LM>w#w-ln94204-91-p2s1w43</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-91-p2s1w44">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 </w.rf>
 <form>Reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94204-91-p3s2w2">
 <src.rf>manual</src.rf>
@@ -574,8 +574,8 @@
 <LM>w#w-ln94204-91-p3s2w2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-91-p3s2w3">
 <src.rf>manual</src.rf>

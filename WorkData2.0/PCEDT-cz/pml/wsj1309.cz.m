@@ -2691,8 +2691,8 @@
 <LM>w#w-wsj1309-001-p1s13W7</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1309-001-p1s13W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2965,8 +2965,8 @@
 <LM>w#w-wsj1309-001-p1s15W2</LM>
 </w.rf>
 <form>pracujících</form>
-<lemma>pracující_^(*5ovat)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>pracující-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1309-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3111,8 +3111,8 @@
 <LM>w#w-wsj1309-001-p1s16W10</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1309-001-p1s16W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -448,8 +448,8 @@
 <LM>w#w-ln94200-92-p2s2w8</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-92-p2s2w9">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-ln94200-92-p2s2w9</LM>
 </w.rf>
 <form>mnohačetných</form>
-<lemma>mnohačetný</lemma>
+<lemma>mnohačetný_,s_^(^DD**mnohočetný)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-ln94200-92-p2s2w10">

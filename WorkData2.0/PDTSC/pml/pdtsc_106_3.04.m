@@ -100,8 +100,8 @@
 <LM>w#w-d1t758-69</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t758-67">
 <w.rf>
@@ -732,8 +732,8 @@
 <LM>w#w-d1t796-19</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t796-18">
 <w.rf>
@@ -1094,8 +1094,8 @@
 <LM>w#w-d1t805-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t805-4">
 <w.rf>
@@ -1834,8 +1834,8 @@
 <LM>w#w-d1t849-13</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t849-14">
 <w.rf>
@@ -1992,8 +1992,8 @@
 <LM>w#w-d1t857-2</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m145-d1t857-1">
 <w.rf>
@@ -2252,8 +2252,8 @@
 <LM>w#w-d1t862-13</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t862-14">
 <w.rf>
@@ -2725,8 +2725,8 @@
 <LM>w#w-d1t902-11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m145-d1t902-12">
 <w.rf>
@@ -2871,8 +2871,8 @@
 <LM>w#w-d1t904-13</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m145-d1t904-18">
 <w.rf>
@@ -2977,8 +2977,8 @@
 <LM>w#w-d1t906-9</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m145-d1t906-10">
 <w.rf>
@@ -3083,7 +3083,7 @@
 <LM>w#w-d1t909-4</LM>
 </w.rf>
 <form>Sehnal</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m145-231-234">

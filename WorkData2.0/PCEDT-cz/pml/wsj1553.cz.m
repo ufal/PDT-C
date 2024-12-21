@@ -277,7 +277,7 @@
 <LM>w#w-wsj1553-001-p1s0W30</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1553-001-p1s0W31-Ta">
@@ -1118,7 +1118,7 @@
 </w.rf>
 <form>zpracování</form>
 <lemma>zpracování_^(*3at)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj1553-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>

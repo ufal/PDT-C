@@ -450,8 +450,8 @@
 <LM>w#w-ln95046-088-p2s3w12</LM>
 </w.rf>
 <form>dotázaných</form>
-<lemma>dotázaný_^(*2t)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>dotázaný-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln95046-088-p2s3w13">
 <src.rf>manual</src.rf>

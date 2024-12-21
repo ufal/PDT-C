@@ -17,7 +17,7 @@
 </w.rf>
 <form>Společnosti</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj0722-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -214,8 +214,8 @@
 <LM>w#w-wsj0722-001-p1s0W23</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0722-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -432,8 +432,8 @@
 <LM>w#w-wsj0722-001-p1s1W16</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0722-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1178,8 +1178,8 @@
 <LM>w#w-wsj0722-001-p1s5W8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0722-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>

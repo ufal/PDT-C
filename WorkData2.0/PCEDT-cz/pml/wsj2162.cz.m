@@ -3708,8 +3708,8 @@
 <LM>w#w-wsj2162-001-p1s18W2</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2162-001-p1s18W3-Ta">
 <src.rf>tagger-a</src.rf>

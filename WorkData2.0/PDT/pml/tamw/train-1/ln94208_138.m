@@ -249,7 +249,7 @@
 <form_change>spell</form_change>
 <form>Foto</form>
 <lemma>foto</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln94208-138-p1s1Bw2">
 <src.rf>manual</src.rf>

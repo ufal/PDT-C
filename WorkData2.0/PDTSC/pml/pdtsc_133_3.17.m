@@ -80,8 +80,8 @@
 <LM>w#w-d1t4622-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m056-d-m-d1e4617-x2-punct-punct">
 <w.rf>
@@ -188,8 +188,8 @@
 <LM>w#w-d1t4646-4</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m056-d1e4641-x2-1334">
 <w.rf>
@@ -340,8 +340,8 @@
 <LM>w#w-d1t4676-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m056-d-m-d1e4671-x2-punct-punct">
 <w.rf>

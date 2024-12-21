@@ -628,8 +628,8 @@
 <LM>w#w-ln95049-070-p3s1w11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-070-p3s1w12">
 <src.rf>manual</src.rf>
@@ -911,8 +911,8 @@
 <LM>w#w-ln95049-070-p3s3w2</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95049-070-p3s3w3">
 <src.rf>manual</src.rf>
@@ -956,8 +956,8 @@
 <LM>w#w-ln95049-070-p3s3w7</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-070-p3s3w8">
 <src.rf>manual</src.rf>
@@ -3865,8 +3865,8 @@
 <LM>w#w-ln95049-070-p10s2w6</LM>
 </w.rf>
 <form>jakoby</form>
-<lemma>jakoby</lemma>
-<tag>J,-------------</tag>
+<lemma>jakoby-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-070-p10s2w7">
 <src.rf>manual</src.rf>

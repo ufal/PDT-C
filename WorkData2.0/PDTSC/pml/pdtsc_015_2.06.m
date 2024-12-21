@@ -598,7 +598,7 @@
 <LM>w#w-id63500-13</LM>
 </w.rf>
 <form>sehnaly</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m713-id63500-14">

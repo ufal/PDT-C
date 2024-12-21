@@ -76,7 +76,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-057-p2s1w5">
 <src.rf>manual</src.rf>
@@ -1381,8 +1381,8 @@
 <LM>w#w-ln95042-057-p3s1w9</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-057-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1555,7 +1555,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-057-p3s2w3">
 <src.rf>manual</src.rf>
@@ -3392,8 +3392,8 @@
 <LM>w#w-ln95042-057-p4s1w8</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-057-p4s1w9">
 <src.rf>manual</src.rf>
@@ -3770,7 +3770,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-057-p4s5w8">
 <src.rf>manual</src.rf>
@@ -4980,8 +4980,8 @@
 <LM>w#w-ln95042-057-p4s12w5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95042-057-p4s12w6">
 <src.rf>manual</src.rf>
@@ -5415,7 +5415,7 @@
 </w.rf>
 <form>dominuje</form>
 <lemma>dominovat</lemma>
-<tag>VB-S---3P-AAB--</tag>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-057-p4s13w41">
 <src.rf>manual</src.rf>
@@ -6528,8 +6528,8 @@
 <LM>w#w-ln95042-057-p6s2w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95042-057-p6s2w5">
 <src.rf>manual</src.rf>
@@ -7528,7 +7528,7 @@
 </w.rf>
 <form>vážení</form>
 <lemma>vážený_^(*3it)</lemma>
-<tag>AAMP1----1A----</tag>
+<tag>AAMP5----1A----</tag>
 </m>
 <m id="m-ln95042-057-p7s1w18">
 <src.rf>manual</src.rf>
@@ -7537,7 +7537,7 @@
 </w.rf>
 <form>čtenáři</form>
 <lemma>čtenář</lemma>
-<tag>NNMP1-----A----</tag>
+<tag>NNMP5-----A----</tag>
 </m>
 <m id="m-ln95042-057-p7s1w19">
 <src.rf>manual</src.rf>

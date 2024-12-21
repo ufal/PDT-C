@@ -36,7 +36,7 @@
 <LM>w#w-jh_12-SCzechM-p1196-s1-w4</LM>
 </w.rf>
 <form>rozesmíváš</form>
-<lemma>rozesmívat</lemma>
+<lemma>rozesmívat_,s_^(^DD**rozesmávat)</lemma>
 <tag>VB-S---2P-AAI--</tag>
 </m>
 <m id="jh_12-SCzechM-p1196-s1-w5">
@@ -373,7 +373,7 @@
 </w.rf>
 <form>kamení</form>
 <lemma>kamení</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="jh_12-SCzechM-p1211-s1-w2">
 <w.rf>
@@ -389,7 +389,7 @@
 </w.rf>
 <form>půdy</form>
 <lemma>půda</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 </s>
 <s id="s-jh_12-SCzechM-p1212-s1-w13">
@@ -1450,7 +1450,7 @@
 </w.rf>
 <form>terasy</form>
 <lemma>terasa</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="jh_12-SCzechM-p1239-s1-w35">
 <w.rf>
@@ -3152,7 +3152,7 @@
 </w.rf>
 <form>úseku</form>
 <lemma>úsek</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="jh_12-SCzechM-p1265-s1-w23">
 <w.rf>
@@ -3650,7 +3650,7 @@
 <LM>w#w-jh_12-SCzechM-p1276-s1-w21</LM>
 </w.rf>
 <form>znova</form>
-<lemma>znova</lemma>
+<lemma>znova_,s_^(^DD**znovu)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="jh_12-SCzechM-p1276-s1-w22">

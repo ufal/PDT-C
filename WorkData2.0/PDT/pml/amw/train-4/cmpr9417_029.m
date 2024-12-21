@@ -114,7 +114,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-cmpr9417-029-p3s1Bw2">
 <src.rf>manual</src.rf>
@@ -1593,7 +1593,7 @@
 <LM>w#w-cmpr9417-029-p7s5w11</LM>
 </w.rf>
 <form>využíváním</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS7-----A----</tag>
 </m>
 <m id="m-cmpr9417-029-p7s5w12">
@@ -2067,8 +2067,8 @@
 <LM>w#w-cmpr9417-029-p9s1w1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9417-029-p9s1w2">
 <src.rf>manual</src.rf>
@@ -2322,7 +2322,7 @@
 <LM>w#w-cmpr9417-029-p9s2w9</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-029-p9s2w10">
@@ -4992,8 +4992,8 @@
 <LM>w#w-cmpr9417-029-p18s3w8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9417-029-p18s3w9">
 <src.rf>manual</src.rf>
@@ -5300,7 +5300,7 @@
 <LM>w#w-cmpr9417-029-p19s1w25</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-029-p19s1w26">

@@ -1584,7 +1584,7 @@
 </w.rf>
 <form>dominovala</form>
 <lemma>dominovat</lemma>
-<tag>VpQW----R-AAB--</tag>
+<tag>VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-059-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1639,7 +1639,7 @@
 <LM>w#w-ln95040-059-p2s9w3</LM>
 </w.rf>
 <form>opravňovala</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-059-p2s9w4">
@@ -2104,8 +2104,8 @@
 <LM>w#w-ln95040-059-p2s12w7</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-059-p2s12w8">
 <src.rf>manual</src.rf>
@@ -6632,7 +6632,7 @@
 <LM>w#w-ln95040-059-p4s4w27</LM>
 </w.rf>
 <form>hájil</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-059-p4s4w28">
@@ -7213,7 +7213,7 @@
 </w.rf>
 <form>rekonstruovat</form>
 <lemma>rekonstruovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95040-059-p4s6w12">
 <src.rf>manual</src.rf>
@@ -7469,7 +7469,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-059-p4s8w8">
 <src.rf>manual</src.rf>
@@ -8918,8 +8918,8 @@
 <LM>w#w-ln95040-059-p4s17w30</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-059-p4s17w31">
 <src.rf>manual</src.rf>
@@ -9246,8 +9246,8 @@
 <LM>w#w-ln95040-059-p4s19w4</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-059-p4s19w5">
 <src.rf>manual</src.rf>
@@ -12215,7 +12215,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-059-p5s13w2">
 <src.rf>manual</src.rf>
@@ -13003,8 +13003,8 @@
 <LM>w#w-ln95040-059-p6s3w9</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-059-p6s3w10">
 <src.rf>manual</src.rf>
@@ -13687,7 +13687,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-059-p6s7w10">
 <src.rf>manual</src.rf>

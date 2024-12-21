@@ -806,7 +806,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-066-p4s3w17">
 <src.rf>manual</src.rf>
@@ -3492,7 +3492,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-066-p4s16w19">
 <src.rf>manual</src.rf>
@@ -3520,8 +3520,8 @@
 <LM>w#w-mf920902-066-p4s17w1</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920902-066-p4s17w2">
 <src.rf>manual</src.rf>

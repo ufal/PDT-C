@@ -553,7 +553,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-005-p2s3w3">
 <src.rf>manual</src.rf>
@@ -642,8 +642,8 @@
 <LM>w#w-ln95044-005-p2s3w12</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95044-005-p2s3w13">
 <src.rf>manual</src.rf>
@@ -1532,7 +1532,7 @@
 <LM>w#w-ln95044-005-p4s3w5</LM>
 </w.rf>
 <form>zjednodušení</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln95044-005-p4s3w6">

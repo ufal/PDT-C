@@ -320,7 +320,7 @@
 <LM>w#w-ln94206-106-p2s2w8</LM>
 </w.rf>
 <form>dozvíme</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---1P-AAP--</tag>
 </m>
 <m id="m-ln94206-106-p2s2w9">
@@ -1003,8 +1003,8 @@
 <LM>w#w-ln94206-106-p3s4w6</LM>
 </w.rf>
 <form>jasně</form>
-<lemma>jasně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jasně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-106-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1634,8 +1634,8 @@
 <LM>w#w-ln94206-106-p3s9w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-106-p3s9w2">
 <src.rf>manual</src.rf>
@@ -1897,8 +1897,8 @@
 <LM>w#w-ln94206-106-p3s10w18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-106-p3s10w19">
 <src.rf>manual</src.rf>
@@ -1927,7 +1927,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-106-p3s11w2">
 <src.rf>manual</src.rf>
@@ -3153,8 +3153,8 @@
 <LM>w#w-ln94206-106-p5s3w16</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-1</lemma>
-<tag>Db-------------</tag>
+<lemma>třeba-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-106-p5s3w17">
 <src.rf>manual</src.rf>
@@ -3500,7 +3500,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln94206-106-p5s5w18">
 <src.rf>manual</src.rf>

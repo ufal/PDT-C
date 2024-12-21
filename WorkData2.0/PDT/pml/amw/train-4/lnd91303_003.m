@@ -6383,7 +6383,7 @@
 </w.rf>
 <form>cituje</form>
 <lemma>citovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd91303-003-p6s4w33">
 <src.rf>manual</src.rf>

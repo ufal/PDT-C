@@ -1493,7 +1493,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0939-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>

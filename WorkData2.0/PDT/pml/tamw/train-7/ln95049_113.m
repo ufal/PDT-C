@@ -639,8 +639,8 @@
 <LM>w#w-ln95049-113-p2s3w16</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-113-p2s3w17">
 <src.rf>manual</src.rf>
@@ -839,8 +839,8 @@
 <LM>w#w-ln95049-113-p3s1w20</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95049-113-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1849,7 +1849,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-113-p4s4w8">
 <src.rf>manual</src.rf>

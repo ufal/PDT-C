@@ -20,7 +20,7 @@
 </w.rf>
 <form>Sebeléčení</form>
 <lemma>sebeléčení</lemma>
-<tag>AANS1----1A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9212-024-p1s1w2">
 <src.rf>manual</src.rf>
@@ -1778,7 +1778,7 @@
 </w.rf>
 <form>distribuován</form>
 <lemma>distribuovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-vesm9212-024-p3s9w17">
 <src.rf>manual</src.rf>
@@ -3945,7 +3945,7 @@
 </w.rf>
 <form>zachovají</form>
 <lemma>zachovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-vesm9212-024-p6s6w4">
 <src.rf>manual</src.rf>

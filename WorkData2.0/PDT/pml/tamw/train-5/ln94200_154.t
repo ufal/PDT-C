@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94200_154.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>kolekce,
 určitě vyřadit,
 chybí tabulky</discourse_comment>
@@ -78,7 +78,7 @@ chybí tabulky</discourse_comment>
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>4</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94200-154-p2s1w1">
 <a>
@@ -233,7 +233,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 </LM>
 </children>
 </LM>
@@ -257,7 +257,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94200-154-p3s1Bw2">
 <a>
@@ -339,8 +339,9 @@ chybí tabulky</discourse_comment>
 <lex.rf>a#a-ln94200-154-p3s1Cw3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>první</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -394,7 +395,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w4030f2</val_frame.rf>
+<val_frame.rf>v#v41gofB</val_frame.rf>
 <children>
 <LM id="t-ln94200-154-p3s1Cw10">
 <a>
@@ -432,8 +433,9 @@ chybí tabulky</discourse_comment>
 <lex.rf>a#a-ln94200-154-p3s1Cw8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tučný</t_lemma>
+<t_lemma>tučně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>tučný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -491,7 +493,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94200-154-p3s3w2">
 <a>
@@ -560,7 +562,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94200-154-p5s1w1">
 <a>
@@ -866,8 +868,9 @@ chybí tabulky</discourse_comment>
 <lex.rf>a#a-ln94200-154-p6s1w15</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>první</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -1043,7 +1046,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 </LM>
 </children>
 </LM>
@@ -1120,12 +1123,10 @@ chybí tabulky</discourse_comment>
 <a>
 <lex.rf>a#a-ln94200-154-p7s1Bw7</lex.rf>
 </a>
-<nodetype>qcomplex</nodetype>
+<nodetype>coap</nodetype>
 <t_lemma>#Colon</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
+<functor>APPS</functor>
 <is_member>1</is_member>
-<tfa>t</tfa>
 <deepord>6</deepord>
 <children>
 <LM id="t-ln94200-154-p7s1Bw5">
@@ -1135,6 +1136,7 @@ chybí tabulky</discourse_comment>
 <nodetype>coap</nodetype>
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
+<is_member>1</is_member>
 <deepord>4</deepord>
 <children>
 <LM id="t-ln94200-154-p7s1Bw2">
@@ -1143,7 +1145,8 @@ chybí tabulky</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pohár</t_lemma>
-<functor>ACT</functor>
+<functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
@@ -1151,7 +1154,7 @@ chybí tabulky</discourse_comment>
 <number>sg</number>
 <typgroup>single</typgroup>
 </gram>
-<tfa>c</tfa>
+<tfa>f</tfa>
 <deepord>1</deepord>
 <children>
 <LM id="t-ln94200-154-p7s1Bw1">
@@ -1191,7 +1194,8 @@ chybí tabulky</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>finále</t_lemma>
-<functor>ACT</functor>
+<functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
@@ -1208,7 +1212,8 @@ chybí tabulky</discourse_comment>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#EmpVerb</t_lemma>
-<functor>PAT</functor>
+<functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>12</deepord>
 <children>
@@ -1331,8 +1336,6 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-</LM>
-</children>
 </LM>
 <LM id="t-ln94200-154-p7s1Bw24">
 <a>
@@ -1503,6 +1506,8 @@ chybí tabulky</discourse_comment>
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="t-ln94200-154-p7s1Bw31">
 <a>
 <lex.rf>a#a-ln94200-154-p7s1Bw31</lex.rf>
@@ -1521,7 +1526,7 @@ chybí tabulky</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>branka</t_lemma>
-<functor>PAT</functor>
+<functor>ACT</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -1546,7 +1551,7 @@ chybí tabulky</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Skabelka</t_lemma>
-<functor>ACT</functor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <is_name_of_person>1</is_name_of_person>
 <gram>
@@ -1590,7 +1595,7 @@ chybí tabulky</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Pankov</t_lemma>
-<functor>ACT</functor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <is_name_of_person>1</is_name_of_person>
 <gram>
@@ -1624,7 +1629,7 @@ chybí tabulky</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Taranovskij</t_lemma>
-<functor>ACT</functor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <is_name_of_person>1</is_name_of_person>
 <gram>
@@ -1648,7 +1653,7 @@ chybí tabulky</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Madový</t_lemma>
-<functor>ACT</functor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <is_name_of_person>1</is_name_of_person>
 <gram>
@@ -1674,7 +1679,7 @@ chybí tabulky</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Panvkovček</t_lemma>
-<functor>ACT</functor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <is_name_of_person>1</is_name_of_person>
 <gram>
@@ -1720,7 +1725,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 </LM>
 </children>
 </LM>
@@ -2448,8 +2453,8 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w7929f2</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41obaB</val_frame.rf>
 <children>
 <LM id="t-ln94200-154-p12s1a0">
 <nodetype>complex</nodetype>
@@ -2473,6 +2478,7 @@ chybí tabulky</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>kolik</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>kolik</proto_lemma>
 <gram>
 <sempos>adj.quant.indef</sempos>
 <indeftype>inter</indeftype>
@@ -2706,6 +2712,7 @@ chybí tabulky</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -2719,7 +2726,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94200-154-p13s1a1">
 <a>
@@ -2831,6 +2838,7 @@ chybí tabulky</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -2844,7 +2852,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>23</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94200-154-p13s1a2">
 <a>
@@ -2956,6 +2964,7 @@ chybí tabulky</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -2976,13 +2985,14 @@ chybí tabulky</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-154-p13s1w34</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94200-154-p13s1a3">
 <a>
@@ -3141,6 +3151,7 @@ chybí tabulky</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -3154,7 +3165,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94200-154-p13s2w6">
 <a>
@@ -3275,6 +3286,7 @@ chybí tabulky</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -3288,7 +3300,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94200-154-p13s2a2">
 <a>
@@ -3400,6 +3412,7 @@ chybí tabulky</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -3413,7 +3426,7 @@ chybí tabulky</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>20</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94200-154-p13s2a3">
 <a>
@@ -3525,6 +3538,7 @@ chybí tabulky</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -3545,13 +3559,14 @@ chybí tabulky</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-154-p13s2w30</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94200-154-p13s2a4">
 <a>

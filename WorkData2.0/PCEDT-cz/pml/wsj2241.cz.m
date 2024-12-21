@@ -1375,8 +1375,8 @@
 <LM>w#w-wsj2241-001-p1s4W17</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj2241-001-p1s4W18-Ta">
 <src.rf>tagger-a</src.rf>

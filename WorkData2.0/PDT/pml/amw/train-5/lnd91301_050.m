@@ -1880,7 +1880,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>umisťovány</form>
-<lemma>umisťovat</lemma>
+<lemma>umisťovat_,s_^(^DD**umísťovat)</lemma>
 <tag>VsTP----X-API--</tag>
 </m>
 <m id="m-lnd91301-050-p4s4Aw4">
@@ -2305,8 +2305,8 @@
 <LM>w#w-lnd91301-050-p4s4Bw35</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd91301-050-p4s4Bw36">
 <src.rf>manual</src.rf>
@@ -2664,7 +2664,7 @@
 <LM>w#w-lnd91301-050-p4s8w1</LM>
 </w.rf>
 <form>Dozvídáme</form>
-<lemma>dozvídat</lemma>
+<lemma>dozvídat_,s_^(^DD**dovídat)</lemma>
 <tag>VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd91301-050-p4s8w2">
@@ -3458,7 +3458,7 @@
 <LM>w#w-lnd91301-050-p4s13w11</LM>
 </w.rf>
 <form>nedozvídá</form>
-<lemma>dozvídat</lemma>
+<lemma>dozvídat_,s_^(^DD**dovídat)</lemma>
 <tag>VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd91301-050-p4s13w12">
@@ -4579,7 +4579,7 @@
 <LM>w#w-lnd91301-050-p5s5w32</LM>
 </w.rf>
 <form>dozvídáme</form>
-<lemma>dozvídat</lemma>
+<lemma>dozvídat_,s_^(^DD**dovídat)</lemma>
 <tag>VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd91301-050-p5s5w33">
@@ -5129,8 +5129,8 @@
 <LM>w#w-lnd91301-050-p5s9w5</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-050-p5s9w6">
 <src.rf>manual</src.rf>
@@ -5640,7 +5640,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-050-p6s1w21">
 <src.rf>manual</src.rf>
@@ -5893,8 +5893,8 @@
 <LM>w#w-lnd91301-050-p6s2w10</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd91301-050-p6s2w11">
 <src.rf>manual</src.rf>

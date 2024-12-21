@@ -86,7 +86,7 @@
 </LM>
 <LM id="a-mf920923-134-p1s2w6">
 <m.rf>m#m-mf920923-134-p1s2w6</m.rf>
-<afun>AuxR</afun>
+<afun>AuxT</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -214,7 +214,7 @@
 </LM>
 <LM id="a-mf920923-134-p1s2w25">
 <m.rf>m#m-mf920923-134-p1s2w25</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>25</ord>
 <clause_number>2</clause_number>
 <children>

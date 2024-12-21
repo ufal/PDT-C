@@ -997,7 +997,7 @@
 <LM>w#w-wsj2093-001-p1s3W11</LM>
 </w.rf>
 <form>spjaté</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-wsj2093-001-p1s3W12-Ta">
@@ -1702,8 +1702,8 @@
 <LM>w#w-wsj2093-001-p1s7W3</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2093-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2405,8 +2405,8 @@
 <LM>w#w-wsj2093-001-p1s11W16</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2093-001-p1s11W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3710,7 +3710,7 @@
 <LM>w#w-wsj2093-001-p1s19W21</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj2093-001-p1s19W22-Ta">
@@ -4020,8 +4020,8 @@
 <LM>w#w-wsj2093-001-p1s21W20</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2093-001-p1s21W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4810,8 +4810,8 @@
 <LM>w#w-wsj2093-001-p1s24W15</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2093-001-p1s24W16-Ta">
 <src.rf>tagger-a</src.rf>

@@ -83,7 +83,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-003-p1s1w9">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-003-p1s2w31">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 </w.rf>
 <form>rekonstruovat</form>
 <lemma>rekonstruovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9303-003-p2s3w23">
 <src.rf>manual</src.rf>
@@ -3223,8 +3223,8 @@
 <LM>w#w-vesm9303-003-p5s3w19</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-003-p5s3w20">
 <src.rf>manual</src.rf>

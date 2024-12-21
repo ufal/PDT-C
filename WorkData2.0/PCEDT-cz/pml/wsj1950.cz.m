@@ -2789,8 +2789,8 @@
 <LM>w#w-wsj1950-001-p1s7W2</LM>
 </w.rf>
 <form>vedoucího</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS2-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS2-----A----</tag>
 </m>
 <m id="m-wsj1950-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7650,7 +7650,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1950-001-p1s25W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8441,7 +8441,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1950-001-p1s28W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8657,7 +8657,7 @@
 <LM>w#w-wsj1950-001-p1s28W25</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIS4-----A----</tag>
 </m>
 <m id="m-wsj1950-001-p1s28W26-Ta">
@@ -9319,7 +9319,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1950-001-p1s30W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9535,7 +9535,7 @@
 <LM>w#w-wsj1950-001-p1s30W25</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIS4-----A----</tag>
 </m>
 <m id="m-wsj1950-001-p1s30W26-Ta">
@@ -10350,7 +10350,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1950-001-p1s32W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10566,7 +10566,7 @@
 <LM>w#w-wsj1950-001-p1s32W25</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIS4-----A----</tag>
 </m>
 <m id="m-wsj1950-001-p1s32W26-Ta">
@@ -11713,8 +11713,8 @@
 <LM>w#w-wsj1950-001-p1s38W7</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1950-001-p1s38W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13345,7 +13345,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1950-001-p1s44W16-Ta">
 <src.rf>tagger-a</src.rf>

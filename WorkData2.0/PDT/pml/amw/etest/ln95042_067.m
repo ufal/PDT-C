@@ -1263,8 +1263,8 @@
 <LM>w#w-ln95042-067-p3s2w30</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95042-067-p3s2w31">
 <src.rf>manual</src.rf>
@@ -1490,7 +1490,7 @@
 <LM>w#w-ln95042-067-p4s1w20</LM>
 </w.rf>
 <form>spjaty</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACTP------A----</tag>
 </m>
 <m id="m-ln95042-067-p4s1w21">

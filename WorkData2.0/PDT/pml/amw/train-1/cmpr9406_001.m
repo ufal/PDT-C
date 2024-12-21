@@ -1155,7 +1155,7 @@
 </w.rf>
 <form>faksimile</form>
 <lemma>faksimile</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-001-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1463,7 +1463,7 @@
 </w.rf>
 <form>napomoci</form>
 <lemma>napomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9406-001-p5s2w6">
 <src.rf>manual</src.rf>
@@ -6746,7 +6746,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-001-p10s3w17">
 <src.rf>manual</src.rf>
@@ -7247,7 +7247,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-001-p10s6w6">
 <src.rf>manual</src.rf>
@@ -8828,7 +8828,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-001-p13s4w5">
 <src.rf>manual</src.rf>
@@ -10024,7 +10024,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-001-p15s6w14">
 <src.rf>manual</src.rf>
@@ -10089,7 +10089,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-001-p15s7w5">
 <src.rf>manual</src.rf>
@@ -12670,7 +12670,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-001-p18s4w12">
 <src.rf>manual</src.rf>
@@ -14109,8 +14109,8 @@
 <LM>w#w-cmpr9406-001-p20s2w17</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9406-001-p20s2w18">
 <src.rf>manual</src.rf>
@@ -14609,7 +14609,7 @@
 </w.rf>
 <form>faksimile</form>
 <lemma>faksimile</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-001-p20s4w5">
 <src.rf>manual</src.rf>
@@ -14910,7 +14910,7 @@
 </w.rf>
 <form>faksimile</form>
 <lemma>faksimile</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-001-p23s1w10">
 <src.rf>manual</src.rf>
@@ -15601,7 +15601,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-001-p33s1w6">
 <src.rf>manual</src.rf>
@@ -17180,7 +17180,7 @@
 <LM>w#w-cmpr9406-001-p49s1w6</LM>
 </w.rf>
 <form>faximile</form>
-<lemma>faximile</lemma>
+<lemma>faximile_,i_^(^DS**faksimile)</lemma>
 <tag>NNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-001-p49s1w7">

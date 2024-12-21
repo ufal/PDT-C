@@ -93,8 +93,8 @@
 <LM>w#w-ln94200-168-p2s1w6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-168-p2s1w7">
 <src.rf>manual</src.rf>

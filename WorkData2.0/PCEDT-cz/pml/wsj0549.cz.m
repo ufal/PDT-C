@@ -161,8 +161,8 @@
 <LM>w#w-wsj0549-001-p1s0W17</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0549-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>

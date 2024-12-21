@@ -167,8 +167,8 @@
 <LM>w#w-ln94211-119-p2s1Bw6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-119-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-ln94211-119-p2s2w8</LM>
 </w.rf>
 <form>nedozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94211-119-p2s2w9">

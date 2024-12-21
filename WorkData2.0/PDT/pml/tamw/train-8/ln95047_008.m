@@ -84,8 +84,8 @@
 <LM>w#w-ln95047-008-p2s1Aw2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-008-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -799,8 +799,8 @@
 <LM>w#w-ln95047-008-p2s2w25</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-008-p2s2w26">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-008-p2s4w17">
 <src.rf>manual</src.rf>
@@ -2061,8 +2061,8 @@
 <LM>w#w-ln95047-008-p4s1w33</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-008-p4s1w34">
 <src.rf>manual</src.rf>
@@ -2486,8 +2486,8 @@
 <LM>w#w-ln95047-008-p4s2w34</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-008-p4s2w35">
 <src.rf>manual</src.rf>
@@ -3611,7 +3611,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-008-p6s2w30">
 <src.rf>manual</src.rf>
@@ -3783,8 +3783,8 @@
 <LM>w#w-ln95047-008-p7s1w11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-008-p7s1w12">
 <src.rf>manual</src.rf>
@@ -5004,7 +5004,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln95047-008-p9s1w23">
 <src.rf>manual</src.rf>
@@ -5312,7 +5312,7 @@
 <LM>w#w-ln95047-008-p9s2w21</LM>
 </w.rf>
 <form>Mosambiku</form>
-<lemma>Mosambik_;G</lemma>
+<lemma>Mosambik_;G_,s_^(^DD**Mozambik)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95047-008-p9s2w22">

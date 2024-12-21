@@ -88,8 +88,8 @@
 <LM>w#w-wsj0507-001-p1s0W9</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0507-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -217,7 +217,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0507-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -699,7 +699,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0507-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>

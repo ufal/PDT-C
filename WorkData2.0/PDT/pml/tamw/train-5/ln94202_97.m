@@ -46,8 +46,8 @@
 <LM>w#w-ln94202-97-p1s1w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-97-p1s1w5">
 <src.rf>manual</src.rf>
@@ -761,7 +761,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-97-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1686,8 +1686,8 @@
 <LM>w#w-ln94202-97-p3s5w13</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-97-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1785,8 +1785,8 @@
 <LM>w#w-ln94202-97-p3s5w24</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-97-p3s5w25">
 <src.rf>manual</src.rf>
@@ -1922,7 +1922,7 @@
 <LM>w#w-ln94202-97-p3s6w4</LM>
 </w.rf>
 <form>hájil</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-97-p3s6w5">
@@ -2122,8 +2122,8 @@
 <LM>w#w-ln94202-97-p3s7w3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-97-p3s7w4">
 <src.rf>manual</src.rf>

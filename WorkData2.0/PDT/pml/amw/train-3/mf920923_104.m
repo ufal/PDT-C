@@ -3870,7 +3870,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920923-104-p8s1w15">
 <src.rf>manual</src.rf>

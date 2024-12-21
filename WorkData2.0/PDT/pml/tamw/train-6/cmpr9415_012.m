@@ -337,8 +337,8 @@
 <LM>w#w-cmpr9415-012-p6s1w9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-012-p6s1w10">
 <src.rf>manual</src.rf>
@@ -760,8 +760,8 @@
 <LM>w#w-cmpr9415-012-p9s2w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-012-p9s2w14">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-cmpr9415-012-p10s2w6</LM>
 </w.rf>
 <form>kožešnictví</form>
-<lemma>kožešnictví</lemma>
+<lemma>kožešnictví_,s_^(^DD**kožišnictví)</lemma>
 <tag>NNNP1-----A----</tag>
 </m>
 <m id="m-cmpr9415-012-p10s2w7">
@@ -1483,8 +1483,8 @@
 <LM>w#w-cmpr9415-012-p11s1w4</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9415-012-p11s1w5">
 <src.rf>manual</src.rf>

@@ -271,7 +271,7 @@
 </w.rf>
 <form>distribuovány</form>
 <lemma>distribuovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-wsj0646-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -361,7 +361,7 @@
 </w.rf>
 <form>listopadu</form>
 <lemma>listopad</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS3-----A----</tag>
 </m>
 <m id="m-wsj0646-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -390,7 +390,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0646-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -551,8 +551,8 @@
 <LM>w#w-wsj0646-001-p1s2W20</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0646-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>

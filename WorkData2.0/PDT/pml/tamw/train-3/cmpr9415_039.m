@@ -687,8 +687,8 @@
 <LM>w#w-cmpr9415-039-p8s1w31</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-039-p8s1w32">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-039-p9s3w13">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <LM>w#w-cmpr9415-039-p10s1w9</LM>
 </w.rf>
 <form>Lobkowicz</form>
-<lemma>Lobkowicz_;Y</lemma>
+<lemma>Lobkowicz_;Y_,s_^(^DD**Lobkovic)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w10">

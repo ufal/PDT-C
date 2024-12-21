@@ -12,8 +12,8 @@
 <LM>w#w-d1t3110-1</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m136-d1t3110-2">
 <w.rf>
@@ -104,8 +104,8 @@
 <LM>w#w-d1e3117-x2-1033</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m136-d1e3117-x2-1034">
 <w.rf>
@@ -138,8 +138,8 @@
 <LM>w#w-d1e3117-x2-304</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m136-d1e3117-x2-305">
 <w.rf>

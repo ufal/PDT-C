@@ -58,7 +58,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95043-094-p2s1w2">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 </w.rf>
 <form>Zachován</form>
 <lemma>zachovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95043-094-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1144,8 +1144,8 @@
 <LM>w#w-ln95043-094-p4s2w5</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-094-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1216,8 +1216,8 @@
 <LM>w#w-ln95043-094-p4s2w13</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95043-094-p4s2w14">
 <src.rf>manual</src.rf>

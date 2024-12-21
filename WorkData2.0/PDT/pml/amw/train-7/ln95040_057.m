@@ -356,8 +356,8 @@
 <LM>w#w-ln95040-057-p2s2w9</LM>
 </w.rf>
 <form>Klátila</form>
-<lemma>klátit</lemma>
-<tag>VpQW----R-AAI--</tag>
+<lemma>Klátil_;Y</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-057-p2s2w10">
 <src.rf>manual</src.rf>
@@ -756,8 +756,8 @@
 <LM>w#w-ln95040-057-p3s1w5</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-057-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-057-p3s2w7">
 <src.rf>manual</src.rf>

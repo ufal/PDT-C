@@ -421,7 +421,7 @@
 <LM>w#w-ln95042-018-p2s2w2</LM>
 </w.rf>
 <form>laděný</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-ln95042-018-p2s2w3">
@@ -1941,7 +1941,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-018-p3s5w23">
 <src.rf>manual</src.rf>

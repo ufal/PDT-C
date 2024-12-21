@@ -177,7 +177,7 @@
 </w.rf>
 <form>minimalizuje</form>
 <lemma>minimalizovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95041-112-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -1000,8 +1000,8 @@
 <LM>w#w-ln95041-112-p4s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95041-112-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1082,7 +1082,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-112-p4s2w11">
 <src.rf>manual</src.rf>

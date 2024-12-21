@@ -1249,8 +1249,8 @@
 <LM>w#w-lnd94101-040-p1s8w11</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-040-p1s8w12">
 <src.rf>manual</src.rf>

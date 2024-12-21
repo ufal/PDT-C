@@ -506,8 +506,8 @@
 <LM>w#w-ln94206-75-p2s4w9</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-75-p2s4w10">
 <src.rf>manual</src.rf>

@@ -82,8 +82,8 @@
 <LM>w#w-ln94208-57-p1s1w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-57-p1s1w9">
 <src.rf>manual</src.rf>
@@ -412,8 +412,8 @@
 <LM>w#w-ln94208-57-p2s1Cw26</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-57-p2s1Cw27">
 <src.rf>manual</src.rf>
@@ -722,8 +722,8 @@
 <LM>w#w-ln94208-57-p2s3w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-57-p2s3w11">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-ln94208-57-p2s4w9</LM>
 </w.rf>
 <form>lídrem</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-57-p2s4w10">
@@ -958,8 +958,8 @@
 <LM>w#w-ln94208-57-p2s4w13</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-57-p2s4w14">
 <src.rf>manual</src.rf>

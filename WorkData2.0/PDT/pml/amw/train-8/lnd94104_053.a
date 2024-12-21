@@ -66,21 +66,21 @@
 <children>
 <LM id="a-lnd94104-053-p1s2w1">
 <m.rf>m#m-lnd94104-053-p1s2w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-lnd94104-053-p1s2w3">
 <m.rf>m#m-lnd94104-053-p1s2w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-lnd94104-053-p1s2w4">
 <m.rf>m#m-lnd94104-053-p1s2w4</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>4</ord>
 <clause_number>0</clause_number>
 </LM>

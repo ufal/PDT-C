@@ -18,7 +18,7 @@
 <children>
 <LM id="a-mf920922-091-p1s1w1">
 <m.rf>m#m-mf920922-091-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -36,7 +36,8 @@
 <children>
 <LM id="a-mf920922-091-p2s1w2">
 <m.rf>m#m-mf920922-091-p2s1w2</m.rf>
-<afun>Obj</afun>
+<afun>Atr</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -108,7 +109,7 @@
 <children>
 <LM id="a-mf920922-091-p2s2w7">
 <m.rf>m#m-mf920922-091-p2s2w7</m.rf>
-<afun>Adv</afun>
+<afun>AuxY</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -162,7 +163,7 @@
 <afun>Adv</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-mf920922-091-p2s3w2">
 <m.rf>m#m-mf920922-091-p2s3w2</m.rf>
 <afun>AuxP</afun>
@@ -177,11 +178,9 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-091-p2s3w4">
 <m.rf>m#m-mf920922-091-p2s3w4</m.rf>
-<afun>Adv</afun>
+<afun>AuxT</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -205,7 +204,7 @@
 <children>
 <LM id="a-mf920922-091-p2s3w8">
 <m.rf>m#m-mf920922-091-p2s3w8</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -444,6 +443,12 @@
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920922-091-p2s6w5">
+<m.rf>m#m-mf920922-091-p2s6w5</m.rf>
+<afun>Obj</afun>
+<ord>5</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-mf920922-091-p2s6w1">
 <m.rf>m#m-mf920922-091-p2s6w1</m.rf>
 <afun>AuxP</afun>
@@ -452,18 +457,12 @@
 <children>
 <LM id="a-mf920922-091-p2s6w2">
 <m.rf>m#m-mf920922-091-p2s6w2</m.rf>
-<afun>Adv</afun>
+<afun>Atr</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
 </children>
 </LM>
-<LM id="a-mf920922-091-p2s6w5">
-<m.rf>m#m-mf920922-091-p2s6w5</m.rf>
-<afun>Obj</afun>
-<ord>5</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-mf920922-091-p2s6w4">
 <m.rf>m#m-mf920922-091-p2s6w4</m.rf>
 <afun>Atr</afun>
@@ -486,7 +485,7 @@
 <children>
 <LM id="a-mf920922-091-p2s6w8">
 <m.rf>m#m-mf920922-091-p2s6w8</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
 </LM>

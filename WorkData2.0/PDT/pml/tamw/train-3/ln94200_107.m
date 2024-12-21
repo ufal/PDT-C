@@ -37,8 +37,8 @@
 <LM>w#w-ln94200-107-p1s1w3</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-107-p1s1w4">
 <src.rf>manual</src.rf>
@@ -302,8 +302,8 @@
 <LM>w#w-ln94200-107-p2s1Bw26</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-107-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -466,8 +466,8 @@
 <LM>w#w-ln94200-107-p2s2w14</LM>
 </w.rf>
 <form>Prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-107-p2s2w15">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-ln94200-107-p2s4w14</LM>
 </w.rf>
 <form>vyzývatelem</form>
-<lemma>vyzývatel</lemma>
+<lemma>vyzývatel_,s_^(^DD**vyzyvatel)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-107-p2s4w15">

@@ -599,7 +599,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0253-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -853,7 +853,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0253-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -987,7 +987,7 @@
 <LM>w#w-wsj0253-001-p1s4W22</LM>
 </w.rf>
 <form>Pennsylvánii</form>
-<lemma>Pennsylvánie_;G</lemma>
+<lemma>Pennsylvánie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj0253-001-p1s4W23-Ta">
@@ -1206,8 +1206,8 @@
 <LM>w#w-wsj0253-001-p1s5W19</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0253-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1756,8 +1756,8 @@
 <LM>w#w-wsj0253-001-p1s9W4</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0253-001-p1s9W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3100,7 +3100,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0253-001-p1s13W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4231,8 +4231,8 @@
 <LM>w#w-wsj0253-001-p1s19W8</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0253-001-p1s19W9-Ta">
 <src.rf>tagger-a</src.rf>

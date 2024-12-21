@@ -1565,7 +1565,7 @@
 <LM>w#w-wsj0020-001-p1s5W3</LM>
 </w.rf>
 <form>vyjednavači</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj0020-001-p1s5W4-Ta">
@@ -2254,7 +2254,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0020-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4041,7 +4041,7 @@
 </w.rf>
 <form>zlepšení</form>
 <lemma>zlepšení_^(*3it)</lemma>
-<tag>NNNP1-----A----</tag>
+<tag>NNNP4-----A----</tag>
 </m>
 <m id="m-wsj0020-001-p1s14W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4050,7 +4050,7 @@
 </w.rf>
 <form>učiněná</form>
 <lemma>učiněný_^(*3it)</lemma>
-<tag>AANP1----1A----</tag>
+<tag>AANP4----1A----</tag>
 </m>
 <m id="m-wsj0020-001-p1s14W19-Ta">
 <src.rf>tagger-a</src.rf>

@@ -747,8 +747,8 @@
 <LM>w#w-ln95049-056-p3s2w14</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-056-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1275,8 +1275,8 @@
 <LM>w#w-ln95049-056-p4s2w2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-056-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1338,8 +1338,8 @@
 <LM>w#w-ln95049-056-p4s2w9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-056-p4s2w10">
 <src.rf>manual</src.rf>

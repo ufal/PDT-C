@@ -37,8 +37,8 @@
 <LM>w#w-ln94208-122-p1s1w3</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-122-p1s1w4">
 <src.rf>manual</src.rf>
@@ -221,8 +221,8 @@
 <LM>w#w-ln94208-122-p2s1Bw16</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-122-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -367,8 +367,8 @@
 <LM>w#w-ln94208-122-p2s2w4</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94208-122-p2s2w5">
 <src.rf>manual</src.rf>
@@ -675,8 +675,8 @@
 <LM>w#w-ln94208-122-p2s3w16</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-122-p2s3w17">
 <src.rf>manual</src.rf>

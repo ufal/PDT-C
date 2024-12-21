@@ -1300,7 +1300,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-ln94207-126-p3s5w15">
 <src.rf>manual</src.rf>
@@ -1401,7 +1401,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-ln94207-126-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1583,7 +1583,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-126-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1627,8 +1627,8 @@
 <LM>w#w-ln94207-126-p4s1w7</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-126-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1636,8 +1636,8 @@
 <LM>w#w-ln94207-126-p4s1w8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-126-p4s1w9">
 <src.rf>manual</src.rf>

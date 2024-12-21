@@ -999,7 +999,7 @@
 </w.rf>
 <form>o</form>
 <lemma>o-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-vesm9303-035-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1372,7 +1372,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9303-035-p5s3w9">
 <src.rf>manual</src.rf>
@@ -1389,7 +1389,7 @@
 <LM>w#w-vesm9303-035-p5s3w10</LM>
 </w.rf>
 <form>věštění</form>
-<lemma>věštění_^(*3it)_(*5stit)</lemma>
+<lemma>věštění_^(^DD**věštění)_(*3it)_(*5stit)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-vesm9303-035-p5s3w11">
@@ -3130,8 +3130,8 @@
 <LM>w#w-vesm9303-035-p7s1w24</LM>
 </w.rf>
 <form>proměnnými</form>
-<lemma>proměnný</lemma>
-<tag>AAFP7----1A----</tag>
+<lemma>proměnná-2</lemma>
+<tag>NNFP7-----A----</tag>
 </m>
 <m id="m-vesm9303-035-p7s1w25">
 <src.rf>manual</src.rf>
@@ -4179,8 +4179,8 @@
 <LM>w#w-vesm9303-035-p8s4w3</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-035-p8s4w4">
 <src.rf>manual</src.rf>

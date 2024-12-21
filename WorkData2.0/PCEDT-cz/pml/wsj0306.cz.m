@@ -345,7 +345,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAFP2----1A----</tag>
+<tag>PLFP2----------</tag>
 </m>
 <m id="m-wsj0306-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1443,7 +1443,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAFP2----1A----</tag>
+<tag>PLFP2----------</tag>
 </m>
 <m id="m-wsj0306-001-p1s5W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1944,7 +1944,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAFP2----1A----</tag>
+<tag>PLFP2----------</tag>
 </m>
 <m id="m-wsj0306-001-p1s6W44-Ta">
 <src.rf>tagger-a</src.rf>

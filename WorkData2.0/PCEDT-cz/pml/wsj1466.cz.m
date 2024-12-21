@@ -968,7 +968,7 @@
 </w.rf>
 <form>distribuováno</form>
 <lemma>distribuovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-wsj1466-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>žaloby</form>
 <lemma>žaloba</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1466-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1195,7 +1195,7 @@
 </w.rf>
 <form>obvinění</form>
 <lemma>obvinění_^(*3it)</lemma>
-<tag>NNNP4-----A----</tag>
+<tag>NNNP1-----A----</tag>
 </m>
 <m id="m-wsj1466-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>

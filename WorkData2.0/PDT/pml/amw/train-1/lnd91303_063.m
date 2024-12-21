@@ -3705,8 +3705,8 @@
 <LM>w#w-lnd91303-063-p8s4w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91303-063-p8s4w5">
 <src.rf>manual</src.rf>
@@ -8083,7 +8083,7 @@
 </w.rf>
 <form>reaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd91303-063-p15s5w37">
 <src.rf>manual</src.rf>
@@ -9738,8 +9738,8 @@
 <LM>w#w-lnd91303-063-p16s9w37</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-063-p16s9w38">
 <src.rf>manual</src.rf>
@@ -12574,8 +12574,8 @@
 <LM>w#w-lnd91303-063-p22s9w7</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-063-p22s9w8">
 <src.rf>manual</src.rf>
@@ -13216,7 +13216,7 @@
 </w.rf>
 <form>angažovat</form>
 <lemma>angažovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd91303-063-p24s3w14">
 <src.rf>manual</src.rf>

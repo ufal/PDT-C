@@ -928,8 +928,8 @@
 <LM>w#w-lnd94104-002-p1s6Aw7</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94104-002-p1s6Aw8">
 <src.rf>manual</src.rf>

@@ -659,8 +659,8 @@
 <LM>w#w-cmpr9416-044-p8s1w20</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-044-p8s1w21">
 <src.rf>manual</src.rf>

@@ -545,8 +545,8 @@
 <LM>w#w-ln95045-089-p2s2w22</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-089-p2s2w23">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-ln95045-089-p2s3w5</LM>
 </w.rf>
 <form>Lobkowicze</form>
-<lemma>Lobkowicz_;Y</lemma>
+<lemma>Lobkowicz_;Y_,s_^(^DD**Lobkovic)</lemma>
 <tag>NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-089-p2s3w6">
@@ -1330,7 +1330,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-089-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1486,8 +1486,8 @@
 <LM>w#w-ln95045-089-p4s2w1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-089-p4s2w2">
 <src.rf>manual</src.rf>

@@ -356,7 +356,7 @@
 <LM>w#w-lnd91303-064-p2s2w9</LM>
 </w.rf>
 <form>věštění</form>
-<lemma>věštění_^(*3it)_(*5stit)</lemma>
+<lemma>věštění_^(^DD**věštění)_(*3it)_(*5stit)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-064-p2s2w10">
@@ -956,7 +956,7 @@
 <LM>w#w-lnd91303-064-p3s1Aw2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-064-p3s1Aw3">
@@ -3408,7 +3408,7 @@
 <LM>w#w-lnd91303-064-p5s2w39</LM>
 </w.rf>
 <form>nezvratitelným</form>
-<lemma>zvratitelný_^(*8átit)</lemma>
+<lemma>zvratitelný_,s_^(^DD**zvrátitelný)</lemma>
 <tag>AANS7----1N----</tag>
 </m>
 <m id="m-lnd91303-064-p5s2w40">
@@ -4376,8 +4376,8 @@
 <LM>w#w-lnd91303-064-p6s1Aw10</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd91303-064-p6s1Aw11">
 <src.rf>manual</src.rf>
@@ -9101,8 +9101,8 @@
 <LM>w#w-lnd91303-064-p12s2w1</LM>
 </w.rf>
 <form>Jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-064-p12s2w2">
 <src.rf>manual</src.rf>
@@ -9219,7 +9219,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-064-p12s2w15">
 <src.rf>manual</src.rf>
@@ -10085,8 +10085,8 @@
 <LM>w#w-lnd91303-064-p13s1w1</LM>
 </w.rf>
 <form>Jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-064-p13s1w2">
 <src.rf>manual</src.rf>
@@ -10641,7 +10641,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-064-p14s1w8">
 <src.rf>manual</src.rf>
@@ -10821,7 +10821,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-064-p14s1w28">
 <src.rf>manual</src.rf>
@@ -11546,7 +11546,7 @@
 <LM>w#w-lnd91303-064-p15s2w25</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd91303-064-p15s2w26">

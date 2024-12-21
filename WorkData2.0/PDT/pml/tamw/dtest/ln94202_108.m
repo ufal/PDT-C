@@ -104,8 +104,8 @@
 <LM>w#w-ln94202-108-p2s1Bw1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-108-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 </w.rf>
 <form>triumfovali</form>
 <lemma>triumfovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94202-108-p3s1w12">
 <src.rf>manual</src.rf>
@@ -587,8 +587,8 @@
 <LM>w#w-ln94202-108-p3s2w7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-108-p3s2w8">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-108-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1021,8 +1021,8 @@
 <LM>w#w-ln94202-108-p3s3w17</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-108-p3s3w18">
 <src.rf>manual</src.rf>
@@ -1149,8 +1149,8 @@
 <LM>w#w-ln94202-108-p3s4w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-108-p3s4w7">
 <src.rf>manual</src.rf>

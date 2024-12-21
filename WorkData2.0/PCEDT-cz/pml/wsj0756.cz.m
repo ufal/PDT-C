@@ -79,8 +79,8 @@
 <LM>w#w-wsj0756-001-p1s0W8</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj0756-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -608,7 +608,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0756-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -626,7 +626,7 @@
 </w.rf>
 <form>věnují</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-wsj0756-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -670,8 +670,8 @@
 <LM>w#w-wsj0756-001-p1s3W8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0756-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1470,8 +1470,8 @@
 <LM>w#w-wsj0756-001-p1s7W3</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0756-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1954,7 +1954,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0756-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2605,8 +2605,8 @@
 <LM>w#w-wsj0756-001-p1s12W9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0756-001-p1s12W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5739,8 +5739,8 @@
 <LM>w#w-wsj0756-001-p1s31W21</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0756-001-p1s31W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6804,8 +6804,8 @@
 <LM>w#w-wsj0756-001-p1s37W9</LM>
 </w.rf>
 <form>starší</form>
-<lemma>starý-2_^(člověk,_věc)</lemma>
-<tag>AAMS1----2A----</tag>
+<lemma>starší</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj0756-001-p1s37W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7620,7 +7620,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0756-001-p1s44W9-Ta">
 <src.rf>tagger-a</src.rf>

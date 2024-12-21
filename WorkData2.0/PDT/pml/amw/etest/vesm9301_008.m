@@ -1645,7 +1645,7 @@
 </w.rf>
 <form>rekonstruována</form>
 <lemma>rekonstruovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-vesm9301-008-p4s4w9">
 <src.rf>manual</src.rf>

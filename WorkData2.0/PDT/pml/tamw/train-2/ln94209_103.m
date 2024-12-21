@@ -140,8 +140,8 @@
 <LM>w#w-ln94209-103-p2s1Bw5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-103-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-103-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1335,8 +1335,8 @@
 <LM>w#w-ln94209-103-p4s5w1</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvlášť-2_,s_^(^DD**zvláště-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-103-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2228,7 +2228,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-103-p5s4w3">
 <src.rf>manual</src.rf>
@@ -2445,8 +2445,8 @@
 <LM>w#w-ln94209-103-p5s5w15</LM>
 </w.rf>
 <form>handicapovaným</form>
-<lemma>handicapovaný_^(^DD**hendikepovaný)_(*2t)</lemma>
-<tag>AAMP3----1A----</tag>
+<lemma>handicapovaný-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-ln94209-103-p5s5w16">
 <src.rf>manual</src.rf>
@@ -3233,8 +3233,8 @@
 <LM>w#w-ln94209-103-p6s4w7</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-103-p6s4w8">
 <src.rf>manual</src.rf>

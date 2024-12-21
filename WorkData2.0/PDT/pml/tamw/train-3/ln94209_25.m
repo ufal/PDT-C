@@ -1410,8 +1410,8 @@
 <LM>w#w-ln94209-25-p4s4w22</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-25-p4s4w23">
 <src.rf>manual</src.rf>
@@ -1419,8 +1419,8 @@
 <LM>w#w-ln94209-25-p4s4w23</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-25-p4s4w24">
 <src.rf>manual</src.rf>

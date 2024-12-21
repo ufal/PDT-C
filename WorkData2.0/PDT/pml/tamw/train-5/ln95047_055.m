@@ -205,8 +205,8 @@
 <LM>w#w-ln95047-055-p2s1Cw15</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -931,8 +931,8 @@
 <LM>w#w-ln95047-055-p3s1w21</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1565,8 +1565,8 @@
 <LM>w#w-ln95047-055-p3s3w11</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1832,8 +1832,8 @@
 <LM>w#w-ln95047-055-p4s1w7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1977,7 +1977,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p4s1w24">
 <src.rf>manual</src.rf>
@@ -2030,8 +2030,8 @@
 <LM>w#w-ln95047-055-p4s1w29</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p4s1w30">
 <src.rf>manual</src.rf>
@@ -2275,8 +2275,8 @@
 <LM>w#w-ln95047-055-p4s2w5</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p4s2w6">
 <src.rf>manual</src.rf>
@@ -2521,7 +2521,7 @@
 </w.rf>
 <form>kapitalismu</form>
 <lemma>kapitalismus_,s_^(^DD**kapitalizmus)</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln95047-055-p4s3w19">
 <src.rf>manual</src.rf>
@@ -3038,8 +3038,8 @@
 <LM>w#w-ln95047-055-p5s1Bw3</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p5s1Bw4">
 <src.rf>manual</src.rf>
@@ -3239,7 +3239,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p5s2w3">
 <src.rf>manual</src.rf>
@@ -3382,8 +3382,8 @@
 <LM>w#w-ln95047-055-p5s2w18</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p5s2w19">
 <src.rf>manual</src.rf>
@@ -4243,8 +4243,8 @@
 <LM>w#w-ln95047-055-p6s2w16</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-055-p6s2w17">
 <src.rf>manual</src.rf>

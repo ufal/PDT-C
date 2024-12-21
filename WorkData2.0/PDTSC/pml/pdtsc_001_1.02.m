@@ -102,8 +102,8 @@
 <LM>w#w-d1t786-2</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d-id81601">
 <w.rf>
@@ -296,8 +296,8 @@
 <LM>w#w-d1t797-1</LM>
 </w.rf>
 <form>Proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m784-d1t797-2">
 <w.rf>
@@ -632,8 +632,8 @@
 <LM>w#w-d1t822-8</LM>
 </w.rf>
 <form>živými</form>
-<lemma>živý</lemma>
-<tag>AAMP7----1A----</tag>
+<lemma>živý-2</lemma>
+<tag>NNMP7-----A----</tag>
 </m>
 <m id="m784-d-id82840">
 <w.rf>
@@ -1280,8 +1280,8 @@
 <LM>w#w-d1t877-5</LM>
 </w.rf>
 <form>určitě</form>
-<lemma>určitě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>určitě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t877-6">
 <w.rf>
@@ -1345,7 +1345,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t877-14">
 <w.rf>
@@ -1490,8 +1490,8 @@
 <LM>w#w-d1t884-9</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t884-8">
 <w.rf>
@@ -2154,8 +2154,8 @@
 <LM>w#w-d1t929-7</LM>
 </w.rf>
 <form>určitě</form>
-<lemma>určitě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>určitě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t929-9">
 <w.rf>
@@ -3954,8 +3954,8 @@
 <LM>w#w-d1t1078-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t1078-6">
 <w.rf>
@@ -4420,8 +4420,8 @@
 <LM>w#w-d1t1113-7</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m784-d1t1123-1">
 <w.rf>

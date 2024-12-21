@@ -660,7 +660,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-070-p1s20w27">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 </w.rf>
 <form>věnován</form>
 <lemma>věnovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-lnd94104-070-p1s26Bw8">
 <src.rf>manual</src.rf>

@@ -73,8 +73,8 @@
 <LM>w#w-ln94202-138-p1s1Aw7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-138-p1s1Aw8">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <form_change>spell</form_change>
 <form>Foto</form>
 <lemma>foto</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln94202-138-p1s1Bw2">
 <src.rf>manual</src.rf>

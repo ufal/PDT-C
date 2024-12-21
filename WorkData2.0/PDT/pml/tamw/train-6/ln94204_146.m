@@ -750,7 +750,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-146-p2s5Aw14">
 <src.rf>manual</src.rf>
@@ -3397,7 +3397,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln94204-146-p2s14w10">
 <src.rf>manual</src.rf>

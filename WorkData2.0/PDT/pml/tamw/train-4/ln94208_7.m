@@ -320,8 +320,8 @@
 <LM>w#w-ln94208-7-p1s3w5</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-7-p1s3w6">
 <src.rf>manual</src.rf>
@@ -365,8 +365,8 @@
 <LM>w#w-ln94208-7-p1s3w10</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-7-p1s3w11">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 </w.rf>
 <form>Foto</form>
 <lemma>foto</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-ln94208-7-p1s4w2">
 <src.rf>manual</src.rf>

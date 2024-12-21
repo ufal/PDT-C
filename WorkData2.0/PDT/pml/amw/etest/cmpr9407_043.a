@@ -654,7 +654,7 @@
 </LM>
 <LM id="a-cmpr9407-043-p3s4w5">
 <m.rf>m#m-cmpr9407-043-p3s4w5</m.rf>
-<afun>Obj</afun>
+<afun>AuxT</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -730,7 +730,7 @@
 </LM>
 <LM id="a-cmpr9407-043-p3s5Aw7">
 <m.rf>m#m-cmpr9407-043-p3s5Aw7</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -842,7 +842,7 @@
 </LM>
 <LM id="a-cmpr9407-043-p3s5Bw15">
 <m.rf>m#m-cmpr9407-043-p3s5Bw15</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>15</ord>
 <clause_number>3</clause_number>
 </LM>

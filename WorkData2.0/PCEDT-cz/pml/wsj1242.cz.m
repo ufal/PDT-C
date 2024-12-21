@@ -691,7 +691,7 @@
 </w.rf>
 <form>distribuován</form>
 <lemma>distribuovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj1242-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>

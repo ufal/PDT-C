@@ -262,8 +262,8 @@
 <LM>w#w-d1t840-6</LM>
 </w.rf>
 <form>nesmírně</form>
-<lemma>smírně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nesmírně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m125-d1t840-7">
 <w.rf>
@@ -286,8 +286,8 @@
 <LM>w#w-d1t840-9</LM>
 </w.rf>
 <form>nesmírně</form>
-<lemma>smírně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nesmírně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m125-d1t840-10">
 <w.rf>
@@ -565,7 +565,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m125-d1t844-24">
 <w.rf>
@@ -984,8 +984,8 @@
 <LM>w#w-d1t864-1</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m125-d1t864-2">
 <w.rf>
@@ -1040,8 +1040,8 @@
 <LM>w#w-d1t864-7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m125-d1t864-8">
 <w.rf>
@@ -1938,8 +1938,8 @@
 <LM>w#w-d1t895-18</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m125-d1t895-19">
 <w.rf>
@@ -2998,8 +2998,8 @@
 <LM>w#w-d1t940-4</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m125-d1t940-2">
 <w.rf>
@@ -3780,7 +3780,7 @@
 <LM>w#w-d1t960-12</LM>
 </w.rf>
 <form>znova</form>
-<lemma>znova</lemma>
+<lemma>znova_,s_^(^DD**znovu)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m125-d1t960-13">
@@ -4204,8 +4204,8 @@
 <LM>w#w-d1t970-14</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m125-d1t970-15">
 <w.rf>
@@ -4228,8 +4228,8 @@
 <LM>w#w-d1t974-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m125-d1t974-3">
 <w.rf>

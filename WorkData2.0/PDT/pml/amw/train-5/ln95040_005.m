@@ -558,8 +558,8 @@
 <LM>w#w-ln95040-005-p2s3w13</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-005-p2s3w14">
 <src.rf>manual</src.rf>

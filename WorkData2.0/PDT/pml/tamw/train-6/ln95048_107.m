@@ -1248,8 +1248,8 @@
 <LM>w#w-ln95048-107-p3s4w24</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-107-p3s4w25">
 <src.rf>manual</src.rf>
@@ -1403,7 +1403,7 @@
 <LM>w#w-ln95048-107-p3s5w11</LM>
 </w.rf>
 <form>ramadánu</form>
-<lemma>ramadán</lemma>
+<lemma>ramadán_,s_^(^DD**ramadan)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-107-p3s5w12">
@@ -1859,8 +1859,8 @@
 <LM>w#w-ln95048-107-p4s2w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-107-p4s2w15">
 <src.rf>manual</src.rf>

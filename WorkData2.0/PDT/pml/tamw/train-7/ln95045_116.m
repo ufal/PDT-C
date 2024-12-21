@@ -158,8 +158,8 @@
 <LM>w#w-ln95045-116-p2s1Bw11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-116-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -698,8 +698,8 @@
 <LM>w#w-ln95045-116-p4s1w7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-116-p4s1w8">
 <src.rf>manual</src.rf>

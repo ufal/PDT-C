@@ -86,8 +86,8 @@
 <LM>w#w-d1t1443-17</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d-id119915-punct">
 <w.rf>
@@ -118,8 +118,8 @@
 <LM>w#w-d1t1443-22</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1443-21">
 <w.rf>
@@ -210,8 +210,8 @@
 <LM>w#w-d1t1443-36</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d-id120188-punct">
 <w.rf>
@@ -250,8 +250,8 @@
 <LM>w#w-d1t1443-41</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1443-43">
 <w.rf>
@@ -318,8 +318,8 @@
 <LM>w#w-d1t1445-6</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1445-7">
 <w.rf>
@@ -962,8 +962,8 @@
 <LM>w#w-d1t1473-1</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1473-2">
 <w.rf>
@@ -1268,7 +1268,7 @@
 <LM>w#w-d1t1487-13</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1487-18">
@@ -1634,8 +1634,8 @@
 <LM>w#w-d1t1487-54</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1487-55">
 <w.rf>
@@ -2218,8 +2218,8 @@
 <LM>w#w-d1t1517-4</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1e1514-x2-1016">
 <w.rf>
@@ -2236,8 +2236,8 @@
 <LM>w#w-d1t1517-6</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m146-d1t1517-7">
 <w.rf>

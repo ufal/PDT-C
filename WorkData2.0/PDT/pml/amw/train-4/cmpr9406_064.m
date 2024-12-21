@@ -2598,8 +2598,8 @@
 <LM>w#w-cmpr9406-064-p14s1w5</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-064-p14s1w6">
 <src.rf>manual</src.rf>
@@ -2816,8 +2816,8 @@
 <LM>w#w-cmpr9406-064-p14s2w13</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-064-p14s2w14">
 <src.rf>manual</src.rf>

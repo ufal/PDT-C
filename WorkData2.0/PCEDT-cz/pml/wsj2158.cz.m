@@ -758,7 +758,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2158-001-p1s1W45-Ta">
 <src.rf>tagger-a</src.rf>

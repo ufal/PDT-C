@@ -3981,7 +3981,7 @@
 <LM>w#w-lnd94104-099-p1s14Bw14</LM>
 </w.rf>
 <form>čtvrtfinalovým</form>
-<lemma>čtvrtfinalový</lemma>
+<lemma>čtvrtfinalový_,s_^(^DD**čtvrtfinálový)</lemma>
 <tag>AAIS7----1A----</tag>
 </m>
 <m id="m-lnd94104-099-p1s14Bw15">
@@ -4235,8 +4235,8 @@
 <LM>w#w-lnd94104-099-p1s15w17</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94104-099-p1s15w18">
 <src.rf>manual</src.rf>
@@ -4535,7 +4535,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-099-p1s16w26">
 <src.rf>manual</src.rf>

@@ -672,8 +672,8 @@
 <LM>w#w-cmpr9410-003-p7s1w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-003-p7s1w14">
 <src.rf>manual</src.rf>

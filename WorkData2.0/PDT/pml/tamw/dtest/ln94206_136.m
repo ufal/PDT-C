@@ -102,7 +102,7 @@
 <LM>w#w-ln94206-136-p2s1Aw6</LM>
 </w.rf>
 <form>uvíznout</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94206-136-p2s1Aw7">
@@ -1913,8 +1913,8 @@
 <LM>w#w-ln94206-136-p3s7w19</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-136-p3s7w20">
 <src.rf>manual</src.rf>
@@ -2405,8 +2405,8 @@
 <LM>w#w-ln94206-136-p4s3w1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-136-p4s3w2">
 <src.rf>manual</src.rf>
@@ -2468,7 +2468,7 @@
 <LM>w#w-ln94206-136-p4s3w8</LM>
 </w.rf>
 <form>uvízlo</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln94206-136-p4s3w9">
@@ -2814,8 +2814,8 @@
 <LM>w#w-ln94206-136-p4s5w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-136-p4s5w11">
 <src.rf>manual</src.rf>

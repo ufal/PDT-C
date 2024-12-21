@@ -472,7 +472,7 @@
 <LM>w#w-mf920924-152-p3s2w4</LM>
 </w.rf>
 <form>departementu</form>
-<lemma>departement</lemma>
+<lemma>departement_,s_^(^DD**department)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m-mf920924-152-p3s2w5">
@@ -773,7 +773,7 @@
 <LM>w#w-mf920924-152-p3s4w3</LM>
 </w.rf>
 <form>departement</form>
-<lemma>departement</lemma>
+<lemma>departement_,s_^(^DD**department)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-mf920924-152-p3s4w4">

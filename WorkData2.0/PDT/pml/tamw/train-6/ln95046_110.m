@@ -475,8 +475,8 @@
 <LM>w#w-ln95046-110-p2s2w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-110-p2s2w18">
 <src.rf>manual</src.rf>
@@ -702,8 +702,8 @@
 <LM>w#w-ln95046-110-p3s1w13</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95046-110-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1013,7 +1013,7 @@
 </w.rf>
 <form>Ulsteru</form>
 <lemma>Ulster_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95046-110-p3s3w8">
 <src.rf>manual</src.rf>

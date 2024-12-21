@@ -497,7 +497,7 @@
 <LM>w#w-wsj1031-001-p1s2W7</LM>
 </w.rf>
 <form>opravňovat</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-wsj1031-001-p1s2W8-Ta">
@@ -1081,7 +1081,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj1031-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>

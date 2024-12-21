@@ -223,8 +223,8 @@
 <LM>w#w-ln94206-24-p2s1Cw1</LM>
 </w.rf>
 <form>Začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94206-24-p2s1Cw2">
 <src.rf>manual</src.rf>
@@ -1911,8 +1911,8 @@
 <LM>w#w-ln94206-24-p5s3w11</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-24-p5s3w12">
 <src.rf>manual</src.rf>
@@ -2529,8 +2529,8 @@
 <LM>w#w-ln94206-24-p6s1w12</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-24-p6s1w13">
 <src.rf>manual</src.rf>
@@ -2783,8 +2783,8 @@
 <LM>w#w-ln94206-24-p6s2w14</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-24-p6s2w15">
 <src.rf>manual</src.rf>

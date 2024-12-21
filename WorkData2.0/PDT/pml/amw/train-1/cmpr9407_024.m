@@ -770,7 +770,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-cmpr9407-024-p4s4w22">
 <src.rf>manual</src.rf>
@@ -3752,7 +3752,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-024-p14s1w13">
 <src.rf>manual</src.rf>
@@ -4572,8 +4572,8 @@
 <LM>w#w-cmpr9407-024-p15s4w1</LM>
 </w.rf>
 <form>Stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-024-p15s4w2">
 <src.rf>manual</src.rf>
@@ -5543,7 +5543,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-024-p17s4w4">
 <src.rf>manual</src.rf>

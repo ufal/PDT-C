@@ -4355,7 +4355,7 @@
 </w.rf>
 <form>Několik</form>
 <lemma>několik</lemma>
-<tag>Ca--4----------</tag>
+<tag>Ca--1----------</tag>
 </m>
 <m id="m-vesm9301-021-p7s3w2">
 <src.rf>manual</src.rf>
@@ -6337,8 +6337,8 @@
 <LM>w#w-vesm9301-021-p8s6w17</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-021-p8s6w18">
 <src.rf>manual</src.rf>
@@ -6868,8 +6868,8 @@
 <LM>w#w-vesm9301-021-p9s1w1</LM>
 </w.rf>
 <form>Následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-021-p9s1w2">
 <src.rf>manual</src.rf>
@@ -7740,8 +7740,8 @@
 <LM>w#w-vesm9301-021-p9s5w16</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9301-021-p9s5w17">
 <src.rf>manual</src.rf>

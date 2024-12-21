@@ -349,8 +349,8 @@
 <LM>w#w-ln95040-087-p2s2w6</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-087-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1417,7 +1417,7 @@
 <LM>w#w-ln95040-087-p2s5w24</LM>
 </w.rf>
 <form>Tanzanii</form>
-<lemma>Tanzanie_;G</lemma>
+<lemma>Tanzanie_;G_,s_^(^DD**Tanzánie)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-ln95040-087-p2s5w25">

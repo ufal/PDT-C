@@ -487,7 +487,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-034-p3s4w3">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-cmpr9415-034-p3s5w21">
 <src.rf>manual</src.rf>

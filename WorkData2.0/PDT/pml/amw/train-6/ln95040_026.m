@@ -123,7 +123,7 @@
 </w.rf>
 <form>kontaktoval</form>
 <lemma>kontaktovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95040-026-p2s1Bw8">
 <src.rf>manual</src.rf>

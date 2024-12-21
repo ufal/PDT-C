@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_076.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -64,7 +64,7 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <discourse_comment>text bez nadpisu</discourse_comment>
-<val_frame.rf>v#v-w9317f2</val_frame.rf>
+<val_frame.rf>v#v41qurE</val_frame.rf>
 <children>
 <LM id="t-lnd94103-076-p1s1w2">
 <a>
@@ -81,7 +81,7 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w5674f1</val_frame.rf>
+<val_frame.rf>v#v41jsjA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-076-p1s1w1">
 <a>
@@ -316,7 +316,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w368f1</val_frame.rf>
+<val_frame.rf>v#v41pkA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-076-p1s2a0">
 <nodetype>qcomplex</nodetype>
@@ -499,7 +499,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w2228f1</val_frame.rf>
+<val_frame.rf>v#v41dcgA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-076-p1s3w1">
 <a>
@@ -572,7 +572,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w9903f1</val_frame.rf>
+<val_frame.rf>v#v41ryiA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-076-p1s3w8">
 <a>
@@ -581,6 +581,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>kdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>

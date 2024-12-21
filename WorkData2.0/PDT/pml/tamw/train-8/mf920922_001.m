@@ -710,8 +710,8 @@
 <LM>w#w-mf920922-001-p1s8w1</LM>
 </w.rf>
 <form>Nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920922-001-p1s8w2">
 <src.rf>manual</src.rf>

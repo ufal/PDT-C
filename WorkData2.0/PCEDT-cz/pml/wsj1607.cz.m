@@ -599,7 +599,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1607-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1124,8 +1124,8 @@
 <LM>w#w-wsj1607-001-p1s5W17</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1607-001-p1s5W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1307,7 +1307,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1607-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1872,7 +1872,7 @@
 </w.rf>
 <form>komise</form>
 <lemma>komise</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1607-001-p1s9W17-Ta">
 <src.rf>tagger-a</src.rf>

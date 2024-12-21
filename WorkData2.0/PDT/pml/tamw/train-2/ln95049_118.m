@@ -122,7 +122,7 @@
 <LM>w#w-ln95049-118-p2s1Bw6</LM>
 </w.rf>
 <form>Oscara</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-118-p2s1Bw7">
@@ -603,8 +603,8 @@
 <LM>w#w-ln95049-118-p2s3w5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-118-p2s3w6">
 <src.rf>manual</src.rf>

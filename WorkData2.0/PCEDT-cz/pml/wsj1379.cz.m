@@ -1343,7 +1343,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1379-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1950,7 +1950,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj1379-001-p1s7W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4190,7 +4190,7 @@
 <LM>w#w-wsj1379-001-p1s16W4</LM>
 </w.rf>
 <form>řezačkou</form>
-<lemma>řezačka_^(*2)</lemma>
+<lemma>řezačka_^(^DD**řezáčka-2)_(*2)</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="m-wsj1379-001-p1s16W5-Ta">

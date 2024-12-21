@@ -2132,7 +2132,7 @@
 <LM>w#w-jh_08-SCzechM-p0804-s1-w14</LM>
 </w.rf>
 <form>vybuchl</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="jh_08-SCzechM-p0804-s1-w15">
@@ -2440,8 +2440,8 @@
 <LM>w#w-jh_08-SCzechM-p0826-s1-w3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="jh_08-SCzechM-p0826-s1-w4">
 <w.rf>
@@ -2488,8 +2488,8 @@
 <LM>w#w-jh_08-SCzechM-p0826-s1-w9</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="jh_08-SCzechM-p0826-s1-w10">
 <w.rf>
@@ -2512,8 +2512,8 @@
 <LM>w#w-jh_08-SCzechM-p0826-s1-w12</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="jh_08-SCzechM-p0826-s1-w13">
 <w.rf>
@@ -2779,7 +2779,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="jh_08-SCzechM-p0827-s1-w16">
 <w.rf>
@@ -3172,8 +3172,8 @@
 <LM>w#w-jh_08-SCzechM-p0834-s1-w4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_08-SCzechM-p0834-s1-w5">
 <w.rf>
@@ -3280,8 +3280,8 @@
 <LM>w#w-jh_08-SCzechM-p0842-s1-w7</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_08-SCzechM-p0842-s1-w8">
 <w.rf>
@@ -4038,8 +4038,8 @@
 <LM>w#w-jh_08-SCzechM-p0859-s1-w1</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="jh_08-SCzechM-p0859-s1-w2">
 <w.rf>

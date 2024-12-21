@@ -60,14 +60,15 @@
 <children>
 <LM id="a-ln95040-150-p2s1w1">
 <m.rf>m#m-ln95040-150-p2s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <is_member>1</is_member>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95040-150-p2s1w4">
 <m.rf>m#m-ln95040-150-p2s1w4</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>

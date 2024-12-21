@@ -1181,7 +1181,7 @@
 <LM>w#w-vesm9212-017-p4s3w10</LM>
 </w.rf>
 <form>postradatelné</form>
-<lemma>postradatelný_^(*8ádat)</lemma>
+<lemma>postradatelný_,s_^(^DD**postrádatelný)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-vesm9212-017-p4s3w11">
@@ -1768,7 +1768,7 @@
 <LM>w#w-vesm9212-017-p4s4w34</LM>
 </w.rf>
 <form>eukaryota</form>
-<lemma>eukaryota_,s_^(druh_organizmů)_(^DD**eukaryonta)</lemma>
+<lemma>eukaryota_^(druh_organizmů)</lemma>
 <tag>NNNP1-----A----</tag>
 </m>
 <m id="m-vesm9212-017-p4s4w35">
@@ -2103,8 +2103,8 @@
 <LM>w#w-vesm9212-017-p4s5w35</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-017-p4s5w36">
 <src.rf>manual</src.rf>
@@ -3101,7 +3101,7 @@
 <LM>w#w-vesm9212-017-p5s4w43</LM>
 </w.rf>
 <form>chromozómech</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIP6-----A----</tag>
 </m>
 <m id="m-vesm9212-017-p5s4w44">
@@ -5654,7 +5654,7 @@
 <LM>w#w-vesm9212-017-p7s3w19</LM>
 </w.rf>
 <form>chromozómů</form>
-<lemma>chromozóm</lemma>
+<lemma>chromozóm_,s_^(^DD**chromozom)</lemma>
 <tag>NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9212-017-p7s3w20">

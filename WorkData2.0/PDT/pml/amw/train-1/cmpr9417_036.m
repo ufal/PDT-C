@@ -540,7 +540,7 @@
 <LM>w#w-cmpr9417-036-p6s1w2</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9417-036-p6s1w3">
@@ -879,8 +879,8 @@
 <LM>w#w-cmpr9417-036-p6s4w4</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-036-p6s4w5">
 <src.rf>manual</src.rf>
@@ -1263,8 +1263,8 @@
 <LM>w#w-cmpr9417-036-p8s1w1</LM>
 </w.rf>
 <form>Jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-036-p8s1w2">
 <src.rf>manual</src.rf>

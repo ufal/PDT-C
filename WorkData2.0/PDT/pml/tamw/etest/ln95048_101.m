@@ -637,8 +637,8 @@
 <LM>w#w-ln95048-101-p2s2w20</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-101-p2s2w21">
 <src.rf>manual</src.rf>
@@ -1366,7 +1366,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-101-p2s5w14">
 <src.rf>manual</src.rf>
@@ -2122,8 +2122,8 @@
 <LM>w#w-ln95048-101-p2s10w30</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-101-p2s10w31">
 <src.rf>manual</src.rf>
@@ -2205,8 +2205,8 @@
 <LM>w#w-ln95048-101-p3s17w6</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-101-p3s17w7">
 <src.rf>manual</src.rf>
@@ -2315,8 +2315,8 @@
 <LM>w#w-ln95048-101-p3s18w5</LM>
 </w.rf>
 <form>domácí</form>
-<lemma>domácí-1</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>domácí-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-101-p3s18w6">
 <src.rf>manual</src.rf>
@@ -2470,8 +2470,8 @@
 <LM>w#w-ln95048-101-p3s19w13</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-101-p3s19w14">
 <src.rf>manual</src.rf>
@@ -2524,8 +2524,8 @@
 <LM>w#w-ln95048-101-p3s19w19</LM>
 </w.rf>
 <form>domácí</form>
-<lemma>domácí-1</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>domácí-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-101-p3s19w20">
 <src.rf>manual</src.rf>
@@ -2679,8 +2679,8 @@
 <LM>w#w-ln95048-101-p3s20w11</LM>
 </w.rf>
 <form>domácí</form>
-<lemma>domácí-1</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>domácí-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-101-p3s20w12">
 <src.rf>manual</src.rf>
@@ -2744,8 +2744,8 @@
 <LM>w#w-ln95048-101-p4s17w1</LM>
 </w.rf>
 <form>Domácím</form>
-<lemma>domácí-1</lemma>
-<tag>AAMP3----1A----</tag>
+<lemma>domácí-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-ln95048-101-p4s17w2">
 <src.rf>manual</src.rf>
@@ -2854,8 +2854,8 @@
 <LM>w#w-ln95048-101-p4s18w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-101-p4s18w2">
 <src.rf>manual</src.rf>
@@ -3662,8 +3662,8 @@
 <LM>w#w-ln95048-101-p5s17Bw1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-101-p5s17Bw2">
 <src.rf>manual</src.rf>
@@ -3716,8 +3716,8 @@
 <LM>w#w-ln95048-101-p5s17Bw7</LM>
 </w.rf>
 <form>domácí</form>
-<lemma>domácí-1</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>domácí-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-101-p5s17Bw8">
 <src.rf>manual</src.rf>
@@ -4740,8 +4740,8 @@
 <LM>w#w-ln95048-101-p6s15Bw1</LM>
 </w.rf>
 <form>Domácí</form>
-<lemma>domácí-1</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>domácí-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-101-p6s15Bw2">
 <src.rf>manual</src.rf>
@@ -5106,8 +5106,8 @@
 <LM>w#w-ln95048-101-p6s18w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-101-p6s18w2">
 <src.rf>manual</src.rf>

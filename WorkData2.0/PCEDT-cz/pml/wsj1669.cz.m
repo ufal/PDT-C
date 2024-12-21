@@ -977,7 +977,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1669-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1375,7 +1375,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1669-001-p1s4W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1610,8 +1610,8 @@
 <LM>w#w-wsj1669-001-p1s5W10</LM>
 </w.rf>
 <form>východně</form>
-<lemma>východně_^(*1í)_(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>východně-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-wsj1669-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3082,8 +3082,8 @@
 <LM>w#w-wsj1669-001-p1s12W12</LM>
 </w.rf>
 <form>pomoci</form>
-<lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<lemma>pomoc</lemma>
+<tag>NNFS2-----A----</tag>
 </m>
 <m id="m-wsj1669-001-p1s12W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3173,8 +3173,8 @@
 <LM>w#w-wsj1669-001-p1s12W22</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1669-001-p1s12W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3310,8 +3310,8 @@
 <LM>w#w-wsj1669-001-p1s13W6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1669-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4507,8 +4507,8 @@
 <LM>w#w-wsj1669-001-p1s17W1</LM>
 </w.rf>
 <form>Až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj1669-001-p1s17W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5338,7 +5338,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1669-001-p1s21W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5844,7 +5844,7 @@
 <LM>w#w-wsj1669-001-p1s22W16</LM>
 </w.rf>
 <form>Würtemberska</form>
-<lemma>Würtembersko_;G</lemma>
+<lemma>Würtembersko_;G_,s_^(^DD**Württembersko)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-wsj1669-001-p1s22W17-Ta">
@@ -5909,8 +5909,8 @@
 <LM>w#w-wsj1669-001-p1s23W6</LM>
 </w.rf>
 <form>jež</form>
-<lemma>jež-99_;Y</lemma>
-<tag>BNXXX-----A----</tag>
+<lemma>jenž_^(který_[ve_vedl.větě])</lemma>
+<tag>P4FS1----------</tag>
 </m>
 <m id="m-wsj1669-001-p1s23W7-Ta">
 <src.rf>tagger-a</src.rf>

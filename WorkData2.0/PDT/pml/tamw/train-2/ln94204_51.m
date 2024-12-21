@@ -140,8 +140,8 @@
 <LM>w#w-ln94204-51-p2s1Bw1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-51-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -1294,7 +1294,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94204-51-p2s6w21">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-51-p3s1w5">
 <src.rf>manual</src.rf>

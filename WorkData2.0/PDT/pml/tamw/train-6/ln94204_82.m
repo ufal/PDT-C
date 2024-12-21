@@ -233,8 +233,8 @@
 <LM>w#w-ln94204-82-p2s2w7</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94204-82-p2s2w8">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-82-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1967,8 +1967,8 @@
 <LM>w#w-ln94204-82-p3s5w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-82-p3s5w6">
 <src.rf>manual</src.rf>

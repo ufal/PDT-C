@@ -523,7 +523,7 @@
 </w.rf>
 <form>distribuuje</form>
 <lemma>distribuovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj1462-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1705,7 +1705,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1462-001-p1s6W17-Ta">
 <src.rf>tagger-a</src.rf>

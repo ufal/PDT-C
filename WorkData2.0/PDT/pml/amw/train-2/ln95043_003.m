@@ -941,7 +941,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-003-p4s1w10">
 <src.rf>manual</src.rf>
@@ -2531,7 +2531,7 @@
 </w.rf>
 <form>angažuje</form>
 <lemma>angažovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95043-003-p7s2w4">
 <src.rf>manual</src.rf>

@@ -470,7 +470,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1988-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1599,8 +1599,8 @@
 <LM>w#w-wsj1988-001-p1s6W5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1988-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2352,8 +2352,8 @@
 <LM>w#w-wsj1988-001-p1s9W24</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1988-001-p1s9W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3236,7 +3236,7 @@
 </w.rf>
 <form>Juanu</form>
 <lemma>Juan-2_;G</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1988-001-p1s14W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3344,7 +3344,7 @@
 </w.rf>
 <form>Denveru</form>
 <lemma>Denver-2_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1988-001-p1s14W27-Ta">
 <src.rf>tagger-a</src.rf>

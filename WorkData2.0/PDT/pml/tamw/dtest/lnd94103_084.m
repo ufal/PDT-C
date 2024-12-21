@@ -113,7 +113,7 @@
 <LM>w#w-lnd94103-084-p1s3w4</LM>
 </w.rf>
 <form>prokvašeného</form>
-<lemma>prokvašený</lemma>
+<lemma>prokvašený_,s_^(^DD**prokvasený)</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-lnd94103-084-p1s3w5">

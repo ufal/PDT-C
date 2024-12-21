@@ -313,8 +313,8 @@
 <LM>w#w-ln95046-105-p2s2w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-105-p2s2w2">
 <src.rf>manual</src.rf>

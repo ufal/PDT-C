@@ -285,7 +285,7 @@
 </w.rf>
 <form>minimalizovalo</form>
 <lemma>minimalizovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-ln94200-27-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -612,8 +612,8 @@
 <LM>w#w-ln94200-27-p3s2w11</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94200-27-p3s2w12">
 <src.rf>manual</src.rf>
@@ -767,8 +767,8 @@
 <LM>w#w-ln94200-27-p3s3w15</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-27-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1557,7 +1557,7 @@
 </w.rf>
 <form>limituje</form>
 <lemma>limitovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94200-27-p4s5w12">
 <src.rf>manual</src.rf>

@@ -1304,7 +1304,7 @@
 <LM>w#w-wsj1471-001-p1s4W14</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj1471-001-p1s4W15-Ta">
@@ -1376,8 +1376,8 @@
 <LM>w#w-wsj1471-001-p1s4W22</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1471-001-p1s4W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1386,7 +1386,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1471-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>

@@ -669,8 +669,8 @@
 <LM>w#w-wsj1043-001-p1s2W29</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1043-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1186,8 +1186,8 @@
 <LM>w#w-wsj1043-001-p1s4W27</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1043-001-p1s4W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4066,8 +4066,8 @@
 <LM>w#w-wsj1043-001-p1s19W7</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1043-001-p1s19W8-Ta">
 <src.rf>tagger-a</src.rf>

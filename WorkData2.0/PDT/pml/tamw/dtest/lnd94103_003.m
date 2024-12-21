@@ -459,8 +459,8 @@
 <LM>w#w-lnd94103-003-p1s5w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-003-p1s5w2">
 <src.rf>manual</src.rf>

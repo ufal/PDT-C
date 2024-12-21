@@ -203,8 +203,8 @@
 <LM>w#w-mf930709-141-p3s1w11</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-141-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1751,8 +1751,8 @@
 <LM>w#w-mf930709-141-p6s2w2</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-141-p6s2w3">
 <src.rf>manual</src.rf>

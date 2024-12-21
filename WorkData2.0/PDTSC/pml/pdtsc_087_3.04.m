@@ -332,8 +332,8 @@
 <LM>w#w-1079-78</LM>
 </w.rf>
 <form>že</form>
-<lemma>že-1</lemma>
-<tag>J,-------------</tag>
+<lemma>že-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-1079-77">
 <w.rf>
@@ -1454,8 +1454,8 @@
 <LM>w#w-d1t522-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1e517-x2-140">
 <w.rf>
@@ -1480,8 +1480,8 @@
 <LM>w#w-d1t524-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1e517-x3-142">
 <w.rf>
@@ -2018,8 +2018,8 @@
 <LM>w#w-d1t549-2</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m104-d1t549-4">
 <w.rf>
@@ -2816,8 +2816,8 @@
 <LM>w#w-d1t559-18</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1t559-19">
 <w.rf>
@@ -2990,8 +2990,8 @@
 <LM>w#w-d1t562-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1t562-4">
 <w.rf>
@@ -3080,8 +3080,8 @@
 <LM>w#w-d1t562-7</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1t562-8">
 <w.rf>
@@ -3258,8 +3258,8 @@
 <LM>w#w-d1t562-35</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m104-d1t562-36">
 <w.rf>
@@ -3572,7 +3572,7 @@
 <LM>w#w-d1t582-34</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m104-d-id101597-punct">
@@ -3629,7 +3629,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m104-400-686">
 <w.rf>
@@ -3845,7 +3845,7 @@
 </w.rf>
 <form>Uspal</form>
 <lemma>uspat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m104-d1t607-1">
 <w.rf>

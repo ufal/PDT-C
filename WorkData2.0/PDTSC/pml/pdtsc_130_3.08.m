@@ -520,8 +520,8 @@
 <LM>w#w-d1t2673-3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t2673-4">
 <w.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-d1t2688-4</LM>
 </w.rf>
 <form>sehnal</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m041-d1t2688-5">
@@ -1502,8 +1502,8 @@
 <LM>w#w-533-545</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t2713-2">
 <w.rf>
@@ -2653,7 +2653,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m041-d-id144811-punct">
 <w.rf>
@@ -3362,8 +3362,8 @@
 <LM>w#w-d1e2832-x2-865</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t2837-2">
 <w.rf>
@@ -3469,7 +3469,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m041-d1t2841-2">
 <w.rf>
@@ -3781,7 +3781,7 @@
 </w.rf>
 <form>Veleslavín</form>
 <lemma>Veleslavín-2_;G</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m041-d1e2832-x3-792">
 <w.rf>
@@ -3797,7 +3797,7 @@
 </w.rf>
 <form>Vokovice</form>
 <lemma>Vokovice_;G</lemma>
-<tag>NNFP1-----A----</tag>
+<tag>NNFP4-----A----</tag>
 </m>
 <m id="m041-d1e2832-x3-793">
 <w.rf>
@@ -3854,8 +3854,8 @@
 <LM>w#w-794-800</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-794-801">
 <w.rf>
@@ -3938,7 +3938,7 @@
 <LM>w#w-d1t2867-4</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m041-d1t2867-5">
@@ -4095,7 +4095,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m041-d1t2876-2">
 <w.rf>

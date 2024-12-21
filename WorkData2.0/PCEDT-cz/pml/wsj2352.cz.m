@@ -1030,8 +1030,8 @@
 <LM>w#w-wsj2352-001-p1s3W7</LM>
 </w.rf>
 <form>nesporně</form>
-<lemma>sporně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nesporně</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2352-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>

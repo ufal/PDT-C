@@ -1268,7 +1268,7 @@
 <LM>w#w-vesm9212-040-p3s1w3</LM>
 </w.rf>
 <form>napadané</form>
-<lemma>napadaný_^(*2t)</lemma>
+<lemma>napadaný_^(*2t)_(*2t-2)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-vesm9212-040-p3s1w4">
@@ -2051,7 +2051,7 @@
 </w.rf>
 <form>rekonstruovat</form>
 <lemma>rekonstruovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9212-040-p4s1w5">
 <src.rf>manual</src.rf>

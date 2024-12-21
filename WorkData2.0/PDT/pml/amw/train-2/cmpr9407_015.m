@@ -503,8 +503,8 @@
 <LM>w#w-cmpr9407-015-p4s1Bw8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9407-015-p4s1Bw9">
 <src.rf>manual</src.rf>

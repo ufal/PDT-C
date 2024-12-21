@@ -126,7 +126,7 @@
 <LM>w#w-d1t782-4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m147-d1t782-11">
@@ -134,8 +134,8 @@
 <LM>w#w-d1t782-11</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t782-13">
 <w.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-d1t782-14</LM>
 </w.rf>
 <form>podtrhávala</form>
-<lemma>podtrhávat_^(*4at)</lemma>
+<lemma>podtrhávat-2_^(*6at-2)</lemma>
 <tag>VpQW----R-AAI--</tag>
 </m>
 <m id="m147-d1t782-15">
@@ -240,8 +240,8 @@
 <LM>w#w-d1t785-11</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t785-12">
 <w.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-d1t785-20</LM>
 </w.rf>
 <form>podtrhávali</form>
-<lemma>podtrhávat_^(*4at)</lemma>
+<lemma>podtrhávat-2_^(*6at-2)</lemma>
 <tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m147-1038-1044">
@@ -378,8 +378,8 @@
 <LM>w#w-1045-1047</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t785-32">
 <w.rf>
@@ -1874,8 +1874,8 @@
 <LM>w#w-d1t813-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-1215-1221">
 <w.rf>
@@ -3074,8 +3074,8 @@
 <LM>w#w-d1t854-1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t854-2">
 <w.rf>
@@ -3170,8 +3170,8 @@
 <LM>w#w-d1t856-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-73-74">
 <w.rf>

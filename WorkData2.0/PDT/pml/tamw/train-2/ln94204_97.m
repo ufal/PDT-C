@@ -179,7 +179,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln94204-97-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-97-p2s3w10">
 <src.rf>manual</src.rf>
@@ -1054,8 +1054,8 @@
 <LM>w#w-ln94204-97-p2s7w8</LM>
 </w.rf>
 <form>uprostřed</form>
-<lemma>uprostřed-1</lemma>
-<tag>Db-------------</tag>
+<lemma>uprostřed-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94204-97-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1465,8 +1465,8 @@
 <LM>w#w-ln94204-97-p3s3w3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-97-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1585,7 +1585,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-ln94204-97-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1848,7 +1848,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-97-p3s5w15">
 <src.rf>manual</src.rf>
@@ -2715,8 +2715,8 @@
 <LM>w#w-ln94204-97-p3s11w15</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-97-p3s11w16">
 <src.rf>manual</src.rf>
@@ -3108,8 +3108,8 @@
 <LM>w#w-ln94204-97-p4s1w7</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-97-p4s1w8">
 <src.rf>manual</src.rf>

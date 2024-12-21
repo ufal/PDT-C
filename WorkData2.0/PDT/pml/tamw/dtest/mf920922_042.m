@@ -421,8 +421,8 @@
 <LM>w#w-mf920922-042-p2s3w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-042-p2s3w10">
 <src.rf>manual</src.rf>
@@ -493,8 +493,8 @@
 <LM>w#w-mf920922-042-p2s3w17</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920922-042-p2s3w18">
 <src.rf>manual</src.rf>

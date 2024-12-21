@@ -339,7 +339,7 @@
 </w.rf>
 <form>Nic</form>
 <lemma>nic</lemma>
-<tag>PY--4----------</tag>
+<tag>PY--1----------</tag>
 </m>
 <m id="m-cmpr9415-033-p2s2w2">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 </w.rf>
 <form>nic</form>
 <lemma>nic</lemma>
-<tag>PY--4----------</tag>
+<tag>PY--1----------</tag>
 </m>
 <m id="m-cmpr9415-033-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-cmpr9415-033-p7s5w7">
 <src.rf>manual</src.rf>
@@ -2087,7 +2087,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-cmpr9415-033-p8s2w15">
 <src.rf>manual</src.rf>
@@ -4160,8 +4160,8 @@
 <LM>w#w-cmpr9415-033-p11s2w29</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9415-033-p11s2w30">
 <src.rf>manual</src.rf>

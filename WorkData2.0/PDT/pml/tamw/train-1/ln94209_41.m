@@ -30,8 +30,8 @@
 <LM>w#w-ln94209-41-p2s1w1</LM>
 </w.rf>
 <form>Patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-41-p2s1w2">
 <src.rf>manual</src.rf>

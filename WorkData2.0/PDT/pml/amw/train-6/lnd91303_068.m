@@ -1414,8 +1414,8 @@
 <LM>w#w-lnd91303-068-p2s9w25</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91303-068-p2s9w26">
 <src.rf>manual</src.rf>

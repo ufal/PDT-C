@@ -156,8 +156,8 @@
 <LM>w#w-mf930709-041-p2s5w10</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-041-p2s5w11">
 <src.rf>manual</src.rf>

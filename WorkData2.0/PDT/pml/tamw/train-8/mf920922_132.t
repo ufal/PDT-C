@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920922_132.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -21,6 +21,9 @@
 <LM id="t-mf920922-132-p1s1w4">
 <a>
 <lex.rf>a#a-mf920922-132-p1s1w4</lex.rf>
+<aux.rf>
+<LM>a#a-mf920922-132-p1s1w3</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bojovat</t_lemma>
@@ -37,8 +40,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w178f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41gsA</val_frame.rf>
 <children>
 <LM id="t-mf920922-132-p1s1w2">
 <a>
@@ -109,6 +112,9 @@
 <LM id="t-mf920922-132-p3s1Aw4">
 <a>
 <lex.rf>a#a-mf920922-132-p3s1Aw4</lex.rf>
+<aux.rf>
+<LM>a#a-mf920922-132-p3s1Aw3</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bojovat</t_lemma>
@@ -125,8 +131,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w178f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41gsA</val_frame.rf>
 <children>
 <LM id="t-mf920922-132-p3s1Aw2">
 <a>
@@ -237,7 +243,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w8614f1</val_frame.rf>
+<val_frame.rf>v#v41pjqA</val_frame.rf>
 <children>
 <LM id="t-mf920922-132-p3s1Cw2">
 <a>
@@ -258,7 +264,7 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w9157f1</val_frame.rf>
+<val_frame.rf>v#v41qmcA</val_frame.rf>
 <children>
 <LM id="t-mf920922-132-p3s1Ca0">
 <nodetype>qcomplex</nodetype>
@@ -319,7 +325,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w1618f1</val_frame.rf>
+<val_frame.rf>v#v41bvsA</val_frame.rf>
 </LM>
 </children>
 </LM>
@@ -349,6 +355,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>čtyři</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>čtyři</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>

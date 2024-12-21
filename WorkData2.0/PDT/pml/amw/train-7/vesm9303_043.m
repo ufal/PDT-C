@@ -165,7 +165,7 @@
 <LM>w#w-vesm9303-043-p2s1w10</LM>
 </w.rf>
 <form>tanzánské</form>
-<lemma>tanzánský</lemma>
+<lemma>tanzánský_,s_^(^DD**tanzanský)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-vesm9303-043-p2s1w11">
@@ -202,7 +202,7 @@
 </w.rf>
 <form>datovány</form>
 <lemma>datovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-vesm9303-043-p2s1w15">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 </w.rf>
 <form>datuje</form>
 <lemma>datovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9303-043-p3s1w33">
 <src.rf>manual</src.rf>
@@ -1567,7 +1567,7 @@
 </w.rf>
 <form>datovat</form>
 <lemma>datovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9303-043-p3s2w13">
 <src.rf>manual</src.rf>

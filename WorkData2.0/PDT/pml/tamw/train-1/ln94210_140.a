@@ -272,18 +272,18 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-ln94210-140-p2s4w3">
-<m.rf>m#m-ln94210-140-p2s4w3</m.rf>
-<afun>Adv</afun>
-<ord>3</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-ln94210-140-p2s4w1">
 <m.rf>m#m-ln94210-140-p2s4w1</m.rf>
 <afun>AuxZ</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-ln94210-140-p2s4w3">
+<m.rf>m#m-ln94210-140-p2s4w3</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-ln94210-140-p2s4w4">
 <m.rf>m#m-ln94210-140-p2s4w4</m.rf>
 <afun>Atr</afun>

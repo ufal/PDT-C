@@ -1328,8 +1328,8 @@
 <LM>w#w-cmpr9416-042-p11s2w4</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9416-042-p11s2w5">
 <src.rf>manual</src.rf>
@@ -1576,7 +1576,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-cmpr9416-042-p12s1w19">
 <src.rf>manual</src.rf>
@@ -2734,7 +2734,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-042-p16s1w2">
 <src.rf>manual</src.rf>

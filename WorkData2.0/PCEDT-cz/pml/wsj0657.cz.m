@@ -903,7 +903,7 @@
 </w.rf>
 <form>Silný</form>
 <lemma>silný</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>AAIS1----1A----</tag>
 </m>
 <m id="m-wsj0657-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -912,7 +912,7 @@
 </w.rf>
 <form>růst</form>
 <lemma>růst-1</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj0657-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1085,7 +1085,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0657-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>

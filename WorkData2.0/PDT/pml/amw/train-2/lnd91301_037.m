@@ -439,8 +439,8 @@
 <LM>w#w-lnd91301-037-p2s3w11</LM>
 </w.rf>
 <form>neznámý</form>
-<lemma>neznámý_^(potkat_neznámého_[člověka])</lemma>
-<tag>NNMS1-----A----</tag>
+<lemma>známý-2_^(co_známe)</lemma>
+<tag>AAMS1----1N----</tag>
 </m>
 <m id="m-lnd91301-037-p2s3w12">
 <src.rf>manual</src.rf>

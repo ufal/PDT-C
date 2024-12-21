@@ -445,7 +445,7 @@
 </w.rf>
 <form>Kearny</form>
 <lemma>Kearny_;G</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-wsj0068-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -471,8 +471,8 @@
 <LM>w#w-wsj0068-001-p1s2W15</LM>
 </w.rf>
 <form>Jersey</form>
-<lemma>Jersey-77</lemma>
-<tag>F%-------------</tag>
+<lemma>Jersey_;G</lemma>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-wsj0068-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -817,8 +817,8 @@
 <LM>w#w-wsj0068-001-p1s3W16</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0068-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>

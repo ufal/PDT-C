@@ -230,8 +230,8 @@
 <LM>w#w-ln94206-47-p2s1Bw9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-47-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln94206-47-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -538,8 +538,8 @@
 <LM>w#w-ln94206-47-p2s2w13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-47-p2s2w14">
 <src.rf>manual</src.rf>

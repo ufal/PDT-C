@@ -379,7 +379,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-ln94205-125-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1116,7 +1116,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94205-125-p3s1Bw12">
 <src.rf>manual</src.rf>
@@ -1627,8 +1627,8 @@
 <LM>w#w-ln94205-125-p3s5w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-125-p3s5w2">
 <src.rf>manual</src.rf>

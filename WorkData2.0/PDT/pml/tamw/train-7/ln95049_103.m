@@ -239,7 +239,7 @@
 <LM>w#w-ln95049-103-p2s2w4</LM>
 </w.rf>
 <form>squatterů</form>
-<lemma>squatter</lemma>
+<lemma>squatter_,s_^(^DD**squater)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln95049-103-p2s2w5">
@@ -657,7 +657,7 @@
 <LM>w#w-ln95049-103-p2s4w9</LM>
 </w.rf>
 <form>squatteři</form>
-<lemma>squatter</lemma>
+<lemma>squatter_,s_^(^DD**squater)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95049-103-p2s4w10">

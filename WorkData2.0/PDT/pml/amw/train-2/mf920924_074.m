@@ -1144,7 +1144,7 @@
 <LM>w#w-mf920924-074-p3s7w6</LM>
 </w.rf>
 <form>Markova</form>
-<lemma>Markův_;Y_^(*2)_(*2o)_(*3ek)</lemma>
+<lemma>Markův_;Y_^(*2)_(*2o)_(*3co)_(*3ek)</lemma>
 <tag>AUFS1M---------</tag>
 </m>
 <m id="m-mf920924-074-p3s7w7">

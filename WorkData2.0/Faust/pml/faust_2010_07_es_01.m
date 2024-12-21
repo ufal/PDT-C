@@ -108,7 +108,7 @@
 <LM>w#w-es_01-SCzechM-p0007-s1-w1</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="es_01-SCzechM-p0007-s1-w2">
@@ -1102,7 +1102,7 @@
 </w.rf>
 <form>oblasti</form>
 <lemma>oblast</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="es_01-SCzechM-p0029-s1-w6">
 <w.rf>
@@ -1575,7 +1575,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="es_01-SCzechM-p0047-s1-w3">
 <w.rf>
@@ -2656,7 +2656,7 @@
 <LM>w#w-es_01-SCzechM-p0069-s1-w1</LM>
 </w.rf>
 <form>Uvíznutý</form>
-<lemma>uvíznutý_^(*3out)</lemma>
+<lemma>uvíznutý_^(^DD**uváznutý)_(*3out)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="es_01-SCzechM-p0069-s1-w2">
@@ -3250,8 +3250,8 @@
 <LM>w#w-es_01-SCzechM-p0092-s1-w13</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_01-SCzechM-p0092-s1-w14">
 <w.rf>
@@ -3387,7 +3387,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_01-SCzechM-p0092-s1-w31">
 <w.rf>
@@ -3442,8 +3442,8 @@
 <LM>w#w-es_01-SCzechM-p0092-s1-w37</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_01-SCzechM-p0092-s1-w38">
 <w.rf>
@@ -3652,8 +3652,8 @@
 <LM>w#w-es_01-SCzechM-p0094-s1-w13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_01-SCzechM-p0094-s1-w14">
 <w.rf>
@@ -3838,7 +3838,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="es_01-SCzechM-p0094-s1-w37">
 <w.rf>

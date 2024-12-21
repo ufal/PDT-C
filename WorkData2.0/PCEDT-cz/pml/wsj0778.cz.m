@@ -243,8 +243,8 @@
 <LM>w#w-wsj0778-001-p1s1W4</LM>
 </w.rf>
 <form>obžalovaných</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj0778-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1529,8 +1529,8 @@
 <LM>w#w-wsj0778-001-p1s5W21</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0778-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1956,8 +1956,8 @@
 <LM>w#w-wsj0778-001-p1s7W10</LM>
 </w.rf>
 <form>obžalovaní</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj0778-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2570,8 +2570,8 @@
 <LM>w#w-wsj0778-001-p1s8W16</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0778-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2824,7 +2824,7 @@
 <LM>w#w-wsj0778-001-p1s9W17</LM>
 </w.rf>
 <form>zmrazení</form>
-<lemma>zmrazení_^(*3it)</lemma>
+<lemma>zmrazení_^(^DD**zmražení)_(*3it)</lemma>
 <tag>NNNS3-----A----</tag>
 </m>
 <m id="m-wsj0778-001-p1s9W18-Ta">
@@ -3215,8 +3215,8 @@
 <LM>w#w-wsj0778-001-p1s11W2</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0778-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3461,7 +3461,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0778-001-p1s12W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4369,7 +4369,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0778-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4431,8 +4431,8 @@
 <LM>w#w-wsj0778-001-p1s16W9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0778-001-p1s16W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4441,7 +4441,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj0778-001-p1s16W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5265,8 +5265,8 @@
 <LM>w#w-wsj0778-001-p1s19W2</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0778-001-p1s19W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5627,8 +5627,8 @@
 <LM>w#w-wsj0778-001-p1s20W14</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0778-001-p1s20W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6045,8 +6045,8 @@
 <LM>w#w-wsj0778-001-p1s22W14</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0778-001-p1s22W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6535,8 +6535,8 @@
 <LM>w#w-wsj0778-001-p1s24W22</LM>
 </w.rf>
 <form>obžalovaní</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj0778-001-p1s24W23-Ta">
 <src.rf>tagger-a</src.rf>

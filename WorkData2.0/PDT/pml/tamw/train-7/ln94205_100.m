@@ -392,8 +392,8 @@
 <LM>w#w-ln94205-100-p3s1w9</LM>
 </w.rf>
 <form>svatých</form>
-<lemma>svatý-1</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>svatý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94205-100-p3s1w10">
 <src.rf>manual</src.rf>

@@ -16,8 +16,8 @@
 <LM>w#w-wsj1761-001-p1s0W1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1761-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-wsj1761-001-p1s4W32</LM>
 </w.rf>
 <form>pročistění</form>
-<lemma>pročistění</lemma>
+<lemma>pročistění_,s_^(^DD**pročištění)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj1761-001-p1s4W33-Ta">
@@ -1552,7 +1552,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj1761-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4727,8 +4727,8 @@
 <LM>w#w-wsj1761-001-p1s29W10</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1761-001-p1s29W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4745,7 +4745,7 @@
 <LM>w#w-wsj1761-001-p1s29W12</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj1761-001-p1s29W13-Ta">
@@ -6167,8 +6167,8 @@
 <LM>w#w-wsj1761-001-p1s38W3</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1761-001-p1s38W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6312,7 +6312,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj1761-001-p1s38W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6686,8 +6686,8 @@
 <LM>w#w-wsj1761-001-p1s41W15</LM>
 </w.rf>
 <form>děleno</form>
-<lemma>děleno_^(mat._operace;_9_děleno_3)</lemma>
-<tag>J*-------------</tag>
+<lemma>dělit</lemma>
+<tag>VsNS----X-API--</tag>
 </m>
 <m id="m-wsj1761-001-p1s41W16-Ta">
 <src.rf>tagger-a</src.rf>

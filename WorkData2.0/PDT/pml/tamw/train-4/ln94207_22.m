@@ -569,7 +569,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-22-p2s3w17">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-ln94207-22-p2s3w25">
 <src.rf>manual</src.rf>

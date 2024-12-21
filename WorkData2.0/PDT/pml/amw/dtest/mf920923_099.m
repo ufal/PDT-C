@@ -698,7 +698,7 @@
 </w.rf>
 <form>zachovali</form>
 <lemma>zachovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-099-p1s6w5">
 <src.rf>manual</src.rf>

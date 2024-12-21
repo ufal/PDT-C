@@ -938,7 +938,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-102-p1s9w2">
 <src.rf>manual</src.rf>
@@ -982,8 +982,8 @@
 <LM>w#w-lnd94105-102-p1s9w6</LM>
 </w.rf>
 <form>zásluhou</form>
-<lemma>zásluha</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>zásluhou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94105-102-p1s9w7">
 <src.rf>manual</src.rf>

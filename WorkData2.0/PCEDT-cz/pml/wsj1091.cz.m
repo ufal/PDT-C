@@ -541,7 +541,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1091-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -840,7 +840,7 @@
 </w.rf>
 <form>distribuován</form>
 <lemma>distribuovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj1091-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -858,7 +858,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AAIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-wsj1091-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>

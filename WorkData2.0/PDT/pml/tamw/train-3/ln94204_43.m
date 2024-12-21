@@ -203,8 +203,8 @@
 <LM>w#w-ln94204-43-p2s1Bw10</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-43-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-43-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-43-p6s1w8">
 <src.rf>manual</src.rf>

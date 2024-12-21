@@ -212,8 +212,8 @@
 <LM>w#w-ln94211-74-p2s1Bw16</LM>
 </w.rf>
 <form>navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-ln94211-74-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -657,8 +657,8 @@
 <LM>w#w-ln94211-74-p2s3w12</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-74-p2s3w13">
 <src.rf>manual</src.rf>

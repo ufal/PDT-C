@@ -790,7 +790,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-084-p4s5Aw6">
 <src.rf>manual</src.rf>
@@ -1313,8 +1313,8 @@
 <LM>w#w-mf920902-084-p4s5Bw19</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-084-p4s5Bw20">
 <src.rf>manual</src.rf>
@@ -2059,7 +2059,7 @@
 <LM>w#w-mf920902-084-p5s3w8</LM>
 </w.rf>
 <form>šíři</form>
-<lemma>šíř_^(jeden_z_rozměrů)</lemma>
+<lemma>šíře_^(jeden_z_rozměrů)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-084-p5s3w9">

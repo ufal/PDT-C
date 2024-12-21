@@ -393,7 +393,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jazzmanem</form>
-<lemma>jazzman</lemma>
+<lemma>jazzman_,s_^(^DD**džezman)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-mf920923-020-p3s1w11">

@@ -848,8 +848,8 @@
 <LM>w#w-lnd94105-124-p1s6w8</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94105-124-p1s6w9">
 <src.rf>manual</src.rf>
@@ -1049,7 +1049,7 @@
 </w.rf>
 <form>přesáhl</form>
 <lemma>přesáhnout</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-124-p1s7w12">
 <src.rf>manual</src.rf>

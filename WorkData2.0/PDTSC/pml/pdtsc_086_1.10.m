@@ -200,8 +200,8 @@
 <LM>w#w-d1t2432-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m137-d1t2432-6">
 <w.rf>
@@ -273,7 +273,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m137-d1t2432-15">
 <w.rf>
@@ -296,8 +296,8 @@
 <LM>w#w-d1t2432-16</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m137-d1t2432-17">
 <w.rf>
@@ -1196,8 +1196,8 @@
 <LM>w#w-d1t2486-9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m137-d1t2486-10">
 <w.rf>
@@ -1450,8 +1450,8 @@
 <LM>w#w-d1t2494-11</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m137-d1t2494-12">
 <w.rf>
@@ -1482,8 +1482,8 @@
 <LM>w#w-d1t2494-15</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m137-d1t2494-16">
 <w.rf>
@@ -1623,7 +1623,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m137-d1t2507-4">
 <w.rf>
@@ -1657,7 +1657,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m137-d1t2507-8">
 <w.rf>
@@ -1722,8 +1722,8 @@
 <LM>w#w-d1t2511-4</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m137-d1t2511-5">
 <w.rf>
@@ -1731,7 +1731,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m137-d1t2511-6">
 <w.rf>
@@ -3342,7 +3342,7 @@
 <LM>w#w-d1t2577-30</LM>
 </w.rf>
 <form>ořechu</form>
-<lemma>ořech</lemma>
+<lemma>ořech-1</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m137-980-984">
@@ -4368,7 +4368,7 @@
 <LM>w#w-d1t2625-7</LM>
 </w.rf>
 <form>znova</form>
-<lemma>znova</lemma>
+<lemma>znova_,s_^(^DD**znovu)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m137-d1t2625-11">
@@ -4712,7 +4712,7 @@
 <LM>w#w-d1t2644-9</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m137-d1t2644-10">
@@ -5118,8 +5118,8 @@
 <LM>w#w-d1t2666-4</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m137-d1t2666-5">
 <w.rf>

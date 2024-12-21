@@ -345,7 +345,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj0541-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

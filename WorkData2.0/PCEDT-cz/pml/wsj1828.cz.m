@@ -388,7 +388,7 @@
 </w.rf>
 <form>předčily</form>
 <lemma>předčit</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-wsj1828-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -877,8 +877,8 @@
 <LM>w#w-wsj1828-001-p1s2W26</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1828-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -913,8 +913,8 @@
 <LM>w#w-wsj1828-001-p1s2W30</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1828-001-p1s2W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2918,7 +2918,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1828-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -422,8 +422,8 @@
 <LM>w#w-wsj0540-001-p1s0W46</LM>
 </w.rf>
 <form>prodávající</form>
-<lemma>prodávající_^(*4t)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>prodávající-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj0540-001-p1s0W47-Ta">
 <src.rf>tagger-a</src.rf>
@@ -442,8 +442,8 @@
 <LM>w#w-wsj0540-001-p1s1W1</LM>
 </w.rf>
 <form>Kupujícím</form>
-<lemma>kupující_^(*5ovat)</lemma>
-<tag>AGMS7-----A----</tag>
+<lemma>kupující-2</lemma>
+<tag>NNMS7-----A----</tag>
 </m>
 <m id="m-wsj0540-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1240,8 +1240,8 @@
 <LM>w#w-wsj0540-001-p1s4W18</LM>
 </w.rf>
 <form>prodávající</form>
-<lemma>prodávající_^(*4t)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>prodávající-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj0540-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1530,8 +1530,8 @@
 <LM>w#w-wsj0540-001-p1s5W31</LM>
 </w.rf>
 <form>prodávající</form>
-<lemma>prodávající_^(*4t)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>prodávající-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj0540-001-p1s5W32-Ta">
 <src.rf>tagger-a</src.rf>

@@ -570,8 +570,8 @@
 <LM>w#w-cmpr9407-007-p6s1w28</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-007-p6s1w29">
 <src.rf>manual</src.rf>
@@ -1439,8 +1439,8 @@
 <LM>w#w-cmpr9407-007-p8s1w1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-007-p8s1w2">
 <src.rf>manual</src.rf>

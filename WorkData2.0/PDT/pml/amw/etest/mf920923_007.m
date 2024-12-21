@@ -962,7 +962,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-007-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1798,7 +1798,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-007-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2126,7 +2126,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-007-p4s4w9">
 <src.rf>manual</src.rf>
@@ -3490,7 +3490,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-007-p6s1w17">
 <src.rf>manual</src.rf>
@@ -4678,7 +4678,7 @@
 <LM>w#w-mf920923-007-p6s6w7</LM>
 </w.rf>
 <form>zmrazení</form>
-<lemma>zmrazení_^(*3it)</lemma>
+<lemma>zmrazení_^(^DD**zmražení)_(*3it)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-mf920923-007-p6s6w8">

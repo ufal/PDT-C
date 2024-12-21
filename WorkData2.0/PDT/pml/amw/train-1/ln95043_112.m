@@ -1242,8 +1242,8 @@
 <LM>w#w-ln95043-112-p2s1w33</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-112-p2s1w34">
 <src.rf>manual</src.rf>
@@ -3841,7 +3841,7 @@
 </w.rf>
 <form>jakoby</form>
 <lemma>jakoby-2</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-112-p6s1w50">
 <src.rf>manual</src.rf>
@@ -3877,7 +3877,7 @@
 </w.rf>
 <form>jakoby</form>
 <lemma>jakoby-2</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-112-p6s1w54">
 <src.rf>manual</src.rf>

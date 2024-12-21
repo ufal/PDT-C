@@ -1351,8 +1351,8 @@
 <LM>w#w-wsj2037-001-p1s6W11</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2037-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>

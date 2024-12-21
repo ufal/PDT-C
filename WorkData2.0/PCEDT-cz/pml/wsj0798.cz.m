@@ -795,7 +795,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAFP2----1A----</tag>
+<tag>PLFP2----------</tag>
 </m>
 <m id="m-wsj0798-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1787,8 +1787,8 @@
 <LM>w#w-wsj0798-001-p1s7W8</LM>
 </w.rf>
 <form>vlastní</form>
-<lemma>vlastní</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0798-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>

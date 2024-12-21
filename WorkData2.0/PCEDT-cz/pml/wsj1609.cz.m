@@ -1319,7 +1319,7 @@
 </w.rf>
 <form>září</form>
 <lemma>září</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS3-----A----</tag>
 </m>
 <m id="m-wsj1609-001-p1s5W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1821,7 +1821,7 @@
 </w.rf>
 <form>nárůstu</form>
 <lemma>nárůst</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1609-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2496,7 +2496,7 @@
 </w.rf>
 <form>zisku</form>
 <lemma>zisk</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1609-001-p1s12W20-Ta">
 <src.rf>tagger-a</src.rf>

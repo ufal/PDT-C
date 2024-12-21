@@ -502,8 +502,8 @@
 <LM>w#w-ln94211-122-p2s2w6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-122-p2s2w7">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94211-122-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1886,8 +1886,8 @@
 <LM>w#w-ln94211-122-p5s3w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-122-p5s3w2">
 <src.rf>manual</src.rf>

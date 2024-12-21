@@ -1397,8 +1397,8 @@
 <LM>w#w-wsj1339-001-p1s11W7</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1339-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>

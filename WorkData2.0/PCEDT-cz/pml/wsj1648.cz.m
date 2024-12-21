@@ -684,8 +684,8 @@
 <LM>w#w-wsj1648-001-p1s2W17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1648-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>

@@ -350,7 +350,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-018-p1s4w12">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-lnd94101-018-p1s9w7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-018-p1s9w8">

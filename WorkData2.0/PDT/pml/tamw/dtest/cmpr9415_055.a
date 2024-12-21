@@ -24,14 +24,14 @@
 <children>
 <LM id="a-cmpr9415-055-p2s1w1">
 <m.rf>m#m-cmpr9415-055-p2s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-cmpr9415-055-p2s1w3">
 <m.rf>m#m-cmpr9415-055-p2s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
@@ -67,8 +67,7 @@
 <children>
 <LM id="a-cmpr9415-055-p3s1w1">
 <m.rf>m#m-cmpr9415-055-p3s1w1</m.rf>
-<afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Vocat</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -100,7 +99,7 @@
 <children>
 <LM id="a-cmpr9415-055-p3s1w6">
 <m.rf>m#m-cmpr9415-055-p3s1w6</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -165,17 +164,19 @@
 <ord>20</ord>
 <clause_number>3</clause_number>
 <children>
+<LM id="a-cmpr9415-055-p3s1w17">
+<m.rf>m#m-cmpr9415-055-p3s1w17</m.rf>
+<afun>Atr</afun>
+<ord>17</ord>
+<clause_number>3</clause_number>
+<children>
 <LM id="a-cmpr9415-055-p3s1w16">
 <m.rf>m#m-cmpr9415-055-p3s1w16</m.rf>
 <afun>AuxG</afun>
 <ord>16</ord>
 <clause_number>3</clause_number>
 </LM>
-<LM id="a-cmpr9415-055-p3s1w17">
-<m.rf>m#m-cmpr9415-055-p3s1w17</m.rf>
-<afun>Atr</afun>
-<ord>17</ord>
-<clause_number>3</clause_number>
+</children>
 </LM>
 <LM id="a-cmpr9415-055-p3s1w18">
 <m.rf>m#m-cmpr9415-055-p3s1w18</m.rf>

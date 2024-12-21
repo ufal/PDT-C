@@ -203,6 +203,7 @@
 <LM id="a-lnd91301-028-p1s2w16">
 <m.rf>m#m-lnd91301-028-p1s2w16</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>
@@ -214,7 +215,7 @@
 </LM>
 <LM id="a-lnd91301-028-p1s2w15">
 <m.rf>m#m-lnd91301-028-p1s2w15</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
 </LM>

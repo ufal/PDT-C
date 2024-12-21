@@ -77,8 +77,8 @@
 <LM>w#w-ln94208-97-p2s1Bw1</LM>
 </w.rf>
 <form>Hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-97-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -206,8 +206,8 @@
 <LM>w#w-ln94208-97-p2s2w2</LM>
 </w.rf>
 <form>totiž</form>
-<lemma>totiž-2</lemma>
-<tag>TT-------------</tag>
+<lemma>totiž-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94208-97-p2s2w3">
 <src.rf>manual</src.rf>
@@ -597,8 +597,8 @@
 <LM>w#w-ln94208-97-p3s2w2</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-97-p3s2w3">
 <src.rf>manual</src.rf>

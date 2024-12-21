@@ -275,7 +275,7 @@
 <LM>w#w-ln94209-82-p2s1Bw25</LM>
 </w.rf>
 <form>pozitívním</form>
-<lemma>pozitívní</lemma>
+<lemma>pozitívní_,s_^(^DD**pozitivní)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-ln94209-82-p2s1Bw26">

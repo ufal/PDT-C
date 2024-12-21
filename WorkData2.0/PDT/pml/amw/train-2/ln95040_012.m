@@ -1342,7 +1342,7 @@
 <LM>w#w-ln95040-012-p4s2Aw3</LM>
 </w.rf>
 <form>třaskaly</form>
-<lemma>třaskat</lemma>
+<lemma>třaskat_,s_^(^DD**třeskat)</lemma>
 <tag>VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-012-p4s2Aw4">
@@ -2308,7 +2308,7 @@
 <LM>w#w-ln95040-012-p4s7w8</LM>
 </w.rf>
 <form>ošuntělých</form>
-<lemma>ošuntělý_^(*2t)</lemma>
+<lemma>ošuntělý</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-ln95040-012-p4s7w9">

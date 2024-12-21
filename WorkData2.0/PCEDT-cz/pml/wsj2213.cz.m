@@ -1032,7 +1032,7 @@
 </w.rf>
 <form>datován</form>
 <lemma>datovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj2213-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1215,7 +1215,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj2213-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1486,8 +1486,8 @@
 <LM>w#w-wsj2213-001-p1s4W20</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2213-001-p1s4W21-Ta">
 <src.rf>tagger-a</src.rf>

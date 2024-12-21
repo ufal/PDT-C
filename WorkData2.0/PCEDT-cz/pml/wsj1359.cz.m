@@ -1547,7 +1547,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj1359-001-p1s4W31-Ta">
 <src.rf>tagger-a</src.rf>

@@ -475,7 +475,7 @@
 <LM>w#w-vesm9212-023-p1s4w7</LM>
 </w.rf>
 <form>Marianských</form>
-<lemma>marianský</lemma>
+<lemma>marianský_,s_^(^DD**mariánský)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-vesm9212-023-p1s4w8">

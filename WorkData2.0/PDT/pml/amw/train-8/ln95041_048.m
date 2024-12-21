@@ -2675,8 +2675,8 @@
 <LM>w#w-ln95041-048-p3s8w7</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95041-048-p3s8w8">
 <src.rf>manual</src.rf>
@@ -3683,7 +3683,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-048-p4s4w38">
 <src.rf>manual</src.rf>
@@ -3847,7 +3847,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-048-p5s1w15">
 <src.rf>manual</src.rf>

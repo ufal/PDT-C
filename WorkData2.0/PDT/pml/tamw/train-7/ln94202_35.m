@@ -449,7 +449,7 @@
 </w.rf>
 <form>pracujících</form>
 <lemma>pracující_^(*5ovat)</lemma>
-<tag>AGFP2-----A----</tag>
+<tag>AGMP2-----A----</tag>
 </m>
 <m id="m-ln94202-35-p2s2w22">
 <src.rf>manual</src.rf>

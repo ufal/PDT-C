@@ -378,8 +378,8 @@
 <LM>w#w-ln94205-141-p2s2w4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-141-p2s2w5">
 <src.rf>manual</src.rf>
@@ -515,8 +515,8 @@
 <LM>w#w-ln94205-141-p2s3w12</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-141-p2s3w13">
 <src.rf>manual</src.rf>
@@ -1007,8 +1007,8 @@
 <LM>w#w-ln94205-141-p3s2w6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-141-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1701,8 +1701,8 @@
 <LM>w#w-ln94205-141-p4s2w8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-141-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1937,8 +1937,8 @@
 <LM>w#w-ln94205-141-p4s3w14</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-141-p4s3w15">
 <src.rf>manual</src.rf>
@@ -2203,7 +2203,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-141-p5s2w4">
 <src.rf>manual</src.rf>

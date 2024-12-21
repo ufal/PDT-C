@@ -605,8 +605,8 @@
 <LM>w#w-ln94205-11-p3s2w9</LM>
 </w.rf>
 <form>fyzikálně</form>
-<lemma>fyzikálně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>fyzikálně-2</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-ln94205-11-p3s2w10">
 <src.rf>manual</src.rf>
@@ -922,8 +922,8 @@
 <LM>w#w-ln94205-11-p4s1w17</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-11-p4s1w18">
 <src.rf>manual</src.rf>
@@ -2408,7 +2408,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-11-p6s4w19">
 <src.rf>manual</src.rf>

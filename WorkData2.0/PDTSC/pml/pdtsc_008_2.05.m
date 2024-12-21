@@ -60,8 +60,8 @@
 <LM>w#w-d1t2107-4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m983-d1t2107-5">
 <w.rf>

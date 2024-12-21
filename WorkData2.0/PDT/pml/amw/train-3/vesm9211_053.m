@@ -916,7 +916,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-053-p2s4w21">
 <src.rf>manual</src.rf>
@@ -1434,7 +1434,7 @@
 <LM>w#w-vesm9211-053-p2s7w16</LM>
 </w.rf>
 <form>dozvíme</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---1P-AAP--</tag>
 </m>
 <m id="m-vesm9211-053-p2s7w17">
@@ -1754,7 +1754,7 @@
 </w.rf>
 <form>rekonstruovat</form>
 <lemma>rekonstruovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9211-053-p3s2w4">
 <src.rf>manual</src.rf>
@@ -2187,7 +2187,7 @@
 <LM>w#w-vesm9211-053-p3s3w32</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-vesm9211-053-p3s3w33">
@@ -2965,7 +2965,7 @@
 </w.rf>
 <form>rekonstruuje</form>
 <lemma>rekonstruovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-053-p4s5w8">
 <src.rf>manual</src.rf>

@@ -2090,7 +2090,7 @@
 </w.rf>
 <form>dítko</form>
 <lemma>dítko</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS5-----A----</tag>
 </m>
 <m id="m-mf920901-030-p3s6w16">
 <src.rf>manual</src.rf>

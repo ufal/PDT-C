@@ -868,8 +868,8 @@
 <LM>w#w-wsj0641-001-p1s3W13</LM>
 </w.rf>
 <form>vlastní</form>
-<lemma>vlastní</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0641-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1179,7 +1179,7 @@
 </w.rf>
 <form>Společnosti</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj0641-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2031,8 +2031,8 @@
 <LM>w#w-wsj0641-001-p1s8W21</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0641-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2123,8 +2123,8 @@
 <LM>w#w-wsj0641-001-p1s9W7</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0641-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1820,8 +1820,8 @@
 <LM>w#w-wsj1122-001-p1s11W8</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1122-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3557,8 +3557,8 @@
 <LM>w#w-wsj1122-001-p1s20W2</LM>
 </w.rf>
 <form>JEN</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1122-001-p1s20W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3638,8 +3638,8 @@
 <LM>w#w-wsj1122-001-p1s20W11</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1122-001-p1s20W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4513,7 +4513,7 @@
 <LM>w#w-wsj1122-001-p1s23W23</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1122-001-p1s23W24-Ta">
@@ -4896,8 +4896,8 @@
 <LM>w#w-wsj1122-001-p1s25W17</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1122-001-p1s25W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4980,7 +4980,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1122-001-p1s26W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5567,7 +5567,7 @@
 <LM>w#w-wsj1122-001-p1s27W24</LM>
 </w.rf>
 <form>odpočitatelný</form>
-<lemma>odpočitatelný_^(*8ítat)</lemma>
+<lemma>odpočitatelný_,s_^(^DD**odpočítatelný)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-wsj1122-001-p1s27W25-Ta">
@@ -7753,8 +7753,8 @@
 <LM>w#w-wsj1122-001-p1s38W12</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1122-001-p1s38W13-Ta">
 <src.rf>tagger-a</src.rf>

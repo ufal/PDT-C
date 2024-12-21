@@ -317,7 +317,7 @@
 </w.rf>
 <form>září</form>
 <lemma>září</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS3-----A----</tag>
 </m>
 <m id="m-wsj0708-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -437,7 +437,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj0708-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -456,7 +456,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0708-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>

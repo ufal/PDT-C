@@ -37,7 +37,7 @@
 <LM>w#w-lnd94104-053-p1s1w3</LM>
 </w.rf>
 <form>Tanzanii</form>
-<lemma>Tanzanie_;G</lemma>
+<lemma>Tanzanie_;G_,s_^(^DD**Tanzánie)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94104-053-p1s1w4">
@@ -351,7 +351,7 @@
 <LM>w#w-lnd94104-053-p1s5w9</LM>
 </w.rf>
 <form>Tanzanií</form>
-<lemma>Tanzanie_;G</lemma>
+<lemma>Tanzanie_;G_,s_^(^DD**Tanzánie)</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94104-053-p1s5w10">
@@ -680,8 +680,8 @@
 <LM>w#w-lnd94104-053-p1s7w24</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94104-053-p1s7w25">
 <src.rf>manual</src.rf>

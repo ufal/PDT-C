@@ -268,8 +268,8 @@
 <LM>w#w-ln95045-024-p2s2w12</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-024-p2s2w13">
 <src.rf>manual</src.rf>
@@ -733,8 +733,8 @@
 <LM>w#w-ln95045-024-p3s3w1</LM>
 </w.rf>
 <form>Naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-024-p3s3w2">
 <src.rf>manual</src.rf>

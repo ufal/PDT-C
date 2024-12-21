@@ -441,8 +441,8 @@
 <LM>w#w-ln94210-68-p3s1w2</LM>
 </w.rf>
 <form>obžalovaný</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-68-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1293,8 +1293,8 @@
 <LM>w#w-ln94210-68-p3s4w22</LM>
 </w.rf>
 <form>obžalovaný</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-68-p3s4w23">
 <src.rf>manual</src.rf>
@@ -1446,8 +1446,8 @@
 <LM>w#w-ln94210-68-p3s4w39</LM>
 </w.rf>
 <form>fu</form>
-<lemma>fu_^(kung-fu)</lemma>
-<tag>NNNXX-----A----</tag>
+<lemma>fu</lemma>
+<tag>SNNXX-----A----</tag>
 </m>
 <m id="m-ln94210-68-p3s4w40">
 <src.rf>manual</src.rf>
@@ -1548,7 +1548,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-68-p3s5w11">
 <src.rf>manual</src.rf>
@@ -2037,8 +2037,8 @@
 <LM>w#w-ln94210-68-p3s8w20</LM>
 </w.rf>
 <form>přítomných</form>
-<lemma>přítomný</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>přítomný-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94210-68-p3s8w21">
 <src.rf>manual</src.rf>
@@ -2173,7 +2173,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-68-p3s8w36">
 <src.rf>manual</src.rf>
@@ -2338,8 +2338,8 @@
 <LM>w#w-ln94210-68-p3s11w1</LM>
 </w.rf>
 <form>Obžalovaný</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-68-p3s11w2">
 <src.rf>manual</src.rf>
@@ -2374,7 +2374,7 @@
 <LM>w#w-ln94210-68-p3s11w5</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-68-p3s11w6">

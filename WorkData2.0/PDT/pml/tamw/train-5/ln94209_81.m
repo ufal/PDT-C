@@ -621,8 +621,8 @@
 <LM>w#w-ln94209-81-p2s3w19</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-81-p2s3w20">
 <src.rf>manual</src.rf>

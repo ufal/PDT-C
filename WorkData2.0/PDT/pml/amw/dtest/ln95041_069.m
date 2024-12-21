@@ -729,7 +729,7 @@
 <LM>w#w-ln95041-069-p2s4w9</LM>
 </w.rf>
 <form>nevypočitatelných</form>
-<lemma>vypočitatelný_^(*8ítat)</lemma>
+<lemma>vypočitatelný_,s_^(^DD**vypočítatelný)</lemma>
 <tag>AAFP2----1N----</tag>
 </m>
 <m id="m-ln95041-069-p2s4w10">

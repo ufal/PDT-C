@@ -268,8 +268,8 @@
 <LM>w#w-mf920924-117-p2s3w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-117-p2s3w2">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920924-117-p2s4w6">
 <src.rf>manual</src.rf>

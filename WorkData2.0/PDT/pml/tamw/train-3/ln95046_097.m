@@ -122,8 +122,8 @@
 <LM>w#w-ln95046-097-p2s1Bw4</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-097-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -542,8 +542,8 @@
 <LM>w#w-ln95046-097-p2s4w2</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95046-097-p2s4w3">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-ln95046-097-p2s4w10</LM>
 </w.rf>
 <form>umisťovat</form>
-<lemma>umisťovat</lemma>
+<lemma>umisťovat_,s_^(^DD**umísťovat)</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-ln95046-097-p2s4w11">
@@ -803,8 +803,8 @@
 <LM>w#w-ln95046-097-p2s4w31</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-097-p2s4w32">
 <src.rf>manual</src.rf>

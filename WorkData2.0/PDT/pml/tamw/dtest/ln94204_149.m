@@ -686,8 +686,8 @@
 <LM>w#w-ln94204-149-p2s4w11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94204-149-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 </w.rf>
 <form>věnována</form>
 <lemma>věnovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-ln94204-149-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1587,8 +1587,8 @@
 <LM>w#w-ln94204-149-p4s3w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-149-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1668,8 +1668,8 @@
 <LM>w#w-ln94204-149-p4s3w21</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94204-149-p4s3w22">
 <src.rf>manual</src.rf>

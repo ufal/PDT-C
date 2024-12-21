@@ -283,8 +283,8 @@
 <LM>w#w-ln95048-045-p2s2w30</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95048-045-p2s2w31">
 <src.rf>manual</src.rf>
@@ -594,8 +594,8 @@
 <LM>w#w-ln95048-045-p2s4w7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-045-p2s4w8">
 <src.rf>manual</src.rf>
@@ -696,8 +696,8 @@
 <LM>w#w-ln95048-045-p2s5w4</LM>
 </w.rf>
 <form>div</form>
-<lemma>div-1</lemma>
-<tag>NNIS1-----A----</tag>
+<lemma>div-3</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-045-p2s5w5">
 <src.rf>manual</src.rf>

@@ -313,8 +313,8 @@
 <LM>w#w-wsj2008-001-p1s0W34</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2008-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1255,7 +1255,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2008-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1281,7 +1281,7 @@
 <LM>w#w-wsj2008-001-p1s5W6</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj2008-001-p1s5W7-Ta">
@@ -2099,8 +2099,8 @@
 <LM>w#w-wsj2008-001-p1s9W13</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2008-001-p1s9W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2426,7 +2426,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2008-001-p1s10W25-Ta">
 <src.rf>tagger-a</src.rf>

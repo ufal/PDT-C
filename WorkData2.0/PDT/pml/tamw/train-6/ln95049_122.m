@@ -266,7 +266,7 @@
 <LM>w#w-ln95049-122-p2s1Bw18</LM>
 </w.rf>
 <form>vybuchla</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95049-122-p2s1Bw19">
@@ -686,8 +686,8 @@
 <LM>w#w-ln95049-122-p2s4w14</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-122-p2s4w15">
 <src.rf>manual</src.rf>
@@ -733,8 +733,8 @@
 <LM>w#w-ln95049-122-p2s5w3</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-122-p2s5w4">
 <src.rf>manual</src.rf>

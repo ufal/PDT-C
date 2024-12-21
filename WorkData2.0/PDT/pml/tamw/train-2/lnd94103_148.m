@@ -777,8 +777,8 @@
 <LM>w#w-lnd94103-148-p1s5w29</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-148-p1s5w30">
 <src.rf>manual</src.rf>
@@ -1217,8 +1217,8 @@
 <LM>w#w-lnd94103-148-p1s9w3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-148-p1s9w4">
 <src.rf>manual</src.rf>

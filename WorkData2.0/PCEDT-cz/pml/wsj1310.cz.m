@@ -415,8 +415,8 @@
 <LM>w#w-wsj1310-001-p1s1W10</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1310-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -551,7 +551,7 @@
 </w.rf>
 <form>obžalovaného</form>
 <lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>AAMS2----1A----</tag>
 </m>
 <m id="m-wsj1310-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -813,8 +813,8 @@
 <LM>w#w-wsj1310-001-p1s2W23</LM>
 </w.rf>
 <form>obviněných</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1310-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1388,7 +1388,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1310-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1596,8 +1596,8 @@
 <LM>w#w-wsj1310-001-p1s6W9</LM>
 </w.rf>
 <form>obviněných</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1310-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>

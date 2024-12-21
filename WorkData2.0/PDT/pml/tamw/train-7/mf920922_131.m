@@ -967,8 +967,8 @@
 <LM>w#w-mf920922-131-p3s1w20</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvlášť-2_,s_^(^DD**zvláště-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-131-p3s1w21">
 <src.rf>manual</src.rf>

@@ -179,7 +179,7 @@
 </w.rf>
 <form>společnost</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS1-----A----</tag>
+<tag>NNFS4-----A----</tag>
 </m>
 <m id="m-wsj1292-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>

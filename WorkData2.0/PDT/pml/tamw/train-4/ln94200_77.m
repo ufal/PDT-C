@@ -606,7 +606,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln94200-77-p2s3w18">
 <src.rf>manual</src.rf>

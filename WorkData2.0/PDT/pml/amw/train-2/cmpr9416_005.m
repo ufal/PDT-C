@@ -552,8 +552,8 @@
 <LM>w#w-cmpr9416-005-p6s1w14</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-005-p6s1w15">
 <src.rf>manual</src.rf>
@@ -1536,8 +1536,8 @@
 <LM>w#w-cmpr9416-005-p9s1w12</LM>
 </w.rf>
 <form>pomocí</form>
-<lemma>pomoc</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>pomocí</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9416-005-p9s1w13">
 <src.rf>manual</src.rf>

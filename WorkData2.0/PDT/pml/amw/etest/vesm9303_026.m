@@ -1863,8 +1863,8 @@
 <LM>w#w-vesm9303-026-p4s7Aw15</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-026-p4s7Aw16">
 <src.rf>manual</src.rf>
@@ -4678,8 +4678,8 @@
 <LM>w#w-vesm9303-026-p6s3w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-026-p6s3w4">
 <src.rf>manual</src.rf>
@@ -5227,7 +5227,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-026-p6s7w2">
 <src.rf>manual</src.rf>
@@ -10797,7 +10797,7 @@
 <LM>w#w-vesm9303-026-p13s1w6</LM>
 </w.rf>
 <form>ferromagnetickou</form>
-<lemma>ferromagnetický</lemma>
+<lemma>ferromagnetický_,s_^(^DD**feromagnetický)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-vesm9303-026-p13s1w7">
@@ -11948,7 +11948,7 @@
 <LM>w#w-vesm9303-026-p14s1w17</LM>
 </w.rf>
 <form>ferromagnetické</form>
-<lemma>ferromagnetický</lemma>
+<lemma>ferromagnetický_,s_^(^DD**feromagnetický)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9303-026-p14s1w18">
@@ -12314,7 +12314,7 @@
 <LM>w#w-vesm9303-026-p14s4w6</LM>
 </w.rf>
 <form>ferromagnetický</form>
-<lemma>ferromagnetický</lemma>
+<lemma>ferromagnetický_,s_^(^DD**feromagnetický)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-vesm9303-026-p14s4w7">
@@ -12635,7 +12635,7 @@
 <LM>w#w-vesm9303-026-p14s7w4</LM>
 </w.rf>
 <form>uvízneme</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VB-P---1P-AAP--</tag>
 </m>
 <m id="m-vesm9303-026-p14s7w5">
@@ -14138,7 +14138,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-026-p16s1w10">
 <src.rf>manual</src.rf>
@@ -16311,8 +16311,8 @@
 <w.rf>
 <LM>w#w-vesm9303-026-p18s2w18</LM>
 </w.rf>
-<form>&gt;</form>
-<lemma>&gt;</lemma>
+<form>></form>
+<lemma>></lemma>
 <tag>Z:-------------</tag>
 </m>
 <m id="m-vesm9303-026-p18s2w19">
@@ -18070,8 +18070,8 @@
 <w.rf>
 <LM>w#w-vesm9303-026-p21s3Bw4</LM>
 </w.rf>
-<form>&gt;</form>
-<lemma>&gt;</lemma>
+<form>></form>
+<lemma>></lemma>
 <tag>Z:-------------</tag>
 </m>
 <m id="m-vesm9303-026-p21s3Bw5">
@@ -25329,8 +25329,8 @@
 <LM>w#w-vesm9303-026-p33s1w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-026-p33s1w5">
 <src.rf>manual</src.rf>

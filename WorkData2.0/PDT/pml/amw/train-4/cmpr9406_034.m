@@ -1040,7 +1040,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-034-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1266,8 +1266,8 @@
 <LM>w#w-cmpr9406-034-p5s3w18</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9406-034-p5s3w19">
 <src.rf>manual</src.rf>

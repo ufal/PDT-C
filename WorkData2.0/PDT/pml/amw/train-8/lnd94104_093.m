@@ -806,7 +806,7 @@
 </w.rf>
 <form>Alphaville</form>
 <lemma>Alphaville_;m</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIXX-----A----</tag>
 </m>
 <m id="m-lnd94104-093-p1s4Aw15">
 <src.rf>manual</src.rf>
@@ -2424,7 +2424,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-093-p1s11w25">
 <src.rf>manual</src.rf>

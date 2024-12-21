@@ -362,8 +362,8 @@
 <LM>w#w-mf920922-118-p4s3w8</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-118-p4s3w9">
 <src.rf>manual</src.rf>
@@ -407,8 +407,8 @@
 <LM>w#w-mf920922-118-p4s3w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-118-p4s3w14">
 <src.rf>manual</src.rf>

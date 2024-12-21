@@ -778,8 +778,8 @@
 <LM>w#w-cmpr9410-018-p5s2w20</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-018-p5s2w21">
 <src.rf>manual</src.rf>
@@ -1135,8 +1135,8 @@
 <LM>w#w-cmpr9410-018-p5s5w2</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-018-p5s5w3">
 <src.rf>manual</src.rf>
@@ -2000,8 +2000,8 @@
 <LM>w#w-cmpr9410-018-p7s4w8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-018-p7s4w9">
 <src.rf>manual</src.rf>
@@ -2646,7 +2646,7 @@
 <LM>w#w-cmpr9410-018-p9s2w20</LM>
 </w.rf>
 <form>odpočitatelné</form>
-<lemma>odpočitatelný_^(*8ítat)</lemma>
+<lemma>odpočitatelný_,s_^(^DD**odpočítatelný)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-cmpr9410-018-p9s2w21">
@@ -2911,8 +2911,8 @@
 <LM>w#w-cmpr9410-018-p9s4w15</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-018-p9s4w16">
 <src.rf>manual</src.rf>
@@ -3060,7 +3060,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-018-p11s1w5">
 <src.rf>manual</src.rf>
@@ -3361,7 +3361,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--6----------</tag>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-cmpr9410-018-p11s3w15">
 <src.rf>manual</src.rf>
@@ -3827,8 +3827,8 @@
 <LM>w#w-cmpr9410-018-p13s1w4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-018-p13s1w5">
 <src.rf>manual</src.rf>
@@ -4849,8 +4849,8 @@
 <LM>w#w-cmpr9410-018-p15s3Aw4</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-018-p15s3Aw5">
 <src.rf>manual</src.rf>
@@ -4957,8 +4957,8 @@
 <LM>w#w-cmpr9410-018-p15s3Aw16</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-018-p15s3Aw17">
 <src.rf>manual</src.rf>

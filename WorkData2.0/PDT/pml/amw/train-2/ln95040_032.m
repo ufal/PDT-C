@@ -674,7 +674,7 @@
 </w.rf>
 <form>závěru</form>
 <lemma>závěr_^(př._z_jednání,_úvah)</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95040-032-p2s4w19">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 </w.rf>
 <form>úvodu</form>
 <lemma>úvod</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95040-032-p2s5Bw12">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 </w.rf>
 <form>utkání</form>
 <lemma>utkání_^(*3at)</lemma>
-<tag>NNNP1-----A----</tag>
+<tag>NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-032-p2s5Bw13">
 <src.rf>manual</src.rf>
@@ -1140,7 +1140,7 @@
 </w.rf>
 <form>závěru</form>
 <lemma>závěr_^(př._z_jednání,_úvah)</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln95040-032-p2s6w16">
 <src.rf>manual</src.rf>

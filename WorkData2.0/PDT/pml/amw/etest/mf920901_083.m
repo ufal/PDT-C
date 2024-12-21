@@ -66,8 +66,8 @@
 <LM>w#w-mf920901-083-p2s1w1</LM>
 </w.rf>
 <form>Počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-mf920901-083-p2s1w2">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-083-p2s2w5">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-mf920901-083-p2s3w6</LM>
 </w.rf>
 <form>dozvědí</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf920901-083-p2s3w7">
@@ -1503,7 +1503,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-083-p3s5w3">
 <src.rf>manual</src.rf>

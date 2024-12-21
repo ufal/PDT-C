@@ -457,8 +457,8 @@
 <LM>w#w-mf920925-077-p3s1w10</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-077-p3s1w11">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920925-077-p3s1w16">
 <src.rf>manual</src.rf>
@@ -558,8 +558,8 @@
 <LM>w#w-mf920925-077-p3s2w1</LM>
 </w.rf>
 <form>Zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-077-p3s2w2">
 <src.rf>manual</src.rf>

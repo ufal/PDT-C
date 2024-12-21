@@ -957,7 +957,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-039-p3s4w27">
 <src.rf>manual</src.rf>
@@ -3860,7 +3860,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-039-p6s2w42">
 <src.rf>manual</src.rf>
@@ -4077,8 +4077,8 @@
 <LM>w#w-vesm9303-039-p6s3w21</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-039-p6s3w22">
 <src.rf>manual</src.rf>
@@ -4231,7 +4231,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-039-p6s3w39">
 <src.rf>manual</src.rf>

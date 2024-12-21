@@ -171,7 +171,7 @@
 </w.rf>
 <form>smrt</form>
 <lemma>smrt</lemma>
-<tag>NNFS1-----A----</tag>
+<tag>NNFS4-----A----</tag>
 </m>
 <m id="mu_01-SCzechM-p0011-s1-w2">
 <w.rf>
@@ -1623,7 +1623,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="mu_01-SCzechM-p0047-s1-w3">
 <w.rf>
@@ -1861,8 +1861,8 @@
 <LM>w#w-mu_01-SCzechM-p0051-s1-w1</LM>
 </w.rf>
 <form>Místní</form>
-<lemma>místní</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>místní-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="mu_01-SCzechM-p0051-s1-w2">
 <w.rf>
@@ -2379,8 +2379,8 @@
 <LM>w#w-mu_01-SCzechM-p0064-s1-w1</LM>
 </w.rf>
 <form>Kdybych</form>
-<lemma>kdyby</lemma>
-<tag>J,-----------c-</tag>
+<lemma>kdyby-2</lemma>
+<tag>TT-----------c-</tag>
 </m>
 <m id="mu_01-SCzechM-p0064-s1-w2">
 <w.rf>
@@ -3220,8 +3220,8 @@
 <LM>w#w-mu_01-SCzechM-p0092-s1-w11</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_01-SCzechM-p0092-s1-w12">
 <w.rf>
@@ -3292,8 +3292,8 @@
 <LM>w#w-mu_01-SCzechM-p0092-s1-w20</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_01-SCzechM-p0092-s1-w21">
 <w.rf>
@@ -3332,8 +3332,8 @@
 <LM>w#w-mu_01-SCzechM-p0092-s1-w25</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_01-SCzechM-p0092-s1-w26">
 <w.rf>

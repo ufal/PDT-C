@@ -1348,8 +1348,8 @@
 <LM>w#w-wsj0095-001-p1s4W21</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0095-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1476,8 +1476,8 @@
 <LM>w#w-wsj0095-001-p1s5W9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0095-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1504,7 +1504,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-wsj0095-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>

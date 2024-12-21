@@ -1757,7 +1757,7 @@
 </w.rf>
 <form>nabídky</form>
 <lemma>nabídka</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1928-001-p1s6W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1831,7 +1831,7 @@
 </w.rf>
 <form>přesáhlo</form>
 <lemma>přesáhnout</lemma>
-<tag>VpNS----R-AAP--</tag>
+<tag>VpNS----R-AAP-1</tag>
 </m>
 <m id="m-wsj1928-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2095,8 +2095,8 @@
 <LM>w#w-wsj1928-001-p1s9W2</LM>
 </w.rf>
 <form>obeznámení</form>
-<lemma>obeznámení_^(*3it)</lemma>
-<tag>NNNS2-----A----</tag>
+<lemma>obeznámený_^(*3it)</lemma>
+<tag>AAMP1----1A----</tag>
 </m>
 <m id="m-wsj1928-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5904,8 +5904,8 @@
 <LM>w#w-wsj1928-001-p1s23W18</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1928-001-p1s23W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6378,8 +6378,8 @@
 <LM>w#w-wsj1928-001-p1s26W2</LM>
 </w.rf>
 <form>obeznámení</form>
-<lemma>obeznámení_^(*3it)</lemma>
-<tag>NNNS2-----A----</tag>
+<lemma>obeznámený_^(*3it)</lemma>
+<tag>AAMP1----1A----</tag>
 </m>
 <m id="m-wsj1928-001-p1s26W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6441,8 +6441,8 @@
 <LM>w#w-wsj1928-001-p1s26W9</LM>
 </w.rf>
 <form>přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1928-001-p1s26W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10434,8 +10434,8 @@
 <LM>w#w-wsj1928-001-p1s42W58</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1928-001-p1s42W59-Ta">
 <src.rf>tagger-a</src.rf>

@@ -379,8 +379,8 @@
 <LM>w#w-wsj0652-001-p1s1W15</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0652-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -415,8 +415,8 @@
 <LM>w#w-wsj0652-001-p1s1W19</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0652-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1279,8 +1279,8 @@
 <LM>w#w-wsj0652-001-p1s5W7</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0652-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>

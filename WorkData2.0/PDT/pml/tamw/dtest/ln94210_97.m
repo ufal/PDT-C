@@ -304,8 +304,8 @@
 <LM>w#w-ln94210-97-p2s2w16</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-97-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1410,8 +1410,8 @@
 <LM>w#w-ln94210-97-p3s4w2</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln94210-97-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1419,8 +1419,8 @@
 <LM>w#w-ln94210-97-p3s4w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-97-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1635,8 +1635,8 @@
 <LM>w#w-ln94210-97-p3s4w27</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-97-p3s4w28">
 <src.rf>manual</src.rf>
@@ -1889,8 +1889,8 @@
 <LM>w#w-ln94210-97-p4s1w11</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-97-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2205,7 +2205,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94210-97-p4s1w47">
 <src.rf>manual</src.rf>
@@ -2440,8 +2440,8 @@
 <LM>w#w-ln94210-97-p4s2w12</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-97-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2786,8 +2786,8 @@
 <LM>w#w-ln94210-97-p4s4w11</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-97-p4s4w12">
 <src.rf>manual</src.rf>
@@ -3521,8 +3521,8 @@
 <LM>w#w-ln94210-97-p5s3w18</LM>
 </w.rf>
 <form>pravda</form>
-<lemma>pravda-1</lemma>
-<tag>NNFS1-----A----</tag>
+<lemma>pravda-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-97-p5s3w19">
 <src.rf>manual</src.rf>
@@ -3548,8 +3548,8 @@
 <LM>w#w-ln94210-97-p5s3w21</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-97-p5s3w22">
 <src.rf>manual</src.rf>
@@ -3740,7 +3740,7 @@
 </w.rf>
 <form>rekonstruovat</form>
 <lemma>rekonstruovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94210-97-p5s4w12">
 <src.rf>manual</src.rf>

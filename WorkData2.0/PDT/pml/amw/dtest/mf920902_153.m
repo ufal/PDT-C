@@ -316,7 +316,7 @@
 </w.rf>
 <form>Mello</form>
 <lemma>Mello_;Y</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMXX-----A----</tag>
 </m>
 <m id="m-mf920902-153-p4s2w23">
 <src.rf>manual</src.rf>

@@ -133,7 +133,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-007-p4s1w10">
 <src.rf>manual</src.rf>
@@ -995,8 +995,8 @@
 <LM>w#w-cmpr9416-007-p4s5w9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-007-p4s5w10">
 <src.rf>manual</src.rf>

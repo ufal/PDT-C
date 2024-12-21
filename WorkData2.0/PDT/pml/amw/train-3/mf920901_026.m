@@ -760,7 +760,7 @@
 <LM>w#w-mf920901-026-p2s6w7</LM>
 </w.rf>
 <form>metalu</form>
-<lemma>metal</lemma>
+<lemma>metal_,s_^(^DD**metál)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-mf920901-026-p2s6w8">
@@ -1696,7 +1696,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-026-p2s11w13">
 <src.rf>manual</src.rf>

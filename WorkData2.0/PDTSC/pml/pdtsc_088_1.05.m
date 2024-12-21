@@ -38,7 +38,7 @@
 <LM>w#w-d1t1948-4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m023-d1t1948-5">
@@ -274,7 +274,7 @@
 <LM>w#w-d1t1960-1</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m023-d1t1960-2">
@@ -283,7 +283,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m023-d1t1960-3">
 <w.rf>
@@ -372,8 +372,8 @@
 <LM>w#w-d1t1963-1</LM>
 </w.rf>
 <form>Akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m023-2493-2494">
 <w.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-d1t1975-7</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m023-d-m-d1e1970-x2-punct-punct">
@@ -652,8 +652,8 @@
 <LM>w#w-d1t1983-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m023-d1t1983-8">
 <w.rf>
@@ -1276,7 +1276,7 @@
 <LM>w#w-d1t2025-16</LM>
 </w.rf>
 <form>Opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m023-d1t2025-12">
@@ -1808,8 +1808,8 @@
 <LM>w#w-d1t2097-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m023-d1t2097-7">
 <w.rf>
@@ -2186,8 +2186,8 @@
 <LM>w#w-d1t2142-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m023-d1e2139-x2-2590">
 <w.rf>
@@ -3274,8 +3274,8 @@
 <LM>w#w-d1t2251-9</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m023-d1t2253-1">
 <w.rf>

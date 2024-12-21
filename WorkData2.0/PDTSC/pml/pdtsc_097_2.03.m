@@ -998,8 +998,8 @@
 <LM>w#w-d1t1445-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m136-d1t1445-4">
 <w.rf>
@@ -1170,8 +1170,8 @@
 <LM>w#w-d1t1469-4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m136-d1t1469-5">
 <w.rf>
@@ -2330,8 +2330,8 @@
 <LM>w#w-d1t1558-5</LM>
 </w.rf>
 <form>je</form>
-<lemma>být</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<lemma>on-1</lemma>
+<tag>PEXP4--3-------</tag>
 </m>
 <m id="m136-d1t1562-2">
 <w.rf>
@@ -3109,7 +3109,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m136-d1t1634-2">
 <w.rf>
@@ -3614,8 +3614,8 @@
 <LM>w#w-d1t1693-7</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m136-d1t1696-1">
 <w.rf>
@@ -3664,8 +3664,8 @@
 <LM>w#w-d1t1700-3</LM>
 </w.rf>
 <form>Samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m136-d-id104590-punct">
 <w.rf>
@@ -3996,8 +3996,8 @@
 <LM>w#w-d1t1724-7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m136-d1t1724-8">
 <w.rf>
@@ -4689,7 +4689,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m136-d1t1774-2">
 <w.rf>
@@ -5282,8 +5282,8 @@
 <LM>w#w-d1t1816-9</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m136-d1t1818-1">
 <w.rf>
@@ -5485,7 +5485,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m136-d1t1827-9">
 <w.rf>

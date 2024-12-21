@@ -407,8 +407,8 @@
 <LM>w#w-ln94204-7-p2s4w2</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-7-p2s4w3">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 </w.rf>
 <form>specializuje</form>
 <lemma>specializovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94204-7-p2s4w12">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-7-p3s1w5">
 <src.rf>manual</src.rf>
@@ -762,8 +762,8 @@
 <LM>w#w-ln94204-7-p3s2w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-7-p3s2w14">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-ln94204-7-p3s3w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-ln94204-7-p3s3w4">
@@ -1438,8 +1438,8 @@
 <LM>w#w-ln94204-7-p4s3w14</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-7-p4s3w15">
 <src.rf>manual</src.rf>
@@ -2249,8 +2249,8 @@
 <LM>w#w-ln94204-7-p6s3w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-7-p6s3w9">
 <src.rf>manual</src.rf>
@@ -2867,7 +2867,7 @@
 <LM>w#w-ln94204-7-p6s6w7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-7-p6s6w8">
@@ -2995,8 +2995,8 @@
 <LM>w#w-ln94204-7-p7s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-7-p7s1w6">
 <src.rf>manual</src.rf>
@@ -3041,7 +3041,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln94204-7-p7s1w11">
 <src.rf>manual</src.rf>
@@ -3539,8 +3539,8 @@
 <LM>w#w-ln94204-7-p7s3w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-7-p7s3w10">
 <src.rf>manual</src.rf>

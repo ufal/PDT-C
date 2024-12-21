@@ -902,8 +902,8 @@
 <LM>w#w-ln94206-100-p2s5w7</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-100-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1210,8 +1210,8 @@
 <LM>w#w-ln94206-100-p2s6w22</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-100-p2s6w23">
 <src.rf>manual</src.rf>

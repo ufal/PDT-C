@@ -185,8 +185,8 @@
 <LM>w#w-ln94210-3-p2s1Bw12</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-3-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -376,8 +376,8 @@
 <LM>w#w-ln94210-3-p2s2w13</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94210-3-p2s2w14">
 <src.rf>manual</src.rf>

@@ -207,8 +207,8 @@
 <LM>w#w-wsj0434-001-p1s1W5</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0434-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -872,8 +872,8 @@
 <LM>w#w-wsj0434-001-p1s5W1</LM>
 </w.rf>
 <form>Právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0434-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1463,8 +1463,8 @@
 <LM>w#w-wsj0434-001-p1s8W3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0434-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1992,7 +1992,7 @@
 <LM>w#w-lnd91303-005-p5s8w12</LM>
 </w.rf>
 <form>oddychneme</form>
-<lemma>oddychnout</lemma>
+<lemma>oddychnout_,s_^(^DD**oddechnout)</lemma>
 <tag>VB-P---1P-AAP--</tag>
 </m>
 <m id="m-lnd91303-005-p5s8w13">
@@ -2571,7 +2571,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-005-p7s1w2">
 <src.rf>manual</src.rf>
@@ -3537,8 +3537,8 @@
 <LM>w#w-lnd91303-005-p8s4w5</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd91303-005-p8s4w6">
 <src.rf>manual</src.rf>
@@ -4881,7 +4881,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-005-p11s2w2">
 <src.rf>manual</src.rf>
@@ -5155,7 +5155,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-005-p12s1w2">
 <src.rf>manual</src.rf>

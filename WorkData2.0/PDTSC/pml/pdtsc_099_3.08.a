@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_099_3.08.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="ps_003.08-SCzechA-ps_003-11880-root">
 <s.rf>m#m003-11880</s.rf>
@@ -41,12 +44,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="ps_003.08-SCzechA-m-d-m-d1e2516-x2-punct-punct">
 <m.rf>m#m003-d-m-d1e2516-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>6</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -56,13 +59,15 @@
 <children>
 <LM id="ps_003.08-SCzechA-m-d1t2527-1">
 <m.rf>m#m003-d1t2527-1</m.rf>
-<afun>Pred</afun>
+<afun>Partl</afun>
 <ord>1</ord>
-</LM>
+<children>
 <LM id="ps_003.08-SCzechA-m-d-m-d1e2524-x2-punct-punct">
 <m.rf>m#m003-d-m-d1e2524-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>2</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -101,7 +106,7 @@
 </LM>
 <LM id="ps_003.08-SCzechA-m-d1t2531-7">
 <m.rf>m#m003-d1t2531-7</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>7</ord>
 <children>
 <LM id="ps_003.08-SCzechA-m-d1t2531-5">
@@ -113,12 +118,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="ps_003.08-SCzechA-m-d-m-d1e2528-x2-punct-punct">
 <m.rf>m#m003-d-m-d1e2528-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>8</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -133,13 +138,12 @@
 <children>
 <LM id="ps_003.08-SCzechA-m-d1t2539-1">
 <m.rf>m#m003-d1t2539-1</m.rf>
-<afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>AuxZ</afun>
 <ord>1</ord>
-</LM>
+<children>
 <LM id="ps_003.08-SCzechA-m-d-id136692-punct">
 <m.rf>m#m003-d-id136692-punct</m.rf>
-<afun>ExD</afun>
+<afun>AuxX</afun>
 <ord>2</ord>
 </LM>
 </children>
@@ -151,19 +155,23 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="ps_003.08-SCzechA-ps_003-d1e2532-x3-root">
 <s.rf>m#m003-d1e2532-x3</s.rf>
 <ord>0</ord>
 <children>
 <LM id="ps_003.08-SCzechA-m-d1t2541-1">
 <m.rf>m#m003-d1t2541-1</m.rf>
-<afun>Pred</afun>
+<afun>Partl</afun>
 <ord>1</ord>
-</LM>
+<children>
 <LM id="ps_003.08-SCzechA-m-d-m-d1e2532-x3-punct-punct">
 <m.rf>m#m003-d-m-d1e2532-x3-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>2</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -173,13 +181,15 @@
 <children>
 <LM id="ps_003.08-SCzechA-m-d1t2545-1">
 <m.rf>m#m003-d1t2545-1</m.rf>
-<afun>Pred</afun>
+<afun>Partl</afun>
 <ord>1</ord>
-</LM>
+<children>
 <LM id="ps_003.08-SCzechA-m-d-m-d1e2542-x2-punct-punct">
 <m.rf>m#m003-d-m-d1e2542-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>2</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

@@ -472,8 +472,8 @@
 <LM>w#w-wsj1398-001-p1s3W10</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1398-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -589,8 +589,8 @@
 <LM>w#w-wsj1398-001-p1s3W23</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1398-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -775,8 +775,8 @@
 <LM>w#w-wsj1398-001-p1s6W5</LM>
 </w.rf>
 <form>kázající</form>
-<lemma>kázající_^(*4t)</lemma>
-<tag>AGMS1-----A----</tag>
+<lemma>kázající-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1398-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>

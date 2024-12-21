@@ -561,7 +561,7 @@
 </w.rf>
 <form>dominoval</form>
 <lemma>dominovat</lemma>
-<tag>VpYS----R-AAB--</tag>
+<tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1243-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1513,8 +1513,8 @@
 <LM>w#w-wsj1243-001-p1s6W1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1243-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>

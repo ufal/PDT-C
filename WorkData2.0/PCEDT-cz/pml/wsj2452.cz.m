@@ -626,8 +626,8 @@
 <LM>w#w-wsj2452-001-p1s3W1</LM>
 </w.rf>
 <form>Obvinění</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj2452-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -881,8 +881,8 @@
 <LM>w#w-wsj2452-001-p1s4W4</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2452-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1274,8 +1274,8 @@
 <LM>w#w-wsj2452-001-p1s6W3</LM>
 </w.rf>
 <form>obviněných</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj2452-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>

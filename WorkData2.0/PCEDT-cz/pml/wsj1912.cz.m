@@ -304,7 +304,7 @@
 <LM>w#w-wsj1912-001-p1s0W33</LM>
 </w.rf>
 <form>vyjednavač</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1912-001-p1s0W34-Ta">
@@ -1012,8 +1012,8 @@
 <LM>w#w-wsj1912-001-p1s3W18</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1912-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>

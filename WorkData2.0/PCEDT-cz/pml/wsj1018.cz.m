@@ -743,8 +743,8 @@
 <LM>w#w-wsj1018-001-p1s3W6</LM>
 </w.rf>
 <form>vlastní</form>
-<lemma>vlastní</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1018-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1625,7 +1625,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1018-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>

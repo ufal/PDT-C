@@ -1740,8 +1740,8 @@
 <LM>w#w-mf920901-064-p4s2w5</LM>
 </w.rf>
 <form>tentokráte</form>
-<lemma>tentokrát</lemma>
-<tag>Db------------2</tag>
+<lemma>tentokráte_,s_^(^DD**tentokrát)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920901-064-p4s2w6">
 <src.rf>manual</src.rf>
@@ -3591,8 +3591,8 @@
 <LM>w#w-mf920901-064-p6s3w5</LM>
 </w.rf>
 <form>tentokráte</form>
-<lemma>tentokrát</lemma>
-<tag>Db------------2</tag>
+<lemma>tentokráte_,s_^(^DD**tentokrát)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920901-064-p6s3w6">
 <src.rf>manual</src.rf>

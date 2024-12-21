@@ -724,8 +724,8 @@
 <LM>w#w-ln95045-016-p2s5w1</LM>
 </w.rf>
 <form>Uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95045-016-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1113,8 +1113,8 @@
 <LM>w#w-ln95045-016-p2s6w29</LM>
 </w.rf>
 <form>rozhodně</form>
-<lemma>rozhodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>rozhodně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-016-p2s6w30">
 <src.rf>manual</src.rf>

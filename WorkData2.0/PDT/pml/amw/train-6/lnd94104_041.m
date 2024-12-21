@@ -621,8 +621,8 @@
 <LM>w#w-lnd94104-041-p1s5w19</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-041-p1s5w20">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-041-p1s7w3">
 <src.rf>manual</src.rf>

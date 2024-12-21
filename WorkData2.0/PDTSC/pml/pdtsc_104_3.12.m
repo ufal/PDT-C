@@ -36,8 +36,8 @@
 <LM>w#w-d1t2950-21</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m045-d1t2950-22">
 <w.rf>
@@ -162,8 +162,8 @@
 <LM>w#w-d1t2964-5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m045-d1t2964-7">
 <w.rf>
@@ -2112,7 +2112,7 @@
 <LM>w#w-d1t3068-17</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m045-d1t3068-19">
@@ -2162,7 +2162,7 @@
 <LM>w#w-d1t3068-22</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m045-d1t3068-23">
@@ -2386,8 +2386,8 @@
 <LM>w#w-d1t3095-4</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m045-d1t3095-5">
 <w.rf>
@@ -2486,7 +2486,7 @@
 <LM>w#w-d1t3099-4</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m045-d1t3099-5">
@@ -2536,7 +2536,7 @@
 <LM>w#w-d1t3099-9</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m045-d1t3099-10">
@@ -2586,7 +2586,7 @@
 <LM>w#w-d1t3099-16</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m045-d1t3099-15">

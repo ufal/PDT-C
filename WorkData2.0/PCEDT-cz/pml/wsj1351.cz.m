@@ -1027,7 +1027,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1351-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1143,8 +1143,8 @@
 <LM>w#w-wsj1351-001-p1s4W18</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1351-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>

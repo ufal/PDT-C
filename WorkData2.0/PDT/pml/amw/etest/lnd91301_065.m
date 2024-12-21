@@ -947,7 +947,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-065-p4s2w10">
 <src.rf>manual</src.rf>
@@ -2011,7 +2011,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-065-p5s4w24">
 <src.rf>manual</src.rf>
@@ -2302,8 +2302,8 @@
 <LM>w#w-lnd91301-065-p6s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd91301-065-p6s2w2">
 <src.rf>manual</src.rf>
@@ -2968,7 +2968,7 @@
 </w.rf>
 <form>citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd91301-065-p7s2w6">
 <src.rf>manual</src.rf>
@@ -4116,7 +4116,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-065-p8s5w3">
 <src.rf>manual</src.rf>

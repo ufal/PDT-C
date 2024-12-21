@@ -20,8 +20,8 @@
 <LM>w#w-d1t1803-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1805-2">
 <w.rf>
@@ -248,8 +248,8 @@
 <LM>w#w-d1t1816-6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1816-7">
 <w.rf>
@@ -453,7 +453,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m041-d1t1825-9">
 <w.rf>
@@ -722,8 +722,8 @@
 <LM>w#w-d1t1846-1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1846-3">
 <w.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-d1t1879-3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1879-4">
@@ -936,8 +936,8 @@
 <LM>w#w-d1t1879-4</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1879-5">
 <w.rf>
@@ -1026,8 +1026,8 @@
 <LM>w#w-d1t1891-5</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m041-d1t1891-7">
 <w.rf>
@@ -1574,8 +1574,8 @@
 <LM>w#w-d1t1947-1</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m041-d1e1940-x2-345">
 <w.rf>
@@ -1632,8 +1632,8 @@
 <LM>w#w-d1t1947-11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1947-14">
 <w.rf>
@@ -1682,8 +1682,8 @@
 <LM>w#w-d1t1951-1</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-350-352">
 <w.rf>
@@ -1814,8 +1814,8 @@
 <LM>w#w-d1t1964-4</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t1964-1">
 <w.rf>
@@ -1970,8 +1970,8 @@
 <LM>w#w-d1t1985-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d-m-d1e1978-x3-punct-punct">
 <w.rf>
@@ -2046,8 +2046,8 @@
 <LM>w#w-d1t1993-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1e1990-x2-378">
 <w.rf>
@@ -2549,7 +2549,7 @@
 </w.rf>
 <form>šest</form>
 <lemma>šest`6</lemma>
-<tag>Cl-S4----------</tag>
+<tag>Cl-S1----------</tag>
 </m>
 <m id="m041-d1t2038-3">
 <w.rf>
@@ -2565,7 +2565,7 @@
 </w.rf>
 <form>sedm</form>
 <lemma>sedm`7</lemma>
-<tag>Cl-S4----------</tag>
+<tag>Cl-S1----------</tag>
 </m>
 <m id="m041-d1t2038-5">
 <w.rf>
@@ -2812,8 +2812,8 @@
 <LM>w#w-d1t2067-8</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t2069-1">
 <w.rf>
@@ -3016,8 +3016,8 @@
 <LM>w#w-d1t2093-5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m041-d1t2095-1">
 <w.rf>
@@ -3338,8 +3338,8 @@
 <LM>w#w-d1t2117-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m041-d1t2117-4">
 <w.rf>
@@ -3484,7 +3484,7 @@
 <LM>w#w-101-102</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m041-d1t2129-11">
@@ -3630,7 +3630,7 @@
 <LM>w#w-d1t2135-3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m041-d1t2135-4">

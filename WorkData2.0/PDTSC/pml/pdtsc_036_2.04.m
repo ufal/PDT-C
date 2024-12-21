@@ -788,8 +788,8 @@
 <LM>w#w-d1t1381-3</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m994-d1t1383-1">
 <w.rf>
@@ -1524,8 +1524,8 @@
 <LM>w#w-d1t1459-5</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m994-d1t1459-3">
 <w.rf>
@@ -2642,8 +2642,8 @@
 <LM>w#w-d1e1509-x8-1341</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m994-d1t1551-2">
 <w.rf>

@@ -12,8 +12,8 @@
 <LM>w#w-d1t382-17</LM>
 </w.rf>
 <form>Akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t382-12">
 <w.rf>
@@ -880,8 +880,8 @@
 <LM>w#w-d1t430-15</LM>
 </w.rf>
 <form>Akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t430-16">
 <w.rf>
@@ -1124,8 +1124,8 @@
 <LM>w#w-d1t433-17</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t433-15">
 <w.rf>
@@ -1192,7 +1192,7 @@
 <LM>w#w-d1t433-25</LM>
 </w.rf>
 <form>vypjaté</form>
-<lemma>vypjatý</lemma>
+<lemma>vypjatý_,s_^(^DD**vypnutý)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m147-d1e419-x3-57">
@@ -1436,8 +1436,8 @@
 <LM>w#w-d1t439-11</LM>
 </w.rf>
 <form>vedle</form>
-<lemma>vedle-2</lemma>
-<tag>Db-------------</tag>
+<lemma>vedle-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m147-d1t439-12">
 <w.rf>
@@ -1445,7 +1445,7 @@
 </w.rf>
 <form>sebe</form>
 <lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P6--4----------</tag>
+<tag>P6--2----------</tag>
 </m>
 <m id="m147-62-63">
 <w.rf>
@@ -2663,8 +2663,8 @@
 <LM>w#w-d1t467-49</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-225-248">
 <w.rf>
@@ -3409,8 +3409,8 @@
 <LM>w#w-d1t487-1</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t487-3">
 <w.rf>

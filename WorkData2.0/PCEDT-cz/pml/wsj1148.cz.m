@@ -205,8 +205,8 @@
 <LM>w#w-wsj1148-001-p1s0W22</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1148-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -214,8 +214,8 @@
 <LM>w#w-wsj1148-001-p1s0W23</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1148-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1968,7 +1968,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1148-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>

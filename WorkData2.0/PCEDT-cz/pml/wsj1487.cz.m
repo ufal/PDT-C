@@ -759,8 +759,8 @@
 <LM>w#w-wsj1487-001-p1s2W16</LM>
 </w.rf>
 <form>obžalovaní</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj1487-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-wsj1487-001-p1s2W20</LM>
 </w.rf>
 <form>zmrazení</form>
-<lemma>zmrazení_^(*3it)</lemma>
+<lemma>zmrazení_^(^DD**zmražení)_(*3it)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-wsj1487-001-p1s2W21-Ta">

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_060.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -54,8 +54,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w8756f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41prbA</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p2s1w2">
 <a>
@@ -128,7 +128,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7782f2</val_frame.rf>
+<val_frame.rf>v#v41ntyB</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p2s1a0">
 <nodetype>qcomplex</nodetype>
@@ -195,7 +195,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w2617f1</val_frame.rf>
+<val_frame.rf>v#v41dvrA</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p2s1a2">
 <nodetype>qcomplex</nodetype>
@@ -321,7 +321,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w7782f2</val_frame.rf>
+<val_frame.rf>v#v41ntyB</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p3s1Bw2">
 <a>
@@ -465,7 +465,7 @@
 <type>GEN</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w2617f1</val_frame.rf>
+<val_frame.rf>v#v41dvrA</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p3s1Ba0">
 <nodetype>qcomplex</nodetype>
@@ -616,7 +616,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w9020f1</val_frame.rf>
+<val_frame.rf>v#v41qfcA</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p3s2w20">
 <a>
@@ -704,7 +704,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w4628f1</val_frame.rf>
+<val_frame.rf>v#v41hsaB</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p3s2w6">
 <a>
@@ -713,6 +713,7 @@ me to neni diskursni konektor</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -1060,7 +1061,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w6480f3</val_frame.rf>
+<val_frame.rf>v#v41lhzC</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p3s3w9">
 <a>
@@ -1175,7 +1176,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w6480f3</val_frame.rf>
+<val_frame.rf>v#v41lhzC</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p3s3w19">
 <a>
@@ -1294,7 +1295,7 @@ me to neni diskursni konektor</discourse_comment>
 <deepord>6</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
 <discourse_comment>free compositional phrase</discourse_comment>
-<val_frame.rf>v#v-w9420f1</val_frame.rf>
+<val_frame.rf>v#v41qzvA</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p4s1w1">
 <a>
@@ -1340,7 +1341,7 @@ me to neni diskursni konektor</discourse_comment>
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w9400f1</val_frame.rf>
+<val_frame.rf>v#v41qywA</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p4s1w2">
 <a>
@@ -1349,6 +1350,7 @@ me to neni diskursni konektor</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -1389,7 +1391,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w10004f1</val_frame.rf>
+<val_frame.rf>v#v41sdgA</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p4s1a0">
 <nodetype>qcomplex</nodetype>
@@ -1436,7 +1438,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w2937f1</val_frame.rf>
+<val_frame.rf>v#v41emfC</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p4s1w8">
 <a>
@@ -1445,6 +1447,7 @@ me to neni diskursni konektor</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -1783,7 +1786,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w9956f2</val_frame.rf>
+<val_frame.rf>v#v41sbaA</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p4s2w11">
 <a>
@@ -2030,7 +2033,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w9956f2</val_frame.rf>
+<val_frame.rf>v#v41sbaA</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p4s2a2">
 <nodetype>complex</nodetype>
@@ -2174,6 +2177,9 @@ me to neni diskursni konektor</discourse_comment>
 <LM id="t-mf930709-060-p4s3w9">
 <a>
 <lex.rf>a#a-mf930709-060-p4s3w9</lex.rf>
+<aux.rf>
+<LM>a#a-mf930709-060-p4s3w5</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vybírat</t_lemma>
@@ -2190,7 +2196,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w7782f2</val_frame.rf>
+<val_frame.rf>v#v41ntyB</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p4s3w4">
 <a>
@@ -2281,6 +2287,7 @@ me to neni diskursni konektor</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -2339,6 +2346,7 @@ me to neni diskursni konektor</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>šest</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>šest</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -2400,7 +2408,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w9273f1</val_frame.rf>
+<val_frame.rf>v#v41qsnE</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p5s1w2">
 <a>
@@ -2486,7 +2494,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w1693f2</val_frame.rf>
+<val_frame.rf>v#v41bzwD</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p5s1w6">
 <a>
@@ -2495,6 +2503,7 @@ me to neni diskursni konektor</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -2513,8 +2522,9 @@ me to neni diskursni konektor</discourse_comment>
 <lex.rf>a#a-mf930709-060-p5s1w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>pravidelný</t_lemma>
+<t_lemma>pravidelně</t_lemma>
 <functor>THO</functor>
+<proto_lemma>pravidelný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -2528,8 +2538,9 @@ me to neni diskursni konektor</discourse_comment>
 <lex.rf>a#a-mf930709-060-p5s1w7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>stejný</t_lemma>
+<t_lemma>stejně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>stejný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -2561,7 +2572,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w1693f2</val_frame.rf>
+<val_frame.rf>v#v41bzwD</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p5s1w9">
 <a>
@@ -2666,7 +2677,7 @@ me to neni diskursni konektor</discourse_comment>
 <type>GEN</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w2617f1</val_frame.rf>
+<val_frame.rf>v#v41dvrA</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p5s1a3">
 <nodetype>qcomplex</nodetype>
@@ -2745,6 +2756,7 @@ me to neni diskursni konektor</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -2758,7 +2770,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p5s2w2">
 <a>
@@ -3036,7 +3048,7 @@ me to neni diskursni konektor</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
-<val_frame.rf>v#v-w6492f1</val_frame.rf>
+<val_frame.rf>v#v41lilC</val_frame.rf>
 <children>
 <LM id="t-mf930709-060-p5s2w20">
 <a>

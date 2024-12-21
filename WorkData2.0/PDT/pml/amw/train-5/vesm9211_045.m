@@ -2154,7 +2154,7 @@
 <LM>w#w-vesm9211-045-p3s4Bw5</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-vesm9211-045-p3s4Bw6">

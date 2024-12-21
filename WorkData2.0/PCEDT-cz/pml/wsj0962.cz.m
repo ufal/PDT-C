@@ -404,7 +404,7 @@
 </w.rf>
 <form>sponzorovat</form>
 <lemma>sponzorovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj0962-001-p1s0W45-Ta">
 <src.rf>tagger-a</src.rf>
@@ -702,8 +702,8 @@
 <LM>w#w-wsj0962-001-p1s1W32</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0962-001-p1s1W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -848,8 +848,8 @@
 <LM>w#w-wsj0962-001-p1s2W7</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0962-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -857,8 +857,8 @@
 <LM>w#w-wsj0962-001-p1s2W8</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0962-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -995,7 +995,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0962-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1212,8 +1212,8 @@
 <LM>w#w-wsj0962-001-p1s4W16</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-1</lemma>
-<tag>PQ--1----------</tag>
+<lemma>co-3_^(když:_poté/od_té_doby,_co)</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj0962-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1557,7 +1557,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0962-001-p1s5W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1584,7 +1584,7 @@
 </w.rf>
 <form>na</form>
 <lemma>na-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj0962-001-p1s5W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3839,8 +3839,8 @@
 <LM>w#w-wsj0962-001-p1s16W7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-2</lemma>
-<tag>TT-------------</tag>
+<lemma>již-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0962-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4213,7 +4213,7 @@
 <LM>w#w-wsj0962-001-p1s18W12</LM>
 </w.rf>
 <form>mnohamilionový</form>
-<lemma>mnohamilionový_,s_^(^DD**mnohamiliónový)</lemma>
+<lemma>mnohamilionový_,s_^(^DD**mnohomiliónový)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-wsj0962-001-p1s18W13-Ta">

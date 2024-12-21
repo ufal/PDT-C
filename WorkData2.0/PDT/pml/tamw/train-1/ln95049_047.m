@@ -466,7 +466,7 @@
 <LM>w#w-ln95049-047-p2s2w9</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-047-p2s2w10">
@@ -1316,7 +1316,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-047-p4s1w3">
 <src.rf>manual</src.rf>

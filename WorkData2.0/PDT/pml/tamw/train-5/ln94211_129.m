@@ -558,8 +558,8 @@
 <LM>w#w-ln94211-129-p3s2w4</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-129-p3s2w5">
 <src.rf>manual</src.rf>
@@ -3381,8 +3381,8 @@
 <LM>w#w-ln94211-129-p6s3w16</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-129-p6s3w17">
 <src.rf>manual</src.rf>
@@ -3691,8 +3691,8 @@
 <LM>w#w-ln94211-129-p8s1w13</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-129-p8s1w14">
 <src.rf>manual</src.rf>
@@ -3700,8 +3700,8 @@
 <LM>w#w-ln94211-129-p8s1w14</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-129-p8s1w15">
 <src.rf>manual</src.rf>
@@ -3893,8 +3893,8 @@
 <LM>w#w-ln94211-129-p8s3w1</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-129-p8s3w2">
 <src.rf>manual</src.rf>

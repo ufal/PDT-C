@@ -2380,8 +2380,8 @@
 <LM>w#w-ln95040-063-p3s1w6</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-063-p3s1w7">
 <src.rf>manual</src.rf>
@@ -2389,8 +2389,8 @@
 <LM>w#w-ln95040-063-p3s1w7</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95040-063-p3s1w8">
 <src.rf>manual</src.rf>
@@ -2761,7 +2761,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-063-p3s2w30">
 <src.rf>manual</src.rf>

@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_091_3.11.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="ez_061.11-SCzechA-ez_061-d1e3813-x3-root">
 <s.rf>m#m061-d1e3813-x3</s.rf>
@@ -15,19 +18,20 @@
 <LM id="ez_061.11-SCzechA-m-d1t3820-1">
 <m.rf>m#m061-d1t3820-1</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <children>
 <LM id="ez_061.11-SCzechA-m-d1t3820-2">
 <m.rf>m#m061-d1t3820-2</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="ez_061.11-SCzechA-m-d-m-d1e3813-x3-punct-punct">
 <m.rf>m#m061-d-m-d1e3813-x3-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

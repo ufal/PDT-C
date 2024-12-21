@@ -1861,8 +1861,8 @@
 <LM>w#w-vesm9212-020-p7s1w14</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9212-020-p7s1w15">
 <src.rf>manual</src.rf>
@@ -2843,7 +2843,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9212-020-p8s1w6">
 <src.rf>manual</src.rf>

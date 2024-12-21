@@ -20,7 +20,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-lnd94105-065-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd94105-065-p1s2w27</LM>
 </w.rf>
 <form>mundúru</form>
-<lemma>mundúr</lemma>
+<lemma>mundúr_,l_^(^DD**mundůr)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94105-065-p1s2w28">
@@ -1292,7 +1292,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-065-p1s6w40">
 <src.rf>manual</src.rf>

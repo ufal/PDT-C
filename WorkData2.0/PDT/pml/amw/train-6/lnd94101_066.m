@@ -2682,7 +2682,7 @@
 <LM>w#w-lnd94101-066-p1s14w20</LM>
 </w.rf>
 <form>uvízly</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd94101-066-p1s14w21">

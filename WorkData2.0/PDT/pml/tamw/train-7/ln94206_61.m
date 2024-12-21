@@ -1689,8 +1689,8 @@
 <LM>w#w-ln94206-61-p4s2w1</LM>
 </w.rf>
 <form>Obžalovaný</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>obžalovaný-2_^(osoba)</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-61-p4s2w2">
 <src.rf>manual</src.rf>

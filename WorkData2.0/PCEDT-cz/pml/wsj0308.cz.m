@@ -561,7 +561,7 @@
 </w.rf>
 <form>přidružené</form>
 <lemma>přidružený_^(*3it)</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>AAFP1----1A----</tag>
 </m>
 <m id="m-wsj0308-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -570,7 +570,7 @@
 </w.rf>
 <form>společnosti</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj0308-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3436,7 +3436,7 @@
 <LM>w#w-wsj0308-001-p1s12W28</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj0308-001-p1s12W29-Ta">

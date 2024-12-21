@@ -28,8 +28,8 @@
 <LM>w#w-ln95049-093-p1s1w2</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-093-p1s1w3">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-093-p2s1Bw2">
 <src.rf>manual</src.rf>

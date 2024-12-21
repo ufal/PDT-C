@@ -4665,7 +4665,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-046-p18s4w6">
 <src.rf>manual</src.rf>
@@ -5654,8 +5654,8 @@
 <LM>w#w-vesm9303-046-p26s4w5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-046-p26s4w6">
 <src.rf>manual</src.rf>
@@ -5726,7 +5726,7 @@
 <LM>w#w-vesm9303-046-p26s4w13</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-046-p26s4w14">
@@ -5965,7 +5965,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-046-p26s6w2">
 <src.rf>manual</src.rf>
@@ -11383,7 +11383,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9303-046-p45s10w6">
 <src.rf>manual</src.rf>
@@ -14913,8 +14913,8 @@
 <LM>w#w-vesm9303-046-p59s3w1</LM>
 </w.rf>
 <form>Postupem</form>
-<lemma>postup</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>postupem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-046-p59s3w2">
 <src.rf>manual</src.rf>
@@ -15733,8 +15733,8 @@
 <LM>w#w-vesm9303-046-p59s8w9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-046-p59s8w10">
 <src.rf>manual</src.rf>
@@ -18608,8 +18608,8 @@
 <LM>w#w-vesm9303-046-p75s6w1</LM>
 </w.rf>
 <form>Následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9303-046-p75s6w2">
 <src.rf>manual</src.rf>
@@ -19014,8 +19014,8 @@
 <LM>w#w-vesm9303-046-p79s1w1</LM>
 </w.rf>
 <form>Zemřelí</form>
-<lemma>zemřelý_^(*3ít)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>zemřelý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9303-046-p79s1w2">
 <src.rf>manual</src.rf>
@@ -20372,7 +20372,7 @@
 <LM>w#w-vesm9303-046-p94s1w3</LM>
 </w.rf>
 <form>ferromagnetické</form>
-<lemma>ferromagnetický</lemma>
+<lemma>ferromagnetický_,s_^(^DD**feromagnetický)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-vesm9303-046-p94s1w4">

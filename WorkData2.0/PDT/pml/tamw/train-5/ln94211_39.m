@@ -715,8 +715,8 @@
 <LM>w#w-ln94211-39-p2s5w4</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-39-p2s5w5">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln94211-39-p2s6w4">
 <src.rf>manual</src.rf>

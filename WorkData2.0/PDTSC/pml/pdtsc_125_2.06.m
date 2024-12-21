@@ -228,16 +228,16 @@
 <LM>w#w-d1t1156-4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1156-5">
 <w.rf>
 <LM>w#w-d1t1156-5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m108-174-175">
 <w.rf>
@@ -612,8 +612,8 @@
 <LM>w#w-d1t1174-1</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-2</lemma>
-<tag>TT-------------</tag>
+<lemma>možná-1_^(snad)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m108-d1t1174-2">
 <w.rf>
@@ -960,8 +960,8 @@
 <LM>w#w-d1t1188-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1188-5">
 <w.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-d1t1208-3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1208-5">
@@ -2041,7 +2041,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m108-d1t1236-2">
 <w.rf>
@@ -2223,7 +2223,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1252-5">
 <w.rf>
@@ -2255,7 +2255,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m108-d1t1252-9">
 <w.rf>
@@ -2438,8 +2438,8 @@
 <LM>w#w-d1t1252-31</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m108-293-294">
 <w.rf>
@@ -2778,8 +2778,8 @@
 <LM>w#w-d1t1273-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1273-2">
 <w.rf>
@@ -3151,7 +3151,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m108-d1t1293-7">
 <w.rf>
@@ -3438,8 +3438,8 @@
 <LM>w#w-d1t1306-9</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1306-12">
 <w.rf>

@@ -1304,7 +1304,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_16-SCzechM-p1667-s1-w4">
 <w.rf>
@@ -1534,7 +1534,7 @@
 </w.rf>
 <form>vlaštovky</form>
 <lemma>vlaštovka</lemma>
-<tag>NNFP4-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="es_16-SCzechM-p1670-s1-w14">
 <w.rf>
@@ -2625,7 +2625,7 @@
 <LM>w#w-es_16-SCzechM-p1709-s1-w3</LM>
 </w.rf>
 <form>spojler</form>
-<lemma>spojler_,h</lemma>
+<lemma>spojler_,h_^(^GC**spoiler)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="es_16-SCzechM-p1709-s1-w4">
@@ -2709,8 +2709,8 @@
 <LM>w#w-es_16-SCzechM-p1716-s1-w1</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_16-SCzechM-p1716-s1-w2">
 <w.rf>

@@ -305,7 +305,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-048-p2s2w8">
 <src.rf>manual</src.rf>
@@ -367,8 +367,8 @@
 <LM>w#w-mf930713-048-p2s2w14</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-048-p2s2w15">
 <src.rf>manual</src.rf>

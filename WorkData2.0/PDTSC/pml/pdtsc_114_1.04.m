@@ -1736,8 +1736,8 @@
 <LM>w#w-d1t1878-3</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m941-d1t1878-2">
 <w.rf>
@@ -1880,8 +1880,8 @@
 <LM>w#w-d1t1893-5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m941-d1t1893-6">
 <w.rf>

@@ -403,8 +403,8 @@
 <LM>w#w-mf920924-111-p2s3w1</LM>
 </w.rf>
 <form>Sotva</form>
-<lemma>sotva-1</lemma>
-<tag>Db-------------</tag>
+<lemma>sotva-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920924-111-p2s3w2">
 <src.rf>manual</src.rf>

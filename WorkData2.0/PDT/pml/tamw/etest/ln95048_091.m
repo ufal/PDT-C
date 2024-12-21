@@ -649,7 +649,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-091-p3s1w24">
 <src.rf>manual</src.rf>
@@ -695,8 +695,8 @@
 <LM>w#w-ln95048-091-p3s2w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-091-p3s2w2">
 <src.rf>manual</src.rf>
@@ -794,8 +794,8 @@
 <LM>w#w-ln95048-091-p3s2w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-091-p3s2w13">
 <src.rf>manual</src.rf>
@@ -994,8 +994,8 @@
 <LM>w#w-ln95048-091-p3s3w16</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-091-p3s3w17">
 <src.rf>manual</src.rf>

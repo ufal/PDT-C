@@ -7692,7 +7692,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1161-001-p1s29W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11433,8 +11433,8 @@
 <LM>w#w-wsj1161-001-p1s43W4</LM>
 </w.rf>
 <form>stát</form>
-<lemma>stát-2_^(stanu_staneš)</lemma>
-<tag>Vf--------A-P--</tag>
+<lemma>stát-1_^(státní_útvar)</lemma>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj1161-001-p1s43W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13315,7 +13315,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1161-001-p1s51W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13522,7 +13522,7 @@
 <LM>w#w-wsj1161-001-p1s51W24</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIS4-----A----</tag>
 </m>
 <m id="m-wsj1161-001-p1s51W25-Ta">
@@ -14312,7 +14312,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1161-001-p1s54W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14519,7 +14519,7 @@
 <LM>w#w-wsj1161-001-p1s54W24</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIS4-----A----</tag>
 </m>
 <m id="m-wsj1161-001-p1s54W25-Ta">
@@ -15282,7 +15282,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1161-001-p1s57W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15489,7 +15489,7 @@
 <LM>w#w-wsj1161-001-p1s57W24</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIS4-----A----</tag>
 </m>
 <m id="m-wsj1161-001-p1s57W25-Ta">
@@ -16234,7 +16234,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1161-001-p1s60W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16504,7 +16504,7 @@
 <LM>w#w-wsj1161-001-p1s60W31</LM>
 </w.rf>
 <form>opravňující</form>
-<lemma>opravňující_^(*5ovat)</lemma>
+<lemma>opravňující_^(^DD**oprávňující)_(*5ovat)</lemma>
 <tag>AGIP4-----A----</tag>
 </m>
 <m id="m-wsj1161-001-p1s60W32-Ta">
@@ -17314,7 +17314,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1161-001-p1s63W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18039,7 +18039,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1161-001-p1s65W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18878,7 +18878,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj1161-001-p1s69W2-Ta">
 <src.rf>tagger-a</src.rf>

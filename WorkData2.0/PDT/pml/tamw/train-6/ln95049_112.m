@@ -277,8 +277,8 @@
 <LM>w#w-ln95049-112-p2s2w3</LM>
 </w.rf>
 <form>soutěžícími</form>
-<lemma>soutěžící_^(*3it)</lemma>
-<tag>AGMP7-----A----</tag>
+<lemma>soutěžící-2</lemma>
+<tag>NNMP7-----A----</tag>
 </m>
 <m id="m-ln95049-112-p2s2w4">
 <src.rf>manual</src.rf>
@@ -295,8 +295,8 @@
 <LM>w#w-ln95049-112-p2s2w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-112-p2s2w6">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-ln95049-112-p2s4w3">
 <src.rf>manual</src.rf>

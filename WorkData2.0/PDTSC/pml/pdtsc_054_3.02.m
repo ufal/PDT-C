@@ -448,8 +448,8 @@
 <LM>w#w-d1t426-2</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m140-d1t426-3">
 <w.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-d1t428-3</LM>
 </w.rf>
 <form>Bendového</form>
-<lemma>Bendův_;Y</lemma>
+<lemma>Bendův_;Y_^(*2a)</lemma>
 <tag>AUMS2M--------6</tag>
 </m>
 <m id="m140-d1t428-5">
@@ -504,7 +504,7 @@
 <LM>w#w-d1t428-8</LM>
 </w.rf>
 <form>Ticháčkového</form>
-<lemma>Ticháčkův_;Y</lemma>
+<lemma>Ticháčkův_;Y_^(*3ek)</lemma>
 <tag>AUMS2M--------6</tag>
 </m>
 <m id="m140-d1e417-x2-419">
@@ -646,8 +646,8 @@
 <LM>w#w-d1t437-15</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m140-d1t437-16">
 <w.rf>
@@ -1548,8 +1548,8 @@
 <LM>w#w-d1t503-3</LM>
 </w.rf>
 <form>Hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m140-d1t503-4">
 <w.rf>
@@ -2558,8 +2558,8 @@
 <LM>w#w-d1t553-7</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m140-d1t553-8">
 <w.rf>

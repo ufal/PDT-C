@@ -756,8 +756,8 @@
 <LM>w#w-ln94200-150-p3s1w16</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-150-p3s1w17">
 <src.rf>manual</src.rf>

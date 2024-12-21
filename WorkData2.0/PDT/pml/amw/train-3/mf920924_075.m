@@ -241,8 +241,8 @@
 <LM>w#w-mf920924-075-p3s2w4</LM>
 </w.rf>
 <form>statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP1----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP1---------1</tag>
 </m>
 <m id="m-mf920924-075-p3s2w5">
 <src.rf>manual</src.rf>

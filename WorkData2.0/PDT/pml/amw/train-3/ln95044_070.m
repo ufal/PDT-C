@@ -1902,7 +1902,7 @@
 </w.rf>
 <form>Hnutí</form>
 <lemma>hnutí_^(*3out)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS3-----A----</tag>
 </m>
 <m id="m-ln95044-070-p4s2w24">
 <src.rf>manual</src.rf>
@@ -4303,7 +4303,7 @@
 <LM>w#w-ln95044-070-p6s6w5</LM>
 </w.rf>
 <form>naladění</form>
-<lemma>naladěný</lemma>
+<lemma>naladěný_,s_^(^DD**nalazený)</lemma>
 <tag>AAMP1----1A----</tag>
 </m>
 <m id="m-ln95044-070-p6s6w6">
@@ -5205,7 +5205,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95044-070-p7s4w13">
 <src.rf>manual</src.rf>

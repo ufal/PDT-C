@@ -1026,7 +1026,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-009-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1824,8 +1824,8 @@
 <LM>w#w-lnd91303-009-p5s1w37</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91303-009-p5s1w38">
 <src.rf>manual</src.rf>

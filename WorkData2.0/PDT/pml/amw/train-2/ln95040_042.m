@@ -113,8 +113,8 @@
 <LM>w#w-ln95040-042-p2s1Bw7</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-042-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -2049,7 +2049,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-042-p3s6w25">
 <src.rf>manual</src.rf>
@@ -4128,7 +4128,6 @@
 <w.rf>
 <LM>w#w-ln95040-042-p5s5w13</LM>
 </w.rf>
-<form_change>spell</form_change>
 <form>nemusej</form>
 <lemma>muset</lemma>
 <tag>VB-P---3P-NAI-6</tag>

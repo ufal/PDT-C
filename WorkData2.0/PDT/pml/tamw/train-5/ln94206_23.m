@@ -877,8 +877,8 @@
 <LM>w#w-ln94206-23-p4s2w2</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-23-p4s2w3">
 <src.rf>manual</src.rf>
@@ -904,8 +904,8 @@
 <LM>w#w-ln94206-23-p4s2w5</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94206-23-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1603,8 +1603,8 @@
 <LM>w#w-ln94206-23-p5s2w4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94206-23-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1657,8 +1657,8 @@
 <LM>w#w-ln94206-23-p5s2w10</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-23-p5s2w11">
 <src.rf>manual</src.rf>

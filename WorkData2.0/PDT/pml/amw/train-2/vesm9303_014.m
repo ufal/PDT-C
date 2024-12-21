@@ -419,8 +419,8 @@
 <LM>w#w-vesm9303-014-p1s3w16</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-014-p1s3w17">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-vesm9303-014-p1s5w8</LM>
 </w.rf>
 <form>nepostradatelné</form>
-<lemma>postradatelný_^(*8ádat)</lemma>
+<lemma>postradatelný_,s_^(^DD**postrádatelný)</lemma>
 <tag>AAFP1----1N----</tag>
 </m>
 <m id="m-vesm9303-014-p1s5w9">

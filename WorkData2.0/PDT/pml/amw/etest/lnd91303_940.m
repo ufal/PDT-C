@@ -707,7 +707,7 @@
 <LM>w#w-lnd91303-940-p3s4w3</LM>
 </w.rf>
 <form>oddychli</form>
-<lemma>oddychnout</lemma>
+<lemma>oddychnout_,s_^(^DD**oddechnout)</lemma>
 <tag>VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd91303-940-p3s4w4">
@@ -1156,7 +1156,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91303-940-p3s7w2">
 <src.rf>manual</src.rf>

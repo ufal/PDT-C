@@ -102,8 +102,8 @@
 <LM>w#w-mf920901-109-p1s1Bw3</LM>
 </w.rf>
 <form>HLAVNĚ</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-109-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 <LM>w#w-mf920901-109-p2s2w3</LM>
 </w.rf>
 <form>ázerbájdžánských</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAMP2----1A----</tag>
 </m>
 <m id="m-mf920901-109-p2s2w4">
@@ -443,8 +443,8 @@
 <LM>w#w-mf920901-109-p2s4w8</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-109-p2s4w9">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-mf920901-109-p2s5w22</LM>
 </w.rf>
 <form>ázerbájdžánské</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-mf920901-109-p2s5w23">

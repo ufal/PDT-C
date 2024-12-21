@@ -488,7 +488,7 @@
 <LM>w#w-d1t1207-1</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m020-d1t1207-5">
@@ -1136,8 +1136,8 @@
 <LM>w#w-d1t1231-2</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m020-d1t1231-3">
 <w.rf>
@@ -1296,8 +1296,8 @@
 <LM>w#w-d1t1235-13</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m020-d1t1235-15">
 <w.rf>
@@ -1504,8 +1504,8 @@
 <LM>w#w-d1t1261-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m020-d1t1261-10">
 <w.rf>
@@ -1880,8 +1880,8 @@
 <LM>w#w-d1t1272-12</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m020-d1t1272-13">
 <w.rf>
@@ -2070,8 +2070,8 @@
 <LM>w#w-d1t1285-4</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m020-d1t1285-2">
 <w.rf>
@@ -2514,8 +2514,8 @@
 <LM>w#w-d1t1296-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m020-d1t1296-2">
 <w.rf>
@@ -3008,8 +3008,8 @@
 <LM>w#w-d1t1325-6</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m020-d1t1325-7">
 <w.rf>
@@ -3190,8 +3190,8 @@
 <LM>w#w-d1t1335-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m020-d1t1337-1">
 <w.rf>
@@ -4283,7 +4283,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m020-d1t1376-2">
 <w.rf>
@@ -4525,7 +4525,7 @@
 </w.rf>
 <form>něco</form>
 <lemma>něco</lemma>
-<tag>PK--4----------</tag>
+<tag>PK--1----------</tag>
 </m>
 <m id="m020-d1t1383-4">
 <w.rf>

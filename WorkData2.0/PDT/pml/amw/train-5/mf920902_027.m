@@ -111,8 +111,8 @@
 <LM>w#w-mf920902-027-p1s1Bw8</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-027-p1s1Bw9">
 <src.rf>manual</src.rf>
@@ -237,8 +237,8 @@
 <LM>w#w-mf920902-027-p1s1Bw22</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-027-p1s1Bw23">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-027-p1s7w4">
 <src.rf>manual</src.rf>

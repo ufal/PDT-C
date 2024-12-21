@@ -458,7 +458,7 @@
 </w.rf>
 <form>nereagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-ln95040-035-p2s3w14">
 <src.rf>manual</src.rf>
@@ -3490,7 +3490,7 @@
 </w.rf>
 <form>Věnujme</form>
 <lemma>věnovat</lemma>
-<tag>Vi-P---1--A-I--</tag>
+<tag>Vi-P---1--A-B--</tag>
 </m>
 <m id="m-ln95040-035-p2s23Bw2">
 <src.rf>manual</src.rf>
@@ -3717,7 +3717,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-035-p2s24w18">
 <src.rf>manual</src.rf>

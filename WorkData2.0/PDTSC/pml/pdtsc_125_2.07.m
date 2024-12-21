@@ -746,8 +746,8 @@
 <LM>w#w-d1t1351-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1351-5">
 <w.rf>
@@ -1522,16 +1522,16 @@
 <LM>w#w-d1t1388-4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1388-5">
 <w.rf>
 <LM>w#w-d1t1388-5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m108-d1t1388-1">
 <w.rf>
@@ -1668,8 +1668,8 @@
 <LM>w#w-d1t1388-21</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1388-22">
 <w.rf>
@@ -1922,8 +1922,8 @@
 <LM>w#w-d1t1398-21</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1398-25">
 <w.rf>
@@ -2528,7 +2528,7 @@
 <LM>w#w-d1t1436-4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1436-7">
@@ -2710,8 +2710,8 @@
 <LM>w#w-d1t1445-7</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-231-232">
 <w.rf>
@@ -2991,7 +2991,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m108-d1t1457-4">
 <w.rf>
@@ -3602,8 +3602,8 @@
 <LM>w#w-d1t1479-10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1479-12">
 <w.rf>
@@ -3718,7 +3718,7 @@
 <LM>w#w-d1t1483-8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m108-d1t1483-9">

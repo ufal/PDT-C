@@ -1119,7 +1119,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94101-016-p1s6w14">
 <src.rf>manual</src.rf>

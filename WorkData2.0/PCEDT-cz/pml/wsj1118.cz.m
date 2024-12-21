@@ -1388,8 +1388,8 @@
 <LM>w#w-wsj1118-001-p1s11W5</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1118-001-p1s11W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5238,8 +5238,8 @@
 <LM>w#w-wsj1118-001-p1s24W20</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1118-001-p1s24W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5320,8 +5320,8 @@
 <LM>w#w-wsj1118-001-p1s24W29</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1118-001-p1s24W30-Ta">
 <src.rf>tagger-a</src.rf>

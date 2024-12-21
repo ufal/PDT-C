@@ -122,8 +122,8 @@
 <LM>w#w-ln95047-095-p2s1Bw1</LM>
 </w.rf>
 <form>Především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-095-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -1745,8 +1745,8 @@
 <LM>w#w-ln95047-095-p3s5w25</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-1</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95047-095-p3s5w26">
 <src.rf>manual</src.rf>

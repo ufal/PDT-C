@@ -46,8 +46,8 @@
 <LM>w#w-lnd94103-032-p1s1w4</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-032-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <LM>w#w-lnd94103-032-p1s1w5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-032-p1s1w6">
 <src.rf>manual</src.rf>
@@ -450,8 +450,8 @@
 <LM>w#w-lnd94103-032-p1s5w10</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-032-p1s5w11">
 <src.rf>manual</src.rf>

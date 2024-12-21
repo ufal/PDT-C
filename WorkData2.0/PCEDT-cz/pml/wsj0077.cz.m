@@ -2114,8 +2114,8 @@
 <LM>w#w-wsj0077-001-p1s13W6</LM>
 </w.rf>
 <form>nepatrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nepatrně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj0077-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2447,7 +2447,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj0077-001-p1s16W18-Ta">
 <src.rf>tagger-a</src.rf>

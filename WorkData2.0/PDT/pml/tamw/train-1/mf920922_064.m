@@ -523,7 +523,7 @@
 </w.rf>
 <form>Blahopřejeme</form>
 <lemma>blahopřát</lemma>
-<tag>VB-P---1P-AAP--</tag>
+<tag>VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920922-064-p3s2w2">
 <src.rf>manual</src.rf>

@@ -356,7 +356,7 @@
 <LM>w#w-ln94202-135-p2s1Bw26</LM>
 </w.rf>
 <form>travní</form>
-<lemma>travní</lemma>
+<lemma>travní_,s_^(^DD**trávní)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-ln94202-135-p2s1Bw27">
@@ -1486,7 +1486,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-135-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1675,7 +1675,7 @@
 </w.rf>
 <form>každému</form>
 <lemma>každý</lemma>
-<tag>AAMS3----1A----</tag>
+<tag>PLMS3----------</tag>
 </m>
 <m id="m-ln94202-135-p3s4w24">
 <src.rf>manual</src.rf>
@@ -1757,8 +1757,8 @@
 <LM>w#w-ln94202-135-p3s5w3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-135-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1766,8 +1766,8 @@
 <LM>w#w-ln94202-135-p3s5w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-135-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1865,7 +1865,7 @@
 <LM>w#w-ln94202-135-p3s5w15</LM>
 </w.rf>
 <form>travní</form>
-<lemma>travní</lemma>
+<lemma>travní_,s_^(^DD**trávní)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-ln94202-135-p3s5w16">

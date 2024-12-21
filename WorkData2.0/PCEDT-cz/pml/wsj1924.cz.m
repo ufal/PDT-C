@@ -1062,7 +1062,7 @@
 <LM>w#w-wsj1924-001-p1s5W3</LM>
 </w.rf>
 <form>baseballové</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-wsj1924-001-p1s5W4-Ta">
@@ -4176,7 +4176,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1924-001-p1s20W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6163,8 +6163,8 @@
 <LM>w#w-wsj1924-001-p1s30W3</LM>
 </w.rf>
 <form>však</form>
-<lemma>však-2</lemma>
-<tag>TT-------------</tag>
+<lemma>však-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1924-001-p1s30W4-Ta">
 <src.rf>tagger-a</src.rf>

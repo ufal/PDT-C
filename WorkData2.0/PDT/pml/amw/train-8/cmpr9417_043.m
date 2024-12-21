@@ -1761,8 +1761,8 @@
 <LM>w#w-cmpr9417-043-p11s1w2</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-043-p11s1w3">
 <src.rf>manual</src.rf>
@@ -2271,8 +2271,8 @@
 <LM>w#w-cmpr9417-043-p11s4w9</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9417-043-p11s4w10">
 <src.rf>manual</src.rf>

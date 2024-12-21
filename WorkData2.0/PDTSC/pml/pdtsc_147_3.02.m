@@ -576,8 +576,8 @@
 <LM>w#w-d1t531-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t531-6">
 <w.rf>
@@ -1714,8 +1714,8 @@
 <LM>w#w-d1t610-4</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t610-2">
 <w.rf>
@@ -1756,8 +1756,8 @@
 <LM>w#w-d1t614-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t614-3">
 <w.rf>
@@ -1822,8 +1822,8 @@
 <LM>w#w-d1t619-5</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m117-d1t619-6">
 <w.rf>
@@ -2671,7 +2671,7 @@
 </w.rf>
 <form>dárek</form>
 <lemma>dárek</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m117-d1t687-3">
 <w.rf>

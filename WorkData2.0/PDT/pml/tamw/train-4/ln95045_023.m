@@ -1664,8 +1664,8 @@
 <LM>w#w-ln95045-023-p5s3w5</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-023-p5s3w6">
 <src.rf>manual</src.rf>

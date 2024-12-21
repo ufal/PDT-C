@@ -1323,7 +1323,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-054-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1570,7 +1570,7 @@
 </w.rf>
 <form>věnován</form>
 <lemma>věnovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-ln95043-054-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1662,7 +1662,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-054-p4s3w4">
 <src.rf>manual</src.rf>
@@ -3151,8 +3151,8 @@
 <LM>w#w-ln95043-054-p6s1w15</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95043-054-p6s1w16">
 <src.rf>manual</src.rf>
@@ -4527,7 +4527,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95043-054-p7s1w9">
 <src.rf>manual</src.rf>

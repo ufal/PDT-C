@@ -2438,8 +2438,8 @@
 <LM>w#w-wsj2450-001-p1s9W27</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně-2</lemma>
-<tag>TT-------------</tag>
+<lemma>stejně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj2450-001-p1s9W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2914,8 +2914,8 @@
 <LM>w#w-wsj2450-001-p1s12W12</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2450-001-p1s12W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2978,8 +2978,8 @@
 <LM>w#w-wsj2450-001-p1s12W19</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj2450-001-p1s12W20-Ta">
 <src.rf>tagger-a</src.rf>

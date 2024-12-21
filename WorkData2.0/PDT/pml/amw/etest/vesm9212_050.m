@@ -4754,7 +4754,7 @@
 <LM>w#w-vesm9212-050-p13s1w34</LM>
 </w.rf>
 <form>Kolumbově</form>
-<lemma>Kolumbův-1_;Y_^(*4us-1)</lemma>
+<lemma>Kolumbův_;Y_^(*2o)_(*2us-1)</lemma>
 <tag>AUFS6M---------</tag>
 </m>
 <m id="m-vesm9212-050-p13s1w35">
@@ -7778,7 +7778,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-050-p25s1w18">
 <src.rf>manual</src.rf>
@@ -7879,7 +7879,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-050-p25s2w10">
 <src.rf>manual</src.rf>
@@ -7969,7 +7969,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-050-p25s2w20">
 <src.rf>manual</src.rf>
@@ -8700,7 +8700,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-050-p26s3w18">
 <src.rf>manual</src.rf>
@@ -12011,7 +12011,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-050-p36s1w19">
 <src.rf>manual</src.rf>
@@ -12432,8 +12432,8 @@
 <LM>w#w-vesm9212-050-p36s4w10</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9212-050-p36s4w11">
 <src.rf>manual</src.rf>
@@ -13388,7 +13388,7 @@
 </w.rf>
 <form>aktivuje</form>
 <lemma>aktivovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9212-050-p40s1w3">
 <src.rf>manual</src.rf>
@@ -13934,7 +13934,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-050-p40s3w26">
 <src.rf>manual</src.rf>

@@ -88,8 +88,8 @@
 <LM>w#w-wsj2404-001-p1s0W9</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj2404-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -479,7 +479,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s1W21</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>12.6</form>
 <lemma>12.6</lemma>
 <tag>C=-------------</tag>
@@ -644,7 +643,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s2W9</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>10.4</form>
 <lemma>10.4</lemma>
 <tag>C=-------------</tag>
@@ -884,8 +882,8 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2404-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1075,8 +1073,8 @@
 <LM>w#w-wsj2404-001-p1s4W3</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2404-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1482,7 +1480,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s5W10</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>11.9</form>
 <lemma>11.9</lemma>
 <tag>C=-------------</tag>
@@ -2912,7 +2909,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s12W7</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>24.3</form>
 <lemma>24.3</lemma>
 <tag>C=-------------</tag>
@@ -2977,8 +2973,8 @@
 <LM>w#w-wsj2404-001-p1s12W14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2404-001-p1s12W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3003,7 +2999,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s12W17</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>28.7</form>
 <lemma>28.7</lemma>
 <tag>C=-------------</tag>
@@ -3224,7 +3219,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s14W5</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>3.2</form>
 <lemma>3.2</lemma>
 <tag>C=-------------</tag>
@@ -3779,8 +3773,8 @@
 <LM>w#w-wsj2404-001-p1s16W23</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2404-001-p1s16W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4261,7 +4255,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s19W9</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.8</form>
 <lemma>1.8</lemma>
 <tag>C=-------------</tag>
@@ -4316,7 +4309,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s19W15</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>2.4</form>
 <lemma>2.4</lemma>
 <tag>C=-------------</tag>
@@ -4409,7 +4401,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s20W5</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>7.5</form>
 <lemma>7.5</lemma>
 <tag>C=-------------</tag>
@@ -4682,7 +4673,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s21W15</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>4.3</form>
 <lemma>4.3</lemma>
 <tag>C=-------------</tag>
@@ -4803,7 +4793,6 @@
 <w.rf>
 <LM>w#w-wsj2404-001-p1s22W11</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>21.7</form>
 <lemma>21.7</lemma>
 <tag>C=-------------</tag>
@@ -5088,8 +5077,8 @@
 <LM>w#w-wsj2404-001-p1s24W4</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2404-001-p1s24W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5834,8 +5823,8 @@
 <LM>w#w-wsj2404-001-p1s28W1</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-33</lemma>
-<tag>Q3-------------</tag>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2404-001-p1s28W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5871,7 +5860,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2404-001-p1s28W6-Ta">
 <src.rf>tagger-a</src.rf>

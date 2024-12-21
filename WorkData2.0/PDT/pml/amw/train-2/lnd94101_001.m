@@ -279,8 +279,8 @@
 <LM>w#w-lnd94101-001-p1s1Ew3</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94101-001-p1s1Ew4">
 <src.rf>manual</src.rf>
@@ -2392,7 +2392,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-001-p1s12w6">
 <src.rf>manual</src.rf>

@@ -776,8 +776,8 @@
 <LM>w#w-d1t591-6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m114-d1t591-7">
 <w.rf>
@@ -1101,7 +1101,7 @@
 <LM>w#w-d1t595-23</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m114-d1t595-24">
@@ -1475,7 +1475,7 @@
 <LM>w#w-d1t620-3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m114-d1t620-1">
@@ -1589,8 +1589,8 @@
 <LM>w#w-d1t624-4</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t624-5">
 <w.rf>
@@ -2211,8 +2211,8 @@
 <LM>w#w-d1t656-2</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m114-d1t656-3">
 <w.rf>
@@ -2647,8 +2647,8 @@
 <LM>w#w-d1t667-1</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m114-d1t667-4">
 <w.rf>
@@ -3460,8 +3460,8 @@
 <LM>w#w-d1t696-30</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t696-31">
 <w.rf>
@@ -3500,8 +3500,8 @@
 <LM>w#w-220-222</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t698-4">
 <w.rf>
@@ -4068,8 +4068,8 @@
 <LM>w#w-d1t731-4</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m114-d1t731-5">
 <w.rf>
@@ -5649,8 +5649,8 @@
 <LM>w#w-d1t815-6</LM>
 </w.rf>
 <form>zrovna</form>
-<lemma>zrovna-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zrovna-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m114-d1t819-1">
 <w.rf>

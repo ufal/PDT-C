@@ -2119,7 +2119,7 @@
 </w.rf>
 <form>angažovalo</form>
 <lemma>angažovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf920901-103-p7s1w25">
 <src.rf>manual</src.rf>
@@ -2164,7 +2164,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-103-p7s1w30">
 <src.rf>manual</src.rf>
@@ -2865,7 +2865,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-103-p8s2w5">
 <src.rf>manual</src.rf>

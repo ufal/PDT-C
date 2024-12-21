@@ -2463,7 +2463,7 @@
 </w.rf>
 <form>zachovány</form>
 <lemma>zachovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920902-023-p2s13w46">
 <src.rf>manual</src.rf>

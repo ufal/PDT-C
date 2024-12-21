@@ -667,7 +667,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-42-p2s3w9">
 <src.rf>manual</src.rf>
@@ -904,8 +904,8 @@
 <LM>w#w-ln94208-42-p2s5w7</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-42-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1014,8 +1014,8 @@
 <LM>w#w-ln94208-42-p2s6w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-42-p2s6w5">
 <src.rf>manual</src.rf>

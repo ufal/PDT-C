@@ -1238,7 +1238,7 @@
 <LM>w#w-vesm9211-004-p5s1w4</LM>
 </w.rf>
 <form>zjednodušení</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9211-004-p5s1w5">
@@ -1934,7 +1934,7 @@
 <LM>w#w-vesm9211-004-p6s4w7</LM>
 </w.rf>
 <form>eukleidovské</form>
-<lemma>eukleidovský</lemma>
+<lemma>eukleidovský_,s_^(^DD**euklidovský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9211-004-p6s4w8">
@@ -2901,7 +2901,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-004-p8s3w13">
 <src.rf>manual</src.rf>
@@ -3501,7 +3501,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-004-p9s1w6">
 <src.rf>manual</src.rf>

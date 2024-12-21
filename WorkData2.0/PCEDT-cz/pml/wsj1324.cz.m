@@ -17,7 +17,7 @@
 </w.rf>
 <form>Společnosti</form>
 <lemma>společnost_^(*3ý)</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1324-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -471,7 +471,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj1324-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>

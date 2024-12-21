@@ -1091,7 +1091,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln95047-034-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AAMS7----1A----</tag>
+<tag>PLMS7----------</tag>
 </m>
 <m id="m-ln95047-034-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1654,8 +1654,8 @@
 <LM>w#w-ln95047-034-p4s6w10</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-034-p4s6w11">
 <src.rf>manual</src.rf>

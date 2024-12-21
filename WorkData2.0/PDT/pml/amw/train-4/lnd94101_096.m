@@ -396,8 +396,8 @@
 <LM>w#w-lnd94101-096-p1s5w12</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94101-096-p1s5w13">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94101-096-p1s6w5">
 <src.rf>manual</src.rf>

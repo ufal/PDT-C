@@ -687,7 +687,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0502-001-p1s2W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -759,7 +759,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-wsj0502-001-p1s2W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1332,7 +1332,7 @@
 </w.rf>
 <form>firmě</form>
 <lemma>firma</lemma>
-<tag>NNFS3-----A----</tag>
+<tag>NNFS6-----A----</tag>
 </m>
 <m id="m-wsj0502-001-p1s5W29-Ta">
 <src.rf>tagger-a</src.rf>

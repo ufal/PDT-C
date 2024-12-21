@@ -308,7 +308,7 @@
 <LM>w#w-d1t2499-7</LM>
 </w.rf>
 <form>ořechy</form>
-<lemma>ořech</lemma>
+<lemma>ořech-1</lemma>
 <tag>NNIP1-----A----</tag>
 </m>
 <m id="m138-d-id118594-punct">
@@ -390,8 +390,8 @@
 <LM>w#w-d1t2505-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m138-d1t2505-5">
 <w.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-d1t2568-2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m138-d1t2568-3">
@@ -1070,8 +1070,8 @@
 <LM>w#w-d1t2592-1</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m138-d1t2592-3">
 <w.rf>
@@ -1908,8 +1908,8 @@
 <LM>w#w-d1t2685-13</LM>
 </w.rf>
 <form>vyvolená</form>
-<lemma>vyvolený_^(*3it)</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>vyvolená-2_^(*3ý-2)</lemma>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m138-d-id123049-punct">
 <w.rf>
@@ -2216,8 +2216,8 @@
 <LM>w#w-d1t2718-8</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m138-d1t2718-9">
 <w.rf>
@@ -2598,8 +2598,8 @@
 <LM>w#w-d1t2764-5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m138-d1t2764-6">
 <w.rf>
@@ -3102,8 +3102,8 @@
 <LM>w#w-d1t2810-9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m138-d1t2812-1">
 <w.rf>

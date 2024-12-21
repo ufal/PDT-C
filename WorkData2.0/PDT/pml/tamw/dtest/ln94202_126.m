@@ -224,7 +224,7 @@
 </w.rf>
 <form>dominuje</form>
 <lemma>dominovat</lemma>
-<tag>VB-S---3P-AAB--</tag>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-126-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -414,8 +414,8 @@
 <LM>w#w-ln94202-126-p2s2w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-126-p2s2w16">
 <src.rf>manual</src.rf>
@@ -758,8 +758,8 @@
 <LM>w#w-ln94202-126-p2s3w16</LM>
 </w.rf>
 <form>domácí</form>
-<lemma>domácí-1</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>domácí-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94202-126-p2s3w17">
 <src.rf>manual</src.rf>
@@ -976,8 +976,8 @@
 <LM>w#w-ln94202-126-p2s4w15</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-126-p2s4w16">
 <src.rf>manual</src.rf>
@@ -1693,8 +1693,8 @@
 <LM>w#w-ln94202-126-p3s3w35</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-126-p3s3w36">
 <src.rf>manual</src.rf>
@@ -2003,8 +2003,8 @@
 <LM>w#w-ln94202-126-p4s2w17</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-126-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2833,8 +2833,8 @@
 <LM>w#w-ln94202-126-p5s2w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-126-p5s2w18">
 <src.rf>manual</src.rf>
@@ -4060,8 +4060,8 @@
 <LM>w#w-ln94202-126-p5s8w3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-126-p5s8w4">
 <src.rf>manual</src.rf>
@@ -4435,8 +4435,8 @@
 <LM>w#w-ln94202-126-p5s11w4</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-126-p5s11w5">
 <src.rf>manual</src.rf>

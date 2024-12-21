@@ -2597,8 +2597,8 @@
 <LM>w#w-wsj2165-001-p1s16W2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2165-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3162,7 +3162,7 @@
 </w.rf>
 <form>citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj2165-001-p1s18W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4765,8 +4765,8 @@
 <LM>w#w-wsj2165-001-p1s27W1</LM>
 </w.rf>
 <form>Doopravdy</form>
-<lemma>doopravdy-1</lemma>
-<tag>Db-------------</tag>
+<lemma>doopravdy-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2165-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4810,8 +4810,8 @@
 <LM>w#w-wsj2165-001-p1s27W6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2165-001-p1s27W7-Ta">
 <src.rf>tagger-a</src.rf>

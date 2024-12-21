@@ -154,8 +154,8 @@
 <LM>w#w-d1t1797-3</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m993-d1t1797-4">
 <w.rf>

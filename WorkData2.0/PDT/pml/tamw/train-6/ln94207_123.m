@@ -56,7 +56,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 </s>
 <s id="m-ln94207-123-p2s1A">
@@ -698,7 +698,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-123-p3s1w3">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 </w.rf>
 <form>Ulsteru</form>
 <lemma>Ulster_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-ln94207-123-p3s1w12">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-123-p4s1w8">
 <src.rf>manual</src.rf>

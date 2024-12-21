@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_007.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -37,8 +37,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w2313f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41dhaA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s1w1">
 <a>
@@ -196,7 +196,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w2310f1</val_frame.rf>
+<val_frame.rf>v#v41dgxA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s3w5">
 <a>
@@ -338,7 +338,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w5777f2</val_frame.rf>
+<val_frame.rf>v#v41jyxA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s3w11">
 <a>
@@ -515,8 +515,9 @@
 <lex.rf>a#a-lnd94103-007-p1s3w23</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>strategický</t_lemma>
+<t_lemma>strategicky</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>strategický</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -599,6 +600,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -691,7 +693,7 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <discourse_comment>free compositional phrase</discourse_comment>
-<val_frame.rf>v#v-w2934f1</val_frame.rf>
+<val_frame.rf>v#v41emcA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s4w2">
 <a>
@@ -774,7 +776,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w6954f1</val_frame.rf>
+<val_frame.rf>v#v41mesA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s4a3">
 <nodetype>qcomplex</nodetype>
@@ -798,6 +800,7 @@
 <lex.rf>a#a-lnd94103-007-p1s4w10</lex.rf>
 <aux.rf>
 <LM>a#a-lnd94103-007-p1s4w6</LM>
+<LM>a#a-lnd94103-007-p1s4w9</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -815,7 +818,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w6290f1</val_frame.rf>
+<val_frame.rf>v#v41kzfA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s4w8">
 <a>
@@ -964,13 +967,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-007-p1s4w16</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w6496f1</val_frame.rf>
+<val_frame.rf>v#v41lioA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s4w19">
 <a>
@@ -1001,6 +1005,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -1189,7 +1194,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w4990f1</val_frame.rf>
+<val_frame.rf>v#v41ikaA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s5w2">
 <a>
@@ -1308,7 +1313,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w6467f1</val_frame.rf>
+<val_frame.rf>v#v41lhkA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s5w9">
 <a>
@@ -1317,6 +1322,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -1652,7 +1658,7 @@
 nemá to tečku,
 může to být nadpis
 nebo součást 6</discourse_comment>
-<val_frame.rf>v#v-w2436f1</val_frame.rf>
+<val_frame.rf>v#v41dmsB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s6Bw1">
 <a>

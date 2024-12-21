@@ -2143,8 +2143,8 @@
 <LM>w#w-wsj1974-001-p1s12W13</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1974-001-p1s12W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5346,8 +5346,8 @@
 <LM>w#w-wsj1974-001-p1s23W4</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo-2</lemma>
-<tag>TT-------------</tag>
+<lemma>přímo</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m-wsj1974-001-p1s23W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5627,8 +5627,8 @@
 <LM>w#w-wsj1974-001-p1s24W19</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1974-001-p1s24W20-Ta">
 <src.rf>tagger-a</src.rf>

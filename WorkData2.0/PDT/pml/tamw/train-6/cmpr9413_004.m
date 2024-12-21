@@ -1124,8 +1124,8 @@
 <LM>w#w-cmpr9413-004-p6s2w3</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-004-p6s2w4">
 <src.rf>manual</src.rf>
@@ -1680,8 +1680,8 @@
 <LM>w#w-cmpr9413-004-p7s3w1</LM>
 </w.rf>
 <form>Již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-004-p7s3w2">
 <src.rf>manual</src.rf>
@@ -1910,8 +1910,8 @@
 <LM>w#w-cmpr9413-004-p7s5w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9413-004-p7s5w5">
 <src.rf>manual</src.rf>

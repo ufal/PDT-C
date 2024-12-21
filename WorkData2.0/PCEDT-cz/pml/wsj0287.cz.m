@@ -534,7 +534,7 @@
 </w.rf>
 <form>distribuovány</form>
 <lemma>distribuovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-wsj0287-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -978,8 +978,8 @@
 <LM>w#w-wsj0287-001-p1s4W28</LM>
 </w.rf>
 <form>Warner</form>
-<lemma>Warner-2_;m</lemma>
-<tag>NNIS1-----A----</tag>
+<lemma>Warner-77</lemma>
+<tag>F%-------------</tag>
 </m>
 <m id="m-wsj0287-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>

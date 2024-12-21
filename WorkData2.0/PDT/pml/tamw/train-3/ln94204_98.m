@@ -174,8 +174,8 @@
 <LM>w#w-ln94204-98-p2s1w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-98-p2s1w14">
 <src.rf>manual</src.rf>
@@ -230,8 +230,8 @@
 <LM>w#w-ln94204-98-p2s2w1</LM>
 </w.rf>
 <form>Koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94204-98-p2s2w2">
 <src.rf>manual</src.rf>
@@ -284,8 +284,8 @@
 <LM>w#w-ln94204-98-p2s2w7</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-98-p2s2w8">
 <src.rf>manual</src.rf>
@@ -473,8 +473,8 @@
 <LM>w#w-ln94204-98-p2s2w28</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-98-p2s2w29">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 </w.rf>
 <form>trefili</form>
 <lemma>trefit</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-98-p3s1w13">
 <src.rf>manual</src.rf>
@@ -893,8 +893,8 @@
 <LM>w#w-ln94204-98-p3s3w2</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-98-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1202,7 +1202,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-98-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1318,8 +1318,8 @@
 <LM>w#w-ln94204-98-p4s1w36</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-98-p4s1w37">
 <src.rf>manual</src.rf>
@@ -1419,8 +1419,8 @@
 <LM>w#w-ln94204-98-p4s2w9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-98-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1619,8 +1619,8 @@
 <LM>w#w-ln94204-98-p5s1w14</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-98-p5s1w15">
 <src.rf>manual</src.rf>

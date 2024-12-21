@@ -228,8 +228,8 @@
 <LM>w#w-mf920901-099-p2s1w16</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920901-099-p2s1w17">
 <src.rf>manual</src.rf>
@@ -2027,7 +2027,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-099-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2362,7 +2362,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-099-p5s1w24">
 <src.rf>manual</src.rf>
@@ -3809,7 +3809,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-099-p7s5w5">
 <src.rf>manual</src.rf>
@@ -3835,8 +3835,8 @@
 <LM>w#w-mf920901-099-p7s5w7</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-099-p7s5w8">
 <src.rf>manual</src.rf>
@@ -5494,8 +5494,8 @@
 <LM>w#w-mf920901-099-p10s1w32</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920901-099-p10s1w33">
 <src.rf>manual</src.rf>
@@ -5814,7 +5814,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-099-p10s3w13">
 <src.rf>manual</src.rf>

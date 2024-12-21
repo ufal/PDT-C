@@ -868,8 +868,8 @@
 <LM>w#w-wsj1614-001-p1s3W3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1614-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1438,8 +1438,8 @@
 <LM>w#w-wsj1614-001-p1s4W13</LM>
 </w.rf>
 <form>Hong</form>
-<lemma>Hong-77</lemma>
-<tag>F%-------------</tag>
+<lemma>Hong-1</lemma>
+<tag>S2--------A----</tag>
 </m>
 <m id="m-wsj1614-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1448,7 +1448,7 @@
 </w.rf>
 <form>Kongu</form>
 <lemma>Kong-2_;G</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1614-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4245,8 +4245,8 @@
 <LM>w#w-wsj1614-001-p1s16W4</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1614-001-p1s16W5-Ta">
 <src.rf>tagger-a</src.rf>

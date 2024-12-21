@@ -61,8 +61,8 @@
 <LM>w#w-wsj0360-001-p1s0W6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0360-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3767,8 +3767,8 @@
 <LM>w#w-wsj0360-001-p1s16W4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0360-001-p1s16W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5271,7 +5271,7 @@
 <LM>w#w-wsj0360-001-p1s21W4</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0360-001-p1s21W5-Ta">
@@ -5725,8 +5725,8 @@
 <LM>w#w-wsj0360-001-p1s23W9</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ani-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0360-001-p1s23W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5952,8 +5952,8 @@
 <LM>w#w-wsj0360-001-p1s24W16</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0360-001-p1s24W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6090,7 +6090,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AANS2----1A----</tag>
+<tag>PLNS2----------</tag>
 </m>
 <m id="m-wsj0360-001-p1s25W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7045,7 +7045,7 @@
 </w.rf>
 <form>důsledky</form>
 <lemma>důsledek</lemma>
-<tag>NNIP7-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-wsj0360-001-p1s30W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7931,7 +7931,7 @@
 </w.rf>
 <form>cituje</form>
 <lemma>citovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj0360-001-p1s32W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8274,7 +8274,7 @@
 <LM>w#w-wsj0360-001-p1s33W21</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-wsj0360-001-p1s33W22-Ta">

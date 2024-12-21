@@ -578,8 +578,8 @@
 <LM>w#w-d1t2500-7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t2500-8">
 <w.rf>
@@ -1072,8 +1072,8 @@
 <LM>w#w-d1t2526-1</LM>
 </w.rf>
 <form>Fajn</form>
-<lemma>fajn-3</lemma>
-<tag>TT-------------</tag>
+<lemma>fajn-2</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m100-d-m-d1e2521-x2-punct-punct">
 <w.rf>
@@ -1214,7 +1214,7 @@
 <LM>w#w-d1t2538-5</LM>
 </w.rf>
 <form>mikrofon</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m100-790-791">

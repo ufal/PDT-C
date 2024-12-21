@@ -1884,8 +1884,8 @@
 <LM>w#w-wsj1109-001-p1s7W11</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1109-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3029,7 +3029,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1109-001-p1s12W6-Ta">
 <src.rf>tagger-a</src.rf>

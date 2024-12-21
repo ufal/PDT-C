@@ -1610,7 +1610,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-016-p8s2w3">
 <src.rf>manual</src.rf>
@@ -5537,7 +5537,7 @@
 </w.rf>
 <form>věnováno</form>
 <lemma>věnovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-cmpr9417-016-p19s5w5">
 <src.rf>manual</src.rf>

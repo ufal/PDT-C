@@ -545,7 +545,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0953-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1369,8 +1369,8 @@
 <LM>w#w-wsj0953-001-p1s5W15</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0953-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1378,7 +1378,7 @@
 <LM>w#w-wsj0953-001-p1s5W16</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-wsj0953-001-p1s5W17-Ta">
@@ -1826,7 +1826,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-wsj0953-001-p1s8W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3291,7 +3291,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0953-001-p1s16W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3968,8 +3968,8 @@
 <LM>w#w-wsj0953-001-p1s21W2</LM>
 </w.rf>
 <form>nabízející</form>
-<lemma>nabízející_^(*4t)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>nabízející-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj0953-001-p1s21W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4740,8 +4740,8 @@
 <LM>w#w-wsj0953-001-p1s24W4</LM>
 </w.rf>
 <form>nabízející</form>
-<lemma>nabízející_^(*4t)</lemma>
-<tag>AGMP1-----A----</tag>
+<lemma>nabízející-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj0953-001-p1s24W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5757,7 +5757,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0953-001-p1s30W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5830,8 +5830,8 @@
 <LM>w#w-wsj0953-001-p1s31W4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0953-001-p1s31W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6059,7 +6059,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0953-001-p1s32W7-Ta">
 <src.rf>tagger-a</src.rf>

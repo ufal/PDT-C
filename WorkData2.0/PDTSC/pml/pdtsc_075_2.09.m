@@ -1748,7 +1748,7 @@
 <LM>w#w-d1t2581-18</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m009-d1t2581-17">
@@ -2226,8 +2226,8 @@
 <LM>w#w-d1t2635-4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m009-d1t2635-5">
 <w.rf>
@@ -2399,7 +2399,7 @@
 </w.rf>
 <form>mě</form>
 <lemma>já</lemma>
-<tag>PH-S4--1-------</tag>
+<tag>PH-S2--1-------</tag>
 </m>
 <m id="m009-d1t2635-31">
 <w.rf>
@@ -2552,8 +2552,8 @@
 <LM>w#w-d1t2653-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m009-d1t2653-4">
 <w.rf>
@@ -2682,8 +2682,8 @@
 <LM>w#w-d1t2659-2</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m009-d1t2659-4">
 <w.rf>
@@ -2722,8 +2722,8 @@
 <LM>w#w-d1t2661-3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m009-d1t2661-5">
 <w.rf>
@@ -2870,8 +2870,8 @@
 <LM>w#w-d1t2675-11</LM>
 </w.rf>
 <form>Vždyť</form>
-<lemma>vždyť-2</lemma>
-<tag>TT-------------</tag>
+<lemma>vždyť-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m009-d1t2675-12">
 <w.rf>
@@ -2926,8 +2926,8 @@
 <LM>w#w-d1t2675-20</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m009-d1t2675-21">
 <w.rf>
@@ -3076,8 +3076,8 @@
 <LM>w#w-d1t2683-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m009-3051-3062">
 <w.rf>
@@ -3313,7 +3313,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m009-d1t2703-2">
 <w.rf>

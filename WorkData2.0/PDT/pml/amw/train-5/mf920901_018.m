@@ -595,7 +595,7 @@
 </w.rf>
 <form>konzumuje</form>
 <lemma>konzumovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf920901-018-p3s1w11">
 <src.rf>manual</src.rf>

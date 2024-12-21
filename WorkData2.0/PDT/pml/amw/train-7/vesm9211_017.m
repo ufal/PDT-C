@@ -3614,7 +3614,7 @@
 </w.rf>
 <form>specializován</form>
 <lemma>specializovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-vesm9211-017-p8s1w20">
 <src.rf>manual</src.rf>
@@ -10205,7 +10205,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-017-p12s3w40">
 <src.rf>manual</src.rf>
@@ -11048,7 +11048,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-017-p13s2w16">
 <src.rf>manual</src.rf>

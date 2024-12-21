@@ -1630,7 +1630,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2077-001-p1s5W18-Ta">
 <src.rf>tagger-a</src.rf>

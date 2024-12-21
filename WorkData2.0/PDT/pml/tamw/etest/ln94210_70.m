@@ -541,7 +541,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-70-p2s4w14">
 <src.rf>manual</src.rf>
@@ -605,8 +605,8 @@
 <LM>w#w-ln94210-70-p2s5w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-70-p2s5w2">
 <src.rf>manual</src.rf>

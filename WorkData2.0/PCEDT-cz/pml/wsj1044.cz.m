@@ -1335,8 +1335,8 @@
 <LM>w#w-wsj1044-001-p1s7W8</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1044-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4476,7 +4476,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1044-001-p1s22W19-Ta">
 <src.rf>tagger-a</src.rf>

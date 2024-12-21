@@ -725,7 +725,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1762-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>

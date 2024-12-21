@@ -489,7 +489,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd94105-037-p1s21w7">
 <src.rf>manual</src.rf>
@@ -1772,8 +1772,8 @@
 <LM>w#w-lnd94105-037-p1s33w11</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-037-p1s33w12">
 <src.rf>manual</src.rf>

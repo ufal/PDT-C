@@ -817,7 +817,7 @@
 <LM>w#w-wsj1592-001-p1s4W6</LM>
 </w.rf>
 <form>folie</form>
-<lemma>folie</lemma>
+<lemma>folie_,s_^(^DD**fólie)</lemma>
 <tag>NNFP4-----A----</tag>
 </m>
 <m id="m-wsj1592-001-p1s4W7-Ta">

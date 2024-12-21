@@ -61,7 +61,7 @@
 <LM>w#w-wsj1610-001-p1s0W6</LM>
 </w.rf>
 <form>zbrzděná</form>
-<lemma>zbrzděný</lemma>
+<lemma>zbrzděný_,s_^(^DD**zbržděný)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-wsj1610-001-p1s0W7-Ta">

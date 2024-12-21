@@ -507,7 +507,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1982-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -552,7 +552,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1982-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

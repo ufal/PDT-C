@@ -28,8 +28,8 @@
 <LM>w#w-mf920922-122-p1s1w2</LM>
 </w.rf>
 <form>co</form>
-<lemma>co-2_^(cože;_ale_co)</lemma>
-<tag>TT-------------</tag>
+<lemma>co-1</lemma>
+<tag>PQ--1----------</tag>
 </m>
 <m id="m-mf920922-122-p1s1w3">
 <src.rf>manual</src.rf>
@@ -632,8 +632,8 @@
 <LM>w#w-mf920922-122-p2s5w12</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-122-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1052,8 +1052,8 @@
 <LM>w#w-mf920922-122-p2s8w2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-122-p2s8w3">
 <src.rf>manual</src.rf>
@@ -2243,8 +2243,8 @@
 <LM>w#w-mf920922-122-p2s14w2</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920922-122-p2s14w3">
 <src.rf>manual</src.rf>
@@ -2679,8 +2679,8 @@
 <LM>w#w-mf920922-122-p2s16w14</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-122-p2s16w15">
 <src.rf>manual</src.rf>
@@ -2964,8 +2964,8 @@
 <LM>w#w-mf920922-122-p2s19w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920922-122-p2s19w2">
 <src.rf>manual</src.rf>
@@ -3465,8 +3465,8 @@
 <LM>w#w-mf920922-122-p2s22w4</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-122-p2s22w5">
 <src.rf>manual</src.rf>
@@ -4148,7 +4148,7 @@
 <LM>w#w-mf920922-122-p2s26w8</LM>
 </w.rf>
 <form>neodvratitelným</form>
-<lemma>odvratitelný_^(*8átit)</lemma>
+<lemma>odvratitelný_,s_^(^DD**odvrátitelný)</lemma>
 <tag>AAIS7----1N----</tag>
 </m>
 <m id="m-mf920922-122-p2s26w9">

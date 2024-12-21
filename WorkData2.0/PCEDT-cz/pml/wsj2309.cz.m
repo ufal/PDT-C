@@ -2894,8 +2894,8 @@
 <LM>w#w-wsj2309-001-p1s11W14</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2309-001-p1s11W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3548,7 +3548,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2309-001-p1s13W20-Ta">
 <src.rf>tagger-a</src.rf>

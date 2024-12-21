@@ -234,8 +234,8 @@
 <LM>w#w-mu_03-SCzechM-p0199-s1-w19</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="mu_03-SCzechM-p0199-s1-w20">
 <w.rf>
@@ -545,8 +545,8 @@
 <LM>w#w-mu_03-SCzechM-p0206-s1-w9</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_03-SCzechM-p0206-s1-w10">
 <w.rf>
@@ -950,7 +950,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_03-SCzechM-p0211-s1-w16">
 <w.rf>
@@ -1590,7 +1590,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="mu_03-SCzechM-p0232-s1-w12">
 <w.rf>
@@ -2106,8 +2106,8 @@
 <LM>w#w-mu_03-SCzechM-p0245-s1-w2</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="mu_03-SCzechM-p0245-s1-w3">
 <w.rf>
@@ -2300,8 +2300,8 @@
 <LM>w#w-mu_03-SCzechM-p0247-s1-w22</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_03-SCzechM-p0247-s1-w23">
 <w.rf>
@@ -2462,8 +2462,8 @@
 <LM>w#w-mu_03-SCzechM-p0248-s1-w5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_03-SCzechM-p0248-s1-w6">
 <w.rf>
@@ -2790,7 +2790,7 @@
 <LM>w#w-mu_03-SCzechM-p0258-s1-w9</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="mu_03-SCzechM-p0258-s1-w10">
@@ -3495,7 +3495,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_03-SCzechM-p0282-s1-w4">
 <w.rf>
@@ -3588,8 +3588,8 @@
 <LM>w#w-mu_03-SCzechM-p0288-s1-w1</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_03-SCzechM-p0288-s1-w2">
 <w.rf>
@@ -3762,8 +3762,8 @@
 <LM>w#w-mu_03-SCzechM-p0298-s1-w1</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_03-SCzechM-p0298-s1-w2">
 <w.rf>

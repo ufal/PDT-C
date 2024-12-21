@@ -65,7 +65,7 @@
 </w.rf>
 <form>nebezpečí</form>
 <lemma>nebezpečí</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-050-p2s1">
@@ -2702,8 +2702,8 @@
 <LM>w#w-vesm9303-050-p6s2w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-050-p6s2w3">
 <src.rf>manual</src.rf>
@@ -3581,8 +3581,8 @@
 <LM>w#w-vesm9303-050-p6s5w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9303-050-p6s5w4">
 <src.rf>manual</src.rf>
@@ -5370,7 +5370,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-050-p9s3w4">
 <src.rf>manual</src.rf>
@@ -7218,7 +7218,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-050-p9s8w39">
 <src.rf>manual</src.rf>
@@ -7319,7 +7319,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-050-p10s1w2">
 <src.rf>manual</src.rf>
@@ -8760,8 +8760,8 @@
 <LM>w#w-vesm9303-050-p12s4w2</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-050-p12s4w3">
 <src.rf>manual</src.rf>
@@ -10899,7 +10899,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-050-p16s1w13">
 <src.rf>manual</src.rf>
@@ -11899,7 +11899,7 @@
 <LM>w#w-vesm9303-050-p16s6w10</LM>
 </w.rf>
 <form>koktail</form>
-<lemma>koktail</lemma>
+<lemma>koktail_,s_^(^DD**koktejl)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9303-050-p16s6w11">
@@ -12100,7 +12100,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-050-p16s7w7">
 <src.rf>manual</src.rf>
@@ -12673,7 +12673,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-050-p18s2w2">
 <src.rf>manual</src.rf>
@@ -13544,8 +13544,8 @@
 <LM>w#w-vesm9303-050-p18s6w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-050-p18s6w5">
 <src.rf>manual</src.rf>
@@ -13837,7 +13837,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-050-p19s2w8">
 <src.rf>manual</src.rf>
@@ -16239,7 +16239,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-050-p21s4w21">
 <src.rf>manual</src.rf>
@@ -16830,7 +16830,7 @@
 </w.rf>
 <form>napomoci</form>
 <lemma>napomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9303-050-p21s7w10">
 <src.rf>manual</src.rf>

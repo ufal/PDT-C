@@ -2785,7 +2785,7 @@
 <LM>w#w-ln95044-017-p3s14w6</LM>
 </w.rf>
 <form>vleklé</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-ln95044-017-p3s14w7">

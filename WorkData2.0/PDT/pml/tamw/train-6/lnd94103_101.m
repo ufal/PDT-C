@@ -501,7 +501,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-lnd94103-101-p1s3w2">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s3w10">
 <src.rf>manual</src.rf>
@@ -1429,8 +1429,8 @@
 <LM>w#w-lnd94103-101-p1s7w2</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s7w3">
 <src.rf>manual</src.rf>
@@ -2608,8 +2608,8 @@
 <LM>w#w-lnd94103-101-p1s11w34</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s11w35">
 <src.rf>manual</src.rf>
@@ -2653,7 +2653,7 @@
 <LM>w#w-lnd94103-101-p1s11w39</LM>
 </w.rf>
 <form>mnohavrstevnou</form>
-<lemma>mnohavrstevný</lemma>
+<lemma>mnohavrstevný_,s_^(^DD**mnohovrstevný)</lemma>
 <tag>AAFS7----1A----</tag>
 </m>
 <m id="m-lnd94103-101-p1s11w40">
@@ -2799,7 +2799,7 @@
 <LM>w#w-lnd94103-101-p1s12w14</LM>
 </w.rf>
 <form>jazzových</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIP6----1A----</tag>
 </m>
 <m id="m-lnd94103-101-p1s12w15">
@@ -2891,7 +2891,7 @@
 <LM>w#w-lnd94103-101-p1s13w5</LM>
 </w.rf>
 <form>piano</form>
-<lemma>piano</lemma>
+<lemma>piano_,s_^(^DD**piáno)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94103-101-p1s13w6">
@@ -3127,7 +3127,7 @@
 <LM>w#w-lnd94103-101-p1s14w15</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať</lemma>
+<lemma>ať-3</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s14w16">
@@ -3136,8 +3136,8 @@
 <LM>w#w-lnd94103-101-p1s14w16</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s14w17">
 <src.rf>manual</src.rf>
@@ -3307,7 +3307,7 @@
 <LM>w#w-lnd94103-101-p1s14w35</LM>
 </w.rf>
 <form>piano</form>
-<lemma>piano</lemma>
+<lemma>piano_,s_^(^DD**piáno)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-101-p1s14w36">
@@ -3608,8 +3608,8 @@
 <LM>w#w-lnd94103-101-p1s16w6</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvlášť-2_,s_^(^DD**zvláště-2)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s16w7">
 <src.rf>manual</src.rf>
@@ -3626,8 +3626,8 @@
 <LM>w#w-lnd94103-101-p1s16w8</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-101-p1s16w9">
 <src.rf>manual</src.rf>

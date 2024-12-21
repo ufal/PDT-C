@@ -2445,7 +2445,7 @@
 <LM>w#w-mf920924-094-p2s15w19</LM>
 </w.rf>
 <form>zjednodušení</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-mf920924-094-p2s15w20">
@@ -2985,7 +2985,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-094-p2s19w5">
 <src.rf>manual</src.rf>

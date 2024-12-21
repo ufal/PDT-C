@@ -318,8 +318,8 @@
 <LM>w#w-d1t1688-4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t1688-5">
 <w.rf>
@@ -776,8 +776,8 @@
 <LM>w#w-151-152</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t1713-19">
 <w.rf>
@@ -949,7 +949,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t1715-21">
 <w.rf>
@@ -1270,7 +1270,7 @@
 <LM>w#w-d1t1734-1</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m100-d1t1734-4">
@@ -2598,8 +2598,8 @@
 <LM>w#w-d1t1803-8</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t1803-9">
 <w.rf>
@@ -3100,7 +3100,7 @@
 <LM>w#w-d1t1826-6</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m100-d1t1826-7">
@@ -3158,8 +3158,8 @@
 <LM>w#w-d1t1826-16</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t1828-1">
 <w.rf>
@@ -3554,8 +3554,8 @@
 <LM>w#w-d1t1856-6</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m100-d1t1856-7">
 <w.rf>
@@ -3594,8 +3594,8 @@
 <LM>w#w-d1t1853-3</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m100-d1t1856-3">
 <w.rf>
@@ -3642,8 +3642,8 @@
 <LM>w#w-d1t1856-12</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m100-d1t1856-13">
 <w.rf>

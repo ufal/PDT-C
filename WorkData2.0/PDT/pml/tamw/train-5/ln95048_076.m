@@ -519,7 +519,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln95048-076-p1s2Bw15">
 <src.rf>manual</src.rf>
@@ -655,8 +655,8 @@
 <LM>w#w-ln95048-076-p1s3w13</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-076-p1s3w14">
 <src.rf>manual</src.rf>

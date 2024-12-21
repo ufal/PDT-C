@@ -98,7 +98,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-071-p4s1w2">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 <LM>w#w-lnd91301-071-p4s1w11</LM>
 </w.rf>
 <form>vybuchla</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd91301-071-p4s1w12">

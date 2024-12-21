@@ -930,7 +930,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-31-p3s2w18">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-ln94202-31-p3s2w21</LM>
 </w.rf>
 <form>Francově</form>
-<lemma>Francův_;Y_^(*2)_(*2o)</lemma>
+<lemma>Francův_;Y_^(*2)</lemma>
 <tag>AUFS6M---------</tag>
 </m>
 <m id="m-ln94202-31-p3s2w22">

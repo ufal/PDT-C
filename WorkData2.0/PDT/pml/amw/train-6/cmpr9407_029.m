@@ -388,7 +388,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9407-029-p5s2w4">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-cmpr9407-029-p5s4w4</LM>
 </w.rf>
 <form>umisťuji</form>
-<lemma>umisťovat</lemma>
+<lemma>umisťovat_,s_^(^DD**umísťovat)</lemma>
 <tag>VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-cmpr9407-029-p5s4w5">
@@ -1704,8 +1704,8 @@
 <LM>w#w-cmpr9407-029-p7s1w8</LM>
 </w.rf>
 <form>vedle</form>
-<lemma>vedle-2</lemma>
-<tag>Db-------------</tag>
+<lemma>vedle-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-029-p7s1w9">
 <src.rf>manual</src.rf>
@@ -1779,7 +1779,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-029-p7s2w3">
 <src.rf>manual</src.rf>

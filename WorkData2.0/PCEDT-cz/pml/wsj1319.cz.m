@@ -1401,7 +1401,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1319-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2211,8 +2211,8 @@
 <LM>w#w-wsj1319-001-p1s10W12</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1319-001-p1s10W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2284,7 +2284,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1319-001-p1s10W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2566,7 +2566,7 @@
 <LM>w#w-wsj1319-001-p1s12W12</LM>
 </w.rf>
 <form>ubránit</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1319-001-p1s12W13-Ta">
@@ -2667,8 +2667,8 @@
 <LM>w#w-wsj1319-001-p1s13W10</LM>
 </w.rf>
 <form>Braye</form>
-<lemma>Bray-1_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<lemma>Braye_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1319-001-p1s13W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3703,8 +3703,8 @@
 <LM>w#w-wsj1319-001-p1s18W8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1319-001-p1s18W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4277,7 +4277,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1319-001-p1s21W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4794,7 +4794,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1319-001-p1s23W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7265,7 +7265,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1319-001-p1s33W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7934,8 +7934,8 @@
 <LM>w#w-wsj1319-001-p1s35W25</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1319-001-p1s35W26-Ta">
 <src.rf>tagger-a</src.rf>

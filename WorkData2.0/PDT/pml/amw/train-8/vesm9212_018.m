@@ -97,7 +97,7 @@
 <LM>w#w-vesm9212-018-p4s1w3</LM>
 </w.rf>
 <form>dozvídáme</form>
-<lemma>dozvídat</lemma>
+<lemma>dozvídat_,s_^(^DD**dovídat)</lemma>
 <tag>VB-P---1P-AAI--</tag>
 </m>
 <m id="m-vesm9212-018-p4s1w4">
@@ -286,7 +286,7 @@
 </w.rf>
 <form>Sebeléčení</form>
 <lemma>sebeléčení</lemma>
-<tag>AANS1----1A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9212-018-p9s1w2">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-vesm9212-018-p11s1w2</LM>
 </w.rf>
 <form>terpény</form>
-<lemma>terpén</lemma>
+<lemma>terpén_,s_^(^DD**terpen)</lemma>
 <tag>NNIP1-----A----</tag>
 </m>
 </s>
@@ -2214,8 +2214,8 @@
 <LM>w#w-vesm9212-018-p60s1w7</LM>
 </w.rf>
 <form>já</form>
-<lemma>já</lemma>
-<tag>PP-S1--1-------</tag>
+<lemma>já-2</lemma>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-vesm9212-018-p60s1w8">
 <src.rf>manual</src.rf>

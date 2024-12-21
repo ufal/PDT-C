@@ -298,8 +298,8 @@
 <LM>w#w-wsj0580-001-p1s1W1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0580-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -734,7 +734,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0580-001-p1s2W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2115,8 +2115,8 @@
 <LM>w#w-wsj0580-001-p1s8W25</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0580-001-p1s8W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3088,7 +3088,7 @@
 </w.rf>
 <form>přesáhly</form>
 <lemma>přesáhnout</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj0580-001-p1s12W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4495,7 +4495,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0580-001-p1s19W13-Ta">
 <src.rf>tagger-a</src.rf>

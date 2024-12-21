@@ -2653,7 +2653,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj0440-001-p1s11W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3254,7 +3254,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0440-001-p1s14W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3762,7 +3762,7 @@
 </w.rf>
 <form>září</form>
 <lemma>září</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS3-----A----</tag>
 </m>
 <m id="m-wsj0440-001-p1s15W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3943,8 +3943,8 @@
 <LM>w#w-wsj0440-001-p1s16W1</LM>
 </w.rf>
 <form>a</form>
-<lemma>a-33</lemma>
-<tag>Q3-------------</tag>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0440-001-p1s16W2-Ta">
 <src.rf>tagger-a</src.rf>

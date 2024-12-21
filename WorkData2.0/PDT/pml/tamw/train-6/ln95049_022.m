@@ -1841,8 +1841,8 @@
 <LM>w#w-ln95049-022-p3s4w15</LM>
 </w.rf>
 <form>kupodivu</form>
-<lemma>kupodivu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>kupodivu-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-022-p3s4w16">
 <src.rf>manual</src.rf>
@@ -2633,7 +2633,7 @@
 </w.rf>
 <form>pravil</form>
 <lemma>pravit</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95049-022-p4s3w4">
 <src.rf>manual</src.rf>
@@ -2850,8 +2850,8 @@
 <LM>w#w-ln95049-022-p5s1w4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95049-022-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2913,7 +2913,7 @@
 <LM>w#w-ln95049-022-p5s1w12</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95049-022-p5s1w13">

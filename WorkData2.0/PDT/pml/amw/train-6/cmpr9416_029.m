@@ -512,7 +512,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-029-p5s3w6">
 <src.rf>manual</src.rf>
@@ -1500,8 +1500,8 @@
 <LM>w#w-cmpr9416-029-p8s1Bw17</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-029-p8s1Bw18">
 <src.rf>manual</src.rf>

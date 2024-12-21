@@ -1753,7 +1753,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2278-001-p1s7W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3240,8 +3240,8 @@
 <LM>w#w-wsj2278-001-p1s12W18</LM>
 </w.rf>
 <form>protestujícími</form>
-<lemma>protestující_^(*5ovat)</lemma>
-<tag>AGMP7-----A----</tag>
+<lemma>protestující-2</lemma>
+<tag>NNMP7-----A----</tag>
 </m>
 <m id="m-wsj2278-001-p1s12W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6790,8 +6790,8 @@
 <LM>w#w-wsj2278-001-p1s32W22</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2278-001-p1s32W23-Ta">
 <src.rf>tagger-a</src.rf>

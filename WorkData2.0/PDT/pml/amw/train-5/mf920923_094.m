@@ -757,7 +757,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-094-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1826,8 +1826,8 @@
 <LM>w#w-mf920923-094-p3s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920923-094-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1993,7 +1993,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-094-p3s4w4">
 <src.rf>manual</src.rf>

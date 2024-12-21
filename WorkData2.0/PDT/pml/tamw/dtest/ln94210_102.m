@@ -363,8 +363,8 @@
 <LM>w#w-ln94210-102-p2s2w10</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-102-p2s2w11">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 </w.rf>
 <form>věnován</form>
 <lemma>věnovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-ln94210-102-p2s2w18">
 <src.rf>manual</src.rf>

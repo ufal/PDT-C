@@ -12,8 +12,8 @@
 <LM>w#w-mu_11-SCzechM-p1075-s1-w1</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-1</lemma>
-<tag>J,-------------</tag>
+<lemma>ať-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_11-SCzechM-p1075-s1-w2">
 <w.rf>
@@ -768,8 +768,8 @@
 <LM>w#w-mu_11-SCzechM-p1094-s1-w13</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="mu_11-SCzechM-p1094-s1-w14">
 <w.rf>
@@ -3244,7 +3244,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_11-SCzechM-p1170-s1-w13">
 <w.rf>
@@ -3395,8 +3395,8 @@
 <LM>w#w-mu_11-SCzechM-p1170-s1-w31</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_11-SCzechM-p1170-s1-w32">
 <w.rf>
@@ -3948,7 +3948,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_11-SCzechM-p1182-s1-w13">
 <w.rf>
@@ -4078,7 +4078,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_11-SCzechM-p1186-s1-w7">
 <w.rf>

@@ -1126,8 +1126,8 @@
 <LM>w#w-cmpr9410-038-p14s2Bw14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-038-p14s2Bw15">
 <src.rf>manual</src.rf>
@@ -1508,8 +1508,8 @@
 <LM>w#w-cmpr9410-038-p14s4w26</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-038-p14s4w27">
 <src.rf>manual</src.rf>

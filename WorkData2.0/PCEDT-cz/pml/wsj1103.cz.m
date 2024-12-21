@@ -259,8 +259,8 @@
 <LM>w#w-wsj1103-001-p1s0W28</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1103-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3199,7 +3199,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1103-001-p1s11W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4495,8 +4495,8 @@
 <LM>w#w-wsj1103-001-p1s16W2</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1103-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>

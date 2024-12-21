@@ -125,7 +125,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-wsj1180-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1050,7 +1050,7 @@
 </w.rf>
 <form>dolaru</form>
 <lemma>dolar</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1180-001-p1s6W15-Ta">
 <src.rf>tagger-a</src.rf>

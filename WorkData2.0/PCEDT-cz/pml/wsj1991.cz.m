@@ -309,7 +309,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1991-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-wsj1991-001-p1s2W6</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1991-001-p1s2W7-Ta">

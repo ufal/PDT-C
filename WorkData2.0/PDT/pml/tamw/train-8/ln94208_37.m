@@ -576,8 +576,8 @@
 <LM>w#w-ln94208-37-p2s3w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-37-p2s3w16">
 <src.rf>manual</src.rf>
@@ -738,8 +738,8 @@
 <LM>w#w-ln94208-37-p2s3w33</LM>
 </w.rf>
 <form>pozůstalým</form>
-<lemma>pozůstalý_^(*2t)</lemma>
-<tag>AAMP3----1A----</tag>
+<lemma>pozůstalý-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-ln94208-37-p2s3w34">
 <src.rf>manual</src.rf>
@@ -810,8 +810,8 @@
 <LM>w#w-ln94208-37-p2s3w41</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-37-p2s3w42">
 <src.rf>manual</src.rf>

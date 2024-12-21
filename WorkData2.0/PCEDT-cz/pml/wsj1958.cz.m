@@ -406,7 +406,7 @@
 <LM>w#w-wsj1958-001-p1s1W21</LM>
 </w.rf>
 <form>Ada</form>
-<lemma>Ada_;G_;m</lemma>
+<lemma>Ada_;G_;Y_;m</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1958-001-p1s1W22-Ta">

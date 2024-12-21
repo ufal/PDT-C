@@ -1480,7 +1480,7 @@
 </w.rf>
 <form>přesáhl</form>
 <lemma>přesáhnout</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9417-023-p7s2w8">
 <src.rf>manual</src.rf>
@@ -3008,7 +3008,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-023-p10s2w17">
 <src.rf>manual</src.rf>
@@ -5626,7 +5626,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-023-p16s1w20">
 <src.rf>manual</src.rf>
@@ -6881,7 +6881,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-023-p35s1Bw2">
 <src.rf>manual</src.rf>

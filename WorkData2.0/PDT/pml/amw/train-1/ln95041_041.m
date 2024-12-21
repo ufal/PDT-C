@@ -440,7 +440,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-041-p2s2w16">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 </w.rf>
 <form>tónu</form>
 <lemma>tón</lemma>
-<tag>NNIS6-----A----</tag>
+<tag>NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95041-041-p3s2w11">
 <src.rf>manual</src.rf>

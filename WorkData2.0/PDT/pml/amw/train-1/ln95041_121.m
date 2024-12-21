@@ -51,7 +51,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95041-121-p2s1w2">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-121-p4s1w4">
 <src.rf>manual</src.rf>
@@ -609,8 +609,8 @@
 <LM>w#w-ln95041-121-p4s2w4</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-121-p4s2w5">
 <src.rf>manual</src.rf>

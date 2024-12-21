@@ -550,7 +550,7 @@
 <LM>w#w-wsj1655-001-p1s1W18</LM>
 </w.rf>
 <form>Francovy</form>
-<lemma>Francův_;Y_^(*2)_(*2o)</lemma>
+<lemma>Francův_;Y_^(*2)</lemma>
 <tag>AUFS2M---------</tag>
 </m>
 <m id="m-wsj1655-001-p1s1W19-Ta">
@@ -721,8 +721,8 @@
 <LM>w#w-wsj1655-001-p1s1W37</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-wsj1655-001-p1s1W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-wsj1655-001-p1s2W18</LM>
 </w.rf>
 <form>Francově</form>
-<lemma>Francův_;Y_^(*2)_(*2o)</lemma>
+<lemma>Francův_;Y_^(*2)</lemma>
 <tag>AUNS6M---------</tag>
 </m>
 <m id="m-wsj1655-001-p1s2W19-Ta">
@@ -1346,8 +1346,8 @@
 <LM>w#w-wsj1655-001-p1s3W1</LM>
 </w.rf>
 <form>Přesto</form>
-<lemma>přesto-1</lemma>
-<tag>Db-------------</tag>
+<lemma>přesto-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1655-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3329,7 +3329,7 @@
 <LM>w#w-wsj1655-001-p1s9W32</LM>
 </w.rf>
 <form>obtloustlou</form>
-<lemma>obtloustlý_^(*2nout)</lemma>
+<lemma>obtloustlý</lemma>
 <tag>AAFS7----1A----</tag>
 </m>
 <m id="m-wsj1655-001-p1s9W33-Ta">
@@ -5001,7 +5001,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1655-001-p1s21W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5814,7 +5814,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-wsj1655-001-p1s27W10-Ta">
 <src.rf>tagger-a</src.rf>

@@ -234,8 +234,8 @@
 <LM>w#w-wsj2020-001-p1s1W4</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2020-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1020,8 +1020,8 @@
 <LM>w#w-wsj2020-001-p1s7W9</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2020-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>

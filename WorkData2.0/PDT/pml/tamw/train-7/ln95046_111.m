@@ -423,8 +423,8 @@
 <LM>w#w-ln95046-111-p2s3w8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-111-p2s3w9">
 <src.rf>manual</src.rf>
@@ -614,8 +614,8 @@
 <LM>w#w-ln95046-111-p2s4w15</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln95046-111-p2s4w16">
 <src.rf>manual</src.rf>

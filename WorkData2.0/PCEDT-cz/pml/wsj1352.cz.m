@@ -488,8 +488,8 @@
 <LM>w#w-wsj1352-001-p1s2W18</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1352-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>

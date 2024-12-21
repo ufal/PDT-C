@@ -441,8 +441,8 @@
 <LM>w#w-ln94208-111-p2s3w14</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln94208-111-p2s3w15">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-111-p2s4w4">
 <src.rf>manual</src.rf>
@@ -886,8 +886,8 @@
 <LM>w#w-ln94208-111-p2s5w10</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-111-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1143,7 +1143,7 @@
 </w.rf>
 <form>pravil</form>
 <lemma>pravit</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94208-111-p2s7w6">
 <src.rf>manual</src.rf>

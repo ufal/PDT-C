@@ -4158,7 +4158,7 @@
 </w.rf>
 <form>právo</form>
 <lemma>právo</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p16s1w9">
 <src.rf>manual</src.rf>
@@ -4813,8 +4813,8 @@
 <LM>w#w-cmpr9406-048-p19s2w26</LM>
 </w.rf>
 <form>kupující</form>
-<lemma>kupující_^(*5ovat)</lemma>
-<tag>AGMS1-----A----</tag>
+<lemma>kupující-2</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p19s2w27">
 <src.rf>manual</src.rf>
@@ -5094,8 +5094,8 @@
 <LM>w#w-cmpr9406-048-p20s1w9</LM>
 </w.rf>
 <form>prodávajícího</form>
-<lemma>prodávající_^(*4t)</lemma>
-<tag>AGMS2-----A----</tag>
+<lemma>prodávající-2</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p20s1w10">
 <src.rf>manual</src.rf>

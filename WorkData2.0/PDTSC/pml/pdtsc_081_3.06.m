@@ -700,8 +700,8 @@
 <LM>w#w-d1t1724-8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m110-d1t1724-9">
 <w.rf>
@@ -2443,7 +2443,7 @@
 </w.rf>
 <form>rok</form>
 <lemma>rok</lemma>
-<tag>NNIS4-----A----</tag>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m110-575-581">
 <w.rf>
@@ -2503,7 +2503,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m110-d1t1844-3">
 <w.rf>
@@ -2954,8 +2954,8 @@
 <LM>w#w-d1t1872-3</LM>
 </w.rf>
 <form>ale</form>
-<lemma>ale</lemma>
-<tag>J^-------------</tag>
+<lemma>ale-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m110-d1t1872-4">
 <w.rf>
@@ -3432,8 +3432,8 @@
 <LM>w#w-d1t1914-9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m110-d1t1914-14">
 <w.rf>

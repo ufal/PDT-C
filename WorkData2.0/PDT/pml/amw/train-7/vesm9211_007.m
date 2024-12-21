@@ -914,7 +914,7 @@
 <LM>w#w-vesm9211-007-p1s3w23</LM>
 </w.rf>
 <form>Galileo</form>
-<lemma>Galileo-1_;Y</lemma>
+<lemma>Galileo_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-007-p1s3w24">
@@ -2664,7 +2664,7 @@
 </w.rf>
 <form>datuje</form>
 <lemma>datovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9211-007-p3s1w10">
 <src.rf>manual</src.rf>
@@ -3408,7 +3408,7 @@
 </w.rf>
 <form>nepředčil</form>
 <lemma>předčit</lemma>
-<tag>VpYS----R-NAP--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-vesm9211-007-p3s4w6">
 <src.rf>manual</src.rf>
@@ -3570,7 +3570,7 @@
 </w.rf>
 <form>třech</form>
 <lemma>tři`3</lemma>
-<tag>Cl-P6----------</tag>
+<tag>Cl-P2---------1</tag>
 </m>
 <m id="m-vesm9211-007-p3s4w24">
 <src.rf>manual</src.rf>
@@ -4260,7 +4260,7 @@
 </w.rf>
 <form>věnováno</form>
 <lemma>věnovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-vesm9211-007-p3s7w9">
 <src.rf>manual</src.rf>
@@ -12667,8 +12667,8 @@
 <LM>w#w-vesm9211-007-p10s4w14</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-007-p10s4w15">
 <src.rf>manual</src.rf>
@@ -14567,7 +14567,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-007-p11s6w10">
 <src.rf>manual</src.rf>
@@ -15294,7 +15294,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-007-p13s1w18">
 <src.rf>manual</src.rf>
@@ -16541,7 +16541,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-007-p14s4w4">
 <src.rf>manual</src.rf>

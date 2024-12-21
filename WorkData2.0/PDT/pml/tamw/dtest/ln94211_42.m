@@ -938,8 +938,8 @@
 <LM>w#w-ln94211-42-p2s5w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-42-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln94211-42-p2s7w5</LM>
 </w.rf>
 <form>dozvíte</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---2P-AAP--</tag>
 </m>
 <m id="m-ln94211-42-p2s7w6">

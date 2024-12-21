@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_124.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -37,12 +37,12 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <discourse_comment>kolekce,
 wrongTR?, poslední zpráva
 není kompletní,
 chybná segmentace</discourse_comment>
-<val_frame.rf>v#v-w1058f1</val_frame.rf>
+<val_frame.rf>v#v41avoB</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p1s1w1">
 <a>
@@ -184,7 +184,7 @@ chybná segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w2499f1</val_frame.rf>
+<val_frame.rf>v#v41dptA</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p2s1Bw2">
 <a>
@@ -246,6 +246,7 @@ chybná segmentace</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>dva</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -389,7 +390,7 @@ chybná segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5390f1</val_frame.rf>
+<val_frame.rf>v#v41jedC</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p2s2w2">
 <a>
@@ -555,6 +556,7 @@ chybná segmentace</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
+<sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-124-p2s2w12</LM>
@@ -564,7 +566,7 @@ chybná segmentace</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w2074f1</val_frame.rf>
+<val_frame.rf>v#v41ctkA</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p2s2w15">
 <a>
@@ -573,6 +575,7 @@ chybná segmentace</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>předtím</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>předtím</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -701,7 +704,7 @@ chybná segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w3407f1</val_frame.rf>
+<val_frame.rf>v#v41fjvA</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p2s3w1">
 <a>
@@ -777,8 +780,8 @@ chybná segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w2796f1</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41eeqB</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p3s1w1">
 <a>
@@ -974,7 +977,7 @@ chybná segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w2637f1</val_frame.rf>
+<val_frame.rf>v#v41dwrA</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p4s1Bw9">
 <a>
@@ -1328,7 +1331,7 @@ chybná segmentace</discourse_comment>
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>4</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf930709-124-p5s1a0">
 <nodetype>complex</nodetype>
@@ -1365,7 +1368,7 @@ chybná segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w2042f1</val_frame.rf>
+<val_frame.rf>v#v41croB</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p5s1w2">
 <a>
@@ -1412,13 +1415,14 @@ chybná segmentace</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-124-p5s1w4</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w9918f2</val_frame.rf>
+<val_frame.rf>v#v41rzdD</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p5s1w6">
 <a>
@@ -1465,7 +1469,7 @@ chybná segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w8756f1</val_frame.rf>
+<val_frame.rf>v#v41prbA</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p6s2a0">
 <nodetype>complex</nodetype>
@@ -1506,7 +1510,7 @@ chybná segmentace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w1058f1</val_frame.rf>
+<val_frame.rf>v#v41avoB</val_frame.rf>
 <children>
 <LM id="t-mf930709-124-p6s2a2">
 <nodetype>qcomplex</nodetype>
@@ -1548,8 +1552,9 @@ chybná segmentace</discourse_comment>
 <lex.rf>a#a-mf930709-124-p6s2w3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>časný</t_lemma>
+<t_lemma>časně</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>časný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>

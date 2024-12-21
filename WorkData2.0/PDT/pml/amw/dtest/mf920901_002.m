@@ -702,8 +702,8 @@
 <LM>w#w-mf920901-002-p1s4w11</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920901-002-p1s4w12">
 <src.rf>manual</src.rf>

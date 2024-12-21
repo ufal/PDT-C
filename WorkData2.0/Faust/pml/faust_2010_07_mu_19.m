@@ -217,7 +217,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_19-SCzechM-p1990-s1-w19">
 <w.rf>
@@ -840,8 +840,8 @@
 <LM>w#w-mu_19-SCzechM-p2012-s1-w10</LM>
 </w.rf>
 <form>Noida</form>
-<lemma>Noid_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<lemma>Noida-2_;G_;m</lemma>
+<tag>NNFS1-----A----</tag>
 </m>
 </s>
 <s id="s-mu_19-SCzechM-p2014-s1-w1">
@@ -2673,8 +2673,8 @@
 <LM>w#w-mu_19-SCzechM-p2034-s1-w53</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="mu_19-SCzechM-p2034-s1-w54">
 <w.rf>
@@ -2721,8 +2721,8 @@
 <LM>w#w-mu_19-SCzechM-p2034-s1-w59</LM>
 </w.rf>
 <form>díky</form>
-<lemma>díky</lemma>
-<tag>RR--3----------</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="mu_19-SCzechM-p2034-s1-w60">
 <w.rf>
@@ -3522,7 +3522,7 @@
 </w.rf>
 <form>důkazy</form>
 <lemma>důkaz</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="mu_19-SCzechM-p2049-s1-w47">
 <w.rf>
@@ -3722,7 +3722,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_19-SCzechM-p2053-s1-w2">
 <w.rf>

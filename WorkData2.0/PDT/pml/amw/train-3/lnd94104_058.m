@@ -667,7 +667,7 @@
 </w.rf>
 <form>věnují</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-lnd94104-058-p1s5w26">
 <src.rf>manual</src.rf>
@@ -976,7 +976,7 @@
 <LM>w#w-lnd94104-058-p1s7w8</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-lnd94104-058-p1s7w9">
@@ -1096,7 +1096,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-058-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-lnd94104-058-p1s8w23</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-058-p1s8w24">

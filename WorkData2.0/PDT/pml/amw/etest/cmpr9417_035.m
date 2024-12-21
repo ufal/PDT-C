@@ -653,7 +653,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-cmpr9417-035-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2231,7 +2231,7 @@
 <LM>w#w-cmpr9417-035-p8s5w12</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9417-035-p8s5w13">
@@ -2506,7 +2506,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-035-p9s1w7">
 <src.rf>manual</src.rf>

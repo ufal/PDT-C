@@ -122,8 +122,8 @@
 <LM>w#w-d1t2749-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m119-d1e2746-x2-727">
 <w.rf>
@@ -164,7 +164,7 @@
 <LM>w#w-d1t2751-3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m119-d1t2751-4">

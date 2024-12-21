@@ -1020,8 +1020,8 @@
 <LM>w#w-d1t547-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m797-d1t547-3">
 <w.rf>
@@ -1648,8 +1648,8 @@
 <LM>w#w-d1t583-17</LM>
 </w.rf>
 <form>že</form>
-<lemma>že-1</lemma>
-<tag>J,-------------</tag>
+<lemma>že-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m797-d-id84168">
 <w.rf>
@@ -2274,8 +2274,8 @@
 <LM>w#w-d1t625-16</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m797-d1t625-17">
 <w.rf>

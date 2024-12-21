@@ -437,7 +437,7 @@
 <LM>w#w-mf920922-068-p3s1w3</LM>
 </w.rf>
 <form>baseballový</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-mf920922-068-p3s1w4">
@@ -2971,8 +2971,8 @@
 <LM>w#w-mf920922-068-p9s1w6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-068-p9s1w7">
 <src.rf>manual</src.rf>

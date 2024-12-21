@@ -1160,8 +1160,8 @@
 <LM>w#w-wsj1207-001-p1s5W5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1207-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1386,7 +1386,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-wsj1207-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1430,7 +1430,7 @@
 <LM>w#w-wsj1207-001-p1s5W35</LM>
 </w.rf>
 <form>opravňovalo</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj1207-001-p1s5W36-Ta">

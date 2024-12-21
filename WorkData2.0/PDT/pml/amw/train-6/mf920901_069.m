@@ -1081,7 +1081,7 @@
 <LM>w#w-mf920901-069-p5s1w4</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-069-p5s1w5">
@@ -2329,7 +2329,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-069-p7s1w7">
 <src.rf>manual</src.rf>

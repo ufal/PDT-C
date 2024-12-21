@@ -1637,8 +1637,8 @@
 <LM>w#w-ln95041-118-p6s2w6</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-118-p6s2w7">
 <src.rf>manual</src.rf>

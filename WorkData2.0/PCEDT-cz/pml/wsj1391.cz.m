@@ -1078,7 +1078,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1391-001-p1s4W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1658,8 +1658,8 @@
 <LM>w#w-wsj1391-001-p1s6W13</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1391-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2724,7 +2724,7 @@
 </w.rf>
 <form>červnu</form>
 <lemma>červen</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1391-001-p1s11W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3197,7 +3197,7 @@
 <LM>w#w-wsj1391-001-p1s13W25</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1391-001-p1s13W26-Ta">
@@ -4509,8 +4509,8 @@
 <LM>w#w-wsj1391-001-p1s19W11</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1391-001-p1s19W12-Ta">
 <src.rf>tagger-a</src.rf>

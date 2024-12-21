@@ -1041,8 +1041,8 @@
 <LM>w#w-cmpr9407-041-p5s1w4</LM>
 </w.rf>
 <form>formou</form>
-<lemma>forma</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>formou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-041-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1869,7 +1869,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-041-p7s1w11">
 <src.rf>manual</src.rf>
@@ -2306,8 +2306,8 @@
 <LM>w#w-cmpr9407-041-p7s4w17</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-041-p7s4w18">
 <src.rf>manual</src.rf>
@@ -2473,7 +2473,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-041-p7s6w4">
 <src.rf>manual</src.rf>
@@ -2775,8 +2775,8 @@
 <LM>w#w-cmpr9407-041-p9s2w5</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-cmpr9407-041-p9s2w6">
 <src.rf>manual</src.rf>
@@ -3101,8 +3101,8 @@
 <LM>w#w-cmpr9407-041-p9s3w16</LM>
 </w.rf>
 <form>jménem</form>
-<lemma>jméno</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>jménem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-041-p9s3w17">
 <src.rf>manual</src.rf>

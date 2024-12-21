@@ -1086,8 +1086,8 @@
 <LM>w#w-ln95041-078-p2s6w9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95041-078-p2s6w10">
 <src.rf>manual</src.rf>

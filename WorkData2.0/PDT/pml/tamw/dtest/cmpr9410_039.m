@@ -174,7 +174,7 @@
 <LM>w#w-cmpr9410-039-p1s2w7</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-039-p1s2w8">
@@ -210,8 +210,8 @@
 <LM>w#w-cmpr9410-039-p1s2w11</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9410-039-p1s2w12">
 <src.rf>manual</src.rf>
@@ -656,7 +656,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9410-039-p1s4w19">
 <src.rf>manual</src.rf>

@@ -601,8 +601,8 @@
 <LM>w#w-lnd94103-077-p1s3w9</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-077-p1s3w10">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-lnd94103-077-p1s3w15">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-077-p1s4w25">
 <src.rf>manual</src.rf>

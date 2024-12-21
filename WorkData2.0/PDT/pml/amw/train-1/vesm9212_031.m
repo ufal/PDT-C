@@ -2342,7 +2342,7 @@
 <LM>w#w-vesm9212-031-p6s1w9</LM>
 </w.rf>
 <form>acylpirin</form>
-<lemma>acylpirin</lemma>
+<lemma>acylpirin_,i_^(^DS**acylpyrin)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9212-031-p6s1w10">
@@ -2697,8 +2697,8 @@
 <LM>w#w-vesm9212-031-p6s3w15</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-031-p6s3w16">
 <src.rf>manual</src.rf>
@@ -2915,8 +2915,8 @@
 <LM>w#w-vesm9212-031-p6s4w16</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-031-p6s4w17">
 <src.rf>manual</src.rf>

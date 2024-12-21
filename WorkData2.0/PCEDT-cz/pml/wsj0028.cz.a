@@ -31,10 +31,12 @@
 <afun>Sb</afun>
 <is_member>1</is_member>
 <ord>2</ord>
-<children id="a-wsj0028-001-p1s0W1-Ta">
+<children>
+<LM id="a-wsj0028-001-p1s0W1-Ta">
 <m.rf>m#m-wsj0028-001-p1s0W1-Ta</m.rf>
 <afun>Atr</afun>
 <ord>1</ord>
+</LM>
 </children>
 </LM>
 <LM id="a-wsj0028-001-p1s0W5-Ta">
@@ -52,7 +54,8 @@
 <m.rf>m#m-wsj0028-001-p1s0W6-Ta</m.rf>
 <afun>Atr</afun>
 <ord>6</ord>
-<children id="a-wsj0028-001-p1s0W10-Ta">
+<children>
+<LM id="a-wsj0028-001-p1s0W10-Ta">
 <m.rf>m#m-wsj0028-001-p1s0W10-Ta</m.rf>
 <afun>Atr</afun>
 <ord>10</ord>
@@ -73,6 +76,7 @@
 <ord>9</ord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -123,12 +127,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-wsj0028-001-p1s0W20-Ta">
 <m.rf>m#m-wsj0028-001-p1s0W20-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>20</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

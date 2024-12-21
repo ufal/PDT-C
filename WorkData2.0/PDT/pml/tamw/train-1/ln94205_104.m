@@ -230,8 +230,8 @@
 <LM>w#w-ln94205-104-p2s2w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-104-p2s2w5">
 <src.rf>manual</src.rf>
@@ -565,8 +565,8 @@
 <LM>w#w-ln94205-104-p2s3w21</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-104-p2s3w22">
 <src.rf>manual</src.rf>
@@ -630,8 +630,8 @@
 <LM>w#w-ln94205-104-p2s4w3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-104-p2s4w4">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln94205-104-p2s5w6</LM>
 </w.rf>
 <form>sekvojí</form>
-<lemma>sekvoje</lemma>
+<lemma>sekvoj</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="m-ln94205-104-p2s5w7">

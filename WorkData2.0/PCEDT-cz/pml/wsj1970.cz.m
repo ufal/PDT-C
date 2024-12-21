@@ -1187,8 +1187,8 @@
 <LM>w#w-wsj1970-001-p1s4W21</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1970-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2324,8 +2324,8 @@
 <LM>w#w-wsj1970-001-p1s9W5</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1970-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3407,8 +3407,8 @@
 <LM>w#w-wsj1970-001-p1s15W28</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1970-001-p1s15W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3745,7 +3745,7 @@
 </w.rf>
 <form>zlepšení</form>
 <lemma>zlepšení_^(*3it)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj1970-001-p1s17W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4124,8 +4124,8 @@
 <LM>w#w-wsj1970-001-p1s18W17</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-2</lemma>
-<tag>TT-------------</tag>
+<lemma>již-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj1970-001-p1s18W18-Ta">
 <src.rf>tagger-a</src.rf>

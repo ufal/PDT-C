@@ -18,19 +18,21 @@
 <children>
 <LM id="a-ln95040-017-p1s1w1">
 <m.rf>m#m-ln95040-017-p1s1w1</m.rf>
-<afun>Denom</afun>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95040-017-p1s1w2">
 <m.rf>m#m-ln95040-017-p1s1w2</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95040-017-p1s1w3">
 <m.rf>m#m-ln95040-017-p1s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Adv</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -76,7 +78,7 @@
 <children>
 <LM id="a-ln95040-017-p2s1Aw2">
 <m.rf>m#m-ln95040-017-p2s1Aw2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -100,18 +102,18 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-ln95040-017-p2s1Bw3">
-<m.rf>m#m-ln95040-017-p2s1Bw3</m.rf>
-<afun>Adv</afun>
-<ord>3</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-ln95040-017-p2s1Bw1">
 <m.rf>m#m-ln95040-017-p2s1Bw1</m.rf>
 <afun>AuxZ</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-ln95040-017-p2s1Bw3">
+<m.rf>m#m-ln95040-017-p2s1Bw3</m.rf>
+<afun>Adv</afun>
+<ord>3</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-ln95040-017-p2s1Bw6">
 <m.rf>m#m-ln95040-017-p2s1Bw6</m.rf>
 <afun>Atr</afun>
@@ -528,8 +530,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln95040-017-p2s4w5">
 <m.rf>m#m-ln95040-017-p2s4w5</m.rf>
 <afun>AuxC</afun>
@@ -599,6 +599,8 @@
 <afun>AuxX</afun>
 <ord>13</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -895,12 +897,13 @@
 <LM id="a-ln95040-017-p3s1w1">
 <m.rf>m#m-ln95040-017-p3s1w1</m.rf>
 <afun>AuxC</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95040-017-p3s1w5">
 <m.rf>m#m-ln95040-017-p3s1w5</m.rf>
-<afun>Pred</afun>
+<afun>Obj</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>

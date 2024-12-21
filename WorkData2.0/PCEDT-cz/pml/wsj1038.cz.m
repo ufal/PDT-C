@@ -552,7 +552,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1038-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>

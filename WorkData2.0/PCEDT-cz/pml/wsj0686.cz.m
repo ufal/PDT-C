@@ -4748,7 +4748,7 @@
 </w.rf>
 <form>miliony</form>
 <lemma>milion`1000000_,s_^(^DD**milión)</lemma>
-<tag>CzIP1----------</tag>
+<tag>CzIP4----------</tag>
 </m>
 <m id="m-wsj0686-001-p1s14W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4894,7 +4894,7 @@
 </w.rf>
 <form>Část</form>
 <lemma>část</lemma>
-<tag>NNFS4-----A----</tag>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0686-001-p1s15W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5357,7 +5357,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0686-001-p1s17W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6035,8 +6035,8 @@
 <LM>w#w-wsj0686-001-p1s19W24</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0686-001-p1s19W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7450,8 +7450,8 @@
 <LM>w#w-wsj0686-001-p1s23W26</LM>
 </w.rf>
 <form>odhadem</form>
-<lemma>odhad</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>odhadem</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0686-001-p1s23W27-Ta">
 <src.rf>tagger-a</src.rf>

@@ -917,7 +917,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-068-p1s8w17">
 <src.rf>manual</src.rf>
@@ -1316,7 +1316,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-lnd94103-068-p1s9w17">
 <src.rf>manual</src.rf>
@@ -1405,8 +1405,8 @@
 <LM>w#w-lnd94103-068-p1s9w26</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-068-p1s9w27">
 <src.rf>manual</src.rf>

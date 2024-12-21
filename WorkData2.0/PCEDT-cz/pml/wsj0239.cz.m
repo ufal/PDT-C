@@ -1504,8 +1504,8 @@
 <LM>w#w-wsj0239-001-p1s6W1</LM>
 </w.rf>
 <form>Jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3314,8 +3314,8 @@
 <LM>w#w-wsj0239-001-p1s14W10</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s14W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3416,7 +3416,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-wsj0239-001-p1s15W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3690,7 +3690,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s17W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3835,8 +3835,8 @@
 <LM>w#w-wsj0239-001-p1s18W3</LM>
 </w.rf>
 <form>přesto</form>
-<lemma>přesto-2</lemma>
-<tag>J^-------------</tag>
+<lemma>přesto-1</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s18W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3900,8 +3900,8 @@
 <LM>w#w-wsj0239-001-p1s19W1</LM>
 </w.rf>
 <form>Alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4192,8 +4192,8 @@
 <LM>w#w-wsj0239-001-p1s21W8</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s21W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6545,8 +6545,8 @@
 <LM>w#w-wsj0239-001-p1s36W2</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s36W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7110,8 +7110,8 @@
 <LM>w#w-wsj0239-001-p1s39W11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s39W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7157,8 +7157,8 @@
 <LM>w#w-wsj0239-001-p1s40W1</LM>
 </w.rf>
 <form>Jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s40W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7429,8 +7429,8 @@
 <LM>w#w-wsj0239-001-p1s41W3</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0239-001-p1s41W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7648,7 +7648,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s42W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8002,8 +8002,8 @@
 <LM>w#w-wsj0239-001-p1s44W4</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0239-001-p1s44W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8787,7 +8787,7 @@
 <LM>w#w-wsj0239-001-p1s49W12</LM>
 </w.rf>
 <form>uvízli</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj0239-001-p1s49W13-Ta">
@@ -9403,7 +9403,7 @@
 </w.rf>
 <form>vyhnání</form>
 <lemma>vyhnání_^(*3at)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj0239-001-p1s50W47-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9457,7 +9457,7 @@
 </w.rf>
 <form>sbalení</form>
 <lemma>sbalení_^(*3it)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj0239-001-p1s50W53-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9484,7 +9484,7 @@
 </w.rf>
 <form>nacpání</form>
 <lemma>nacpání_^(*3at)</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj0239-001-p1s50W56-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10712,7 +10712,7 @@
 <LM>w#w-wsj0239-001-p1s57W11</LM>
 </w.rf>
 <form>ubránit</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj0239-001-p1s57W12-Ta">

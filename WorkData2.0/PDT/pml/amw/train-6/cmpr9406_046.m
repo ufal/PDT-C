@@ -620,7 +620,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-046-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1896,8 +1896,8 @@
 <LM>w#w-cmpr9406-046-p7s2w12</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9406-046-p7s2w13">
 <src.rf>manual</src.rf>
@@ -2096,8 +2096,8 @@
 <LM>w#w-cmpr9406-046-p7s3w14</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9406-046-p7s3w15">
 <src.rf>manual</src.rf>

@@ -951,7 +951,7 @@
 </w.rf>
 <form>Blahopřejeme</form>
 <lemma>blahopřát</lemma>
-<tag>VB-P---1P-AAP--</tag>
+<tag>VB-P---1P-AAI--</tag>
 </m>
 <m id="mu_16-SCzechM-p1654-s1-w2">
 <w.rf>
@@ -1399,7 +1399,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_16-SCzechM-p1667-s1-w5">
 <w.rf>
@@ -1414,8 +1414,8 @@
 <LM>w#w-mu_16-SCzechM-p1667-s1-w6</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 </s>
 <s id="s-mu_16-SCzechM-p1668-s1-w1">
@@ -2308,7 +2308,7 @@
 <LM>w#w-mu_16-SCzechM-p1693-s1-w22</LM>
 </w.rf>
 <form>vybuchne</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="mu_16-SCzechM-p1693-s1-w23">
@@ -2348,8 +2348,8 @@
 <LM>w#w-mu_16-SCzechM-p1693-s1-w27</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="mu_16-SCzechM-p1693-s1-w28">
 <w.rf>
@@ -2843,8 +2843,8 @@
 <LM>w#w-mu_16-SCzechM-p1716-s1-w3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_16-SCzechM-p1716-s1-w4">
 <w.rf>

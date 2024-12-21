@@ -368,7 +368,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-016-p2s3w23">
 <src.rf>manual</src.rf>
@@ -540,8 +540,8 @@
 <LM>w#w-mf920925-016-p2s4w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920925-016-p2s4w2">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-016-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1652,8 +1652,8 @@
 <LM>w#w-mf920925-016-p2s11w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920925-016-p2s11w2">
 <src.rf>manual</src.rf>
@@ -1680,7 +1680,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-016-p2s11w5">
 <src.rf>manual</src.rf>

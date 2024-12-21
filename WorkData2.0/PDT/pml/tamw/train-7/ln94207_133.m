@@ -37,8 +37,8 @@
 <LM>w#w-ln94207-133-p1s1w3</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-133-p1s1w4">
 <src.rf>manual</src.rf>
@@ -432,8 +432,8 @@
 <LM>w#w-ln94207-133-p2s4w7</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94207-133-p2s4w8">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 </w.rf>
 <form>věnovala</form>
 <lemma>věnovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94207-133-p2s5w4">
 <src.rf>manual</src.rf>
@@ -823,8 +823,8 @@
 <LM>w#w-ln94207-133-p2s6w9</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-133-p2s6w10">
 <src.rf>manual</src.rf>

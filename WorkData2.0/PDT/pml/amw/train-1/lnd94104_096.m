@@ -877,7 +877,7 @@
 </w.rf>
 <form>rozdají</form>
 <lemma>rozdat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd94104-096-p1s6w10">
 <src.rf>manual</src.rf>

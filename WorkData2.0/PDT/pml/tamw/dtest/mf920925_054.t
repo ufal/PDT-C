@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_054.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -26,7 +26,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf920925-054-p1s1w2">
 <a>
@@ -63,7 +63,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf920925-054-p2s1w2">
 <a>
@@ -126,7 +126,7 @@
 <discourse_comment>wrongTR  -spatna segmentace 
 textu (3+4 maji byt 
 dohromady)</discourse_comment>
-<val_frame.rf>v#v-w7929f1</val_frame.rf>
+<val_frame.rf>v#v41obaA</val_frame.rf>
 <children>
 <LM id="t-mf920925-054-p2s2w3">
 <a>
@@ -522,7 +522,7 @@ dohromady)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w7583f3</val_frame.rf>
+<val_frame.rf>v#v41njvB</val_frame.rf>
 <children>
 <LM id="t-mf920925-054-p2s4a0">
 <nodetype>qcomplex</nodetype>
@@ -537,8 +537,9 @@ dohromady)</discourse_comment>
 <lex.rf>a#a-mf920925-054-p2s4w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>celkový</t_lemma>
+<t_lemma>celkově</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>celkový</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -597,7 +598,7 @@ dohromady)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9430f1</val_frame.rf>
+<val_frame.rf>v#v41ramA</val_frame.rf>
 <children>
 <LM id="t-mf920925-054-p4s1w3">
 <a>
@@ -686,7 +687,7 @@ dohromady)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w9859f2</val_frame.rf>
+<val_frame.rf>v#v41rwfA</val_frame.rf>
 <children>
 <LM id="t-mf920925-054-p4s1a1">
 <nodetype>qcomplex</nodetype>
@@ -736,7 +737,7 @@ dohromady)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w7406f1</val_frame.rf>
+<val_frame.rf>v#v41nbkA</val_frame.rf>
 <children>
 <LM id="t-mf920925-054-p4s1w10">
 <a>
@@ -745,6 +746,7 @@ dohromady)</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -806,6 +808,7 @@ dohromady)</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>pět</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>pět</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -939,7 +942,7 @@ dohromady)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<val_frame.rf>v#v-w9879f1</val_frame.rf>
+<val_frame.rf>v#v41rxfA</val_frame.rf>
 <children>
 <LM id="t-mf920925-054-p5s1w2">
 <a>
@@ -1150,7 +1153,7 @@ dohromady)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w7379f1</val_frame.rf>
+<val_frame.rf>v#v41naeB</val_frame.rf>
 <children>
 <LM id="t-mf920925-054-p5s1a3">
 <nodetype>qcomplex</nodetype>
@@ -1173,8 +1176,9 @@ dohromady)</discourse_comment>
 <lex.rf>a#a-mf920925-054-p5s1w16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>první</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -1230,7 +1234,7 @@ dohromady)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w7929f1</val_frame.rf>
+<val_frame.rf>v#v41obaA</val_frame.rf>
 <children>
 <LM id="t-mf920925-054-p6s1w2">
 <a>
@@ -1371,7 +1375,9 @@ dohromady)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<children>
+</LM>
+</children>
+</LM>
 <LM id="t-mf920925-054-p6s1a0">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
@@ -1387,8 +1393,9 @@ dohromady)</discourse_comment>
 <lex.rf>a#a-mf920925-054-p6s1w13</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdo</t_lemma>
+<t_lemma>všichni</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>kdo</proto_lemma>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.pron.indef</sempos>
@@ -1449,10 +1456,6 @@ dohromady)</discourse_comment>
 <type>SPEC</type>
 </LM>
 </coref_text>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

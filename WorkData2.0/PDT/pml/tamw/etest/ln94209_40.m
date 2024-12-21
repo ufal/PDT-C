@@ -167,8 +167,8 @@
 <LM>w#w-ln94209-40-p2s2w2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94209-40-p2s2w3">
 <src.rf>manual</src.rf>

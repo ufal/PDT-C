@@ -931,8 +931,8 @@
 <LM>w#w-lnd94104-131-p1s3Aw27</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd94104-131-p1s3Aw28">
 <src.rf>manual</src.rf>
@@ -1990,7 +1990,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-131-p1s9w20">
 <src.rf>manual</src.rf>
@@ -2626,9 +2626,10 @@
 <w.rf>
 <LM>w#w-lnd94104-131-p1s14w4</LM>
 </w.rf>
-<form>pozvání</form>
-<lemma>pozvání_^(*3at)</lemma>
-<tag>NNNP1-----A----</tag>
+<form_change>spell</form_change>
+<form>pozváni</form>
+<lemma>pozvat</lemma>
+<tag>VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd94104-131-p1s14w5">
 <src.rf>manual</src.rf>

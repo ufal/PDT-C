@@ -577,8 +577,8 @@
 <LM>w#w-ln94207-114-p2s4w7</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-114-p2s4w8">
 <src.rf>manual</src.rf>
@@ -930,8 +930,8 @@
 <LM>w#w-ln94207-114-p3s1w15</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-114-p3s1w16">
 <src.rf>manual</src.rf>

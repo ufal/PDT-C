@@ -246,7 +246,7 @@
 </w.rf>
 <form>poklesu</form>
 <lemma>pokles</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1239-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>

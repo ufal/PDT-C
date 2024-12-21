@@ -567,8 +567,8 @@
 <LM>w#w-mf920902-130-p3s1w9</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920902-130-p3s1w10">
 <src.rf>manual</src.rf>

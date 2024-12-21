@@ -36,8 +36,8 @@
 <LM>w#w-d1t1215-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1215-7">
 <w.rf>
@@ -338,8 +338,8 @@
 <LM>w#w-d1t1229-7</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1229-8">
 <w.rf>
@@ -648,16 +648,16 @@
 <LM>w#w-d1t1246-11</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1246-12">
 <w.rf>
 <LM>w#w-d1t1246-12</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m122-d1t1246-14">
 <w.rf>
@@ -836,8 +836,8 @@
 <LM>w#w-d1t1246-45</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1246-46">
 <w.rf>
@@ -868,8 +868,8 @@
 <LM>w#w-d1t1248-1</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ani-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m122-d1t1248-2">
 <w.rf>
@@ -1634,16 +1634,16 @@
 <LM>w#w-d1t1287-6</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1287-10">
 <w.rf>
 <LM>w#w-d1t1287-10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1287-8">
 <w.rf>
@@ -2038,8 +2038,8 @@
 <LM>w#w-d1t1313-10</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1313-6">
 <w.rf>
@@ -2706,8 +2706,8 @@
 <LM>w#w-d1t1349-4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m122-d1t1349-7">
 <w.rf>
@@ -2910,8 +2910,8 @@
 <LM>w#w-d1t1353-11</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1353-12">
 <w.rf>
@@ -3008,8 +3008,8 @@
 <LM>w#w-d1t1355-11</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-2_^(přijde,_až_to_dodělá)</lemma>
-<tag>J,-------------</tag>
+<lemma>až-3_^(až_k_...,_až_dost)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1355-12">
 <w.rf>
@@ -3212,8 +3212,8 @@
 <LM>w#w-d1t1366-4</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1366-5">
 <w.rf>
@@ -3316,8 +3316,8 @@
 <LM>w#w-d1t1368-6</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1368-7">
 <w.rf>
@@ -3446,8 +3446,8 @@
 <LM>w#w-d1t1368-24</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1368-25">
 <w.rf>
@@ -3600,8 +3600,8 @@
 <LM>w#w-d1t1372-11</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-721-722">
 <w.rf>
@@ -3618,8 +3618,8 @@
 <LM>w#w-d1t1372-13</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1372-14">
 <w.rf>
@@ -3876,8 +3876,8 @@
 <LM>w#w-d1t1386-5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1386-6">
 <w.rf>
@@ -3940,8 +3940,8 @@
 <LM>w#w-d1t1386-14</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m122-d1t1386-16">
 <w.rf>

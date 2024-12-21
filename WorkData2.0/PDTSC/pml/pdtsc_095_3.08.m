@@ -468,8 +468,8 @@
 <LM>w#w-d1t2248-1</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m132-d1t2246-13">
 <w.rf>
@@ -688,8 +688,8 @@
 <LM>w#w-d1t2269-7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m132-d1t2269-8">
 <w.rf>
@@ -920,8 +920,8 @@
 <LM>w#w-d1t2283-1</LM>
 </w.rf>
 <form>Určitě</form>
-<lemma>určitě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>určitě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m132-d1e2278-x2-199">
 <w.rf>
@@ -994,8 +994,8 @@
 <LM>w#w-d1t2285-7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m132-d1t2285-8">
 <w.rf>
@@ -1313,7 +1313,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m132-d1t2313-2">
 <w.rf>
@@ -1410,8 +1410,8 @@
 <LM>w#w-d1t2318-7</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m132-d1t2318-13">
 <w.rf>
@@ -2016,7 +2016,7 @@
 <LM>w#w-d1t2354-3</LM>
 </w.rf>
 <form>Sehnala</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m132-d1t2354-1">
@@ -2658,8 +2658,8 @@
 <LM>w#w-d1t2375-6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m132-d1t2375-7">
 <w.rf>
@@ -3302,8 +3302,8 @@
 <LM>w#w-d1t2417-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m132-d1t2417-2">
 <w.rf>
@@ -3668,8 +3668,8 @@
 <LM>w#w-d1t2433-8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m132-d1t2435-1">
 <w.rf>

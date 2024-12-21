@@ -331,8 +331,8 @@
 <LM>w#w-ln95046-040-p2s2w4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-040-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1057,8 +1057,8 @@
 <LM>w#w-ln95046-040-p2s5w4</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-040-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1066,8 +1066,8 @@
 <LM>w#w-ln95046-040-p2s5w5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-040-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1129,8 +1129,8 @@
 <LM>w#w-ln95046-040-p2s5w12</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95046-040-p2s5w13">
 <src.rf>manual</src.rf>

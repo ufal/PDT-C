@@ -194,8 +194,8 @@
 <LM>w#w-mu_04-SCzechM-p0331-s1-w14</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_04-SCzechM-p0331-s1-w15">
 <w.rf>
@@ -266,8 +266,8 @@
 <LM>w#w-mu_04-SCzechM-p0331-s1-w23</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_04-SCzechM-p0331-s1-w24">
 <w.rf>
@@ -370,8 +370,8 @@
 <LM>w#w-mu_04-SCzechM-p0331-s1-w36</LM>
 </w.rf>
 <form>zkrátka</form>
-<lemma>zkrátka-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zkrátka-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_04-SCzechM-p0331-s1-w37">
 <w.rf>
@@ -466,8 +466,8 @@
 <LM>w#w-mu_04-SCzechM-p0331-s1-w48</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_04-SCzechM-p0331-s1-w49">
 <w.rf>
@@ -868,8 +868,8 @@
 <LM>w#w-mu_04-SCzechM-p0332-s1-w37</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_04-SCzechM-p0332-s1-w38">
 <w.rf>
@@ -900,8 +900,8 @@
 <LM>w#w-mu_04-SCzechM-p0332-s1-w41</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_04-SCzechM-p0332-s1-w42">
 <w.rf>
@@ -2415,8 +2415,8 @@
 <LM>w#w-mu_04-SCzechM-p0356-s1-w13</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_04-SCzechM-p0356-s1-w14">
 <w.rf>
@@ -3915,7 +3915,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_04-SCzechM-p0390-s1-w4">
 <w.rf>
@@ -4479,8 +4479,8 @@
 <LM>w#w-mu_04-SCzechM-p0396-s1-w17</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="mu_04-SCzechM-p0396-s1-w18">
 <w.rf>
@@ -5013,8 +5013,8 @@
 <LM>w#w-mu_04-SCzechM-p0413-s1-w4</LM>
 </w.rf>
 <form>ti</form>
-<lemma>ten</lemma>
-<tag>PDMP1----------</tag>
+<lemma>ty</lemma>
+<tag>PH-S3--2-------</tag>
 </m>
 <m id="mu_04-SCzechM-p0413-s1-w5">
 <w.rf>

@@ -57,7 +57,7 @@
 <LM>w#w-mf920901-042-p1s1Bw1</LM>
 </w.rf>
 <form>DOZVĚDÍ</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf920901-042-p1s1Bw2">
@@ -2437,7 +2437,7 @@
 <LM>w#w-mf920901-042-p4s6w11</LM>
 </w.rf>
 <form>dozvídá</form>
-<lemma>dozvídat</lemma>
+<lemma>dozvídat_,s_^(^DD**dovídat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-042-p4s6w12">
@@ -2839,7 +2839,7 @@
 <LM>w#w-mf920901-042-p5s3w1</LM>
 </w.rf>
 <form>Sehnala</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-042-p5s3w2">
@@ -3673,7 +3673,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-042-p5s10Aw5">
 <src.rf>manual</src.rf>
@@ -7875,7 +7875,7 @@
 </w.rf>
 <form>limitován</form>
 <lemma>limitovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-mf920901-042-p12s4w9">
 <src.rf>manual</src.rf>
@@ -8057,7 +8057,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-042-p12s5w11">
 <src.rf>manual</src.rf>
@@ -11283,7 +11283,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-042-p17s4w4">
 <src.rf>manual</src.rf>
@@ -11805,7 +11805,7 @@
 <LM>w#w-mf920901-042-p17s9w2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-042-p17s9w3">
@@ -12813,7 +12813,7 @@
 <LM>w#w-mf920901-042-p19s4w3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-042-p19s4w4">
@@ -13614,7 +13614,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf920901-042-p20s3w13">
 <src.rf>manual</src.rf>
@@ -13937,7 +13937,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920901-042-p20s6w7">
 <src.rf>manual</src.rf>

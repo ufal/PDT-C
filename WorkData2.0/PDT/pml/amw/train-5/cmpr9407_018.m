@@ -1300,8 +1300,8 @@
 <LM>w#w-cmpr9407-018-p5s5w2</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9407-018-p5s5w3">
 <src.rf>manual</src.rf>
@@ -1806,8 +1806,8 @@
 <LM>w#w-cmpr9407-018-p7s3w13</LM>
 </w.rf>
 <form>včetně</form>
-<lemma>včetně-1</lemma>
-<tag>Db-------------</tag>
+<lemma>včetně-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9407-018-p7s3w14">
 <src.rf>manual</src.rf>
@@ -1845,7 +1845,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-018-p7s4w3">
 <src.rf>manual</src.rf>
@@ -3110,7 +3110,7 @@
 </w.rf>
 <form>reagujeme</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAB--</tag>
 </m>
 <m id="m-cmpr9407-018-p8s8w21">
 <src.rf>manual</src.rf>
@@ -3148,7 +3148,7 @@
 </w.rf>
 <form>věnujeme</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAB--</tag>
 </m>
 <m id="m-cmpr9407-018-p8s9w4">
 <src.rf>manual</src.rf>
@@ -3842,8 +3842,8 @@
 <LM>w#w-cmpr9407-018-p11s1w2</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-cmpr9407-018-p11s1w3">
 <src.rf>manual</src.rf>
@@ -4046,7 +4046,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-018-p11s3w8">
 <src.rf>manual</src.rf>
@@ -4641,7 +4641,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-018-p11s7w5">
 <src.rf>manual</src.rf>
@@ -6209,7 +6209,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-018-p16s1w2">
 <src.rf>manual</src.rf>
@@ -7852,7 +7852,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9407-018-p20s5w4">
 <src.rf>manual</src.rf>

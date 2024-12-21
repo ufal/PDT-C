@@ -243,8 +243,8 @@
 <LM>w#w-ln95047-088-p2s2w4</LM>
 </w.rf>
 <form>obžalované</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAFS3----1A----</tag>
+<lemma>obžalovaná-2_^(*3ý-2)</lemma>
+<tag>NNFS3-----A----</tag>
 </m>
 <m id="m-ln95047-088-p2s2w5">
 <src.rf>manual</src.rf>
@@ -668,8 +668,8 @@
 <LM>w#w-ln95047-088-p2s3w22</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-088-p2s3w23">
 <src.rf>manual</src.rf>
@@ -841,8 +841,8 @@
 <LM>w#w-ln95047-088-p3s1w16</LM>
 </w.rf>
 <form>obžalovaná</form>
-<lemma>obžalovaný_^(*2t)</lemma>
-<tag>AAFS1----1A----</tag>
+<lemma>obžalovaná-2_^(*3ý-2)</lemma>
+<tag>NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-088-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1306,8 +1306,8 @@
 <LM>w#w-ln95047-088-p5s1w9</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-088-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1752,7 +1752,7 @@
 </w.rf>
 <form>angažoval</form>
 <lemma>angažovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95047-088-p5s3w22">
 <src.rf>manual</src.rf>

@@ -210,8 +210,8 @@
 <LM>w#w-d1t2157-5</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2157-6">
 <w.rf>
@@ -366,8 +366,8 @@
 <LM>w#w-d1t2169-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2169-4">
 <w.rf>
@@ -572,8 +572,8 @@
 <LM>w#w-d1t2175-20</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2175-21">
 <w.rf>
@@ -728,8 +728,8 @@
 <LM>w#w-d1t2186-18</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2186-19">
 <w.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-d1t2192-5</LM>
 </w.rf>
 <form>zabijačku</form>
-<lemma>zabijačka</lemma>
+<lemma>zabijačka_,s_^(^DD**zabíjačka)</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m007-d-id134734">
@@ -853,7 +853,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m007-d1t2196-3">
 <w.rf>
@@ -927,7 +927,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m007-d1t2196-14">
 <w.rf>
@@ -958,7 +958,7 @@
 <LM>w#w-d1t2196-18</LM>
 </w.rf>
 <form>zabijačku</form>
-<lemma>zabijačka</lemma>
+<lemma>zabijačka_,s_^(^DD**zabíjačka)</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m007-2744-2882">
@@ -1340,8 +1340,8 @@
 <LM>w#w-d1t2207-8</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2207-10">
 <w.rf>
@@ -1414,8 +1414,8 @@
 <LM>w#w-d1t2207-18</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2207-19">
 <w.rf>
@@ -1470,8 +1470,8 @@
 <LM>w#w-d1t2221-2</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2221-3">
 <w.rf>
@@ -1497,7 +1497,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m007-d1t2229-2">
 <w.rf>
@@ -1572,7 +1572,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m007-d1t2237-4">
 <w.rf>
@@ -1695,7 +1695,7 @@
 <LM>w#w-d1t2241-2</LM>
 </w.rf>
 <form>zabijačky</form>
-<lemma>zabijačka</lemma>
+<lemma>zabijačka_,s_^(^DD**zabíjačka)</lemma>
 <tag>NNFP4-----A----</tag>
 </m>
 <m id="m007-3402-3416">
@@ -1761,8 +1761,8 @@
 <LM>w#w-d1t2241-12</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m007-d1t2241-13">
 <w.rf>
@@ -1899,7 +1899,7 @@
 <LM>w#w-d1t2249-4</LM>
 </w.rf>
 <form>zabijačky</form>
-<lemma>zabijačka</lemma>
+<lemma>zabijačka_,s_^(^DD**zabíjačka)</lemma>
 <tag>NNFP4-----A----</tag>
 </m>
 <m id="m007-d1t2249-3">
@@ -2031,8 +2031,8 @@
 <LM>w#w-d1t2263-7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m007-d1t2263-8">
 <w.rf>
@@ -2139,7 +2139,7 @@
 <LM>w#w-d1t2278-4</LM>
 </w.rf>
 <form>zabijačka</form>
-<lemma>zabijačka</lemma>
+<lemma>zabijačka_,s_^(^DD**zabíjačka)</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m007-d-id138100">
@@ -2197,7 +2197,7 @@
 <LM>w#w-d1t2286-3</LM>
 </w.rf>
 <form>chlévka</form>
-<lemma>chlévek</lemma>
+<lemma>chlévek_,i_^(^DS**chlívek)</lemma>
 <tag>NNIS2-----A---1</tag>
 </m>
 <m id="m007-d1e2279-x2-1259">
@@ -2798,7 +2798,7 @@
 <LM>w#w-d1t2315-1</LM>
 </w.rf>
 <form>poočisťovat</form>
-<lemma>poočisťovat</lemma>
+<lemma>poočisťovat_,s_^(^DD**poočišťovat)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m007-d1t2315-2">
@@ -4034,8 +4034,8 @@
 <LM>w#w-d1t2376-4</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m007-d1t2376-5">
 <w.rf>
@@ -4238,7 +4238,7 @@
 <LM>w#w-d1t2387-3</LM>
 </w.rf>
 <form>zabijačce</form>
-<lemma>zabijačka</lemma>
+<lemma>zabijačka_,s_^(^DD**zabíjačka)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m007-d1t2387-4">

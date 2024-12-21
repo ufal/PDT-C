@@ -257,8 +257,8 @@
 <LM>w#w-ln95048-155-p2s2w6</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95048-155-p2s2w7">
 <src.rf>manual</src.rf>

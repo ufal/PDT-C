@@ -385,8 +385,8 @@
 <LM>w#w-vesm9301-034-p4s1w29</LM>
 </w.rf>
 <form>zemřelé</form>
-<lemma>zemřelý_^(*3ít)</lemma>
-<tag>AAMP4----1A----</tag>
+<lemma>zemřelý-2</lemma>
+<tag>NNMP4-----A----</tag>
 </m>
 <m id="m-vesm9301-034-p4s1w30">
 <src.rf>manual</src.rf>
@@ -5449,8 +5449,8 @@
 <LM>w#w-vesm9301-034-p8s2w11</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-vesm9301-034-p8s2w12">
 <src.rf>manual</src.rf>
@@ -7133,7 +7133,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-034-p9s6w3">
 <src.rf>manual</src.rf>
@@ -8870,7 +8870,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-034-p10s4w5">
 <src.rf>manual</src.rf>
@@ -10281,7 +10281,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-034-p11s5w12">
 <src.rf>manual</src.rf>
@@ -15220,7 +15220,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-034-p14s9w2">
 <src.rf>manual</src.rf>

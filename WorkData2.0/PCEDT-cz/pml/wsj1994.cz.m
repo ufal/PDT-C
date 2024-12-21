@@ -1779,7 +1779,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1994-001-p1s6W15-Ta">
 <src.rf>tagger-a</src.rf>

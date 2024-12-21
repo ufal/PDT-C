@@ -448,7 +448,7 @@
 <LM>w#w-ln94204-115-p2s2w12</LM>
 </w.rf>
 <form>tůni</form>
-<lemma>tůně</lemma>
+<lemma>tůň</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-115-p2s2w13">

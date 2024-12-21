@@ -644,8 +644,8 @@
 <LM>w#w-wsj1796-001-p1s2W20</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1796-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>

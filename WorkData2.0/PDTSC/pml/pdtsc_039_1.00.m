@@ -170,8 +170,8 @@
 <LM>w#w-213-811</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-213-812">
 <w.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-213-814</LM>
 </w.rf>
 <form>mikrofonu</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS6-----A----</tag>
 </m>
 <m id="m711-213-815">
@@ -340,7 +340,7 @@
 <LM>w#w-d1e9-x2-189</LM>
 </w.rf>
 <form>mikrofon</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m711-221-229">
@@ -1094,8 +1094,8 @@
 <LM>w#w-d1t48-5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m711-d1t48-6">
 <w.rf>
@@ -1264,8 +1264,8 @@
 <LM>w#w-d1t60-3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m711-d1t60-4">
 <w.rf>
@@ -1822,8 +1822,8 @@
 <LM>w#w-d1t116-6</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d-id57861">
 <w.rf>
@@ -2377,7 +2377,7 @@
 </w.rf>
 <form>Každé</form>
 <lemma>každý</lemma>
-<tag>AANS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m711-d1t182-11">
 <w.rf>
@@ -2562,8 +2562,8 @@
 <LM>w#w-d1t193-8</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t193-9">
 <w.rf>
@@ -2620,8 +2620,8 @@
 <LM>w#w-d1t195-6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m711-d1t195-7">
 <w.rf>
@@ -3199,7 +3199,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t213-13">
 <w.rf>
@@ -3412,7 +3412,7 @@
 <LM>w#w-d1t236-5</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m711-d-id61753">
@@ -3476,8 +3476,8 @@
 <LM>w#w-d1t238-1</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t238-2">
 <w.rf>

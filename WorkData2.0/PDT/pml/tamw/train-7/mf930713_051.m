@@ -423,8 +423,8 @@
 <LM>w#w-mf930713-051-p2s3w8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-051-p2s3w9">
 <src.rf>manual</src.rf>
@@ -1748,8 +1748,8 @@
 <LM>w#w-mf930713-051-p5s1w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-051-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1911,7 +1911,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-051-p5s1w20">
 <src.rf>manual</src.rf>

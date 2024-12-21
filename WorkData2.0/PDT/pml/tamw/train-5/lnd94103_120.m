@@ -633,8 +633,8 @@
 <LM>w#w-lnd94103-120-p1s4w13</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-120-p1s4w14">
 <src.rf>manual</src.rf>

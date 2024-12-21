@@ -573,7 +573,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m993-d1t64-13">
 <w.rf>
@@ -1720,8 +1720,8 @@
 <LM>w#w-d1t127-4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m993-d1t127-7">
 <w.rf>
@@ -1998,8 +1998,8 @@
 <LM>w#w-d1t142-5</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m993-d1t142-7">
 <w.rf>
@@ -2030,8 +2030,8 @@
 <LM>w#w-d1t142-10</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m993-d1t142-11">
 <w.rf>
@@ -2758,8 +2758,8 @@
 <LM>w#w-d1t192-20</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m993-d1t192-21">
 <w.rf>
@@ -2920,8 +2920,8 @@
 <LM>w#w-d1t202-1</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m993-d1t202-2">
 <w.rf>

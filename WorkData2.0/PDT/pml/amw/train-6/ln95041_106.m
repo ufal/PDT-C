@@ -293,7 +293,7 @@
 <LM>w#w-ln95041-106-p2s1Bw23</LM>
 </w.rf>
 <form>Oscarů</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln95041-106-p2s1Bw24">
@@ -621,8 +621,8 @@
 <LM>w#w-ln95041-106-p2s3w19</LM>
 </w.rf>
 <form>Díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP4-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="m-ln95041-106-p2s3w20">
 <src.rf>manual</src.rf>
@@ -985,8 +985,8 @@
 <LM>w#w-ln95041-106-p2s5w8</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95041-106-p2s5w9">
 <src.rf>manual</src.rf>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2103.cz.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
+<meta/>
 <trees>
 <LM id="T-wsj2103-001-p1s0">
 <atree.rf>a#a-wsj2103-001-p1s0</atree.rf>
@@ -20,20 +21,6 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>29</deepord>
-<children>
-<LM id="T-wsj2103-001-p1s0a2">
-<a>
-<lex.rf>a#a-wsj2103-001-p1s0W7-Ta</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>upravit</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>v</sempos>
-</gram>
-<deepord>8</deepord>
-<val_frame.rf>v#v-w7234f1</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s0a3">
 <a>
@@ -52,6 +39,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <deepord>3</deepord>
 <children>
 <LM id="T-wsj2103-001-p1s0a5">
@@ -103,6 +91,21 @@
 </LM>
 </children>
 </LM>
+<LM id="T-wsj2103-001-p1s0a2">
+<a>
+<lex.rf>a#a-wsj2103-001-p1s0W7-Ta</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>upravit</t_lemma>
+<functor>PRED</functor>
+<sentmod>enunc</sentmod>
+<is_member>1</is_member>
+<gram>
+<sempos>v</sempos>
+</gram>
+<deepord>8</deepord>
+<val_frame.rf>v#v41mstA</val_frame.rf>
+<children>
 <LM id="T-wsj2103-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj2103-001-p1s0W9-Ta</lex.rf>
@@ -200,20 +203,22 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>být</proto_lemma>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj2103-001-p1s0W16-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>což</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 </gram>
@@ -349,6 +354,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>1996</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
@@ -383,29 +389,29 @@
 <nodetype>complex</nodetype>
 <t_lemma>prodloužit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>30</deepord>
-<val_frame.rf>v#v-w4326f1</val_frame.rf>
-<children>
-<LM id="T-wsj2103-001-p1s0a44">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>31</deepord>
-<coref_text>
+<discourse>
 <LM>
-<target_node.rf>T-wsj2103-001-p1s0a10</target_node.rf>
-<type>SPEC</type>
+<target_node.rf>T-wsj2103-001-p1s0a2</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>T-wsj2103-001-p1s0a1</LM>
+</t-connectors.rf>
 </LM>
-</coref_text>
-</LM>
+</discourse>
+<val_frame.rf>v#v41hbxA</val_frame.rf>
+<children>
 <LM id="T-wsj2103-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj2103-001-p1s0W33-Ta</lex.rf>
@@ -416,7 +422,7 @@
 <gram>
 <sempos>n.denot.neg</sempos>
 </gram>
-<deepord>32</deepord>
+<deepord>31</deepord>
 <children>
 <LM id="T-wsj2103-001-p1s0a34">
 <a>
@@ -428,7 +434,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>33</deepord>
+<deepord>32</deepord>
 <coref_text>
 <LM>
 <target_node.rf>T-wsj2103-001-p1s0a9</target_node.rf>
@@ -451,7 +457,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>35</deepord>
+<deepord>34</deepord>
 <children>
 <LM id="T-wsj2103-001-p1s0a37">
 <a>
@@ -466,7 +472,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>34</deepord>
+<deepord>33</deepord>
 </LM>
 </children>
 </LM>
@@ -483,7 +489,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>37</deepord>
+<deepord>36</deepord>
 <children>
 <LM id="T-wsj2103-001-p1s0a41">
 <a>
@@ -498,7 +504,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>36</deepord>
+<deepord>35</deepord>
 </LM>
 </children>
 </LM>
@@ -520,11 +526,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>prohlásit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w4354f1</val_frame.rf>
+<val_frame.rf>v#v41hddB</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s1a3">
 <a>
@@ -537,12 +544,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<coref_text>
-<LM>
-<target_node.rf>T-wsj2103-001-p1s0a44</target_node.rf>
-<type>SPEC</type>
-</LM>
-</coref_text>
 <children>
 <LM id="T-wsj2103-001-p1s1a2">
 <a>
@@ -551,6 +552,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>Hackensack</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
@@ -588,6 +590,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <deepord>5</deepord>
 <children>
 <LM id="T-wsj2103-001-p1s1a8">
@@ -630,7 +633,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w732f1</val_frame.rf>
+<val_frame.rf>v#v41afvD</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s1a12">
 <a>
@@ -684,8 +687,9 @@
 <lex.rf>a#a-wsj2103-001-p1s1W15-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>každý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 </gram>
@@ -802,8 +806,9 @@
 <lex.rf>a#a-wsj2103-001-p1s1W22-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>nový</t_lemma>
+<t_lemma>nově</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>nový</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
@@ -885,11 +890,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>28</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s1a32">
 <a>
@@ -898,6 +904,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 </gram>
@@ -917,7 +924,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>29</deepord>
-</LM>
+<children>
 <LM id="T-wsj2103-001-p1s1a35">
 <a>
 <lex.rf>a#a-wsj2103-001-p1s1W38-Ta</lex.rf>
@@ -927,7 +934,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>papír</t_lemma>
-<functor>SUBS</functor>
+<functor>EFF</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
@@ -956,6 +963,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>31</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1137,12 +1146,13 @@
 <nodetype>complex</nodetype>
 <t_lemma>úročit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w7261f1</val_frame.rf>
+<val_frame.rf>v#v41mtxA</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s2a7">
 <a>
@@ -1221,20 +1231,37 @@
 <is_generated>1</is_generated>
 <t_lemma>úročit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w7261f1</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>T-wsj2103-001-p1s2a5</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+<comment>PHASE:3 TYPECHECKED-AUTO; NO-INTRA-PDTB</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>T-wsj2103-001-p1s2a1</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41mtxA</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj2103-001-p1s2W13-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>potom</t_lemma>
+<t_lemma>poté</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>potom</proto_lemma>
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
@@ -1281,11 +1308,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>nabízet</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w1949f1</val_frame.rf>
+<val_frame.rf>v#v41clwA</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s3a42">
 <nodetype>complex</nodetype>
@@ -1467,7 +1495,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w9746f1</val_frame.rf>
+<val_frame.rf>v#v41rqlA</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s3a43">
 <nodetype>qcomplex</nodetype>
@@ -1520,8 +1548,9 @@
 <lex.rf>a#a-wsj2103-001-p1s3W19-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>každý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 </gram>
@@ -1656,6 +1685,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>1996</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
@@ -1768,11 +1798,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>záviset</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w9283f1</val_frame.rf>
+<val_frame.rf>v#v41qtaA</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s4a2">
 <a>
@@ -1903,31 +1934,20 @@
 </gram>
 <deepord>11</deepord>
 <children>
-<LM id="T-wsj2103-001-p1s4a21">
+<LM id="T-wsj2103-001-p1s4a17">
 <a>
+<lex.rf>a#a-wsj2103-001-p1s4W15-Ta</lex.rf>
 <aux.rf>
 <LM>a#a-wsj2103-001-p1s4W14-Ta</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#EmpNoun</t_lemma>
-<functor>RESTR</functor>
-<deepord>12</deepord>
-<children>
-<LM id="T-wsj2103-001-p1s4a17">
-<a>
-<lex.rf>a#a-wsj2103-001-p1s4W15-Ta</lex.rf>
-</a>
-<nodetype>complex</nodetype>
 <t_lemma>jiný</t_lemma>
-<functor>RSTR</functor>
+<functor>RESTR</functor>
 <gram>
-<sempos>adj.denot</sempos>
+<sempos>n.denot</sempos>
 </gram>
-<deepord>13</deepord>
-</LM>
-</children>
+<deepord>12</deepord>
 </LM>
 <LM id="T-wsj2103-001-p1s4a20">
 <a>
@@ -1936,7 +1956,7 @@
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>PAT</functor>
-<deepord>16</deepord>
+<deepord>15</deepord>
 <children>
 <LM id="T-wsj2103-001-p1s4a18">
 <a>
@@ -1948,19 +1968,20 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>15</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="T-wsj2103-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj2103-001-p1s4W17-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>minimální</t_lemma>
+<t_lemma>minimálně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>minimální</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>14</deepord>
+<deepord>13</deepord>
 </LM>
 </children>
 </LM>
@@ -1974,7 +1995,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>17</deepord>
+<deepord>16</deepord>
 </LM>
 </children>
 </LM>
@@ -2000,11 +2021,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>prohlásit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w4354f1</val_frame.rf>
+<val_frame.rf>v#v41hddB</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s5a2">
 <a>
@@ -2019,7 +2041,7 @@
 <deepord>1</deepord>
 <coref_text>
 <LM>
-<target_node.rf>T-wsj2103-001-p1s3a5</target_node.rf>
+<target_node.rf>T-wsj2103-001-p1s0a10</target_node.rf>
 <type>SPEC</type>
 </LM>
 </coref_text>
@@ -2031,6 +2053,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>Alpine</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
@@ -2047,7 +2070,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w4354f1</val_frame.rf>
+<val_frame.rf>v#v41hddB</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s5a6">
 <a>
@@ -2056,6 +2079,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 </gram>
@@ -2078,7 +2102,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w3462f1</val_frame.rf>
+<val_frame.rf>v#v41fmmA</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s5a31">
 <nodetype>atom</nodetype>
@@ -2126,7 +2150,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w5780f1</val_frame.rf>
+<val_frame.rf>v#v41jzaA</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s5a32">
 <nodetype>qcomplex</nodetype>
@@ -2178,7 +2202,7 @@
 <sempos>v</sempos>
 </gram>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w2451f1</val_frame.rf>
+<val_frame.rf>v#v41dnkA</val_frame.rf>
 <children>
 <LM id="T-wsj2103-001-p1s5a34">
 <nodetype>complex</nodetype>

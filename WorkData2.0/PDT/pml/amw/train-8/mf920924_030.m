@@ -93,8 +93,8 @@
 <LM>w#w-mf920924-030-p2s1w6</LM>
 </w.rf>
 <form>navzdory</form>
-<lemma>navzdory-2</lemma>
-<tag>Db-------------</tag>
+<lemma>navzdory-1</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-mf920924-030-p2s1w7">
 <src.rf>manual</src.rf>

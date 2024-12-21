@@ -936,7 +936,7 @@
 </w.rf>
 <form>záznamy</form>
 <lemma>záznam</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-wsj0656-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>

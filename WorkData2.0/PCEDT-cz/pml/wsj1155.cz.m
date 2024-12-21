@@ -3544,7 +3544,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1155-001-p1s14W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3777,8 +3777,8 @@
 <LM>w#w-wsj1155-001-p1s14W28</LM>
 </w.rf>
 <form>až</form>
-<lemma>až-3_^(až_k_...,_až_dost)</lemma>
-<tag>TT-------------</tag>
+<lemma>až-1_^(2_až_3)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1155-001-p1s14W29-Ta">
 <src.rf>tagger-a</src.rf>

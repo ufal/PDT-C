@@ -448,8 +448,8 @@
 <LM>w#w-ln94200-17-p2s3w8</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-17-p2s3w9">
 <src.rf>manual</src.rf>

@@ -1114,8 +1114,8 @@
 <LM>w#w-es_09-SCzechM-p0896-s1-w7</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_09-SCzechM-p0896-s1-w8">
 <w.rf>
@@ -1226,8 +1226,8 @@
 <LM>w#w-es_09-SCzechM-p0896-s1-w21</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="es_09-SCzechM-p0896-s1-w22">
 <w.rf>
@@ -1484,8 +1484,8 @@
 <LM>w#w-es_09-SCzechM-p0897-s1-w20</LM>
 </w.rf>
 <form>Díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP4-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="es_09-SCzechM-p0897-s1-w21">
 <w.rf>
@@ -1650,7 +1650,7 @@
 <LM>w#w-es_09-SCzechM-p0901-s1-w6</LM>
 </w.rf>
 <form>utvářely</form>
-<lemma>utvářet_^(tvořit)</lemma>
+<lemma>utvářet</lemma>
 <tag>VpTP----R-AAI--</tag>
 </m>
 <m id="es_09-SCzechM-p0901-s1-w7">
@@ -2009,8 +2009,8 @@
 <LM>w#w-es_09-SCzechM-p0913-s1-w10</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_09-SCzechM-p0913-s1-w11">
 <w.rf>
@@ -2275,7 +2275,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_09-SCzechM-p0924-s1-w2">
 <w.rf>
@@ -3191,8 +3191,8 @@
 <LM>w#w-es_09-SCzechM-p0941-s1-w10</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať-2</lemma>
-<tag>TT-------------</tag>
+<lemma>ať-3</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="es_09-SCzechM-p0941-s1-w11">
 <w.rf>
@@ -4671,7 +4671,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_09-SCzechM-p0971-s1-w5">
 <w.rf>

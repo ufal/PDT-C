@@ -2462,8 +2462,8 @@
 <LM>w#w-ln94204-56-p6s6w1</LM>
 </w.rf>
 <form>Ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-56-p6s6w2">
 <src.rf>manual</src.rf>
@@ -2781,8 +2781,8 @@
 <LM>w#w-ln94204-56-p7s2w10</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-56-p7s2w11">
 <src.rf>manual</src.rf>
@@ -3017,8 +3017,8 @@
 <LM>w#w-ln94204-56-p7s3w18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-56-p7s3w19">
 <src.rf>manual</src.rf>

@@ -395,7 +395,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln95045-041-p2s3w3">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln95045-041-p2s3w9">
 <src.rf>manual</src.rf>
@@ -940,8 +940,8 @@
 <LM>w#w-ln95045-041-p2s6w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-041-p2s6w8">
 <src.rf>manual</src.rf>

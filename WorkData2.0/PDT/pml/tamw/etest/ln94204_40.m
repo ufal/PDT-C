@@ -250,8 +250,8 @@
 <LM>w#w-ln94204-40-p2s2w3</LM>
 </w.rf>
 <form>sice</form>
-<lemma>sice-2</lemma>
-<tag>Db-------------</tag>
+<lemma>sice-1_^(spojka;_připouští_se_určitá_fakta)</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94204-40-p2s2w4">
 <src.rf>manual</src.rf>
@@ -468,8 +468,8 @@
 <LM>w#w-ln94204-40-p2s3w3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-40-p2s3w4">
 <src.rf>manual</src.rf>

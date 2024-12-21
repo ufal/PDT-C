@@ -432,8 +432,8 @@
 <LM>w#w-ln94208-73-p2s3w5</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-73-p2s3w6">
 <src.rf>manual</src.rf>
@@ -441,8 +441,8 @@
 <LM>w#w-ln94208-73-p2s3w6</LM>
 </w.rf>
 <form>blízko</form>
-<lemma>blízko-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>blízko-3</lemma>
+<tag>RR--3----------</tag>
 </m>
 <m id="m-ln94208-73-p2s3w7">
 <src.rf>manual</src.rf>

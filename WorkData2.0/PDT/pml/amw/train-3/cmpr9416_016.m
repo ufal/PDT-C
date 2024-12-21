@@ -3600,8 +3600,8 @@
 <LM>w#w-cmpr9416-016-p12s7w13</LM>
 </w.rf>
 <form>uvnitř</form>
-<lemma>uvnitř-2</lemma>
-<tag>Db-------------</tag>
+<lemma>uvnitř-1</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-cmpr9416-016-p12s7w14">
 <src.rf>manual</src.rf>
@@ -3911,7 +3911,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-016-p13s1w5">
 <src.rf>manual</src.rf>
@@ -4304,7 +4304,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-016-p13s4w12">
 <src.rf>manual</src.rf>
@@ -4394,7 +4394,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-cmpr9416-016-p13s4w22">
 <src.rf>manual</src.rf>
@@ -5891,8 +5891,8 @@
 <LM>w#w-cmpr9416-016-p17s5w15</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-016-p17s5w16">
 <src.rf>manual</src.rf>

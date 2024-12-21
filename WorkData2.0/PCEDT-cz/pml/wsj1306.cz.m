@@ -697,8 +697,8 @@
 <LM>w#w-wsj1306-001-p1s3W13</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1306-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1079,7 +1079,7 @@
 </w.rf>
 <form>dominují</form>
 <lemma>dominovat</lemma>
-<tag>VB-P---3P-AAB--</tag>
+<tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-wsj1306-001-p1s4W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1587,7 +1587,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-wsj1306-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>

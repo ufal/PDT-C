@@ -279,8 +279,8 @@
 <LM>w#w-wsj2393-001-p1s1W1</LM>
 </w.rf>
 <form>To</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj2393-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2456,7 +2456,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2393-001-p1s9W15-Ta">
 <src.rf>tagger-a</src.rf>

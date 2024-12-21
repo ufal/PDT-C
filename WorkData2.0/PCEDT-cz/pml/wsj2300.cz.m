@@ -4345,7 +4345,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj2300-001-p1s21W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5210,7 +5210,7 @@
 </w.rf>
 <form>nad</form>
 <lemma>nad-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-wsj2300-001-p1s25W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5418,8 +5418,8 @@
 <LM>w#w-wsj2300-001-p1s26W15</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2300-001-p1s26W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6729,8 +6729,8 @@
 <LM>w#w-wsj2300-001-p1s33W16</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2300-001-p1s33W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6857,8 +6857,8 @@
 <LM>w#w-wsj2300-001-p1s34W7</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2300-001-p1s34W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7558,7 +7558,6 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s38W3</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>15.07</form>
 <lemma>15.07</lemma>
 <tag>C=-------------</tag>
@@ -10025,7 +10024,6 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s51W6</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>15.30</form>
 <lemma>15.30</lemma>
 <tag>C=-------------</tag>
@@ -11398,7 +11396,6 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s57W3</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>15.30</form>
 <lemma>15.30</lemma>
 <tag>C=-------------</tag>
@@ -11936,7 +11933,6 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s60W3</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>15.45</form>
 <lemma>15.45</lemma>
 <tag>C=-------------</tag>
@@ -13363,8 +13359,8 @@
 <LM>w#w-wsj2300-001-p1s66W13</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2300-001-p1s66W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15230,8 +15226,8 @@
 <LM>w#w-wsj2300-001-p1s75W19</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2300-001-p1s75W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17041,7 +17037,7 @@
 </w.rf>
 <form>zachovaly</form>
 <lemma>zachovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2300-001-p1s84W30-Ta">
 <src.rf>tagger-a</src.rf>

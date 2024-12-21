@@ -316,8 +316,8 @@
 <LM>w#w-d1t501-21</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t501-22">
 <w.rf>
@@ -333,7 +333,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m711-d1e464-x7-5302">
 <w.rf>
@@ -613,7 +613,7 @@
 </w.rf>
 <form>vdala</form>
 <lemma>vdát</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m711-d1t531-2">
 <w.rf>
@@ -888,8 +888,8 @@
 <LM>w#w-d1t535-16</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t535-17">
 <w.rf>
@@ -3010,8 +3010,8 @@
 <LM>w#w-d1t641-12</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>ten</lemma>
+<tag>PDNS4----------</tag>
 </m>
 <m id="m711-d1t641-15">
 <w.rf>
@@ -3312,8 +3312,8 @@
 <LM>w#w-d1t657-9</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t657-10">
 <w.rf>
@@ -3458,8 +3458,8 @@
 <LM>w#w-d1t662-9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t662-11">
 <w.rf>
@@ -3776,8 +3776,8 @@
 <LM>w#w-d1t681-11</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t681-12">
 <w.rf>
@@ -4218,8 +4218,8 @@
 <LM>w#w-d1t702-6</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t702-4">
 <w.rf>
@@ -4340,8 +4340,8 @@
 <LM>w#w-d1t702-22</LM>
 </w.rf>
 <form>akorát</form>
-<lemma>akorát-1_,h</lemma>
-<tag>Db-------------</tag>
+<lemma>akorát-2_,h</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m711-d1t702-23">
 <w.rf>

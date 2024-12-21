@@ -970,7 +970,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-153-p2s5w28">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-mf920924-153-p2s6w14</LM>
 </w.rf>
 <form>ázerbájdžánské</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-mf920924-153-p2s6w15">
@@ -1399,7 +1399,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-153-p2s8w3">
 <src.rf>manual</src.rf>

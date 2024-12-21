@@ -1119,8 +1119,8 @@
 <LM>w#w-wsj0474-001-p1s2W40</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0474-001-p1s2W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1175,8 +1175,8 @@
 <LM>w#w-wsj0474-001-p1s3W3</LM>
 </w.rf>
 <form>však</form>
-<lemma>však-2</lemma>
-<tag>TT-------------</tag>
+<lemma>však-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0474-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2127,7 +2127,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0474-001-p1s6W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3839,8 +3839,8 @@
 <LM>w#w-wsj0474-001-p1s12W6</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0474-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3893,8 +3893,8 @@
 <LM>w#w-wsj0474-001-p1s12W12</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0474-001-p1s12W13-Ta">
 <src.rf>tagger-a</src.rf>

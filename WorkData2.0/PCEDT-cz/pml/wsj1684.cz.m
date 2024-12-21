@@ -868,7 +868,7 @@
 <LM>w#w-wsj1684-001-p1s3W9</LM>
 </w.rf>
 <form>sehnal</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1684-001-p1s3W10-Ta">
@@ -2301,7 +2301,7 @@
 <LM>w#w-wsj1684-001-p1s8W32</LM>
 </w.rf>
 <form>vyzývatele</form>
-<lemma>vyzývatel</lemma>
+<lemma>vyzývatel_,s_^(^DD**vyzyvatel)</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-wsj1684-001-p1s8W33-Ta">
@@ -3926,8 +3926,8 @@
 <LM>w#w-wsj1684-001-p1s15W19</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1684-001-p1s15W20-Ta">
 <src.rf>tagger-a</src.rf>

@@ -264,13 +264,15 @@
 <children>
 <LM id="a-ln94203-36-p1s3w1">
 <m.rf>m#m-ln94203-36-p1s3w1</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94203-36-p1s3w3">
 <m.rf>m#m-ln94203-36-p1s3w3</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>

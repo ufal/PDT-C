@@ -1670,7 +1670,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1144-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3053,8 +3053,8 @@
 <LM>w#w-wsj1144-001-p1s12W25</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1144-001-p1s12W26-Ta">
 <src.rf>tagger-a</src.rf>

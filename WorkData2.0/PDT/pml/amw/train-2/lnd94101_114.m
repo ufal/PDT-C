@@ -2122,8 +2122,8 @@
 <LM>w#w-lnd94101-114-p1s12w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-lnd94101-114-p1s12w2">
 <src.rf>manual</src.rf>

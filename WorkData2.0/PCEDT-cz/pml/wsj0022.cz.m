@@ -998,8 +998,8 @@
 <LM>w#w-wsj0022-001-p1s5W23</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0022-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1410,8 +1410,8 @@
 <LM>w#w-wsj0022-001-p1s8W6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0022-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1583,8 +1583,8 @@
 <LM>w#w-wsj0022-001-p1s9W15</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0022-001-p1s9W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1828,8 +1828,8 @@
 <LM>w#w-wsj0022-001-p1s10W7</LM>
 </w.rf>
 <form>x</form>
-<lemma>x-5_^(náhr._symbolu_krát,_mat._symbol)</lemma>
-<tag>J*-------------</tag>
+<lemma>x-2</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0022-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1891,8 +1891,8 @@
 <LM>w#w-wsj0022-001-p1s10W14</LM>
 </w.rf>
 <form>x</form>
-<lemma>x-5_^(náhr._symbolu_krát,_mat._symbol)</lemma>
-<tag>J*-------------</tag>
+<lemma>x-2</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0022-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>

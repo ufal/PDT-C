@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lnd94103_015.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -37,8 +37,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w7951f2</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41ocbQ</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s1a0">
 <nodetype>qcomplex</nodetype>
@@ -98,6 +98,8 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<sense_PDTB3>IGNORE</sense_PDTB3>
+<sense_PDTB3_manual>IGNORE</sense_PDTB3_manual>
 <src>pdit10</src>
 </LM>
 </discourse>
@@ -233,7 +235,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w1138f1</val_frame.rf>
+<val_frame.rf>v#v41azhA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s2w10">
 <a>
@@ -253,6 +255,7 @@ predchozimu stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>teď</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>teď</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.def</sempos>
@@ -304,6 +307,7 @@ predchozimu stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -316,7 +320,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s3Aw2">
 <a>
@@ -473,6 +477,9 @@ predchozimu stromu?</discourse_comment>
 <LM id="t-lnd94103-015-p1s3Bw4">
 <a>
 <lex.rf>a#a-lnd94103-015-p1s3Bw4</lex.rf>
+<aux.rf>
+<LM>a#a-lnd94103-015-p1s3Bw3</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>platit</t_lemma>
@@ -490,7 +497,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w3468f1</val_frame.rf>
+<val_frame.rf>v#v41fmtA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s3Bw2">
 <a>
@@ -524,12 +531,15 @@ predchozimu stromu?</discourse_comment>
 <LM id="t-lnd94103-015-p1s3Ba2">
 <a>
 <lex.rf>a#a-lnd94103-015-p1s3Bw4</lex.rf>
+<aux.rf>
+<LM>a#a-lnd94103-015-p1s3Bw3</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>platit</t_lemma>
 <functor>PRED</functor>
-<sentmod>enunc</sentmod>
+<sentmod>inter</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -549,13 +559,14 @@ predchozimu stromu?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-015-p1s3Bw6</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w3468f3</val_frame.rf>
+<val_frame.rf>v#v41fmtB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s3Bw7">
 <a>
@@ -564,6 +575,7 @@ predchozimu stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>kolik</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>kolik</proto_lemma>
 <subfunctor>nr</subfunctor>
 <gram>
 <sempos>adj.quant.indef</sempos>
@@ -600,6 +612,7 @@ predchozimu stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -612,7 +625,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s4Aw1">
 <a>
@@ -657,7 +670,7 @@ predchozimu stromu?</discourse_comment>
 <nodetype>coap</nodetype>
 <t_lemma>nebo</t_lemma>
 <functor>DISJ</functor>
-<deepord>13</deepord>
+<deepord>11</deepord>
 <children>
 <LM id="t-lnd94103-015-p1s4Aw10">
 <a>
@@ -682,7 +695,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w1179f1</val_frame.rf>
+<val_frame.rf>v#v41bbiI</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s4Aw9">
 <a>
@@ -736,28 +749,6 @@ predchozimu stromu?</discourse_comment>
 <tfa>t</tfa>
 <deepord>7</deepord>
 </LM>
-<LM id="t-lnd94103-015-p1s4Aa2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#EmpVerb</t_lemma>
-<functor>COMPL</functor>
-<tfa>t</tfa>
-<deepord>10</deepord>
-<compl.rf>
-<LM>t-lnd94103-015-p1s4Aa1</LM>
-</compl.rf>
-<children>
-<LM id="t-lnd94103-015-p1s4Aa3">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Cor</t_lemma>
-<functor>ACT</functor>
-<tfa>t</tfa>
-<deepord>9</deepord>
-<coref_gram.rf>
-<LM>t-lnd94103-015-p1s4Aa1</LM>
-</coref_gram.rf>
-</LM>
 <LM id="t-lnd94103-015-p1s4Aw12">
 <a>
 <lex.rf>a#a-lnd94103-015-p1s4Aw12</lex.rf>
@@ -767,7 +758,7 @@ predchozimu stromu?</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>peněženka</t_lemma>
-<functor>PAT</functor>
+<functor>ACMP</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -775,8 +766,8 @@ predchozimu stromu?</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>11</deepord>
-</LM>
+<deepord>9</deepord>
+<children>
 <LM id="t-lnd94103-015-p1s4Aw14">
 <a>
 <lex.rf>a#a-lnd94103-015-p1s4Aw14</lex.rf>
@@ -795,7 +786,7 @@ predchozimu stromu?</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>12</deepord>
+<deepord>10</deepord>
 </LM>
 </children>
 </LM>
@@ -822,7 +813,7 @@ predchozimu stromu?</discourse_comment>
 <factmod>asserted</factmod>
 </gram>
 <tfa>f</tfa>
-<deepord>15</deepord>
+<deepord>13</deepord>
 <discourse>
 <LM>
 <target_node.rf>t-lnd94103-015-p1s4Aw10</target_node.rf>
@@ -830,13 +821,14 @@ predchozimu stromu?</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
+<sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-015-p1s4Aw16</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w3996f1</val_frame.rf>
+<val_frame.rf>v#v41gmvA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s4Aw17">
 <a>
@@ -853,11 +845,11 @@ predchozimu stromu?</discourse_comment>
 <politeness>basic</politeness>
 </gram>
 <tfa>t</tfa>
-<deepord>14</deepord>
+<deepord>12</deepord>
 <coref_text>
 <LM>
-<target_node.rf>t-lnd94103-015-p1s4Aa3</target_node.rf>
-<type>GEN</type>
+<target_node.rf>t-lnd94103-015-p1s4Aa1</target_node.rf>
+<type>SPEC</type>
 </LM>
 </coref_text>
 </LM>
@@ -875,7 +867,7 @@ predchozimu stromu?</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>16</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="t-lnd94103-015-p1s4Aw20">
 <a>
@@ -891,7 +883,7 @@ predchozimu stromu?</discourse_comment>
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>17</deepord>
+<deepord>15</deepord>
 </LM>
 </children>
 </LM>
@@ -917,7 +909,7 @@ predchozimu stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>dát_si</t_lemma>
 <functor>PRED</functor>
-<sentmod>enunc</sentmod>
+<sentmod>inter</sentmod>
 <gram>
 <sempos>v</sempos>
 <deontmod>poss</deontmod>
@@ -937,7 +929,7 @@ predchozimu stromu?</discourse_comment>
 <src>pdit10</src>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w372f1</val_frame.rf>
+<val_frame.rf>v#v41pqC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s4Ba1">
 <nodetype>complex</nodetype>
@@ -1034,7 +1026,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w6261f1</val_frame.rf>
+<val_frame.rf>v#v41kxzA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s5Aw1">
 <a>
@@ -1139,7 +1131,7 @@ predchozimu stromu?</discourse_comment>
 <src>pdit10</src>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1058f1</val_frame.rf>
+<val_frame.rf>v#v41avoB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s5Bw1">
 <a>
@@ -1217,7 +1209,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w374f1</val_frame.rf>
+<val_frame.rf>v#v41psZ</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s6Aw2">
 <a>
@@ -1292,7 +1284,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w1903f1</val_frame.rf>
+<val_frame.rf>v#v41cjnA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s6Aa1">
 <nodetype>qcomplex</nodetype>
@@ -1323,7 +1315,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w3991f1</val_frame.rf>
+<val_frame.rf>v#v41gmoA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s6Aa2">
 <nodetype>qcomplex</nodetype>
@@ -1475,7 +1467,7 @@ predchozimu stromu?</discourse_comment>
 <src>pdit10</src>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w7078f1</val_frame.rf>
+<val_frame.rf>v#v41mkvA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s6Bw1">
 <a>
@@ -1561,6 +1553,7 @@ predchozimu stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1573,7 +1566,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s7a0">
 <nodetype>atom</nodetype>
@@ -1604,6 +1597,7 @@ predchozimu stromu?</discourse_comment>
 <lex.rf>a#a-lnd94103-015-p1s7w7</lex.rf>
 <aux.rf>
 <LM>a#a-lnd94103-015-p1s7w5</LM>
+<LM>a#a-lnd94103-015-p1s7w6</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -1620,7 +1614,7 @@ predchozimu stromu?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w9914f1</val_frame.rf>
+<val_frame.rf>v#v41ryyE</val_frame.rf>
 <children>
 <LM id="t-lnd94103-015-p1s7w4">
 <a>
@@ -1629,6 +1623,7 @@ predchozimu stromu?</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>kde</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>kde</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>

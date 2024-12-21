@@ -900,8 +900,8 @@
 <LM>w#w-ln95042-024-p2s3w24</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95042-024-p2s3w25">
 <src.rf>manual</src.rf>
@@ -1727,8 +1727,8 @@
 <LM>w#w-ln95042-024-p3s1w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-ln95042-024-p3s1w2">
 <src.rf>manual</src.rf>

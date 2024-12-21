@@ -611,7 +611,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-059-p1s4w34">
 <src.rf>manual</src.rf>
@@ -828,8 +828,8 @@
 <LM>w#w-lnd94104-059-p1s5w21</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd94104-059-p1s5w22">
 <src.rf>manual</src.rf>

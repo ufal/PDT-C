@@ -122,8 +122,8 @@
 <LM>w#w-mf920925-092-p2s1Bw4</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-092-p2s1Bw5">
 <src.rf>manual</src.rf>

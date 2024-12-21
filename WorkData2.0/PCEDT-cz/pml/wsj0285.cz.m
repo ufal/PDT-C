@@ -442,7 +442,7 @@
 </w.rf>
 <form>blokovaly</form>
 <lemma>blokovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-wsj0285-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -896,7 +896,7 @@
 </w.rf>
 <form>blokovalo</form>
 <lemma>blokovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-wsj0285-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1277,8 +1277,8 @@
 <LM>w#w-wsj0285-001-p1s5W1</LM>
 </w.rf>
 <form>Začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0285-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>

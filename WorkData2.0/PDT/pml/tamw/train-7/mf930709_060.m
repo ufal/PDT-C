@@ -82,8 +82,8 @@
 <LM>w#w-mf930709-060-p2s1w8</LM>
 </w.rf>
 <form>cestujících</form>
-<lemma>cestující_^(*5ovat)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>cestující-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-mf930709-060-p2s1w9">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-060-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1694,7 +1694,7 @@
 </w.rf>
 <form>AIR</form>
 <lemma>Air_;m</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIXX-----A----</tag>
 </m>
 <m id="m-mf930709-060-p5s2w23">
 <src.rf>manual</src.rf>

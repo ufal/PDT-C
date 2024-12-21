@@ -1117,8 +1117,8 @@
 <LM>w#w-wsj1547-001-p1s5W8</LM>
 </w.rf>
 <form>přeživšího</form>
-<lemma>přeživší_^(*4ít)</lemma>
-<tag>AMMS4-----A----</tag>
+<lemma>přeživší-2</lemma>
+<tag>NNMS4-----A----</tag>
 </m>
 <m id="m-wsj1547-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1790,7 +1790,7 @@
 <LM>w#w-wsj1547-001-p1s8W3</LM>
 </w.rf>
 <form>baseball</form>
-<lemma>baseball</lemma>
+<lemma>baseball_,s_^(^DD**basebal)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-wsj1547-001-p1s8W4-Ta">
@@ -2923,8 +2923,8 @@
 <LM>w#w-wsj1547-001-p1s12W14</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1547-001-p1s12W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4032,7 +4032,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1547-001-p1s17W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5381,7 +5381,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1547-001-p1s25W4-Ta">
 <src.rf>tagger-a</src.rf>

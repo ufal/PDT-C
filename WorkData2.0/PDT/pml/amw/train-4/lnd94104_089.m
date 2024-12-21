@@ -420,7 +420,7 @@
 <LM>w#w-lnd94104-089-p1s2w19</LM>
 </w.rf>
 <form>postotalitních</form>
-<lemma>postotalitní</lemma>
+<lemma>postotalitní_,i_^(^DS**posttotalitní)</lemma>
 <tag>AANP2----1A----</tag>
 </m>
 <m id="m-lnd94104-089-p1s2w20">
@@ -1092,7 +1092,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-089-p1s5w30">
 <src.rf>manual</src.rf>
@@ -2412,7 +2412,7 @@
 <LM>w#w-lnd94104-089-p1s12w32</LM>
 </w.rf>
 <form>sehnali</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-089-p1s12w33">

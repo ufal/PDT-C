@@ -1136,7 +1136,7 @@
 </w.rf>
 <form>předčily</form>
 <lemma>předčit</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln95041-052-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1192,7 +1192,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-052-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1439,7 +1439,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95041-052-p3s5w3">
 <src.rf>manual</src.rf>

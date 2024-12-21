@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf930709_080.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -26,7 +26,7 @@
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
 <deepord>2</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf930709-080-p1s1w1">
 <a>
@@ -91,6 +91,15 @@
 </LM>
 </mwes>
 <children>
+<LM id="t-mf930709-080-p2s1w15">
+<a>
+<lex.rf>a#a-mf930709-080-p2s1w15</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Comma</t_lemma>
+<functor>CONJ</functor>
+<deepord>11</deepord>
+<children>
 <LM id="t-mf930709-080-p2s1w5">
 <a>
 <lex.rf>a#a-mf930709-080-p2s1w5</lex.rf>
@@ -99,6 +108,7 @@
 <t_lemma>#Colon</t_lemma>
 <functor>PRED</functor>
 <sentmod>enunc</sentmod>
+<is_member>1</is_member>
 <tfa>f</tfa>
 <deepord>4</deepord>
 <children>
@@ -168,15 +178,6 @@
 </LM>
 </children>
 </LM>
-<LM id="t-mf930709-080-p2s1w15">
-<a>
-<lex.rf>a#a-mf930709-080-p2s1w15</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>CONJ</functor>
-<deepord>11</deepord>
-<children>
 <LM id="t-mf930709-080-p2s1w13">
 <a>
 <lex.rf>a#a-mf930709-080-p2s1w13</lex.rf>
@@ -184,7 +185,6 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
-<is_member>1</is_member>
 <deepord>9</deepord>
 <children>
 <LM id="t-mf930709-080-p2s1w6">
@@ -274,21 +274,34 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
+<LM id="t-mf930709-080-p2s1a1">
+<a>
+<lex.rf>a#a-mf930709-080-p2s1w18</lex.rf>
+</a>
+<nodetype>qcomplex</nodetype>
+<t_lemma>#Colon</t_lemma>
+<functor>PRED</functor>
+<sentmod>enunc</sentmod>
+<is_member>1</is_member>
+<tfa>t</tfa>
+<deepord>14</deepord>
+<children>
 <LM id="t-mf930709-080-p2s1w17">
 <a>
 <lex.rf>a#a-mf930709-080-p2s1w17</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>číslo</t_lemma>
-<functor>PAT</functor>
-<is_member>1</is_member>
+<functor>ACT</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>neut</gender>
 <number>sg</number>
 <typgroup>single</typgroup>
 </gram>
-<tfa>f</tfa>
+<tfa>c</tfa>
 <deepord>12</deepord>
 <children>
 <LM id="t-mf930709-080-p2s1w16">
@@ -306,13 +319,15 @@
 <tfa>f</tfa>
 <deepord>13</deepord>
 </LM>
+</children>
+</LM>
 <LM id="t-mf930709-080-p2s1w19">
 <a>
 <lex.rf>a#a-mf930709-080-p2s1w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1</t_lemma>
-<functor>RSTR</functor>
+<functor>PAT</functor>
 <gram>
 <sempos>n.quant.def</sempos>
 <gender>nr</gender>
@@ -320,9 +335,7 @@
 <numertype>basic</numertype>
 </gram>
 <tfa>f</tfa>
-<deepord>14</deepord>
-</LM>
-</children>
+<deepord>15</deepord>
 </LM>
 </children>
 </LM>

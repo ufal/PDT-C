@@ -311,8 +311,8 @@
 <LM>w#w-ln95040-043-p2s1Bw19</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-043-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -1536,7 +1536,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95040-043-p2s9w10">
 <src.rf>manual</src.rf>
@@ -3970,7 +3970,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-043-p4s6w7">
 <src.rf>manual</src.rf>

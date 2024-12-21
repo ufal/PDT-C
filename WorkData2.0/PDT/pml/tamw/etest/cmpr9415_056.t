@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="cmpr9415_056.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -18,6 +18,15 @@
 <atree.rf>a#a-cmpr9415-056-p2s1</atree.rf>
 <deepord>0</deepord>
 <children>
+<LM id="t-cmpr9415-056-p2s1a1">
+<a>
+<lex.rf>a#a-cmpr9415-056-p2s1w4</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Dash</t_lemma>
+<functor>APPS</functor>
+<deepord>3</deepord>
+<children>
 <LM id="t-cmpr9415-056-p2s1w1">
 <a>
 <lex.rf>a#a-cmpr9415-056-p2s1w1</lex.rf>
@@ -26,6 +35,7 @@
 <t_lemma>text</t_lemma>
 <functor>DENOM</functor>
 <sentmod>enunc</sentmod>
+<is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
 <gender>inan</gender>
@@ -34,7 +44,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>metatext</discourse_special>
+<discourse_feature>metatext</discourse_feature>
 <bridging>
 <LM>
 <target_node.rf>t-cmpr9415-056-p3s1w28</target_node.rf>
@@ -60,15 +70,18 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<children>
+</LM>
+</children>
+</LM>
 <LM id="t-cmpr9415-056-p2s1w5">
 <a>
 <lex.rf>a#a-cmpr9415-056-p2s1w5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>firma</t_lemma>
-<functor>PAR</functor>
+<functor>DENOM</functor>
 <sentmod>enunc</sentmod>
+<is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -76,7 +89,8 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>3</deepord>
+<deepord>4</deepord>
+<discourse_feature>caption</discourse_feature>
 <children>
 <LM id="t-cmpr9415-056-p2s1w6">
 <a>
@@ -87,7 +101,6 @@
 <functor>ID</functor>
 <sentmod>enunc</sentmod>
 <is_name_of_person>1</is_name_of_person>
-<is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 <gender>anim</gender>
@@ -95,9 +108,7 @@
 <typgroup>single</typgroup>
 </gram>
 <tfa>f</tfa>
-<deepord>4</deepord>
-</LM>
-</children>
+<deepord>5</deepord>
 </LM>
 </children>
 </LM>
@@ -117,6 +128,7 @@
 <t_lemma>takže</t_lemma>
 <functor>CSQ</functor>
 <deepord>21</deepord>
+<discourse_feature>caption</discourse_feature>
 <children>
 <LM id="t-cmpr9415-056-p3s1w5">
 <a>
@@ -148,13 +160,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-056-p3s1w28</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w9273f3</val_frame.rf>
+<val_frame.rf>v#v41qsnC</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-056-p3s1w2">
 <a>
@@ -163,6 +176,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>major</t_lemma>
 <functor>VOCAT</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 <gender>anim</gender>
@@ -224,7 +238,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w3600f1</val_frame.rf>
+<val_frame.rf>v#v41ftiA</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-056-p3s1a2">
 <nodetype>qcomplex</nodetype>
@@ -459,7 +473,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
-<val_frame.rf>v#v-w4861f1</val_frame.rf>
+<val_frame.rf>v#v41idaB</val_frame.rf>
 </LM>
 </children>
 </LM>
@@ -489,7 +503,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>23</deepord>
-<val_frame.rf>v#v-w4096f1</val_frame.rf>
+<val_frame.rf>v#v41grpC</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-056-p3s1a0">
 <nodetype>complex</nodetype>

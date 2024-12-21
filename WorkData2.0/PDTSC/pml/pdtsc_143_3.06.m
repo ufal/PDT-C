@@ -478,8 +478,8 @@
 <LM>w#w-d1t974-2</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t974-3">
 <w.rf>
@@ -602,8 +602,8 @@
 <LM>w#w-d1t977-9</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t977-10">
 <w.rf>
@@ -920,8 +920,8 @@
 <LM>w#w-d1t991-22</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t991-23">
 <w.rf>
@@ -1486,8 +1486,8 @@
 <LM>w#w-d1t1034-14</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1034-15">
 <w.rf>
@@ -2360,8 +2360,8 @@
 <LM>w#w-d1t1059-9</LM>
 </w.rf>
 <form>dělo</form>
-<lemma>dělo</lemma>
-<tag>NNNS1-----A----</tag>
+<lemma>dít-1_^(dít_se)</lemma>
+<tag>VpNS----R-AAI--</tag>
 </m>
 <m id="m115-d-id121406-punct">
 <w.rf>
@@ -2820,8 +2820,8 @@
 <LM>w#w-d1t1069-18</LM>
 </w.rf>
 <form>Samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d-id122461-punct">
 <w.rf>
@@ -3494,8 +3494,8 @@
 <LM>w#w-d1t1082-7</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m115-d1t1082-9">
 <w.rf>

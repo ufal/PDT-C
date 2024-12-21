@@ -129,8 +129,8 @@
 <LM>w#w-mf920902-039-p1s1Bw10</LM>
 </w.rf>
 <form>DÍKY</form>
-<lemma>dík-1</lemma>
-<tag>NNIP1-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="m-mf920902-039-p1s1Bw11">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920902-039-p2s4Bw4">
 <src.rf>manual</src.rf>
@@ -1291,8 +1291,8 @@
 <LM>w#w-mf920902-039-p2s4Bw16</LM>
 </w.rf>
 <form>Díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP1-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="m-mf920902-039-p2s4Bw17">
 <src.rf>manual</src.rf>
@@ -2571,8 +2571,8 @@
 <LM>w#w-mf920902-039-p2s13w3</LM>
 </w.rf>
 <form>Díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP1-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="m-mf920902-039-p2s13w4">
 <src.rf>manual</src.rf>
@@ -6087,8 +6087,8 @@
 <LM>w#w-mf920902-039-p2s35w6</LM>
 </w.rf>
 <form>Díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP1-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="m-mf920902-039-p2s35w7">
 <src.rf>manual</src.rf>

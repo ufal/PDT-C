@@ -367,8 +367,8 @@
 <LM>w#w-ln94210-54-p2s2w3</LM>
 </w.rf>
 <form>naopak</form>
-<lemma>naopak-1</lemma>
-<tag>Db-------------</tag>
+<lemma>naopak-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-54-p2s2w4">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-ln94210-54-p2s2w15">
 <src.rf>manual</src.rf>
@@ -540,8 +540,8 @@
 <LM>w#w-ln94210-54-p2s3w3</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-54-p2s3w4">
 <src.rf>manual</src.rf>
@@ -895,8 +895,8 @@
 <LM>w#w-ln94210-54-p3s2w6</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-54-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1257,8 +1257,8 @@
 <LM>w#w-ln94210-54-p3s3w30</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-54-p3s3w31">
 <src.rf>manual</src.rf>
@@ -1331,8 +1331,8 @@
 <LM>w#w-ln94210-54-p3s4w4</LM>
 </w.rf>
 <form>cestou</form>
-<lemma>cesta</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>cestou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-54-p3s4w5">
 <src.rf>manual</src.rf>
@@ -2381,7 +2381,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-54-p4s4w2">
 <src.rf>manual</src.rf>
@@ -2572,7 +2572,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94210-54-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2715,8 +2715,8 @@
 <LM>w#w-ln94210-54-p4s5w18</LM>
 </w.rf>
 <form>prostě</form>
-<lemma>prostě-1</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prostě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-54-p4s5w19">
 <src.rf>manual</src.rf>
@@ -3327,8 +3327,8 @@
 <LM>w#w-ln94210-54-p5s4w3</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-54-p5s4w4">
 <src.rf>manual</src.rf>

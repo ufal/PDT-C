@@ -2445,7 +2445,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-028-p12s6w27">
 <src.rf>manual</src.rf>
@@ -2874,7 +2874,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9417-028-p12s9w3">
 <src.rf>manual</src.rf>
@@ -4585,7 +4585,7 @@
 <LM>w#w-cmpr9417-028-p16s8w5</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-cmpr9417-028-p16s8w6">
@@ -4912,7 +4912,7 @@
 </w.rf>
 <form>zachován</form>
 <lemma>zachovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9417-028-p16s9w9">
 <src.rf>manual</src.rf>

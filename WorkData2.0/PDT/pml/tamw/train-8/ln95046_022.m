@@ -1127,8 +1127,8 @@
 <LM>w#w-ln95046-022-p2s5w13</LM>
 </w.rf>
 <form>domácí</form>
-<lemma>domácí-1</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>domácí-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95046-022-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95046-022-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1273,8 +1273,8 @@
 <LM>w#w-ln95046-022-p2s6w7</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-022-p2s6w8">
 <src.rf>manual</src.rf>

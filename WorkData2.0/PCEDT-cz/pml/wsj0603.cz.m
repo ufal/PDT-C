@@ -242,7 +242,7 @@
 </w.rf>
 <form>červnu</form>
 <lemma>červen</lemma>
-<tag>NNIS3-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj0603-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>

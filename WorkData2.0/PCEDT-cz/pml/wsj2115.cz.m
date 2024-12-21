@@ -1088,7 +1088,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2115-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1916,8 +1916,8 @@
 <LM>w#w-wsj2115-001-p1s8W14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2115-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2182,7 +2182,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2115-001-p1s10W2-Ta">
 <src.rf>tagger-a</src.rf>

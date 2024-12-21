@@ -995,7 +995,7 @@
 </w.rf>
 <form>splnění</form>
 <lemma>splnění_^(*3it)</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9416-004-p9s2w29">
 <src.rf>manual</src.rf>

@@ -194,8 +194,8 @@
 <LM>w#w-mf920922-058-p2s1w7</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-058-p2s1w8">
 <src.rf>manual</src.rf>
@@ -1698,8 +1698,8 @@
 <LM>w#w-mf920922-058-p2s6Aw3</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-058-p2s6Aw4">
 <src.rf>manual</src.rf>
@@ -1941,8 +1941,8 @@
 <LM>w#w-mf920922-058-p2s6Aw30</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-058-p2s6Aw31">
 <src.rf>manual</src.rf>
@@ -3112,8 +3112,8 @@
 <LM>w#w-mf920922-058-p2s10w9</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-058-p2s10w10">
 <src.rf>manual</src.rf>
@@ -3423,7 +3423,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf920922-058-p2s12Aw18">
 <src.rf>manual</src.rf>
@@ -3485,8 +3485,8 @@
 <LM>w#w-mf920922-058-p2s12Aw24</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-058-p2s12Aw25">
 <src.rf>manual</src.rf>
@@ -3869,8 +3869,8 @@
 <LM>w#w-mf920922-058-p2s14Aw1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-058-p2s14Aw2">
 <src.rf>manual</src.rf>
@@ -4280,8 +4280,8 @@
 <LM>w#w-mf920922-058-p2s16w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-058-p2s16w5">
 <src.rf>manual</src.rf>
@@ -4325,8 +4325,8 @@
 <LM>w#w-mf920922-058-p2s16w9</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-058-p2s16w10">
 <src.rf>manual</src.rf>

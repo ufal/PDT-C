@@ -794,8 +794,8 @@
 <LM>w#w-ln94211-99-p3s1w31</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-ln94211-99-p3s1w32">
 <src.rf>manual</src.rf>
@@ -2223,8 +2223,8 @@
 <LM>w#w-ln94211-99-p4s3w19</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-99-p4s3w20">
 <src.rf>manual</src.rf>
@@ -2322,8 +2322,8 @@
 <LM>w#w-ln94211-99-p4s3w30</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-99-p4s3w31">
 <src.rf>manual</src.rf>

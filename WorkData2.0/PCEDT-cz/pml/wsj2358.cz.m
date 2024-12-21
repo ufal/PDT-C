@@ -532,8 +532,8 @@
 <LM>w#w-wsj2358-001-p1s1W28</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj2358-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1468,8 +1468,8 @@
 <LM>w#w-wsj2358-001-p1s4W23</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2358-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1760,7 +1760,7 @@
 </w.rf>
 <form>přírůstku</form>
 <lemma>přírůstek</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS3-----A----</tag>
 </m>
 <m id="m-wsj2358-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1795,8 +1795,8 @@
 <LM>w#w-wsj2358-001-p1s5W13</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2358-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2357,8 +2357,8 @@
 <LM>w#w-wsj2358-001-p1s7W9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2358-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3020,8 +3020,8 @@
 <LM>w#w-wsj2358-001-p1s9W21</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2358-001-p1s9W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3913,7 +3913,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2358-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4477,8 +4477,8 @@
 <LM>w#w-wsj2358-001-p1s17W6</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2358-001-p1s17W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4587,7 +4587,7 @@
 </w.rf>
 <form>poklesu</form>
 <lemma>pokles</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj2358-001-p1s17W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5296,8 +5296,8 @@
 <LM>w#w-wsj2358-001-p1s20W12</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2358-001-p1s20W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7422,8 +7422,8 @@
 <LM>w#w-wsj2358-001-p1s30W2</LM>
 </w.rf>
 <form>aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2358-001-p1s30W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7788,7 +7788,7 @@
 </w.rf>
 <form>zvýšení</form>
 <lemma>zvýšení_^(*3it)</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNNS6-----A----</tag>
 </m>
 <m id="m-wsj2358-001-p1s31W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7796,8 +7796,8 @@
 <LM>w#w-wsj2358-001-p1s31W29</LM>
 </w.rf>
 <form>propadly</form>
-<lemma>propadlo_^(na_divadle)</lemma>
-<tag>NNNP7-----A----</tag>
+<lemma>propadnout</lemma>
+<tag>VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj2358-001-p1s31W30-Ta">
 <src.rf>tagger-a</src.rf>

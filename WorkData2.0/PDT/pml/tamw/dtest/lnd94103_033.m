@@ -349,8 +349,8 @@
 <LM>w#w-lnd94103-033-p1s4w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-033-p1s4w4">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-033-p1s5w5">
 <src.rf>manual</src.rf>

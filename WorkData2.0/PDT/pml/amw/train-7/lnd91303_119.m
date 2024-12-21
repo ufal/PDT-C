@@ -1221,7 +1221,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-lnd91303-119-p5s1w42">
 <src.rf>manual</src.rf>
@@ -4340,7 +4340,7 @@
 </w.rf>
 <form>utrpení</form>
 <lemma>utrpení</lemma>
-<tag>NNNS4-----A----</tag>
+<tag>NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-119-p8s5w9">
 <src.rf>manual</src.rf>

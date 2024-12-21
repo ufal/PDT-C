@@ -534,7 +534,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj2103-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1170,7 +1170,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj2103-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>

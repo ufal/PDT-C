@@ -4900,7 +4900,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-041-p7s1w4">
 <src.rf>manual</src.rf>
@@ -5200,8 +5200,8 @@
 <LM>w#w-ln95043-041-p7s3w8</LM>
 </w.rf>
 <form>Veliký</form>
-<lemma>veliký</lemma>
-<tag>AAMS1----1A----</tag>
+<lemma>Veliký_;Y</lemma>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-041-p7s3w9">
 <src.rf>manual</src.rf>

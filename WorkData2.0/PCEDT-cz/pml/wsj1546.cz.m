@@ -124,8 +124,8 @@
 <LM>w#w-wsj1546-001-p1s0W13</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj1546-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -133,8 +133,8 @@
 <LM>w#w-wsj1546-001-p1s0W14</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1546-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>

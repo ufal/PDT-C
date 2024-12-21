@@ -268,8 +268,8 @@
 <LM>w#w-lnd94103-058-p1s2w3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-058-p1s2w4">
 <src.rf>manual</src.rf>
@@ -1165,7 +1165,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-lnd94103-058-p1s8w2">
 <src.rf>manual</src.rf>

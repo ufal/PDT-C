@@ -210,8 +210,8 @@
 <LM>w#w-ln95048-103-p1s2w4</LM>
 </w.rf>
 <form>zvláště</form>
-<lemma>zvláště-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zvláště-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-103-p1s2w5">
 <src.rf>manual</src.rf>
@@ -657,8 +657,8 @@
 <LM>w#w-ln95048-103-p1s4w13</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-103-p1s4w14">
 <src.rf>manual</src.rf>

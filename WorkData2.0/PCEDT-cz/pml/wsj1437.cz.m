@@ -399,7 +399,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj1437-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-wsj1437-001-p1s1W20</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1437-001-p1s1W21-Ta">

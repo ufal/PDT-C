@@ -140,8 +140,8 @@
 <LM>w#w-mf930709-125-p2s1Bw4</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-125-p2s1Bw5">
 <src.rf>manual</src.rf>

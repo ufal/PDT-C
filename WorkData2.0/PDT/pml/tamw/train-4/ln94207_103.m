@@ -1839,8 +1839,8 @@
 <LM>w#w-ln94207-103-p3s5w42</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-103-p3s5w43">
 <src.rf>manual</src.rf>
@@ -2694,7 +2694,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-103-p4s3w9">
 <src.rf>manual</src.rf>

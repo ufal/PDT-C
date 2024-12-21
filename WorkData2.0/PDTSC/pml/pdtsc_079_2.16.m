@@ -28,8 +28,8 @@
 <LM>w#w-d1t1514-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1514-8">
 <w.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-d1t1516-3</LM>
 </w.rf>
 <form>martyrium</form>
-<lemma>martyrium</lemma>
+<lemma>martyrium_,s_^(^DD**martýrium)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m147-d1e1366-x15-1647">
@@ -310,8 +310,8 @@
 <LM>w#w-d1t1516-18</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1516-19">
 <w.rf>
@@ -1030,7 +1030,7 @@
 <LM>w#w-d1t1531-25</LM>
 </w.rf>
 <form>Opravdu</form>
-<lemma>opravdu-2</lemma>
+<lemma>opravdu</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1531-26">
@@ -1220,8 +1220,8 @@
 <LM>w#w-d1t1538-2</LM>
 </w.rf>
 <form>Taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1538-3">
 <w.rf>
@@ -1470,8 +1470,8 @@
 <LM>w#w-d1t1542-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1542-4">
 <w.rf>
@@ -1864,16 +1864,16 @@
 <LM>w#w-d1t1546-10</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1546-14">
 <w.rf>
 <LM>w#w-d1t1546-14</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m147-d1t1546-13">
 <w.rf>
@@ -2246,8 +2246,8 @@
 <LM>w#w-d1t1555-5</LM>
 </w.rf>
 <form>aspoň</form>
-<lemma>aspoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>aspoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d1t1555-6">
 <w.rf>
@@ -2530,8 +2530,8 @@
 <LM>w#w-d1t1583-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m147-d-m-d1e1580-x2-punct-punct">
 <w.rf>

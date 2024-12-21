@@ -1187,8 +1187,8 @@
 <LM>w#w-mf920923-122-p2s7w11</LM>
 </w.rf>
 <form>nedaleko</form>
-<lemma>daleko-1</lemma>
-<tag>Dg-------1N----</tag>
+<lemma>nedaleko</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920923-122-p2s7w12">
 <src.rf>manual</src.rf>

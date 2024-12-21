@@ -1671,7 +1671,7 @@
 </w.rf>
 <form>reaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-vesm9301-043-p4s5w6">
 <src.rf>manual</src.rf>
@@ -2281,8 +2281,8 @@
 <LM>w#w-vesm9301-043-p5s3w3</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-043-p5s3w4">
 <src.rf>manual</src.rf>
@@ -2674,8 +2674,8 @@
 <LM>w#w-vesm9301-043-p6s2w5</LM>
 </w.rf>
 <form>uprostřed</form>
-<lemma>uprostřed-1</lemma>
-<tag>Db-------------</tag>
+<lemma>uprostřed-2</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-043-p6s2w6">
 <src.rf>manual</src.rf>
@@ -3388,7 +3388,7 @@
 <LM>w#w-vesm9301-043-p8s1w5</LM>
 </w.rf>
 <form>efeské</form>
-<lemma>efeský</lemma>
+<lemma>efeský_,s_^(^DD**efezský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9301-043-p8s1w6">

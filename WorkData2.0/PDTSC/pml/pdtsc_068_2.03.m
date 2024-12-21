@@ -214,8 +214,8 @@
 <LM>w#w-d1t534-12</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m101-d1t534-13">
 <w.rf>
@@ -524,8 +524,8 @@
 <LM>w#w-d1t546-3</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m101-d1t548-2">
 <w.rf>
@@ -940,8 +940,8 @@
 <LM>w#w-d1t563-7</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m101-d1t563-8">
 <w.rf>
@@ -1404,8 +1404,8 @@
 <LM>w#w-d1t580-3</LM>
 </w.rf>
 <form>Jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m101-d1t580-4">
 <w.rf>
@@ -1500,8 +1500,8 @@
 <LM>w#w-d1t582-14</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m101-d1t582-12">
 <w.rf>
@@ -1574,8 +1574,8 @@
 <LM>w#w-d1t584-4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m101-d1t584-7">
 <w.rf>
@@ -2218,8 +2218,8 @@
 <LM>w#w-d1t609-19</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m101-d1t609-18">
 <w.rf>
@@ -2243,7 +2243,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m101-d1t609-22">
 <w.rf>
@@ -3178,8 +3178,8 @@
 <LM>w#w-d1t661-6</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m101-d1t661-7">
 <w.rf>
@@ -3299,7 +3299,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m101-d1t665-2">
 <w.rf>
@@ -3782,8 +3782,8 @@
 <LM>w#w-d1t681-5</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m101-d1t681-6">
 <w.rf>

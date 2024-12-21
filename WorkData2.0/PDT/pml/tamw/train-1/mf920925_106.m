@@ -884,7 +884,7 @@
 <LM>w#w-mf920925-106-p3s3w15</LM>
 </w.rf>
 <form>abchazskými</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAFP7----1A----</tag>
 </m>
 <m id="m-mf920925-106-p3s3w16">

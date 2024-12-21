@@ -178,7 +178,7 @@
 <LM>w#w-d1t2060-7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m049-d1t2060-10">
@@ -220,8 +220,8 @@
 <LM>w#w-d1t2060-17</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-d-id134207-punct">
 <w.rf>
@@ -634,8 +634,8 @@
 <LM>w#w-d1t2089-17</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m049-454-456">
 <w.rf>
@@ -937,7 +937,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m049-d1t2110-7">
 <w.rf>
@@ -3033,8 +3033,8 @@
 <LM>w#w-d1t2233-9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m049-d1t2233-10">
 <w.rf>
@@ -3500,7 +3500,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m049-d1t2253-10">
 <w.rf>

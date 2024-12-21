@@ -859,8 +859,8 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>set</form>
-<lemma>sít_^(zasévat_[semena,...])</lemma>
-<tag>VsYS----X-API--</tag>
+<lemma>sto-1`100</lemma>
+<tag>CzNP2----------</tag>
 </m>
 <m id="m-lnd91301-025-p2s4w15">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-025-p2s5w11">
 <src.rf>manual</src.rf>

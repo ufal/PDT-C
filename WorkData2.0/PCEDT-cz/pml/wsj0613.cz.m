@@ -895,8 +895,8 @@
 <LM>w#w-wsj0613-001-p1s3W6</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0613-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -949,8 +949,8 @@
 <LM>w#w-wsj0613-001-p1s3W12</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0613-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1095,8 +1095,8 @@
 <LM>w#w-wsj0613-001-p1s4W10</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0613-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1241,8 +1241,8 @@
 <LM>w#w-wsj0613-001-p1s5W8</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0613-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>

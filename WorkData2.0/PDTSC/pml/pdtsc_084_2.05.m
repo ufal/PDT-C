@@ -282,8 +282,8 @@
 <LM>w#w-d1t1388-10</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1388-6">
 <w.rf>
@@ -324,8 +324,8 @@
 <LM>w#w-d1t1390-4</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d-id107945-punct">
 <w.rf>
@@ -545,7 +545,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m133-d1t1399-14">
 <w.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-d1t1399-22</LM>
 </w.rf>
 <form>umisťován</form>
-<lemma>umisťovat</lemma>
+<lemma>umisťovat_,s_^(^DD**umísťovat)</lemma>
 <tag>VsYS----X-API--</tag>
 </m>
 <m id="m133-116-117">
@@ -828,8 +828,8 @@
 <LM>w#w-d1t1407-9</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1407-10">
 <w.rf>
@@ -1506,8 +1506,8 @@
 <LM>w#w-d1t1450-2</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1450-3">
 <w.rf>
@@ -2640,8 +2640,8 @@
 <LM>w#w-d1t1517-4</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m133-d1t1520-1">
 <w.rf>
@@ -2860,7 +2860,7 @@
 <LM>w#w-d1t1528-11</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1528-12">
@@ -3072,8 +3072,8 @@
 <LM>w#w-d1t1535-7</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1535-9">
 <w.rf>
@@ -3204,8 +3204,8 @@
 <LM>w#w-d1t1546-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1546-4">
 <w.rf>
@@ -3377,7 +3377,7 @@
 </w.rf>
 <form>vdala</form>
 <lemma>vdát</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m133-d1t1550-7">
 <w.rf>
@@ -4670,8 +4670,8 @@
 <LM>w#w-d1t1626-5</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m133-d1t1626-6">
 <w.rf>

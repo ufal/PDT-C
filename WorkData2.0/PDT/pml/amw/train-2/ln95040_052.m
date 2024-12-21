@@ -120,8 +120,8 @@
 <LM>w#w-ln95040-052-p2s1w7</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-052-p2s1w8">
 <src.rf>manual</src.rf>
@@ -1276,8 +1276,8 @@
 <LM>w#w-ln95040-052-p3s6w6</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95040-052-p3s6w7">
 <src.rf>manual</src.rf>
@@ -2005,7 +2005,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95040-052-p5s1w7">
 <src.rf>manual</src.rf>

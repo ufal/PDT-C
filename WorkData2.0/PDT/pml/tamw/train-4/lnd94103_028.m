@@ -324,8 +324,8 @@
 <LM>w#w-lnd94103-028-p1s4w4</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-028-p1s4w5">
 <src.rf>manual</src.rf>
@@ -1986,8 +1986,8 @@
 <LM>w#w-lnd94103-028-p1s13w6</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94103-028-p1s13w7">
 <src.rf>manual</src.rf>

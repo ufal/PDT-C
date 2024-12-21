@@ -1524,7 +1524,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-wsj1874-001-p1s6W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1588,7 +1588,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1874-001-p1s6W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1697,8 +1697,8 @@
 <LM>w#w-wsj1874-001-p1s7W8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1874-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5698,8 +5698,8 @@
 <LM>w#w-wsj1874-001-p1s30W8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1874-001-p1s30W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6933,7 +6933,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1874-001-p1s35W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9736,7 +9736,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj1874-001-p1s52W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -214,8 +214,8 @@
 <LM>w#w-ln94202-38-p2s2w4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-38-p2s2w5">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-38-p2s5w5">
 <src.rf>manual</src.rf>

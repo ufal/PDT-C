@@ -796,7 +796,7 @@
 <LM>w#w-wsj0232-001-p1s4W9</LM>
 </w.rf>
 <form>hovězího</form>
-<lemma>hovězí</lemma>
+<lemma>hovězí-2</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-wsj0232-001-p1s4W10-Ta">

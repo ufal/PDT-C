@@ -1113,7 +1113,7 @@
 <LM>w#w-lnd94104-062-p1s6w8</LM>
 </w.rf>
 <form>Tanzanie</form>
-<lemma>Tanzanie_;G</lemma>
+<lemma>Tanzanie_;G_,s_^(^DD**Tanzánie)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-062-p1s6w9">
@@ -1503,8 +1503,8 @@
 <LM>w#w-lnd94104-062-p1s7w16</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m-lnd94104-062-p1s7w17">
 <src.rf>manual</src.rf>

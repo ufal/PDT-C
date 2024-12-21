@@ -200,7 +200,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-ln94211-10-p1s1w22">
 <src.rf>manual</src.rf>

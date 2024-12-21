@@ -803,8 +803,8 @@
 <LM>w#w-wsj1734-001-p1s2W36</LM>
 </w.rf>
 <form>je</form>
-<lemma>on-1</lemma>
-<tag>PEXP4--3-------</tag>
+<lemma>být</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1734-001-p1s2W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1774,8 +1774,8 @@
 <LM>w#w-wsj1734-001-p1s5W26</LM>
 </w.rf>
 <form>nabízejících</form>
-<lemma>nabízející_^(*4t)</lemma>
-<tag>AGMP2-----A----</tag>
+<lemma>nabízející-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1734-001-p1s5W27-Ta">
 <src.rf>tagger-a</src.rf>

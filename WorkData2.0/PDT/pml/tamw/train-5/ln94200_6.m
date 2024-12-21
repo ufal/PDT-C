@@ -138,8 +138,8 @@
 <LM>w#w-ln94200-6-p2s1w11</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94200-6-p2s1w12">
 <src.rf>manual</src.rf>

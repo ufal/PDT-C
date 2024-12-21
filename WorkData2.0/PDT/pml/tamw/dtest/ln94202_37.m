@@ -377,7 +377,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-37-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1690,8 +1690,8 @@
 <LM>w#w-ln94202-37-p4s1w15</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-37-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1699,8 +1699,8 @@
 <LM>w#w-ln94202-37-p4s1w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94202-37-p4s1w17">
 <src.rf>manual</src.rf>

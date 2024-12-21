@@ -287,7 +287,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj2441-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1377,7 +1377,6 @@
 <w.rf>
 <LM>w#w-wsj2441-001-p1s4W31</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
 <form>1.45</form>
 <lemma>1.45</lemma>
 <tag>C=-------------</tag>

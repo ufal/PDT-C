@@ -288,8 +288,8 @@
 <LM>w#w-wsj0139-001-p1s1W27</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj0139-001-p1s1W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -307,7 +307,7 @@
 </w.rf>
 <form>roky</form>
 <lemma>rok</lemma>
-<tag>NNIP4-----A----</tag>
+<tag>NNIP1-----A----</tag>
 </m>
 <m id="m-wsj0139-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>

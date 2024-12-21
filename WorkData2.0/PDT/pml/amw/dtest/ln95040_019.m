@@ -1587,8 +1587,8 @@
 <LM>w#w-ln95040-019-p4s3w4</LM>
 </w.rf>
 <form>proto</form>
-<lemma>proto-1_^(proto;_a_proto,_ale_proto,...)</lemma>
-<tag>J^-------------</tag>
+<lemma>proto-2_^(proto_že)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln95040-019-p4s3w5">
 <src.rf>manual</src.rf>
@@ -2281,8 +2281,8 @@
 <LM>w#w-ln95040-019-p4s7w18</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95040-019-p4s7w19">
 <src.rf>manual</src.rf>

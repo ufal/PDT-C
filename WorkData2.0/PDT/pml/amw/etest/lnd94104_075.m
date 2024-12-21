@@ -976,7 +976,7 @@
 </w.rf>
 <form>bezdomovství</form>
 <lemma>bezdomovství</lemma>
-<tag>NNNS6-----A----</tag>
+<tag>NNNS3-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s6w19">
 <src.rf>manual</src.rf>
@@ -2810,7 +2810,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94104-075-p1s17w3">
 <src.rf>manual</src.rf>

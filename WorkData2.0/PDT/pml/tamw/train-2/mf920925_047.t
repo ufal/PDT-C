@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_047.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf920925-047-p1s1w3">
 <a>
@@ -57,8 +57,9 @@
 <lex.rf>a#a-mf920925-047-p1s1w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>první</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -215,7 +216,7 @@
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w7929f1</val_frame.rf>
+<val_frame.rf>v#v41obaA</val_frame.rf>
 <children>
 <LM id="t-mf920925-047-p2s2Bw1">
 <a>
@@ -394,8 +395,9 @@
 <lex.rf>a#a-mf920925-047-p2s2Bw7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
+<t_lemma>první</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -587,7 +589,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w4862f1</val_frame.rf>
+<val_frame.rf>v#v41idbB</val_frame.rf>
 <children>
 <LM id="t-mf920925-047-p2s3w1">
 <a>
@@ -679,17 +681,23 @@
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>7</deepord>
+<deepord>6</deepord>
 <children>
 <LM id="t-mf920925-047-p2s3w5">
 <a>
 <lex.rf>a#a-mf920925-047-p2s3w5</lex.rf>
 </a>
-<nodetype>atom</nodetype>
+<nodetype>complex</nodetype>
 <t_lemma>nečekaně</t_lemma>
-<functor>ATT</functor>
-<tfa>t</tfa>
-<deepord>6</deepord>
+<functor>RESL</functor>
+<proto_lemma>nečekaný</proto_lemma>
+<gram>
+<sempos>adj.denot</sempos>
+<degcmp>pos</degcmp>
+<negation>neg0</negation>
+</gram>
+<tfa>f</tfa>
+<deepord>7</deepord>
 </LM>
 </children>
 </LM>
@@ -815,13 +823,13 @@
 </gram>
 <tfa>c</tfa>
 <deepord>6</deepord>
-</LM>
+<children>
 <LM id="t-mf920925-047-p2s4w8">
 <a>
 <lex.rf>a#a-mf920925-047-p2s4w8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Belg</t_lemma>
+<t_lemma>Belgie</t_lemma>
 <functor>PAR</functor>
 <sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
@@ -833,6 +841,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

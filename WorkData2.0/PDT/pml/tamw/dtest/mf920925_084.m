@@ -278,7 +278,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-mf920925-084-p2s3w6">
 <src.rf>manual</src.rf>
@@ -468,8 +468,8 @@
 <LM>w#w-mf920925-084-p2s4w10</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-084-p2s4w11">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-084-p2s7w12">
 <src.rf>manual</src.rf>

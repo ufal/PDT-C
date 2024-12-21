@@ -574,8 +574,8 @@
 <LM>w#w-ln94211-52-p3s1w30</LM>
 </w.rf>
 <form>než</form>
-<lemma>než-2</lemma>
-<tag>J,-------------</tag>
+<lemma>než-3_^(více_než)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94211-52-p3s1w31">
 <src.rf>manual</src.rf>
@@ -859,8 +859,8 @@
 <LM>w#w-ln94211-52-p4s3w3</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94211-52-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1196,8 +1196,8 @@
 <LM>w#w-ln94211-52-p4s5w8</LM>
 </w.rf>
 <form>mladistvým</form>
-<lemma>mladistvý</lemma>
-<tag>AAMP3----1A----</tag>
+<lemma>mladistvý-2</lemma>
+<tag>NNMP3-----A----</tag>
 </m>
 <m id="m-ln94211-52-p4s5w9">
 <src.rf>manual</src.rf>

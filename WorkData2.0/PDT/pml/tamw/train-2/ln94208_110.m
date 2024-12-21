@@ -511,8 +511,8 @@
 <LM>w#w-ln94208-110-p2s2w21</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-110-p2s2w22">
 <src.rf>manual</src.rf>
@@ -848,8 +848,8 @@
 <LM>w#w-ln94208-110-p2s4w10</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-110-p2s4w11">
 <src.rf>manual</src.rf>

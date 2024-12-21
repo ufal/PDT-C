@@ -714,7 +714,7 @@
 <LM>w#w-d1t563-7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m124-d1t563-10">
@@ -1036,8 +1036,8 @@
 <LM>w#w-d1t563-56</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t563-59">
 <w.rf>
@@ -1486,8 +1486,8 @@
 <LM>w#w-d1t578-2</LM>
 </w.rf>
 <form>počínaje</form>
-<lemma>počínat</lemma>
-<tag>VeYS------A-I--</tag>
+<lemma>počínaje</lemma>
+<tag>RR--7----------</tag>
 </m>
 <m id="m124-d1t578-1">
 <w.rf>
@@ -1576,8 +1576,8 @@
 <LM>w#w-d1t582-1</LM>
 </w.rf>
 <form>Konečně</form>
-<lemma>konečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>konečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t582-2">
 <w.rf>
@@ -2090,7 +2090,7 @@
 <LM>w#w-d1t599-7</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m124-d1t599-8">
@@ -2186,8 +2186,8 @@
 <LM>w#w-d1t599-15</LM>
 </w.rf>
 <form>klidně</form>
-<lemma>klidně-2</lemma>
-<tag>TT-------------</tag>
+<lemma>klidně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
 </m>
 <m id="m124-d1t599-20">
 <w.rf>
@@ -3894,7 +3894,7 @@
 <LM>w#w-d1t640-12</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m124-d1t640-13">
@@ -4212,8 +4212,8 @@
 <LM>w#w-d1t652-12</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m124-d1t652-13">
 <w.rf>
@@ -4252,8 +4252,8 @@
 <LM>w#w-d1t652-17</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m124-d1t652-19">
 <w.rf>
@@ -4655,7 +4655,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m124-d1t669-7">
 <w.rf>

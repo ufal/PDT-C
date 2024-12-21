@@ -1551,8 +1551,8 @@
 <LM>w#w-wsj1839-001-p1s7W19</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať</lemma>
-<tag>J^-------------</tag>
+<lemma>ať-1</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj1839-001-p1s7W20-Ta">
 <src.rf>tagger-a</src.rf>

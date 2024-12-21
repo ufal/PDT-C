@@ -762,7 +762,7 @@
 <LM>w#w-ln95048-151-p2s5w3</LM>
 </w.rf>
 <form>Hesensku</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln95048-151-p2s5w4">
@@ -817,7 +817,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-151-p2s5w10">
 <src.rf>manual</src.rf>

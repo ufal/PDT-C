@@ -1333,8 +1333,8 @@
 <LM>w#w-wsj1416-001-p1s6W19</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1416-001-p1s6W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2192,8 +2192,8 @@
 <LM>w#w-wsj1416-001-p1s8W2</LM>
 </w.rf>
 <form>jménem</form>
-<lemma>jméno</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>jménem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1416-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2292,7 +2292,7 @@
 </w.rf>
 <form>reaguji</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---1P-AAI-1</tag>
+<tag>VB-S---1P-AAB-1</tag>
 </m>
 <m id="m-wsj1416-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2564,7 +2564,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-wsj1416-001-p1s9W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3282,8 +3282,8 @@
 <LM>w#w-wsj1416-001-p1s13W19</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1416-001-p1s13W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3447,7 +3447,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1416-001-p1s14W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3644,8 +3644,8 @@
 <LM>w#w-wsj1416-001-p1s14W26</LM>
 </w.rf>
 <form>především</form>
-<lemma>především-1</lemma>
-<tag>Db-------------</tag>
+<lemma>především-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1416-001-p1s14W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3689,8 +3689,8 @@
 <LM>w#w-wsj1416-001-p1s14W31</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1416-001-p1s14W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3734,8 +3734,8 @@
 <LM>w#w-wsj1416-001-p1s14W36</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1416-001-p1s14W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4218,7 +4218,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-wsj1416-001-p1s17W4-Ta">
 <src.rf>tagger-a</src.rf>

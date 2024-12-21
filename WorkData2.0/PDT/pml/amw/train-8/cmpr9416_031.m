@@ -284,8 +284,8 @@
 <LM>w#w-cmpr9416-031-p3s2w5</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-cmpr9416-031-p3s2w6">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 </w.rf>
 <form>obaly</form>
 <lemma>obal</lemma>
-<tag>NNIP1-----A----</tag>
+<tag>NNIP4-----A----</tag>
 </m>
 <m id="m-cmpr9416-031-p3s2w8">
 <src.rf>manual</src.rf>

@@ -1332,8 +1332,8 @@
 <LM>w#w-ln94208-19-p5s3w13</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-19-p5s3w14">
 <src.rf>manual</src.rf>
@@ -1386,8 +1386,8 @@
 <LM>w#w-ln94208-19-p5s3w19</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94208-19-p5s3w20">
 <src.rf>manual</src.rf>
@@ -3123,7 +3123,7 @@
 <LM>w#w-ln94208-19-p10s1w16</LM>
 </w.rf>
 <form>příspívají</form>
-<lemma>příspívat</lemma>
+<lemma>příspívat_,i_^(^DS**přispívat)</lemma>
 <tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-19-p10s1w17">
@@ -3724,7 +3724,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln94208-19-p12s1w5">
 <src.rf>manual</src.rf>

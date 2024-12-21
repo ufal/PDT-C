@@ -803,8 +803,8 @@
 <LM>w#w-ln95048-123-p2s4w11</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-123-p2s4w12">
 <src.rf>manual</src.rf>

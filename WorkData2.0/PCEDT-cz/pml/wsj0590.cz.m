@@ -603,8 +603,8 @@
 <LM>w#w-wsj0590-001-p1s1W39</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0590-001-p1s1W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1296,7 +1296,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0590-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1795,7 +1795,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0590-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2213,7 +2213,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0590-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2509,8 +2509,8 @@
 <LM>w#w-wsj0590-001-p1s9W35</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj0590-001-p1s9W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3788,7 +3788,7 @@
 <LM>w#w-wsj0590-001-p1s14W30</LM>
 </w.rf>
 <form>dozvěděly</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0590-001-p1s14W31-Ta">
@@ -3899,7 +3899,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0590-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5158,7 +5158,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-wsj0590-001-p1s19W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6849,8 +6849,8 @@
 <LM>w#w-wsj0590-001-p1s28W37</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj0590-001-p1s28W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7023,7 +7023,7 @@
 </w.rf>
 <form>zachován</form>
 <lemma>zachovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0590-001-p1s29W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7238,8 +7238,8 @@
 <LM>w#w-wsj0590-001-p1s29W31</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0590-001-p1s29W32-Ta">
 <src.rf>tagger-a</src.rf>

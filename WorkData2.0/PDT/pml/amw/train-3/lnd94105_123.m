@@ -65,7 +65,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-123-p1s1w7">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-lnd94105-123-p1s5w11</LM>
 </w.rf>
 <form>Belica</form>
-<lemma>Belica-1_;Y</lemma>
+<lemma>Belica_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-123-p1s5w12">
@@ -1086,7 +1086,7 @@
 <LM>w#w-lnd94105-123-p1s8w2</LM>
 </w.rf>
 <form>Belica</form>
-<lemma>Belica-1_;Y</lemma>
+<lemma>Belica_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-123-p1s8w3">
@@ -1323,7 +1323,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd94105-123-p1s9w11">
 <src.rf>manual</src.rf>
@@ -1621,7 +1621,7 @@
 <LM>w#w-lnd94105-123-p1s10w21</LM>
 </w.rf>
 <form>Belica</form>
-<lemma>Belica-1_;Y</lemma>
+<lemma>Belica_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-123-p1s10w22">

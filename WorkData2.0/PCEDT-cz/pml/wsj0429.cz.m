@@ -342,8 +342,8 @@
 <LM>w#w-wsj0429-001-p1s1W1</LM>
 </w.rf>
 <form>Jménem</form>
-<lemma>jméno</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>jménem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0429-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1267,7 +1267,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0429-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>

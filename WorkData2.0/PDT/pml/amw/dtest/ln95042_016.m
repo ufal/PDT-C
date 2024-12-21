@@ -93,8 +93,8 @@
 <LM>w#w-ln95042-016-p2s1w4</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95042-016-p2s1w5">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-ln95042-016-p4s1w2</LM>
 </w.rf>
 <form>pel</form>
-<lemma>pel</lemma>
+<lemma>pel_,a_^(^DD**pyl)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-016-p4s1w3">
@@ -1531,8 +1531,8 @@
 <LM>w#w-ln95042-016-p4s2w2</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-016-p4s2w3">
 <src.rf>manual</src.rf>
@@ -2304,8 +2304,8 @@
 <LM>w#w-ln95042-016-p4s6w1</LM>
 </w.rf>
 <form>Jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-016-p4s6w2">
 <src.rf>manual</src.rf>
@@ -3262,7 +3262,7 @@
 <LM>w#w-ln95042-016-p4s8w12</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-016-p4s8w13">
@@ -3762,7 +3762,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95042-016-p4s10w3">
 <src.rf>manual</src.rf>

@@ -361,7 +361,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-wsj0356-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -562,8 +562,8 @@
 <LM>w#w-wsj0356-001-p1s3W1</LM>
 </w.rf>
 <form>Počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj0356-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

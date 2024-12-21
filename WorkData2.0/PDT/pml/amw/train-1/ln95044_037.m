@@ -1545,7 +1545,7 @@
 <LM>w#w-ln95044-037-p4s5w12</LM>
 </w.rf>
 <form>nadechnout</form>
-<lemma>nadechnout</lemma>
+<lemma>nadechnout_,s_^(^DD**nadýchnout)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-037-p4s5w13">

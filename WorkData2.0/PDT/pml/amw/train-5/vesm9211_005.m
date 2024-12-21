@@ -1632,7 +1632,7 @@
 </w.rf>
 <form>věnován</form>
 <lemma>věnovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-vesm9211-005-p2s5w45">
 <src.rf>manual</src.rf>

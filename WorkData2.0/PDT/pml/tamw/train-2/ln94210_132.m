@@ -623,8 +623,8 @@
 <LM>w#w-ln94210-132-p1s6w6</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-132-p1s6w7">
 <src.rf>manual</src.rf>
@@ -695,8 +695,8 @@
 <LM>w#w-ln94210-132-p1s6w14</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-132-p1s6w15">
 <src.rf>manual</src.rf>

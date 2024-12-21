@@ -670,8 +670,8 @@
 <LM>w#w-ln95042-049-p2s5w2</LM>
 </w.rf>
 <form>obvinění</form>
-<lemma>obviněný_^(*3it)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>obviněný-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95042-049-p2s5w3">
 <src.rf>manual</src.rf>

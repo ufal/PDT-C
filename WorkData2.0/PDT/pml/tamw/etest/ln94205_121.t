@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln94205_121.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -34,7 +34,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-ln94205-121-p1s1w1">
 <a>
@@ -75,7 +75,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 </LM>
 </children>
 </LM>
@@ -324,7 +324,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-</LM>
+<children>
 <LM id="t-ln94205-121-p3s1Bw15">
 <a>
 <lex.rf>a#a-ln94205-121-p3s1Bw15</lex.rf>
@@ -383,6 +383,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="t-ln94205-121-p9s1">
 <atree.rf>a#a-ln94205-121-p9s1</atree.rf>
 <deepord>0</deepord>
@@ -409,7 +411,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w7046f1</val_frame.rf>
+<val_frame.rf>v#v41mjiA</val_frame.rf>
 <children>
 <LM id="t-ln94205-121-p9s1a1">
 <nodetype>complex</nodetype>

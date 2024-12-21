@@ -47,7 +47,7 @@
 </w.rf>
 <form>přesáhly</form>
 <lemma>přesáhnout</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln95047-146-p1s1w5">
 <src.rf>manual</src.rf>
@@ -168,8 +168,8 @@
 <LM>w#w-ln95047-146-p2s1Bw9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-146-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -395,8 +395,8 @@
 <LM>w#w-ln95047-146-p2s2w23</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-146-p2s2w24">
 <src.rf>manual</src.rf>
@@ -845,8 +845,8 @@
 <LM>w#w-ln95047-146-p3s3w7</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-146-p3s3w8">
 <src.rf>manual</src.rf>
@@ -893,8 +893,8 @@
 <LM>w#w-ln95047-146-p3s4w1</LM>
 </w.rf>
 <form>Poškození</form>
-<lemma>poškozený_^(*4dit)</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>poškozený-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-146-p3s4w2">
 <src.rf>manual</src.rf>

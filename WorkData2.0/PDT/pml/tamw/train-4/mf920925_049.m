@@ -168,7 +168,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AANS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-mf920925-049-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1234,8 +1234,8 @@
 <LM>w#w-mf920925-049-p2s9w3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920925-049-p2s9w4">
 <src.rf>manual</src.rf>

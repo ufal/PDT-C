@@ -385,8 +385,8 @@
 <LM>w#w-wsj0957-001-p1s0W42</LM>
 </w.rf>
 <form>jakoby</form>
-<lemma>jakoby</lemma>
-<tag>J,-------------</tag>
+<lemma>jakoby-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0957-001-p1s0W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1386,7 +1386,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0957-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>

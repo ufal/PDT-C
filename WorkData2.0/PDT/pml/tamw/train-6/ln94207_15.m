@@ -611,8 +611,8 @@
 <LM>w#w-ln94207-15-p2s6w5</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-15-p2s6w6">
 <src.rf>manual</src.rf>
@@ -958,7 +958,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-15-p2s8w7">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-15-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1355,7 +1355,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AAIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-ln94207-15-p2s13w6">
 <src.rf>manual</src.rf>
@@ -1850,8 +1850,8 @@
 <LM>w#w-ln94207-15-p2s18w1</LM>
 </w.rf>
 <form>Možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-15-p2s18w2">
 <src.rf>manual</src.rf>

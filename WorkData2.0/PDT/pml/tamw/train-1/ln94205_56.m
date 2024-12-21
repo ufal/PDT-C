@@ -73,8 +73,8 @@
 <LM>w#w-ln94205-56-p1s1w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-56-p1s1w8">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-ln94205-56-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1192,8 +1192,8 @@
 <LM>w#w-ln94205-56-p3s2w25</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94205-56-p3s2w26">
 <src.rf>manual</src.rf>

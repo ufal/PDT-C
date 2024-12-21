@@ -1476,8 +1476,8 @@
 <LM>w#w-vesm9301-036-p7s2w4</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-036-p7s2w5">
 <src.rf>manual</src.rf>
@@ -5510,7 +5510,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-036-p11s2w3">
 <src.rf>manual</src.rf>
@@ -5537,7 +5537,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-036-p11s2w6">
 <src.rf>manual</src.rf>
@@ -7724,7 +7724,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-036-p12s8w9">
 <src.rf>manual</src.rf>
@@ -8854,8 +8854,8 @@
 <LM>w#w-vesm9301-036-p13s1w13</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>s-1</lemma>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-vesm9301-036-p13s1w14">
 <src.rf>manual</src.rf>
@@ -8863,8 +8863,8 @@
 <LM>w#w-vesm9301-036-p13s1w14</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-vesm9301-036-p13s1w15">
 <src.rf>manual</src.rf>
@@ -9821,7 +9821,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-036-p14s3w2">
 <src.rf>manual</src.rf>
@@ -10185,7 +10185,7 @@
 </w.rf>
 <form>nevěnovala</form>
 <lemma>věnovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAB--</tag>
 </m>
 <m id="m-vesm9301-036-p15s1w5">
 <src.rf>manual</src.rf>
@@ -10907,7 +10907,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-036-p15s6w2">
 <src.rf>manual</src.rf>
@@ -11044,7 +11044,7 @@
 <LM>w#w-vesm9301-036-p15s7w3</LM>
 </w.rf>
 <form>vytýčené</form>
-<lemma>vytýčený_^(*3it)</lemma>
+<lemma>vytýčený_^(^DD**vytyčený)_(*3it)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-vesm9301-036-p15s7w4">
@@ -11476,7 +11476,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-036-p16s3w12">
 <src.rf>manual</src.rf>
@@ -12292,8 +12292,8 @@
 <LM>w#w-vesm9301-036-p17s4w4</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>s-1</lemma>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-vesm9301-036-p17s4w5">
 <src.rf>manual</src.rf>
@@ -12301,8 +12301,8 @@
 <LM>w#w-vesm9301-036-p17s4w5</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-vesm9301-036-p17s4w6">
 <src.rf>manual</src.rf>
@@ -13112,7 +13112,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-036-p18s2Bw20">
 <src.rf>manual</src.rf>
@@ -13286,8 +13286,8 @@
 <LM>w#w-vesm9301-036-p19s2w3</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-036-p19s2w4">
 <src.rf>manual</src.rf>
@@ -15766,7 +15766,7 @@
 </w.rf>
 <form>jakoby</form>
 <lemma>jakoby-2</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-036-p21s1w90">
 <src.rf>manual</src.rf>
@@ -16118,8 +16118,8 @@
 <LM>w#w-vesm9301-036-p21s2Aw35</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-036-p21s2Aw36">
 <src.rf>manual</src.rf>

@@ -7,6 +7,9 @@
 <reffile id="w" name="wdata" href="pdtsc_143_3.15.w" />
 </references>
 </head>
+<meta>
+<annotation_info/>
+</meta>
 <trees>
 <LM id="ak_115.15-SCzechA-ak_115-d1e2257-x2-root">
 <s.rf>m#m115-d1e2257-x2</s.rf>
@@ -15,19 +18,20 @@
 <LM id="ak_115.15-SCzechA-m-d1t2260-1">
 <m.rf>m#m115-d1t2260-1</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <children>
 <LM id="ak_115.15-SCzechA-m-d1t2260-2">
 <m.rf>m#m115-d1t2260-2</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="ak_115.15-SCzechA-m-d-m-d1e2257-x2-punct-punct">
 <m.rf>m#m115-d-m-d1e2257-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -38,19 +42,20 @@
 <LM id="ak_115.15-SCzechA-m-d1t2264-1">
 <m.rf>m#m115-d1t2264-1</m.rf>
 <afun>AuxP</afun>
+<is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <children>
 <LM id="ak_115.15-SCzechA-m-d1t2264-2">
 <m.rf>m#m115-d1t2264-2</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="ak_115.15-SCzechA-m-d-m-d1e2261-x2-punct-punct">
 <m.rf>m#m115-d-m-d1e2261-x2-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

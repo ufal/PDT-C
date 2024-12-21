@@ -332,7 +332,7 @@
 </w.rf>
 <form>zachovaly</form>
 <lemma>zachovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-127-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1330,7 +1330,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-ln95048-127-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1538,8 +1538,8 @@
 <LM>w#w-ln95048-127-p4s2w12</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-127-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2203,8 +2203,8 @@
 <LM>w#w-ln95048-127-p5s1w23</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95048-127-p5s1w24">
 <src.rf>manual</src.rf>

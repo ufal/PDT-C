@@ -25,8 +25,8 @@
 <LM>w#w-wsj1407-001-p1s0W2</LM>
 </w.rf>
 <form>vedoucí</form>
-<lemma>vedoucí-2</lemma>
-<tag>NNMS1-----A----</tag>
+<lemma>vedoucí_^(*6ést)</lemma>
+<tag>AGMS1-----A----</tag>
 </m>
 <m id="m-wsj1407-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -358,8 +358,8 @@
 <LM>w#w-wsj1407-001-p1s0W39</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1407-001-p1s0W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1548,7 +1548,7 @@
 <LM>w#w-wsj1407-001-p1s5W18</LM>
 </w.rf>
 <form>mnohamilionový</form>
-<lemma>mnohamilionový_,s_^(^DD**mnohamiliónový)</lemma>
+<lemma>mnohamilionový_,s_^(^DD**mnohomiliónový)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-wsj1407-001-p1s5W19-Ta">
@@ -1758,7 +1758,7 @@
 </w.rf>
 <form>které</form>
 <lemma>který</lemma>
-<tag>P4YP4----------</tag>
+<tag>P4IP1----------</tag>
 </m>
 <m id="m-wsj1407-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2068,7 +2068,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1407-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>

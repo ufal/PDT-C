@@ -105,7 +105,7 @@
 </w.rf>
 <form>dolar</form>
 <lemma>dolar</lemma>
-<tag>NNIS1-----A----</tag>
+<tag>NNIS4-----A----</tag>
 </m>
 <m id="m-ln95046-121-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -988,8 +988,8 @@
 <LM>w#w-ln95046-121-p4s3w1</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95046-121-p4s3w2">
 <src.rf>manual</src.rf>

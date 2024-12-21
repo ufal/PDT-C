@@ -264,8 +264,8 @@
 <LM>w#w-d1t2245-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2245-4">
 <w.rf>
@@ -436,8 +436,8 @@
 <LM>w#w-d1t2252-9</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2252-11">
 <w.rf>
@@ -606,8 +606,8 @@
 <LM>w#w-d1t2260-9</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2260-8">
 <w.rf>
@@ -884,8 +884,8 @@
 <LM>w#w-d1t2289-12</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2291-1">
 <w.rf>
@@ -966,8 +966,8 @@
 <LM>w#w-d1t2293-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2293-3">
 <w.rf>
@@ -990,8 +990,8 @@
 <LM>w#w-d1t2293-6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2293-7">
 <w.rf>
@@ -1064,8 +1064,8 @@
 <LM>w#w-d1t2298-4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2298-5">
 <w.rf>
@@ -1116,8 +1116,8 @@
 <LM>w#w-d1t2306-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2306-3">
 <w.rf>
@@ -1566,8 +1566,8 @@
 <LM>w#w-d1t2339-2</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2339-3">
 <w.rf>
@@ -1754,8 +1754,8 @@
 <LM>w#w-d1t2350-9</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2350-8">
 <w.rf>
@@ -2416,8 +2416,8 @@
 <LM>w#w-d1t2410-1</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-2</lemma>
-<tag>TT-------------</tag>
+<lemma>i-1</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m052-48-61">
 <w.rf>
@@ -2783,7 +2783,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m052-d1t2450-3">
 <w.rf>
@@ -2874,8 +2874,8 @@
 <LM>w#w-d1t2462-2</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2462-3">
 <w.rf>
@@ -3582,8 +3582,8 @@
 <LM>w#w-d1t2525-4</LM>
 </w.rf>
 <form>Zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2525-5">
 <w.rf>
@@ -3638,8 +3638,8 @@
 <LM>w#w-d1t2525-11</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2525-12">
 <w.rf>
@@ -3680,8 +3680,8 @@
 <LM>w#w-d1t2529-3</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m052-d1t2529-4">
 <w.rf>
@@ -3993,7 +3993,7 @@
 </w.rf>
 <form>nás</form>
 <lemma>my</lemma>
-<tag>PP-P4--1-------</tag>
+<tag>PP-P2--1-------</tag>
 </m>
 <m id="m052-d1t2564-9">
 <w.rf>
@@ -4152,8 +4152,8 @@
 <LM>w#w-d1t2593-2</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m052-d1t2593-3">
 <w.rf>
@@ -4194,16 +4194,16 @@
 <LM>w#w-d1t2597-7</LM>
 </w.rf>
 <form>je</form>
-<lemma>on-1</lemma>
-<tag>PEXP4--3-------</tag>
+<lemma>být</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m052-d1t2597-8">
 <w.rf>
 <LM>w#w-d1t2597-8</LM>
 </w.rf>
 <form>má</form>
-<lemma>mít</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<lemma>můj</lemma>
+<tag>PSFS1-S1------1</tag>
 </m>
 <m id="m052-d1t2597-9">
 <w.rf>

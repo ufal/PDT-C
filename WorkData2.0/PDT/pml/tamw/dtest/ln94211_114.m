@@ -1502,8 +1502,8 @@
 <LM>w#w-ln94211-114-p4s2w17</LM>
 </w.rf>
 <form>mladistvých</form>
-<lemma>mladistvý</lemma>
-<tag>AAMP2----1A----</tag>
+<lemma>mladistvý-2</lemma>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94211-114-p4s2w18">
 <src.rf>manual</src.rf>

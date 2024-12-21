@@ -3779,7 +3779,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj1312-001-p1s14W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5536,7 +5536,7 @@
 <LM>w#w-wsj1312-001-p1s22W1</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-wsj1312-001-p1s22W2-Ta">
@@ -5909,8 +5909,8 @@
 <LM>w#w-wsj1312-001-p1s24W2</LM>
 </w.rf>
 <form>nakonec</form>
-<lemma>nakonec-1</lemma>
-<tag>Db-------------</tag>
+<lemma>nakonec-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1312-001-p1s24W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6954,7 +6954,7 @@
 <LM>w#w-wsj1312-001-p1s27W38</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1312-001-p1s27W39-Ta">
@@ -7454,7 +7454,7 @@
 <LM>w#w-wsj1312-001-p1s29W40</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1312-001-p1s29W41-Ta">
@@ -7946,7 +7946,7 @@
 <LM>w#w-wsj1312-001-p1s31W36</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1312-001-p1s31W37-Ta">
@@ -8320,7 +8320,7 @@
 </w.rf>
 <form>v</form>
 <lemma>v-1</lemma>
-<tag>RR--4----------</tag>
+<tag>RR--6----------</tag>
 </m>
 <m id="m-wsj1312-001-p1s33W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8563,7 +8563,7 @@
 <LM>w#w-wsj1312-001-p1s33W45</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1312-001-p1s33W46-Ta">
@@ -9000,7 +9000,7 @@
 <LM>w#w-wsj1312-001-p1s35W31</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-wsj1312-001-p1s35W32-Ta">

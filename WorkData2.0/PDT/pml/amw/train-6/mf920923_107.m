@@ -821,8 +821,8 @@
 <LM>w#w-mf920923-107-p3s1w24</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-107-p3s1w25">
 <src.rf>manual</src.rf>

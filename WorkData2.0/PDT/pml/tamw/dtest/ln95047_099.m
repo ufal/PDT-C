@@ -176,8 +176,8 @@
 <LM>w#w-ln95047-099-p2s1Bw7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-099-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-099-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1235,7 +1235,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln95047-099-p3s6w10">
 <src.rf>manual</src.rf>

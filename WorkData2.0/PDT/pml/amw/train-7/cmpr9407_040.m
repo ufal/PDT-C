@@ -1489,7 +1489,7 @@
 </w.rf>
 <form>nevěnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-NAI--</tag>
+<tag>VB-S---3P-NAB--</tag>
 </m>
 <m id="m-cmpr9407-040-p8s2w20">
 <src.rf>manual</src.rf>
@@ -2554,7 +2554,7 @@
 <LM>w#w-cmpr9407-040-p12s2w4</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-040-p12s2w5">
@@ -2885,7 +2885,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9407-040-p12s5w5">
 <src.rf>manual</src.rf>
@@ -4933,7 +4933,7 @@
 <LM>w#w-cmpr9407-040-p17s3w4</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-040-p17s3w5">

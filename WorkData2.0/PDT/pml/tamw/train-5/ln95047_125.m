@@ -754,8 +754,8 @@
 <LM>w#w-ln95047-125-p3s3w9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-125-p3s3w10">
 <src.rf>manual</src.rf>
@@ -2078,8 +2078,8 @@
 <LM>w#w-ln95047-125-p6s2w9</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95047-125-p6s2w10">
 <src.rf>manual</src.rf>

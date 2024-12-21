@@ -757,8 +757,8 @@
 <LM>w#w-vesm9212-005-p8s3w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-005-p8s3w2">
 <src.rf>manual</src.rf>
@@ -4933,7 +4933,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p10s5w6">
 <src.rf>manual</src.rf>
@@ -5270,7 +5270,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p10s7w4">
 <src.rf>manual</src.rf>
@@ -7321,7 +7321,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p12s2w15">
 <src.rf>manual</src.rf>
@@ -7475,8 +7475,8 @@
 <LM>w#w-vesm9212-005-p12s3w8</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p12s3w9">
 <src.rf>manual</src.rf>
@@ -10265,7 +10265,7 @@
 </w.rf>
 <form>věnujeme</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAB--</tag>
 </m>
 <m id="m-vesm9212-005-p14s3w5">
 <src.rf>manual</src.rf>
@@ -10438,7 +10438,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p14s4w4">
 <src.rf>manual</src.rf>
@@ -10676,7 +10676,7 @@
 </w.rf>
 <form>datují</form>
 <lemma>datovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9212-005-p17s1w7">
 <src.rf>manual</src.rf>
@@ -11150,7 +11150,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p17s4w5">
 <src.rf>manual</src.rf>
@@ -12238,7 +12238,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p18s1w45">
 <src.rf>manual</src.rf>
@@ -12393,7 +12393,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p18s2w15">
 <src.rf>manual</src.rf>
@@ -12957,7 +12957,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p18s5w16">
 <src.rf>manual</src.rf>
@@ -13719,7 +13719,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p19s3w24">
 <src.rf>manual</src.rf>
@@ -14995,7 +14995,7 @@
 </w.rf>
 <form>datují</form>
 <lemma>datovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-vesm9212-005-p21s3w15">
 <src.rf>manual</src.rf>
@@ -16062,7 +16062,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p23s7w19">
 <src.rf>manual</src.rf>
@@ -16327,7 +16327,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p25s1w20">
 <src.rf>manual</src.rf>
@@ -17001,7 +17001,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p25s5w15">
 <src.rf>manual</src.rf>
@@ -18535,7 +18535,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p26s2w5">
 <src.rf>manual</src.rf>
@@ -18989,7 +18989,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p26s4w22">
 <src.rf>manual</src.rf>
@@ -21141,8 +21141,8 @@
 <LM>w#w-vesm9212-005-p30s3w3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-005-p30s3w4">
 <src.rf>manual</src.rf>
@@ -23484,7 +23484,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9212-005-p34s3w21">
 <src.rf>manual</src.rf>
@@ -23764,7 +23764,7 @@
 <LM>w#w-vesm9212-005-p34s4w24</LM>
 </w.rf>
 <form>slučitelných</form>
-<lemma>slučitelný</lemma>
+<lemma>slučitelný_^(*8oučit)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-vesm9212-005-p34s4w25">
@@ -24954,7 +24954,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p35s2w4">
 <src.rf>manual</src.rf>
@@ -26739,8 +26739,8 @@
 <LM>w#w-vesm9212-005-p44s1w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-vesm9212-005-p44s1w2">
 <src.rf>manual</src.rf>
@@ -27457,7 +27457,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-005-p44s4w18">
 <src.rf>manual</src.rf>

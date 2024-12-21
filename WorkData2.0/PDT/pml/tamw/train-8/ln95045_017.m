@@ -514,7 +514,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95045-017-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 </w.rf>
 <form>citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95045-017-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1971,8 +1971,8 @@
 <LM>w#w-ln95045-017-p4s2w15</LM>
 </w.rf>
 <form>patrně</form>
-<lemma>patrně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>patrně-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-017-p4s2w16">
 <src.rf>manual</src.rf>

@@ -225,8 +225,8 @@
 <LM>w#w-wsj2038-001-p1s1W22</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2038-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>

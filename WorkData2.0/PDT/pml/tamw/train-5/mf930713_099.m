@@ -598,8 +598,8 @@
 <LM>w#w-mf930713-099-p2s1Bw6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-099-p2s1Bw7">
 <src.rf>manual</src.rf>

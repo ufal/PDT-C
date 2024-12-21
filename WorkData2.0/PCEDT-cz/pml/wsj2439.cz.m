@@ -359,8 +359,8 @@
 <LM>w#w-wsj2439-001-p1s0W37</LM>
 </w.rf>
 <form>stejně</form>
-<lemma>stejně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>stejně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -368,8 +368,8 @@
 <LM>w#w-wsj2439-001-p1s0W38</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -571,7 +571,7 @@
 </w.rf>
 <form>různorodých</form>
 <lemma>různorodý</lemma>
-<tag>AAFP6----1A----</tag>
+<tag>AAFP2----1A----</tag>
 </m>
 <m id="m-wsj2439-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

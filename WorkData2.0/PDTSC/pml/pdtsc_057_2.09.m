@@ -572,8 +572,8 @@
 <LM>w#w-d1t3535-4</LM>
 </w.rf>
 <form>Už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m025-d1t3535-5">
 <w.rf>
@@ -646,8 +646,8 @@
 <LM>w#w-d1t3539-4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m025-d1t3539-3">
 <w.rf>
@@ -818,8 +818,8 @@
 <LM>w#w-d1t3559-1</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m025-d1t3559-2">
 <w.rf>
@@ -900,8 +900,8 @@
 <LM>w#w-d1t3561-8</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m025-d1t3561-9">
 <w.rf>
@@ -1466,8 +1466,8 @@
 <LM>w#w-d1t3637-4</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m025-d1t3637-5">
 <w.rf>
@@ -1493,7 +1493,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m025-d1t3637-10">
 <w.rf>
@@ -1730,8 +1730,8 @@
 <LM>w#w-d1t3657-3</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m025-d1t3657-4">
 <w.rf>
@@ -1982,8 +1982,8 @@
 <LM>w#w-d1t3676-11</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m025-d1t3676-15">
 <w.rf>
@@ -2048,8 +2048,8 @@
 <LM>w#w-d1t3691-1</LM>
 </w.rf>
 <form>Ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m025-d1t3691-2">
 <w.rf>
@@ -2424,8 +2424,8 @@
 <LM>w#w-d1t3720-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m025-d-m-d1e3717-x2-punct-punct">
 <w.rf>

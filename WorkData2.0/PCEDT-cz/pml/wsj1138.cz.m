@@ -597,7 +597,7 @@
 </w.rf>
 <form>zachován</form>
 <lemma>zachovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1138-001-p1s2W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-wsj1138-001-p1s4W30</LM>
 </w.rf>
 <form>zmrazení</form>
-<lemma>zmrazení_^(*3it)</lemma>
+<lemma>zmrazení_^(^DD**zmražení)_(*3it)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-wsj1138-001-p1s4W31-Ta">
@@ -1738,8 +1738,8 @@
 <LM>w#w-wsj1138-001-p1s6W14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1138-001-p1s6W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2237,8 +2237,8 @@
 <LM>w#w-wsj1138-001-p1s8W17</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1138-001-p1s8W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2718,8 +2718,8 @@
 <LM>w#w-wsj1138-001-p1s10W11</LM>
 </w.rf>
 <form>tedy</form>
-<lemma>tedy-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tedy-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1138-001-p1s10W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4052,7 +4052,7 @@
 <LM>w#w-wsj1138-001-p1s11W112</LM>
 </w.rf>
 <form>ať</form>
-<lemma>ať</lemma>
+<lemma>ať-3</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-wsj1138-001-p1s11W113-Ta">

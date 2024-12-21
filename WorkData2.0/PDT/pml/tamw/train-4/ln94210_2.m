@@ -940,8 +940,8 @@
 <LM>w#w-ln94210-2-p4s1w11</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<lemma>prostřednictví</lemma>
-<tag>NNNS7-----A----</tag>
+<lemma>prostřednictvím</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94210-2-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1215,7 +1215,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-2-p4s3w5">
 <src.rf>manual</src.rf>

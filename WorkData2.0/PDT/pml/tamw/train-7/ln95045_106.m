@@ -286,8 +286,8 @@
 <LM>w#w-ln95045-106-p2s2w8</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-106-p2s2w9">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-106-p2s5w5">
 <src.rf>manual</src.rf>

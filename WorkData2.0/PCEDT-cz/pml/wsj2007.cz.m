@@ -4047,8 +4047,8 @@
 <LM>w#w-wsj2007-001-p1s18W14</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj2007-001-p1s18W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6558,8 +6558,8 @@
 <LM>w#w-wsj2007-001-p1s28W31</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-wsj2007-001-p1s28W32-Ta">
 <src.rf>tagger-a</src.rf>

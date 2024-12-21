@@ -1460,7 +1460,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-119-p2s8w13">
 <src.rf>manual</src.rf>
@@ -2014,8 +2014,8 @@
 <LM>w#w-ln94203-119-p2s11w1</LM>
 </w.rf>
 <form>I</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-119-p2s11w2">
 <src.rf>manual</src.rf>
@@ -2122,8 +2122,8 @@
 <LM>w#w-ln94203-119-p2s11w13</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94203-119-p2s11w14">
 <src.rf>manual</src.rf>

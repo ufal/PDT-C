@@ -576,7 +576,7 @@
 <LM>w#w-ln95042-040-p2s3w20</LM>
 </w.rf>
 <form>ramadánu</form>
-<lemma>ramadán</lemma>
+<lemma>ramadán_,s_^(^DD**ramadan)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln95042-040-p2s3w21">

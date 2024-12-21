@@ -1102,8 +1102,8 @@
 <LM>w#w-wsj1187-001-p1s5W1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj1187-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1300,7 +1300,7 @@
 <LM>w#w-wsj1187-001-p1s5W23</LM>
 </w.rf>
 <form>rozdmýchat</form>
-<lemma>rozdmýchat</lemma>
+<lemma>rozdmýchat_,s_^(^DD**rozdmychat)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-wsj1187-001-p1s5W24-Ta">
@@ -1735,7 +1735,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1187-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3234,7 +3234,7 @@
 </w.rf>
 <form>nereagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-wsj1187-001-p1s14W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3431,8 +3431,8 @@
 <LM>w#w-wsj1187-001-p1s14W30</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1187-001-p1s14W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4769,8 +4769,8 @@
 <LM>w#w-wsj1187-001-p1s22W5</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-wsj1187-001-p1s22W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8160,7 +8160,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1187-001-p1s37W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8369,7 +8369,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1187-001-p1s38W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8849,8 +8849,8 @@
 <LM>w#w-wsj1187-001-p1s40W14</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-wsj1187-001-p1s40W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8996,7 +8996,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1187-001-p1s41W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9722,7 +9722,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1187-001-p1s43W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10729,7 +10729,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-wsj1187-001-p1s49W8-Ta">
 <src.rf>tagger-a</src.rf>

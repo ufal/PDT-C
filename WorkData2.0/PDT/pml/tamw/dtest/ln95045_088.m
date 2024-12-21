@@ -82,8 +82,8 @@
 <LM>w#w-ln95045-088-p1s1w8</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-088-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,8 +91,8 @@
 <LM>w#w-ln95045-088-p1s1w9</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-088-p1s1w10">
 <src.rf>manual</src.rf>
@@ -284,8 +284,8 @@
 <LM>w#w-ln95045-088-p2s1Bw18</LM>
 </w.rf>
 <form>již</form>
-<lemma>již-1</lemma>
-<tag>Db-------------</tag>
+<lemma>již-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-088-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -441,8 +441,8 @@
 <LM>w#w-ln95045-088-p2s3w7</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95045-088-p2s3w8">
 <src.rf>manual</src.rf>

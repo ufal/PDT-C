@@ -1293,8 +1293,8 @@
 <LM>w#w-wsj1147-001-p1s3W4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1147-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1936,8 +1936,8 @@
 <LM>w#w-wsj1147-001-p1s5W24</LM>
 </w.rf>
 <form>stát</form>
-<lemma>stát-3_^(stojím_stojíš)</lemma>
-<tag>Vf--------A-I--</tag>
+<lemma>stát-1_^(státní_útvar)</lemma>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-wsj1147-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3157,8 +3157,8 @@
 <LM>w#w-wsj1147-001-p1s11W10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1147-001-p1s11W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3175,8 +3175,8 @@
 <LM>w#w-wsj1147-001-p1s11W12</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1147-001-p1s11W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3184,8 +3184,8 @@
 <LM>w#w-wsj1147-001-p1s11W13</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1147-001-p1s11W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3765,7 +3765,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1147-001-p1s13W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4862,7 +4862,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1147-001-p1s17W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6673,7 +6673,7 @@
 <LM>w#w-wsj1147-001-p1s24W1</LM>
 </w.rf>
 <form>Vyjednavači</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj1147-001-p1s24W2-Ta">
@@ -6691,8 +6691,8 @@
 <LM>w#w-wsj1147-001-p1s24W3</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj1147-001-p1s24W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6709,8 +6709,8 @@
 <LM>w#w-wsj1147-001-p1s24W5</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj1147-001-p1s24W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7312,7 +7312,7 @@
 </w.rf>
 <form>dominuje</form>
 <lemma>dominovat</lemma>
-<tag>VB-S---3P-AAB--</tag>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1147-001-p1s27W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7347,7 +7347,7 @@
 <LM>w#w-wsj1147-001-p1s27W18</LM>
 </w.rf>
 <form>Pennsylvánie</form>
-<lemma>Pennsylvánie_;G</lemma>
+<lemma>Pennsylvánie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1147-001-p1s27W19-Ta">
@@ -9046,7 +9046,7 @@
 <LM>w#w-wsj1147-001-p1s34W1</LM>
 </w.rf>
 <form>Vyjednavači</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-wsj1147-001-p1s34W2-Ta">

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="mf920925_040.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
 <meta>
@@ -47,8 +47,8 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_special>heading</discourse_special>
-<val_frame.rf>v#v-w5634f2</val_frame.rf>
+<discourse_feature>heading</discourse_feature>
+<val_frame.rf>v#v41jqhC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p1s1Aa0">
 <nodetype>qcomplex</nodetype>
@@ -116,7 +116,7 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_special>heading</discourse_special>
+<discourse_feature>heading</discourse_feature>
 <children>
 <LM id="t-mf920925-040-p1s1Bw3">
 <a>
@@ -250,13 +250,14 @@
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p2s2w4</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1957f3</val_frame.rf>
+<val_frame.rf>v#v41cmiB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p2s1w1">
 <a>
@@ -318,7 +319,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w6951f1</val_frame.rf>
+<val_frame.rf>v#v41mepA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p2s1w5">
 <a>
@@ -327,6 +328,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -646,7 +648,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5371f1</val_frame.rf>
+<val_frame.rf>v#v41jdfA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p2s2w4">
 <a>
@@ -703,6 +705,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>ADDR</functor>
+<proto_lemma>jeden</proto_lemma>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -916,7 +919,7 @@
 <deepord>17</deepord>
 <discourse_comment>parcelace  -ptali jsme 
 se: na co</discourse_comment>
-<val_frame.rf>v#v-w3751f1</val_frame.rf>
+<val_frame.rf>v#v41garB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p3s1w4">
 <a>
@@ -1107,6 +1110,7 @@ se: na co</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>jeden</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jeden</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>basic</numertype>
@@ -1167,8 +1171,9 @@ se: na co</discourse_comment>
 <lex.rf>a#a-mf920925-040-p3s1w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dva</t_lemma>
+<t_lemma>druhý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <gram>
 <sempos>adj.quant.def</sempos>
 <numertype>ord</numertype>
@@ -1259,8 +1264,9 @@ se: na co</discourse_comment>
 <lex.rf>a#a-mf920925-040-p3s1w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>daleký</t_lemma>
+<t_lemma>dalece</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>daleký</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -1277,6 +1283,7 @@ se: na co</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>jak</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>jak</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -1312,6 +1319,7 @@ se: na co</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <quot>
 <LM>
@@ -1331,7 +1339,7 @@ se: na co</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s1w2">
 <a>
@@ -1340,6 +1348,7 @@ se: na co</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -1408,8 +1417,9 @@ se: na co</discourse_comment>
 <lex.rf>a#a-mf920925-040-p4s1w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>nesmyslný</t_lemma>
+<t_lemma>nesmyslně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>nesmyslný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <quot>
 <LM>
@@ -1478,7 +1488,7 @@ se: na co</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w10001f1</val_frame.rf>
+<val_frame.rf>v#v41sdcA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s2w2">
 <a>
@@ -1589,6 +1599,7 @@ se: na co</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -1606,7 +1617,7 @@ se: na co</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s2w12">
 <a>
@@ -1782,13 +1793,14 @@ se: na co</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p4s3w11</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w7161f1</val_frame.rf>
+<val_frame.rf>v#v41mphB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s3w11">
 <a>
@@ -1946,7 +1958,7 @@ se: na co</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w6204f1</val_frame.rf>
+<val_frame.rf>v#v41kvdB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s3w7">
 <a>
@@ -2073,7 +2085,7 @@ se: na co</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w4140f1</val_frame.rf>
+<val_frame.rf>v#v41gtiA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s3w16">
 <a>
@@ -2082,6 +2094,7 @@ se: na co</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -2244,6 +2257,7 @@ se: na co</discourse_comment>
 <start_range>0</start_range>
 <target_range>1</target_range>
 <discourse_type>gener</discourse_type>
+<sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p4s4w2</LM>
@@ -2254,7 +2268,7 @@ se: na co</discourse_comment>
 (nema byt dokopirovano "jít"?)
 pak bych anotovala corr mezi "nejde tedy o
 rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</discourse_comment>
-<val_frame.rf>v#v-w1339f1</val_frame.rf>
+<val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s4w2">
 <a>
@@ -2353,7 +2367,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w8303f1</val_frame.rf>
+<val_frame.rf>v#v41otxA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s4w12">
 <a>
@@ -2461,6 +2475,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <quot>
 <LM>
@@ -2480,7 +2495,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s5w1">
 <a>
@@ -2539,6 +2554,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -2596,7 +2612,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w3111f1</val_frame.rf>
+<val_frame.rf>v#v41euvB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s5w9">
 <a>
@@ -2750,15 +2766,16 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w2151f2</val_frame.rf>
+<val_frame.rf>v#v41cxwC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s5w17">
 <a>
 <lex.rf>a#a-mf920925-040-p4s5w17</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>jenž</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -2882,6 +2899,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>inter</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -2894,7 +2912,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1855f23</val_frame.rf>
+<val_frame.rf>v#v41chlCI</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p5s1a0">
 <nodetype>complex</nodetype>
@@ -2983,7 +3001,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w3161f1</val_frame.rf>
+<val_frame.rf>v#v41extC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p5s1w7">
 <a>
@@ -2992,6 +3010,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -3026,7 +3045,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w7545f1</val_frame.rf>
+<val_frame.rf>v#v41nieC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p5s1w13">
 <a>
@@ -3112,13 +3131,14 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
+<sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p6s1w5</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1757f1</val_frame.rf>
+<val_frame.rf>v#v41ccxA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s1w3">
 <a>
@@ -3201,7 +3221,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7431f1</val_frame.rf>
+<val_frame.rf>v#v41ncrB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s1a1">
 <nodetype>qcomplex</nodetype>
@@ -3283,7 +3303,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w9943f1</val_frame.rf>
+<val_frame.rf>v#v41sakA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s1a3">
 <nodetype>qcomplex</nodetype>
@@ -3326,7 +3346,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <type>SPEC</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w7545f1</val_frame.rf>
+<val_frame.rf>v#v41nieC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s1a4">
 <nodetype>qcomplex</nodetype>
@@ -3418,6 +3438,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <nodetype>complex</nodetype>
 <t_lemma>tři</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tři</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -3487,7 +3508,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w1204f2</val_frame.rf>
+<val_frame.rf>v#v41bcpD</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s2w2">
 <a>
@@ -3567,8 +3588,9 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <lex.rf>a#a-mf920925-040-p6s2w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jaký</t_lemma>
+<t_lemma>jakýsi</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jaký</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -3649,6 +3671,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -3683,6 +3706,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>být</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -3709,15 +3733,16 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s2w14">
 <a>
 <lex.rf>a#a-mf920925-040-p6s2w14</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>plný</t_lemma>
+<t_lemma>plně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>plný</proto_lemma>
 <subfunctor>basic</subfunctor>
 <quot>
 <LM>
@@ -3854,13 +3879,14 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p6s2w17</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w2839f3</val_frame.rf>
+<val_frame.rf>v#v41egyD</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s2w22">
 <a>
@@ -3996,6 +4022,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <quot>
 <LM>
@@ -4022,6 +4049,7 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p6s3w7</LM>
@@ -4031,10 +4059,10 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 <discourse_comment>wrongTR? nema se to anotovat jako elipsa? 
 (nema byt dokopirovano "být", "výsledek"?)
 pak bych anotovala corr mezi "nemohou být
- výsledkem nějakých osobních přání" a
- "demokratických tajných voleb na našich
- konferencích" s doplněným "být", "výsledek")</discourse_comment>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+výsledkem nějakých osobních přání" a
+"demokratických tajných voleb na našich
+konferencích" s doplněným "být", "výsledek")</discourse_comment>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s3w7">
 <a>
@@ -4095,8 +4123,9 @@ pak bych anotovala corr mezi "nemohou být
 <lex.rf>a#a-mf920925-040-p6s3w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jaký</t_lemma>
+<t_lemma>jakýkoliv</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jaký</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -4256,15 +4285,16 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w4662f1</val_frame.rf>
+<val_frame.rf>v#v41htpA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s3w11">
 <a>
 <lex.rf>a#a-mf920925-040-p6s3w11</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jaký</t_lemma>
+<t_lemma>nějaký</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jaký</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -4507,7 +4537,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w4641f1</val_frame.rf>
+<val_frame.rf>v#v41hsuB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s4w3">
 <a>
@@ -4723,7 +4753,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w8927f1</val_frame.rf>
+<val_frame.rf>v#v41qaiA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s4w12">
 <a>
@@ -4732,6 +4762,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -4881,7 +4912,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w4407f1</val_frame.rf>
+<val_frame.rf>v#v41hfwA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s5w1">
 <a>
@@ -4953,8 +4984,9 @@ pak bych anotovala corr mezi "nemohou být
 <lex.rf>a#a-mf920925-040-p6s5w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>veřejný</t_lemma>
+<t_lemma>veřejně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>veřejný</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -4979,6 +5011,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -4996,7 +5029,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s5a0">
 <nodetype>complex</nodetype>
@@ -5092,7 +5125,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w4287f1</val_frame.rf>
+<val_frame.rf>v#v41haaC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s5w13">
 <a>
@@ -5102,8 +5135,9 @@ pak bych anotovala corr mezi "nemohou být
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>jenž</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>který</proto_lemma>
 <subfunctor>basic</subfunctor>
 <quot>
 <LM>
@@ -5289,6 +5323,7 @@ pak bych anotovala corr mezi "nemohou být
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p6s6w1</LM>
@@ -5297,7 +5332,7 @@ pak bych anotovala corr mezi "nemohou být
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w9698f1</val_frame.rf>
+<val_frame.rf>v#v41rofA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s6w1">
 <a>
@@ -5339,8 +5374,9 @@ pak bych anotovala corr mezi "nemohou být
 <lex.rf>a#a-mf920925-040-p6s6w5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dva</t_lemma>
+<t_lemma>druhý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>dva</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -5497,6 +5533,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <quot>
 <LM>
@@ -5516,7 +5553,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w243f19</val_frame.rf>
+<val_frame.rf>v#v41jsEU</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s7a0">
 <nodetype>qcomplex</nodetype>
@@ -5576,7 +5613,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s7a1">
 <nodetype>qcomplex</nodetype>
@@ -5661,7 +5698,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w7146f1</val_frame.rf>
+<val_frame.rf>v#v41monA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s7w9">
 <a>
@@ -5686,6 +5723,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -5732,7 +5770,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w409f1</val_frame.rf>
+<val_frame.rf>v#v41reO</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s7w14">
 <a>
@@ -5771,6 +5809,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -5799,6 +5838,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>být</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -5824,13 +5864,14 @@ pak bych anotovala corr mezi "nemohou být
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p6s7w16</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s7w23">
 <a>
@@ -5918,6 +5959,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>jaký</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jaký</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -5942,6 +5984,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>kdo</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>kdo</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -5999,7 +6042,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w9661f1</val_frame.rf>
+<val_frame.rf>v#v41rmoB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p7s1w2">
 <a>
@@ -6008,6 +6051,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -6039,7 +6083,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7612f4</val_frame.rf>
+<val_frame.rf>v#v41nlfA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p7s1w6">
 <a>
@@ -6159,8 +6203,9 @@ pak bych anotovala corr mezi "nemohou být
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdo</t_lemma>
+<t_lemma>všechen</t_lemma>
 <functor>ACMP</functor>
+<proto_lemma>kdo</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>n.pron.indef</sempos>
@@ -6226,7 +6271,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w6496f1</val_frame.rf>
+<val_frame.rf>v#v41lioA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p8s1w2">
 <a>
@@ -6444,7 +6489,7 @@ pak bych anotovala corr mezi "nemohou být
 <type>GEN</type>
 </LM>
 </coref_text>
-<val_frame.rf>v#v-w7545f1</val_frame.rf>
+<val_frame.rf>v#v41nieC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p8s1a0">
 <nodetype>qcomplex</nodetype>
@@ -6488,8 +6533,9 @@ pak bych anotovala corr mezi "nemohou být
 <lex.rf>a#a-mf920925-040-p8s1w13</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jasný</t_lemma>
+<t_lemma>jasně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>jasný</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -6546,6 +6592,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <quot>
 <LM>
@@ -6565,7 +6612,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p8s2a0">
 <nodetype>complex</nodetype>
@@ -6684,6 +6731,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <quot>
 <LM>
@@ -6710,13 +6758,14 @@ pak bych anotovala corr mezi "nemohou být
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p8s2w7</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f3</val_frame.rf>
+<val_frame.rf>v#v41jsAF</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p8s2w9">
 <a>
@@ -6781,7 +6830,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w5777f1</val_frame.rf>
+<val_frame.rf>v#v41jyxD</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p8s2a3">
 <nodetype>qcomplex</nodetype>
@@ -6859,6 +6908,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>tak</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>tak</proto_lemma>
 <subfunctor>basic</subfunctor>
 <quot>
 <LM>
@@ -6882,6 +6932,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>RESL</functor>
+<proto_lemma>být</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -6899,7 +6950,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p8s2a4">
 <nodetype>complex</nodetype>
@@ -7101,8 +7152,9 @@ pak bych anotovala corr mezi "nemohou být
 <lex.rf>a#a-mf920925-040-p8s2w21</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>všechen</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -7204,6 +7256,7 @@ pak bych anotovala corr mezi "nemohou být
 <is_generated>1</is_generated>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <quot>
 <LM>
@@ -7223,7 +7276,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p8s3w1">
 <a>
@@ -7295,8 +7348,9 @@ pak bych anotovala corr mezi "nemohou být
 <lex.rf>a#a-mf920925-040-p8s3w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kde</t_lemma>
+<t_lemma>všude</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>kde</proto_lemma>
 <subfunctor>basic</subfunctor>
 <quot>
 <LM>
@@ -7316,6 +7370,7 @@ pak bych anotovala corr mezi "nemohou být
 <lex.rf>a#a-mf920925-040-p8s3w7</lex.rf>
 <aux.rf>
 <LM>a#a-mf920925-040-p8s3w3</LM>
+<LM>a#a-mf920925-040-p8s3w6</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -7339,7 +7394,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w5638f1</val_frame.rf>
+<val_frame.rf>v#v41jqlD</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p8s3w5">
 <a>
@@ -7348,6 +7403,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>kde</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>kde</proto_lemma>
 <subfunctor>basic</subfunctor>
 <quot>
 <LM>
@@ -7558,7 +7614,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<val_frame.rf>v#v-w2500f2</val_frame.rf>
+<val_frame.rf>v#v41dpuB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p9s1w3">
 <a>
@@ -7599,7 +7655,7 @@ pak bych anotovala corr mezi "nemohou být
 <tfa>f</tfa>
 <deepord>8</deepord>
 <discourse_comment>wrongTR? neni spatne funktor?</discourse_comment>
-<val_frame.rf>v#v-w4877f1</val_frame.rf>
+<val_frame.rf>v#v41iecA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p9s1w11">
 <a>
@@ -7824,7 +7880,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w1111f1</val_frame.rf>
+<val_frame.rf>v#v41aybB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p10s1w5">
 <a>
@@ -7879,8 +7935,9 @@ pak bych anotovala corr mezi "nemohou být
 <lex.rf>a#a-mf920925-040-p10s1w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdo</t_lemma>
+<t_lemma>nikdo</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>kdo</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -7903,27 +7960,6 @@ pak bych anotovala corr mezi "nemohou být
 <type>SET_SUB</type>
 </LM>
 </bridging>
-<children>
-<LM id="t-mf920925-040-p10s1w7">
-<a>
-<lex.rf>a#a-mf920925-040-p10s1w7</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>jiný</t_lemma>
-<functor>RSTR</functor>
-<quot>
-<LM>
-<type>dsp</type>
-<set_id>mf920925-040-p10s1w18</set_id>
-</LM>
-</quot>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<tfa>f</tfa>
-<deepord>6</deepord>
 <children>
 <LM id="t-mf920925-040-p10s1w9">
 <a>
@@ -7987,7 +8023,26 @@ pak bych anotovala corr mezi "nemohou být
 </LM>
 </children>
 </LM>
-</children>
+<LM id="t-mf920925-040-p10s1w7">
+<a>
+<lex.rf>a#a-mf920925-040-p10s1w7</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>jiný</t_lemma>
+<functor>RSTR</functor>
+<quot>
+<LM>
+<type>dsp</type>
+<set_id>mf920925-040-p10s1w18</set_id>
+</LM>
+</quot>
+<gram>
+<sempos>adj.denot</sempos>
+<degcmp>pos</degcmp>
+<negation>neg0</negation>
+</gram>
+<tfa>f</tfa>
+<deepord>6</deepord>
 </LM>
 </children>
 </LM>
@@ -8080,8 +8135,9 @@ pak bych anotovala corr mezi "nemohou být
 <lex.rf>a#a-mf920925-040-p10s1w17</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdy</t_lemma>
+<t_lemma>nikdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <quot>
 <LM>
@@ -8144,7 +8200,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1339f1</val_frame.rf>
+<val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p10s2a0">
 <nodetype>atom</nodetype>
@@ -8305,7 +8361,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w7951f4</val_frame.rf>
+<val_frame.rf>v#v41ocbI</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p10s2w11">
 <a>
@@ -8315,8 +8371,9 @@ pak bych anotovala corr mezi "nemohou být
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>jenž</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -8474,13 +8531,14 @@ pak bych anotovala corr mezi "nemohou být
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
+<sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p10s2a0</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1339f1</val_frame.rf>
+<val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p10s3w2">
 <a>
@@ -8615,6 +8673,7 @@ pak bych anotovala corr mezi "nemohou být
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAR</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <quot>
 <LM>
@@ -8634,7 +8693,7 @@ pak bych anotovala corr mezi "nemohou být
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p10s3w10">
 <a>
@@ -8655,7 +8714,7 @@ pak bych anotovala corr mezi "nemohou být
 <discourse_comment>tento PREC neni pripojen k zadne sipce  -zda se 
 mi to jako vztah NP (návrat k autentickým hodnotám 
 konzervatismu) + věta (a v tom je blízko
- klasickým liberálům)</discourse_comment>
+klasickým liberálům)</discourse_comment>
 </LM>
 <LM id="t-mf920925-040-p10s3a0">
 <nodetype>complex</nodetype>
@@ -8695,6 +8754,7 @@ konzervatismu) + věta (a v tom je blízko
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>ten</proto_lemma>
 <subfunctor>basic</subfunctor>
 <quot>
 <LM>
@@ -8885,7 +8945,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w6252f2</val_frame.rf>
+<val_frame.rf>v#v41kxnB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p10s3w24">
 <a>
@@ -8963,7 +9023,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>t</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w6252f2</val_frame.rf>
+<val_frame.rf>v#v41kxnB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p10s3a4">
 <nodetype>complex</nodetype>
@@ -9150,7 +9210,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>31</deepord>
-<val_frame.rf>v#v-w345f1</val_frame.rf>
+<val_frame.rf>v#v41ogA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p10s3a3">
 <nodetype>qcomplex</nodetype>
@@ -9299,7 +9359,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w1729f1</val_frame.rf>
+<val_frame.rf>v#v41cbmA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p11s1w2">
 <a>
@@ -9330,6 +9390,7 @@ konzervatismu) + věta (a v tom je blízko
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -9420,7 +9481,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w628f2</val_frame.rf>
+<val_frame.rf>v#v41abcA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p11s1w10">
 <a>
@@ -9429,6 +9490,7 @@ konzervatismu) + věta (a v tom je blízko
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inher</gender>
@@ -9518,6 +9580,7 @@ konzervatismu) + věta (a v tom je blízko
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>inter</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -9530,7 +9593,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w1855f12</val_frame.rf>
+<val_frame.rf>v#v41chlAZ</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p11s2w8">
 <a>
@@ -9604,8 +9667,9 @@ konzervatismu) + věta (a v tom je blízko
 <lex.rf>a#a-mf920925-040-p11s2w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dobrý</t_lemma>
+<t_lemma>dobře</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>dobrý</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -9703,7 +9767,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w6702f1</val_frame.rf>
+<val_frame.rf>v#v41lshA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p11s2a1">
 <nodetype>qcomplex</nodetype>
@@ -9735,7 +9799,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w5073f1</val_frame.rf>
+<val_frame.rf>v#v41ioiA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p11s2a0">
 <nodetype>qcomplex</nodetype>
@@ -9779,7 +9843,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w586f1</val_frame.rf>
+<val_frame.rf>v#v41zhC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p12s1a0">
 <nodetype>complex</nodetype>
@@ -9831,7 +9895,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w4764f1</val_frame.rf>
+<val_frame.rf>v#v41hyjC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p12s1a1">
 <nodetype>qcomplex</nodetype>
@@ -9879,7 +9943,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<val_frame.rf>v#v-w199f1</val_frame.rf>
+<val_frame.rf>v#v41hpA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p12s1w7">
 <a>
@@ -10036,6 +10100,7 @@ konzervatismu) + věta (a v tom je blízko
 <nodetype>complex</nodetype>
 <t_lemma>sám</t_lemma>
 <functor>COMPL</functor>
+<proto_lemma>sám</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -10056,8 +10121,9 @@ konzervatismu) + věta (a v tom je blízko
 <lex.rf>a#a-mf920925-040-p12s1w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>těžký</t_lemma>
+<t_lemma>těžko</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>těžký</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -10164,6 +10230,9 @@ konzervatismu) + věta (a v tom je blízko
 <LM id="t-mf920925-040-p12s2w5">
 <a>
 <lex.rf>a#a-mf920925-040-p12s2w5</lex.rf>
+<aux.rf>
+<LM>a#a-mf920925-040-p12s2w3</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>otvírat</t_lemma>
@@ -10194,13 +10263,14 @@ konzervatismu) + věta (a v tom je blízko
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p12s2w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w3288f2</val_frame.rf>
+<val_frame.rf>v#v41femE</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p12s2w1">
 <a>
@@ -10237,8 +10307,9 @@ konzervatismu) + věta (a v tom je blízko
 <lex.rf>a#a-mf920925-040-p12s2w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tady</t_lemma>
+<t_lemma>zde</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>tady</proto_lemma>
 <subfunctor>basic</subfunctor>
 <quot>
 <LM>
@@ -10289,7 +10360,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w4551f1</val_frame.rf>
+<val_frame.rf>v#v41hnrA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p12s2a2">
 <nodetype>qcomplex</nodetype>
@@ -10405,7 +10476,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w4346f1</val_frame.rf>
+<val_frame.rf>v#v41hcrA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p12s2w12">
 <a>
@@ -10414,6 +10485,7 @@ konzervatismu) + věta (a v tom je blízko
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -10646,7 +10718,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w2625f1</val_frame.rf>
+<val_frame.rf>v#v41dwdA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p12s2a0">
 <nodetype>qcomplex</nodetype>
@@ -10776,7 +10848,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1920f1</val_frame.rf>
+<val_frame.rf>v#v41ckmA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p13s1a0">
 <nodetype>complex</nodetype>
@@ -10809,6 +10881,7 @@ konzervatismu) + věta (a v tom je blízko
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -10820,7 +10893,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p13s1w5">
 <a>
@@ -10871,7 +10944,7 @@ konzervatismu) + věta (a v tom je blízko
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w9317f1</val_frame.rf>
+<val_frame.rf>v#v41qurD</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p13s1w10">
 <a>
@@ -10895,8 +10968,9 @@ konzervatismu) + věta (a v tom je blízko
 <lex.rf>a#a-mf920925-040-p13s1w8</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>takový</t_lemma>
+<t_lemma>takovýto</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>takový</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -11043,8 +11117,6 @@ konzervatismu) + věta (a v tom je blízko
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>tento PREC neni pripojen k zadne sipce  -souhlasim
-s anotaci COND na TR</discourse_comment>
 </LM>
 <LM id="t-mf920925-040-p14s1w10">
 <a>
@@ -11068,7 +11140,24 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w4393f2</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>t-mf920925-040-p14s1a4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
+<src>MR</src>
+<a-connectors.rf>
+<LM>a#a-mf920925-040-p14s1w2</LM>
+</a-connectors.rf>
+<t-connectors.rf>
+<LM>t-mf920925-040-p14s1w18</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41hfeA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s1w5">
 <a>
@@ -11099,6 +11188,7 @@ s anotaci COND na TR</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -11112,6 +11202,7 @@ s anotaci COND na TR</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>říkat</t_lemma>
 <functor>PAR</functor>
+<proto_lemma>říkat</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
@@ -11125,7 +11216,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w5882f1</val_frame.rf>
+<val_frame.rf>v#v41kejB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s1a1">
 <nodetype>complex</nodetype>
@@ -11187,6 +11278,7 @@ s anotaci COND na TR</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>jak</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>jak</proto_lemma>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -11317,8 +11409,9 @@ s anotaci COND na TR</discourse_comment>
 <lex.rf>a#a-mf920925-040-p14s1w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>postupný</t_lemma>
+<t_lemma>postupně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>postupný</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -11361,7 +11454,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1919f1</val_frame.rf>
+<val_frame.rf>v#v41cklC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s2a0">
 <nodetype>complex</nodetype>
@@ -11401,6 +11494,7 @@ s anotaci COND na TR</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>EFF</functor>
+<proto_lemma>mít</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -11418,7 +11512,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w1855f12</val_frame.rf>
+<val_frame.rf>v#v41chlAZ</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s2w4">
 <a>
@@ -11469,7 +11563,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w6702f1</val_frame.rf>
+<val_frame.rf>v#v41lshA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s2a3">
 <nodetype>qcomplex</nodetype>
@@ -11512,7 +11606,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w3199f1</val_frame.rf>
+<val_frame.rf>v#v41ezyB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s2a1">
 <nodetype>qcomplex</nodetype>
@@ -11687,7 +11781,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w1917f4</val_frame.rf>
+<val_frame.rf>v#v41ckjA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s2w24">
 <a>
@@ -11724,6 +11818,7 @@ s anotaci COND na TR</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -11763,7 +11858,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w6249f1</val_frame.rf>
+<val_frame.rf>v#v41kxkA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s2a2">
 <nodetype>qcomplex</nodetype>
@@ -11836,8 +11931,9 @@ s anotaci COND na TR</discourse_comment>
 <lex.rf>a#a-mf920925-040-p14s2w33</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>vážný</t_lemma>
+<t_lemma>vážně</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>vážný</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -12038,6 +12134,7 @@ s anotaci COND na TR</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <quot>
 <LM>
@@ -12057,7 +12154,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w1855f1</val_frame.rf>
+<val_frame.rf>v#v41chlQ</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s3a0">
 <nodetype>complex</nodetype>
@@ -12146,6 +12243,7 @@ s anotaci COND na TR</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
+<sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p14s3w4</LM>
@@ -12157,13 +12255,14 @@ s anotaci COND na TR</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
+<sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p14s3w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w7801f2</val_frame.rf>
+<val_frame.rf>v#v41nuzA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s3w8">
 <a>
@@ -12176,6 +12275,7 @@ s anotaci COND na TR</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>COND</functor>
+<proto_lemma>mít</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -12200,13 +12300,14 @@ s anotaci COND na TR</discourse_comment>
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-040-p14s3w7</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w1855f1</val_frame.rf>
+<val_frame.rf>v#v41chlQ</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s3a2">
 <nodetype>complex</nodetype>
@@ -12432,8 +12533,9 @@ s anotaci COND na TR</discourse_comment>
 <lex.rf>a#a-mf920925-040-p14s3w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dlouhodobý</t_lemma>
+<t_lemma>dlouhodobě</t_lemma>
 <functor>TFHL</functor>
+<proto_lemma>dlouhodobý</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -12556,7 +12658,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>23</deepord>
-<val_frame.rf>v#v-w5804f1</val_frame.rf>
+<val_frame.rf>v#v41kapD</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s3w28">
 <a>
@@ -12593,6 +12695,7 @@ s anotaci COND na TR</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -12863,7 +12966,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>36</deepord>
-<val_frame.rf>v#v-w5637f1</val_frame.rf>
+<val_frame.rf>v#v41jqkB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s3a4">
 <nodetype>qcomplex</nodetype>
@@ -13114,7 +13217,7 @@ s anotaci COND na TR</discourse_comment>
 <tfa>f</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<val_frame.rf>v#v-w7583f1</val_frame.rf>
+<val_frame.rf>v#v41njvC</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s4w1">
 <a>
@@ -13123,6 +13226,7 @@ s anotaci COND na TR</discourse_comment>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -13244,7 +13348,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w3265f1</val_frame.rf>
+<val_frame.rf>v#v41fdfA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s4a1">
 <nodetype>qcomplex</nodetype>
@@ -13509,7 +13613,7 @@ s anotaci COND na TR</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1339f1</val_frame.rf>
+<val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p14s5a0">
 <nodetype>atom</nodetype>
@@ -13562,7 +13666,7 @@ s anotaci COND na TR</discourse_comment>
 <discourse_comment>wrongTR? nema se to anotovat jako elipsa? 
 (nema byt dokopirovano "jít"?)
 pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či doleva" a
- "o postup vpřed" s doplněným "jít")</discourse_comment>
+"o postup vpřed" s doplněným "jít")</discourse_comment>
 <children>
 <LM id="t-mf920925-040-p14s5w5">
 <a>
@@ -13641,9 +13745,6 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <LM id="t-mf920925-040-p14s5w9">
 <a>
 <lex.rf>a#a-mf920925-040-p14s5w9</lex.rf>
-<aux.rf>
-<LM>a#a-mf920925-040-p14s5w6</LM>
-</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>doleva</t_lemma>
@@ -13669,8 +13770,9 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <lex.rf>a#a-mf920925-040-p14s5w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>jaký</t_lemma>
+<t_lemma>nějaký</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>jaký</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -13779,13 +13881,14 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p15s1w5</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w2330f1</val_frame.rf>
+<val_frame.rf>v#v41dhzB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p15s1w5">
 <a>
@@ -13862,8 +13965,9 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <lex.rf>a#a-mf920925-040-p15s1w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
+<t_lemma>některý</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>adj.pron.indef</sempos>
 <indeftype>indef1</indeftype>
@@ -13892,6 +13996,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -13903,7 +14008,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p15s1a1">
 <nodetype>complex</nodetype>
@@ -13931,8 +14036,9 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <lex.rf>a#a-mf920925-040-p15s1w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>osobní</t_lemma>
-<functor>RSTR</functor>
+<t_lemma>osobně</t_lemma>
+<functor>MANN</functor>
+<proto_lemma>osobní</proto_lemma>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -13985,7 +14091,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w6361f1</val_frame.rf>
+<val_frame.rf>v#v41lcsB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p15s1w16">
 <a>
@@ -14094,7 +14200,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w9247f2</val_frame.rf>
+<val_frame.rf>v#v41qrhD</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p15s2a0">
 <nodetype>complex</nodetype>
@@ -14132,7 +14238,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w6479f1</val_frame.rf>
+<val_frame.rf>v#v41lhyA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p15s2w4">
 <a>
@@ -14144,6 +14250,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -14218,7 +14325,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w4994f1</val_frame.rf>
+<val_frame.rf>v#v41ikeA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p16s1a0">
 <nodetype>qcomplex</nodetype>
@@ -14289,7 +14396,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w902f1</val_frame.rf>
+<val_frame.rf>v#v41aobA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p16s1w6">
 <a>
@@ -14434,13 +14541,14 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p16s2w1</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w4745f1</val_frame.rf>
+<val_frame.rf>v#v41hxpB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p16s2w1">
 <a>
@@ -14465,6 +14573,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -14525,7 +14634,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w5026f1</val_frame.rf>
+<val_frame.rf>v#v41ilzA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p16s2a0">
 <nodetype>qcomplex</nodetype>
@@ -14626,6 +14735,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>mít</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -14643,7 +14753,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w1855f12</val_frame.rf>
+<val_frame.rf>v#v41chlAZ</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p16s2w11">
 <a>
@@ -14652,6 +14762,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -14692,7 +14803,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<val_frame.rf>v#v-w6702f1</val_frame.rf>
+<val_frame.rf>v#v41lshA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p16s2a4">
 <nodetype>qcomplex</nodetype>
@@ -14735,7 +14846,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w7321f1</val_frame.rf>
+<val_frame.rf>v#v41mxdB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p16s2a1">
 <nodetype>qcomplex</nodetype>
@@ -14785,8 +14896,9 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <lex.rf>a#a-mf920925-040-p16s2w18</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dobrý</t_lemma>
+<t_lemma>lépe</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>dobrý</proto_lemma>
 <quot>
 <LM>
 <type>dsp</type>
@@ -14830,7 +14942,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>t</tfa>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w7321f1</val_frame.rf>
+<val_frame.rf>v#v41mxdB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p16s2a3">
 <nodetype>complex</nodetype>
@@ -14878,7 +14990,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
-<children>
+</LM>
 <LM id="t-mf920925-040-p16s2w22">
 <a>
 <lex.rf>a#a-mf920925-040-p16s2w22</lex.rf>
@@ -14904,8 +15016,6 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -14951,7 +15061,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w2436f1</val_frame.rf>
+<val_frame.rf>v#v41dmsB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p17s1a0">
 <nodetype>complex</nodetype>
@@ -15004,7 +15114,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w8527f1</val_frame.rf>
+<val_frame.rf>v#v41pfhA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p17s1w6">
 <a>
@@ -15132,8 +15242,9 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <lex.rf>a#a-mf920925-040-p18s1w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
+<t_lemma>něco</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -15157,6 +15268,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <nodetype>complex</nodetype>
 <t_lemma>takový</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>takový</proto_lemma>
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
@@ -15172,6 +15284,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -15185,7 +15298,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p18s1a0">
 <nodetype>atom</nodetype>
@@ -15204,6 +15317,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -15224,21 +15338,23 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 <start_range>0</start_range>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-040-p18s1w5</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<val_frame.rf>v#v-w243f1</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p18s1w6">
 <a>
 <lex.rf>a#a-mf920925-040-p18s1w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kdy</t_lemma>
+<t_lemma>nikdy</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>kdy</proto_lemma>
 <subfunctor>basic</subfunctor>
 <gram>
 <sempos>adv.pron.indef</sempos>
@@ -15337,7 +15453,7 @@ pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či dolev
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w5371f1</val_frame.rf>
+<val_frame.rf>v#v41jdfA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p19s1a1">
 <nodetype>qcomplex</nodetype>

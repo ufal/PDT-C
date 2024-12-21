@@ -304,16 +304,16 @@
 <LM>w#w-d1t1309-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m058-d1t1311-1">
 <w.rf>
 <LM>w#w-d1t1311-1</LM>
 </w.rf>
 <form>je</form>
-<lemma>on-1</lemma>
-<tag>PEXP4--3-------</tag>
+<lemma>být</lemma>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m058-d1t1311-2">
 <w.rf>
@@ -648,8 +648,8 @@
 <LM>w#w-d1t1353-3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m058-d1t1353-4">
 <w.rf>
@@ -844,8 +844,8 @@
 <LM>w#w-d1t1368-9</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m058-d1t1368-8">
 <w.rf>
@@ -984,8 +984,8 @@
 <LM>w#w-d1t1381-1</LM>
 </w.rf>
 <form>To</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>ten</lemma>
+<tag>PDNS4----------</tag>
 </m>
 <m id="m058-d1t1381-2">
 <w.rf>
@@ -1052,8 +1052,8 @@
 <LM>w#w-d1t1389-4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m058-d1t1389-5">
 <w.rf>
@@ -1061,7 +1061,7 @@
 </w.rf>
 <form>něco</form>
 <lemma>něco</lemma>
-<tag>PK--4----------</tag>
+<tag>PK--1----------</tag>
 </m>
 <m id="m058-d1t1389-6">
 <w.rf>
@@ -1888,8 +1888,8 @@
 <LM>w#w-d1t1483-1</LM>
 </w.rf>
 <form>Dobře</form>
-<lemma>dobře</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>dobře-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m058-d1e1480-x2-450">
 <w.rf>
@@ -2250,8 +2250,8 @@
 <LM>w#w-d1t1518-5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m058-d1t1518-6">
 <w.rf>
@@ -2290,8 +2290,8 @@
 <LM>w#w-d1t1520-3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-1</lemma>
-<tag>TT-------------</tag>
+<lemma>tak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m058-d1t1520-4">
 <w.rf>
@@ -2373,7 +2373,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m058-d1t1524-2">
 <w.rf>
@@ -2454,7 +2454,7 @@
 <LM>w#w-d1t1529-6</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m058-d1t1529-5">
@@ -2640,8 +2640,8 @@
 <LM>w#w-d1t1551-6</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m058-d1t1553-3">
 <w.rf>
@@ -2795,7 +2795,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m058-d1t1564-4">
 <w.rf>
@@ -3170,8 +3170,8 @@
 <LM>w#w-244-266</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m058-d1t1586-1">
 <w.rf>
@@ -3274,8 +3274,8 @@
 <LM>w#w-d1t1595-1</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m058-d1t1595-2">
 <w.rf>
@@ -3690,8 +3690,8 @@
 <LM>w#w-d1t1617-7</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m058-d1t1617-8">
 <w.rf>
@@ -3764,8 +3764,8 @@
 <LM>w#w-d1t1623-3</LM>
 </w.rf>
 <form>samozřejmě</form>
-<lemma>samozřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>samozřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m058-d1t1623-4">
 <w.rf>
@@ -3804,8 +3804,8 @@
 <LM>w#w-d1t1623-8</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m058-d1t1623-9">
 <w.rf>
@@ -3871,7 +3871,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m058-d1t1627-6">
 <w.rf>

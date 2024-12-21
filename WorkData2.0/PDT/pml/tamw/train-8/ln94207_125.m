@@ -403,8 +403,8 @@
 <LM>w#w-ln94207-125-p2s2w7</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-4</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94207-125-p2s2w8">
 <src.rf>manual</src.rf>
@@ -484,8 +484,8 @@
 <LM>w#w-ln94207-125-p2s2w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-125-p2s2w17">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-ln94207-125-p3s2w13</LM>
 </w.rf>
 <form>napjatých</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-ln94207-125-p3s2w14">

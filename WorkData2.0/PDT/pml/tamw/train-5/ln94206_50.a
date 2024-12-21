@@ -18,7 +18,7 @@
 <children>
 <LM id="a-ln94206-50-p1s1w1">
 <m.rf>m#m-ln94206-50-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -60,8 +60,7 @@
 <children>
 <LM id="a-ln94206-50-p2s1w2">
 <m.rf>m#m-ln94206-50-p2s1w2</m.rf>
-<afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Vocat</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -71,13 +70,13 @@
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94206-50-p2s1w3">
 <m.rf>m#m-ln94206-50-p2s1w3</m.rf>
-<afun>ExD</afun>
+<afun>AuxX</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-ln94206-50-p2s1w4">
 <m.rf>m#m-ln94206-50-p2s1w4</m.rf>
@@ -737,22 +736,29 @@
 <ord>20</ord>
 <clause_number>3</clause_number>
 </LM>
+<LM id="a-ln94206-50-p4s1w23">
+<m.rf>m#m-ln94206-50-p4s1w23</m.rf>
+<afun>Denom</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
+<ord>23</ord>
+<clause_number>3</clause_number>
+<children>
 <LM id="a-ln94206-50-p4s1w22">
 <m.rf>m#m-ln94206-50-p4s1w22</m.rf>
-<afun>ExD</afun>
+<afun>AuxX</afun>
 <ord>22</ord>
 <clause_number>3</clause_number>
 </LM>
-<LM id="a-ln94206-50-p4s1w23">
-<m.rf>m#m-ln94206-50-p4s1w23</m.rf>
-<afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
-<ord>23</ord>
+<LM id="a-ln94206-50-p4s1w29">
+<m.rf>m#m-ln94206-50-p4s1w29</m.rf>
+<afun>Atr</afun>
+<ord>29</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln94206-50-p4s1w25">
 <m.rf>m#m-ln94206-50-p4s1w25</m.rf>
 <afun>Atr</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>25</ord>
 <clause_number>3</clause_number>
 <children>
@@ -768,27 +774,19 @@
 <ord>26</ord>
 <clause_number>3</clause_number>
 </LM>
+</children>
+</LM>
 <LM id="a-ln94206-50-p4s1w27">
 <m.rf>m#m-ln94206-50-p4s1w27</m.rf>
 <afun>Atr</afun>
 <ord>27</ord>
 <clause_number>3</clause_number>
-<children>
+</LM>
 <LM id="a-ln94206-50-p4s1w28">
 <m.rf>m#m-ln94206-50-p4s1w28</m.rf>
 <afun>Atr</afun>
 <ord>28</ord>
 <clause_number>3</clause_number>
-<children>
-<LM id="a-ln94206-50-p4s1w29">
-<m.rf>m#m-ln94206-50-p4s1w29</m.rf>
-<afun>Atr</afun>
-<ord>29</ord>
-<clause_number>3</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

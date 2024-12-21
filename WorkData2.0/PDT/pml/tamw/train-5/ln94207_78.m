@@ -37,8 +37,8 @@
 <LM>w#w-ln94207-78-p1s1w3</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-78-p1s1w4">
 <src.rf>manual</src.rf>
@@ -320,8 +320,8 @@
 <LM>w#w-ln94207-78-p1s3w13</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94207-78-p1s3w14">
 <src.rf>manual</src.rf>

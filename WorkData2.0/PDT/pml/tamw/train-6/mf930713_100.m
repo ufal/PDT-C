@@ -140,7 +140,7 @@
 <LM>w#w-mf930713-100-p2s1Bw9</LM>
 </w.rf>
 <form>sehnal</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-100-p2s1Bw10">
@@ -378,8 +378,8 @@
 <LM>w#w-mf930713-100-p2s2w13</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-100-p2s2w14">
 <src.rf>manual</src.rf>

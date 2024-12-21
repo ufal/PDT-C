@@ -204,7 +204,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-112-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -1242,7 +1242,7 @@
 </w.rf>
 <form>věnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf930709-112-p5s1w16">
 <src.rf>manual</src.rf>

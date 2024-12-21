@@ -19,8 +19,8 @@
 <LM>w#w-mf930713-098-p1s1w1</LM>
 </w.rf>
 <form>Podezřelí</form>
-<lemma>podezřelý</lemma>
-<tag>AAMP1----1A----</tag>
+<lemma>podezřelý-2</lemma>
+<tag>NNMP1-----A----</tag>
 </m>
 <m id="m-mf930713-098-p1s1w2">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-098-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-098-p4s3w13">
 <src.rf>manual</src.rf>

@@ -1004,7 +1004,7 @@
 </w.rf>
 <form>kontaktováni</form>
 <lemma>kontaktovat</lemma>
-<tag>VsMP----X-API--</tag>
+<tag>VsMP----X-APB--</tag>
 </m>
 <m id="m-lnd94104-127-p1s4Bw27">
 <src.rf>manual</src.rf>
@@ -1581,8 +1581,8 @@
 <LM>w#w-lnd94104-127-p1s5w23</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94104-127-p1s5w24">
 <src.rf>manual</src.rf>

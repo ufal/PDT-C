@@ -735,7 +735,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_14-SCzechM-p1408-s1-w13">
 <w.rf>
@@ -1263,7 +1263,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="es_14-SCzechM-p1442-s1-w4">
 <w.rf>
@@ -1321,7 +1321,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="es_14-SCzechM-p1446-s1-w7">
 <w.rf>
@@ -1484,8 +1484,8 @@
 <LM>w#w-es_14-SCzechM-p1454-s1-w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_14-SCzechM-p1454-s1-w5">
 <w.rf>
@@ -1642,8 +1642,8 @@
 <LM>w#w-es_14-SCzechM-p1465-s1-w13</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_14-SCzechM-p1465-s1-w14">
 <w.rf>
@@ -2268,8 +2268,8 @@
 <LM>w#w-es_14-SCzechM-p1471-s1-w27</LM>
 </w.rf>
 <form>možná</form>
-<lemma>možná-1_^(snad)</lemma>
-<tag>Db-------------</tag>
+<lemma>možná-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_14-SCzechM-p1471-s1-w28">
 <w.rf>
@@ -2590,8 +2590,8 @@
 <LM>w#w-es_14-SCzechM-p1473-s1-w16</LM>
 </w.rf>
 <form>Díky</form>
-<lemma>dík-1</lemma>
-<tag>NNIP4-----A----</tag>
+<lemma>díky-2</lemma>
+<tag>II-------------</tag>
 </m>
 <m id="es_14-SCzechM-p1473-s1-w17">
 <w.rf>
@@ -3035,7 +3035,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="es_14-SCzechM-p1488-s1-w17">
 <w.rf>
@@ -3142,8 +3142,8 @@
 <LM>w#w-es_14-SCzechM-p1493-s1-w8</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_14-SCzechM-p1493-s1-w9">
 <w.rf>
@@ -3901,8 +3901,8 @@
 <LM>w#w-es_14-SCzechM-p1517-s1-w33</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="es_14-SCzechM-p1517-s1-w34">
 <w.rf>

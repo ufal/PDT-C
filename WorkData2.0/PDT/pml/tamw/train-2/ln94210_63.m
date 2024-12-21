@@ -19,7 +19,7 @@
 <LM>w#w-ln94210-63-p1s1w1</LM>
 </w.rf>
 <form>Výhružné</form>
-<lemma>výhružný</lemma>
+<lemma>výhružný_,s_^(^DD**výhrůžný)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-ln94210-63-p1s1w2">
@@ -969,8 +969,8 @@
 <LM>w#w-ln94210-63-p2s6w3</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-63-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-63-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1223,8 +1223,8 @@
 <LM>w#w-ln94210-63-p2s7w16</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-63-p2s7w17">
 <src.rf>manual</src.rf>
@@ -2215,8 +2215,8 @@
 <LM>w#w-ln94210-63-p2s17w4</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-63-p2s17w5">
 <src.rf>manual</src.rf>

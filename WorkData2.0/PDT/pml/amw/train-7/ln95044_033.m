@@ -4500,7 +4500,7 @@
 <LM>w#w-ln95044-033-p3s17w1</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln95044-033-p3s17w2">

@@ -1176,7 +1176,7 @@
 <LM>w#w-mf920902-051-p2s7w11</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-mf920902-051-p2s7w12">

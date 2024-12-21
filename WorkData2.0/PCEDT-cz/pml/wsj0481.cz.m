@@ -151,8 +151,8 @@
 <LM>w#w-wsj0481-001-p1s0W16</LM>
 </w.rf>
 <form>se</form>
-<lemma>s-1</lemma>
-<tag>RV--7----------</tag>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
 </m>
 <m id="m-wsj0481-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>

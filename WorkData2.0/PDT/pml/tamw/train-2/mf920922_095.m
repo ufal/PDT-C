@@ -376,8 +376,8 @@
 <LM>w#w-mf920922-095-p1s2w9</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-095-p1s2w10">
 <src.rf>manual</src.rf>
@@ -457,8 +457,8 @@
 <LM>w#w-mf920922-095-p1s2w18</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-095-p1s2w19">
 <src.rf>manual</src.rf>
@@ -531,8 +531,8 @@
 <LM>w#w-mf920922-095-p1s3w5</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920922-095-p1s3w6">
 <src.rf>manual</src.rf>
@@ -722,8 +722,8 @@
 <LM>w#w-mf920922-095-p1s4w17</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-095-p1s4w18">
 <src.rf>manual</src.rf>

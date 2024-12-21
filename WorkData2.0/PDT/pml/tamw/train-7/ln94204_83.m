@@ -576,8 +576,8 @@
 <LM>w#w-ln94204-83-p3s1w14</LM>
 </w.rf>
 <form>cestou</form>
-<lemma>cesta</lemma>
-<tag>NNFS7-----A----</tag>
+<lemma>cestou</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln94204-83-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-83-p3s2w28">
 <src.rf>manual</src.rf>
@@ -1139,8 +1139,8 @@
 <LM>w#w-ln94204-83-p3s3w1</LM>
 </w.rf>
 <form>Právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-83-p3s3w2">
 <src.rf>manual</src.rf>
@@ -2230,8 +2230,8 @@
 <LM>w#w-ln94204-83-p5s1w7</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-83-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2648,8 +2648,8 @@
 <LM>w#w-ln94204-83-p6s1w6</LM>
 </w.rf>
 <form>zřejmě</form>
-<lemma>zřejmě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>zřejmě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-83-p6s1w7">
 <src.rf>manual</src.rf>
@@ -2704,8 +2704,8 @@
 <LM>w#w-ln94204-83-p6s2w4</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-83-p6s2w5">
 <src.rf>manual</src.rf>
@@ -3378,8 +3378,8 @@
 <LM>w#w-ln94204-83-p6s6w20</LM>
 </w.rf>
 <form>právě</form>
-<lemma>právě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>právě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-83-p6s6w21">
 <src.rf>manual</src.rf>
@@ -3605,8 +3605,8 @@
 <LM>w#w-ln94204-83-p7s1w14</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-83-p7s1w15">
 <src.rf>manual</src.rf>
@@ -4534,7 +4534,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94204-83-p8s3w9">
 <src.rf>manual</src.rf>

@@ -743,7 +743,7 @@
 </w.rf>
 <form>triumfoval</form>
 <lemma>triumfovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920901-048-p3s4w13">
 <src.rf>manual</src.rf>

@@ -424,7 +424,7 @@
 </w.rf>
 <form>Předčili</form>
 <lemma>předčit</lemma>
-<tag>VpMP----R-AAP--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94211-18-p3s1w2">
 <src.rf>manual</src.rf>
@@ -468,8 +468,8 @@
 <LM>w#w-ln94211-18-p3s1w6</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-18-p3s1w7">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln94211-18-p4s1w17</LM>
 </w.rf>
 <form>ofenzivní</form>
-<lemma>ofenzivní</lemma>
+<lemma>ofenzivní_,s_^(^DD**ofenzívní)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln94211-18-p4s1w18">
@@ -969,7 +969,7 @@
 </w.rf>
 <form>reagovalo</form>
 <lemma>reagovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-ln94211-18-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1339,8 +1339,8 @@
 <LM>w#w-ln94211-18-p5s1w36</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-18-p5s1w37">
 <src.rf>manual</src.rf>
@@ -1613,8 +1613,8 @@
 <LM>w#w-ln94211-18-p6s1w5</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-18-p6s1w6">
 <src.rf>manual</src.rf>
@@ -1649,8 +1649,8 @@
 <LM>w#w-ln94211-18-p6s1w9</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94211-18-p6s1w10">
 <src.rf>manual</src.rf>
@@ -2005,7 +2005,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94211-18-p7s1w9">
 <src.rf>manual</src.rf>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="tdata_c_schema.xml" />
+<schema href="tdata_c2_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_jh_12.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.5d.xml" />
 </references>
 </head>
+<meta/>
 <trees>
 <LM id="faust_2010_07_jh_12-SCzechT-p1196-s1-root">
 <atree.rf>a#faust_2010_07_jh_12-SCzechA-p1196-s1-root</atree.rf>
@@ -19,14 +20,19 @@
 <nodetype>coap</nodetype>
 <t_lemma>,</t_lemma>
 <functor>CONJ</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
+<deepord>4</deepord>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1196-s1-roota2">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1196-s1-roota1">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1196-s1-w1</lex.rf>
@@ -34,11 +40,13 @@
 <nodetype>complex</nodetype>
 <t_lemma>Rozplakávat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>1</deepord>
+<deepord>2</deepord>
+<val_frame.rf>v#v41jvnA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1196-s1-w2">
 <a>
@@ -54,16 +62,10 @@
 <person>1</person>
 <politeness>basic</politeness>
 </gram>
-<deepord>2</deepord>
+<deepord>3</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1196-s1-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>4</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1196-s1-w4">
 <a>
@@ -72,6 +74,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>rozesmívat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -82,6 +85,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
+<val_frame.rf>v#v41jpcA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1196-s1-w5">
 <a>
@@ -98,6 +102,12 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>6</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1196-s1-w2</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 </children>
 </LM>
@@ -131,14 +141,24 @@
 <atree.rf>a#faust_2010_07_jh_12-SCzechA-p1201-s1-root</atree.rf>
 <deepord>0</deepord>
 <children>
-<LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-roota1">
+<LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-w6">
 <a>
-<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1201-s1-w12</lex.rf>
+<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1201-s1-w6</lex.rf>
 </a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>CONJ</functor>
-<deepord>7</deepord>
+<nodetype>complex</nodetype>
+<t_lemma>vylétnout</t_lemma>
+<functor>PRED</functor>
+<sentmod>enunc</sentmod>
+<gram>
+<sempos>v</sempos>
+<deontmod>decl</deontmod>
+<tense>ant</tense>
+<aspect>cpl</aspect>
+<iterativeness>it0</iterativeness>
+<negation>neg0</negation>
+</gram>
+<deepord>4</deepord>
+<val_frame.rf>v#v41ohzA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-w1">
 <a>
@@ -155,26 +175,6 @@
 </gram>
 <deepord>1</deepord>
 </LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-w6">
-<a>
-<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1201-s1-w6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>vylétnout</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<is_member>1</is_member>
-<gram>
-<sempos>v</sempos>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<val_frame.rf>v#v-w8061f3_ZU</val_frame.rf>
-<children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-w5">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1201-s1-w5</lex.rf>
@@ -213,6 +213,15 @@
 </LM>
 </children>
 </LM>
+<LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-roota1">
+<a>
+<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1201-s1-w12</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Comma</t_lemma>
+<functor>APPS</functor>
+<deepord>7</deepord>
+<children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-w11">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1201-s1-w11</lex.rf>
@@ -223,6 +232,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>procento</t_lemma>
 <functor>DIFF</functor>
+<is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
 <gender>neut</gender>
@@ -249,23 +259,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-roota2">
-<a>
-<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1201-s1-w6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>vylétnout</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>v</sempos>
-</gram>
-<deepord>8</deepord>
-<val_frame.rf>v#v-w8061f3_ZU</val_frame.rf>
-<children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-w13">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1201-s1-w13</lex.rf>
@@ -273,12 +266,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>rychle</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>rychlý</proto_lemma>
+<is_member>1</is_member>
 <gram>
-<sempos>adv.denot.grad.nneg</sempos>
+<sempos>adj.denot</sempos>
 <degcmp>sup</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>9</deepord>
+<deepord>8</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-w16">
 <a>
@@ -296,7 +291,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>11</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1201-s1-w15">
 <a>
@@ -311,7 +306,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>10</deepord>
+<deepord>9</deepord>
 </LM>
 </children>
 </LM>
@@ -344,7 +339,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w6308f1</val_frame.rf>
+<val_frame.rf>v#v41kzzB</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1202-s1-w2">
 <a>
@@ -360,6 +355,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
+<coref_special>exoph</coref_special>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1202-s1-w1">
 <a>
@@ -368,6 +364,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>nr</gender>
@@ -451,8 +448,8 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
-<val_frame.rf>v#v-w1856f1</val_frame.rf>
+<deepord>4</deepord>
+<val_frame.rf>v#v41chmC</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1203-s1-w1">
 <a>
@@ -461,13 +458,19 @@
 <nodetype>atom</nodetype>
 <t_lemma>ahoj</t_lemma>
 <functor>PARTL</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<negation>neg0</negation>
-</gram>
+<sentmod>enunc</sentmod>
 <deepord>1</deepord>
+</LM>
+<LM id="faust_2010_07_jh_12-SCzechT-p1203-s1-roota1">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>2</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1203-s1-w3">
 <a>
@@ -476,18 +479,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>jak</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>jak</proto_lemma>
 <gram>
 <sempos>adv.pron.indef</sempos>
 <indeftype>inter</indeftype>
 </gram>
-<deepord>2</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1203-s1-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>4</deepord>
+<deepord>3</deepord>
 </LM>
 </children>
 </LM>
@@ -511,9 +508,16 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
-<val_frame.rf>v#v-w5582f2</val_frame.rf>
+<deepord>3</deepord>
+<val_frame.rf>v#v41jngB</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1204-s1-roota1">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>1</deepord>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1204-s1-w1">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1204-s1-w1</lex.rf>
@@ -526,14 +530,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>1</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1204-s1-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>3</deepord>
+<deepord>2</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1204-s1-w3">
 <a>
@@ -589,6 +586,7 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>1</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
 </LM>
@@ -603,6 +601,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#EmpVerb</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <deepord>1</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1209-s1-w2">
@@ -612,7 +611,6 @@
 <nodetype>complex</nodetype>
 <t_lemma>vybavený</t_lemma>
 <functor>PAT</functor>
-<sentmod>enunc</sentmod>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -627,8 +625,9 @@
 <nodetype>complex</nodetype>
 <t_lemma>plně</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>plný</proto_lemma>
 <gram>
-<sempos>adv.denot.grad.neg</sempos>
+<sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
@@ -702,8 +701,19 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>13</deepord>
+<deepord>14</deepord>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-roota2">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-roota9">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1212-s1-w4</lex.rf>
@@ -712,7 +722,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <is_member>1</is_member>
-<deepord>4</deepord>
+<deepord>5</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-roota1">
 <a>
@@ -721,12 +731,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>1</deepord>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+<deepord>2</deepord>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-w3">
 <a>
@@ -740,7 +752,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
+<deepord>4</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-w2">
 <a>
@@ -749,10 +761,11 @@
 <nodetype>complex</nodetype>
 <t_lemma>tak</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>tak</proto_lemma>
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
-<deepord>2</deepord>
+<deepord>3</deepord>
 </LM>
 </children>
 </LM>
@@ -765,6 +778,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>říci</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -774,8 +788,23 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>5</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<deepord>7</deepord>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1212-s1-roota1</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+<comment>PHASE:2 MANUAL</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1212-s1-roota9</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-w6">
 <a>
@@ -792,6 +821,7 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>6</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-w9">
 <a>
@@ -803,7 +833,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>EFF</functor>
-<sentmod>enunc</sentmod>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -812,15 +842,24 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>8</deepord>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+<deepord>9</deepord>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-roota3">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
-<deepord>7</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>8</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1212-s1-roota2</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-w10">
 <a>
@@ -834,7 +873,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>9</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-roota4">
 <a>
@@ -849,22 +888,29 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>11</deepord>
-<val_frame.rf>v#v-w6995f1</val_frame.rf>
+<deepord>12</deepord>
+<val_frame.rf>v#v41mgrA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-roota6">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#Cor</t_lemma>
 <functor>ACT</functor>
-<deepord>10</deepord>
+<deepord>11</deepord>
+<coref_gram.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1212-s1-roota3</LM>
+</coref_gram.rf>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-roota5">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
-<deepord>12</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>13</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
 </LM>
@@ -875,13 +921,6 @@
 </children>
 </LM>
 </children>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>14</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-w14">
 <a>
@@ -901,21 +940,45 @@
 <negation>neg0</negation>
 </gram>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w2834f1</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1212-s1-roota9</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+<comment>PHASE:2 MANUAL</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1212-s1-w13</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41egtA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-roota8">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#Gen</t_lemma>
 <functor>EFF</functor>
 <deepord>16</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-roota7">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>17</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1212-s1-w6</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-w16">
 <a>
@@ -949,6 +1012,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>19</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1212-s1-roota5</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1212-s1-w21">
 <a>
@@ -1052,6 +1121,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1062,14 +1132,18 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1214-s1-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>1</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1214-s1-w2">
 <a>
@@ -1100,6 +1174,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1110,7 +1185,7 @@
 <negation>neg1</negation>
 </gram>
 <deepord>1</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1217-s1-roota1">
 <nodetype>atom</nodetype>
@@ -1124,8 +1199,9 @@
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1217-s1-w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tady</t_lemma>
+<t_lemma>tu</t_lemma>
 <functor>LOC</functor>
+<proto_lemma>tady</proto_lemma>
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
@@ -1218,6 +1294,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1228,21 +1305,15 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1219-s1-w2">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1219-s1-w2</lex.rf>
 </a>
-<nodetype>complex</nodetype>
+<nodetype>coap</nodetype>
 <t_lemma>,</t_lemma>
 <functor>APPS</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<negation>neg0</negation>
-</gram>
 <deepord>2</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1219-s1-w1">
@@ -1302,15 +1373,9 @@
 <LM>a#faust_2010_07_jh_12-SCzechA-p1219-s1-w7</LM>
 </aux.rf>
 </a>
-<nodetype>complex</nodetype>
-<t_lemma>podstata</t_lemma>
+<nodetype>atom</nodetype>
+<t_lemma>v_podstatě</t_lemma>
 <functor>ATT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
 <deepord>6</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1219-s1-w9">
@@ -1340,15 +1405,16 @@
 <is_generated>1</is_generated>
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
-<deepord>1</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1221-s1A-roota1">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#EmpVerb</t_lemma>
 <functor>PRED</functor>
+<sentmod>excl</sentmod>
 <is_member>1</is_member>
-<deepord>4</deepord>
+<deepord>3</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1221-s1-w2">
 <a>
@@ -1357,14 +1423,13 @@
 <nodetype>complex</nodetype>
 <t_lemma>den</t_lemma>
 <functor>PAT</functor>
-<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 <gender>inan</gender>
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
+<deepord>2</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1221-s1-w1">
 <a>
@@ -1378,7 +1443,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
+<deepord>1</deepord>
 </LM>
 </children>
 </LM>
@@ -1389,13 +1454,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>přítel</t_lemma>
 <functor>VOCAT</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 <gender>anim</gender>
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
+<deepord>6</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1221-s1-w4">
 <a>
@@ -1411,7 +1477,8 @@
 <person>1</person>
 <politeness>basic</politeness>
 </gram>
-<deepord>5</deepord>
+<deepord>4</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1221-s1-w5">
 <a>
@@ -1425,7 +1492,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>6</deepord>
+<deepord>5</deepord>
 </LM>
 </children>
 </LM>
@@ -1439,13 +1506,7 @@
 <t_lemma>:</t_lemma>
 <functor>OPER</functor>
 <is_member>1</is_member>
-<gram>
-<sempos>n.denot</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
+<deepord>8</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1221-s1-w8">
 <a>
@@ -1462,7 +1523,7 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>8</deepord>
+<deepord>7</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1221-s1-w10">
 <a>
@@ -1479,7 +1540,7 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>10</deepord>
+<deepord>9</deepord>
 </LM>
 </children>
 </LM>
@@ -1491,8 +1552,24 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <is_member>1</is_member>
-<deepord>12</deepord>
+<deepord>13</deepord>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1221-s1D-roota2">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>11</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1221-s1-w6</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1221-s1-w11">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1221-s1-w11</lex.rf>
@@ -1500,6 +1577,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>přijít</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -1509,15 +1587,8 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>11</deepord>
-<val_frame.rf>v#v-w5158f1</val_frame.rf>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1221-s1D-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>13</deepord>
+<deepord>12</deepord>
+<val_frame.rf>v#v41isgP</val_frame.rf>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1221-s1-w13">
 <a>
@@ -1526,6 +1597,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>přijít</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -1536,7 +1608,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w5158f1</val_frame.rf>
+<val_frame.rf>v#v41isgP</val_frame.rf>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1221-s1-w15">
 <a>
@@ -1591,6 +1663,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>hrát</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>hrát</proto_lemma>
 <sentmod>imper</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1600,15 +1673,19 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>1</deepord>
-<val_frame.rf>v#v-w1122f1</val_frame.rf>
+<deepord>2</deepord>
+<val_frame.rf>v#v41aypA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1222-s1-roota2">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
-<deepord>2</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1222-s1-w3">
 <a>
@@ -1632,6 +1709,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>mnoho</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>mnoho</proto_lemma>
 <gram>
 <sempos>adj.quant.grad</sempos>
 <degcmp>pos</degcmp>
@@ -1641,28 +1719,17 @@
 </LM>
 </children>
 </LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1222-s1-roota1">
-<nodetype>list</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Forn</t_lemma>
-<functor>MANN</functor>
-<deepord>5</deepord>
-<children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1222-s1-w4">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1222-s1-w4</lex.rf>
 </a>
-<nodetype>fphr</nodetype>
+<nodetype>complex</nodetype>
 <t_lemma>ONLINE</t_lemma>
-<functor>FPHR</functor>
+<functor>MANN</functor>
 <gram>
-<sempos>adv.denot.grad.neg</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
+<sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
-<deepord>6</deepord>
-</LM>
-</children>
+<deepord>5</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1222-s1-w7">
 <a>
@@ -1680,7 +1747,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>8</deepord>
+<deepord>7</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1222-s1-w6">
 <a>
@@ -1694,7 +1761,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
+<deepord>6</deepord>
 </LM>
 </children>
 </LM>
@@ -1711,7 +1778,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
-<deepord>1</deepord>
+<deepord>6</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1224-s1-w1">
 <a>
@@ -1728,7 +1795,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
+<deepord>1</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1224-s1-w2">
 <a>
@@ -1737,6 +1804,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>Kasárna</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
@@ -1744,7 +1812,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
+<deepord>2</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1224-s1-w3">
 <a>
@@ -1753,6 +1821,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>centrum</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
@@ -1760,7 +1829,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>4</deepord>
+<deepord>3</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1224-s1-w4">
 <a>
@@ -1775,7 +1844,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>5</deepord>
+<deepord>4</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1224-s1-w6">
 <a>
@@ -1793,7 +1862,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>6</deepord>
+<deepord>5</deepord>
 </LM>
 </children>
 </LM>
@@ -1806,6 +1875,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>přístřeší</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
@@ -1898,14 +1968,18 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1835f1</val_frame.rf>
+<val_frame.rf>v#v41cgmA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1227-s1-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>1</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1227-s1-w2">
 <a>
@@ -1922,6 +1996,7 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>3</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
 </LM>
@@ -1938,6 +2013,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>mít</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -1948,14 +2024,18 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1855f2</val_frame.rf>
+<val_frame.rf>v#v41chlO</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1228-s1-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>1</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1228-s1-w3">
 <a>
@@ -2012,9 +2092,20 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
-<val_frame.rf>v#v-w409f1</val_frame.rf>
+<deepord>4</deepord>
+<val_frame.rf>v#v41reO</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1233-s1-roota1">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1233-s1-w1">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1233-s1-w1</lex.rf>
@@ -2022,11 +2113,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>jak</t_lemma>
 <functor>MANN</functor>
+<proto_lemma>jak</proto_lemma>
 <gram>
 <sempos>adv.pron.indef</sempos>
 <indeftype>inter</indeftype>
 </gram>
-<deepord>1</deepord>
+<deepord>2</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1233-s1-w2">
 <a>
@@ -2035,19 +2127,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
 <number>sg</number>
 </gram>
-<deepord>2</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1233-s1-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>4</deepord>
+<deepord>3</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
 </LM>
@@ -2131,7 +2218,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
-<deepord>1</deepord>
+<deepord>53</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1A-roota1">
 <a>
@@ -2140,11 +2227,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>zeď</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>4</deepord>
+<deepord>3</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w1">
 <a>
@@ -2158,7 +2246,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
+<deepord>1</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w2">
 <a>
@@ -2172,7 +2260,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
+<deepord>2</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1A-roota2">
 <a>
@@ -2181,11 +2269,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>Čína</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>5</deepord>
+<deepord>4</deepord>
 </LM>
 </children>
 </LM>
@@ -2194,8 +2283,9 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
-<deepord>8</deepord>
+<deepord>7</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w7">
 <a>
@@ -2204,6 +2294,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>7</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
@@ -2211,7 +2302,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>6</deepord>
+<deepord>5</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w9">
 <a>
@@ -2220,13 +2311,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Tádž</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>7</deepord>
+<deepord>6</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w10">
 <a>
@@ -2235,13 +2320,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Mahál</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
+<deepord>8</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1C-roota3">
 <a>
@@ -2250,21 +2329,28 @@
 <nodetype>complex</nodetype>
 <t_lemma>Indie</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>10</deepord>
+<deepord>9</deepord>
 </LM>
 </children>
 </LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1239-s1E-roota3">
-<nodetype>list</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Forn</t_lemma>
+<LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w19">
+<a>
+<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1239-s1-w19</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Stonehenge</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
-<deepord>13</deepord>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>12</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w14">
 <a>
@@ -2273,6 +2359,24 @@
 <nodetype>complex</nodetype>
 <t_lemma>8</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
+<is_parenthesis>1</is_parenthesis>
+<gram>
+<sempos>n.denot</sempos>
+<gender>anim</gender>
+<number>sg</number>
+<negation>neg0</negation>
+</gram>
+<deepord>10</deepord>
+</LM>
+<LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w17">
+<a>
+<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1239-s1-w17</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>9</t_lemma>
+<functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
@@ -2282,37 +2386,6 @@
 </gram>
 <deepord>11</deepord>
 </LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w17">
-<a>
-<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1239-s1-w17</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>9</t_lemma>
-<functor>PAR</functor>
-<is_parenthesis>1</is_parenthesis>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>12</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w19">
-<a>
-<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1239-s1-w19</lex.rf>
-</a>
-<nodetype>fphr</nodetype>
-<t_lemma>Stonehenge</t_lemma>
-<functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>14</deepord>
-</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1E-roota4">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1239-s1-w22</lex.rf>
@@ -2320,11 +2393,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>Británie</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>16</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w21">
 <a>
@@ -2339,7 +2413,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>15</deepord>
+<deepord>13</deepord>
 </LM>
 </children>
 </LM>
@@ -2350,8 +2424,9 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
-<deepord>19</deepord>
+<deepord>17</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w24">
 <a>
@@ -2360,6 +2435,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>10</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2367,7 +2443,7 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>17</deepord>
+<deepord>15</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w26">
 <a>
@@ -2376,13 +2452,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Machu</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>18</deepord>
+<deepord>16</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w27">
 <a>
@@ -2391,13 +2461,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Picchu</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>nr</number>
-<negation>neg0</negation>
-</gram>
-<deepord>20</deepord>
+<deepord>18</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1G-roota5">
 <a>
@@ -2406,8 +2470,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>Peru</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
-<deepord>21</deepord>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>19</deepord>
 </LM>
 </children>
 </LM>
@@ -2418,6 +2486,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>terasa</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
@@ -2425,7 +2494,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>24</deepord>
+<deepord>22</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w31">
 <a>
@@ -2434,6 +2503,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>11</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2441,7 +2511,7 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>22</deepord>
+<deepord>20</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w33">
 <a>
@@ -2455,7 +2525,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>23</deepord>
+<deepord>21</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1I-roota2">
 <a>
@@ -2467,7 +2537,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>LOC</functor>
-<deepord>25</deepord>
+<deepord>23</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w36">
 <a>
@@ -2476,13 +2546,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Banaue</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>nr</number>
-<negation>neg0</negation>
-</gram>
-<deepord>26</deepord>
+<deepord>24</deepord>
 </LM>
 </children>
 </LM>
@@ -2493,11 +2557,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>Filipíny</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>27</deepord>
+<deepord>25</deepord>
 </LM>
 </children>
 </LM>
@@ -2508,6 +2573,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>armáda</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
@@ -2515,7 +2581,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>34</deepord>
+<deepord>32</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w40">
 <a>
@@ -2524,6 +2590,38 @@
 <nodetype>complex</nodetype>
 <t_lemma>12</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
+<is_parenthesis>1</is_parenthesis>
+<gram>
+<sempos>n.quant.def</sempos>
+<gender>nr</gender>
+<number>nr</number>
+<numertype>basic</numertype>
+</gram>
+<deepord>26</deepord>
+</LM>
+<LM id="faust_2010_07_jh_12-SCzechT-p1239-s1K-roota8">
+<a>
+<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1239-s1-w43</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>13</t_lemma>
+<functor>PAR</functor>
+<sentmod>enunc</sentmod>
+<is_parenthesis>1</is_parenthesis>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>27</deepord>
+</LM>
+<LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w46">
+<a>
+<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1239-s1-w46</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>14</t_lemma>
+<functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2533,35 +2631,6 @@
 </gram>
 <deepord>28</deepord>
 </LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1239-s1K-roota8">
-<a>
-<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1239-s1-w43</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>13</t_lemma>
-<functor>PAR</functor>
-<is_parenthesis>1</is_parenthesis>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
-<deepord>29</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w46">
-<a>
-<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1239-s1-w46</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>14</t_lemma>
-<functor>PAR</functor>
-<is_parenthesis>1</is_parenthesis>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>30</deepord>
-</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w49">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1239-s1-w49</lex.rf>
@@ -2569,6 +2638,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>15</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2576,7 +2646,7 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>31</deepord>
+<deepord>29</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w52">
 <a>
@@ -2585,6 +2655,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>16</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2592,7 +2663,7 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>32</deepord>
+<deepord>30</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w54">
 <a>
@@ -2606,14 +2677,14 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>33</deepord>
+<deepord>31</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1K-roota6">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>RSTR</functor>
-<deepord>37</deepord>
+<deepord>35</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w56">
 <a>
@@ -2622,13 +2693,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Xi</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>nr</number>
-<negation>neg0</negation>
-</gram>
-<deepord>35</deepord>
+<deepord>33</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1K-roota7">
 <a>
@@ -2637,7 +2702,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>'</t_lemma>
 <functor>FPHR</functor>
-<deepord>36</deepord>
+<deepord>34</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w58">
 <a>
@@ -2646,14 +2711,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>ana</t_lemma>
 <functor>FPHR</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>38</deepord>
+<deepord>36</deepord>
 </LM>
 </children>
 </LM>
@@ -2664,6 +2722,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>Čína</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
@@ -2671,7 +2730,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>39</deepord>
+<deepord>37</deepord>
 </LM>
 </children>
 </LM>
@@ -2682,6 +2741,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>pokoj</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
@@ -2689,7 +2749,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>43</deepord>
+<deepord>41</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w63">
 <a>
@@ -2698,6 +2758,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>17</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2705,7 +2766,7 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>40</deepord>
+<deepord>38</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w66">
 <a>
@@ -2714,6 +2775,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>18</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2721,7 +2783,7 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>41</deepord>
+<deepord>39</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w68">
 <a>
@@ -2735,7 +2797,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>42</deepord>
+<deepord>40</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w72">
 <a>
@@ -2753,7 +2815,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>45</deepord>
+<deepord>43</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w71">
 <a>
@@ -2767,7 +2829,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>44</deepord>
+<deepord>42</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w74">
 <a>
@@ -2785,7 +2847,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>46</deepord>
+<deepord>44</deepord>
 </LM>
 </children>
 </LM>
@@ -2796,11 +2858,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>Rusko</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>47</deepord>
+<deepord>45</deepord>
 </LM>
 </children>
 </LM>
@@ -2811,6 +2874,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>klášter</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
@@ -2818,7 +2882,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>49</deepord>
+<deepord>47</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w78">
 <a>
@@ -2827,6 +2891,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>19</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2834,14 +2899,15 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>48</deepord>
+<deepord>46</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1O-roota8">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
-<deepord>51</deepord>
+<sentmod>enunc</sentmod>
+<deepord>49</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w81">
 <a>
@@ -2850,12 +2916,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>San</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>50</deepord>
+<deepord>48</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w82">
 <a>
@@ -2864,13 +2925,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Lorenzo</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>52</deepord>
+<deepord>50</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1-w83">
 <a>
@@ -2879,13 +2934,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>del</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>53</deepord>
+<deepord>51</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1239-s1O-roota9">
 <a>
@@ -2894,7 +2943,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Escorial</t_lemma>
 <functor>FPHR</functor>
-<deepord>54</deepord>
+<deepord>52</deepord>
 </LM>
 </children>
 </LM>
@@ -2905,11 +2954,12 @@
 <nodetype>complex</nodetype>
 <t_lemma>Španělsko</t_lemma>
 <functor>PAR</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>55</deepord>
+<deepord>54</deepord>
 </LM>
 </children>
 </LM>
@@ -2920,6 +2970,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>20</t_lemma>
 <functor>DENOM</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <gram>
@@ -2928,7 +2979,7 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>56</deepord>
+<deepord>55</deepord>
 </LM>
 </children>
 </LM>
@@ -2954,9 +3005,20 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
-<val_frame.rf>v#v-w774f1</val_frame.rf>
+<deepord>4</deepord>
+<val_frame.rf>v#v41aiaB</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1241-s1-roota1">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1241-s1-w2">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1241-s1-w2</lex.rf>
@@ -2973,7 +3035,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>1</deepord>
+<deepord>2</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1241-s1-w3">
 <a>
@@ -2988,16 +3050,9 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>2</deepord>
+<deepord>3</deepord>
 </LM>
 </children>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1241-s1-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>4</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1241-s1-w8">
 <a>
@@ -3019,7 +3074,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w3351f1</val_frame.rf>
+<val_frame.rf>v#v41fhgG</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1241-s1-w9">
 <a>
@@ -3051,7 +3106,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
-<deepord>1</deepord>
+<deepord>5</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1242-s1-w2">
 <a>
@@ -3060,6 +3115,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -3070,8 +3126,8 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+<deepord>2</deepord>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1242-s1-w1">
 <a>
@@ -3087,7 +3143,7 @@
 <indeftype>total1</indeftype>
 <person>3</person>
 </gram>
-<deepord>2</deepord>
+<deepord>1</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1242-s1-w4">
 <a>
@@ -3101,7 +3157,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>5</deepord>
+<deepord>4</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1242-s1-w3">
 <a>
@@ -3114,7 +3170,7 @@
 <sempos>adv.pron.indef</sempos>
 <indeftype>indef1</indeftype>
 </gram>
-<deepord>4</deepord>
+<deepord>3</deepord>
 </LM>
 </children>
 </LM>
@@ -3127,6 +3183,8 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -3137,7 +3195,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1242-s1-w6">
 <a>
@@ -3199,9 +3257,20 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
-<val_frame.rf>v#v-w9432f1</val_frame.rf>
+<deepord>4</deepord>
+<val_frame.rf>v#v41raoA</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1243-s1-roota1">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1243-s1-w4">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1243-s1-w4</lex.rf>
@@ -3216,21 +3285,19 @@
 <person>2</person>
 <politeness>basic</politeness>
 </gram>
-<deepord>1</deepord>
+<deepord>2</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1243-s1-roota2">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>3</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1243-s1-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>4</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
 </LM>
@@ -3337,21 +3404,29 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w406f1</val_frame.rf>
+<val_frame.rf>v#v41rbA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1251-s1-roota2">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>1</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1251-s1-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>3</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
 </LM>
@@ -3381,9 +3456,20 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
-<val_frame.rf>v#v-w8223f1</val_frame.rf>
+<deepord>4</deepord>
+<val_frame.rf>v#v41oqfA</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1253-s1-roota1">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1253-s1-w2">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1253-s1-w2</lex.rf>
@@ -3394,12 +3480,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>tenhle</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>tenhle</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
 <number>sg</number>
 </gram>
-<deepord>1</deepord>
+<deepord>2</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1253-s1-w5">
 <a>
@@ -3412,14 +3500,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1253-s1-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>4</deepord>
+<deepord>3</deepord>
 </LM>
 </children>
 </LM>
@@ -3434,7 +3515,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
-<deepord>1</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1-w5">
 <a>
@@ -3457,7 +3538,22 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w6918f2</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1257-s1-w8</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>preced</discourse_type>
+<sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
+<comment>PHASE:2 MANUAL</comment>
+<src>A_V_A</src>
+<a-connectors.rf>
+<LM>a#faust_2010_07_jh_12-SCzechA-p1257-s1-w7</LM>
+</a-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41mctD</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1-w2">
 <a>
@@ -3475,7 +3571,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
+<deepord>1</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1-w3">
 <a>
@@ -3490,14 +3586,18 @@
 <indeftype>total1</indeftype>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
+<deepord>2</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1A-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
-<deepord>5</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>3</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1-w8">
 <a>
@@ -3517,15 +3617,24 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
-<val_frame.rf>v#v-w2042f1</val_frame.rf>
+<deepord>6</deepord>
+<val_frame.rf>v#v41croB</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1A-roota2">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
-<deepord>6</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>5</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1257-s1A-roota1</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1-w12">
 <a>
@@ -3546,8 +3655,24 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<val_frame.rf>v#v-w1058f2</val_frame.rf>
+<val_frame.rf>v#v41avoC</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1257-s1A-roota3">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>7</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1257-s1A-roota2</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1-w11">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1257-s1-w11</lex.rf>
@@ -3555,6 +3680,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -3563,13 +3689,6 @@
 <person>3</person>
 </gram>
 <deepord>8</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1257-s1A-roota3">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>10</deepord>
 </LM>
 </children>
 </LM>
@@ -3585,6 +3704,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>COND</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -3594,7 +3714,22 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1257-s1-w5</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
+<comment>PHASE:2 MANUAL</comment>
+<src>A_V_A</src>
+<a-connectors.rf>
+<LM>a#faust_2010_07_jh_12-SCzechA-p1257-s1-w14</LM>
+</a-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1-w16">
 <a>
@@ -3627,9 +3762,25 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>14</deepord>
-<val_frame.rf>v#v-w1058f2</val_frame.rf>
+<deepord>15</deepord>
+<val_frame.rf>v#v41avoC</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1257-s1A-roota4">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>13</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1257-s1A-roota3</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1-w18">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1257-s1-w18</lex.rf>
@@ -3637,6 +3788,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -3644,14 +3796,10 @@
 <indeftype>inter</indeftype>
 <person>3</person>
 </gram>
-<deepord>13</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1257-s1A-roota4">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>15</deepord>
+<deepord>14</deepord>
+<coref_gram.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1257-s1-w16</LM>
+</coref_gram.rf>
 </LM>
 </children>
 </LM>
@@ -3668,6 +3816,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>zkusit</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -3678,14 +3827,23 @@
 <negation>neg0</negation>
 </gram>
 <deepord>17</deepord>
-<val_frame.rf>v#v-w9560f3</val_frame.rf>
+<val_frame.rf>v#v41rhoD</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1B-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>16</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1257-s1A-roota4</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1-w22">
 <a>
@@ -3703,14 +3861,17 @@
 <negation>neg1</negation>
 </gram>
 <deepord>19</deepord>
-<val_frame.rf>v#v-w8983f1</val_frame.rf>
+<val_frame.rf>v#v41qddA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1B-roota4">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#Cor</t_lemma>
 <functor>ACT</functor>
 <deepord>18</deepord>
+<coref_gram.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1257-s1B-roota1</LM>
+</coref_gram.rf>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1B-roota3">
 <nodetype>atom</nodetype>
@@ -3720,11 +3881,15 @@
 <deepord>20</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1257-s1B-roota2">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>21</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
 </LM>
@@ -3748,6 +3913,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>vidět</t_lemma>
 <functor>PRED</functor>
+<sentmod>inter</sentmod>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -3756,9 +3922,20 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
-<val_frame.rf>v#v-w7612f1</val_frame.rf>
+<deepord>3</deepord>
+<val_frame.rf>v#v41nlfH</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1259-s1-roota1">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1259-s1-w2">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1259-s1-w2</lex.rf>
@@ -3773,14 +3950,8 @@
 <person>2</person>
 <politeness>basic</politeness>
 </gram>
-<deepord>1</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1259-s1-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>3</deepord>
+<deepord>2</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
 </LM>
@@ -3797,6 +3968,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
@@ -3807,7 +3979,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1260-s1-w2">
 <a>
@@ -3816,12 +3988,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
 <number>sg</number>
 </gram>
 <deepord>2</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1260-s1-w3">
 <a>
@@ -3862,9 +4036,20 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
-<val_frame.rf>v#v-w4096f1</val_frame.rf>
+<deepord>3</deepord>
+<val_frame.rf>v#v41grpC</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1261-s1-roota1">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1261-s1-w1">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1261-s1-w1</lex.rf>
@@ -3872,6 +4057,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>co</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -3879,14 +4065,7 @@
 <indeftype>inter</indeftype>
 <person>3</person>
 </gram>
-<deepord>1</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1261-s1-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>3</deepord>
+<deepord>2</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1261-s1-w6">
 <a>
@@ -3906,9 +4085,40 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>5</deepord>
-<val_frame.rf>v#v-w8845f1</val_frame.rf>
+<deepord>6</deepord>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1261-s1-w2</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>purp</discourse_type>
+<sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
+<comment>PHASE:2 MANUAL</comment>
+<src>A_V_A</src>
+<a-connectors.rf>
+<LM>a#faust_2010_07_jh_12-SCzechA-p1261-s1-w4</LM>
+</a-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41pvyA</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1261-s1-roota2">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>4</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1261-s1-roota1</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1261-s1-w5">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1261-s1-w5</lex.rf>
@@ -3923,14 +4133,10 @@
 <person>inher</person>
 <politeness>inher</politeness>
 </gram>
-<deepord>4</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1261-s1-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>6</deepord>
+<deepord>5</deepord>
+<coref_gram.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1261-s1-roota2</LM>
+</coref_gram.rf>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1261-s1-w8">
 <a>
@@ -4044,14 +4250,18 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w1339f3</val_frame.rf>
+<val_frame.rf>v#v41bikAI</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1262-s1-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>1</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1262-s1-w3">
 <a>
@@ -4084,15 +4294,32 @@
 <is_generated>1</is_generated>
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
-<deepord>1</deepord>
+<deepord>15</deepord>
+<children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w5">
+<a>
+<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1263-s1-w5</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>objekt</t_lemma>
+<functor>DENOM</functor>
+<sentmod>enunc</sentmod>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+<gender>inan</gender>
+<number>sg</number>
+<negation>neg0</negation>
+</gram>
+<deepord>6</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1C-roota1">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
-<functor>DENOM</functor>
-<is_member>1</is_member>
-<deepord>3</deepord>
+<functor>ID</functor>
+<sentmod>enunc</sentmod>
+<deepord>2</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w1">
 <a>
@@ -4101,12 +4328,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>East</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
+<deepord>1</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w2">
 <a>
@@ -4115,32 +4337,10 @@
 <nodetype>fphr</nodetype>
 <t_lemma>End</t_lemma>
 <functor>FPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
+<deepord>3</deepord>
 </LM>
 </children>
 </LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w5">
-<a>
-<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1263-s1-w5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>objekt</t_lemma>
-<functor>DENOM</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>7</deepord>
-<children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w3">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1263-s1-w3</lex.rf>
@@ -4153,7 +4353,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>5</deepord>
+<deepord>4</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w4">
 <a>
@@ -4167,7 +4367,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>6</deepord>
+<deepord>5</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w6">
 <a>
@@ -4184,7 +4384,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>8</deepord>
+<deepord>7</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w13">
 <a>
@@ -4193,7 +4393,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>12</deepord>
+<deepord>11</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w10">
 <a>
@@ -4212,7 +4412,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>10</deepord>
+<deepord>9</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w9">
 <a>
@@ -4226,7 +4426,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>9</deepord>
+<deepord>8</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w12">
 <a>
@@ -4244,7 +4444,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>11</deepord>
+<deepord>10</deepord>
 </LM>
 </children>
 </LM>
@@ -4265,7 +4465,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>14</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w14">
 <a>
@@ -4279,7 +4479,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>13</deepord>
+<deepord>12</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w18">
 <a>
@@ -4311,7 +4511,7 @@
 <degcmp>pos</degcmp>
 <numertype>ord</numertype>
 </gram>
-<deepord>15</deepord>
+<deepord>14</deepord>
 </LM>
 </children>
 </LM>
@@ -4333,6 +4533,13 @@
 <is_member>1</is_member>
 <deepord>21</deepord>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1263-s1B-roota1">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>17</deepord>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w20">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1263-s1-w20</lex.rf>
@@ -4346,7 +4553,13 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>17</deepord>
+<deepord>18</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1263-s1-w10</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w23">
 <a>
@@ -4368,8 +4581,8 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>19</deepord>
-<val_frame.rf>v#v-w11228f2</val_frame.rf>
+<deepord>20</deepord>
+<val_frame.rf>v#v41rwsA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w22">
 <a>
@@ -4378,21 +4591,15 @@
 <nodetype>complex</nodetype>
 <t_lemma>rozsáhle</t_lemma>
 <functor>EXT</functor>
+<proto_lemma>rozsáhlý</proto_lemma>
 <gram>
-<sempos>adv.denot.grad.neg</sempos>
+<sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>18</deepord>
+<deepord>19</deepord>
 </LM>
 </children>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1263-s1B-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>20</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w28">
 <a>
@@ -4414,9 +4621,35 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>23</deepord>
-<val_frame.rf>v#v-w4452f1</val_frame.rf>
+<deepord>24</deepord>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1263-s1-w23</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+<comment>PHASE:2 MANUAL</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1263-s1-w24</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41hitA</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1263-s1B-roota2">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ADDR</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>22</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w27">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1263-s1-w27</lex.rf>
@@ -4433,14 +4666,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>22</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1263-s1B-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ADDR</functor>
-<deepord>24</deepord>
+<deepord>23</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w30">
 <a>
@@ -4484,6 +4710,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>platit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -4494,7 +4721,22 @@
 <negation>neg0</negation>
 </gram>
 <deepord>27</deepord>
-<val_frame.rf>v#v-w3468f1</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1263-s1-w41</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>reason</discourse_type>
+<sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
+<comment>PHASE:3 RETYPED conj->reason</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1263-s1-w37</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41fmtA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w32">
 <a>
@@ -4510,6 +4752,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>26</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1263-s1B-roota2</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w35">
 <a>
@@ -4553,6 +4801,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>dělat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -4563,7 +4812,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>34</deepord>
-<val_frame.rf>v#v-w409f2</val_frame.rf>
+<val_frame.rf>v#v41reG</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w37">
 <a>
@@ -4579,6 +4828,9 @@
 <negation>neg0</negation>
 </gram>
 <deepord>31</deepord>
+<coref_gram.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1263-s1-w33</LM>
+</coref_gram.rf>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w40">
 <a>
@@ -4597,6 +4849,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>33</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1263-s1-w5</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1263-s1-w39">
 <a>
@@ -4605,6 +4863,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>tento</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
@@ -4676,7 +4935,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
-<deepord>1</deepord>
+<deepord>28</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w4">
 <a>
@@ -4696,7 +4955,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w9187f1</val_frame.rf>
+<val_frame.rf>v#v41qnmA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w1">
 <a>
@@ -4713,6 +4972,13 @@
 </gram>
 <deepord>2</deepord>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1265-s1A-roota1267">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>1</deepord>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w2">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1265-s1-w2</lex.rf>
@@ -4817,6 +5083,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>vykazovat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -4827,7 +5094,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w8004f1</val_frame.rf>
+<val_frame.rf>v#v41oesA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w11">
 <a>
@@ -4889,6 +5156,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>13</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1265-s1-w2</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w15">
 <a>
@@ -5090,6 +5363,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>d</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 <gender>neut</gender>
@@ -5112,7 +5386,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <is_member>1</is_member>
-<deepord>37</deepord>
+<deepord>38</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w35">
 <a>
@@ -5127,7 +5401,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>28</deepord>
+<deepord>29</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w36">
 <a>
@@ -5141,7 +5415,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>29</deepord>
+<deepord>30</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w38">
 <a>
@@ -5159,7 +5433,13 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>30</deepord>
+<deepord>31</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1265-s1-w14</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w39">
 <a>
@@ -5174,7 +5454,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>31</deepord>
+<deepord>32</deepord>
 </LM>
 </children>
 </LM>
@@ -5189,12 +5469,13 @@
 <nodetype>complex</nodetype>
 <t_lemma>vykazovat</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>32</deepord>
-<val_frame.rf>v#v-w8004f1</val_frame.rf>
+<deepord>33</deepord>
+<val_frame.rf>v#v41oesA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w44">
 <a>
@@ -5212,7 +5493,13 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>34</deepord>
+<deepord>35</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1265-s1-w22</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w42">
 <a>
@@ -5230,7 +5517,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>33</deepord>
+<deepord>34</deepord>
 </LM>
 </children>
 </LM>
@@ -5247,7 +5534,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>36</deepord>
+<deepord>37</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w45">
 <a>
@@ -5261,7 +5548,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>35</deepord>
+<deepord>36</deepord>
 </LM>
 </children>
 </LM>
@@ -5274,6 +5561,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>dosáhnout</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -5283,8 +5571,23 @@
 <iterativeness>it0</iterativeness>
 <negation>neg1</negation>
 </gram>
-<deepord>39</deepord>
-<val_frame.rf>v#v-w714f1</val_frame.rf>
+<deepord>40</deepord>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1265-s1D-roota1</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conj</discourse_type>
+<sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
+<comment>PHASE:2 MANUAL</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1265-s1-w47</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41afbA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1-w48">
 <a>
@@ -5299,14 +5602,14 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>38</deepord>
+<deepord>39</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1265-s1D-roota2">
 <nodetype>atom</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Neg</t_lemma>
 <functor>RHEM</functor>
-<deepord>40</deepord>
+<deepord>41</deepord>
 </LM>
 </children>
 </LM>
@@ -5330,7 +5633,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>odpustit</t_lemma>
 <functor>PRED</functor>
-<sentmod>enunc</sentmod>
+<sentmod>inter</sentmod>
 <gram>
 <sempos>v</sempos>
 <deontmod>poss</deontmod>
@@ -5339,9 +5642,20 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
-<val_frame.rf>v#v-w2846f1</val_frame.rf>
+<deepord>4</deepord>
+<val_frame.rf>v#v41ehlA</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1269-s1-roota2">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1269-s1-w2">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1269-s1-w2</lex.rf>
@@ -5356,21 +5670,19 @@
 <person>1</person>
 <politeness>basic</politeness>
 </gram>
-<deepord>1</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1269-s1-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>3</deepord>
+<deepord>2</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1269-s1-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
-<deepord>4</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>3</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
 </LM>
@@ -5424,6 +5736,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#EmpVerb</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <deepord>1</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1274-s1-w3">
@@ -5436,7 +5749,6 @@
 <nodetype>complex</nodetype>
 <t_lemma>ochrana</t_lemma>
 <functor>AIM</functor>
-<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -5488,36 +5800,43 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
-<val_frame.rf>v#v-w2570f1</val_frame.rf>
+<deepord>4</deepord>
+<val_frame.rf>v#v41dtgB</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1275-s1-roota2">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1275-s1-w2">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1275-s1-w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>BEN</functor>
 <gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>anim</gender>
-<number>pl</number>
+<sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>1</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1275-s1-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>3</deepord>
+<deepord>2</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1275-s1-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
-<deepord>4</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>3</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 </children>
 </LM>
@@ -5532,7 +5851,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
-<deepord>1</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w8">
 <a>
@@ -5542,7 +5861,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <is_member>1</is_member>
-<deepord>8</deepord>
+<deepord>7</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w3">
 <a>
@@ -5554,7 +5873,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>napsat</t_lemma>
 <functor>PRED</functor>
-<sentmod>enunc</sentmod>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -5565,7 +5884,22 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w2163f1</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1276-s1-w12</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>conc</discourse_type>
+<sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
+<comment>PHASE:3 RETYPED conj->conc; MANUAL</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1276-s1-w8</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41cyqA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w1">
 <a>
@@ -5574,18 +5908,18 @@
 <nodetype>atom</nodetype>
 <t_lemma>mimochodem</t_lemma>
 <functor>ATT</functor>
-<gram>
-<sempos>adv.denot.ngrad.nneg</sempos>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
+<deepord>1</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1A-roota2">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
-<deepord>4</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>2</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w5">
 <a>
@@ -5601,13 +5935,14 @@
 <person>2</person>
 <politeness>basic</politeness>
 </gram>
-<deepord>5</deepord>
+<deepord>4</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w7">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1276-s1-w7</lex.rf>
 </a>
-<nodetype>atom</nodetype>
+<nodetype>complex</nodetype>
 <t_lemma>SMS</t_lemma>
 <functor>EFF</functor>
 <gram>
@@ -5616,7 +5951,7 @@
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
+<deepord>6</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w6">
 <a>
@@ -5630,7 +5965,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>6</deepord>
+<deepord>5</deepord>
 </LM>
 </children>
 </LM>
@@ -5646,6 +5981,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>odpovědět</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -5656,21 +5992,32 @@
 <negation>neg1</negation>
 </gram>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w2834f1</val_frame.rf>
+<val_frame.rf>v#v41egtA</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1276-s1A-roota5">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>EFF</functor>
+<deepord>8</deepord>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w9">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1276-s1-w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
 <gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>fem</gender>
-<number>pl</number>
+<sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>9</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1276-s1-w5</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w11">
 <a>
@@ -5687,20 +6034,19 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>10</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1276-s1A-roota2</target_node.rf>
+<type>SPEC</type>
 </LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1276-s1A-roota5">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>EFF</functor>
-<deepord>12</deepord>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1A-roota4">
 <nodetype>atom</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Neg</t_lemma>
 <functor>RHEM</functor>
-<deepord>13</deepord>
+<deepord>12</deepord>
 </LM>
 </children>
 </LM>
@@ -5723,6 +6069,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>říci</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -5732,31 +6079,60 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>15</deepord>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
+<deepord>18</deepord>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1276-s1-w19</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>cond</discourse_type>
+<sense_PDTB3>Contingency.Condition.Arg1-as-cond</sense_PDTB3>
+<comment>PHASE:3 RETYPED conj->cond</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1276-s1-w18</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1B-roota1">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1276-s1-w14</lex.rf>
 </a>
 <nodetype>atom</nodetype>
-<t_lemma>Prosím</t_lemma>
-<functor>PARTL</functor>
+<t_lemma>prosím</t_lemma>
+<functor>ATT</functor>
+<is_parenthesis>1</is_parenthesis>
 <deepord>14</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1B-roota3">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
-<deepord>16</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>15</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1276-s1-w9</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1B-roota2">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>EFF</functor>
-<deepord>17</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>16</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w16">
 <a>
@@ -5772,7 +6148,13 @@
 <person>1</person>
 <politeness>basic</politeness>
 </gram>
-<deepord>18</deepord>
+<deepord>17</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1276-s1-w11</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w17">
 <a>
@@ -5796,6 +6178,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>udělat</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -5806,14 +6189,23 @@
 <negation>neg1</negation>
 </gram>
 <deepord>22</deepord>
-<val_frame.rf>v#v-w7017f1</val_frame.rf>
+<val_frame.rf>v#v41mhqI</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1B-roota4">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>21</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1276-s1-w16</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1B-roota5">
 <nodetype>atom</nodetype>
@@ -5829,12 +6221,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
 <number>sg</number>
 </gram>
 <deepord>24</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1276-s1-w21">
 <a>
@@ -5882,9 +6276,20 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
-<val_frame.rf>v#v-w7017f1</val_frame.rf>
+<deepord>3</deepord>
+<val_frame.rf>v#v41mhqI</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1280-s1-roota1">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1280-s1-w3">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1280-s1-w3</lex.rf>
@@ -5892,19 +6297,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
 <number>sg</number>
 </gram>
-<deepord>1</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1280-s1-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>3</deepord>
+<deepord>2</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1280-s1-w5">
 <a>
@@ -5913,6 +6313,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>teď</t_lemma>
 <functor>TWHEN</functor>
+<proto_lemma>teď</proto_lemma>
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
@@ -5940,15 +6341,15 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>1</deepord>
-<val_frame.rf>v#v-w1183f1</val_frame.rf>
+<deepord>2</deepord>
+<val_frame.rf>v#v41bbpA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1281-s1-roota1">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Oblfm</t_lemma>
 <functor>MANN</functor>
-<deepord>2</deepord>
+<deepord>1</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1281-s1-w2">
 <a>
@@ -5984,6 +6385,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>bránit</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>
@@ -5992,8 +6394,8 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
-<val_frame.rf>v#v-w198f1</val_frame.rf>
+<deepord>8</deepord>
+<val_frame.rf>v#v41hoC</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1282-s1-w1">
 <a>
@@ -6044,23 +6446,30 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w8782f1</val_frame.rf>
+<val_frame.rf>v#v41psoA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1282-s1-roota2">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#Gen</t_lemma>
 <functor>ACT</functor>
 <deepord>3</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1282-s1-roota1">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#Gen</t_lemma>
 <functor>PAT</functor>
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
+<LM id="faust_2010_07_jh_12-SCzechT-p1282-s1-roota3">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>6</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1282-s1-w7">
 <a>
@@ -6074,14 +6483,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>6</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1282-s1-roota3">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>8</deepord>
+<deepord>7</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1282-s1-w9">
 <a>
@@ -6114,7 +6516,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<val_frame.rf>v#v-w3818f1</val_frame.rf>
+<val_frame.rf>v#v41gdxB</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1282-s1-w11">
 <a>
@@ -6123,6 +6525,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>inan</gender>
@@ -6131,6 +6534,9 @@
 <person>3</person>
 </gram>
 <deepord>10</deepord>
+<coref_gram.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1282-s1-w9</LM>
+</coref_gram.rf>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1282-s1-w13">
 <a>
@@ -6164,6 +6570,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#EmpVerb</t_lemma>
 <functor>PRED</functor>
+<sentmod>enunc</sentmod>
 <deepord>1</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1285-s1-w1">
@@ -6173,7 +6580,6 @@
 <nodetype>complex</nodetype>
 <t_lemma>zodpovědný</t_lemma>
 <functor>PAT</functor>
-<sentmod>enunc</sentmod>
 <gram>
 <sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
@@ -6191,6 +6597,9 @@
 <is_generated>1</is_generated>
 <t_lemma>#EmpNoun</t_lemma>
 <functor>PAT</functor>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
 <deepord>3</deepord>
 </LM>
 </children>
@@ -6208,7 +6617,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
-<deepord>1</deepord>
+<deepord>49</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w11">
 <a>
@@ -6239,14 +6648,33 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<val_frame.rf>v#v-w9537f1</val_frame.rf>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1286-s1-w11</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>purp</discourse_type>
+<sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
+<comment>PHASE:2 MANUAL</comment>
+<src>A_V_A</src>
+<a-connectors.rf>
+<LM>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w1</LM>
+</a-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41rggA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1A-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
-<deepord>3</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w3">
 <a>
@@ -6261,15 +6689,24 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>5</deepord>
-<val_frame.rf>v#v-w2230f1</val_frame.rf>
+<deepord>4</deepord>
+<val_frame.rf>v#v41dciA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1A-roota2">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
-<deepord>4</deepord>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>3</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1286-s1A-roota1</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w5">
 <a>
@@ -6284,7 +6721,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
+<deepord>6</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w4">
 <a>
@@ -6300,13 +6737,32 @@
 <person>inher</person>
 <politeness>inher</politeness>
 </gram>
-<deepord>6</deepord>
+<deepord>5</deepord>
+<coref_gram.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1286-s1A-roota2</LM>
+</coref_gram.rf>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1A-roota5">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>7</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1286-s1-w4</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w7">
 <a>
@@ -6315,6 +6771,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>kliknout</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -6325,6 +6782,23 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
+<discourse>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1286-s1A-roota4</target_node.rf>
+<type>discourse</type>
+<start_range>0</start_range>
+<target_range>0</target_range>
+<discourse_type>preced</discourse_type>
+<sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
+<comment>PHASE:2 CONN_CHANGE ->a pak; MANUAL</comment>
+<src>A_H_A</src>
+<t-connectors.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1286-s1-w11</LM>
+<LM>faust_2010_07_jh_12-SCzechT-p1286-s1-w12</LM>
+</t-connectors.rf>
+</LM>
+</discourse>
+<val_frame.rf>v#v41bltA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w9">
 <a>
@@ -6351,6 +6825,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>Nástroj</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot</sempos>
 <gender>inan</gender>
@@ -6363,13 +6838,6 @@
 </LM>
 </children>
 </LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1A-roota5">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>12</deepord>
-</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1A-roota4">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w7</lex.rf>
@@ -6378,11 +6846,13 @@
 <is_generated>1</is_generated>
 <t_lemma>kliknout</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>14</deepord>
+<deepord>13</deepord>
+<val_frame.rf>v#v41bltA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w12">
 <a>
@@ -6394,7 +6864,7 @@
 <gram>
 <sempos>adv.pron.def</sempos>
 </gram>
-<deepord>13</deepord>
+<deepord>12</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1A-roota6">
 <a>
@@ -6406,7 +6876,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Idph</t_lemma>
 <functor>DIR3</functor>
-<deepord>15</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w14">
 <a>
@@ -6415,13 +6885,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>Možnost</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot.neg</sempos>
 <gender>fem</gender>
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>16</deepord>
+<deepord>15</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w15">
 <a>
@@ -6436,7 +6907,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>17</deepord>
+<deepord>16</deepord>
 </LM>
 </children>
 </LM>
@@ -6453,6 +6924,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>kliknout</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -6463,7 +6935,24 @@
 <negation>neg0</negation>
 </gram>
 <deepord>20</deepord>
+<val_frame.rf>v#v41bltA</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1C-roota1">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>17</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1286-s1A-roota5</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w18">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w18</lex.rf>
@@ -6489,6 +6978,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>Připojení</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot.neg</sempos>
 <gender>neut</gender>
@@ -6498,13 +6988,6 @@
 <deepord>19</deepord>
 </LM>
 </children>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1C-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>21</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1C-roota2">
 <a>
@@ -6516,7 +6999,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Idph</t_lemma>
 <functor>DIR3</functor>
-<deepord>22</deepord>
+<deepord>21</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w22">
 <a>
@@ -6525,28 +7008,29 @@
 <nodetype>complex</nodetype>
 <t_lemma>Nastavení</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <gram>
 <sempos>n.denot.neg</sempos>
 <gender>neut</gender>
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>24</deepord>
-<val_frame.rf>v#v-w2230f1</val_frame.rf>
+<deepord>23</deepord>
+<val_frame.rf>v#v41dciA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1C-roota4">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#Gen</t_lemma>
 <functor>ACT</functor>
-<deepord>23</deepord>
+<deepord>22</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1C-roota3">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#Gen</t_lemma>
 <functor>PAT</functor>
-<deepord>25</deepord>
+<deepord>24</deepord>
 </LM>
 </children>
 </LM>
@@ -6565,6 +7049,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>být</t_lemma>
 <functor>PRED</functor>
+<proto_lemma>být</proto_lemma>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <gram>
@@ -6575,8 +7060,8 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>29</deepord>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+<deepord>28</deepord>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w24">
 <a>
@@ -6591,22 +7076,22 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>27</deepord>
-<val_frame.rf>v#v-w2230f1</val_frame.rf>
+<deepord>26</deepord>
+<val_frame.rf>v#v41dciA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1E-roota2">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#Gen</t_lemma>
 <functor>ACT</functor>
-<deepord>26</deepord>
+<deepord>25</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1E-roota1">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#Gen</t_lemma>
 <functor>PAT</functor>
-<deepord>28</deepord>
+<deepord>27</deepord>
 </LM>
 </children>
 </LM>
@@ -6622,7 +7107,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>30</deepord>
+<deepord>29</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1E-roota3">
 <a>
@@ -6635,11 +7120,12 @@
 <is_generated>1</is_generated>
 <t_lemma>být</t_lemma>
 <functor>CPR</functor>
+<proto_lemma>být</proto_lemma>
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>32</deepord>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+<deepord>31</deepord>
+<val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1E-roota4">
 <a>
@@ -6652,7 +7138,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>31</deepord>
+<deepord>30</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w30">
 <a>
@@ -6661,12 +7147,13 @@
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
 <functor>ACT</functor>
+<proto_lemma>ten</proto_lemma>
 <gram>
 <sempos>n.pron.def.demon</sempos>
 <gender>neut</gender>
 <number>sg</number>
 </gram>
-<deepord>33</deepord>
+<deepord>32</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w34">
 <a>
@@ -6687,8 +7174,24 @@
 <negation>neg0</negation>
 </gram>
 <deepord>35</deepord>
-<val_frame.rf>v#v-w732f1</val_frame.rf>
+<val_frame.rf>v#v41afvD</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1E-roota5">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>33</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1286-s1C-roota1</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w32">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w32</lex.rf>
@@ -6696,6 +7199,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>neut</gender>
@@ -6704,13 +7208,9 @@
 <person>3</person>
 </gram>
 <deepord>34</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1E-roota5">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>36</deepord>
+<coref_gram.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1286-s1-w30</LM>
+</coref_gram.rf>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w43">
 <a>
@@ -6719,24 +7219,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>nebo</t_lemma>
 <functor>CONJ</functor>
-<deepord>44</deepord>
-<children>
-<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w40">
-<a>
-<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w40</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>(</t_lemma>
-<functor>APPS</functor>
-<is_member>1</is_member>
-<is_parenthesis>1</is_parenthesis>
-<gram>
-<sempos>n.denot</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<negation>neg0</negation>
-</gram>
-<deepord>41</deepord>
+<deepord>43</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w37">
 <a>
@@ -6755,7 +7238,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>38</deepord>
+<deepord>37</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w36">
 <a>
@@ -6771,8 +7254,21 @@
 <person>inher</person>
 <politeness>inher</politeness>
 </gram>
-<deepord>37</deepord>
+<deepord>36</deepord>
+<coref_gram.rf>
+<LM>faust_2010_07_jh_12-SCzechT-p1286-s1E-roota5</LM>
+</coref_gram.rf>
 </LM>
+<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w40">
+<a>
+<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w40</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>(</t_lemma>
+<functor>APPS</functor>
+<is_parenthesis>1</is_parenthesis>
+<deepord>40</deepord>
+<children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w39">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w39</lex.rf>
@@ -6780,13 +7276,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>síť</t_lemma>
 <functor>RSTR</functor>
+<is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>40</deepord>
+<deepord>39</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w38">
 <a>
@@ -6800,25 +7297,19 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>39</deepord>
-</LM>
-</children>
+<deepord>38</deepord>
 </LM>
 </children>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1E-roota6">
-<a>
-<aux.rf>
-<LM>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w35</LM>
-</aux.rf>
-</a>
+<a/>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Idph</t_lemma>
-<functor>ORIG</functor>
+<functor>RSTR</functor>
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
-<deepord>42</deepord>
+<deepord>41</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w41">
 <a>
@@ -6827,6 +7318,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>LAN</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
@@ -6834,29 +7326,14 @@
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>43</deepord>
+<deepord>42</deepord>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w47">
-<a>
-<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w47</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>(</t_lemma>
-<functor>APPS</functor>
-<is_member>1</is_member>
-<is_parenthesis>1</is_parenthesis>
-<gram>
-<sempos>n.denot</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<negation>neg0</negation>
-</gram>
-<deepord>48</deepord>
-<children>
+</children>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w44">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w44</lex.rf>
@@ -6874,7 +7351,17 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>45</deepord>
+<deepord>44</deepord>
+<children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w47">
+<a>
+<lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w47</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>(</t_lemma>
+<functor>APPS</functor>
+<is_parenthesis>1</is_parenthesis>
+<deepord>47</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w46">
 <a>
@@ -6883,13 +7370,14 @@
 <nodetype>complex</nodetype>
 <t_lemma>služba</t_lemma>
 <functor>RSTR</functor>
+<is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>47</deepord>
+<deepord>46</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w45">
 <a>
@@ -6903,25 +7391,19 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>46</deepord>
-</LM>
-</children>
+<deepord>45</deepord>
 </LM>
 </children>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1E-roota7">
-<a>
-<aux.rf>
-<LM>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w35</LM>
-</aux.rf>
-</a>
+<a/>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Idph</t_lemma>
-<functor>ORIG</functor>
+<functor>RSTR</functor>
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
-<deepord>49</deepord>
+<deepord>48</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w48">
 <a>
@@ -6930,6 +7412,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>ISP</t_lemma>
 <functor>ID</functor>
+<sentmod>enunc</sentmod>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
@@ -6955,6 +7438,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w51">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w51</lex.rf>
@@ -6962,6 +7447,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>zkontrolovat</t_lemma>
 <functor>PRED</functor>
+<sentmod>imper</sentmod>
 <is_member>1</is_member>
 <gram>
 <sempos>v</sempos>
@@ -6972,14 +7458,23 @@
 <negation>neg0</negation>
 </gram>
 <deepord>52</deepord>
-<val_frame.rf>v#v-w9537f1</val_frame.rf>
+<val_frame.rf>v#v41rggA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1F-roota1">
-<nodetype>qcomplex</nodetype>
+<nodetype>complex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
 <deepord>51</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1286-s1-w36</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w59">
 <a>
@@ -7000,9 +7495,16 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>57</deepord>
-<val_frame.rf>v#v-w5744f1</val_frame.rf>
+<deepord>58</deepord>
+<val_frame.rf>v#v41jwoB</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1F-roota2">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<deepord>53</deepord>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w56">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1286-s1-w56</lex.rf>
@@ -7016,8 +7518,8 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>54</deepord>
-<val_frame.rf>v#v-w2230f1</val_frame.rf>
+<deepord>55</deepord>
+<val_frame.rf>v#v41dciA</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w55">
 <a>
@@ -7033,7 +7535,13 @@
 <person>2</person>
 <politeness>basic</politeness>
 </gram>
-<deepord>53</deepord>
+<deepord>54</deepord>
+<coref_text>
+<LM>
+<target_node.rf>faust_2010_07_jh_12-SCzechT-p1286-s1F-roota1</target_node.rf>
+<type>SPEC</type>
+</LM>
+</coref_text>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w58">
 <a>
@@ -7048,7 +7556,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>56</deepord>
+<deepord>57</deepord>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1286-s1-w57">
 <a>
@@ -7062,18 +7570,11 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>55</deepord>
+<deepord>56</deepord>
 </LM>
 </children>
 </LM>
 </children>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1286-s1F-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
-<deepord>58</deepord>
 </LM>
 </children>
 </LM>
@@ -7125,29 +7626,35 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>2</deepord>
+<deepord>3</deepord>
+<val_frame.rf>v#v41prmB</val_frame.rf>
 <children>
+<LM id="faust_2010_07_jh_12-SCzechT-p1290-s1-roota1">
+<nodetype>complex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#PersPron</t_lemma>
+<functor>ACT</functor>
+<gram>
+<sempos>n.pron.def.pers</sempos>
+</gram>
+<deepord>1</deepord>
+<coref_special>exoph</coref_special>
+</LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1290-s1-roota2">
 <a>
 <lex.rf>a#faust_2010_07_jh_12-SCzechA-p1290-s1-w1</lex.rf>
 </a>
 <nodetype>atom</nodetype>
-<t_lemma>Prosím</t_lemma>
-<functor>PARTL</functor>
-<deepord>1</deepord>
+<t_lemma>prosím</t_lemma>
+<functor>ATT</functor>
+<is_parenthesis>1</is_parenthesis>
+<deepord>2</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1290-s1-roota3">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Oblfm</t_lemma>
 <functor>DIR3</functor>
-<deepord>3</deepord>
-</LM>
-<LM id="faust_2010_07_jh_12-SCzechT-p1290-s1-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#NewNode</t_lemma>
-<functor>ACT</functor>
 <deepord>4</deepord>
 </LM>
 <LM id="faust_2010_07_jh_12-SCzechT-p1290-s1-w5">
@@ -7213,7 +7720,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>vykonávat</t_lemma>
 <functor>PRED</functor>
-<sentmod>enunc</sentmod>
+<sentmod>inter</sentmod>
 <gram>
 <sempos>v</sempos>
 <deontmod>poss</deontmod>
@@ -7223,7 +7730,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w8024f6_ZU</val_frame.rf>
+<val_frame.rf>v#v41ofsC</val_frame.rf>
 <children>
 <LM id="faust_2010_07_jh_12-SCzechT-p1292-s1-w4">
 <a>
@@ -7279,6 +7786,7 @@
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>RSTR</functor>
+<proto_lemma>který</proto_lemma>
 <gram>
 <sempos>n.pron.indef</sempos>
 <gender>fem</gender>

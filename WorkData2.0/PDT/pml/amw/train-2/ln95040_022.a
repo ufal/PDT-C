@@ -44,7 +44,7 @@
 <children>
 <LM id="a-ln95040-022-p2s1Aw2">
 <m.rf>m#m-ln95040-022-p2s1Aw2</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
 </LM>
@@ -128,7 +128,7 @@
 <children>
 <LM id="a-ln95040-022-p2s1Bw11">
 <m.rf>m#m-ln95040-022-p2s1Bw11</m.rf>
-<afun>AuxP</afun>
+<afun>AuxY</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -369,7 +369,7 @@
 </LM>
 <LM id="a-ln95040-022-p2s3w2">
 <m.rf>m#m-ln95040-022-p2s3w2</m.rf>
-<afun>Adv</afun>
+<afun>AuxZ</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -484,7 +484,7 @@
 <children>
 <LM id="a-ln95040-022-p2s3w24">
 <m.rf>m#m-ln95040-022-p2s3w24</m.rf>
-<afun>Pnom</afun>
+<afun>Obj</afun>
 <ord>24</ord>
 <clause_number>3</clause_number>
 </LM>

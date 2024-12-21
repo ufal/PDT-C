@@ -1270,8 +1270,8 @@
 <LM>w#w-vesm9301-038-p2s6w34</LM>
 </w.rf>
 <form>následkem</form>
-<lemma>následek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>následkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-vesm9301-038-p2s6w35">
 <src.rf>manual</src.rf>

@@ -265,7 +265,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd91301-026-p1s2w7">
 <src.rf>manual</src.rf>
@@ -419,8 +419,8 @@
 <LM>w#w-lnd91301-026-p2s1w6</LM>
 </w.rf>
 <form>počátkem</form>
-<lemma>počátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>počátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-lnd91301-026-p2s1w7">
 <src.rf>manual</src.rf>

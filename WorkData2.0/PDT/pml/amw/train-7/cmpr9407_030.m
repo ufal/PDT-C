@@ -2070,8 +2070,8 @@
 <LM>w#w-cmpr9407-030-p12s2w15</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9407-030-p12s2w16">
 <src.rf>manual</src.rf>
@@ -3983,7 +3983,7 @@
 <LM>w#w-cmpr9407-030-p16s3w1</LM>
 </w.rf>
 <form>Vytýčil</form>
-<lemma>vytýčit</lemma>
+<lemma>vytýčit_,s_^(^DD**vytyčit)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-030-p16s3w2">

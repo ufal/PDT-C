@@ -319,8 +319,8 @@
 <LM>w#w-mf920924-056-p5s3w4</LM>
 </w.rf>
 <form>začátkem</form>
-<lemma>začátek</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>začátkem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-mf920924-056-p5s3w5">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-056-p6s5w15">
 <src.rf>manual</src.rf>

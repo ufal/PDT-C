@@ -1605,8 +1605,8 @@
 <LM>w#w-ln94206-115-p3s5w37</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-115-p3s5w38">
 <src.rf>manual</src.rf>
@@ -1870,8 +1870,8 @@
 <LM>w#w-ln94206-115-p3s7w10</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-115-p3s7w11">
 <src.rf>manual</src.rf>
@@ -3290,8 +3290,8 @@
 <LM>w#w-ln94206-115-p3s15w8</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-115-p3s15w9">
 <src.rf>manual</src.rf>
@@ -3654,8 +3654,8 @@
 <LM>w#w-ln94206-115-p3s17w4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-115-p3s17w5">
 <src.rf>manual</src.rf>
@@ -3861,8 +3861,8 @@
 <LM>w#w-ln94206-115-p3s17w27</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-115-p3s17w28">
 <src.rf>manual</src.rf>
@@ -4673,7 +4673,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-115-p6s4w20">
 <src.rf>manual</src.rf>
@@ -5031,8 +5031,8 @@
 <LM>w#w-ln94206-115-p6s7w3</LM>
 </w.rf>
 <form>hned</form>
-<lemma>hned-1</lemma>
-<tag>Db-------------</tag>
+<lemma>hned-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-115-p6s7w4">
 <src.rf>manual</src.rf>
@@ -5222,8 +5222,8 @@
 <LM>w#w-ln94206-115-p6s8w9</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-115-p6s8w10">
 <src.rf>manual</src.rf>
@@ -5267,8 +5267,8 @@
 <LM>w#w-ln94206-115-p6s8w14</LM>
 </w.rf>
 <form>jen</form>
-<lemma>jen-4_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jen-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94206-115-p6s8w15">
 <src.rf>manual</src.rf>

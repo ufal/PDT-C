@@ -399,8 +399,8 @@
 <LM>w#w-wsj2097-001-p1s1W3</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m-wsj2097-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -934,8 +934,8 @@
 <LM>w#w-wsj2097-001-p1s2W27</LM>
 </w.rf>
 <form>prakticky</form>
-<lemma>prakticky_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>prakticky-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2097-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1162,8 +1162,8 @@
 <LM>w#w-wsj2097-001-p1s3W14</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2097-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>

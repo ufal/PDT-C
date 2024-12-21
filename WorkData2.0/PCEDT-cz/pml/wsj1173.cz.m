@@ -615,8 +615,8 @@
 <LM>w#w-wsj1173-001-p1s1W25</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1173-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>

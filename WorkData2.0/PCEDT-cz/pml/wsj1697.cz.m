@@ -612,8 +612,8 @@
 <LM>w#w-wsj1697-001-p1s1W30</LM>
 </w.rf>
 <form>přímo</form>
-<lemma>přímo</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>přímo-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1697-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -768,7 +768,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1697-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

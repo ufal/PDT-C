@@ -1753,7 +1753,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2359-001-p1s8W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2054,7 +2054,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj2359-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2260,7 +2260,7 @@
 <LM>w#w-wsj2359-001-p1s10W26</LM>
 </w.rf>
 <form>hypotéčními</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAIP7----1A----</tag>
 </m>
 <m id="m-wsj2359-001-p1s10W27-Ta">

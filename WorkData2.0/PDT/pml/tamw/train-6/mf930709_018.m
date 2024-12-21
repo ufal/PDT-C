@@ -406,7 +406,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-018-p2s2Bw12">
 <src.rf>manual</src.rf>
@@ -533,8 +533,8 @@
 <LM>w#w-mf930709-018-p2s3w10</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-018-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1326,8 +1326,8 @@
 <LM>w#w-mf930709-018-p2s9w5</LM>
 </w.rf>
 <form>už</form>
-<lemma>už-1</lemma>
-<tag>Db-------------</tag>
+<lemma>už-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-018-p2s9w6">
 <src.rf>manual</src.rf>

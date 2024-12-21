@@ -130,8 +130,8 @@
 <LM>w#w-d1t4027-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m044-d1t4027-3">
 <w.rf>
@@ -230,8 +230,8 @@
 <LM>w#w-d1t4035-2</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m044-d-m-d1e4032-x2-punct-punct">
 <w.rf>

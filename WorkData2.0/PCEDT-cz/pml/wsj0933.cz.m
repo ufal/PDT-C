@@ -2002,8 +2002,8 @@
 <LM>w#w-wsj0933-001-p1s12W1</LM>
 </w.rf>
 <form>Tak</form>
-<lemma>tak-2</lemma>
-<tag>J^-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj0933-001-p1s12W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2431,7 +2431,7 @@
 <LM>w#w-wsj0933-001-p1s15W14</LM>
 </w.rf>
 <form>odpočitatelnou</form>
-<lemma>odpočitatelný_^(*8ítat)</lemma>
+<lemma>odpočitatelný_,s_^(^DD**odpočítatelný)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-wsj0933-001-p1s15W15-Ta">

@@ -529,8 +529,8 @@
 <LM>w#w-mf920922-071-p2s2w22</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-071-p2s2w23">
 <src.rf>manual</src.rf>
@@ -837,8 +837,8 @@
 <LM>w#w-mf920922-071-p2s3w3</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-071-p2s3w4">
 <src.rf>manual</src.rf>

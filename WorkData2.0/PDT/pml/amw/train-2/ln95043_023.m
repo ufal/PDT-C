@@ -360,8 +360,8 @@
 <LM>w#w-ln95043-023-p2s1Dw22</LM>
 </w.rf>
 <form>jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln95043-023-p2s1Dw23">
 <src.rf>manual</src.rf>
@@ -1180,8 +1180,8 @@
 <LM>w#w-ln95043-023-p3s1w5</LM>
 </w.rf>
 <form>koncem</form>
-<lemma>konec</lemma>
-<tag>NNIS7-----A----</tag>
+<lemma>koncem</lemma>
+<tag>RR--2----------</tag>
 </m>
 <m id="m-ln95043-023-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1252,7 +1252,7 @@
 <LM>w#w-ln95043-023-p3s1w13</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-ln95043-023-p3s1w14">
@@ -1490,8 +1490,8 @@
 <LM>w#w-ln95043-023-p3s3w6</LM>
 </w.rf>
 <form>Toužimským</form>
-<lemma>toužimský</lemma>
-<tag>AAMS7----1A----</tag>
+<lemma>Toužimský_;Y</lemma>
+<tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln95043-023-p3s3w7">
 <src.rf>manual</src.rf>

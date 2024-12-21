@@ -484,7 +484,7 @@
 <LM>w#w-ln94202-73-p2s2w21</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-73-p2s2w22">

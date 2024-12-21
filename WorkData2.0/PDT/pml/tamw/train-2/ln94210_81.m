@@ -785,8 +785,8 @@
 <LM>w#w-ln94210-81-p2s4w7</LM>
 </w.rf>
 <form>ani</form>
-<lemma>ani-1</lemma>
-<tag>J^-------------</tag>
+<lemma>ani-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94210-81-p2s4w8">
 <src.rf>manual</src.rf>

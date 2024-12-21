@@ -181,7 +181,7 @@
 </w.rf>
 <form>záložny</form>
 <lemma>záložna</lemma>
-<tag>NNFS2-----A----</tag>
+<tag>NNFP1-----A----</tag>
 </m>
 <m id="m-wsj1293-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -289,8 +289,8 @@
 <LM>w#w-wsj1293-001-p1s1W15</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1293-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -898,7 +898,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1293-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -933,8 +933,8 @@
 <LM>w#w-wsj1293-001-p1s3W30</LM>
 </w.rf>
 <form>jako</form>
-<lemma>jako-1</lemma>
-<tag>J,-------------</tag>
+<lemma>jako-2</lemma>
+<tag>J^-------------</tag>
 </m>
 <m id="m-wsj1293-001-p1s3W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1125,8 +1125,8 @@
 <LM>w#w-wsj1293-001-p1s4W17</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-wsj1293-001-p1s4W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2162,7 +2162,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-wsj1293-001-p1s9W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3538,18 +3538,18 @@
 <w.rf>
 <LM>w#w-wsj1293-001-p1s16W23</LM>
 </w.rf>
-<form>jediného</form>
+<form>jediném</form>
 <lemma>jediný</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>AAIS6----1A----</tag>
 </m>
 <m id="m-wsj1293-001-p1s16W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1293-001-p1s16W24</LM>
 </w.rf>
-<form>čistého</form>
+<form>čistém</form>
 <lemma>čistý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>AAIS6----1A----</tag>
 </m>
 <m id="m-wsj1293-001-p1s16W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3558,7 +3558,7 @@
 </w.rf>
 <form>zisku</form>
 <lemma>zisk</lemma>
-<tag>NNIS2-----A----</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-wsj1293-001-p1s16W26-Ta">
 <src.rf>tagger-a</src.rf>

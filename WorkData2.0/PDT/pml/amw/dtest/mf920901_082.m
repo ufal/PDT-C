@@ -392,8 +392,8 @@
 <LM>w#w-mf920901-082-p2s2w9</LM>
 </w.rf>
 <form>Pospíšila</form>
-<lemma>pospíšit</lemma>
-<tag>VpQW----R-AAP--</tag>
+<lemma>Pospíšil_;Y</lemma>
+<tag>NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-082-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1194,8 +1194,8 @@
 <LM>w#w-mf920901-082-p3s3w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920901-082-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1505,7 +1505,7 @@
 </w.rf>
 <form>reagují</form>
 <lemma>reagovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf920901-082-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1787,8 +1787,8 @@
 <LM>w#w-mf920901-082-p4s2w1</LM>
 </w.rf>
 <form>Jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920901-082-p4s2w2">
 <src.rf>manual</src.rf>

@@ -37,8 +37,8 @@
 <LM>w#w-mf930709-006-p2s2w3</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-006-p2s2w4">
 <src.rf>manual</src.rf>
@@ -176,8 +176,8 @@
 <LM>w#w-mf930709-006-p6s3w4</LM>
 </w.rf>
 <form>i</form>
-<lemma>i-1</lemma>
-<tag>J^-------------</tag>
+<lemma>i-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-006-p6s3w5">
 <src.rf>manual</src.rf>
@@ -313,8 +313,8 @@
 <LM>w#w-mf930709-006-p7s1w4</LM>
 </w.rf>
 <form>ještě</form>
-<lemma>ještě-1</lemma>
-<tag>Db-------------</tag>
+<lemma>ještě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-006-p7s1w5">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-006-p7s1w17">
 <src.rf>manual</src.rf>
@@ -610,8 +610,8 @@
 <LM>w#w-mf930709-006-p7s1w37</LM>
 </w.rf>
 <form>alespoň</form>
-<lemma>alespoň-1</lemma>
-<tag>Db-------------</tag>
+<lemma>alespoň-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930709-006-p7s1w38">
 <src.rf>manual</src.rf>

@@ -167,9 +167,7 @@
 <afun>Atr</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-ln94203-68-p1s2w7">
 <m.rf>m#m-ln94203-68-p1s2w7</m.rf>
 <afun>AuxP</afun>
@@ -187,6 +185,10 @@
 <afun>Atr</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -216,7 +218,7 @@
 <children>
 <LM id="a-ln94203-68-p1s3w1">
 <m.rf>m#m-ln94203-68-p1s3w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
@@ -230,14 +232,14 @@
 <children>
 <LM id="a-ln94203-68-p1s3w3">
 <m.rf>m#m-ln94203-68-p1s3w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln94203-68-p1s3w5">
 <m.rf>m#m-ln94203-68-p1s3w5</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_member>1</is_member>
 <ord>5</ord>
 <clause_number>1</clause_number>
@@ -245,6 +247,9 @@
 </children>
 </LM>
 </children>
+<comments>
+<LM type="T-layer"/>
+</comments>
 </LM>
 </children>
 </LM>

@@ -549,8 +549,8 @@
 <LM>w#w-mf930713-009-p2s3w2</LM>
 </w.rf>
 <form>Jistě</form>
-<lemma>jistě_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>jistě-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930713-009-p2s3w3">
 <src.rf>manual</src.rf>

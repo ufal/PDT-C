@@ -345,8 +345,8 @@
 <LM>w#w-mf920922-092-p2s2w6</LM>
 </w.rf>
 <form>to</form>
-<lemma>ten</lemma>
-<tag>PDNS1----------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-mf920922-092-p2s2w7">
 <src.rf>manual</src.rf>
@@ -700,8 +700,8 @@
 <LM>w#w-mf920922-092-p2s4w9</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>jak-2</lemma>
+<tag>J,-------------</tag>
 </m>
 <m id="m-mf920922-092-p2s4w10">
 <src.rf>manual</src.rf>
@@ -954,8 +954,8 @@
 <LM>w#w-mf920922-092-p2s5w8</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-092-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1154,8 +1154,8 @@
 <LM>w#w-mf920922-092-p2s6w12</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920922-092-p2s6w13">
 <src.rf>manual</src.rf>

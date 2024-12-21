@@ -1128,8 +1128,8 @@
 <LM>w#w-d1t89-2</LM>
 </w.rf>
 <form>skutečně</form>
-<lemma>skutečně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>skutečně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-d1t89-3">
 <w.rf>
@@ -2429,8 +2429,8 @@
 <LM>w#w-d1t181-3</LM>
 </w.rf>
 <form>se</form>
-<lemma>se_^(zvr._zájmeno/částice)</lemma>
-<tag>P7--4----------</tag>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
 </m>
 <m id="m913-d1t181-4">
 <w.rf>
@@ -3117,8 +3117,8 @@
 <LM>w#w-d1t216-3</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m913-d1t216-4">
 <w.rf>
@@ -3595,8 +3595,8 @@
 <LM>w#w-d1e146-x9-771</LM>
 </w.rf>
 <form>tak</form>
-<lemma>tak-3</lemma>
-<tag>Db-------------</tag>
+<lemma>tak-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-d1e146-x9-770">
 <w.rf>
@@ -3814,8 +3814,8 @@
 <LM>w#w-d1t272-4</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-d1t272-5">
 <w.rf>
@@ -4172,8 +4172,8 @@
 <LM>w#w-d1t305-4</LM>
 </w.rf>
 <form>zase</form>
-<lemma>zase-1</lemma>
-<tag>Db-------------</tag>
+<lemma>zase-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-d1t305-5">
 <w.rf>
@@ -4335,7 +4335,7 @@
 </w.rf>
 <form>to</form>
 <lemma>ten</lemma>
-<tag>PDNS4----------</tag>
+<tag>PDNS1----------</tag>
 </m>
 <m id="m913-d1t316-2">
 <w.rf>
@@ -4440,8 +4440,8 @@
 <LM>w#w-d1t328-6</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-d1t332-1">
 <w.rf>
@@ -4506,8 +4506,8 @@
 <LM>w#w-d1t341-1</LM>
 </w.rf>
 <form>jenom</form>
-<lemma>jenom-2_^(pouze)</lemma>
-<tag>Db-------------</tag>
+<lemma>jenom-1</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m913-d1e321-x4-1377">
 <w.rf>
@@ -5503,8 +5503,8 @@
 <LM>w#w-d1t427-1</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
-<tag>J,-------------</tag>
+<lemma>jak-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m913-d1t427-3">
 <w.rf>
