@@ -25,7 +25,7 @@ my $vdom = 'XML::LibXML'->load_xml(location => $vallex_file);
 for my $frame ($vdom->findnodes('/valency_lexicon/body/word/valency_frames/frame')) {
     delete @$frame{qw{
         hereditary_used pcedt_hereditary_used pdt_hereditary_used }};
-    @$frame{qw{ Used pcedt_used pdt_used faust_used pdtsc_used }} = (0) x 5;
+    @$frame{qw{ used pcedt_used pdt_used faust_used pdtsc_used }} = (0) x 5;
     my $id = $frame->{id};
     $vcache{$id} = $frame;
 }
@@ -40,8 +40,8 @@ for my $tfile (@data) {
         my $ref = $frame_rf->textContent;
         $ref =~ s/^v#// or die "Unknown ref format: $ref";
         my $frame = $vcache{$ref};
-        ++$frame->{Used};
-        ++$frame->{"${type}_Used"};
+        ++$frame->{used};
+        ++$frame->{"${type}_used"};
     }
 };
 $vdom->toFile($vallex_file . '.cnt');
