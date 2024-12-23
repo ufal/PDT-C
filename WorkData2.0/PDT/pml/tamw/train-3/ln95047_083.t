@@ -8328,7 +8328,7 @@ bez konektoru :(</discourse_comment>
 <deepord>3</deepord>
 <bridging>
 <LM>
-<target_node.rf>t-ln95047-083-p4s6a2</target_node.rf>
+<target_node.rf>t-ln95047-083-p4s6w2</target_node.rf>
 <type>REST</type>
 </LM>
 </bridging>
@@ -8561,7 +8561,7 @@ bez konektoru :(</discourse_comment>
 <deepord>15</deepord>
 <bridging>
 <LM>
-<target_node.rf>t-ln95047-083-p4s6a3</target_node.rf>
+<target_node.rf>t-ln95047-083-p4s6w11</target_node.rf>
 <type>REST</type>
 </LM>
 </bridging>

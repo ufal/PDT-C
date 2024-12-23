@@ -5789,10 +5789,6 @@
        <deepord>2</deepord>
        <bridging>
         <LM>
-         <target_node.rf>ak_056.01-SCzechT-ak_056-107-roota1</target_node.rf>
-         <type>SUB_SET</type>
-        </LM>
-        <LM>
          <target_node.rf>ak_056.01-SCzechT-m-d1t597-21</target_node.rf>
          <type>SUB_SET</type>
         </LM>

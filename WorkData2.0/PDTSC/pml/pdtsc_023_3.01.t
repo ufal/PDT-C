@@ -1733,7 +1733,7 @@
        <deepord>1</deepord>
        <bridging>
         <LM>
-         <target_node.rf>hs_002.01-SCzechT-m-d1t289-14x3</target_node.rf>
+         <target_node.rf>hs_002.01-SCzechT-m-d1t289-8</target_node.rf>
          <type>SUB_SET</type>
         </LM>
         <LM>

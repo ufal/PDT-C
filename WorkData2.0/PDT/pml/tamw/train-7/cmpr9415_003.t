@@ -1746,7 +1746,7 @@
 <deepord>5</deepord>
 <bridging>
 <LM>
-<target_node.rf>t-cmpr9415-003-p4s5a1</target_node.rf>
+<target_node.rf>t-cmpr9415-003-p4s5w1</target_node.rf>
 <type>SET_SUB</type>
 </LM>
 </bridging>

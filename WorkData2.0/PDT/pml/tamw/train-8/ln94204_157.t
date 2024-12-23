@@ -4744,7 +4744,7 @@
 <deepord>3</deepord>
 <bridging>
 <LM>
-<target_node.rf>t-ln94204-157-p7s1w9</target_node.rf>
+<target_node.rf>t-ln94204-157-p7s1w2</target_node.rf>
 <type>SET_SUB</type>
 </LM>
 </bridging>
@@ -5855,7 +5855,7 @@ vyznamovy diskurzni vztah</discourse_comment>
 <deepord>4</deepord>
 <bridging>
 <LM>
-<target_node.rf>t-ln94204-157-p7s1w9</target_node.rf>
+<target_node.rf>t-ln94204-157-p8s1w4</target_node.rf>
 <type>SET_SUB</type>
 </LM>
 </bridging>
@@ -6198,11 +6198,7 @@ vyznamovy diskurzni vztah</discourse_comment>
 <deepord>6</deepord>
 <bridging>
 <LM>
-<target_node.rf>t-ln94204-157-p6s2w13</target_node.rf>
-<type>SUB_SET</type>
-</LM>
-<LM>
-<target_node.rf>t-ln94204-157-p7s1w9</target_node.rf>
+<target_node.rf>t-ln94204-157-p8s6a2</target_node.rf>
 <type>SUB_SET</type>
 </LM>
 </bridging>

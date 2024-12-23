@@ -4143,7 +4143,7 @@
 <deepord>10</deepord>
 <bridging>
 <LM>
-<target_node.rf>t-ln94202-133-p4s1a1</target_node.rf>
+<target_node.rf>t-ln94202-133-p4s1w13</target_node.rf>
 <type>SET_SUB</type>
 </LM>
 </bridging>
