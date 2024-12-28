@@ -129,7 +129,7 @@ sub fix_end($file, $old, $new) {
 
 
 sub is_git() {
-    0 == system 'git rev-parse --show-toplevel >& /dev/null'
+    0 == system 'git rev-parse --show-toplevel > /dev/null 2>&1'
 }
 
 main(\*ARGV);
