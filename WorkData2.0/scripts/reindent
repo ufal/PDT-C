@@ -7,6 +7,8 @@ use feature qw{ say };
 use Math::Prime::Util qw{ gcd };
 use Path::Tiny qw{ path };
 
+my $BACKEND_CONF;
+
 {   my %CHANGE = ('-' => 'OLD',
                   '+' => 'NEW',
                   ' ' => 'SAME');
@@ -87,18 +89,12 @@ sub process($file, $afiles, %change) {
 }
 
 
-{   my $backend_file = join '',
-                       $ENV{HOME},
-                       '/ufal/wsj-anot/tred_extensions/wsj-anot/resources/',
-                       'pmlbackend_conf.xml';
-    my $backend = path($backend_file)->slurp;
-
-    sub set_backend($indent, $single_lm) {
-        $backend =~ s{<indent>          \K \d+ (?=</indent>) }{$indent}x;
-        $backend =~ s{<write_single_LM> \K \d+ (?=</write_single_LM>) }
-                     {$single_lm}x;
-        path($backend_file)->spew($backend);
-    }
+sub set_backend($indent, $single_lm) {
+    my $backend = path($BACKEND_CONF)->slurp;
+    $backend =~ s{<indent>          \K \d+ (?=</indent>) }{$indent}x;
+    $backend =~ s{<write_single_LM> \K \d+ (?=</write_single_LM>) }
+                 {$single_lm}x;
+    path($BACKEND_CONF)->spew($backend);
 }
 
 
@@ -132,6 +128,8 @@ sub is_git() {
     0 == system 'git rev-parse --show-toplevel > /dev/null 2>&1'
 }
 
+$BACKEND_CONF = shift;
+-f $BACKEND_CONF or die "Backend config not found";
 main(\*ARGV);
 
 
