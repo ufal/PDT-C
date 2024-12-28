@@ -58,6 +58,8 @@ sub process($file, $afiles, %change) {
     say("$file: no change"),
     return if ! keys %change || $change{SAME};
 
+    return if 1 == keys %{ $change{OLD}{INDENTS} } && ! exists $change{NEW};
+
     use Data::Dumper; warn(Dumper \%change),
     die "$file: Corrupt input"
         if exists $change{OLD}{INDENT} xor exists $change{NEW}{INDENT};
