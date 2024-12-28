@@ -1,0 +1,11 @@
+#!btred -NT -e remove_comments()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub remove_comments {
+    if (exists $this->{comments}) {
+        ChangingFile(1);
+        delete $this->{comments};
+    }
+}

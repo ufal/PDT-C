@@ -1,0 +1,17 @@
+#!btred -NT -e remove_comments()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub remove_comments {
+    if (exists $this->{discourse_comment}) {
+        ChangingFile(1);
+        delete $this->{discourse_comment};
+    }
+    if (grep $_->{comment}, ListV($this->{discourse})) {
+        my @d = ListV($this->{discourse});
+        delete $_->{comment} for @d;
+        ChangingFile(1);
+        $this->{discourse} = List(@d);
+    }
+}
