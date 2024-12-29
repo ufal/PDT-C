@@ -142,7 +142,8 @@ main(\*ARGV);
 
 =head1 SYNOPSIS
 
- reindent path/to/file
+ svn diff | reindent path/to/pmlbackend_conf.xml
+ git diff | reindent path/to/pmlbackend_conf.xml
 
 =head1 DESCRIPTION
 
