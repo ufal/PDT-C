@@ -131,7 +131,8 @@ sub is_git() {
 }
 
 $BACKEND_CONF = shift;
--f $BACKEND_CONF or die "Backend config not found";
+$BACKEND_CONF =~ m{/pmlbackend_conf\.xml$} && -f $BACKEND_CONF
+    or die "Invalid backend config $BACKEND_CONF";
 main(\*ARGV);
 
 
