@@ -2244,9 +2244,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-cmpr9410-049-p7s6w7">
 <m.rf>m#m-cmpr9410-049-p7s6w7</m.rf>
@@ -14960,9 +14957,6 @@
 <afun>Sb</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-cmpr9410-049-p50s16w3">
 <m.rf>m#m-cmpr9410-049-p50s16w3</m.rf>

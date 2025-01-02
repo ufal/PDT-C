@@ -1925,11 +1925,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: AuxP under AuxP</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2083,11 +2078,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí desetinná čárka - má být "4,0675" (viz pro porovnání předchozí věty)</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4425,11 +4415,6 @@
 <m.rf>m#m-wsj2330-001-p1s27W11-Ta</m.rf>
 <afun>AuxY</afun>
 <ord>11</ord>
-<comments>
-<LM type="Other">
-<text>má být spojeno bez mezery (jako jedno slovo)</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4981,11 +4966,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí desetinná čárka</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

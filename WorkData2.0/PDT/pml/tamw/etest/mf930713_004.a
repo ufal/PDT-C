@@ -435,9 +435,6 @@
 <clause_number>3</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1445,11 +1442,6 @@
 <afun>AuxX</afun>
 <ord>7</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-mf930713-004-p3s11w12">
 <m.rf>m#m-mf930713-004-p3s11w12</m.rf>

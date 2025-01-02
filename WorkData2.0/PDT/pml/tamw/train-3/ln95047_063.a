@@ -743,11 +743,6 @@
 <afun>AuxX</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95047-063-p2s4w18">
 <m.rf>m#m-ln95047-063-p2s4w18</m.rf>
@@ -1376,11 +1371,6 @@
 <afun>AuxX</afun>
 <ord>17</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95047-063-p3s2w22">
 <m.rf>m#m-ln95047-063-p3s2w22</m.rf>
@@ -1661,11 +1651,6 @@
 <afun>AuxX</afun>
 <ord>12</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95047-063-p3s5w14">
 <m.rf>m#m-ln95047-063-p3s5w14</m.rf>
@@ -2776,9 +2761,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

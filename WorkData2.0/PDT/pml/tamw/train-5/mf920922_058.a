@@ -2859,9 +2859,6 @@
 <is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920922-058-p2s12Bw5">
 <m.rf>m#m-mf920922-058-p2s12Bw5</m.rf>
@@ -2969,9 +2966,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3330,11 +3324,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

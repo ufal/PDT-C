@@ -2909,11 +2909,6 @@
 <afun>AuxX</afun>
 <ord>11</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94207-73-p5s3w14">
 <m.rf>m#m-ln94207-73-p5s3w14</m.rf>
@@ -15279,9 +15274,6 @@
 <afun>AuxZ</afun>
 <ord>7</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94207-73-p18s2w9">
 <m.rf>m#m-ln94207-73-p18s2w9</m.rf>

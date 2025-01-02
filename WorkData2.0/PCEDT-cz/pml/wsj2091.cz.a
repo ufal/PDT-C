@@ -518,11 +518,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybná lemmatizace</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2091-001-p1s1W43-Ta">
 <m.rf>m#m-wsj2091-001-p1s1W43-Ta</m.rf>
@@ -2749,11 +2744,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí interpunkce</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

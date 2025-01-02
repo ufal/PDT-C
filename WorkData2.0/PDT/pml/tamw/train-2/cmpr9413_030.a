@@ -579,11 +579,6 @@
 <afun>Atr</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -925,9 +920,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

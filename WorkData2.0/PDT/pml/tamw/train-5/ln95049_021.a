@@ -1500,14 +1500,8 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2314,9 +2308,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2539,11 +2530,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2864,11 +2850,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3782,11 +3763,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4639,11 +4615,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4882,11 +4853,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5836,9 +5802,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95049-021-p18s3Aw3">
 <m.rf>m#m-ln95049-021-p18s3Aw3</m.rf>
@@ -6990,11 +6953,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -7087,11 +7045,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -7692,9 +7645,6 @@
 <afun>Sb</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95049-021-p22s7w7">
 <m.rf>m#m-ln95049-021-p22s7w7</m.rf>
@@ -8171,11 +8121,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -8348,11 +8293,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -9145,11 +9085,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -9364,11 +9299,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

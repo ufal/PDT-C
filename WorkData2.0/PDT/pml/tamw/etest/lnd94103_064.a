@@ -1889,14 +1889,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-lnd94103-064-p1s6Aw74">
 <m.rf>m#m-lnd94103-064-p1s6Aw74</m.rf>
@@ -1912,14 +1904,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3748,9 +3732,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-lnd94103-064-p1s13w43">
 <m.rf>m#m-lnd94103-064-p1s13w43</m.rf>
@@ -4628,9 +4609,6 @@
 <afun>Atr</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

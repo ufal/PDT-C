@@ -309,9 +309,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -629,9 +626,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1059,9 +1053,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2364,11 +2355,6 @@
 <afun>AuxZ</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer">
-<text>PREC</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-mf920925-119-p8s2w5">
 <m.rf>m#m-mf920925-119-p8s2w5</m.rf>
@@ -3212,11 +3198,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer">
-<text>MOD</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3954,9 +3935,6 @@
 <afun>AuxZ</afun>
 <ord>28</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920925-119-p11s1w29">
 <m.rf>m#m-mf920925-119-p11s1w29</m.rf>

@@ -1436,9 +1436,6 @@
 <afun>Adv</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94203-97-p3s3w13">
 <m.rf>m#m-ln94203-97-p3s3w13</m.rf>
@@ -2121,9 +2118,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

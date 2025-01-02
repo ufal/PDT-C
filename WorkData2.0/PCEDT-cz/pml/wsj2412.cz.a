@@ -262,11 +262,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>udělalo (?)</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2412-001-p1s1W31-Ta">
 <m.rf>m#m-wsj2412-001-p1s1W31-Ta</m.rf>
@@ -2390,11 +2385,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>na t-rovině nemůže být kopírované sloveso být (jiný rámec)</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2412-001-p1s21W6-Ta">
 <m.rf>m#m-wsj2412-001-p1s21W6-Ta</m.rf>
@@ -3915,11 +3905,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí čárka před "a"</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5248,11 +5233,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí čárka před "jsou"</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

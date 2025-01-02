@@ -1605,11 +1605,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="M-layer">
-<text>7</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2575,11 +2570,6 @@
 <is_extra_dependency>1</is_extra_dependency>
 <ord>7</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer">
-<text>číslovka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-003-p5s3w11">
 <m.rf>m#m-vesm9303-003-p5s3w11</m.rf>
@@ -2595,11 +2585,6 @@
 <is_extra_dependency>1</is_extra_dependency>
 <ord>9</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer">
-<text>číslovka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-003-p5s3w10">
 <m.rf>m#m-vesm9303-003-p5s3w10</m.rf>
@@ -4022,11 +4007,6 @@
 <afun>Atr</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer">
-<text>cizojazyčné</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-003-p9s1w16">
 <m.rf>m#m-vesm9303-003-p9s1w16</m.rf>
@@ -4039,11 +4019,6 @@
 <afun>Atr</afun>
 <ord>17</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer">
-<text>cizojazyčné</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-003-p9s1w19">
 <m.rf>m#m-vesm9303-003-p9s1w19</m.rf>
@@ -4052,11 +4027,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer">
-<text>cizojazycne</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

@@ -3185,11 +3185,6 @@
 <afun>AuxX</afun>
 <ord>13</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-cmpr9416-013-p16s4w16">
 <m.rf>m#m-cmpr9416-013-p16s4w16</m.rf>
@@ -3747,9 +3742,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-cmpr9416-013-p18s2w10">
 <m.rf>m#m-cmpr9416-013-p18s2w10</m.rf>
@@ -4062,11 +4054,6 @@
 <clause_number>4</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>nadbytečná mezera</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

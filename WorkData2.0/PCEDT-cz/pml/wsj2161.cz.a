@@ -1878,11 +1878,6 @@
 <m.rf>m#m-wsj2161-001-p1s13W5-Ta</m.rf>
 <afun>Adv</afun>
 <ord>5</ord>
-<comments>
-<LM type="Other">
-<text>vloni</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2161-001-p1s13W6-Ta">
 <m.rf>m#m-wsj2161-001-p1s13W6-Ta</m.rf>
@@ -5241,11 +5236,6 @@
 <m.rf>m#m-wsj2161-001-p1s37W26-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>26</ord>
-<comments>
-<LM type="Other">
-<text>v původním anglickém textu "--"</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2161-001-p1s37W28-Ta">
 <m.rf>m#m-wsj2161-001-p1s37W28-Ta</m.rf>
@@ -7875,11 +7865,6 @@
 <m.rf>m#m-wsj2161-001-p1s57W33-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>33</ord>
-<comments>
-<LM type="Other">
-<text>v originále "--"</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -8993,11 +8978,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>z</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

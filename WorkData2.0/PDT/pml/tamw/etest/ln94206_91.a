@@ -1177,9 +1177,6 @@
 <is_extra_dependency>1</is_extra_dependency>
 <ord>23</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-91-p3s5w24">
 <m.rf>m#m-ln94206-91-p3s5w24</m.rf>
@@ -5471,9 +5468,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-91-p10s1w4">
 <m.rf>m#m-ln94206-91-p10s1w4</m.rf>
@@ -5803,9 +5797,6 @@
 <afun>Obj</afun>
 <ord>13</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -6606,9 +6597,6 @@
 <afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-91-p10s10w7">
 <m.rf>m#m-ln94206-91-p10s10w7</m.rf>
@@ -7344,9 +7332,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-91-p10s15w4">
 <m.rf>m#m-ln94206-91-p10s15w4</m.rf>

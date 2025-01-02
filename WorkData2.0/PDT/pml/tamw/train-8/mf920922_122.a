@@ -1415,9 +1415,6 @@
 <afun>AuxZ</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920922-122-p2s11w6">
 <m.rf>m#m-mf920922-122-p2s11w6</m.rf>
@@ -2063,9 +2060,6 @@
 <clause_number>3</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920922-122-p2s15w24">
 <m.rf>m#m-mf920922-122-p2s15w24</m.rf>
@@ -2187,9 +2181,6 @@
 <afun>AuxZ</afun>
 <ord>14</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920922-122-p2s16w19">
 <m.rf>m#m-mf920922-122-p2s16w19</m.rf>

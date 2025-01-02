@@ -1880,9 +1880,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94200-162-p4s2w6">
 <m.rf>m#m-ln94200-162-p4s2w6</m.rf>
@@ -2470,9 +2467,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>

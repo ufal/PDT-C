@@ -837,9 +837,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-lnd94103-087-p1s9w4">
 <m.rf>m#m-lnd94103-087-p1s9w4</m.rf>
@@ -2308,9 +2305,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-lnd94103-087-p1s26w9">
 <m.rf>m#m-lnd94103-087-p1s26w9</m.rf>
@@ -4267,9 +4261,6 @@
 <afun>Atr</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -7506,11 +7497,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečné uvozovky</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-lnd94103-087-p1s83Cw2">
 <m.rf>m#m-lnd94103-087-p1s83Cw2</m.rf>
@@ -10242,9 +10228,6 @@
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-lnd94103-087-p1s113Bw5">
 <m.rf>m#m-lnd94103-087-p1s113Bw5</m.rf>
@@ -10289,14 +10272,8 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

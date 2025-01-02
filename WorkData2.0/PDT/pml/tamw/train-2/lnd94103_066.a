@@ -603,9 +603,6 @@
 <afun>Atr</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -637,9 +634,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -980,9 +974,6 @@
 <afun>AuxZ</afun>
 <ord>30</ord>
 <clause_number>4</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-lnd94103-066-p1s4w32">
 <m.rf>m#m-lnd94103-066-p1s4w32</m.rf>

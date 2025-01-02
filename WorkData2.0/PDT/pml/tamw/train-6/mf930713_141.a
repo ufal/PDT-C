@@ -468,9 +468,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-141-p2s3w18">
 <m.rf>m#m-mf930713-141-p2s3w18</m.rf>
@@ -545,9 +542,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1185,11 +1179,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb case</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

@@ -1057,9 +1057,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2725,11 +2722,6 @@
 <afun>AuxG</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3150,9 +3142,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -6127,9 +6116,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-cmpr9415-022-p26s2w12">
 <m.rf>m#m-cmpr9415-022-p26s2w12</m.rf>

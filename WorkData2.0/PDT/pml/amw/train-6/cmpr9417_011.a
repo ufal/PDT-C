@@ -2017,11 +2017,6 @@
 <afun>AuxX</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-cmpr9417-011-p13s4w16">
 <m.rf>m#m-cmpr9417-011-p13s4w16</m.rf>
@@ -4081,11 +4076,6 @@
 <afun>AuxX</afun>
 <ord>18</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-cmpr9417-011-p19s1w21">
 <m.rf>m#m-cmpr9417-011-p19s1w21</m.rf>
@@ -4780,11 +4770,6 @@
 <afun>AuxX</afun>
 <ord>17</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-cmpr9417-011-p20s4w21">
 <m.rf>m#m-cmpr9417-011-p20s4w21</m.rf>
@@ -6084,11 +6069,6 @@
 <is_member>1</is_member>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid afun for lemma</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -6455,11 +6435,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>ze</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -6516,11 +6491,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí předložka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-cmpr9417-011-p33s1Bw16">
 <m.rf>m#m-cmpr9417-011-p33s1Bw16</m.rf>

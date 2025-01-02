@@ -1990,11 +1990,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid afun for lemma</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94207-87-p5s2w21">
 <m.rf>m#m-ln94207-87-p5s2w21</m.rf>
@@ -2049,11 +2044,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid afun for lemma</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

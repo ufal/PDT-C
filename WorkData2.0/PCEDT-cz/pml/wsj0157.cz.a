@@ -355,11 +355,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>dolary</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj0157-001-p1s1W28-Ta">
 <m.rf>m#m-wsj0157-001-p1s1W28-Ta</m.rf>
@@ -766,11 +761,6 @@
 <m.rf>m#m-wsj0157-001-p1s3W28-Ta</m.rf>
 <afun>AuxV</afun>
 <ord>28</ord>
-<comments>
-<LM type="Other">
-<text>nebyla</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj0157-001-p1s3W29-Ta">
 <m.rf>m#m-wsj0157-001-p1s3W29-Ta</m.rf>

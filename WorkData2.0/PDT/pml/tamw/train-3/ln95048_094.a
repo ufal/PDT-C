@@ -652,11 +652,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer">
-<text>COMPL</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95048-094-p3s3w10">
 <m.rf>m#m-ln95048-094-p3s3w10</m.rf>
@@ -2568,9 +2563,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

@@ -1206,9 +1206,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2600,11 +2597,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>překlep</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5353,11 +5345,6 @@
 <m.rf>m#m-wsj2406-001-p1s40W3-Ta</m.rf>
 <afun>Adv</afun>
 <ord>3</ord>
-<comments>
-<LM type="Other">
-<text>má být zřetelně </text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2406-001-p1s40W5-Ta">
 <m.rf>m#m-wsj2406-001-p1s40W5-Ta</m.rf>

@@ -380,11 +380,6 @@
 <afun>Atr</afun>
 <is_member>1</is_member>
 <ord>6</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 <LM id="lk-26171_01.04-SCzechA-m-d1e875-x15-127">
 <m.rf>m#m711-d1e875-x15-127</m.rf>
@@ -396,22 +391,12 @@
 <afun>Atr</afun>
 <is_member>1</is_member>
 <ord>8</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 <LM id="lk-26171_01.04-SCzechA-m-d1t1006-3">
 <m.rf>m#m711-d1t1006-3</m.rf>
 <afun>Atr</afun>
 <is_member>1</is_member>
 <ord>10</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -452,11 +437,6 @@
 <m.rf>m#m711-d1t1008-4</m.rf>
 <afun>Atr</afun>
 <ord>2</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4145,11 +4125,6 @@
 <m.rf>m#m711-d1t1251-31</m.rf>
 <afun>Atr</afun>
 <ord>14</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

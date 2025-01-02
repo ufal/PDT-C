@@ -3863,11 +3863,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid afun for lemma</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5214,11 +5209,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>překlep</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj1473-001-p1s26W17-Ta">
 <m.rf>m#m-wsj1473-001-p1s26W17-Ta</m.rf>

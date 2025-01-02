@@ -292,11 +292,6 @@
 <ord>4</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí předložka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj1760-001-p1s2W6-Ta">
 <m.rf>m#m-wsj1760-001-p1s2W6-Ta</m.rf>
@@ -2466,11 +2461,6 @@
 <m.rf>m#m-wsj1760-001-p1s19W13-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>13</ord>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2506,11 +2496,6 @@
 <m.rf>m#m-wsj1760-001-p1s19W19-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>19</ord>
-<comments>
-<LM type="Other">
-<text>nadbytečn á čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj1760-001-p1s19W24-Ta">
 <m.rf>m#m-wsj1760-001-p1s19W24-Ta</m.rf>

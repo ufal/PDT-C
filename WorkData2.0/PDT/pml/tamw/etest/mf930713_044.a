@@ -2002,9 +2002,6 @@
 <afun>Obj</afun>
 <ord>11</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3184,9 +3181,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4333,9 +4327,6 @@
 <clause_number>6</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-044-p11s2w39">
 <m.rf>m#m-mf930713-044-p11s2w39</m.rf>
@@ -5609,9 +5600,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-044-p17s3w26">
 <m.rf>m#m-mf930713-044-p17s3w26</m.rf>
@@ -5816,9 +5804,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -7494,9 +7479,6 @@
 <afun>Adv</afun>
 <ord>26</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -10978,9 +10960,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -12907,9 +12886,6 @@
 <clause_number>4</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

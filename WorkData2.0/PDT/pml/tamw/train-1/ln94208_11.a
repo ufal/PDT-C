@@ -315,9 +315,6 @@
 <afun>Atr</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1783,9 +1780,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4587,9 +4581,6 @@
 <afun>Adv</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5331,9 +5322,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94208-11-p3s28w20">
 <m.rf>m#m-ln94208-11-p3s28w20</m.rf>

@@ -21,11 +21,6 @@
 <afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>neoddělená věta</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-lnd94104-090-p1s1w3">
 <m.rf>m#m-lnd94104-090-p1s1w3</m.rf>
@@ -40,9 +35,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 <LM id="a-lnd94104-090-p1s1w5">
 <m.rf>m#m-lnd94104-090-p1s1w5</m.rf>
@@ -57,9 +49,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 <LM id="a-lnd94104-090-p1s1w18">
 <m.rf>m#m-lnd94104-090-p1s1w18</m.rf>

@@ -1574,9 +1574,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-117-p7s1w7">
 <m.rf>m#m-ln94206-117-p7s1w7</m.rf>
@@ -1833,9 +1830,6 @@
 <afun>AuxG</afun>
 <ord>7</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-117-p7s3w9">
 <m.rf>m#m-ln94206-117-p7s3w9</m.rf>
@@ -3569,11 +3563,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3913,11 +3902,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

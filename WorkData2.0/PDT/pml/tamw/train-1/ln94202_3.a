@@ -2527,9 +2527,6 @@
 <afun>Atr</afun>
 <ord>40</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3102,9 +3099,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5920,11 +5914,6 @@
 <afun>AuxX</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94202-3-p14s2w8">
 <m.rf>m#m-ln94202-3-p14s2w8</m.rf>

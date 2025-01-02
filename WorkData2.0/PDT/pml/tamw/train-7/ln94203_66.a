@@ -296,9 +296,6 @@
 <is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94203-66-p1s3w4">
 <m.rf>m#m-ln94203-66-p1s3w4</m.rf>
@@ -322,14 +319,8 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

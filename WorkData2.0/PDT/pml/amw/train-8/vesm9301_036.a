@@ -10763,11 +10763,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>jako by</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -13283,9 +13278,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>

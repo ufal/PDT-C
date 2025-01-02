@@ -438,9 +438,6 @@
 <afun>Atr</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920922-129-p2s6w19">
 <m.rf>m#m-mf920922-129-p2s6w19</m.rf>
@@ -2422,9 +2419,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920922-129-p6s1w34">
 <m.rf>m#m-mf920922-129-p6s1w34</m.rf>
@@ -2504,9 +2498,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

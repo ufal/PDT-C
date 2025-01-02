@@ -6143,9 +6143,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-vesm9211-060-p13s2w6">
 <m.rf>m#m-vesm9211-060-p13s2w6</m.rf>
@@ -6767,9 +6764,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-vesm9211-060-p13s5w8">
 <m.rf>m#m-vesm9211-060-p13s5w8</m.rf>

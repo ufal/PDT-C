@@ -4176,11 +4176,6 @@
 <m.rf>m#m-wsj0118-001-p1s23W44-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>44</ord>
-<comments>
-<LM type="Other">
-<text>zde čárka vůbec nemá být</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5779,11 +5774,6 @@
 <m.rf>m#m-wsj0118-001-p1s32W30-Ta</m.rf>
 <afun>Atr</afun>
 <ord>30</ord>
-<comments>
-<LM type="Other">
-<text>velkým</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj0118-001-p1s32W33-Ta">
 <m.rf>m#m-wsj0118-001-p1s32W33-Ta</m.rf>

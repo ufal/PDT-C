@@ -2263,11 +2263,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí čárka před "ale"</text>
-</LM>
-</comments>
 </LM>
 <LM id="hg-26797_05.00-SCzechA-m-id59249-3">
 <m.rf>m#m975-id59249-3</m.rf>
@@ -3648,11 +3643,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Not enough members</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

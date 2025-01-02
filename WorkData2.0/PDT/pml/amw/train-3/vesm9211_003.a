@@ -291,14 +291,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9211-003-p1s1Aw41">
 <m.rf>m#m-vesm9211-003-p1s1Aw41</m.rf>
@@ -314,14 +306,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9211-003-p1s1Aw43">
 <m.rf>m#m-vesm9211-003-p1s1Aw43</m.rf>

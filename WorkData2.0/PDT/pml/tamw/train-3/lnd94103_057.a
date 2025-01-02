@@ -822,9 +822,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-lnd94103-057-p1s2w47">
 <m.rf>m#m-lnd94103-057-p1s2w47</m.rf>
@@ -3304,9 +3301,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

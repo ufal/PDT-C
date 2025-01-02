@@ -71,11 +71,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neoddělená věta</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95042-009-p2s1w14">
 <m.rf>m#m-ln95042-009-p2s1w14</m.rf>
@@ -2822,11 +2817,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer">
-<text>není ve slovníku</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95042-009-p8s2w21">
 <m.rf>m#m-ln95042-009-p8s2w21</m.rf>
@@ -3694,11 +3684,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer">
-<text>není ve slovníku</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

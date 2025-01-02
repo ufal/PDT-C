@@ -1155,17 +1155,11 @@
 <m.rf>m#es_06-SCzechM-p0579-s1-w3</m.rf>
 <afun>AuxG</afun>
 <ord>3</ord>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 <LM id="faust_2010_07_es_06-SCzechA-p0579-s1-w4">
 <m.rf>m#es_06-SCzechM-p0579-s1-w4</m.rf>
 <afun>AuxG</afun>
 <ord>4</ord>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 <LM id="faust_2010_07_es_06-SCzechA-p0579-s1-w5">
 <m.rf>m#es_06-SCzechM-p0579-s1-w5</m.rf>
@@ -3528,11 +3522,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Not enough members</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

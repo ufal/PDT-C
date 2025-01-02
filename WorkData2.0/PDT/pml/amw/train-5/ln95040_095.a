@@ -369,11 +369,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Not enough members</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -441,11 +436,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Tag J^ should be Coord/Apos/AuxYZ</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2493,11 +2483,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Tag J^ should be Coord/Apos/AuxYZ</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95040-095-p2s14Bw8">
 <m.rf>m#m-ln95040-095-p2s14Bw8</m.rf>

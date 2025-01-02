@@ -4566,9 +4566,6 @@
 <afun>Adv</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5604,11 +5601,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Not enough members</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

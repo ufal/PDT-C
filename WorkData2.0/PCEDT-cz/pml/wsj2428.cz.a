@@ -2419,11 +2419,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>vallex na a-rovině hlásí, že sloveso nenachází, v t-rovině v pohodě</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2876,11 +2871,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí čárka před "nebo" - vylučovací poměr</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3430,11 +3420,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí čárka před "až"</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3841,11 +3826,6 @@
 <m.rf>m#m-wsj2428-001-p1s21W20-Ta</m.rf>
 <afun>AuxP</afun>
 <ord>20</ord>
-<comments>
-<LM type="Other">
-<text>je zde navíc, vymazat</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2428-001-p1s21W22-Ta">
 <m.rf>m#m-wsj2428-001-p1s21W22-Ta</m.rf>
@@ -5572,11 +5552,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí čárka před "a"</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -7341,11 +7316,6 @@
 <m.rf>m#m-wsj2428-001-p1s41W27-Ta</m.rf>
 <afun>Obj</afun>
 <ord>27</ord>
-<comments>
-<LM type="Other">
-<text>překlep: čehož</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2428-001-p1s41W28-Ta">
 <m.rf>m#m-wsj2428-001-p1s41W28-Ta</m.rf>
@@ -10456,11 +10426,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí interpunkce: čárka před "co", čárka za "objevovat"</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2428-001-p1s62W8-Ta">
 <m.rf>m#m-wsj2428-001-p1s62W8-Ta</m.rf>
@@ -10566,11 +10531,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí čárka před "než"</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -10615,11 +10575,6 @@
 <m.rf>m#m-wsj2428-001-p1s64W2-Ta</m.rf>
 <afun>Obj</afun>
 <ord>2</ord>
-<comments>
-<LM type="Other">
-<text>chybí čárka před "co" a za "vidíme"</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2428-001-p1s64W3-Ta">
 <m.rf>m#m-wsj2428-001-p1s64W3-Ta</m.rf>
@@ -12626,11 +12581,6 @@
 <m.rf>m#m-wsj2428-001-p1s77W11-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>11</ord>
-<comments>
-<LM type="Other">
-<text>čárka navíc</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2428-001-p1s77W15-Ta">
 <m.rf>m#m-wsj2428-001-p1s77W15-Ta</m.rf>

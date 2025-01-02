@@ -1715,9 +1715,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95047-070-p4s5w8">
 <m.rf>m#m-ln95047-070-p4s5w8</m.rf>
@@ -1726,12 +1723,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-<LM type="Other">
-<text>jako by</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

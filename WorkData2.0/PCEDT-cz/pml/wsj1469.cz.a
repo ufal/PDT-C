@@ -1482,9 +1482,6 @@
 <m.rf>m#m-wsj1469-001-p1s12W13-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>13</ord>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 <LM id="a-wsj1469-001-p1s12W28-Ta">
 <m.rf>m#m-wsj1469-001-p1s12W28-Ta</m.rf>
@@ -6248,11 +6245,6 @@
 <m.rf>m#m-wsj1469-001-p1s49W7-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>7</ord>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj1469-001-p1s49W12-Ta">
 <m.rf>m#m-wsj1469-001-p1s49W12-Ta</m.rf>

@@ -2201,11 +2201,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>v anglickém originále "--"</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5816,11 +5811,6 @@
 <m.rf>m#m-wsj2136-001-p1s36W24-Ta</m.rf>
 <afun>AuxP</afun>
 <ord>24</ord>
-<comments>
-<LM type="Other">
-<text>useknutá věta</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -6108,11 +6098,6 @@
 <m.rf>m#m-wsj2136-001-p1s38W17-Ta</m.rf>
 <afun>AuxK</afun>
 <ord>18</ord>
-<comments>
-<LM type="Other">
-<text>v originálu ".."</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2136-001-p1s38W18-Ta">
 <m.rf>m#m-wsj2136-001-p1s38W18-Ta</m.rf>

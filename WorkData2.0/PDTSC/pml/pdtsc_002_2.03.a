@@ -1047,11 +1047,6 @@
 <m.rf>m#m975-id63053-13</m.rf>
 <afun>Sb</afun>
 <ord>12</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb case</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3059,11 +3054,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí interpunkce před a za "dejme tomu"</text>
-</LM>
-</comments>
 </LM>
 <LM id="hg-26797_05.03-SCzechA-m-id63802-17">
 <m.rf>m#m975-id63802-17</m.rf>

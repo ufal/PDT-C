@@ -1890,9 +1890,6 @@
 <afun>Adv</afun>
 <ord>6</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-cmpr9413-031-p9s5w7">
 <m.rf>m#m-cmpr9413-031-p9s5w7</m.rf>
@@ -4172,9 +4169,6 @@
 <afun>Adv</afun>
 <ord>3</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-cmpr9413-031-p15s2w4">
 <m.rf>m#m-cmpr9413-031-p15s2w4</m.rf>
@@ -4367,11 +4361,6 @@
 <afun>AuxR</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer">
-<text>na t-rovině vypuštěno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-cmpr9413-031-p17s1w5">
 <m.rf>m#m-cmpr9413-031-p17s1w5</m.rf>

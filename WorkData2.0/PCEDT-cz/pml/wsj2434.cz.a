@@ -120,11 +120,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>forma zápisu</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -145,11 +140,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>forma zápisu</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -487,21 +477,11 @@
 <m.rf>m#m-wsj2434-001-p1s1W42-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>42</ord>
-<comments>
-<LM type="Other">
-<text>forma zápisu</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2434-001-p1s1W43-Ta">
 <m.rf>m#m-wsj2434-001-p1s1W43-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>43</ord>
-<comments>
-<LM type="Other">
-<text>forma zápisu</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

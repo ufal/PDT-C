@@ -1756,11 +1756,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: S2 not AuxY</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-050-p4s4w19">
 <m.rf>m#m-vesm9303-050-p4s4w19</m.rf>
@@ -2998,9 +2993,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-vesm9303-050-p6s5w7">
 <m.rf>m#m-vesm9303-050-p6s5w7</m.rf>
@@ -6531,11 +6523,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -8130,11 +8117,6 @@
 <afun>AuxP</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>nedokončeno</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -13835,9 +13817,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 <LM id="a-vesm9303-050-p22s1w3">
 <m.rf>m#m-vesm9303-050-p22s1w3</m.rf>

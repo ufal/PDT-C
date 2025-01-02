@@ -5526,11 +5526,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>není v lexikonu</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -6196,11 +6191,6 @@
 <afun>Atr</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

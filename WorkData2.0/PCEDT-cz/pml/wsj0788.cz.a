@@ -848,11 +848,6 @@
 <m.rf>m#m-wsj0788-001-p1s3W61-Ta</m.rf>
 <afun>AuxV</afun>
 <ord>61</ord>
-<comments>
-<LM type="Other">
-<text>slovo navíc</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj0788-001-p1s3W63-Ta">
 <m.rf>m#m-wsj0788-001-p1s3W63-Ta</m.rf>
@@ -1697,11 +1692,6 @@
 <m.rf>m#m-wsj0788-001-p1s7W22-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>22</ord>
-<comments>
-<LM type="Other">
-<text>chybná interpunkce</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

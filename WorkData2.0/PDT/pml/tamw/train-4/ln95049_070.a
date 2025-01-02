@@ -2121,11 +2121,6 @@
 <afun>AuxG</afun>
 <ord>49</ord>
 <clause_number>5</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečný spojovník</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2649,9 +2644,6 @@
 <afun>Atr</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3148,9 +3140,6 @@
 <afun>AuxZ</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

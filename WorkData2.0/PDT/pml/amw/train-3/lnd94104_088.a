@@ -62,11 +62,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neoddělená věta</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-lnd94104-088-p1s1w8">
 <m.rf>m#m-lnd94104-088-p1s1w8</m.rf>
@@ -1739,11 +1734,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Not enough members</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

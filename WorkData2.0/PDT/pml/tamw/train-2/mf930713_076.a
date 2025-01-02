@@ -2313,9 +2313,6 @@
 <is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-076-p6s1w2">
 <m.rf>m#m-mf930713-076-p6s1w2</m.rf>
@@ -2345,9 +2342,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

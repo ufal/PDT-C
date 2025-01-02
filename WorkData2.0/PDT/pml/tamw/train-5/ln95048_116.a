@@ -1096,9 +1096,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-116-p3s5w7">
 <m.rf>m#m-ln95048-116-p3s5w7</m.rf>
@@ -4192,9 +4189,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

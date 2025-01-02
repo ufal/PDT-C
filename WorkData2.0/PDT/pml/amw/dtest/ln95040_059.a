@@ -6792,11 +6792,6 @@
 <afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -6881,11 +6876,6 @@
 <afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

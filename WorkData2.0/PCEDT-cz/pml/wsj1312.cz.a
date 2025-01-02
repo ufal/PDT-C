@@ -3036,11 +3036,6 @@
 <m.rf>m#m-wsj1312-001-p1s15W18-Ta</m.rf>
 <afun>Atr</afun>
 <ord>18</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid afun for lemma</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -6699,11 +6694,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybný zápis</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

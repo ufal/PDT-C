@@ -3055,11 +3055,6 @@
 <m.rf>m#es_20-SCzechM-p2156-s1-w5</m.rf>
 <afun>AuxG</afun>
 <ord>5</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 <LM id="faust_2010_07_es_20-SCzechA-p2156-s1-w6">
 <m.rf>m#es_20-SCzechM-p2156-s1-w6</m.rf>
@@ -3654,9 +3649,6 @@
 <m.rf>m#es_20-SCzechM-p2159-s1-w36</m.rf>
 <afun>AuxG</afun>
 <ord>36</ord>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>

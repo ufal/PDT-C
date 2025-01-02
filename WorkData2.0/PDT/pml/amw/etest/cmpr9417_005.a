@@ -1433,11 +1433,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>přitom</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-cmpr9417-005-p6s3w10">
 <m.rf>m#m-cmpr9417-005-p6s3w10</m.rf>
@@ -6015,11 +6010,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí mezera</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -6161,11 +6151,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí mezera</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

@@ -98,11 +98,6 @@
 <m.rf>m#m975-id59732-10</m.rf>
 <afun>AuxZ</afun>
 <ord>2</ord>
-<comments>
-<LM type="Other">
-<text>věším na predikát, i když není bezprostředně před "třeba"</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1995,11 +1990,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí čárka před "nebo"</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2156,11 +2146,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Not enough members</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2512,11 +2497,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí čárka před "nebo"</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

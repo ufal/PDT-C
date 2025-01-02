@@ -464,11 +464,6 @@
 <afun>Atr</afun>
 <ord>23</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Afun not preposition</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -502,11 +497,6 @@
 <afun>Atr</afun>
 <ord>29</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Afun not preposition</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94204-105-p3s1w30">
 <m.rf>m#m-ln94204-105-p3s1w30</m.rf>
@@ -3147,9 +3137,6 @@
 <afun>AuxZ</afun>
 <ord>27</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94204-105-p7s1w31">
 <m.rf>m#m-ln94204-105-p7s1w31</m.rf>

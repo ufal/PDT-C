@@ -2118,11 +2118,6 @@
 <m.rf>m#m-wsj2380-001-p1s25W2-Ta</m.rf>
 <afun>Atr</afun>
 <ord>2</ord>
-<comments>
-<LM type="Other">
-<text>8.65</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2380-001-p1s25W3-Ta">
 <m.rf>m#m-wsj2380-001-p1s25W3-Ta</m.rf>
@@ -2130,11 +2125,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>8.65</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2380-001-p1s25W5-Ta">
 <m.rf>m#m-wsj2380-001-p1s25W5-Ta</m.rf>

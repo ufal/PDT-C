@@ -502,14 +502,6 @@
 <clause_number>3</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

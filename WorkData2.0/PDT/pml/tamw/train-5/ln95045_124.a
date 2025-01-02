@@ -663,9 +663,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3368,14 +3365,8 @@
 <afun>Adv</afun>
 <ord>18</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95045-124-p7s3w23">
 <m.rf>m#m-ln95045-124-p7s3w23</m.rf>
@@ -4839,9 +4830,6 @@
 <afun>AuxY</afun>
 <ord>21</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95045-124-p10s1w22">
 <m.rf>m#m-ln95045-124-p10s1w22</m.rf>

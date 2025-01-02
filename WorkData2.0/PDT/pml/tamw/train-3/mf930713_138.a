@@ -2541,9 +2541,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-138-p6s3w30">
 <m.rf>m#m-mf930713-138-p6s3w30</m.rf>
@@ -4154,9 +4151,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5030,9 +5024,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-138-p17s1w3">
 <m.rf>m#m-mf930713-138-p17s1w3</m.rf>
@@ -5040,9 +5031,6 @@
 <is_extra_dependency>1</is_extra_dependency>
 <ord>3</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

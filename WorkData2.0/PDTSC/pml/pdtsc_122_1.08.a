@@ -802,11 +802,6 @@
 <ord>1</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí tečka na konci věty</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1869,11 +1864,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

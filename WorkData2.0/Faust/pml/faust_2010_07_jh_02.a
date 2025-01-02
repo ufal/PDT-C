@@ -681,11 +681,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Different afuns in Coord: Partl, Vocat</text>
-</LM>
-</comments>
 </LM>
 <LM id="faust_2010_07_jh_02-SCzechA-p0106-s1-w7">
 <m.rf>m#jh_02-SCzechM-p0106-s1-w7</m.rf>
@@ -1691,11 +1686,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>Typo</text>
-</LM>
-</comments>
 </LM>
 <LM id="faust_2010_07_jh_02-SCzechA-p0126-s1-w11">
 <m.rf>m#jh_02-SCzechM-p0126-s1-w11</m.rf>
@@ -2862,11 +2852,6 @@
 <ord>2</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid top node</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

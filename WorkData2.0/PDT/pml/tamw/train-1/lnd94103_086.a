@@ -625,9 +625,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-lnd94103-086-p1s6w7">
 <m.rf>m#m-lnd94103-086-p1s6w7</m.rf>
@@ -2718,9 +2715,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-lnd94103-086-p1s25w9">
 <m.rf>m#m-lnd94103-086-p1s25w9</m.rf>
@@ -2750,9 +2744,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

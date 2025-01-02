@@ -3909,11 +3909,6 @@
 <clause_number>3</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb case</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5474,11 +5469,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer">
-<text>není ve slovníku</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

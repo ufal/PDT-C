@@ -538,9 +538,6 @@
 <afun>AuxG</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5934,11 +5931,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

@@ -38,9 +38,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-148-p1s1w6">
 <m.rf>m#m-ln95048-148-p1s1w6</m.rf>
@@ -106,9 +103,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1430,9 +1424,6 @@
 <clause_number>3</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

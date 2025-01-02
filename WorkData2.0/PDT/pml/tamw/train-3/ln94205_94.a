@@ -592,9 +592,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p3s1w4">
 <m.rf>m#m-ln94205-94-p3s1w4</m.rf>
@@ -1514,9 +1511,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p5s1w4">
 <m.rf>m#m-ln94205-94-p5s1w4</m.rf>
@@ -2108,9 +2102,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p6s1w4">
 <m.rf>m#m-ln94205-94-p6s1w4</m.rf>
@@ -2279,9 +2270,6 @@
 <afun>Atr</afun>
 <ord>6</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p6s2w8">
 <m.rf>m#m-ln94205-94-p6s2w8</m.rf>
@@ -3379,9 +3367,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p7s1w6">
 <m.rf>m#m-ln94205-94-p7s1w6</m.rf>
@@ -4010,11 +3995,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4601,9 +4581,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p11s1w4">
 <m.rf>m#m-ln94205-94-p11s1w4</m.rf>
@@ -5227,9 +5204,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p12s1w5">
 <m.rf>m#m-ln94205-94-p12s1w5</m.rf>
@@ -5726,9 +5700,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p13s1w7">
 <m.rf>m#m-ln94205-94-p13s1w7</m.rf>
@@ -7143,9 +7114,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p15s1w6">
 <m.rf>m#m-ln94205-94-p15s1w6</m.rf>
@@ -7278,9 +7246,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p16s1w5">
 <m.rf>m#m-ln94205-94-p16s1w5</m.rf>
@@ -7988,9 +7953,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -8148,9 +8110,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p18s1w5">
 <m.rf>m#m-ln94205-94-p18s1w5</m.rf>
@@ -8271,9 +8230,6 @@
 <afun>AuxZ</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p18s3w7">
 <m.rf>m#m-ln94205-94-p18s3w7</m.rf>
@@ -8938,9 +8894,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p19s1w4">
 <m.rf>m#m-ln94205-94-p19s1w4</m.rf>
@@ -9120,9 +9073,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p20s1w4">
 <m.rf>m#m-ln94205-94-p20s1w4</m.rf>
@@ -9237,9 +9187,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p21s1w6">
 <m.rf>m#m-ln94205-94-p21s1w6</m.rf>
@@ -9557,9 +9504,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p22s1w5">
 <m.rf>m#m-ln94205-94-p22s1w5</m.rf>
@@ -9810,9 +9754,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p23s1w4">
 <m.rf>m#m-ln94205-94-p23s1w4</m.rf>
@@ -9960,9 +9901,6 @@
 <afun>AuxZ</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p23s3w4">
 <m.rf>m#m-ln94205-94-p23s3w4</m.rf>
@@ -10198,9 +10136,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -10235,9 +10170,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p24s1w14">
 <m.rf>m#m-ln94205-94-p24s1w14</m.rf>
@@ -10885,9 +10817,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p25s1w4">
 <m.rf>m#m-ln94205-94-p25s1w4</m.rf>
@@ -11262,11 +11191,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -11475,11 +11399,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb case</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -11741,9 +11660,6 @@
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-94-p28s1w4">
 <m.rf>m#m-ln94205-94-p28s1w4</m.rf>

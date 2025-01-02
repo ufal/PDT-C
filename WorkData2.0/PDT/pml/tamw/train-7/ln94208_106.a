@@ -820,11 +820,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p3s1w3">
 <m.rf>m#m-ln94208-106-p3s1w3</m.rf>
@@ -1432,11 +1427,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p4s6Bw3">
 <m.rf>m#m-ln94208-106-p4s6Bw3</m.rf>
@@ -1666,18 +1656,12 @@
 <afun>AuxX</afun>
 <ord>12</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p5s2w14">
 <m.rf>m#m-ln94208-106-p5s2w14</m.rf>
 <afun>AuxG</afun>
 <ord>14</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1740,11 +1724,6 @@
 <afun>AuxX</afun>
 <ord>23</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>;</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p5s2w25">
 <m.rf>m#m-ln94208-106-p5s2w25</m.rf>
@@ -1757,9 +1736,6 @@
 <afun>AuxG</afun>
 <ord>26</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1954,11 +1930,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p5s4Bw2">
 <m.rf>m#m-ln94208-106-p5s4Bw2</m.rf>
@@ -2641,11 +2612,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p6s4Bw3">
 <m.rf>m#m-ln94208-106-p6s4Bw3</m.rf>
@@ -3078,11 +3044,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p7s3Bw2">
 <m.rf>m#m-ln94208-106-p7s3Bw2</m.rf>
@@ -3423,11 +3384,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p8s2Bw3">
 <m.rf>m#m-ln94208-106-p8s2Bw3</m.rf>
@@ -4213,11 +4169,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4865,11 +4816,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p10s5Bw3">
 <m.rf>m#m-ln94208-106-p10s5Bw3</m.rf>
@@ -5399,11 +5345,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p11s3Bw3">
 <m.rf>m#m-ln94208-106-p11s3Bw3</m.rf>
@@ -6068,11 +6009,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-106-p12s7Bw2">
 <m.rf>m#m-ln94208-106-p12s7Bw2</m.rf>

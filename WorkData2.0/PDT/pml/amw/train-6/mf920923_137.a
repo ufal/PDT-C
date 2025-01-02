@@ -1982,11 +1982,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="M-layer">
-<text>A</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2187,11 +2182,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer">
-<text>A</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

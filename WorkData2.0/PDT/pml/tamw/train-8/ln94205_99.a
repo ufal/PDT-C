@@ -1670,9 +1670,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2231,9 +2228,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -7031,9 +7025,6 @@
 <is_extra_dependency>1</is_extra_dependency>
 <ord>14</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94205-99-p14s8w15">
 <m.rf>m#m-ln94205-99-p14s8w15</m.rf>

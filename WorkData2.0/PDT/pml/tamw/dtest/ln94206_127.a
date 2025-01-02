@@ -707,11 +707,6 @@
 <afun>AuxZ</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer">
-<text>ATT</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94206-127-p3s2w6">
 <m.rf>m#m-ln94206-127-p3s2w6</m.rf>
@@ -1200,9 +1195,6 @@
 <afun>AuxG</afun>
 <ord>23</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-127-p3s3Bw25">
 <m.rf>m#m-ln94206-127-p3s3Bw25</m.rf>

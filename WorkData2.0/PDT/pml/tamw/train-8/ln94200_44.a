@@ -421,9 +421,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94200-44-p2s2w20">
 <m.rf>m#m-ln94200-44-p2s2w20</m.rf>
@@ -516,9 +513,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -627,9 +621,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -887,9 +878,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1126,9 +1114,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1617,9 +1602,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>

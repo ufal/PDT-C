@@ -17834,9 +17834,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -26138,11 +26135,6 @@
 <afun>AuxX</afun>
 <ord>18</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9212-016-p40s2w23">
 <m.rf>m#m-vesm9212-016-p40s2w23</m.rf>

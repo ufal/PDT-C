@@ -1375,11 +1375,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2810,9 +2805,6 @@
 <afun>Adv</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

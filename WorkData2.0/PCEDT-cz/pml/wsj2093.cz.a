@@ -61,11 +61,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí desetinná čárka</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1411,11 +1406,6 @@
 <m.rf>m#m-wsj2093-001-p1s8W22-Ta</m.rf>
 <afun>AuxP</afun>
 <ord>22</ord>
-<comments>
-<LM type="Other">
-<text>chybí konec věty</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4404,11 +4394,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí desetinná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2093-001-p1s33W13-Ta">
 <m.rf>m#m-wsj2093-001-p1s33W13-Ta</m.rf>

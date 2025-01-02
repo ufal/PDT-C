@@ -211,9 +211,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1680,9 +1677,6 @@
 <afun>AuxG</afun>
 <ord>7</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920922-003-p5s1w8">
 <m.rf>m#m-mf920922-003-p5s1w8</m.rf>

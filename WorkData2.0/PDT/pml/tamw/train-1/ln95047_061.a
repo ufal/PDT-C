@@ -3207,11 +3207,6 @@
 <afun>AuxX</afun>
 <ord>28</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95047-061-p3s7w30">
 <m.rf>m#m-ln95047-061-p3s7w30</m.rf>
@@ -4316,9 +4311,6 @@
 <afun>Adv</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95047-061-p5s4w3">
 <m.rf>m#m-ln95047-061-p5s4w3</m.rf>
@@ -7793,9 +7785,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -8669,11 +8658,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -8938,11 +8922,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -11980,9 +11959,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

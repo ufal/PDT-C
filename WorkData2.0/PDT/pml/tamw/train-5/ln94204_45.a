@@ -133,9 +133,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -303,9 +300,6 @@
 <afun>Sb</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94204-45-p2s2w11">
 <m.rf>m#m-ln94204-45-p2s2w11</m.rf>
@@ -988,9 +982,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94204-45-p2s8w20">
 <m.rf>m#m-ln94204-45-p2s8w20</m.rf>

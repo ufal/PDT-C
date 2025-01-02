@@ -323,9 +323,6 @@
 <afun>AuxZ</afun>
 <ord>19</ord>
 <clause_number>4</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -717,9 +714,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1026,9 +1020,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1578,9 +1569,6 @@
 <afun>AuxY</afun>
 <ord>37</ord>
 <clause_number>5</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95045-067-p5s1w52">
 <m.rf>m#m-ln95045-067-p5s1w52</m.rf>
@@ -3504,9 +3492,6 @@
 <clause_number>3</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95045-067-p9s1w32">
 <m.rf>m#m-ln95045-067-p9s1w32</m.rf>

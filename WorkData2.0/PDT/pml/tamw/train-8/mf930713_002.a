@@ -1092,9 +1092,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1247,9 +1244,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4256,9 +4250,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-002-p25s1w10">
 <m.rf>m#m-mf930713-002-p25s1w10</m.rf>
@@ -6016,9 +6007,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-002-p35s2w14">
 <m.rf>m#m-mf930713-002-p35s2w14</m.rf>
@@ -11325,9 +11313,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-002-p72s1w4">
 <m.rf>m#m-mf930713-002-p72s1w4</m.rf>
@@ -11364,14 +11349,8 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -11725,22 +11704,12 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-mf930713-002-p77s2w12">
 <m.rf>m#m-mf930713-002-p77s2w12</m.rf>
 <afun>Atr</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -12088,9 +12057,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-002-p81s2w7">
 <m.rf>m#m-mf930713-002-p81s2w7</m.rf>
@@ -13167,9 +13133,6 @@
 <is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-002-p90s1w9">
 <m.rf>m#m-mf930713-002-p90s1w9</m.rf>
@@ -13177,9 +13140,6 @@
 <is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-002-p90s1w10">
 <m.rf>m#m-mf930713-002-p90s1w10</m.rf>
@@ -13385,9 +13345,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

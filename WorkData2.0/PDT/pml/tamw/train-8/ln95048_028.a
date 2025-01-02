@@ -4747,9 +4747,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-028-p9s10w30">
 <m.rf>m#m-ln95048-028-p9s10w30</m.rf>
@@ -5513,9 +5510,6 @@
 <afun>Obj</afun>
 <ord>42</ord>
 <clause_number>7</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-028-p9s16w43">
 <m.rf>m#m-ln95048-028-p9s16w43</m.rf>
@@ -6524,9 +6518,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -7408,9 +7399,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-028-p12s7w10">
 <m.rf>m#m-ln95048-028-p12s7w10</m.rf>
@@ -7537,9 +7525,6 @@
 <clause_number>4</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -7729,9 +7714,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

@@ -1778,17 +1778,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>tak, že</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Tag J^ should be Coord/Apos/AuxYZ</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3220,9 +3209,6 @@
 <afun>AuxZ</afun>
 <ord>64</ord>
 <clause_number>4</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94200-143-p3s11w66">
 <m.rf>m#m-ln94200-143-p3s11w66</m.rf>

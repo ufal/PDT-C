@@ -12936,11 +12936,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer">
-<text>není ve slovníku</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -14213,11 +14208,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>není ve slovníku</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

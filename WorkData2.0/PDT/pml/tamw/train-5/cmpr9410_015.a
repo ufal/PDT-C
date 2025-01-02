@@ -4822,11 +4822,6 @@
 <afun>AuxX</afun>
 <ord>13</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-cmpr9410-015-p20s4w16">
 <m.rf>m#m-cmpr9410-015-p20s4w16</m.rf>
@@ -5004,11 +4999,6 @@
 <afun>Atr</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

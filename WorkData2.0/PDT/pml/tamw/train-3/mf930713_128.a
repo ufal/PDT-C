@@ -892,9 +892,6 @@
 <afun>Atr</afun>
 <ord>29</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2430,9 +2427,6 @@
 <afun>Atr</afun>
 <ord>14</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3076,9 +3070,6 @@
 <afun>AuxZ</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-128-p9s1w10">
 <m.rf>m#m-mf930713-128-p9s1w10</m.rf>
@@ -4352,9 +4343,6 @@
 <clause_number>3</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-128-p11s1w28">
 <m.rf>m#m-mf930713-128-p11s1w28</m.rf>

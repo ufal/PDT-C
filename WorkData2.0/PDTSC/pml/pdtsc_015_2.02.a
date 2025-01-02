@@ -1559,11 +1559,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2077,9 +2072,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>

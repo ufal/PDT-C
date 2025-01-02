@@ -613,9 +613,6 @@
 <m.rf>m#m013-882-1211</m.rf>
 <afun>AuxX</afun>
 <ord>20</ord>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2285,11 +2282,6 @@
 <m.rf>m#m013-d1t3737-15</m.rf>
 <afun>Sb</afun>
 <ord>15</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb case</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

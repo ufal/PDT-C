@@ -3908,11 +3908,6 @@
 <m.rf>m#m-wsj2369-001-p1s25W23-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>23</ord>
-<comments>
-<LM type="Other">
-<text>čárka navíc</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2369-001-p1s25W25-Ta">
 <m.rf>m#m-wsj2369-001-p1s25W25-Ta</m.rf>
@@ -7268,11 +7263,6 @@
 <afun>Vocat</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
 <ord>6</ord>
-<comments>
-<LM type="Other">
-<text>chybí interpunkce</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2369-001-p1s46W8-Ta">
 <m.rf>m#m-wsj2369-001-p1s46W8-Ta</m.rf>

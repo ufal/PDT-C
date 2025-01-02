@@ -898,9 +898,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920922-027-p2s5w18">
 <m.rf>m#m-mf920922-027-p2s5w18</m.rf>
@@ -1577,11 +1574,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>pravopisná chyba</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2196,14 +2188,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

@@ -148,9 +148,6 @@
 <afun>AuxG</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95046-022-p2s1w17">
 <m.rf>m#m-ln95046-022-p2s1w17</m.rf>
@@ -357,9 +354,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95046-022-p2s3w9">
 <m.rf>m#m-ln95046-022-p2s3w9</m.rf>
@@ -633,9 +627,6 @@
 <afun>AuxG</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95046-022-p2s4w21">
 <m.rf>m#m-ln95046-022-p2s4w21</m.rf>
@@ -909,9 +900,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95046-022-p2s5w8">
 <m.rf>m#m-ln95046-022-p2s5w8</m.rf>

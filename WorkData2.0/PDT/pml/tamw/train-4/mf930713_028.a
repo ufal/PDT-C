@@ -258,9 +258,6 @@
 <afun>Atr</afun>
 <ord>10</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -979,9 +976,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-mf930713-028-p2s6w5">
 <m.rf>m#m-mf930713-028-p2s6w5</m.rf>
@@ -1240,9 +1234,6 @@
 <afun>AuxY</afun>
 <ord>20</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

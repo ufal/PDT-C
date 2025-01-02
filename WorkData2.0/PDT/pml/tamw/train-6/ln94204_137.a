@@ -609,9 +609,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94204-137-p2s3w25">
 <m.rf>m#m-ln94204-137-p2s3w25</m.rf>
@@ -1638,9 +1635,6 @@
 <afun>Atr</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

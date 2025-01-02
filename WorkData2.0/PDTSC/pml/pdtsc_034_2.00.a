@@ -1541,11 +1541,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>pomáhala</text>
-</LM>
-</comments>
 </LM>
 <LM id="hg-25819_01.00-SCzechA-m-d1t205-1">
 <m.rf>m#m991-d1t205-1</m.rf>
@@ -2412,11 +2407,6 @@
 <m.rf>m#m991-d1t325-7</m.rf>
 <afun>Atr</afun>
 <ord>20</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2430,11 +2420,6 @@
 <m.rf>m#m991-d1t327-3</m.rf>
 <afun>Atr</afun>
 <ord>22</ord>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

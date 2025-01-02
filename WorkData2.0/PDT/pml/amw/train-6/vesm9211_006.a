@@ -512,9 +512,6 @@
 <afun>AuxP</afun>
 <ord>16</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -640,11 +637,6 @@
 <is_parenthesis_root>1</is_parenthesis_root>
 <ord>33</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>chybí závorka</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3260,11 +3252,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>přitom</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9211-006-p7s2Bw4">
 <m.rf>m#m-vesm9211-006-p7s2Bw4</m.rf>

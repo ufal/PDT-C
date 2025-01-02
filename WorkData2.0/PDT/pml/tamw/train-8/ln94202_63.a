@@ -1012,9 +1012,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2125,11 +2122,6 @@
 <afun>AuxR</afun>
 <ord>14</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer">
-<text>na t-rovině vypuštěno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94202-63-p6s4w15">
 <m.rf>m#m-ln94202-63-p6s4w15</m.rf>

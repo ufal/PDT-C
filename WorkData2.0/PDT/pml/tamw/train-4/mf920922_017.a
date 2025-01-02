@@ -2056,9 +2056,6 @@
 <is_extra_dependency>1</is_extra_dependency>
 <ord>10</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2474,11 +2471,6 @@
 <afun>AuxX</afun>
 <ord>34</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-mf920922-017-p2s16w38">
 <m.rf>m#m-mf920922-017-p2s16w38</m.rf>

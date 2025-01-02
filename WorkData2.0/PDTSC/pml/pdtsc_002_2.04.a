@@ -1615,11 +1615,6 @@
 <m.rf>m#m975-12705-642</m.rf>
 <afun>AuxX</afun>
 <ord>18</ord>
-<comments>
-<LM type="Other">
-<text>čárka navíc</text>
-</LM>
-</comments>
 </LM>
 <LM id="hg-26797_05.04-SCzechA-m-id64741-7">
 <m.rf>m#m975-id64741-7</m.rf>
@@ -1819,11 +1814,6 @@
 <m.rf>m#m975-648-650</m.rf>
 <afun>AuxX</afun>
 <ord>15</ord>
-<comments>
-<LM type="Other">
-<text>tečka</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

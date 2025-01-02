@@ -2486,9 +2486,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-059-p7s2w3">
 <m.rf>m#m-ln95048-059-p7s2w3</m.rf>
@@ -3345,9 +3342,6 @@
 <afun>Adv</afun>
 <ord>38</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3768,9 +3762,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

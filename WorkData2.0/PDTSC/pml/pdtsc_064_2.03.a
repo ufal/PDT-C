@@ -914,11 +914,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Preposition case not matching</text>
-</LM>
-</comments>
 </LM>
 <LM id="es_134.03-SCzechA-m-d1t407-15">
 <m.rf>m#m134-d1t407-15</m.rf>
@@ -2261,11 +2256,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>máme-li se řídit strukturou věty podle T-roviny, nutno ohraničit VV čárkami (tudíž je třeba doplnit čárku před "a")</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2388,11 +2378,6 @@
 <m.rf>m#m134-d1t459-2</m.rf>
 <afun>Obj</afun>
 <ord>2</ord>
-<comments>
-<LM type="Other">
-<text>má být "mně" (komu čemu nepáchla)</text>
-</LM>
-</comments>
 </LM>
 <LM id="es_134.03-SCzechA-m-d1t459-4">
 <m.rf>m#m134-d1t459-4</m.rf>

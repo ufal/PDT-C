@@ -4597,11 +4597,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí přísudek</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-cmpr9407-040-p19s1w35">
 <m.rf>m#m-cmpr9407-040-p19s1w35</m.rf>
@@ -5697,11 +5692,6 @@
 <afun>Atr</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

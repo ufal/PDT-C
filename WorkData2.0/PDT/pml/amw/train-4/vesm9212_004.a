@@ -55,11 +55,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neodděleno</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1326,9 +1321,6 @@
 <afun>AuxZ</afun>
 <ord>54</ord>
 <clause_number>6</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-vesm9212-004-p2s7w56">
 <m.rf>m#m-vesm9212-004-p2s7w56</m.rf>

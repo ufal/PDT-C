@@ -504,9 +504,6 @@
 <clause_number>4</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -776,11 +773,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>jako by</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9212-020-p4s5w15">
 <m.rf>m#m-vesm9212-020-p4s5w15</m.rf>

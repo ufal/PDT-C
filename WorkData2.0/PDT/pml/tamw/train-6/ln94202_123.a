@@ -1836,9 +1836,6 @@
 <afun>Sb</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p3s6w15">
 <m.rf>m#m-ln94202-123-p3s6w15</m.rf>
@@ -2563,9 +2560,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p7s1w10">
 <m.rf>m#m-ln94202-123-p7s1w10</m.rf>
@@ -2686,9 +2680,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p7s2w7">
 <m.rf>m#m-ln94202-123-p7s2w7</m.rf>
@@ -4877,9 +4868,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4905,9 +4893,6 @@
 <afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p8s10w3">
 <m.rf>m#m-ln94202-123-p8s10w3</m.rf>
@@ -5169,9 +5154,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p11s1w7">
 <m.rf>m#m-ln94202-123-p11s1w7</m.rf>
@@ -5512,9 +5494,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p11s4w8">
 <m.rf>m#m-ln94202-123-p11s4w8</m.rf>
@@ -7024,9 +7003,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p15s1w9">
 <m.rf>m#m-ln94202-123-p15s1w9</m.rf>
@@ -7165,9 +7141,6 @@
 <afun>AuxG</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p15s2w10">
 <m.rf>m#m-ln94202-123-p15s2w10</m.rf>
@@ -7941,9 +7914,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -8505,9 +8475,6 @@
 <afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p16s1w3">
 <m.rf>m#m-ln94202-123-p16s1w3</m.rf>
@@ -8778,9 +8745,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -8807,9 +8771,6 @@
 <afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p16s7w3">
 <m.rf>m#m-ln94202-123-p16s7w3</m.rf>
@@ -10267,9 +10228,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -10451,9 +10409,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -10480,9 +10435,6 @@
 <afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p20s7w3">
 <m.rf>m#m-ln94202-123-p20s7w3</m.rf>
@@ -10907,9 +10859,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p23s1w8">
 <m.rf>m#m-ln94202-123-p23s1w8</m.rf>
@@ -11228,9 +11177,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p23s4w11">
 <m.rf>m#m-ln94202-123-p23s4w11</m.rf>
@@ -11940,9 +11886,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -12778,9 +12721,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -12965,9 +12905,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -12994,9 +12931,6 @@
 <afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p24s8w3">
 <m.rf>m#m-ln94202-123-p24s8w3</m.rf>
@@ -13077,9 +13011,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p27s1w8">
 <m.rf>m#m-ln94202-123-p27s1w8</m.rf>
@@ -13270,9 +13201,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-123-p27s3w8">
 <m.rf>m#m-ln94202-123-p27s3w8</m.rf>

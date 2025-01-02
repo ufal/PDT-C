@@ -71,11 +71,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5833,9 +5828,6 @@
 <afun>AuxZ</afun>
 <ord>26</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

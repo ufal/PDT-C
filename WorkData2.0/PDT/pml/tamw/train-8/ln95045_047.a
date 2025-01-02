@@ -1972,14 +1972,6 @@
 <clause_number>4</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3249,9 +3241,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95045-047-p6s4w10">
 <m.rf>m#m-ln95045-047-p6s4w10</m.rf>
@@ -3979,9 +3968,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95045-047-p6s9Bw12">
 <m.rf>m#m-ln95045-047-p6s9Bw12</m.rf>
@@ -4004,9 +3990,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95045-047-p6s9Bw14">
 <m.rf>m#m-ln95045-047-p6s9Bw14</m.rf>
@@ -4022,9 +4005,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95045-047-p6s9Bw15">
 <m.rf>m#m-ln95045-047-p6s9Bw15</m.rf>
@@ -4035,9 +4015,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

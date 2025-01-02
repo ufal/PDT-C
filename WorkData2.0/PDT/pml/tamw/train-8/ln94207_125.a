@@ -73,11 +73,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -346,9 +341,6 @@
 <afun>AuxY</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94207-125-p2s2w8">
 <m.rf>m#m-ln94207-125-p2s2w8</m.rf>

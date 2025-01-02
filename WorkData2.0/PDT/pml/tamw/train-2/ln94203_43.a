@@ -500,11 +500,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid afun for lemma</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94203-43-p3s2w8">
 <m.rf>m#m-ln94203-43-p3s2w8</m.rf>
@@ -537,11 +532,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid afun for lemma</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

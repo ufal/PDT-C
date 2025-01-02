@@ -2137,11 +2137,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Preposition case not matching</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4373,11 +4368,6 @@
 <is_extra_dependency>1</is_extra_dependency>
 <ord>5</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb case</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4418,11 +4408,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Preposition case not matching</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94211-3-p6s6w12">
 <m.rf>m#m-ln94211-3-p6s6w12</m.rf>
@@ -4728,9 +4713,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5953,11 +5935,6 @@
 <afun>Obj</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Tag J,- should be AuxC</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94211-3-p7s8w10">
 <m.rf>m#m-ln94211-3-p7s8w10</m.rf>
@@ -6550,11 +6527,6 @@
 <clause_number>5</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Preposition case not matching</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94211-3-p8s3w31">
 <m.rf>m#m-ln94211-3-p8s3w31</m.rf>

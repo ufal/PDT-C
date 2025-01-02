@@ -377,11 +377,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -931,9 +926,6 @@
 <afun>AuxG</afun>
 <ord>8</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95049-100-p3s5w9">
 <m.rf>m#m-ln95049-100-p3s5w9</m.rf>
@@ -1733,9 +1725,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95049-100-p3s11w7">
 <m.rf>m#m-ln95049-100-p3s11w7</m.rf>
@@ -2168,9 +2157,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95049-100-p3s15w7">
 <m.rf>m#m-ln95049-100-p3s15w7</m.rf>
@@ -2357,9 +2343,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95049-100-p3s16w9">
 <m.rf>m#m-ln95049-100-p3s16w9</m.rf>

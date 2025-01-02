@@ -588,9 +588,6 @@
 <is_extra_dependency>1</is_extra_dependency>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920922-074-p2s6Aw8">
 <m.rf>m#m-mf920922-074-p2s6Aw8</m.rf>
@@ -830,9 +827,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

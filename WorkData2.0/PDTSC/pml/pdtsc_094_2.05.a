@@ -3771,11 +3771,6 @@
 <afun>Obj</afun>
 <is_member>1</is_member>
 <ord>30</ord>
-<comments>
-<LM type="Other">
-<text>má být 7. pád</text>
-</LM>
-</comments>
 </LM>
 <LM id="ml_113.05-SCzechA-m-d1t1371-3">
 <m.rf>m#m113-d1t1371-3</m.rf>
@@ -3803,11 +3798,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>má být 7. pád</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

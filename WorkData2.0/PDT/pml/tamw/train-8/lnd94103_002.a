@@ -35,9 +35,6 @@
 <afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-lnd94103-002-p1s1w4">
 <m.rf>m#m-lnd94103-002-p1s1w4</m.rf>
@@ -466,9 +463,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

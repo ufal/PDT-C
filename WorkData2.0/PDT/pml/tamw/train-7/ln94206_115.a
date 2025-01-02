@@ -1195,9 +1195,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-115-p3s5w36">
 <m.rf>m#m-ln94206-115-p3s5w36</m.rf>
@@ -2214,9 +2211,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-115-p3s12w29">
 <m.rf>m#m-ln94206-115-p3s12w29</m.rf>
@@ -3249,9 +3243,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3310,9 +3301,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-115-p6s1w8">
 <m.rf>m#m-ln94206-115-p6s1w8</m.rf>
@@ -3632,9 +3620,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-115-p6s3w8">
 <m.rf>m#m-ln94206-115-p6s3w8</m.rf>
@@ -3775,9 +3760,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-115-p6s4w15">
 <m.rf>m#m-ln94206-115-p6s4w15</m.rf>

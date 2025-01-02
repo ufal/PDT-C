@@ -239,11 +239,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>jestliže</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9212-005-p5s1w20">
 <m.rf>m#m-vesm9212-005-p5s1w20</m.rf>
@@ -531,11 +526,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -17600,11 +17590,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>popisek (?)</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

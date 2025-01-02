@@ -2123,9 +2123,6 @@
 <afun>Sb</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94208-130-p7s4w7">
 <m.rf>m#m-ln94208-130-p7s4w7</m.rf>
@@ -3080,9 +3077,6 @@
 <afun>Atr</afun>
 <ord>18</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

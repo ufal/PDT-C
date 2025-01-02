@@ -1450,9 +1450,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 <LM id="a-cmpr9406-006-p9s4w10">
 <m.rf>m#m-cmpr9406-006-p9s4w10</m.rf>
@@ -2857,9 +2854,6 @@
 <afun>Obj</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>

@@ -4681,11 +4681,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Not enough members</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4744,11 +4739,6 @@
 <afun>AuxG</afun>
 <ord>8</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

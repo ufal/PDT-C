@@ -6464,9 +6464,6 @@
 <afun>AuxY</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-vesm9303-054-p10s2w4">
 <m.rf>m#m-vesm9303-054-p10s2w4</m.rf>
@@ -16604,14 +16601,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-054-p19s1w25">
 <m.rf>m#m-vesm9303-054-p19s1w25</m.rf>
@@ -16627,14 +16616,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-054-p19s1w27">
 <m.rf>m#m-vesm9303-054-p19s1w27</m.rf>

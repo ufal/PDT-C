@@ -807,11 +807,6 @@
 <ord>4</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí aposiční čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="es_149.00-SCzechA-m-d1t67-4">
 <m.rf>m#m149-d1t67-4</m.rf>
@@ -864,11 +859,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí aposiční čárka</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -941,11 +931,6 @@
 <m.rf>m#m149-d1e72-x2-11</m.rf>
 <afun>AuxX</afun>
 <ord>2</ord>
-<comments>
-<LM type="Other">
-<text>chybná interpunkce</text>
-</LM>
-</comments>
 </LM>
 <LM id="es_149.00-SCzechA-m-d1t75-2">
 <m.rf>m#m149-d1t75-2</m.rf>

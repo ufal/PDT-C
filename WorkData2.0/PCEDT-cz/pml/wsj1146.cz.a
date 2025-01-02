@@ -394,11 +394,6 @@
 <m.rf>m#m-wsj1146-001-p1s3W13-Ta</m.rf>
 <afun>Adv</afun>
 <ord>13</ord>
-<comments>
-<LM type="Other">
-<text>teoreticky by mohlo být zdůraznění následujícího slova</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj1146-001-p1s3W15-Ta">
 <m.rf>m#m-wsj1146-001-p1s3W15-Ta</m.rf>
@@ -3766,11 +3761,6 @@
 <m.rf>m#m-wsj1146-001-p1s45W3-Ta</m.rf>
 <afun>Obj</afun>
 <ord>3</ord>
-<comments>
-<LM type="Other">
-<text>příp. Adv (BEN)</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj1146-001-p1s45W4-Ta">
 <m.rf>m#m-wsj1146-001-p1s45W4-Ta</m.rf>
@@ -10011,11 +10001,6 @@
 <m.rf>m#m-wsj1146-001-p1s119W22-Ta</m.rf>
 <afun>Sb</afun>
 <ord>22</ord>
-<comments>
-<LM type="Other">
-<text>buď překlep (sídla – která), nebo musí viset výše, na sklenících</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj1146-001-p1s119W23-Ta">
 <m.rf>m#m-wsj1146-001-p1s119W23-Ta</m.rf>
@@ -12625,11 +12610,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb case</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -13260,11 +13240,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>zvláštní překlad</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj1146-001-p1s157W21-Ta">
 <m.rf>m#m-wsj1146-001-p1s157W21-Ta</m.rf>
@@ -14548,11 +14523,6 @@
 <afun>Sb</afun>
 <is_member>1</is_member>
 <ord>9</ord>
-<comments>
-<LM type="Other">
-<text>p</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

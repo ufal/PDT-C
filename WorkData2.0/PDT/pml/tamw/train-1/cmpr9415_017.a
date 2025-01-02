@@ -858,9 +858,6 @@
 <afun>AuxG</afun>
 <ord>31</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3069,27 +3066,18 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 <LM id="a-cmpr9415-017-p26s1w2">
 <m.rf>m#m-cmpr9415-017-p26s1w2</m.rf>
 <afun>AuxG</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 <LM id="a-cmpr9415-017-p26s1w3">
 <m.rf>m#m-cmpr9415-017-p26s1w3</m.rf>
 <afun>AuxG</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>

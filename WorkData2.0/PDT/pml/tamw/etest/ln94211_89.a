@@ -1863,9 +1863,6 @@
 <afun>Atr</afun>
 <ord>17</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94211-89-p4s4w19">
 <m.rf>m#m-ln94211-89-p4s4w19</m.rf>
@@ -3159,9 +3156,6 @@
 <afun>Atr</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94211-89-p7s1w6">
 <m.rf>m#m-ln94211-89-p7s1w6</m.rf>
@@ -3955,9 +3949,6 @@
 <afun>Atr</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

@@ -1479,9 +1479,6 @@
 <afun>Adv</afun>
 <ord>13</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1738,9 +1735,6 @@
 <afun>Adv</afun>
 <ord>33</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

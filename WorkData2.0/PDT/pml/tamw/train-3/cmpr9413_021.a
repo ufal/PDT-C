@@ -1198,9 +1198,6 @@
 <afun>Sb</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-cmpr9413-021-p6s1w3">
 <m.rf>m#m-cmpr9413-021-p6s1w3</m.rf>
@@ -1237,11 +1234,6 @@
 <afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1345,9 +1337,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-cmpr9413-021-p6s1w23">
 <m.rf>m#m-cmpr9413-021-p6s1w23</m.rf>
@@ -1540,11 +1529,6 @@
 <afun>AuxR</afun>
 <ord>20</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer">
-<text>na t-rovině vypuštěno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-cmpr9413-021-p8s1w24">
 <m.rf>m#m-cmpr9413-021-p8s1w24</m.rf>
@@ -2060,9 +2044,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2924,11 +2905,6 @@
 <afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2969,9 +2945,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

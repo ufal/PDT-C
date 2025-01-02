@@ -1111,11 +1111,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95043-112-p2s2w11">
 <m.rf>m#m-ln95043-112-p2s2w11</m.rf>
@@ -3128,9 +3123,6 @@
 <clause_number>6</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3157,9 +3149,6 @@
 <clause_number>6</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

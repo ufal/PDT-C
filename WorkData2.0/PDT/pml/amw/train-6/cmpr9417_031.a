@@ -2166,11 +2166,6 @@
 <afun>AuxG</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4121,11 +4116,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid afun for lemma</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5405,11 +5395,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

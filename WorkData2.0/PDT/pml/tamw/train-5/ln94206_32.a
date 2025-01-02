@@ -197,11 +197,6 @@
 <afun>AuxG</afun>
 <ord>16</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1162,11 +1157,6 @@
 <afun>AuxG</afun>
 <ord>21</ord>
 <clause_number>5</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2751,11 +2741,6 @@
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3352,11 +3337,6 @@
 <afun>AuxG</afun>
 <ord>16</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3726,14 +3706,8 @@
 <afun>Atr</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4430,9 +4404,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

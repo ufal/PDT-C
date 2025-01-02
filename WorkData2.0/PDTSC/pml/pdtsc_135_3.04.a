@@ -394,11 +394,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Not enough members</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1505,9 +1500,6 @@
 <m.rf>m#m027-d1e1213-x2-194</m.rf>
 <afun>AuxX</afun>
 <ord>6</ord>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2670,11 +2662,6 @@
 <m.rf>m#m027-d1t1298-2</m.rf>
 <afun>AuxV</afun>
 <ord>22</ord>
-<comments>
-<LM type="Other">
-<text>jsi</text>
-</LM>
-</comments>
 </LM>
 <LM id="ju_027.04-SCzechA-m-d1t1298-4">
 <m.rf>m#m027-d1t1298-4</m.rf>
@@ -2965,9 +2952,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3513,11 +3497,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Not enough members</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

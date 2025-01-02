@@ -97,11 +97,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neodděleno</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -528,9 +523,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920923-105-p2s7w8">
 <m.rf>m#m-mf920923-105-p2s7w8</m.rf>

@@ -969,11 +969,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb case</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1134,9 +1129,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94208-127-p3s4w31">
 <m.rf>m#m-ln94208-127-p3s4w31</m.rf>
@@ -2005,9 +1997,6 @@
 <afun>AuxZ</afun>
 <ord>7</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94208-127-p4s6w8">
 <m.rf>m#m-ln94208-127-p4s6w8</m.rf>
@@ -2120,11 +2109,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid Sb case</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

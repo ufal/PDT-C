@@ -8111,11 +8111,6 @@
 <m.rf>m#m-wsj1490-001-p1s39W28-Ta</m.rf>
 <afun>Atr</afun>
 <ord>28</ord>
-<comments>
-<LM type="Other">
-<text>odborové</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj1490-001-p1s39W30-Ta">
 <m.rf>m#m-wsj1490-001-p1s39W30-Ta</m.rf>
@@ -8295,11 +8290,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>regulátory</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

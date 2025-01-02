@@ -1015,11 +1015,6 @@
 <m.rf>m#m017-130-144</m.rf>
 <afun>AuxX</afun>
 <ord>20</ord>
-<comments>
-<LM type="Other">
-<text>čárka místo tečky</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4032,11 +4027,6 @@
 <m.rf>m#m017-d1e1447-x2-572</m.rf>
 <afun>AuxX</afun>
 <ord>13</ord>
-<comments>
-<LM type="Other">
-<text>čárka navíc</text>
-</LM>
-</comments>
 </LM>
 <LM id="jg_017.04-SCzechA-m-d1e1447-x2-496">
 <m.rf>m#m017-d1e1447-x2-496</m.rf>

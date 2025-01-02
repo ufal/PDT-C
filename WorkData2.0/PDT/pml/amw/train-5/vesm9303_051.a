@@ -43,11 +43,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neoddělno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-051-p1s1w5">
 <m.rf>m#m-vesm9303-051-p1s1w5</m.rf>
@@ -5102,9 +5097,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>

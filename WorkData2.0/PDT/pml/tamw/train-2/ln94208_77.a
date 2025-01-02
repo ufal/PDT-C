@@ -460,9 +460,6 @@
 <afun>Adv</afun>
 <ord>16</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2252,9 +2249,6 @@
 <afun>AuxG</afun>
 <ord>15</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94208-77-p5s3w17">
 <m.rf>m#m-ln94208-77-p5s3w17</m.rf>
@@ -2333,9 +2327,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94208-77-p5s3w28">
 <m.rf>m#m-ln94208-77-p5s3w28</m.rf>

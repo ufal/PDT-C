@@ -515,11 +515,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>překlep: zůstává</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2052-001-p1s6W21-Ta">
 <m.rf>m#m-wsj2052-001-p1s6W21-Ta</m.rf>
@@ -1376,11 +1371,6 @@
 <m.rf>m#m-wsj2052-001-p1s12W11-Ta</m.rf>
 <afun>Atr</afun>
 <ord>11</ord>
-<comments>
-<LM type="Other">
-<text>pravopisná chyba: americká</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2052-001-p1s12W14-Ta">
 <m.rf>m#m-wsj2052-001-p1s12W14-Ta</m.rf>
@@ -1527,11 +1517,6 @@
 <m.rf>m#m-wsj2052-001-p1s13W6-Ta</m.rf>
 <afun>Atr</afun>
 <ord>6</ord>
-<comments>
-<LM type="Other">
-<text>pravopisná chyba: američtí</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1773,11 +1758,6 @@
 <m.rf>m#m-wsj2052-001-p1s16W12-Ta</m.rf>
 <afun>Atr</afun>
 <ord>12</ord>
-<comments>
-<LM type="Other">
-<text>pravopisná chyba: kábulskému</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2027,11 +2007,6 @@
 <m.rf>m#m-wsj2052-001-p1s17W26-Ta</m.rf>
 <afun>Atr</afun>
 <ord>26</ord>
-<comments>
-<LM type="Other">
-<text>pravopisná chyba: americké</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2052-001-p1s17W28-Ta">
 <m.rf>m#m-wsj2052-001-p1s17W28-Ta</m.rf>
@@ -3308,11 +3283,6 @@
 <m.rf>m#m-wsj2052-001-p1s25W7-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>7</ord>
-<comments>
-<LM type="Other">
-<text>čárka před "a" nepatří</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2052-001-p1s25W12-Ta">
 <m.rf>m#m-wsj2052-001-p1s25W12-Ta</m.rf>
@@ -3959,11 +3929,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>pravopisná chyba: drženy</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4015,11 +3980,6 @@
 <m.rf>m#m-wsj2052-001-p1s30W4-Ta</m.rf>
 <afun>Atr</afun>
 <ord>4</ord>
-<comments>
-<LM type="Other">
-<text>pravopisná chyba: indičtí</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2052-001-p1s30W5-Ta">
 <m.rf>m#m-wsj2052-001-p1s30W5-Ta</m.rf>
@@ -4456,11 +4416,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>pravopisná chyba: sultána</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2052-001-p1s34W7-Ta">
 <m.rf>m#m-wsj2052-001-p1s34W7-Ta</m.rf>
@@ -4711,11 +4666,6 @@
 <m.rf>m#m-wsj2052-001-p1s36W21-Ta</m.rf>
 <afun>AuxZ</afun>
 <ord>21</ord>
-<comments>
-<LM type="Other">
-<text>chybí čárka před právě</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj2052-001-p1s36W26-Ta">
 <m.rf>m#m-wsj2052-001-p1s36W26-Ta</m.rf>

@@ -1918,11 +1918,6 @@
 <m.rf>m#m984-d1t1785-2</m.rf>
 <afun>AuxV</afun>
 <ord>2</ord>
-<comments>
-<LM type="Other">
-<text>jsem</text>
-</LM>
-</comments>
 </LM>
 <LM id="jg-13808_04.05-SCzechA-m-d1t1785-4">
 <m.rf>m#m984-d1t1785-4</m.rf>
@@ -2270,22 +2265,12 @@
 <afun>Sb</afun>
 <is_member>1</is_member>
 <ord>20</ord>
-<comments>
-<LM type="Other">
-<text>p</text>
-</LM>
-</comments>
 </LM>
 <LM id="jg-13808_04.05-SCzechA-m-d1t1818-3">
 <m.rf>m#m984-d1t1818-3</m.rf>
 <afun>Sb</afun>
 <is_member>1</is_member>
 <ord>22</ord>
-<comments>
-<LM type="Other">
-<text>p</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

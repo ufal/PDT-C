@@ -2657,9 +2657,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2748,9 +2745,6 @@
 <afun>AuxY</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95049-085-p3s14w3">
 <m.rf>m#m-ln95049-085-p3s14w3</m.rf>

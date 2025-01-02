@@ -722,9 +722,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1162,9 +1159,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2222,11 +2216,6 @@
 <afun>AuxR</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer">
-<text>na t-rovině vypuštěno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94202-60-p3s8w7">
 <m.rf>m#m-ln94202-60-p3s8w7</m.rf>
@@ -2712,9 +2701,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94202-60-p4s2w18">
 <m.rf>m#m-ln94202-60-p4s2w18</m.rf>

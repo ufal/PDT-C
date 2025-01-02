@@ -1289,11 +1289,6 @@
 <afun>AuxG</afun>
 <ord>51</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2879,11 +2874,6 @@
 <afun>AuxG</afun>
 <ord>25</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -4247,11 +4237,6 @@
 <afun>AuxG</afun>
 <ord>32</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5667,11 +5652,6 @@
 <afun>AuxG</afun>
 <ord>28</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -7110,11 +7090,6 @@
 <afun>AuxG</afun>
 <ord>15</ord>
 <clause_number>2</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -8776,11 +8751,6 @@
 <afun>AuxG</afun>
 <ord>36</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -9906,11 +9876,6 @@
 <afun>AuxG</afun>
 <ord>38</ord>
 <clause_number>5</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -10237,11 +10202,6 @@
 <afun>AuxG</afun>
 <ord>21</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -10486,11 +10446,6 @@
 <afun>AuxG</afun>
 <ord>21</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

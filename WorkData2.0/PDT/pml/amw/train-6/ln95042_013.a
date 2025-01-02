@@ -324,11 +324,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>není ve slovníku</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95042-013-p2s1w38">
 <m.rf>m#m-ln95042-013-p2s1w38</m.rf>
@@ -1231,11 +1226,6 @@
 <afun>AuxX</afun>
 <ord>12</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95042-013-p2s10w18">
 <m.rf>m#m-ln95042-013-p2s10w18</m.rf>
@@ -3036,9 +3026,6 @@
 <afun>AuxY</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95042-013-p2s19w16">
 <m.rf>m#m-ln95042-013-p2s19w16</m.rf>
@@ -7728,9 +7715,6 @@
 <afun>AuxY</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95042-013-p3s18w11">
 <m.rf>m#m-ln95042-013-p3s18w11</m.rf>

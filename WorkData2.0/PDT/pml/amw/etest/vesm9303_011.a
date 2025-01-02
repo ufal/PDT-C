@@ -96,11 +96,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>odděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-011-p1s2w14">
 <m.rf>m#m-vesm9303-011-p1s2w14</m.rf>
@@ -889,14 +884,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>odděleno</text>
-</LM>
-<LM type="Other">
-<text>chybí adv</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-011-p4s2w4">
 <m.rf>m#m-vesm9303-011-p4s2w4</m.rf>
@@ -947,11 +934,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybí obj</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1197,11 +1179,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>odděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-011-p5s2w5">
 <m.rf>m#m-vesm9303-011-p5s2w5</m.rf>
@@ -1415,11 +1392,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>odděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-011-p6s2w5">
 <m.rf>m#m-vesm9303-011-p6s2w5</m.rf>
@@ -1893,11 +1865,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>odděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-011-p7s2w5">
 <m.rf>m#m-vesm9303-011-p7s2w5</m.rf>
@@ -2306,11 +2273,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>odděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-011-p8s2w5">
 <m.rf>m#m-vesm9303-011-p8s2w5</m.rf>

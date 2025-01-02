@@ -339,11 +339,6 @@
 <afun>AuxX</afun>
 <ord>8</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>nadbytečná čárka</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95048-066-p2s3w14">
 <m.rf>m#m-ln95048-066-p2s3w14</m.rf>
@@ -429,9 +424,6 @@
 <afun>AuxY</afun>
 <ord>19</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-066-p2s3w20">
 <m.rf>m#m-ln95048-066-p2s3w20</m.rf>
@@ -1337,9 +1329,6 @@
 <afun>AuxY</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-066-p3s5w2">
 <m.rf>m#m-ln95048-066-p3s5w2</m.rf>
@@ -1911,9 +1900,6 @@
 <afun>AuxZ</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-066-p4s4w9">
 <m.rf>m#m-ln95048-066-p4s4w9</m.rf>
@@ -3342,9 +3328,6 @@
 <afun>AuxY</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-066-p5s9w3">
 <m.rf>m#m-ln95048-066-p5s9w3</m.rf>
@@ -3470,9 +3453,6 @@
 <afun>Adv</afun>
 <ord>21</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

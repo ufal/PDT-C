@@ -254,9 +254,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1169,9 +1166,6 @@
 <afun>AuxZ</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94203-50-p2s5Bw10">
 <m.rf>m#m-ln94203-50-p2s5Bw10</m.rf>

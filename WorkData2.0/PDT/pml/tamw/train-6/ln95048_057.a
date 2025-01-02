@@ -845,11 +845,6 @@
 <afun>AuxG</afun>
 <ord>42</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95048-057-p2s4w43">
 <m.rf>m#m-ln95048-057-p2s4w43</m.rf>
@@ -874,11 +869,6 @@
 <afun>AuxG</afun>
 <ord>46</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95048-057-p2s4w48">
 <m.rf>m#m-ln95048-057-p2s4w48</m.rf>
@@ -956,9 +946,6 @@
 <clause_number>9</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-057-p2s4w59">
 <m.rf>m#m-ln95048-057-p2s4w59</m.rf>
@@ -1622,11 +1609,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95048-057-p2s8w2">
 <m.rf>m#m-ln95048-057-p2s8w2</m.rf>
@@ -1651,11 +1633,6 @@
 <afun>AuxG</afun>
 <ord>5</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1816,9 +1793,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-057-p2s8w30">
 <m.rf>m#m-ln95048-057-p2s8w30</m.rf>
@@ -1888,11 +1862,6 @@
 <afun>AuxG</afun>
 <ord>39</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95048-057-p2s8w40">
 <m.rf>m#m-ln95048-057-p2s8w40</m.rf>
@@ -1917,11 +1886,6 @@
 <afun>AuxG</afun>
 <ord>43</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Parent not _P</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95048-057-p2s8w44">
 <m.rf>m#m-ln95048-057-p2s8w44</m.rf>
@@ -2250,17 +2214,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid top node</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95048-057-p2s10Bw3">
 <m.rf>m#m-ln95048-057-p2s10Bw3</m.rf>
@@ -2268,14 +2221,6 @@
 <is_parenthesis_root>1</is_parenthesis_root>
 <ord>3</ord>
 <clause_number>0</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid top node</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln95048-057-p2s10Bw4">
 <m.rf>m#m-ln95048-057-p2s10Bw4</m.rf>
@@ -2291,17 +2236,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid top node</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Cannot have children</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Invalid _Co _Ap _P _E</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

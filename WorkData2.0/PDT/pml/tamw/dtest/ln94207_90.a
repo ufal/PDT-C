@@ -1127,11 +1127,6 @@
 <afun>Atr</afun>
 <ord>19</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Adj parent</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2736,11 +2731,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Different afuns in Coord: Pred, Vocat</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>

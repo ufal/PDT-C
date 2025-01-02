@@ -337,9 +337,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920925-087-p2s3w13">
 <m.rf>m#m-mf920925-087-p2s3w13</m.rf>
@@ -376,9 +373,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1678,9 +1672,6 @@
 <afun>Adv</afun>
 <ord>32</ord>
 <clause_number>3</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-mf920925-087-p2s13w33">
 <m.rf>m#m-mf920925-087-p2s13w33</m.rf>

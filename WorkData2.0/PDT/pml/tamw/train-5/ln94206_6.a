@@ -1523,11 +1523,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>výjimka: Obj under colon</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2872,9 +2867,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -3901,9 +3893,6 @@
 <afun>Adv</afun>
 <ord>27</ord>
 <clause_number>4</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln94206-6-p4s7w28">
 <m.rf>m#m-ln94206-6-p4s7w28</m.rf>

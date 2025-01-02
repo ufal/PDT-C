@@ -655,11 +655,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>odděleno</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -941,14 +936,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>odděleno</text>
-</LM>
-<LM type="Other">
-<text>výjimka: Not enough members</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9303-042-p26s1w5">
 <m.rf>m#m-vesm9303-042-p26s1w5</m.rf>

@@ -1736,9 +1736,6 @@
 <m.rf>m#m148-d-id70353-punct</m.rf>
 <afun>AuxX</afun>
 <ord>8</ord>
-<comments>
-<LM type="Other"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -2767,11 +2764,6 @@
 <m.rf>m#m148-d1t672-2</m.rf>
 <afun>AuxV</afun>
 <ord>16</ord>
-<comments>
-<LM type="Other">
-<text>jsem</text>
-</LM>
-</comments>
 </LM>
 <LM id="ep_148.01-SCzechA-m-d1t672-3">
 <m.rf>m#m148-d1t672-3</m.rf>

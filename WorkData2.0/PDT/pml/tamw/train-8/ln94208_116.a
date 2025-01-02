@@ -591,11 +591,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-116-p3s1w2">
 <m.rf>m#m-ln94208-116-p3s1w2</m.rf>
@@ -942,11 +937,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-116-p4s1Bw2">
 <m.rf>m#m-ln94208-116-p4s1Bw2</m.rf>
@@ -1186,11 +1176,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-116-p5s3Bw2">
 <m.rf>m#m-ln94208-116-p5s3Bw2</m.rf>
@@ -1297,9 +1282,6 @@
 <afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>
@@ -1480,11 +1462,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-116-p6s2Bw7">
 <m.rf>m#m-ln94208-116-p6s2Bw7</m.rf>
@@ -1718,11 +1695,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-116-p7s1Bw4">
 <m.rf>m#m-ln94208-116-p7s1Bw4</m.rf>
@@ -2196,11 +2168,6 @@
 <afun>AuxG</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-<comments>
-<LM type="Other">
-<text>výjimka: Invalid tag/aux combination</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94208-116-p8s2Bw2">
 <m.rf>m#m-ln94208-116-p8s2Bw2</m.rf>

@@ -668,11 +668,6 @@
 <clause_number>2</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer">
-<text>nemůže být ATT/AuxZ, protože nevisí na Pred</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94205-139-p3s1w25">
 <m.rf>m#m-ln94205-139-p3s1w25</m.rf>
@@ -2994,11 +2989,6 @@
 <clause_number>1</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="T-layer">
-<text>nemůže být ATT/AuxZ, protože nevisí na Pred</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-ln94205-139-p12s1w8">
 <m.rf>m#m-ln94205-139-p12s1w8</m.rf>

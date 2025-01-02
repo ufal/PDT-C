@@ -3331,11 +3331,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>chybná segmentace</text>
-</LM>
-</comments>
 </LM>
 </children>
 </LM>
@@ -5705,11 +5700,6 @@
 <m.rf>m#m-wsj0976-001-p1s34W17-Ta</m.rf>
 <afun>Atr</afun>
 <ord>17</ord>
-<comments>
-<LM type="Other">
-<text>překlep</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-wsj0976-001-p1s34W19-Ta">
 <m.rf>m#m-wsj0976-001-p1s34W19-Ta</m.rf>

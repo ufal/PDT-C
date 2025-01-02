@@ -2141,9 +2141,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-036-p4s2w15">
 <m.rf>m#m-ln95048-036-p4s2w15</m.rf>
@@ -2429,9 +2426,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 <LM id="a-ln95048-036-p4s5w14">
 <m.rf>m#m-ln95048-036-p4s5w14</m.rf>
@@ -6492,9 +6486,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="T-layer"/>
-</comments>
 </LM>
 </children>
 </LM>

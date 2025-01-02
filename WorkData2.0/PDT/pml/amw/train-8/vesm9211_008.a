@@ -96,11 +96,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neodděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9211-008-p1s2w5">
 <m.rf>m#m-vesm9211-008-p1s2w5</m.rf>
@@ -344,11 +339,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neodděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9211-008-p2s2w5">
 <m.rf>m#m-vesm9211-008-p2s2w5</m.rf>
@@ -550,11 +540,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neodděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9211-008-p3s2w5">
 <m.rf>m#m-vesm9211-008-p3s2w5</m.rf>
@@ -804,11 +789,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neodděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9211-008-p4s2w5">
 <m.rf>m#m-vesm9211-008-p4s2w5</m.rf>
@@ -1510,11 +1490,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neodděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9211-008-p7s2w5">
 <m.rf>m#m-vesm9211-008-p7s2w5</m.rf>
@@ -1803,11 +1778,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-<comments>
-<LM type="Other">
-<text>neodděleno</text>
-</LM>
-</comments>
 </LM>
 <LM id="a-vesm9211-008-p8s2w5">
 <m.rf>m#m-vesm9211-008-p8s2w5</m.rf>
@@ -2302,9 +2272,6 @@
 </children>
 </LM>
 </children>
-<comments>
-<LM type="M-layer"/>
-</comments>
 </LM>
 <LM id="a-vesm9211-008-p10s1w17">
 <m.rf>m#m-vesm9211-008-p10s1w17</m.rf>
