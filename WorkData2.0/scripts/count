@@ -1,0 +1,70 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use experimental qw( signatures );
+use feature qw{ say };
+
+use FindBin ();
+use Path::Tiny qw( path );
+use Text::Table;
+
+{
+    my %SENTENCE_COUNT = (
+        m => '<s ',
+        a => '<s\.rf>',
+        t => '<atree\.rf>',
+    );
+
+    my %NODE_COUNT = (
+        w     => '<w ',
+        m     => '<m ',
+        a     => '<afun>',
+        t     => '<functor>',
+        mdata => '<m ',
+        wdata => '<w |<text>',
+        zdata => '<token '
+    );
+
+    sub count($path, $state) {
+        return if $path->is_dir || $path =~ /~$/;
+
+        my $type = $path =~ s/.*\.//r;
+        $SENTENCE_COUNT{$type} //= '(?!)';
+        ++$state->{file}{$type};
+        my $in = $path->filehandle('<');
+        if (exists $NODE_COUNT{$type}) {
+            my $sentence_tally;
+            my $node_tally = 0;
+            while (<$in>) {
+                ++$sentence_tally if /$SENTENCE_COUNT{$type}/;
+                ++$node_tally if /$NODE_COUNT{$type}/;
+            }
+            $state->{sentence}{$type} += $sentence_tally if $sentence_tally;
+            $state->{node}{$type} += $node_tally;
+        }
+    }
+}
+
+{   my %ORDER = (w => 0, m => 1, a => 2, t => 3,
+                 ogg => -4, zdata => -3, wdata => -2, mdata => -1);
+    sub by_layer { $ORDER{$a} <=> $ORDER{$b} }
+}
+
+my $dir = $FindBin::Bin . "/..";
+
+my %counts;
+
+my @corpora = qw( Faust PCEDT-cz PDT PDTSC );
+for my $corpus (@corpora) {
+    say {*STDERR} $corpus;
+    $counts{$corpus} = path($dir, $corpus)->visit(\&count, {recurse => 1});
+}
+my $tt = 'Text::Table'->new('Corpus', 'Layer', 'Files', 'Sentences', 'Nodes');
+for my $corpus (sort keys %counts) {
+    for my $layer (sort by_layer keys %{ $counts{$corpus}{file} }) {
+        $tt->add($corpus, $layer, $counts{$corpus}{file}{$layer},
+                 $counts{$corpus}{sentence}{$layer},
+                 $counts{$corpus}{node}{$layer});
+    }
+}
+print $tt;
