@@ -111,6 +111,25 @@ sub coref {
                  }
              }
 
+             if (my @discourse = ListV($node->{discourse})) {
+                 for my $d (@discourse) {
+                     my $rf = $d->{'target_node.rf'};
+                     if (defined $rf && ! exists $id{$rf}) {
+                         print "no discourse target\t";
+                         FPosition($node);
+                     } elsif (defined $rf && $rf eq $node->{id}) {
+                         print "discourse self\t";
+                         FPosition($node);
+                     }
+                     for my $c (ListV($d->{'t-connectors.rf'})) {
+                         if (! exists $id{$c}) {
+                             print "no t-connector\t";
+                             FPosition($node);
+                         }
+                     }
+                 }
+             }
+
              if ('#PersPron' eq $node->{t_lemma}) {
                  if ('DPHR' eq $node->{functor}) {
                      print "DPHR #perspron\t";
