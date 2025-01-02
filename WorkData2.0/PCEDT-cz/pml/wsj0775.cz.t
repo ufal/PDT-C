@@ -418,7 +418,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0775-001-p1s1a1</LM>
@@ -710,7 +709,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED grad->conj; INTER_DIFF-NODES_SAME-DIRECTION_SIMILAR-CONN_START-CHANGE_TARGET-CHANGE_TARGET-RANGE-CHANGE</comment>
 <src>A_I_A</src>
 <t-connectors.rf>
 <LM>T-wsj0775-001-p1s3a9</LM>
@@ -1111,7 +1109,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0775-001-p1s4a18</LM>
@@ -1860,7 +1857,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>PHASE:3 RETYPED opp->confr; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0775-001-p1s6a22</LM>

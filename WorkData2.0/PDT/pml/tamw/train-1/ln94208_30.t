@@ -557,10 +557,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>spis nez "soucasne" 
-je to zde ve smyslu 
-"take", proto "conj" 
-a ne "synchr"</discourse_comment>
 <val_frame.rf>v#v41iwlA</val_frame.rf>
 <children>
 <LM id="t-ln94208-30-p2s2w2">

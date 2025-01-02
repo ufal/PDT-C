@@ -1195,7 +1195,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->což</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-mf930713-061-p2s4w8</LM>
@@ -1209,7 +1208,6 @@
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg1-as-excpt</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Exception.Arg1-as-excpt</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED disjalt->restr</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-061-p2s4w17</LM>

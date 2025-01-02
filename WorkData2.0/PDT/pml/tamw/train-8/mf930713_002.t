@@ -45,11 +45,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>celý text je 
-adept na seznam,
-většinou neslovesné
-položky, nechávám
-bez anotace</discourse_comment>
 <children>
 <LM id="t-mf930713-002-p1s1w1">
 <a>
@@ -19933,12 +19928,6 @@ bez anotace</discourse_comment>
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>wrongTR,
-proč jsou u některých položek
-jména nakladatelství zvlášt 
-a u některých v jednom stromě
-s názvem knihy a autorem
-(138-142)</discourse_comment>
 <children>
 <LM id="t-mf930713-002-p68s1w2">
 <a>

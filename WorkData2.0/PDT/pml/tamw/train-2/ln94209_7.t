@@ -1713,7 +1713,6 @@
 <tfa>c</tfa>
 <deepord>2</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 <children>
 <LM id="t-ln94209-7-p4s2w1">
 <a>

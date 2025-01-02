@@ -2475,9 +2475,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>uvazovala jsem tez o tom, jestli vztah neznacit 
-mezi vetami 6+9 a 10; rozhoduji se takto kvuli 
-principu minimality</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-052-p4s3w4</LM>
@@ -6355,10 +6352,6 @@ principu minimality</comment>
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR?,
-tohle je spíš
-ATT ve větě 
-než CNCS</discourse_comment>
 <val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln95048-052-p7s4w3">
@@ -6568,7 +6561,6 @@ než CNCS</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary ve druhém významu</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95048-052-p5s2w28</target_node.rf>
@@ -8377,7 +8369,6 @@ než CNCS</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary ve třetím významu</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95048-052-p5s2w40</target_node.rf>

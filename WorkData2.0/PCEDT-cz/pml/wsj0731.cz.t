@@ -170,7 +170,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_I_A</src>
 <t-connectors.rf>
 <LM>T-wsj0731-001-p1s1a7</LM>
@@ -603,7 +602,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 TYPECHECKED-AUTO; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0731-001-p1s2a1</LM>

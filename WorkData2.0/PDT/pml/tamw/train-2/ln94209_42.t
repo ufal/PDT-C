@@ -665,7 +665,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-42-p3s1w5">
 <a>
@@ -1783,7 +1782,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3_manual>
-<comment>f kvůli implikaci  -a něco na tom jistě je</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94209-42-p4s2w1</LM>
@@ -2624,7 +2622,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-42-p4s4w19">
 <a>

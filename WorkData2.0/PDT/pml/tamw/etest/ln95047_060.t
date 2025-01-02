@@ -3553,10 +3553,6 @@
 <target_node.rf>t-ln95047-060-p3s5w3</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
-<comment>vzhledem k tomu, že se jedná 
-o položku seznamu 
-s jinak jinou strukturací, 
-nechán jako argument DENOM</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-060-p3s6w2</LM>

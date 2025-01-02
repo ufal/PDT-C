@@ -4302,10 +4302,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>jinak lze interpretovat
-také nekonektivně (ostatní
-podniky), CONFR by pak
-byla pouze v lexiku</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-55-p7s6w1</LM>

@@ -3163,8 +3163,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>14</deepord>
-<discourse_comment>GRAD, ale ne dějů, jen cen,
-proto neanotováno</discourse_comment>
 <val_frame.rf>v#v41clwA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-032-p5s2w16">

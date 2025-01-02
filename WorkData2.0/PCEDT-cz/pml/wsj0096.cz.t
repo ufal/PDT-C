@@ -489,7 +489,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->conjalt; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s1a3</LM>
@@ -554,7 +553,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s1a1</LM>
@@ -932,7 +930,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_START-NODE-PDTB_COMPATIBLE-SENSE</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s2a1</LM>
@@ -1186,7 +1183,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 AUTO_IS_SECONDARY; INTER_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_I_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s3a3</LM>
@@ -1554,7 +1550,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 NO-INTRA-PDTB</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj0096-001-p1s4W12-Ta</LM>
@@ -2106,7 +2101,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s6a18</LM>
@@ -2269,7 +2263,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 AUTO_IS_SECONDARY; INTER_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_I_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s7a3</LM>
@@ -2698,7 +2691,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTER_AUTO_START-NODE-PDTB_COMPATIBLE-SENSE_TARGET-CHANGE</comment>
 <src>A_I_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s9a12</LM>
@@ -3464,7 +3456,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTER_AUTO_START-NODE-PDTB_COMPATIBLE-SENSE_TARGET-CHANGE</comment>
 <src>A_I_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s12a10</LM>
@@ -3942,7 +3933,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s13a1</LM>
@@ -4182,7 +4172,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->conjalt; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s14a4</LM>
@@ -4214,7 +4203,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_OPPOSITE-NODES-PDTB_COMPATIBLE-SENSE</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s14a3</LM>
@@ -4559,7 +4547,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 NO-INTRA-PDTB</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj0096-001-p1s15W7-Ta</LM>
@@ -5185,7 +5172,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED disjalt->conjalt; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s18a3</LM>
@@ -5217,7 +5203,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:3 TYPECHECKED; INTRA_AUTO_PDTB-STARTS-WHERE-AUTO-ENDS_NON-FINITE_SIMILAR-CONN</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s18a2</LM>
@@ -5491,7 +5476,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 NO-INTRA-PDTB</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj0096-001-p1s19W5-Ta</LM>
@@ -5906,7 +5890,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTER_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_I_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s21a3</LM>
@@ -6134,7 +6117,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->conjalt; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s22a4</LM>
@@ -6166,7 +6148,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED opp->conj; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s22a3</LM>
@@ -6434,7 +6415,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s22a1</LM>
@@ -6619,7 +6599,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s23a8</LM>
@@ -7341,7 +7320,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->conjalt; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s25a3</LM>
@@ -7373,7 +7351,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED opp->conj; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s25a2</LM>
@@ -7754,7 +7731,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 TYPECHECKED-AUTO; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s26a1</LM>
@@ -8656,7 +8632,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s28a23</LM>
@@ -9113,7 +9088,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s30a1</LM>
@@ -9879,7 +9853,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->conjalt; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s33a3</LM>
@@ -9911,7 +9884,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED opp->conj; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s33a2</LM>
@@ -10478,7 +10450,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_TARGET-NODE-PDTB_COMPATIBLE-SENSE</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s35a1</LM>
@@ -10548,7 +10519,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED disjalt->conjalt; INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s35a11</LM>
@@ -10878,7 +10848,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 NO-INTRA-PDTB</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj0096-001-p1s36W15-Ta</LM>
@@ -10935,7 +10904,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED disjalt->conjalt; INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s36a11</LM>
@@ -13792,7 +13760,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_TARGET-NODE-PDTB_COMPATIBLE-SENSE</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s39a3</LM>
@@ -13806,7 +13773,6 @@
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
 <sense1B_PDTB3>Expansion.Manner.Arg2-as-manner</sense1B_PDTB3>
-<comment>PHASE:3 RETYPED cond->synchr; INTRA_AUTO_TARGET-NODE-PDTB_INCOMPATIBLE-SENSE_SIMILAR-CONN</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj0096-001-p1s39W16-Ta</LM>
@@ -17125,7 +17091,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->conjalt; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s43a2</LM>
@@ -17174,7 +17139,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>PHASE:3 TYPECHECKED; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s43a1</LM>
@@ -18040,7 +18004,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_TARGET-NODE-PDTB_COMPATIBLE-SENSE</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj0096-001-p1s44W19-Ta</LM>
@@ -18377,7 +18340,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_START-NODE-PDTB_COMPATIBLE-SENSE</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s45a12</LM>
@@ -18390,7 +18352,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj0096-001-p1s45W32-Ta</LM>
@@ -18732,7 +18693,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED disjalt->conjalt; INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s46a2</LM>
@@ -18858,7 +18818,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_TARGET-NODE-PDTB_COMPATIBLE-SENSE</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s46a1</LM>
@@ -18966,7 +18925,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 TYPECHECKED; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s46a23</LM>
@@ -19062,7 +19020,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED disjalt->conjalt; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s46a25</LM>
@@ -22585,7 +22542,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 TYPECHECKED-AUTO; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0096-001-p1s49a1</LM>

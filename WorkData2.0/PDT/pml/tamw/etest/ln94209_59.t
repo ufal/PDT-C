@@ -4787,7 +4787,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>secondary další</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -9145,7 +9144,6 @@
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-59-p9s6w11</LM>
@@ -15172,7 +15170,6 @@
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE nejen ~ ale->nejen že ~ ale</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-59-p14s1w38</LM>

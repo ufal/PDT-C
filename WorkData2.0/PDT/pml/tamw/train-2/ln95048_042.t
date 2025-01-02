@@ -27,10 +27,6 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>adept na seznam,
-hypertéma nadpis,
-4 položky ve 
-zbytku souboru</discourse_comment>
 <children>
 <LM id="t-ln95048-042-p1s1w3">
 <a>

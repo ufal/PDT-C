@@ -231,9 +231,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause+SpeechAct.Result+SpeechAct</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause+SpeechAct.Result+SpeechAct</sense_PDTB3_manual>
-<comment>nevhodně užitý konektor,
-dělá příčinu tam, kde
-žádná není</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-130-p3s1w5</LM>
@@ -1057,7 +1054,6 @@ dělá příčinu tam, kde
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41iulD</val_frame.rf>
 <children>
 <LM id="t-ln94208-130-p3s1w5">
@@ -1193,7 +1189,6 @@ dělá příčinu tam, kde
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-130-p3s2w4</LM>
@@ -1508,7 +1503,6 @@ dělá příčinu tam, kde
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary  -zretel</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94208-130-p3s1w24</target_node.rf>
@@ -2362,7 +2356,6 @@ dělá příčinu tam, kde
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem ani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-130-p5s2w1</LM>
@@ -3015,8 +3008,6 @@ dělá příčinu tam, kde
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
-<discourse_comment>wrongTR, tohle
-je tady spíš příslovce</discourse_comment>
 </LM>
 <LM id="t-ln94208-130-p5s3w13">
 <a>
@@ -3621,8 +3612,6 @@ je tady spíš příslovce</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>pred touto vetou chybi podnadpis (Skupina X) a 
-uvedeni, o ktere zeme jde?</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94208-130-p7s1w2">
@@ -4938,8 +4927,6 @@ uvedeni, o ktere zeme jde?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>pred touto vetou chybi podnadpis (Skupina X) a 
-uvedeni, o ktere zeme jde?</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94208-130-p9s1w2">
@@ -5149,7 +5136,6 @@ uvedeni, o ktere zeme jde?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-130-p9s2w7</LM>
@@ -6295,7 +6281,6 @@ uvedeni, o ktere zeme jde?</discourse_comment>
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
-<discourse_comment>pred touto vetou chybi podnadpis (Skupina X) a uvedeni, o ktere zeme jde?</discourse_comment>
 <children>
 <LM id="t-ln94208-130-p11s1w7">
 <a>
@@ -6598,8 +6583,6 @@ uvedeni, o ktere zeme jde?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>pred touto vetou chybi podnadpis (Skupina X)
-a uvedeni, o ktere zeme jde?</discourse_comment>
 <val_frame.rf>v#v41qfA</val_frame.rf>
 <children>
 <LM id="t-ln94208-130-p13s1w3">
@@ -6878,7 +6861,6 @@ a uvedeni, o ktere zeme jde?</discourse_comment>
 <target_range>group</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-130-p13s2w11</LM>
@@ -8192,7 +8174,6 @@ a uvedeni, o ktere zeme jde?</discourse_comment>
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
-<discourse_comment>pred touto vetou chybi podnadpis (Skupina X)?</discourse_comment>
 <children>
 <LM id="t-ln94208-130-p14s3w1">
 <a>
@@ -9613,8 +9594,6 @@ a uvedeni, o ktere zeme jde?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>pred touto vetou chybi podnadpis (Skupina X) a
-uvedeni, o ktere zeme jde?</discourse_comment>
 <val_frame.rf>v#v41qkaB</val_frame.rf>
 <children>
 <LM id="t-ln94208-130-p17s1w2">
@@ -10536,8 +10515,6 @@ uvedeni, o ktere zeme jde?</discourse_comment>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
-<discourse_comment>pred touto vetou chybi podnadpis (Skupina X) a 
-uvedeni, o ktere zeme jde?</discourse_comment>
 <children>
 <LM id="t-ln94208-130-p19s1w1">
 <a>

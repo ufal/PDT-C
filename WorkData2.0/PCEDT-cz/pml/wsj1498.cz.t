@@ -305,7 +305,6 @@
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>MP</src>
 <t-connectors.rf>
 <LM>T-wsj1498-001-p1s1a4</LM>

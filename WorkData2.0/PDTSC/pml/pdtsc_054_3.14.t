@@ -230,7 +230,6 @@
          <target_range>0</target_range>
          <discourse_type>cond</discourse_type>
          <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-         <comment>PHASE:3 RETYPED preced->cond</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#ak_140.14-SCzechA-m-d1t2405-1</LM>
@@ -382,7 +381,6 @@
          <target_range>0</target_range>
          <discourse_type>purp</discourse_type>
          <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#ak_140.14-SCzechA-m-d1t2407-1</LM>

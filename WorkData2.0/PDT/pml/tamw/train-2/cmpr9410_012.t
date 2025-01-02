@@ -672,11 +672,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>zvláštní CONJ  -platí něco, 
-a když se na to podíváme jinak, 
-platí stejně tak něco jiného
-
-v TR není vidět závorka</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a-cmpr9410-012-p4s1w26</LM>
@@ -2782,9 +2777,6 @@ v TR není vidět závorka</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>z kontextu není
-zcela zřejmé, zda
-se nejedná o OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-012-p7s3w3</LM>
@@ -3247,8 +3239,6 @@ se nejedná o OPP</comment>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
-<discourse_comment>před a je čárka, přesto je CONJ
-sémanticky přesnější interpretace</discourse_comment>
 <children>
 <LM id="t-cmpr9410-012-p8s2w8">
 <a>

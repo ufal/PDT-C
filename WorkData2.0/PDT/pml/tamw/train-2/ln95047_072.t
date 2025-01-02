@@ -3737,7 +3737,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-072-p6s1w23</LM>

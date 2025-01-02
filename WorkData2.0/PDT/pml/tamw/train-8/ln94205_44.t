@@ -1422,7 +1422,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->přesto že</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-44-p2s4w1</LM>
@@ -2015,7 +2014,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94205-44-p2s5w28">

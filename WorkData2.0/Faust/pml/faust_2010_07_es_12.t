@@ -913,7 +913,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_12-SCzechT-p1212-s1-w12</LM>
@@ -3676,7 +3675,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_12-SCzechA-p1257-s1-w7</LM>
@@ -3818,7 +3816,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_12-SCzechA-p1257-s1-w15</LM>
@@ -4712,7 +4709,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_12-SCzechT-p1263-s1-w28</LM>
@@ -4850,7 +4846,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_12-SCzechT-p1263-s1-roota5</LM>
@@ -5232,7 +5227,6 @@
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->i když; RETYPED conc->restr</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_12-SCzechA-p1265-s1-w15</LM>
@@ -5561,7 +5555,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_12-SCzechT-p1265-s1-w39</LM>
@@ -6032,7 +6025,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_12-SCzechT-p1276-s1-w10</LM>
@@ -6142,7 +6134,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg1-as-cond</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->cond; MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_12-SCzechT-p1276-s1-w22</LM>
@@ -6757,7 +6748,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_12-SCzechA-p1286-s1-w3</LM>

@@ -235,7 +235,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>hs_116.00-SCzechT-m-d1t20-6</LM>
@@ -420,7 +419,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>hs_116.00-SCzechT-m-d1t24-7</LM>
@@ -471,7 +469,6 @@
            <target_range>0</target_range>
            <discourse_type>reason</discourse_type>
            <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-           <comment>PHASE:3 RETYPED purp->reason</comment>
            <src>A_V_A</src>
            <a-connectors.rf>
             <LM>a#hs_116.00-SCzechA-m-d1t24-11</LM>
@@ -555,7 +552,6 @@
        <target_range>0</target_range>
        <discourse_type>preced</discourse_type>
        <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-       <comment>PHASE:2 MANUAL</comment>
        <src>A_V_A</src>
        <a-connectors.rf>
         <LM>a#hs_116.00-SCzechA-m-d1t28-2</LM>
@@ -1307,7 +1303,6 @@
          <target_range>0</target_range>
          <discourse_type>preced</discourse_type>
          <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-         <comment>PHASE:3 TYPECHECKED</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#hs_116.00-SCzechA-m-d1t63-6</LM>
@@ -1472,7 +1467,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>hs_116.00-SCzechT-m-d1t65-10</LM>
@@ -1993,7 +1987,6 @@
        <target_range>0</target_range>
        <discourse_type>preced</discourse_type>
        <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-       <comment>PHASE:2 MANUAL; RESTARTED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>hs_116.00-SCzechT-m-d1t89-3</LM>
@@ -2674,7 +2667,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>hs_116.00-SCzechT-m-d1t95-15</LM>
@@ -3001,7 +2993,6 @@
        <target_range>0</target_range>
        <discourse_type>synchr</discourse_type>
        <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-       <comment>PHASE:3 RETYPED preced->synchr</comment>
        <src>A_V_A</src>
        <a-connectors.rf>
         <LM>a#hs_116.00-SCzechA-m-d1t105-5</LM>
@@ -3392,7 +3383,6 @@
        <target_range>0</target_range>
        <discourse_type>spec</discourse_type>
        <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-       <comment>PHASE:3 RETYPED corr->spec</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>hs_116.00-SCzechT-m-d1t119-13</LM>
@@ -4280,7 +4270,6 @@
          <target_range>0</target_range>
          <discourse_type>opp</discourse_type>
          <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>hs_116.00-SCzechT-m-d1t139-1</LM>
@@ -5113,7 +5102,6 @@
            <target_range>0</target_range>
            <discourse_type>cond</discourse_type>
            <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-           <comment>PHASE:2 CONN_CHANGE tehdy když->jenom tehdy když</comment>
            <src>A_V_A</src>
            <a-connectors.rf>
             <LM>a#hs_116.00-SCzechA-m-d1t165-4</LM>
@@ -7192,7 +7180,6 @@
        <target_range>0</target_range>
        <discourse_type>conj</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:2 MANUAL</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>hs_116.00-SCzechT-m-d1t234-1</LM>

@@ -35,12 +35,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>adept na seznam, 
-není jasná velikost
-položek, ani jestli
-to celé patří
-dohromady
-</discourse_comment>
 <children>
 <LM id="t-ln95048-072-p1s1w2">
 <a>

@@ -353,7 +353,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>PHASE:3 TYPECHECKED; NO-INTRA-PDTB</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj1476-001-p1s1W3-Ta</LM>
@@ -918,7 +917,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 NO-INTRA-PDTB</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj1476-001-p1s3W19-Ta</LM>

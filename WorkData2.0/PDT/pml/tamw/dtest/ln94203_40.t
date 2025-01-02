@@ -3140,7 +3140,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor+secondary</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-40-p4s1w15</LM>

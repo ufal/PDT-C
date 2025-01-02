@@ -4670,7 +4670,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<discourse_comment>retoricka otazka</discourse_comment>
 </LM>
 <LM id="t-ln94207-92-p5s2w18">
 <a>
@@ -6407,7 +6406,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>recnicka otazka</discourse_comment>
 </LM>
 <LM id="t-ln94207-92-p7s2a0">
 <nodetype>complex</nodetype>
@@ -6497,7 +6495,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-92-p7s3w1">
 <a>
@@ -7143,7 +7140,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-92-p7s5w4">
 <a>
@@ -18669,7 +18665,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-92-p23s4w3</LM>

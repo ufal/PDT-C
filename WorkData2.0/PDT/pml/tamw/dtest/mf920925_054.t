@@ -123,9 +123,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse_comment>wrongTR  -spatna segmentace 
-textu (3+4 maji byt 
-dohromady)</discourse_comment>
 <val_frame.rf>v#v41obaA</val_frame.rf>
 <children>
 <LM id="t-mf920925-054-p2s2w3">

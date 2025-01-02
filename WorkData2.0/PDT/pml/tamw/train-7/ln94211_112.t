@@ -4564,7 +4564,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-112-p6s2a1">
 <nodetype>complex</nodetype>

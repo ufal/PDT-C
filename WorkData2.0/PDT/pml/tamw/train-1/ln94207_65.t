@@ -162,7 +162,6 @@
 <tfa>f</tfa>
 <deepord>8</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR spatna segmentace textu</discourse_comment>
 <val_frame.rf>v#v41kejB</val_frame.rf>
 <children>
 <LM id="t-ln94207-65-p2s1Aw17">
@@ -7103,7 +7102,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-65-p8s4Bw5">
 <a>
@@ -10060,7 +10058,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-65-p11s4Ba0">
 <nodetype>complex</nodetype>
@@ -13173,7 +13170,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-65-p14s3Aw3">
 <a>

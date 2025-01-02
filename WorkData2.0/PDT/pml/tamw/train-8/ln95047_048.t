@@ -2911,7 +2911,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary další</discourse_comment>
 </LM>
 </children>
 </LM>

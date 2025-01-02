@@ -2268,7 +2268,6 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-60-p3s1w8">
 <a>
@@ -4019,7 +4018,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94208-60-p4s5w4">
 <a>
@@ -8087,9 +8085,6 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
-<discourse_comment>APPS syntakticky
-ztvárněná jako běžná
-koordinační struktura</discourse_comment>
 <children>
 <LM id="t-ln94208-60-p5s6w3">
 <a>
@@ -8869,8 +8864,6 @@ koordinační struktura</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>29</deepord>
-<discourse_comment>pouze specifikace NP, 
-proto neanotováno</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94208-60-p6s1w28">
@@ -12983,7 +12976,6 @@ proto neanotováno</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94208-60-p8s1w1">
@@ -13586,7 +13578,6 @@ proto neanotováno</discourse_comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>implicitní  -a je to pochopitelné</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-60-p8s3w4</LM>

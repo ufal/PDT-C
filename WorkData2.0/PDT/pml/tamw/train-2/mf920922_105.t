@@ -1541,8 +1541,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg
-prázdné</discourse_comment>
 </LM>
 <LM id="t-mf920922-105-p2s8a2">
 <nodetype>complex</nodetype>
@@ -4265,9 +4263,6 @@ prázdné</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem i
-váhání, jestli tu vůbec 
-má diskurzní šipka být</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s20w1</LM>
@@ -4885,7 +4880,6 @@ má diskurzní šipka být</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-mf920922-105-p2s22w5">
@@ -4980,7 +4974,6 @@ má diskurzní šipka být</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>paragraph</discourse_comment>
 </LM>
 <LM id="t-mf920922-105-p2s23Aw2">
 <a>
@@ -6159,8 +6152,6 @@ má diskurzní šipka být</comment>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3>
-<comment>přikloníme-li se k této interpretaci, 
-je tu wrongTR</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-105-p2s25w7</LM>

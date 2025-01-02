@@ -20406,7 +20406,6 @@
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Substitution.Arg2-as-subst</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED opp->corr; CONN_CHANGE ale->#Neg ~ ale</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-067-p26s6a2</LM>
@@ -23879,7 +23878,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>parcelace, neanotováno</discourse_comment>
 <val_frame.rf>v#v41qaiA</val_frame.rf>
 <children>
 <LM id="t-ln95048-067-p28s9a1">
@@ -26709,7 +26707,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-067-p30s7a1">
 <nodetype>qcomplex</nodetype>

@@ -1811,7 +1811,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>dvojí značení časovosti: "pak" + "následovat"; vztah preced značen u "následovat"</discourse_comment>
 </LM>
 <LM id="t-ln95046-019-p3s3w3">
 <a>
@@ -2052,7 +2051,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41acrA</val_frame.rf>
 <children>
 <LM id="t-ln95046-019-p3s3w16">

@@ -6152,7 +6152,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-050-p13s4w5">
 <a>
@@ -12842,7 +12841,6 @@
 <target_range>-3</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-050-p23s8w7</LM>
@@ -16459,7 +16457,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-050-p29s1w3">
 <a>

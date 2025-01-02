@@ -2712,7 +2712,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-9-p6s1w3</LM>
@@ -2837,7 +2836,6 @@
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->a to</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94210-9-p6s1w7</LM>

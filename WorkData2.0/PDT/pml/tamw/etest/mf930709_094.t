@@ -5341,7 +5341,6 @@
 <target_range>4</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>nebo se dál dá číst jako "trvají stále na svém", potom bez anotace</comment>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-mf930709-094-p2s15w3</LM>

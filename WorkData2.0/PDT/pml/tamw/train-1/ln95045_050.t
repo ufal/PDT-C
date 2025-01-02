@@ -2198,11 +2198,6 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>6</deepord>
-<discourse_comment>adept na seznam,
-hypertéma zde, 
-3 položky 
-v dalších 3 
-stromech</discourse_comment>
 <children>
 <LM id="t-ln95045-050-p3s4a0">
 <nodetype>complex</nodetype>

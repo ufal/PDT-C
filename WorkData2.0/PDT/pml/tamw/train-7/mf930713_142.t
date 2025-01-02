@@ -3116,7 +3116,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>arg1 je mírně implicitní</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-142-p7s2w6</LM>

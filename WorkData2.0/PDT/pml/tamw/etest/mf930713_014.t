@@ -1618,7 +1618,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE však-> -~ však</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-014-p2s5w25</LM>

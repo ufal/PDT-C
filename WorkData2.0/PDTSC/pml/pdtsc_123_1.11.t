@@ -809,7 +809,6 @@
              <target_range>0</target_range>
              <discourse_type>conjalt</discourse_type>
              <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-             <comment>PHASE:3 RETYPED disjalt->conjalt</comment>
              <src>A_H_A</src>
              <t-connectors.rf>
               <LM>ml_118.11-SCzechT-m-d1t2093-7</LM>
@@ -1064,7 +1063,6 @@
          <target_range>0</target_range>
          <discourse_type>opp</discourse_type>
          <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_118.11-SCzechT-m-d1t2095-1</LM>

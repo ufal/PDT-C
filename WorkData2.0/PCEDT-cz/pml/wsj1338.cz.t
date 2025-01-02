@@ -534,7 +534,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 ONLY_INTER_PDTB_EXPLICIT</comment>
 <src>PDTB3</src>
 <a-connectors.rf>
 <LM>a#a-wsj1338-001-p1s1W16-Ta</LM>
@@ -784,7 +783,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 ONLY_INTER_PDTB_EXPLICIT</comment>
 <src>PDTB3</src>
 <a-connectors.rf>
 <LM>a#a-wsj1338-001-p1s2W7-Ta</LM>
@@ -1030,7 +1028,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 TYPECHECKED; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj1338-001-p1s2a22</LM>
@@ -2044,7 +2041,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 TYPECHECKED-AUTO; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj1338-001-p1s6a7</LM>

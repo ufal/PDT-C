@@ -7645,9 +7645,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>nejsem si jista presnym 
-rozsahem argumentu A1 
-(u vztahu CONJ)</discourse_comment>
 <val_frame.rf>v#v41ncrD</val_frame.rf>
 <children>
 <LM id="t-mf930713-141-p2s26w9">

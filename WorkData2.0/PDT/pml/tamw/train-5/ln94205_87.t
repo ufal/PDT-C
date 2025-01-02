@@ -767,7 +767,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>28</deepord>
-<discourse_comment>wrongTR? nema byt odkaz na "bude"?</discourse_comment>
 <val_frame.rf>v#v41isjA</val_frame.rf>
 </LM>
 </children>
@@ -4481,7 +4480,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41fmtI</val_frame.rf>
 <children>
 <LM id="t-ln94205-87-p4s1w7">
@@ -6835,7 +6833,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrontTR  -nema tento uzel odkazovat take na "být"?</discourse_comment>
 <val_frame.rf>v#v41gncE</val_frame.rf>
 <children>
 <LM id="t-ln94205-87-p5s3a6">
@@ -8592,7 +8589,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41amaB</val_frame.rf>
 <children>
 <LM id="t-ln94205-87-p6s1a1">
@@ -10184,7 +10180,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>15</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94205-87-p6s7w4">
 <a>

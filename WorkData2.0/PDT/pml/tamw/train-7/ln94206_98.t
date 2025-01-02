@@ -4064,9 +4064,6 @@
 <tfa>f</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>restr</secondary_NP_type>
-<discourse_comment>mohlo by ale být 
-vnímáno i jako vztah 
-mezi dvěma NP</discourse_comment>
 <children>
 <LM id="t-ln94206-98-p3s8w6">
 <a>
@@ -4686,7 +4683,6 @@ mezi dvěma NP</discourse_comment>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED conj->reason; CONN_CHANGE a->a tak</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-98-p4s1w14</LM>

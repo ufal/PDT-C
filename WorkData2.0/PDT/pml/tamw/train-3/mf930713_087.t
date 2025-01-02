@@ -1344,8 +1344,6 @@
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>možné i jen mezi 
-slovy pokles a zrušit</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-087-p3s4w2</LM>
@@ -2184,7 +2182,6 @@ slovy pokles a zrušit</comment>
 <discourse_type>f_opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Concession.Arg2-as-denier</sense_PDTB3_manual>
-<comment>moc velká míra inference na opp</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-087-p4s2w2</LM>

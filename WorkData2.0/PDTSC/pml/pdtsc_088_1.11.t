@@ -99,7 +99,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>lk_023.11-SCzechT-m-d1e3724-x2-522</LM>
@@ -192,7 +191,6 @@
            <target_range>0</target_range>
            <discourse_type>synchr</discourse_type>
            <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-           <comment>PHASE:2 RETARGETED; RETYPED preced->synchr</comment>
            <src>A_V_A</src>
            <a-connectors.rf>
             <LM>a#lk_023.11-SCzechA-m-d1t3731-10</LM>
@@ -310,7 +308,6 @@
        <target_range>0</target_range>
        <discourse_type>preced</discourse_type>
        <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-       <comment>PHASE:3 TYPECHECKED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>lk_023.11-SCzechT-m-d1t3740-2</LM>
@@ -459,7 +456,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>lk_023.11-SCzechT-m-524-528</LM>
@@ -726,7 +722,6 @@
          <target_range>group</target_range>
          <discourse_type>gener</discourse_type>
          <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-         <comment>PHASE:3 RETYPED reason->gener; RETARGETED</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>lk_023.11-SCzechT-lk_023-527-roota1</LM>

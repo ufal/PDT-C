@@ -1627,7 +1627,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-033-p5s3w4</LM>
@@ -1849,7 +1848,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem ani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-033-p5s4w1</LM>
@@ -3230,12 +3228,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>bez řídící klauze v 16
-by se jednalo o dvojici 
-konektorů jestliže  -pak,
-kterou nepovažujeme za diskurzní,
-takto ale možno anotovat 
-jako časový vztah</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-033-p8s4w1</LM>
@@ -5080,8 +5072,6 @@ jako časový vztah</comment>
 <target_range>2</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>konektor lze pojímat 
-jako paragraph</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-033-p11s1w3</LM>

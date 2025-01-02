@@ -892,7 +892,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-lnd94103-058-p1s1Cw7</target_node.rf>
@@ -2000,7 +1999,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-058-p1s7w3</LM>

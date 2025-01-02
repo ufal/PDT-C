@@ -3761,11 +3761,6 @@
 <t_lemma>ani</t_lemma>
 <functor>CM</functor>
 <deepord>12</deepord>
-<discourse_comment>wrongTR, to
-je RHEM,
-má viset níž
-na dokopírovaném
-představovat</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-018-p7s4w15">
 <a>
@@ -5294,7 +5289,6 @@ představovat</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE proto že->do jisté míry proto že; RETARGETED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-018-p9s4w12</LM>

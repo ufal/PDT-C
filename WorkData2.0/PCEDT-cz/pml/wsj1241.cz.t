@@ -1092,7 +1092,6 @@
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <sense1B_PDTB3>Comparison.Contrast</sense1B_PDTB3>
-<comment>PHASE:3 TYPECHECKED-AUTO; INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj1241-001-p1s2W22-Ta</LM>
@@ -1695,7 +1694,6 @@
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <sense1B_PDTB3>Comparison.Contrast</sense1B_PDTB3>
-<comment>PHASE:3 TYPECHECKED-AUTO; INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj1241-001-p1s4W20-Ta</LM>

@@ -4377,7 +4377,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-42-p7s3w28</LM>
@@ -5698,7 +5697,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-42-p8s2w11</LM>
@@ -6420,7 +6418,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>secondary  -zretel</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94200-42-p8s2w10">

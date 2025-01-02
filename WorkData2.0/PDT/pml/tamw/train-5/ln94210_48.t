@@ -1066,7 +1066,6 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<discourse_comment>vztah NP a VP</discourse_comment>
 </LM>
 <LM id="t-ln94210-48-p3s2w15">
 <a>

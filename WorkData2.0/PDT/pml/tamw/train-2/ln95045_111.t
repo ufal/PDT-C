@@ -3905,7 +3905,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary mezi nimi</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95045-111-p4s6w15</target_node.rf>

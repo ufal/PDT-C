@@ -1937,8 +1937,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC,
-MANN</discourse_comment>
 </LM>
 <LM id="t-ln94210-122-p2s5w2">
 <a>
@@ -2136,9 +2134,6 @@ MANN</discourse_comment>
 <functor>CONJ</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>15</deepord>
-<discourse_comment>wrongTR?,
-nechybí tu elipsa
-kvuli tomu predtim?</discourse_comment>
 <children>
 <LM id="t-ln94210-122-p2s5w19">
 <a>
@@ -5894,7 +5889,6 @@ kvuli tomu predtim?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->:</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-122-p4s5w10</LM>
@@ -7333,12 +7327,6 @@ kvuli tomu predtim?</discourse_comment>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>9</deepord>
-<discourse_comment>wrongTR?,
-nestalo by
-za to anotovat
-tu strukturu 
-s vedlejší časovou
-větou?</discourse_comment>
 <children>
 <LM id="t-ln94210-122-p4s10w4">
 <a>
@@ -9161,7 +9149,6 @@ větou?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-122-p4s12w22</LM>

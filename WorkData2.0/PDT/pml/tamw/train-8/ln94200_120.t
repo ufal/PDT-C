@@ -1953,7 +1953,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94200-120-p3s3w5">
 <a>

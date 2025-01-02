@@ -41,7 +41,6 @@
        <target_range>0</target_range>
        <discourse_type>preced</discourse_type>
        <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-       <comment>PHASE:3 TYPECHECKED; JM: patří k něčemu v předchozím souboru, ale s přihlédnutím oka...</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml_142.01-SCzechT-m-d1t141-5</LM>
@@ -789,7 +788,6 @@
          <discourse_type>restr</discourse_type>
          <sense_PDTB3>Expansion.Exception.Arg1-as-excpt</sense_PDTB3>
          <sense_PDTB3_manual>Expansion.Exception.Arg1-as-excpt</sense_PDTB3_manual>
-         <comment>PHASE:3 RETYPED opp->restr; CONN_CHANGE ale->ale jinak</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_142.01-SCzechT-m-d1t147-11</LM>
@@ -1075,7 +1073,6 @@
        <target_range>0</target_range>
        <discourse_type>preced</discourse_type>
        <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-       <comment>PHASE:2 MANUAL</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml_142.01-SCzechT-m-d1t147-25</LM>
@@ -1210,7 +1207,6 @@
        <target_range>0</target_range>
        <discourse_type>conj</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:3 RETYPED preced->conj</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml_142.01-SCzechT-m-d1t149-2</LM>
@@ -3142,7 +3138,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_142.01-SCzechT-m-d1t193-6</LM>
@@ -3560,7 +3555,6 @@
            <target_range>0</target_range>
            <discourse_type>disjalt</discourse_type>
            <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-           <comment>PHASE:2 MANUAL</comment>
            <src>A_H_A</src>
            <t-connectors.rf>
             <LM>ml_142.01-SCzechT-m-d1t197-9</LM>
@@ -5778,7 +5772,6 @@
          <target_range>0</target_range>
          <discourse_type>preced</discourse_type>
          <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-         <comment>PHASE:3 TYPECHECKED</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_142.01-SCzechT-m-d1t250-5</LM>
@@ -6193,7 +6186,6 @@
          <target_range>0</target_range>
          <discourse_type>preced</discourse_type>
          <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-         <comment>PHASE:3 RETYPED cond->preced</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#ml_142.01-SCzechA-m-d1t256-2</LM>

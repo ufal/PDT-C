@@ -1297,7 +1297,6 @@
 </t-connectors_ext.rf>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-ln94202-137-p3s1a4">

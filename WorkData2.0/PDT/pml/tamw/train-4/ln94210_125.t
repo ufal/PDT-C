@@ -1035,7 +1035,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem např.</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-125-p2s3w18</LM>
@@ -1202,8 +1201,6 @@
 <target_range>2</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>není jasný rozsah 
-start_range</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-125-p2s4w8</LM>

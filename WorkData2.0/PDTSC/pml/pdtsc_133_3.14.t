@@ -1100,7 +1100,6 @@
          <target_range>0</target_range>
          <discourse_type>preced</discourse_type>
          <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-         <comment>PHASE:3 RETYPED conj->preced; CONN_CHANGE a->a před tím</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_056.14-SCzechT-m-d1t3840-4</LM>
@@ -2877,7 +2876,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_056.14-SCzechT-m-799-812</LM>
@@ -3565,7 +3563,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_056.14-SCzechT-m-d1t4017-16</LM>
@@ -4710,7 +4707,6 @@
          <discourse_type>f_reason</discourse_type>
          <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
          <sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
-         <comment>PHASE:3 RETYPED reason->f_reason</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_056.14-SCzechT-m-d1t4060-22</LM>

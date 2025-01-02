@@ -624,9 +624,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle
-me je to vztah NP (na pripravnem utkani) a vety 
-(kdy navic hrozil poradny lijak)</discourse_comment>
 </LM>
 <LM id="t-ln94208-127-p2s2w7">
 <a>
@@ -4123,8 +4120,6 @@ me je to vztah NP (na pripravnem utkani) a vety
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>mohlo by se brat 
-i jako NP</discourse_comment>
 <val_frame.rf>v#v41qfcA</val_frame.rf>
 <children>
 <LM id="t-ln94208-127-p4s5w10">

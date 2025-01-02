@@ -202,7 +202,6 @@
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>PS</src>
 <a-connectors.rf>
 <LM>a#a-wsj2215-001-p1s1W10-Ta</LM>
@@ -609,7 +608,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 NO-INTRA-PDTB</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2215-001-p1s4W9-Ta</LM>

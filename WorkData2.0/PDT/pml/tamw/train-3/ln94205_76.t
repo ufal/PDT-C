@@ -2466,7 +2466,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-76-p3s6w11</LM>
@@ -2705,7 +2704,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<discourse_comment>secondary  -zretel</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-76-p3s5w26</target_node.rf>
@@ -3783,7 +3781,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94205-76-p4s5w11">
@@ -4850,7 +4847,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-76-p4s8w2</LM>

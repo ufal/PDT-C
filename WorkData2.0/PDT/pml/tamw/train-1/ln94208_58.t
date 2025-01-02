@@ -3966,10 +3966,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>adept na seznam,
-hypertéma zde,
-možné položky 15
-a 24</discourse_comment>
 <val_frame.rf>v#v41chlO</val_frame.rf>
 <children>
 <LM id="t-ln94208-58-p6s1w1">
@@ -7811,8 +7807,6 @@ a 24</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>sporné, zda nejde
-jen o vztah NP a VP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-58-p8s2w17</LM>
@@ -8055,7 +8049,6 @@ jen o vztah NP a VP</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>vztah k infinitivu podat</discourse_comment>
 </LM>
 <LM id="t-ln94208-58-p8s3w14">
 <a>
@@ -8547,7 +8540,6 @@ jen o vztah NP a VP</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-ln94208-58-p9s2w7">
@@ -11199,7 +11191,6 @@ jen o vztah NP a VP</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-58-p10s3w3</LM>

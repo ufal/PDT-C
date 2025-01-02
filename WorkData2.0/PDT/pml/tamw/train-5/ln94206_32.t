@@ -6337,9 +6337,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>vzhledem ke kontextu
-lze interpretovat
-i jako gener</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-32-p8s2w1</LM>
@@ -6892,7 +6889,6 @@ i jako gener</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse_comment>wrongTR? má být AIM?</discourse_comment>
 <val_frame.rf>v#v41rkeA</val_frame.rf>
 <children>
 <LM id="t-ln94206-32-p8s2w12">

@@ -129,7 +129,6 @@
          <target_range>0</target_range>
          <discourse_type>cond</discourse_type>
          <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#jg_063.02-SCzechA-m-d1t752-9</LM>
@@ -957,7 +956,6 @@
          <target_range>0</target_range>
          <discourse_type>reason</discourse_type>
          <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#jg_063.02-SCzechA-m-d1t787-6</LM>
@@ -1722,7 +1720,6 @@
          <target_range>0</target_range>
          <discourse_type>confr</discourse_type>
          <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-         <comment>PHASE:3 RETYPED opp->confr</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>jg_063.02-SCzechT-m-d1t828-10</LM>
@@ -2119,7 +2116,6 @@
        <target_range>0</target_range>
        <discourse_type>preced</discourse_type>
        <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-       <comment>PHASE:2 MANUAL; RETARGETED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>jg_063.02-SCzechT-m-d1t878-1</LM>
@@ -2307,7 +2303,6 @@
          <target_range>0</target_range>
          <discourse_type>conjalt</discourse_type>
          <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-         <comment>PHASE:3 RETYPED disjalt->conjalt</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>jg_063.02-SCzechT-m-d1t878-8</LM>
@@ -2399,7 +2394,6 @@
            <target_range>0</target_range>
            <discourse_type>conj</discourse_type>
            <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-           <comment>PHASE:1</comment>
            <src>A_H_A</src>
            <t-connectors.rf>
             <LM>jg_063.02-SCzechT-m-d1t878-13</LM>
@@ -2959,7 +2953,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>jg_063.02-SCzechT-m-d1t899-1</LM>
@@ -4131,7 +4124,6 @@
          <target_range>0</target_range>
          <discourse_type>reason</discourse_type>
          <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#jg_063.02-SCzechA-m-d1t959-1</LM>
@@ -4246,7 +4238,6 @@
          <target_range>0</target_range>
          <discourse_type>preced</discourse_type>
          <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-         <comment>PHASE:2 MANUAL; RESTARTED</comment>
          <src>A_I_A</src>
          <t-connectors.rf>
           <LM>jg_063.02-SCzechT-m-d1t990-2</LM>
@@ -4842,7 +4833,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>jg_063.02-SCzechT-m-d-id82515-punct</LM>
@@ -4884,7 +4874,6 @@
        <target_range>0</target_range>
        <discourse_type>f_cond</discourse_type>
        <sense_PDTB3>Contingency.Condition+SpeechAct</sense_PDTB3>
-       <comment>PHASE:3 RETYPED preced->f_cond</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>jg_063.02-SCzechT-m-d1t1016-4</LM>

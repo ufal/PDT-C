@@ -194,9 +194,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>wrongTR?,
-proč to není schované
-u slovesa?</discourse_comment>
 </LM>
 <LM id="t-ln95049-114-p2s1a1">
 <nodetype>complex</nodetype>

@@ -2923,8 +2923,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse_comment>chybi mi tu ten prvni argument, 
-z ceho dosli k tomu zaveru</discourse_comment>
 <children>
 <LM id="t-mf930709-068-p5s1w18">
 <a>
@@ -2955,7 +2953,6 @@ z ceho dosli k tomu zaveru</discourse_comment>
 <target_range>backward</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-068-p5s1w11</LM>

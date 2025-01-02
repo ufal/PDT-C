@@ -3529,7 +3529,6 @@
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>PHASE:3 RETYPED spec->equiv</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_01-SCzechT-p0051-s1-w14</LM>
@@ -3595,7 +3594,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_01-SCzechT-p0051-s1-w20</LM>
@@ -4609,7 +4607,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->confr</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_01-SCzechT-p0068-s1-w9</LM>
@@ -4772,7 +4769,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->confr</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_01-SCzechT-p0068-s1-w19</LM>
@@ -6115,7 +6111,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->jen když; MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_mu_01-SCzechA-p0092-s1-w26</LM>

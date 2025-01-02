@@ -1303,9 +1303,6 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR?,
-špatně segmentovaný
-text</discourse_comment>
 <children>
 <LM id="t-lnd94103-114-p1s8w1">
 <a>
@@ -1357,9 +1354,6 @@ text</discourse_comment>
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR?,
-špatně segmentovaný
-text</discourse_comment>
 <children>
 <LM id="t-lnd94103-114-p1s9w1">
 <a>
@@ -1426,9 +1420,6 @@ text</discourse_comment>
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR?,
-špatně segmentovaný
-text</discourse_comment>
 <children>
 <LM id="t-lnd94103-114-p1s10w1">
 <a>
@@ -1502,9 +1493,6 @@ text</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR?,
-špatně segmentovaný
-text</discourse_comment>
 </LM>
 </children>
 </LM>

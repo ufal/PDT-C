@@ -1549,8 +1549,6 @@
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>široké vyplývání,
-zde nejblíže EQUIV</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-13-p3s1w2</LM>
@@ -4524,7 +4522,6 @@ zde nejblíže EQUIV</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-13-p3s10w19</LM>
@@ -10943,7 +10940,6 @@ zde nejblíže EQUIV</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94202-13-p8s2w1</LM>
@@ -11225,8 +11221,6 @@ zde nejblíže EQUIV</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>součást konektoru 
-pokud  -pak, ne PREC</discourse_comment>
 </LM>
 <LM id="t-ln94202-13-p8s3w3">
 <a>

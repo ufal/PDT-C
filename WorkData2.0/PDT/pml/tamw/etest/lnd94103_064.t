@@ -4606,12 +4606,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<discourse_comment>pripadalo by v uvahu anotovat spec mezi casti
-tohoto stromu pred dvojteckou a druhou casti 
-stromu+nekolika dalsimi stromy. Neanotuju ale nic,
-protoze se mi to jevi spis jako vztah NP ("dusledky
-takoveho dialogu pro mladou Ceskou republiku) a 
-vet.</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-064-p1s6Bw19">
@@ -5680,9 +5674,6 @@ vet.</discourse_comment>
 <target_range>2</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>vedu sipku k 12-14 a ne jenom k 14, protoze vyraz
-"v neposledni rade" podle me evokuje navaznost
-na vice drive zminenych faktu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-064-p1s10w3</LM>
@@ -6490,9 +6481,6 @@ na vice drive zminenych faktu</comment>
 <t_lemma>nicméně</t_lemma>
 <functor>ADVS</functor>
 <deepord>11</deepord>
-<discourse_comment>vztah ADVS je podle me mezi NP (dusledky takoveho
-kroku pro Ceskou republiku) a vetou (podstromem, 
-jehoz vrcholem je Colon)</discourse_comment>
 <children>
 <LM id="t-lnd94103-064-p1s11Bw6">
 <a>
@@ -14242,7 +14230,6 @@ jehoz vrcholem je Colon)</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>přechod k explicat</discourse_comment>
 <val_frame.rf>v#v41lioA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-064-p1s24w5">
@@ -14319,7 +14306,6 @@ jehoz vrcholem je Colon)</discourse_comment>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>16</deepord>
-<discourse_comment>wrongTR? nemelo by byt APPS?</discourse_comment>
 <children>
 <LM id="t-lnd94103-064-p1s24w11">
 <a>

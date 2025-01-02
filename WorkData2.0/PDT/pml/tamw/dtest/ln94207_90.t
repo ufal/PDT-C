@@ -1734,7 +1734,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE aby->tak aby</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-90-p2s2w32</LM>
@@ -5592,7 +5591,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p4s6w12">
 <a>
@@ -5943,7 +5941,6 @@
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->:</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94207-90-p4s7w11</LM>
@@ -7659,8 +7656,6 @@
 <t_lemma>buď_nebo</t_lemma>
 <functor>DISJ</functor>
 <deepord>64</deepord>
-<discourse_comment>wrongTR? t-lemma je bud_nebo, ale v textu neni
-zadne nebo (to "aneb" uz visi jinde ve strome)</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p4s9a8">
 <nodetype>complex</nodetype>
@@ -9943,7 +9938,6 @@ zadne nebo (to "aneb" uz visi jinde ve strome)</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<discourse_comment>secondary? nedlouho předtím</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p5s6w9">
 <a>
@@ -13103,8 +13097,6 @@ zadne nebo (to "aneb" uz visi jinde ve strome)</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR? nema tento uzel odkazovat take na 
-"bychom"?</discourse_comment>
 <val_frame.rf>v#v41jclA</val_frame.rf>
 <children>
 <LM id="t-ln94207-90-p6s6w17">
@@ -13838,8 +13830,6 @@ zadne nebo (to "aneb" uz visi jinde ve strome)</discourse_comment>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>15</deepord>
-<discourse_comment>wrongTR? nemelo by v tomto strome byt jenom
-jedno "a" a na nem vsechny predikaty?</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p7s3w7">
 <a>
@@ -15750,8 +15740,6 @@ jedno "a" a na nem vsechny predikaty?</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
-to neni PREC</discourse_comment>
 </LM>
 <LM id="t-ln94207-90-p8s3Aa7">
 <nodetype>qcomplex</nodetype>
@@ -17729,8 +17717,6 @@ to neni PREC</discourse_comment>
 <t_lemma>kdežto</t_lemma>
 <functor>CONFR</functor>
 <deepord>6</deepord>
-<discourse_comment>wrongTR? proc jsou tady z nasledujici vety
-jenom tecky?</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p9s3Aw3">
 <a>
@@ -19345,7 +19331,6 @@ jenom tecky?</discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-90-p10s4w4">
 <a>
@@ -20073,7 +20058,6 @@ jenom tecky?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR? spatna segmentace? text konci strednikem</discourse_comment>
 <val_frame.rf>v#v41gmjA</val_frame.rf>
 <children>
 <LM id="t-ln94207-90-p10s7a0">

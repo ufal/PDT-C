@@ -4145,7 +4145,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>f kvůli implikaci  -není divu</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94210-107-p4s5w3</LM>
@@ -5541,9 +5540,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Comparison.Similarity</sense_PDTB3>
-<comment>lze uvažovat, že
-stejně tak připojuje 
-pouze NP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-107-p6s2w1</LM>
@@ -5837,9 +5833,6 @@ pouze NP</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>stejný případ,
-opět lze považovat
-pouze za připojení NP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-107-p6s3w1</LM>
@@ -6302,7 +6295,6 @@ pouze za připojení NP</comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3_manual>
-<comment>implikace  -je chvályhodné ukázat, že</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-107-p6s4w18</LM>

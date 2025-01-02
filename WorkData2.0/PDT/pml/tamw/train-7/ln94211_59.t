@@ -35,7 +35,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>metatext??</discourse_comment>
 </LM>
 </children>
 </LM>

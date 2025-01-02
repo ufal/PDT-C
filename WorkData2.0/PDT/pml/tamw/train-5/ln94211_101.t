@@ -2241,9 +2241,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>vztah NP  -
-to nejdůležitější 
-= projekt...</discourse_comment>
 </LM>
 <LM id="t-ln94211-101-p3s3a8">
 <nodetype>qcomplex</nodetype>
@@ -6396,7 +6393,6 @@ to nejdůležitější
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-101-p6s1w4">
 <a>

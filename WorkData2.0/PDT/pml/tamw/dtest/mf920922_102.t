@@ -4168,9 +4168,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
-<discourse_comment>
-naprosto netypický
-konektor CONJ</discourse_comment>
 <children>
 <LM id="t-mf920922-102-p6s5w18">
 <a>
@@ -4655,7 +4652,6 @@ konektor CONJ</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>konektor+secondary</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-102-p6s6w19</LM>
@@ -5605,7 +5601,6 @@ konektor CONJ</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-102-p6s13w3</LM>
@@ -7251,7 +7246,6 @@ konektor CONJ</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-102-p6s16w24</LM>
@@ -7458,7 +7452,6 @@ konektor CONJ</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>15</deepord>
-<discourse_comment>secondary  -zretel</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf920922-102-p6s16w14</target_node.rf>

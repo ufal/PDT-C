@@ -783,7 +783,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_mu_02-SCzechA-p0103-s1-w8</LM>
@@ -990,7 +989,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->spec</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_02-SCzechT-p0103-s1-w21</LM>
@@ -2566,7 +2564,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_02-SCzechT-p0116-s1-w15</LM>
@@ -3817,7 +3814,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->i přesto; RETYPED conc->opp; CONN_CHANGE ->i přesto</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_02-SCzechT-p0126-s1-w13</LM>
@@ -4712,7 +4708,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_02-SCzechT-p0141-s1-w18</LM>
@@ -6772,7 +6767,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_mu_02-SCzechA-p0167-s1-w16</LM>

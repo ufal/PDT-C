@@ -692,7 +692,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR? nema byt odkaz na "bude"?</discourse_comment>
 <val_frame.rf>v#v41xzA</val_frame.rf>
 <children>
 <LM id="t-ln94210-4-p3s1w28">

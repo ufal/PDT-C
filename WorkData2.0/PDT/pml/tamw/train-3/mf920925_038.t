@@ -72,8 +72,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse_comment>popisek fotky
-</discourse_comment>
 <val_frame.rf>v#v41dvcA</val_frame.rf>
 <children>
 <LM id="t-mf920925-038-p1s1w6">

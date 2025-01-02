@@ -99,7 +99,6 @@
 <discourse_type>f_cond</discourse_type>
 <sense_PDTB3>Contingency.Condition+SpeechAct</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Condition+SpeechAct</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED cond->f_cond; INTRA_AUTO_SAME-NODES-PDTB_NO-OTHER</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2401-001-p1s1W1-Ta</LM>
@@ -251,7 +250,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 NO-INTRA-PDTB</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2401-001-p1s1W17-Ta</LM>
@@ -264,7 +262,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_PDTB-STARTS-WHERE-AUTO-ENDS_NON-FINITE_SIMILAR-CONN</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2401-001-p1s1W26-Ta</LM>

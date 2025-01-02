@@ -122,8 +122,6 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR? 
-dvakrat stejny nadpis</discourse_comment>
 <children>
 <LM id="t-mf920925-024-p3s1w3">
 <a>

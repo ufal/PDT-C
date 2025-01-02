@@ -3587,7 +3587,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->protože</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-101-p4s6w1</LM>

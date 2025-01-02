@@ -55,7 +55,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>10</deepord>
-<discourse_comment>popisek fotky</discourse_comment>
 <val_frame.rf>v#v41cceA</val_frame.rf>
 <children>
 <LM id="t-ln94206-111-p1s1w9">

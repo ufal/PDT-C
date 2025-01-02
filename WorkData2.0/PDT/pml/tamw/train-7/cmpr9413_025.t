@@ -8040,7 +8040,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>příklad důvodu (implicitního)</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-025-p13s4w3</LM>
@@ -12220,8 +12219,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>rys COND, ale ta je 
-implicitní</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-025-p18s3w7</LM>
@@ -12880,8 +12877,6 @@ implicitní</comment>
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>nejspíš nějaký reklamní vtip 
-na konec článku</discourse_comment>
 </LM>
 </children>
 </LM>

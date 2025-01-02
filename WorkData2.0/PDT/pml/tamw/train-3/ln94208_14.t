@@ -1926,7 +1926,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94208-14-p4s2w1">
@@ -4642,7 +4641,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-14-p7s1w23</LM>
@@ -6127,7 +6125,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-14-p8s1w2</LM>
@@ -7136,7 +7133,6 @@
 <tfa>c</tfa>
 <deepord>7</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94208-14-p9s1w6">
 <a>

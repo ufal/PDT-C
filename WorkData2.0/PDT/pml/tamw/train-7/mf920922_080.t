@@ -64,7 +64,6 @@
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>second_rel CONFR zatimco</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-080-p1s1w1</LM>

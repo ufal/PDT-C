@@ -356,7 +356,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR? nemely by vety 3 a 4 byt jeden strom?</discourse_comment>
 <val_frame.rf>v#v41rrcA</val_frame.rf>
 <children>
 <LM id="t-ln94209-76-p2s2w3">
@@ -809,7 +808,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>18</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-76-p2s3a1">
 <nodetype>complex</nodetype>

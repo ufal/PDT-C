@@ -355,7 +355,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>široké vyplývání</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p4s2w2</LM>
@@ -973,9 +972,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>patří do věty,
-není PREC,
-nespojuje dve VP</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-022-p5s1w8">
 <a>
@@ -2787,9 +2783,6 @@ nespojuje dve VP</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem třeba,
-lze diskutovat o tom,
-zda nenapojuje jen NP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p11s1w2</LM>
@@ -3709,8 +3702,6 @@ zda nenapojuje jen NP</comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>adept na seznam v jedné
-větné struktuře, hypertéma (15)</discourse_comment>
 <children>
 <LM id="t-cmpr9413-022-p12s2w1">
 <a>
@@ -4956,9 +4947,6 @@ větné struktuře, hypertéma (15)</discourse_comment>
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>wrong TR,
-CONJ je už o patro výš,
-celé by to na ní mělo viset</discourse_comment>
 <val_frame.rf>v#v41kykA</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-022-p14s3w7">
@@ -5321,7 +5309,6 @@ celé by to na ní mělo viset</discourse_comment>
 <target_range>group</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>náznak REASON</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p14s3w16</LM>
@@ -6107,9 +6094,6 @@ celé by to na ní mělo viset</discourse_comment>
 <id>2</id>
 </LM>
 </discourse_groups>
-<discourse_comment>wrongTR
-celé by to mělo viset na coap 
-uzlu ale  -vztah CORR</discourse_comment>
 <val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-022-p16s3w2">
@@ -7138,9 +7122,6 @@ uzlu ale  -vztah CORR</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>nejistota o rozsahu 
-start_range, věcně
-textu nerozumím</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p18s4w1</LM>
@@ -10065,7 +10046,6 @@ textu nerozumím</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-022-p23s1a0">
 <nodetype>qcomplex</nodetype>
@@ -10651,7 +10631,6 @@ textu nerozumím</comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>slabá CONFR</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p24s2w2</LM>
@@ -12502,8 +12481,6 @@ textu nerozumím</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>wrongTR, 
-tohle je spíš RHEM</discourse_comment>
 <children>
 <LM id="t-cmpr9413-022-p27s1a1">
 <nodetype>qcomplex</nodetype>
@@ -14495,11 +14472,6 @@ tohle je spíš RHEM</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>je tam i EXEMPL,
-netypický vztah -
-do vztahu patří i ta novelizace, ale
-nemá žádný rozumný slovesný uzel, proto
-necháno takhle</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-022-p33s1w17</LM>
@@ -18548,8 +18520,6 @@ necháno takhle</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR?
-kde je ten citát</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -18586,9 +18556,6 @@ kde je ten citát</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR?
-tohle je bez tečky,
-zatoulaný nadpis?</discourse_comment>
 <val_frame.rf>v#v41iwzD</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-022-p41s1w1">

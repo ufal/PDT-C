@@ -2868,7 +2868,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>13</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94205-102-p4s1w12">
 <a>

@@ -1200,8 +1200,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR, chybná segmentace,
-zřetelně patří do předchozí věty</discourse_comment>
 <children>
 <LM id="t-ln94200-23-p3s2w2">
 <a>

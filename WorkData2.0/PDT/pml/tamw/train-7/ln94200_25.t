@@ -34,7 +34,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-ln94200-25-p1s1w2">
 <a>

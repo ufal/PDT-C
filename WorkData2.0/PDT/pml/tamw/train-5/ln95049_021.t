@@ -1056,8 +1056,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>podle mého to lze i
-neanotovat PJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-021-p2s4w3</LM>
@@ -1966,7 +1964,6 @@ neanotovat PJ</comment>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE a->a tak; RETYPED conj->reason</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-021-p2s6w12</LM>
@@ -2652,7 +2649,6 @@ neanotovat PJ</comment>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>second_rel CONFR zatimco</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-021-p2s7w30</LM>

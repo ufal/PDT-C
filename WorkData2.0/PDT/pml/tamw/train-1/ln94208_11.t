@@ -12378,7 +12378,6 @@
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE zároveň->a zároveň i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-11-p3s31w9</LM>
@@ -17643,7 +17642,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>second_rel PRECED jakmile</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-11-p5s11w2</LM>

@@ -3874,7 +3874,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
-<comment>PHASE:2 RETARGETED; CONN_CHANGE přesto->li ~ přesto</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-109-p6s3w3</LM>

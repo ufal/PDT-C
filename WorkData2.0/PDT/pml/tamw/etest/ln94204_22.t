@@ -1397,8 +1397,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>27</deepord>
-<discourse_comment>neznacim, jedna 
-se o MANN</discourse_comment>
 </LM>
 <LM id="t-ln94204-22-p3s1a3">
 <nodetype>qcomplex</nodetype>

@@ -1588,7 +1588,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>9</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95046-043-p3s3w2">
 <a>
@@ -4350,7 +4349,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln95046-043-p4s5w21">
 <a>
@@ -6010,7 +6008,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<discourse_comment>free compositional phrase, vztah otázka-odpověď</discourse_comment>
 <children>
 <LM id="t-ln95046-043-p5s4w5">
 <a>

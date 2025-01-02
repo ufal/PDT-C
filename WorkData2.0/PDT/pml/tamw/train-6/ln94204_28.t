@@ -3254,7 +3254,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>konektor+secondary</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94204-28-p5s3w12</LM>

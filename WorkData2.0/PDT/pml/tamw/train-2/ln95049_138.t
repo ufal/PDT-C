@@ -1262,7 +1262,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-138-p2s5w3</LM>
@@ -5452,11 +5451,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>34</deepord>
-<discourse_comment>wrongTR?,
-nemělo by tu být
-dokopírováno celé
-kritizován, že
-publikuje?</discourse_comment>
 <val_frame.rf>v#v41jdjB</val_frame.rf>
 <children>
 <LM id="t-ln95049-138-p4s3a7">

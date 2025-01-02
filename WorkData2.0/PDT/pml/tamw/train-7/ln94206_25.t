@@ -2576,16 +2576,12 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>vysvětlení příkladem,
-vysvětlení nemá konektor,
-proto anotována exempl</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p4s3w10</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>implicitni REASON/EXPLICAT</discourse_comment>
 <val_frame.rf>v#v41rtxA</val_frame.rf>
 <children>
 <LM id="t-ln94206-25-p4s3w8">
@@ -3750,9 +3746,6 @@ proto anotována exempl</comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>lze interpretovat 
-i jako vztah VP a NP
-</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-25-p6s3w17</LM>

@@ -2369,7 +2369,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-001-p9s1a0">
 <nodetype>complex</nodetype>
@@ -2545,7 +2544,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3_manual>IGNORE</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->:</comment>
 <src>PS</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-001-p9s1w12</LM>
@@ -2554,7 +2552,6 @@
 <LM>
 <type>list</type>
 <start_range>10</start_range>
-<comment>PHASE:2 CONN_CHANGE ->1</comment>
 <t-connectors.rf>
 <LM>t-cmpr9413-001-p10s1w1</LM>
 </t-connectors.rf>
@@ -2780,7 +2777,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41qbvA</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-001-p11s1w9">
@@ -7920,7 +7916,6 @@
 <target_node.rf>t-cmpr9413-001-p10s1w4</target_node.rf>
 <type>list</type>
 <start_range>8</start_range>
-<comment>PHASE:2 CONN_CHANGE ->2</comment>
 <t-connectors.rf>
 <LM>t-cmpr9413-001-p21s1w1</LM>
 </t-connectors.rf>
@@ -8373,7 +8368,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>secondary neplatí to v případě</discourse_comment>
 <val_frame.rf>v#v41fmtI</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-001-p23s1w8">

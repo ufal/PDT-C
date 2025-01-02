@@ -6852,7 +6852,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>stylistická neobratnost</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-73-p5s4w1</LM>
@@ -15666,7 +15665,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>21</deepord>
-<discourse_comment>divné užití</discourse_comment>
 </LM>
 <LM id="t-ln94207-73-p10s4w36">
 <a>
@@ -23348,7 +23346,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-73-p13s9w1</LM>
@@ -42427,7 +42424,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-73-p21s15a1">
 <a>

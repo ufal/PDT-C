@@ -215,8 +215,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>součást konektoru
-když tak</discourse_comment>
 </LM>
 <LM id="t-mf920922-057-p1s2a1">
 <a>
@@ -6071,7 +6069,6 @@ když tak</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>parcelace jedné struktury</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-057-p2s15Aw1</LM>
@@ -8360,8 +8357,6 @@ když tak</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>divná negace  -rekonstrukce významu:
-takže se schopní lidé mohou ztratit</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-057-p2s21Aw16</LM>

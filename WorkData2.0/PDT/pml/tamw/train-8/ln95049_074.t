@@ -712,8 +712,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<discourse_comment>není PREC, ale
-MEANS/MANN_PJ</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95049-074-p2s1Bw5</target_node.rf>

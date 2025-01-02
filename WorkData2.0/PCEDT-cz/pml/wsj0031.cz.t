@@ -731,7 +731,6 @@
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>PHASE:2 INTRA_AUTO_START-NODE-PDTB_COMPATIBLE-SENSE</comment>
 <src>A_V_A</src>
 <t-connectors.rf>
 <LM>T-wsj0031-001-p1s1a34</LM>

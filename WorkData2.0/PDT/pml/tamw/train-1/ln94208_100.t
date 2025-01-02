@@ -8709,8 +8709,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment> 
-</discourse_comment>
 </LM>
 <LM id="t-ln94208-100-p6s9w8">
 <a>

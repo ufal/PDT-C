@@ -266,7 +266,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>PHASE:3 RETYPED opp->corr</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_13-SCzechT-p1296-s1-w12</LM>
@@ -577,7 +576,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_13-SCzechT-p1300-s1-w17</LM>
@@ -4170,7 +4168,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_13-SCzechA-p1369-s1-w35</LM>
@@ -4425,7 +4422,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:3 RETYPED preced->reason</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_13-SCzechA-p1372-s1-w1</LM>
@@ -5850,7 +5846,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_13-SCzechT-p1390-s1-w11</LM>

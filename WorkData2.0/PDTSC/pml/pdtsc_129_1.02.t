@@ -290,7 +290,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_036.02-SCzechT-m-d1t491-13</LM>
@@ -504,7 +503,6 @@
        <discourse_type>f_reason</discourse_type>
        <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
        <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-       <comment>PHASE:3 RETYPED conj->f_reason</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml_036.02-SCzechT-m-d1t507-3</LM>
@@ -835,7 +833,6 @@
          <target_range>0</target_range>
          <discourse_type>reason</discourse_type>
          <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_036.02-SCzechT-m-d1t523-7</LM>
@@ -3866,7 +3863,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_036.02-SCzechT-m-d-id74565-punct</LM>
@@ -4384,7 +4380,6 @@
          <target_range>0</target_range>
          <discourse_type>opp</discourse_type>
          <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_036.02-SCzechT-m-d1t681-6</LM>

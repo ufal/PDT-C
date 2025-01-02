@@ -6199,7 +6199,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>konektor+secondary</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-56-p5s6w3</LM>

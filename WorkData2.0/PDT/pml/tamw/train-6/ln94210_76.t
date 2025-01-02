@@ -1312,7 +1312,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 <children>
 <LM id="t-ln94210-76-p2s3w7">
 <a>

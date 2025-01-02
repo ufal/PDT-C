@@ -1268,7 +1268,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>means  -tim zpusobem</discourse_comment>
 </LM>
 <LM id="t-ln95049-059-p4s2a0">
 <nodetype>qcomplex</nodetype>
@@ -5296,8 +5295,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<discourse_comment>opet silne koreferencni tak,
-tím zpusobem</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln95049-059-p7s4w5">

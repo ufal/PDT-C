@@ -137,7 +137,6 @@
          <target_range>0</target_range>
          <discourse_type>cond</discourse_type>
          <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#dk_103.11-SCzechA-m-d1t1621-2</LM>
@@ -549,7 +548,6 @@
          <target_range>0</target_range>
          <discourse_type>conjalt</discourse_type>
          <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-         <comment>PHASE:3 RETYPED disjalt->conjalt</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>dk_103.11-SCzechT-m-d1t1623-14</LM>
@@ -770,7 +768,6 @@
          <target_range>0</target_range>
          <discourse_type>cond</discourse_type>
          <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#dk_103.11-SCzechA-m-d1t1625-18</LM>
@@ -967,7 +964,6 @@
        <target_range>0</target_range>
        <discourse_type>preced</discourse_type>
        <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-       <comment>PHASE:2 CONN_CHANGE ->pak</comment>
        <src>JM</src>
        <t-connectors.rf>
         <LM>dk_103.11-SCzechT-m-d1t1635-7</LM>
@@ -1068,7 +1064,6 @@
        <target_range>0</target_range>
        <discourse_type>synchr</discourse_type>
        <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-       <comment>PHASE:3 RETYPED preced->synchr; CONN_CHANGE pak když->když</comment>
        <src>A_V_A</src>
        <a-connectors.rf>
         <LM>a#dk_103.11-SCzechA-m-d1t1635-15</LM>
@@ -1221,7 +1216,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>dk_103.11-SCzechT-m-d1t1635-12</LM>
@@ -1469,7 +1463,6 @@
          <discourse_type>restr</discourse_type>
          <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
          <sense_PDTB3_manual>Expansion.Exception.Arg2-as-excpt</sense_PDTB3_manual>
-         <comment>PHASE:2 CONN_CHANGE ne->jenom; RETYPED corr->restr; RESTARTED</comment>
          <src>A_I_A</src>
          <t-connectors.rf>
           <LM>dk_103.11-SCzechT-m-d1t1650-10</LM>

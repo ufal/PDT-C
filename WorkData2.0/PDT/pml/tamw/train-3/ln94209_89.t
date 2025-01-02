@@ -5298,7 +5298,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>second_rel SYNCHR kdy (nebo nyní kdy)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-89-p4s6Aw14</LM>

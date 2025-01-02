@@ -2429,7 +2429,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-91-p3s2w24</LM>
@@ -5654,7 +5653,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94211-91-p7s1w6">
 <a>
@@ -7158,7 +7156,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94211-91-p8s3w3">
 <a>

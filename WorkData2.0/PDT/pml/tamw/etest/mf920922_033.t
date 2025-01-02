@@ -34,10 +34,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>kolekce,
-naprosto nesourodé, 
-asi zbytky 
-několika souborů</discourse_comment>
 <children>
 <LM id="t-mf920922-033-p1s1w2">
 <a>

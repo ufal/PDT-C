@@ -5362,7 +5362,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-085-p1s20w3</LM>
@@ -5375,7 +5374,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-085-p1s18Bw10</LM>
@@ -7039,7 +7037,6 @@
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>preced sémantika nejistá</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-085-p1s23Aw12</LM>

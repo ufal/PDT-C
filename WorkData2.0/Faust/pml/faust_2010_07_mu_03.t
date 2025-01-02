@@ -577,7 +577,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>PHASE:3 RETYPED cond->preced</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_mu_03-SCzechA-p0200-s1-w3</LM>
@@ -1016,7 +1015,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE -> -tedy; MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_03-SCzechT-p0206-s1-w9</LM>
@@ -1030,7 +1028,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE alespoň->alespoň ~ do té doby než; CONN_CHANGE do té doby než->alespoň ~ do té doby než; RETYPED cond->preced; CONN_CHANGE té doby než->do té doby než</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_mu_03-SCzechA-p0206-s1-w13</LM>
@@ -1285,7 +1282,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_03-SCzechT-p0206-s1-w27</LM>
@@ -1576,7 +1572,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_03-SCzechT-p0211-s1-w5</LM>
@@ -2159,7 +2154,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_03-SCzechT-p0219-s1-w8</LM>
@@ -2425,7 +2419,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_03-SCzechT-p0222-s1-w4</LM>
@@ -2992,7 +2985,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_mu_03-SCzechA-p0232-s1-w18</LM>
@@ -4189,7 +4181,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_mu_03-SCzechA-p0247-s1-w29</LM>
@@ -4349,7 +4340,6 @@
 <target_range>0</target_range>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Result+Belief</sense_PDTB3>
-<comment>PHASE:3 RETYPED reason->f_reason</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_03-SCzechT-p0248-s1-w5</LM>
@@ -6914,7 +6904,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_mu_03-SCzechT-p0309-s1-w11</LM>

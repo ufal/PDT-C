@@ -7017,7 +7017,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Entailment</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94205-14-p6s3w1</LM>
@@ -7909,7 +7908,6 @@
 <t_lemma>jak_tak</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94205-14-p6s6w5">
 <a>
@@ -8860,7 +8858,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94205-14-p7s1w2">
 <a>
@@ -9417,7 +9414,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94205-14-p7s3a0">
 <nodetype>atom</nodetype>

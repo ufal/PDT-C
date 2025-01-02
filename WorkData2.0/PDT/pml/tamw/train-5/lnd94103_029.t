@@ -71,7 +71,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<discourse_comment>článek bez nadpisu</discourse_comment>
 <val_frame.rf>v#v41ngrA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-029-p1s1w5">

@@ -699,7 +699,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 TYPECHECKED; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0960-001-p1s1a45</LM>
@@ -1663,7 +1662,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
-<comment>PHASE:3 RETYPED synchr->conc; NO-INTRA-PDTB</comment>
 <src>A_V_A</src>
 <t-connectors.rf>
 <LM>T-wsj0960-001-p1s4a7</LM>

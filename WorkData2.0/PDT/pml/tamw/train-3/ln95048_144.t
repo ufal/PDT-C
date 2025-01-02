@@ -716,7 +716,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:3 RETYPED conc->opp; RETARGETED;</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-144-p2s2w3</LM>

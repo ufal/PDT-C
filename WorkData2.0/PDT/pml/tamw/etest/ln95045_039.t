@@ -139,8 +139,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR? nema tento uzel mit samostatny strom, 
-neni to neco jako nadpis?</discourse_comment>
 </LM>
 <LM id="t-ln95045-039-p2s1Bw15">
 <a>
@@ -3863,9 +3861,6 @@ neni to neco jako nadpis?</discourse_comment>
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>11</deepord>
-<discourse_comment>wrongTR? jestli dash spojuje NP "téma lhostejnosti
-a pokrytectví" a podstrom pod uzlem "odehrávat se",
-nema tento strom vypadat jinak?</discourse_comment>
 <children>
 <LM id="t-ln95045-039-p4s5w9">
 <a>
@@ -4651,11 +4646,6 @@ nema tento strom vypadat jinak?</discourse_comment>
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg; neanotuju zadny vztah. snad to muze byt nejaky 
-kontrastivni vztah mezi "dalsim problemem" 
-(=problem je jeden) a "odviji se rada dalsich". 
-Nebo je to jen zdurazneni? 
-Rozumny diskurzni vztah nevidim.</discourse_comment>
 </LM>
 <LM id="t-ln95045-039-p5s1w5">
 <a>
@@ -5728,7 +5718,6 @@ Rozumny diskurzni vztah nevidim.</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95045-039-p5s4w3">
 <a>

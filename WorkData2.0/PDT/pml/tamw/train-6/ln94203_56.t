@@ -3098,7 +3098,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>15</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94203-56-p4s2a1">
@@ -3583,8 +3582,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3_manual>
-<comment>značná sém. mezera
-mezi argumenty</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-56-p5s2w2</LM>

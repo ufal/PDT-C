@@ -4479,7 +4479,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94211-71-p8s1w2">
 <a>
@@ -5543,7 +5542,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<discourse_comment>wrong TR  -ma viset na "a" jako vsuvka</discourse_comment>
 <val_frame.rf>v#v41azfB</val_frame.rf>
 <children>
 <LM id="t-ln94211-71-p8s2w19">
@@ -7998,7 +7996,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->protože</comment>
 <src>PS</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-71-p9s6w1</LM>

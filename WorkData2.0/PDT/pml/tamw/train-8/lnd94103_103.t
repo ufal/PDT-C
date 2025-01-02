@@ -895,7 +895,6 @@
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED conj->reason; CONN_CHANGE a->a tak</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-103-p1s3w13</LM>

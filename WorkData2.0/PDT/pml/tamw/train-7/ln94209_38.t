@@ -357,8 +357,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse_comment>celý text adept na seznam, 
-tato věta hypertéma</discourse_comment>
 <val_frame.rf>v#v41gljD</val_frame.rf>
 <children>
 <LM id="t-ln94209-38-p2s1Cw3">

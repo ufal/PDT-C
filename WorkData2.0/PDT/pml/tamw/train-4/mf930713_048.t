@@ -879,7 +879,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>secondary z toho duvodu</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-mf930713-048-p2s3w3">

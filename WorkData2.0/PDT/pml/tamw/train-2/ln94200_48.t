@@ -886,7 +886,6 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94200-48-p3s1w2">
 <a>
@@ -2874,9 +2873,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<discourse_comment>wrongTR,
-neoddělená značka
-autora</discourse_comment>
 </LM>
 </children>
 </LM>

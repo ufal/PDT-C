@@ -2723,7 +2723,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94206-97-p4s2w5">
 <a>
@@ -5264,7 +5263,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94206-97-p4s6w3</target_node.rf>

@@ -2380,8 +2380,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>není zcela jasné,
-kam má šipka vést</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-23-p3s4w6</LM>
@@ -3508,7 +3506,6 @@ kam má šipka vést</comment>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>konektor rhem už</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-23-p4s2w13</LM>
@@ -4289,7 +4286,6 @@ kam má šipka vést</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-23-p4s5w6</LM>

@@ -1234,7 +1234,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-042-p2s3w15</LM>
@@ -3302,7 +3301,6 @@
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->grad; CONN_CHANGE a->a co víc</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-042-p2s8w24</LM>

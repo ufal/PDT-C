@@ -952,7 +952,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Negative-condition.Arg2-as-negCond</sense_PDTB3>
-<comment>PHASE:3 RETYPED opp->cond; NO-INTRA-PDTB</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj2241-001-p1s2a15</LM>

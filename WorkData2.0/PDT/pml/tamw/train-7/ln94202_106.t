@@ -154,8 +154,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<discourse_comment>wrongTR spatna 
-segmentace textu</discourse_comment>
 <val_frame.rf>v#v41rkmA</val_frame.rf>
 <children>
 <LM id="t-ln94202-106-p2s1w2">
@@ -1100,7 +1098,6 @@ segmentace textu</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-106-p3s1w10</LM>
@@ -5490,7 +5487,6 @@ segmentace textu</discourse_comment>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-106-p6s4w10</LM>
@@ -9332,7 +9328,6 @@ segmentace textu</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94202-106-p8s5w3">
@@ -14911,7 +14906,6 @@ segmentace textu</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94202-106-p11s2w20</target_node.rf>
@@ -26051,9 +26045,6 @@ segmentace textu</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>21</deepord>
-<discourse_comment>neanotuji, mohu nahradit 
-"jeste"  -nezaklada vyznamovy 
-diskurzni vztah</discourse_comment>
 </LM>
 <LM id="t-ln94202-106-p16s2w28">
 <a>

@@ -2753,9 +2753,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>arg2 je řečnická
-otázka, možná
-moc velká presupozice</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-83-p7s1w1</LM>
@@ -4053,10 +4050,6 @@ moc velká presupozice</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>adept na seznam:
-hypertéma 13, 
-1. polozka 14-23,
-2. polozka 24-30 </discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94202-83-p8s2w6">
@@ -4320,11 +4313,6 @@ hypertéma 13,
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse_comment>wrongTR? nechybí
-tu doplněné sloveso?
-(taková věc je nepříjemná
-a (je nepříjemná) zvláště 
-na palubě jakéhokoli letadla)</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94202-83-p8s3Bw3">
@@ -4336,10 +4324,6 @@ na palubě jakéhokoli letadla)</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>je konektorem v tomto
-stromě, není PREC,
-nelze zachytit zřejmě
-kvůli chybě na TR</discourse_comment>
 </LM>
 <LM id="t-ln94202-83-p8s3Bw2">
 <a>
@@ -4575,10 +4559,6 @@ kvůli chybě na TR</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>pro interpretaci gradace
-je třeba širší kontext, 
-bezradnost, jak to technicky
-provést, snad stačí koreference</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-83-p8s3Bw18</LM>
@@ -8065,7 +8045,6 @@ provést, snad stačí koreference</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary bod druhý</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94202-83-p8s2w2</target_node.rf>
@@ -8624,10 +8603,6 @@ provést, snad stačí koreference</comment>
 <t_lemma>#Colon</t_lemma>
 <functor>APPS</functor>
 <deepord>6</deepord>
-<discourse_comment>wrongTR?,
-druhá část stromu
-je PAT?  -mohl si
-vybrat co</discourse_comment>
 <children>
 <LM id="t-ln94202-83-p12s3w2">
 <a>

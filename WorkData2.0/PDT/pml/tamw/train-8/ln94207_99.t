@@ -1875,7 +1875,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-99-p4s1w6</LM>
@@ -3604,7 +3603,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>secondary  -zretel</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94207-99-p3s1w34</target_node.rf>
@@ -7892,9 +7890,6 @@
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>netypická GENER,
-ale podle mého
-nejblíž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-99-p5s6w29</LM>
@@ -10431,7 +10426,6 @@ nejblíž</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-99-p7s4w5</LM>

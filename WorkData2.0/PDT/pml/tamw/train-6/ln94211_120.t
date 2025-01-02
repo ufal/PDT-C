@@ -982,10 +982,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
-<discourse_comment>myslim, ze tady se to 
-poji spis na ty NP 
-(boty, kravaty), proto 
-neanotuji</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln94211-120-p2s5a0">
@@ -5706,7 +5702,6 @@ neanotuji</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR? nema byt doplnena ridici klauze?</discourse_comment>
 <val_frame.rf>v#v41gbkB</val_frame.rf>
 <children>
 <LM id="t-ln94211-120-p5s17a0">
@@ -6557,7 +6552,6 @@ neanotuji</discourse_comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Result+Belief</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause+Belief.Result+Belief</sense_PDTB3_manual>
-<comment>ironie</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-120-p6s4w2</LM>
@@ -6902,7 +6896,6 @@ neanotuji</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR? nema v teto vete byt doplnene sloveso?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94211-120-p6s2a2</target_node.rf>

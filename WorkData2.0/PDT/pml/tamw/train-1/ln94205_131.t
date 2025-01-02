@@ -2427,7 +2427,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94205-131-p3s2w1">
 <a>
@@ -4679,9 +4678,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>sporná anotace
-wrongTR? jde vnímat
-jako způsobová věta</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-131-p7s2w10</LM>

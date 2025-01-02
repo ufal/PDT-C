@@ -48,10 +48,6 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>kolekce
-tedy spise to hranici s kolekci  -vety 10 a 11 
-neodpovidaji nadpisu clanku, ale veta 10 je k 
-predchozimu pripojena konektorem</discourse_comment>
 <val_frame.rf>v#v41mmnB</val_frame.rf>
 <children>
 <LM id="t-ln94211-47-p1s1w1">
@@ -2551,7 +2547,6 @@ predchozimu pripojena konektorem</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>secondary kromě dosavadních úkolů</discourse_comment>
 <children>
 <LM id="t-ln94211-47-p4s3w2">
 <a>
@@ -3206,7 +3201,6 @@ predchozimu pripojena konektorem</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-47-p5s2w2</LM>

@@ -711,10 +711,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>obsah řeči, která
-ale není uvozena 
-žádným slovem 
-v první části struktury</discourse_comment>
 <val_frame.rf>v#v41opnA</val_frame.rf>
 <children>
 <LM id="t-mf920922-026-p2s2w16">
@@ -1751,8 +1747,6 @@ v první části struktury</discourse_comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>hodně divný vztah,
-velký kus chybí</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-026-p2s6Aw7</LM>
@@ -3469,12 +3463,6 @@ velký kus chybí</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg?
-není vůbec zřejmé, 
-kam to odkazuje,
-podle mě prázdné a 
-zřejmě nevhodně 
-zkratkovité užití</discourse_comment>
 </LM>
 <LM id="t-mf920922-026-p2s10Bw2">
 <a>
@@ -3588,7 +3576,6 @@ zkratkovité užití</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-mf920922-026-p2s11w2">

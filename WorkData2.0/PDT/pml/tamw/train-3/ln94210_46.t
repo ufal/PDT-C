@@ -1166,10 +1166,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg, prvním
-argumentem může být
-něco jako "zapisovatel
-zřejmě zvolen nebude"</discourse_comment>
 </LM>
 <LM id="t-ln94210-46-p3s1w4">
 <a>
@@ -3773,8 +3769,6 @@ zřejmě zvolen nebude"</discourse_comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>velká mezera
-mezi argumenty</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-46-p4s6w4</LM>

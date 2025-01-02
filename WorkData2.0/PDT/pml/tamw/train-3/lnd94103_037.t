@@ -3296,14 +3296,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>divná OPP, chybí
-vyjádření jako: 
-změny v počtu 
-zaměstnaných
-osob nejsou 
-meziročně nijak 
-výrazné, (změnila se 
-však struktura...)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-037-p1s14w3</LM>
@@ -5112,8 +5104,6 @@ však struktura...)</comment>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>široké vyplývání,
-zde nejblíže k EQUIV</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-037-p1s22w2</LM>

@@ -7122,7 +7122,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>změna osoby  -anotovat vztah?</discourse_comment>
 <val_frame.rf>v#v41nihB</val_frame.rf>
 <children>
 <LM id="t-ln95049-049-p4s4a3">

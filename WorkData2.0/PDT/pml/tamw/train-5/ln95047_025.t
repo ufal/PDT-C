@@ -1001,9 +1001,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>neanotuji  -konektor nezaklada vyznamovy 
-diskurzni vztah, lze doplnit misto toho 
-"jeste", "krome Veltruskeho prisel i Cerny"</discourse_comment>
 </LM>
 <LM id="t-ln95047-025-p2s3w2">
 <a>
@@ -3993,7 +3990,6 @@ diskurzni vztah, lze doplnit misto toho
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->:</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-025-p3s9w8</LM>

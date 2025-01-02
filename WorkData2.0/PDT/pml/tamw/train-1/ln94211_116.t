@@ -217,11 +217,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>adept na seznam,
-hypertéma zde,
-1. položka (5)-(9),
-2.položka (10),
-3.položka (11)-(13)</discourse_comment>
 <val_frame.rf>v#v41fsoA</val_frame.rf>
 <children>
 <LM id="t-ln94211-116-p2s1Bw3">
@@ -2572,7 +2567,6 @@ hypertéma zde,
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary druhou skupinu</discourse_comment>
 <children>
 <LM id="t-ln94211-116-p4s1w1">
 <a>
@@ -2981,7 +2975,6 @@ hypertéma zde,
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary třetí kategorii</discourse_comment>
 <children>
 <LM id="t-ln94211-116-p5s1w1">
 <a>
@@ -3309,7 +3302,6 @@ hypertéma zde,
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>druhá interpretace: conj</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-116-p5s1w21</LM>

@@ -1078,7 +1078,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-017-p5s1w2">
@@ -3596,7 +3595,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary prispiva k tomu fakt</discourse_comment>
 <val_frame.rf>v#v41iywB</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-017-p8s3w3">

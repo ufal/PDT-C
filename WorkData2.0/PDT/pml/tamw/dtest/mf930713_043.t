@@ -2842,8 +2842,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC, 
-ale MANN</discourse_comment>
 </LM>
 <LM id="t-mf930713-043-p6s4w3">
 <a>
@@ -2860,9 +2858,6 @@ ale MANN</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR?,
-chybně visící
-hrana?</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf930713-043-p6s3w7</target_node.rf>
@@ -6559,7 +6554,6 @@ hrana?</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-043-p9s2w3">
 <a>

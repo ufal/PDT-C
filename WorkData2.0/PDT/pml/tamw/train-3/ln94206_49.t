@@ -1050,7 +1050,6 @@
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-49-p3s1w6</LM>

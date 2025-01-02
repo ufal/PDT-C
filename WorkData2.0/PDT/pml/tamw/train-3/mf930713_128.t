@@ -3364,8 +3364,6 @@
 <discourse_type>f_opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Concession.Arg2-as-denier</sense_PDTB3_manual>
-<comment>vysoká míra inference:
-recyklovaný papír znamená nízkou daň</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p5s4w1</LM>
@@ -3698,9 +3696,6 @@ recyklovaný papír znamená nízkou daň</comment>
 <target_range>3</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>reason se mi nelibi,
-chybi mi nejaky vztah vyplyvani,
-jde az ke gener</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p5s5w3</LM>
@@ -4894,8 +4889,6 @@ jde az ke gener</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<discourse_comment>secondary zde 
-(spis PREC nez LOC)</discourse_comment>
 </LM>
 <LM id="t-mf930713-128-p6s2w12">
 <a>
@@ -7055,8 +7048,6 @@ jde az ke gener</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>zdurazneni kontrastivni spojkou
-az temer ke grad</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-128-p9s3w3</LM>

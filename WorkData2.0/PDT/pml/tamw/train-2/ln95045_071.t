@@ -2482,7 +2482,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95045-071-p4s2w2">
 <a>
@@ -3224,9 +3223,6 @@
 <target_range>1</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>časovost vztahu
-vystupuje zřetelně
-z formy konektoru</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-071-p4s5w7</LM>
@@ -3759,7 +3755,6 @@ z formy konektoru</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-ln95045-071-p4s7w2">

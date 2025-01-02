@@ -4459,7 +4459,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-057-p6s5w3</LM>
@@ -7153,9 +7152,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR?
-autor a pak dodatek k textu?
-nebo špatně segmentováno?</discourse_comment>
 <children>
 <LM id="t-mf930713-057-p9s1w1">
 <a>

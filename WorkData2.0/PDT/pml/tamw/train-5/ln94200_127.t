@@ -2244,7 +2244,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary vztah otázka_odpověď</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -2955,7 +2954,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-127-p4s3w6</LM>
@@ -17765,8 +17763,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>lze interpretovat i jako
-připojení pouhého NP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-127-p21s5w10</LM>
@@ -19163,7 +19159,6 @@ připojení pouhého NP</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-127-p23s4w2</LM>
@@ -23346,9 +23341,6 @@ připojení pouhého NP</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>mezi 86 a 87 je
-slabý vztah CORR, 
-není uzel pro negaci, necháno být</discourse_comment>
 <val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-ln94200-127-p29s2w2">
@@ -26165,9 +26157,6 @@ není uzel pro negaci, necháno být</discourse_comment>
 <t_lemma>ale</t_lemma>
 <functor>GRAD</functor>
 <deepord>16</deepord>
-<discourse_comment>wrongTR  -není GRAD, 
-ale ADVS (kdyby bylo
-mezi slovesy, bylo by CORR)</discourse_comment>
 <children>
 <LM id="t-ln94200-127-p32s1a2">
 <nodetype>atom</nodetype>
@@ -26811,7 +26800,6 @@ mezi slovesy, bylo by CORR)</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94200-127-p32s3w2">
@@ -30826,8 +30814,6 @@ mezi slovesy, bylo by CORR)</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>poněkud nejistá interpretace, 
-chybí druhá část konektoru</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-127-p39s2w5</LM>
@@ -32425,11 +32411,6 @@ chybí druhá část konektoru</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není konektorem
-mezivýp. význ. vztahu,
-text propojuje anaforicky,
-lze ho vynechat
-</discourse_comment>
 </LM>
 <LM id="t-ln94200-127-p41s2w3">
 <a>
@@ -33141,7 +33122,6 @@ lze ho vynechat
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>nejistota o rozsahu Arg1</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-127-p41s4w3</LM>
@@ -34971,9 +34951,6 @@ lze ho vynechat
 <tfa>t</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>exempl</secondary_NP_type>
-<discourse_comment>nejsem si jistá, 
-není-li to spíš mezi 
-dvěma NP</discourse_comment>
 </LM>
 <LM id="t-ln94200-127-p43s4w4">
 <a>
@@ -36341,7 +36318,6 @@ dvěma NP</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94200-127-p44s1w7">
 <a>
@@ -38651,8 +38627,6 @@ dvěma NP</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>zároven přítomen 
-PRECED vztah</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-127-p46s2w17</LM>

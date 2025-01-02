@@ -3469,7 +3469,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95047-039-p5s3w4">
 <a>
@@ -4878,9 +4877,6 @@
 <target_range>group</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>implicitní složky
-významu, ale
-f_reason to není</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-039-p6s4w24</LM>

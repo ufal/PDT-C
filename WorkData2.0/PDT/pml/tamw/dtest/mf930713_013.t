@@ -1095,8 +1095,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>není PREC, 
-ale MANN</discourse_comment>
 </LM>
 <LM id="t-mf930713-013-p4s3w16">
 <a>

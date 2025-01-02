@@ -2033,7 +2033,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94204-93-p3s1w7">
 <a>

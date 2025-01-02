@@ -354,7 +354,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v41cgmA</val_frame.rf>
 </LM>
 <LM id="t-ln94208-106-p2s1Bw6">
@@ -379,7 +378,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v41djnA</val_frame.rf>
 </LM>
 </children>
@@ -1901,10 +1899,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>v celém textu každá 
-otázka označena malým o
-na začátku, na t-rovině 
-nezachyceno</discourse_comment>
 <val_frame.rf>v#v41httA</val_frame.rf>
 <children>
 <LM id="t-ln94208-106-p3s1a0">
@@ -2529,8 +2523,6 @@ nezachyceno</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není prec, 
-jen uvozovací částice</discourse_comment>
 </LM>
 <LM id="t-ln94208-106-p4s3a1">
 <nodetype>complex</nodetype>
@@ -4469,9 +4461,6 @@ jen uvozovací částice</discourse_comment>
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR,
-špatný funktor,
-má být TWHEN</discourse_comment>
 <val_frame.rf>v#v41eoyC</val_frame.rf>
 <children>
 <LM id="t-ln94208-106-p5s4Ba2">
@@ -8153,9 +8142,6 @@ má být TWHEN</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>sporná anotace,
-má být na TR AIM?
-wrongTR?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-106-p9s2w6</LM>

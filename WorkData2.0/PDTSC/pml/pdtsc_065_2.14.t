@@ -291,7 +291,6 @@
        <discourse_type>restr</discourse_type>
        <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
        <sense_PDTB3_manual>Expansion.Exception.Arg2-as-excpt</sense_PDTB3_manual>
-       <comment>PHASE:3 RETYPED opp->restr</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml_119.14-SCzechT-m-d1t2749-4</LM>

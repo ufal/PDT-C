@@ -1090,7 +1090,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>mozne reason mezi konjunkty</discourse_comment>
 <children>
 <LM id="t-ln95046-107-p2s5w19">
 <a>
@@ -1239,8 +1238,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>conc teto klauze a te prvni? 
-(konektor sice jeste  -vsak)</discourse_comment>
 <val_frame.rf>v#v41fpgD</val_frame.rf>
 <children>
 <LM id="t-ln95046-107-p2s5w24">
@@ -1376,7 +1373,6 @@
 <target_range>3</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>nebo pouze na větu 2?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-107-p2s6w4</LM>
@@ -1533,10 +1529,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>wrong_TR ne podminka ale confr 
-(v tekto by mel byt funktor CONTRD)
-
-</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-107-p2s7w1</LM>
@@ -2600,8 +2592,6 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrong_TR ma byt aktualni elipsa,
-dokopirovane sloveso a ramec, nic = PAT</discourse_comment>
 <children>
 <LM id="t-ln95046-107-p3s3w1">
 <a>
@@ -2921,8 +2911,6 @@ dokopirovane sloveso a ramec, nic = PAT</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>take by mohl byt secondary znamenalo
-to a napr. explicat</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-107-p4s1w1</LM>
@@ -5826,7 +5814,6 @@ to a napr. explicat</comment>
 <target_range>3</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>nebo start_range 1?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-107-p7s1w4</LM>

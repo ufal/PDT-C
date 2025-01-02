@@ -291,7 +291,6 @@
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>PHASE:3 RETYPED reason->gener; FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj0195-001-p1s0a18</LM>

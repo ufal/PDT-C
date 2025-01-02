@@ -1202,7 +1202,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-59-p3s2w8</LM>
@@ -1345,8 +1344,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>sporná anotace,
-wrongTR? způsobová věta?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-59-p3s2w15</LM>

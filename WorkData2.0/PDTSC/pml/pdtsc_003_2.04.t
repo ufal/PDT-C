@@ -66,7 +66,6 @@
          <target_range>0</target_range>
          <discourse_type>preced</discourse_type>
          <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-         <comment>PHASE:3 RETYPED cond->preced</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#ml-26797_07.04-SCzechA-m-id62964-3</LM>
@@ -405,7 +404,6 @@
            <target_range>0</target_range>
            <discourse_type>conj</discourse_type>
            <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-           <comment>PHASE:1</comment>
            <src>A_H_A</src>
            <t-connectors.rf>
             <LM>ml-26797_07.04-SCzechT-m-id62994-1</LM>
@@ -547,7 +545,6 @@
          <target_range>0</target_range>
          <discourse_type>reason</discourse_type>
          <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml-26797_07.04-SCzechT-m-id63008-5</LM>
@@ -843,7 +840,6 @@
          <target_range>0</target_range>
          <discourse_type>reason</discourse_type>
          <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-         <comment>PHASE:3 RETYPED conj->reason; EXCONN_CHANGE důvod->důvod je možná i to že; CONN_CHANGE i->důvod; RESTARTED; RETARGETED</comment>
          <src>A_I_A</src>
          <t-connectors.rf>
           <LM>ml-26797_07.04-SCzechT-m-id63054-6</LM>
@@ -1077,7 +1073,6 @@
        <target_range>0</target_range>
        <discourse_type>equiv</discourse_type>
        <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-       <comment>PHASE:2 RETARGETED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml-26797_07.04-SCzechT-m-id63105-2</LM>
@@ -1155,7 +1150,6 @@
          <target_range>0</target_range>
          <discourse_type>reason</discourse_type>
          <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#ml-26797_07.04-SCzechA-m-id63085-x1-313</LM>
@@ -1445,7 +1439,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml-26797_07.04-SCzechT-m-id63155-8</LM>
@@ -1532,7 +1525,6 @@
        <target_range>0</target_range>
        <discourse_type>confr</discourse_type>
        <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-       <comment>PHASE:3 RETYPED opp->confr; MANUAL</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml-26797_07.04-SCzechT-m-id63189-1</LM>
@@ -1890,7 +1882,6 @@
          <target_range>0</target_range>
          <discourse_type>reason</discourse_type>
          <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_I_A</src>
          <t-connectors.rf>
           <LM>ml-26797_07.04-SCzechT-m-id63204-1</LM>
@@ -2859,7 +2850,6 @@
                <target_range>0</target_range>
                <discourse_type>synchr</discourse_type>
                <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-               <comment>PHASE:3 RETYPED preced->synchr</comment>
                <src>A_V_A</src>
                <a-connectors.rf>
                 <LM>a#ml-26797_07.04-SCzechA-m-id63313-9</LM>
@@ -3278,7 +3268,6 @@
          <discourse_type>f_opp</discourse_type>
          <sense_PDTB3>Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct</sense_PDTB3>
          <sense_PDTB3_manual>Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct</sense_PDTB3_manual>
-         <comment>PHASE:3 RETYPED opp->f_opp</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml-26797_07.04-SCzechT-m-id63350-1</LM>
@@ -3505,7 +3494,6 @@
        <target_range>0</target_range>
        <discourse_type>conj</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:2 RETARGETED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml-26797_07.04-SCzechT-m-id63383-1</LM>
@@ -3643,7 +3631,6 @@
          <target_range>0</target_range>
          <discourse_type>conc</discourse_type>
          <sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#ml-26797_07.04-SCzechA-m-id63459-x1-215</LM>
@@ -4741,7 +4728,6 @@
          <target_range>0</target_range>
          <discourse_type>synchr</discourse_type>
          <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-         <comment>PHASE:3 RETYPED preced->synchr</comment>
          <src>A_V_A</src>
          <a-connectors.rf>
           <LM>a#ml-26797_07.04-SCzechA-m-id63590-3</LM>
@@ -5053,7 +5039,6 @@
        <target_range>0</target_range>
        <discourse_type>corr</discourse_type>
        <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-       <comment>PHASE:2 CONN_CHANGE naopak->#Neg ~ naopak; RETYPED confr->corr</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml-26797_07.04-SCzechT-ml-26797_07-252_1-roota1</LM>
@@ -5255,7 +5240,6 @@
        <target_range>0</target_range>
        <discourse_type>conj</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:3 TYPECHECKED; RETARGETED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml-26797_07.04-SCzechT-m-id63635-1</LM>
@@ -7132,7 +7116,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:2 CONN_CHANGE ->jednak ~ druhá věc je že</comment>
          <src>PS</src>
          <a-connectors.rf>
           <LM>a#ml-26797_07.04-SCzechA-m-id63887-1</LM>
@@ -7380,7 +7363,6 @@
        <target_range>0</target_range>
        <discourse_type>conj</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:2 MANUAL</comment>
        <src>PS</src>
        <t-connectors.rf>
         <LM>ml-26797_07.04-SCzechT-m-id63903-5</LM>

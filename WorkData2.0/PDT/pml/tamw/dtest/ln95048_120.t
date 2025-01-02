@@ -414,7 +414,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary v této souvislosti</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95048-120-p2s1w2</target_node.rf>

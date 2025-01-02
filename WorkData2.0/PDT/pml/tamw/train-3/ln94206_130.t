@@ -1526,8 +1526,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>součást konektoru
-kdyby tak</discourse_comment>
 </LM>
 <LM id="t-ln94206-130-p2s5w4">
 <a>
@@ -1906,7 +1904,6 @@ kdyby tak</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+dodal</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94206-130-p2s6w25">
@@ -4011,7 +4008,6 @@ kdyby tak</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 EXCONN_CHANGE , že->z toho důvodu že</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-130-p2s14w6</LM>
@@ -4250,7 +4246,6 @@ kdyby tak</discourse_comment>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Contrast</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED opp->confr</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-130-p2s14w19</LM>

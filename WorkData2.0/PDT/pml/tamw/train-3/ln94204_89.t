@@ -48,9 +48,6 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>může být chápáno
-i jako součást 
-popisku fotky</discourse_comment>
 <val_frame.rf>v#v41fjzE</val_frame.rf>
 <children>
 <LM id="t-ln94204-89-p1s1w2">

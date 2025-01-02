@@ -822,8 +822,6 @@
 <is_member>1</is_member>
 <tfa>t</tfa>
 <deepord>17</deepord>
-<discourse_comment>wrongTR? visi tento podstrom na spravnem miste? 
-nebylo by lepsi povesit ho na "pavilon"?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94211-34-p2s2w20</target_node.rf>

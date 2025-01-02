@@ -12868,7 +12868,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-cmpr9413-042-p20s1w3">
 <a>
@@ -13169,7 +13168,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 </LM>
 </children>
 </LM>

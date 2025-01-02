@@ -3009,7 +3009,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94204-144-p2s6w1">
 <a>
@@ -6855,7 +6854,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>příklad důvodu, reason implicitní</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94204-144-p2s17w1</LM>
@@ -10650,8 +10648,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>implicitní vztah,
-otázka jako Arg2</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-144-p7s1w3</LM>

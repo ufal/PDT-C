@@ -332,7 +332,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-2-p2s1w6</LM>
@@ -13376,8 +13375,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<discourse_comment>wrongTR
-RHEM, není TWHEN </discourse_comment>
 </LM>
 <LM id="t-ln94204-2-p16s3w10">
 <a>

@@ -1116,7 +1116,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-61-p3s4w2">
 <a>
@@ -1373,12 +1372,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>velký skok
-v textu  -neřešme
-výši příjmů, 
-důležitější pro
-televizi jako
-celek je jejich zdroj</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-61-p3s6w6</LM>
@@ -8217,7 +8210,6 @@ celek je jejich zdroj</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>secondary dovedeno do konce  -gener k předchozímu</discourse_comment>
 <val_frame.rf>v#v41aikC</val_frame.rf>
 <children>
 <LM id="t-ln94208-61-p6s10a0">
@@ -8677,7 +8669,6 @@ celek je jejich zdroj</comment>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-61-p7s2w1</LM>
@@ -8725,7 +8716,6 @@ celek je jejich zdroj</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41nusB</val_frame.rf>
 <children>
 <LM id="t-ln94208-61-p7s3w2">

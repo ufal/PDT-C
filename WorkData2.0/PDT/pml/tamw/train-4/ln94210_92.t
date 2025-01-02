@@ -4248,9 +4248,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>divné užití tedy, 
-možná i one_arg, 
-sém je nejblíž OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-92-p5s3w3</LM>
@@ -7824,11 +7821,6 @@ sém je nejblíž OPP</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>divné užití tedy,
-možná jen výplň 
-dá se nahradit navazovacím
-pak, rozhodně nejde o vyplývání
-z žádné části textu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-92-p7s5w5</LM>

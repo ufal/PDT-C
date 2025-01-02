@@ -7049,9 +7049,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>nejasné, zda nepřipojuje
-jen NP, bez intepretace
-zájmen navíc nesrozumitelné</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-058-p2s14Aw1</LM>

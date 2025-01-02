@@ -1410,7 +1410,6 @@
 <tfa>f</tfa>
 <deepord>10</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94205-137-p3s2w9</target_node.rf>

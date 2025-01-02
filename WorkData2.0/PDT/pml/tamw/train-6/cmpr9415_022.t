@@ -11274,7 +11274,6 @@
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3>
-<comment>divné užití konektoru, opačně řazené by to byla reason, tady spíš důkaz té snahy, proto necháno jako explikace</comment>
 <src>pdt30</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9415-022-p21s1w20</LM>

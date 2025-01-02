@@ -3190,7 +3190,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ať->s tím ať</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-095-p3s5w21</LM>

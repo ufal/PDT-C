@@ -6080,7 +6080,6 @@
 <tfa>f</tfa>
 <deepord>13</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95049-133-p6s5w7">
 <a>

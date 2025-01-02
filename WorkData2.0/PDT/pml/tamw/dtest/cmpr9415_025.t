@@ -4985,7 +4985,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary dalším</discourse_comment>
 </LM>
 <LM id="t-cmpr9415-025-p8s1w5">
 <a>
@@ -20237,7 +20236,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9415-025-p23s2a1">
 <nodetype>qcomplex</nodetype>
@@ -23294,7 +23292,6 @@
 <tfa>t</tfa>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-cmpr9415-025-p30s1w1">
 <a>
@@ -24225,7 +24222,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41axdA</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-025-p38s1w5">
@@ -26161,7 +26157,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-025-p49s2w2">
@@ -27673,7 +27668,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41kqfB</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-025-p59s1w2">
@@ -29573,12 +29567,6 @@
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>druhá možnost je
-nevidět to jako
-diskurzní vztah -
-jinak je kondenzace
-za kdyby nám je
-nevybrali...PJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-025-p65s3w28</LM>

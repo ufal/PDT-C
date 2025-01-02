@@ -306,7 +306,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-lnd94103-088-p1s1Cw2">
 <a>
@@ -7505,7 +7504,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-088-p1s24w7</LM>
@@ -9632,7 +9630,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-lnd94103-088-p1s32w16">
@@ -12387,7 +12384,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-088-p1s43w24</LM>

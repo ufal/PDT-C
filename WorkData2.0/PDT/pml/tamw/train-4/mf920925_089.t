@@ -737,7 +737,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-089-p3s2w1">
 <a>
@@ -3843,7 +3842,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-089-p4s2w28</LM>
@@ -6881,9 +6879,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>koreferenční šipka na NP,
-ale nelze přeformulovat
-pouze s pomocí NP, anotováno</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf920925-089-p4s12w13</target_node.rf>
@@ -8431,9 +8426,6 @@ pouze s pomocí NP, anotováno</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>netypická CONFR, 
-v kontrastu jsou jen dva
-děje (jejich ACT je stejný)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-089-p5s3w20</LM>
@@ -10735,7 +10727,6 @@ děje (jejich ACT je stejný)</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<discourse_comment>není PREC</discourse_comment>
 </LM>
 <LM id="t-mf920925-089-p5s9w15">
 <a>
@@ -12349,7 +12340,6 @@ děje (jejich ACT je stejný)</comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>f kvůli implikaci  -a není divu</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-mf920925-089-p6s4w1</LM>

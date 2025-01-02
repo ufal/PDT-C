@@ -4423,8 +4423,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary? posledním
-(důležitým sdělení)</discourse_comment>
 <val_frame.rf>v#v41kgiC</val_frame.rf>
 <children>
 <LM id="t-ln95047-132-p6s1w2">
@@ -4791,12 +4789,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>lze vnímat jako konektor, 
-ale také jako odkaz
-na nominální fráze popisující,
-co všechno má zápočtový
-list obsahovat, necháno bez
-anotace</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln95047-132-p6s2w5">

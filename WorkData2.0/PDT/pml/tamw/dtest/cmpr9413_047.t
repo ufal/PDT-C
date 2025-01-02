@@ -875,7 +875,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-047-p5s2w9</LM>
@@ -2317,10 +2316,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>tohle rozhodně
-není normální
-přívlastková
-věta</discourse_comment>
 <val_frame.rf>v#v41omA</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-047-p7s4w12">
@@ -8688,10 +8683,6 @@ věta</discourse_comment>
 <t_lemma>takže</t_lemma>
 <functor>CSQ</functor>
 <deepord>8</deepord>
-<discourse_comment>tohle není 
-čistá reason,
-má něco 
-z equiv</discourse_comment>
 <children>
 <LM id="t-cmpr9413-047-p28s3w1">
 <a>
@@ -10012,9 +10003,6 @@ z equiv</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>odkaz na tabulku,
-která ale v textu
-není</discourse_comment>
 <val_frame.rf>v#v41nwvA</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-047-p30s4w2">
@@ -10380,9 +10368,6 @@ není</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>opět odkaz
-na chybějící
-tabulku</discourse_comment>
 <val_frame.rf>v#v41avoB</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-047-p40s2a0">

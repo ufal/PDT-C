@@ -142,8 +142,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>zbytek popisu 
-tabulky</discourse_comment>
 </LM>
 <LM id="t-lnd94103-065-p1s8w3">
 <a>
@@ -200,8 +198,6 @@ tabulky</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>zbytek popisu 
-tabulky</discourse_comment>
 </LM>
 <LM id="t-lnd94103-065-p1s9w3">
 <a>

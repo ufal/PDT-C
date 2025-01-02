@@ -730,8 +730,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>slozeny konektor a vubec ne,
-zobrazuje se i predlozil :-(</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-033-p2s2w19</LM>
@@ -2150,8 +2148,6 @@ zobrazuje se i predlozil :-(</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>šlo by i širší, 
-ale takhle je v rámci přímé řeči</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-033-p2s6w2</LM>

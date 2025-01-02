@@ -525,7 +525,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ale->#Neg ~ ale</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-72-p2s1Ba1</LM>

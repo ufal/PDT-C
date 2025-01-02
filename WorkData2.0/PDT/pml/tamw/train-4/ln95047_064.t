@@ -4623,7 +4623,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>konektor+secondary</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln95047-064-p4s1w22</LM>
@@ -10940,7 +10939,6 @@
 <target_range>group</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-064-p6s5w1</LM>
@@ -11022,7 +11020,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>kandidát na altlex: to je jen výklad možných příčin toho, co</discourse_comment>
 <children>
 <LM id="t-ln95047-064-p6s5w6">
 <a>
@@ -11141,8 +11138,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>lze vnímat
-jako SPEC NP "co"</discourse_comment>
 <val_frame.rf>v#v41afyB</val_frame.rf>
 <children>
 <LM id="t-ln95047-064-p6s5w19">
@@ -14305,7 +14300,6 @@ jako SPEC NP "co"</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>5</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95047-064-p7s2w43</target_node.rf>

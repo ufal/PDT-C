@@ -42,10 +42,6 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>kolekce
-úplně nesouvisející sbírka
-jednotlivých struktur nebo
-jejich dvojic, selhání segmentace?</discourse_comment>
 <val_frame.rf>v#v41nuA</val_frame.rf>
 <children>
 <LM id="t-ln94202-77-p1s1w1">

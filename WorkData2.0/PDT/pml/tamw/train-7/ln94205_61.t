@@ -1491,7 +1491,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94205-61-p3s2w4">
 <a>
@@ -1948,7 +1947,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>secondary NP_VP, free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41embA</val_frame.rf>
 <children>
 <LM id="t-ln94205-61-p4s1w6">

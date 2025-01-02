@@ -2060,7 +2060,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem ani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-35-p4s7w1</LM>
@@ -3126,7 +3125,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary jinak</discourse_comment>
 </LM>
 <LM id="t-ln94203-35-p4s12w6">
 <a>
@@ -4724,7 +4722,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>5</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94203-35-p5s1w12">

@@ -2330,11 +2330,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>nevím, co
-to znamená, nejspíš
-nějaký velký 
-argumentační skok, 
-proto f_reason</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-022-p2s5w4</LM>
@@ -3604,7 +3599,6 @@ proto f_reason</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>second_rel PRECED poté kdy</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-022-p3s4w10</LM>

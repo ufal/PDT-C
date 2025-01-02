@@ -1755,7 +1755,6 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>f kvůli implikaci</discourse_comment>
 <val_frame.rf>v#v41wqB</val_frame.rf>
 <children>
 <LM id="t-ln94203-101-p3s1a1">

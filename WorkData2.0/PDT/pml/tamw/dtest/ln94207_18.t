@@ -4931,10 +4931,6 @@
 <functor>APPS</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
-<discourse_comment>wrong_TR? Nemá být tady 
-nahoře "dostávat se" a 
-APPS být mezi "říci" a 
-"pokoušet se"?</discourse_comment>
 <children>
 <LM id="t-ln94207-18-p5s1w4">
 <a>
@@ -4945,7 +4941,6 @@ APPS být mezi "říci" a
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-18-p5s1w2">
 <a>
@@ -7621,7 +7616,6 @@ APPS být mezi "říci" a
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-18-p6s6w3</LM>

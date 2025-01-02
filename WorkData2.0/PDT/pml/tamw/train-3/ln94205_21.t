@@ -615,10 +615,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<discourse_comment>evidentní nepravá 
-přívlastková klauze, 
-lingvisticky zajímavé,
-proto poznámka</discourse_comment>
 <val_frame.rf>v#v41jsAF</val_frame.rf>
 <children>
 <LM id="t-ln94205-21-p3s1w16">

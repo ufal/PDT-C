@@ -51,10 +51,6 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>adept na seznam?,
-soubor je složený
-z odpovědí na 
-anketní otázku</discourse_comment>
 <val_frame.rf>v#v41lilB</val_frame.rf>
 <children>
 <LM id="t-mf930713-066-p1s1w3">

@@ -129,7 +129,6 @@
        <target_range>0</target_range>
        <discourse_type>opp</discourse_type>
        <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-       <comment>PHASE:3 RETYPED conj->opp</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ak_146.03-SCzechT-m-d1t660-16</LM>
@@ -1380,7 +1379,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:3 RETYPED grad->conj</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_146.03-SCzechT-m-d1t705-13</LM>
@@ -1860,7 +1858,6 @@
          <target_range>0</target_range>
          <discourse_type>disjalt</discourse_type>
          <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_146.03-SCzechT-m-d1t717-4</LM>
@@ -3362,7 +3359,6 @@
          <discourse_type>restr</discourse_type>
          <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
          <sense_PDTB3_manual>Comparison.Concession.Arg2-as-denier</sense_PDTB3_manual>
-         <comment>PHASE:3 RETYPED opp->restr; MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_146.03-SCzechT-m-d1t752-33</LM>
@@ -3829,7 +3825,6 @@
        <discourse_type>explicat</discourse_type>
        <sense_PDTB3>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3>
        <sense_PDTB3_manual>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3_manual>
-       <comment>PHASE:2 CONN_CHANGE přece->přece jenom</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ak_146.03-SCzechT-m-d1t762-24</LM>
@@ -4542,7 +4537,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_146.03-SCzechT-m-498-502</LM>
@@ -4825,7 +4819,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_146.03-SCzechT-m-d1t795-7</LM>
@@ -4908,7 +4901,6 @@
        <target_range>0</target_range>
        <discourse_type>grad</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:3 TYPECHECKED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ak_146.03-SCzechT-m-d1t795-16</LM>

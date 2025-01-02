@@ -371,7 +371,6 @@
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE když->tehdy když</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-105-p2s2w1</LM>

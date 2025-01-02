@@ -41,7 +41,6 @@
        <discourse_type>f_reason</discourse_type>
        <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
        <sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
-       <comment>PHASE:3 RETYPED purp->f_reason, není to důvod, proč něco umí</comment>
        <src>A_V_A</src>
        <a-connectors.rf>
         <LM>a#jv_133.11-SCzechA-m-d1t3106-4</LM>
@@ -463,7 +462,6 @@
        <target_range>0</target_range>
        <discourse_type>conj</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:2 MANUAL</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>jv_133.11-SCzechT-m-d1t3117-12</LM>
@@ -995,7 +993,6 @@
          <target_range>0</target_range>
          <discourse_type>equiv</discourse_type>
          <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-         <comment>PHASE:3 RETYPED reason->equiv; MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>jv_133.11-SCzechT-jv_133-664-roota1</LM>
@@ -1193,7 +1190,6 @@
        <target_range>0</target_range>
        <discourse_type>reason</discourse_type>
        <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-       <comment>PHASE:3 RETYPED preced->reason; RETARGETED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>jv_133.11-SCzechT-m-d1t3145-4</LM>
@@ -1470,7 +1466,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>jv_133.11-SCzechT-m-d-id174042-punct</LM>
@@ -1793,7 +1788,6 @@
            <target_range>0</target_range>
            <discourse_type>reason</discourse_type>
            <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-           <comment>PHASE:2 MANUAL</comment>
            <src>A_V_A</src>
            <a-connectors.rf>
             <LM>a#jv_133.11-SCzechA-m-d1t3164-2</LM>
@@ -1983,7 +1977,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>jv_133.11-SCzechT-m-d1t3164-20</LM>
@@ -2212,7 +2205,6 @@
        <target_range>0</target_range>
        <discourse_type>conj</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:2 MANUAL</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>jv_133.11-SCzechT-m-d1t3178-3</LM>

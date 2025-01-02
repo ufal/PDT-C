@@ -1172,10 +1172,6 @@
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>anotováno grad
-stejně jako
-nejen ale i
-v celém PDT</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-24-p2s3w19</LM>

@@ -4729,7 +4729,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>parcelace</discourse_comment>
 </LM>
 <LM id="t-mf930709-052-p2s13w2">
 <a>
@@ -6844,7 +6843,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>second_rel PRECED tehdy když</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-052-p2s18w39</LM>
@@ -6852,8 +6850,6 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR? vedlejší věta rozvíjí obě
-koordinované věty</discourse_comment>
 <val_frame.rf>v#v41mlmE</val_frame.rf>
 <children>
 <LM id="t-mf930709-052-p2s18w41">
@@ -7043,7 +7039,6 @@ koordinované věty</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary? další poschodí</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-mf930709-052-p2s12w13</target_node.rf>
@@ -9676,9 +9671,6 @@ koordinované věty</discourse_comment>
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>rys CONC,
-ale podmínka
-zároveň taky</discourse_comment>
 <val_frame.rf>v#v41mvpA</val_frame.rf>
 <children>
 <LM id="t-mf930709-052-p2s28a1">
@@ -13374,12 +13366,6 @@ zároveň taky</discourse_comment>
 </quot>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<discourse_comment>nějaké 
-vysvětlení přirovnáním,
-to také ale jen
-přirovnává, takže
-necháno bez
-anotace</discourse_comment>
 </LM>
 <LM id="t-mf930709-052-p2s37a0">
 <nodetype>atom</nodetype>

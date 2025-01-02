@@ -1026,7 +1026,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94200-36-p3s2w6">
 <a>
@@ -4649,7 +4648,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>3</deepord>
-<discourse_comment>secondary jiným druhem</discourse_comment>
 <children>
 <LM id="t-ln94200-36-p6s1w5">
 <a>
@@ -5410,10 +5408,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>wrongTR?
-tohle je
-hodně podobné 
-RHEM</discourse_comment>
 </LM>
 <LM id="t-ln94200-36-p6s3w13">
 <a>
@@ -6554,7 +6548,6 @@ RHEM</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg1-as-cond</sense_PDTB3>
-<comment>silná implicitní složka</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-36-p7s3w22</LM>

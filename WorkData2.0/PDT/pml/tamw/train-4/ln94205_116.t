@@ -38,7 +38,6 @@
 <tfa>f</tfa>
 <deepord>6</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>is_photo description</discourse_comment>
 <val_frame.rf>v#v41kslE</val_frame.rf>
 <children>
 <LM id="t-ln94205-116-p1s1Aw1">

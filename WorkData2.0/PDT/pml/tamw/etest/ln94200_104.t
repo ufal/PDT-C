@@ -1513,7 +1513,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-ln94200-104-p2s5w3">
@@ -2378,7 +2377,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-104-p3s2w7</LM>
@@ -2929,8 +2927,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>free compositional phrase
-Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-ln94200-104-p3s3w3">
@@ -6018,8 +6014,6 @@ Vyplývání (vyvození výsledků)</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<discourse_comment>adept na seznam 
-"za prve"</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94200-104-p5s2w9</target_node.rf>
@@ -6382,8 +6376,6 @@ Vyplývání (vyvození výsledků)</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>adept na seznam 
-"za druhe"</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94200-104-p5s2w9</target_node.rf>

@@ -10752,8 +10752,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>lze interpretovat 
-i jako vztah VP a NP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-16-p9s2w2</LM>
@@ -10766,7 +10764,6 @@ i jako vztah VP a NP</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-16-p9s3w3</LM>

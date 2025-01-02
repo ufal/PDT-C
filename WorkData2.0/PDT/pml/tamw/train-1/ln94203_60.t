@@ -688,7 +688,6 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>14</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94203-60-p2s3w8">
 <a>
@@ -6033,9 +6032,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>PHASE:2 RETARGETED; nepatří ke konektoru
-i to "tady" z další
-větve?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-60-p5s2w13</LM>

@@ -1136,7 +1136,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94210-144-p2s4w6">
 <a>
@@ -2218,7 +2217,6 @@
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>8</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94210-144-p2s8w5">
 <a>

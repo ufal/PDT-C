@@ -2253,7 +2253,6 @@
 <tfa>f</tfa>
 <deepord>9</deepord>
 <secondary_NP_type>explicat</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41kzmA</val_frame.rf>
 <children>
 <LM id="t-ln95046-089-p3s7w10">
@@ -3176,7 +3175,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln95046-089-p3s11w2</LM>

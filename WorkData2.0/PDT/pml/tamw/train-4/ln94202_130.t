@@ -2411,7 +2411,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE posléze->a posléze</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-130-p4s2w14</LM>
@@ -3856,11 +3855,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<discourse_comment>má vztah k podstromu 
-zajímat se v 14, 
-ale je to příliš implicitní 
-na anotaci  -u nás se nezajímají, 
-v zahraničí ano  -například...</discourse_comment>
 <val_frame.rf>v#v41bikAO</val_frame.rf>
 <children>
 <LM id="t-ln94202-130-p5s4w4">

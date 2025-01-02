@@ -5948,9 +5948,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<discourse_comment>nejistota o tom,
-zda se jedná o vztah 
-mezi dvěma VP  -neanotováno</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95046-048-p2s19a2">

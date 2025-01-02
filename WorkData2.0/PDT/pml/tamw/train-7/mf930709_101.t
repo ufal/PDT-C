@@ -1933,8 +1933,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>není PREC,
-prázdná částice</discourse_comment>
 </LM>
 <LM id="t-mf930709-101-p2s7Aa1">
 <nodetype>complex</nodetype>

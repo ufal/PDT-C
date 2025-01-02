@@ -371,7 +371,6 @@
          <target_range>0</target_range>
          <discourse_type>preced</discourse_type>
          <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-         <comment>PHASE:3 RETYPED conj->preced</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_106.06-SCzechT-m-d1t1436-7</LM>
@@ -2535,7 +2534,6 @@
        <target_range>0</target_range>
        <discourse_type>conj</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:3 RETYPED preced->conj; RESTARTED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ml_106.06-SCzechT-m-d1t1496-1</LM>
@@ -2907,7 +2905,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_106.06-SCzechT-m-d1t1505-5</LM>
@@ -3335,7 +3332,6 @@
                <target_range>0</target_range>
                <discourse_type>conj</discourse_type>
                <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-               <comment>PHASE:1</comment>
                <src>A_H_A</src>
                <t-connectors.rf>
                 <LM>ml_106.06-SCzechT-m-d1t1519-16</LM>
@@ -3407,7 +3403,6 @@
              <target_range>0</target_range>
              <discourse_type>conj</discourse_type>
              <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-             <comment>PHASE:1</comment>
              <src>A_H_A</src>
              <t-connectors.rf>
               <LM>ml_106.06-SCzechT-m-d1e1516-x2-559</LM>
@@ -3672,7 +3667,6 @@
          <discourse_type>restr</discourse_type>
          <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
          <sense_PDTB3_manual>Expansion.Exception.Arg2-as-excpt</sense_PDTB3_manual>
-         <comment>PHASE:3 RETYPED opp->restr</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_106.06-SCzechT-m-d1t1531-7</LM>
@@ -4628,7 +4622,6 @@
            <target_range>0</target_range>
            <discourse_type>conj</discourse_type>
            <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-           <comment>PHASE:1</comment>
            <src>A_H_A</src>
            <t-connectors.rf>
             <LM>ml_106.06-SCzechT-m-d1t1555-3</LM>
@@ -5643,7 +5636,6 @@
                <target_range>0</target_range>
                <discourse_type>preced</discourse_type>
                <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-               <comment>PHASE:3 RETYPED conj->preced; RETARGETED</comment>
                <src>A_H_A</src>
                <t-connectors.rf>
                 <LM>ml_106.06-SCzechT-m-d1t1593-7</LM>
@@ -6196,7 +6188,6 @@
          <target_range>0</target_range>
          <discourse_type>opp</discourse_type>
          <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_106.06-SCzechT-m-d1t1601-8</LM>
@@ -6479,7 +6470,6 @@
          <target_range>0</target_range>
          <discourse_type>preced</discourse_type>
          <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-         <comment>PHASE:3 RETYPED conj->preced; RETARGETED</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_106.06-SCzechT-m-d1t1621-4</LM>
@@ -6594,7 +6584,6 @@
          <target_range>0</target_range>
          <discourse_type>opp</discourse_type>
          <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_106.06-SCzechT-m-d1t1611-6</LM>
@@ -6976,7 +6965,6 @@
              <target_range>0</target_range>
              <discourse_type>conj</discourse_type>
              <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-             <comment>PHASE:1</comment>
              <src>A_H_A</src>
              <t-connectors.rf>
               <LM>ml_106.06-SCzechT-m-d1t1623-1</LM>
@@ -7513,7 +7501,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ml_106.06-SCzechT-m-d1t1638-29</LM>

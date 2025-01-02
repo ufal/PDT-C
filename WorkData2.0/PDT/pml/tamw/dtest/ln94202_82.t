@@ -127,8 +127,6 @@
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>silná implicitní 
-složka u A1</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-82-p1s2w1</LM>
@@ -5976,8 +5974,6 @@ složka u A1</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC,
-wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln94202-82-p6s2a1">
 <nodetype>complex</nodetype>
@@ -6259,8 +6255,6 @@ wrongTR</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC,
-wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln94202-82-p6s3w1">
 <a>
@@ -8035,7 +8029,6 @@ wrongTR</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94202-82-p7s4w7">
 <a>
@@ -8192,10 +8185,6 @@ wrongTR</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR,
-celá struktura
-by měla viset
-na však</discourse_comment>
 <children>
 <LM id="t-ln94202-82-p7s5w15">
 <a>

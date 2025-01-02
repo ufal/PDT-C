@@ -36,7 +36,6 @@
 <t_lemma>nicméně</t_lemma>
 <functor>ADVS</functor>
 <deepord>5</deepord>
-<discourse_comment>text bez nadpisu</discourse_comment>
 <children>
 <LM id="t-ln95045-007-p1s1w4">
 <a>

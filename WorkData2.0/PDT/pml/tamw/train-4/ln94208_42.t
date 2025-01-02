@@ -798,11 +798,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<discourse_comment>one_arg,
-zřejmě se tu vysvětluje,
-proč se čekalo, že budou 
-incidenty, ale zcela jasné
-to není</discourse_comment>
 </LM>
 <LM id="t-ln94208-42-p2s2a0">
 <nodetype>qcomplex</nodetype>

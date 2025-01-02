@@ -1931,8 +1931,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse_comment>wrongTR? podle velkeho manualu (s. 238) ma neg 
-viset na "aniž"</discourse_comment>
 </LM>
 <LM id="t-ln94207-54-p2s5w12">
 <a>
@@ -5149,7 +5147,6 @@ viset na "aniž"</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-54-p4s2w3">
 <a>
@@ -5333,8 +5330,6 @@ viset na "aniž"</discourse_comment>
 <discourse_type>f_cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg1-as-cond</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Condition.Arg1-as-cond</sense_PDTB3_manual>
-<comment>chybí kus argumentu
-(kdybych to potřeboval...)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-54-p4s4w1</LM>

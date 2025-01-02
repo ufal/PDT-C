@@ -1798,7 +1798,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v41jsP</val_frame.rf>
 <children>
 <LM id="t-ln94207-140-p3s5w5">

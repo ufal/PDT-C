@@ -35,8 +35,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>adept na seznam  -zanorene seznamy v 1 hlavnim
-, ale derave a bez jasnych sloves</discourse_comment>
 <children>
 <LM id="t-cmpr9415-029-p2s1w2">
 <a>

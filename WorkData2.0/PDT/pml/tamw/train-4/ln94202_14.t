@@ -268,9 +268,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse_comment>wrongTR?
-proč je tu připojený
-autor v podtitulku?</discourse_comment>
 <children>
 <LM id="t-ln94202-14-p2s1Aw8">
 <a>
@@ -5181,7 +5178,6 @@ autor v podtitulku?</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94202-14-p4s7w7">
 <a>
@@ -6397,7 +6393,6 @@ autor v podtitulku?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-14-p5s3w1</LM>

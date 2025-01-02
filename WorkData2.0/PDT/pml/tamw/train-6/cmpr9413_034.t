@@ -6561,7 +6561,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-034-p9s3w3</LM>
@@ -6574,7 +6573,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Entailment</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-034-p10s1w1</LM>

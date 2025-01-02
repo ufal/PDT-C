@@ -3353,7 +3353,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-44-p3s4w38</LM>
@@ -4367,8 +4366,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
-<discourse_comment>na druhé straně
-je CM</discourse_comment>
 <children>
 <LM id="t-ln94209-44-p4s2w14">
 <a>

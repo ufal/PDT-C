@@ -4688,7 +4688,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-48-p5s5w2">
 <a>
@@ -4726,7 +4725,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary třetí</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -9915,8 +9913,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>25</deepord>
-<discourse_comment>není PREC,
-wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln94209-48-p8s2w33">
 <a>
@@ -11927,9 +11923,6 @@ wrongTR</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>lze interpretovat 
-i jako rozvití NP 
-větou</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-48-p9s3w35</LM>
@@ -12213,7 +12206,6 @@ větou</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-48-p10s1w9">
 <a>

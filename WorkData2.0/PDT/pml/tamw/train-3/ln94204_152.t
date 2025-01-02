@@ -59,9 +59,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse_comment>kratičký článek k fotce?
-1 má tečku, asi to 
-není nadpis</discourse_comment>
 <val_frame.rf>v#v41zdL</val_frame.rf>
 <children>
 <LM id="t-ln94204-152-p1s1w3">

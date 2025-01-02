@@ -4207,7 +4207,6 @@
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Exception.Arg2-as-excpt</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->ovšem</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln95048-063-p4s5w7</LM>
@@ -4265,7 +4264,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-063-p4s5w9</LM>
@@ -4424,7 +4422,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-063-p4s5w19</LM>

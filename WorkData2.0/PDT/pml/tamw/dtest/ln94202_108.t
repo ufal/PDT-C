@@ -2754,11 +2754,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<discourse_comment>wrongTR,
-měla by být
-souřadná struktura 
-visící na čárce
-a celá na EmpVerb</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94202-108-p4s2w10">

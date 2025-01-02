@@ -4763,7 +4763,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-090-p2s15a0">
 <nodetype>complex</nodetype>

@@ -1731,7 +1731,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>divné stylisticky</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-71-p3s1w33</LM>
@@ -5103,7 +5102,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-71-p5s2w11</LM>
@@ -5566,8 +5564,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>otevrena podminka neucinna 
-(Prirucni mluvnice cestiny)</discourse_comment>
 <val_frame.rf>v#v41ontA</val_frame.rf>
 <children>
 <LM id="t-ln94205-71-p6s1w2">
@@ -6642,7 +6638,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94205-71-p6s3w2</LM>

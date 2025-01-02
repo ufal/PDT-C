@@ -758,10 +758,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>divná REASON, ale
-ze všech možností
-mi přijde nejpřesnější
-právě ona</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-25-p2s2w24</LM>
@@ -2605,9 +2601,6 @@ právě ona</comment>
 <target_range>3</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>široké vyplývání,
-zde nejblíž gener,
-paragraph</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-25-p4s1w3</LM>
@@ -4287,9 +4280,6 @@ paragraph</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>paragraph
-není ale na začátku odstavce,
-možný dosah 4-11</discourse_comment>
 </LM>
 <LM id="t-ln94203-25-p5s2w13">
 <a>

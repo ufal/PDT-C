@@ -2656,7 +2656,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-3-p4s3w17">
 <a>

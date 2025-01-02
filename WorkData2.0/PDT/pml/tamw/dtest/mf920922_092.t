@@ -67,9 +67,6 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>nadpis a 
-první věta vlastního
-textu v jednom</discourse_comment>
 <val_frame.rf>v#v41raoA</val_frame.rf>
 <children>
 <LM id="t-mf920922-092-p1s1a0">

@@ -35,11 +35,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>defektní soubor,
-mnoho případů špatné segmentace,
-48-51 a 55 jsou jen interpunkční 
-znaménka  -prázdné rooty, 
-možná is_photo, wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94202-109-p1s1w1">
 <a>
@@ -1125,8 +1120,6 @@ možná is_photo, wrongTR</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>označení vítěze,
-není seznam</discourse_comment>
 </LM>
 <LM id="t-ln94202-109-p2s42w1">
 <a>
@@ -1289,8 +1282,6 @@ není seznam</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>označení vítěze,
-není seznam</discourse_comment>
 </LM>
 <LM id="t-ln94202-109-p2s45w1">
 <a>
@@ -1756,8 +1747,6 @@ není seznam</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>označení vítěze, 
-není seznam</discourse_comment>
 </LM>
 <LM id="t-ln94202-109-p2s57w1">
 <a>
@@ -2054,8 +2043,6 @@ není seznam</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>označení vítěze,
-není seznam</discourse_comment>
 </LM>
 <LM id="t-ln94202-109-p2s64w1">
 <a>
@@ -2280,8 +2267,6 @@ není seznam</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>označení vítěze,
-není seznam</discourse_comment>
 </LM>
 <LM id="t-ln94202-109-p2s71w1">
 <a>

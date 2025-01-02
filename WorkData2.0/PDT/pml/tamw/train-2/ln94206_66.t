@@ -1506,7 +1506,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94206-66-p3s3w1">
 <a>
@@ -4472,10 +4471,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<discourse_comment>adept na seznam
-takhle struktura hypertéma,
-16-26 první položka, 27-32
-druhá položka</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94206-66-p5s1w1">
@@ -4493,7 +4488,6 @@ druhá položka</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>6</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94206-66-p5s1w9">
 <a>
@@ -7418,7 +7412,6 @@ druhá položka</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-66-p6s8w19">
 <a>
@@ -13342,7 +13335,6 @@ druhá položka</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC, ale MANN</discourse_comment>
 </LM>
 <LM id="t-ln94206-66-p8s3w11">
 <a>

@@ -73,11 +73,6 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR,
-mylně rozdělená
-struktura  -
-stromy 1 a 2
-patří dohromady</discourse_comment>
 <children>
 <LM id="t-cmpr9415-005-p3s1w3">
 <a>
@@ -4986,7 +4981,6 @@ patří dohromady</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-005-p13s5w1</LM>
@@ -7250,9 +7244,6 @@ patří dohromady</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>wrongTR?
-stromy 30 a 31
-patří dohromady</discourse_comment>
 <val_frame.rf>v#v41fjzE</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-005-p16s1Cw6">

@@ -73,8 +73,6 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>kolekce; spatna 
-segmentace textu</discourse_comment>
 </LM>
 <LM id="t-mf920922-031-p1s1w20">
 <a>

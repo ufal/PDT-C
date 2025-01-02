@@ -2360,9 +2360,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>divné užití  -
-není jasné, co 
-chtěl říct</discourse_comment>
 <children>
 <LM id="t-mf920922-049-p2s4w33">
 <a>

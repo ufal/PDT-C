@@ -40,12 +40,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>wrongTR,
-chybná segmentace, 
-tahle věta na něco navazuje,
-ale v tomto souboru to
-není, nejspíš poslední
-věta předchozího článku</discourse_comment>
 <val_frame.rf>v#v41ehB</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-035-p1s1w1">
@@ -1430,8 +1424,6 @@ věta předchozího článku</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>vztah spec mezi NP pláč
-a PAR</discourse_comment>
 <val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-035-p4s2a1">
@@ -1574,7 +1566,6 @@ a PAR</discourse_comment>
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>exempl</secondary_NP_type>
-<discourse_comment>taková zvláštní exempl</discourse_comment>
 <children>
 <LM id="t-cmpr9413-035-p4s4w8">
 <a>
@@ -2063,7 +2054,6 @@ a PAR</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-035-p5s4w5</LM>

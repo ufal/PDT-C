@@ -3437,7 +3437,6 @@
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>konektor+secondary</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-057-p2s8w9</LM>

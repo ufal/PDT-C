@@ -94,7 +94,6 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrong_TR spatna segmentace na vety</discourse_comment>
 <children>
 <LM id="t-ln95048-154-p1s1Bw3">
 <a>
@@ -2179,7 +2178,6 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary Více na straně 10. (celá věta)</discourse_comment>
 <children>
 <LM id="t-ln95048-154-p2s7w1">
 <a>

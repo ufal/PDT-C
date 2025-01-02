@@ -2536,7 +2536,6 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR  -t-lemma ma byt "zmírnit"</discourse_comment>
 <val_frame.rf>v#v41rkwA</val_frame.rf>
 <children>
 <LM id="t-ln94210-86-p3s4w23">

@@ -609,7 +609,6 @@
              <target_range>0</target_range>
              <discourse_type>conj</discourse_type>
              <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-             <comment>PHASE:1</comment>
              <src>A_H_A</src>
              <t-connectors.rf>
               <LM>ak_117.05-SCzechT-m-d1t1244-8</LM>
@@ -1073,7 +1072,6 @@
          <target_range>0</target_range>
          <discourse_type>conj</discourse_type>
          <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-         <comment>PHASE:1</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_117.05-SCzechT-m-d1t1246-7</LM>
@@ -1187,7 +1185,6 @@
        <target_range>backward</target_range>
        <discourse_type>conj</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:2 CONN_CHANGE ještě->kromě toho ještě; RETARGETED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ak_117.05-SCzechT-m-d1t1253-2</LM>
@@ -1732,7 +1729,6 @@
        <target_range>0</target_range>
        <discourse_type>conj</discourse_type>
        <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-       <comment>PHASE:3 RETYPED preced->conj; CONN_CHANGE potom->potom ještě; RESTARTED</comment>
        <src>A_I_A</src>
        <t-connectors.rf>
         <LM>ak_117.05-SCzechT-m-d1t1270-1</LM>
@@ -3951,7 +3947,6 @@
                <target_range>0</target_range>
                <discourse_type>synchr</discourse_type>
                <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-               <comment>PHASE:2 MANUAL</comment>
                <src>A_V_A</src>
                <t-connectors.rf>
                 <LM>ak_117.05-SCzechT-m-d1t1370-5</LM>
@@ -5265,7 +5260,6 @@
                  <target_range>0</target_range>
                  <discourse_type>synchr</discourse_type>
                  <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-                 <comment>PHASE:2 MANUAL</comment>
                  <src>A_V_A</src>
                  <t-connectors.rf>
                   <LM>ak_117.05-SCzechT-m-d1t1430-2</LM>
@@ -6539,7 +6533,6 @@
          <target_range>0</target_range>
          <discourse_type>reason</discourse_type>
          <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_117.05-SCzechT-m-d1t1483-17</LM>
@@ -6844,7 +6837,6 @@
                <target_range>0</target_range>
                <discourse_type>preced</discourse_type>
                <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-               <comment>PHASE:2 MANUAL; RESTARTED</comment>
                <src>A_I_A</src>
                <t-connectors.rf>
                 <LM>ak_117.05-SCzechT-m-d1t1490-13</LM>
@@ -7428,7 +7420,6 @@
          <target_range>0</target_range>
          <discourse_type>opp</discourse_type>
          <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-         <comment>PHASE:2 MANUAL</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>ak_117.05-SCzechT-m-d1t1502-3</LM>

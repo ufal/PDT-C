@@ -2316,7 +2316,6 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v41deeA</val_frame.rf>
 <children>
 <LM id="t-ln95045-069-p3s1w16">

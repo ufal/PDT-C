@@ -3396,7 +3396,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 RETARGETED; není jediný důvod</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-105-p1s8w19</LM>

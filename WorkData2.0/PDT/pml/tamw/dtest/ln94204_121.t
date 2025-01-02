@@ -164,7 +164,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41gbkD</val_frame.rf>
 <children>
 <LM id="t-ln94204-121-p2s1Bw3">

@@ -252,7 +252,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>18</deepord>
-<discourse_comment>chyba na TR – má odkazovat k NP</discourse_comment>
 <coref_gram.rf>
 <LM>T-wsj1088-001-p1s0a1</LM>
 </coref_gram.rf>

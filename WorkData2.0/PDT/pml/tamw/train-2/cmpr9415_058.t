@@ -2424,8 +2424,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>24</deepord>
-<discourse_comment>není PREC, 
-ale MANN</discourse_comment>
 </LM>
 <LM id="t-cmpr9415-058-p8s3w26">
 <a>
@@ -3004,10 +3002,6 @@ ale MANN</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>adept na seznam,
-hypertéma zde, 
-6 položek ve
-větách 17-26</discourse_comment>
 <val_frame.rf>v#v41jniC</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-058-p10s4w1">

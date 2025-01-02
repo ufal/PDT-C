@@ -810,9 +810,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<discourse_comment>wrongTR?
-proč tu není doplněné
-sloveso?</discourse_comment>
 <val_frame.rf>v#v41iprA</val_frame.rf>
 <children>
 <LM id="t-ln94206-147-p3s1w9">

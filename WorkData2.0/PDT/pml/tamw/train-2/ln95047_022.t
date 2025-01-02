@@ -2068,7 +2068,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41gbkA</val_frame.rf>
 <children>
 <LM id="t-ln95047-022-p4s1w31">
@@ -3299,7 +3298,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-ln95047-022-p4s6w15">
@@ -3577,7 +3575,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41gbkA</val_frame.rf>
 <children>
 <LM id="t-ln95047-022-p4s6w28">

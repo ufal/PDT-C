@@ -3927,8 +3927,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<discourse_comment>wrongTR,
-pak je zde CONJ konektor</discourse_comment>
 </LM>
 <LM id="t-ln94207-103-p4s1w13">
 <a>

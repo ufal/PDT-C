@@ -187,8 +187,6 @@
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>4</deepord>
-<discourse_comment>neanotuji: vztah 
-mezi NP a VP</discourse_comment>
 <children>
 <LM id="t-ln94207-87-p2s1Bw1">
 <a>
@@ -2137,8 +2135,6 @@ mezi NP a VP</discourse_comment>
 <tfa>f</tfa>
 <deepord>4</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase
-Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-ln94207-87-p3s38w3">
@@ -5248,9 +5244,6 @@ Vyplývání (vyvození výsledků)</discourse_comment>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>5</deepord>
-<discourse_comment>wrongTR
-
-chybí text?</discourse_comment>
 <children>
 <LM id="t-ln94207-87-p6s3a1">
 <nodetype>complex</nodetype>
@@ -5423,9 +5416,6 @@ chybí text?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>wrongTR
-
-chybí text?</discourse_comment>
 <val_frame.rf>v#v41heiA</val_frame.rf>
 <children>
 <LM id="t-ln94207-87-p6s15a1">
@@ -5961,9 +5951,6 @@ chybí text?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>wrongTR
-
-chybí text?</discourse_comment>
 <val_frame.rf>v#v41puqA</val_frame.rf>
 <children>
 <LM id="t-ln94207-87-p7s19a0">

@@ -8997,7 +8997,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>konektor+secondary</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94200-123-p11s3w1</LM>

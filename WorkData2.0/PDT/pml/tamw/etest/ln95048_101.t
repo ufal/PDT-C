@@ -3766,7 +3766,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>v předchozí větě je, že stav byl 3:1, v téhle, že stav byl 0:2, nevím, kam vést šipku, nechávám bez anotace</discourse_comment>
 <children>
 <LM id="t-ln95048-101-p3s17w2">
 <a>

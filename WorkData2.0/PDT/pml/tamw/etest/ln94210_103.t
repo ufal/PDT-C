@@ -59,7 +59,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>is_photo</discourse_comment>
 <val_frame.rf>v#v41lioA</val_frame.rf>
 <children>
 <LM id="t-ln94210-103-p1s1w4">

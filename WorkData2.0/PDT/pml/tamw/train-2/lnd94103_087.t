@@ -1846,7 +1846,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>chybějící kus  -např. není to vůbec s podivem</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-lnd94103-087-p1s9w1</LM>
@@ -6535,7 +6534,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-lnd94103-087-p1s35w3</LM>
@@ -6711,7 +6709,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-087-p1s36Aw1</LM>
@@ -8560,7 +8557,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-lnd94103-087-p1s43w4">
 <a>
@@ -12810,9 +12806,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>Premyslela jsem i nad "corr", 
-celkove jsem si tu moc 
-nevedela rady..</discourse_comment>
 <children>
 <LM id="t-lnd94103-087-p1s60w13">
 <a>
@@ -15418,7 +15411,6 @@ nevedela rady..</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-lnd94103-087-p1s71a0">
 <nodetype>complex</nodetype>
@@ -18475,7 +18467,6 @@ nevedela rady..</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-087-p1s83Bw2</LM>
@@ -20003,7 +19994,6 @@ nevedela rady..</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-lnd94103-087-p1s90w6">
 <a>
@@ -22453,7 +22443,6 @@ nevedela rady..</discourse_comment>
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-lnd94103-087-p1s102w3">
 <a>
@@ -24410,8 +24399,6 @@ nevedela rady..</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>sémanticky je to spolu
-s AIM jeden predikát</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-lnd94103-087-p1s109Aa0">

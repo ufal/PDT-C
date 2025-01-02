@@ -636,7 +636,6 @@
 <target_range>1</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-108-p2s3w4</LM>
@@ -2383,7 +2382,6 @@
 <target_range>group</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>dle mého bez VH u obou Arg</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-108-p2s8w1</LM>

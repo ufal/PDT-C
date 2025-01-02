@@ -1782,7 +1782,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE li ~ pokud->jen tehdy li ~ pokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-14-p3s2w15</LM>
@@ -3500,7 +3499,6 @@
 <target_range>group</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:2 RETARGETED; RETARGETED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-14-p5s1w19</LM>
@@ -4130,8 +4128,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>nejistota
-v sem vztahu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-14-p6s4w1</LM>

@@ -462,7 +462,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>nebo o 2 patra niz u obou arg?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p2s2w6</LM>
@@ -3168,8 +3167,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
-<comment>zda se mi,ze to nesouvisi, 
-je to soucasti autorovy ironie</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p3s4w6</LM>
@@ -6312,7 +6309,6 @@ je to soucasti autorovy ironie</comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>f kvůli chybějící části  -a udělat by to byl schopen</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p6s1w21</LM>
@@ -6759,7 +6755,6 @@ je to soucasti autorovy ironie</comment>
 <t_lemma>nýbrž</t_lemma>
 <functor>ADVS</functor>
 <deepord>13</deepord>
-<discourse_comment>nic, clenske nybrz :-(</discourse_comment>
 <children>
 <LM id="t-ln95047-063-p6s2w13">
 <a>
@@ -7271,7 +7266,6 @@ je to soucasti autorovy ironie</comment>
 <target_range>backward</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>divne nicmene</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95047-063-p6s3w9</LM>
@@ -10602,7 +10596,6 @@ je to soucasti autorovy ironie</comment>
 <functor>CNCS</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>one_arg  -u schovaného i když</discourse_comment>
 <children>
 <LM id="t-ln95047-063-p7s5w4">
 <a>

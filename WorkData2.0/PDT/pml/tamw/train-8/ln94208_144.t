@@ -1045,7 +1045,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-144-p2s3a0">
 <nodetype>qcomplex</nodetype>
@@ -2019,7 +2018,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->protože</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-144-p4s1w1</LM>
@@ -3255,8 +3253,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
-<discourse_comment>secondary 
-je tomu naopak</discourse_comment>
 <val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94208-144-p4s5w14">
@@ -6693,11 +6689,6 @@ je tomu naopak</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>wrongTR,
-podle sémantiky CNCS,
-úplně netypické užití
-vazby s "vzhledem k
-tomu"</discourse_comment>
 <val_frame.rf>v#v41clwA</val_frame.rf>
 <children>
 <LM id="t-ln94208-144-p7s4w8">
@@ -8818,7 +8809,6 @@ tomu"</discourse_comment>
 <tfa>f</tfa>
 <deepord>8</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94208-144-p7s12w6</target_node.rf>

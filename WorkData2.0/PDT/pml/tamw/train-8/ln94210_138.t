@@ -4132,11 +4132,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>k přesné interpretaci
-je potřeba znát
-faktické pozadí případu,
-takto interpretace 
-nejasná</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p6s2w3</LM>
@@ -4416,9 +4411,6 @@ nejasná</comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>opět poněkud
-nejasné bez
-znalostí faktů</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-138-p6s3w3</LM>

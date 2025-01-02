@@ -3832,8 +3832,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>18</deepord>
-<discourse_comment>wrongTR, tohle
-je TIME</discourse_comment>
 </LM>
 <LM id="t-lnd94103-086-p1s17w19">
 <a>
@@ -4692,7 +4690,6 @@ je TIME</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-086-p1s24w11</LM>
@@ -7309,9 +7306,6 @@ je TIME</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Negative-cause.NegResult</sense_PDTB3>
-<comment>sporná anotace
-wrongTR? je AIM funktor dobře?
-není to spíš způsobová věta?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-086-p1s28Bw10</LM>
@@ -8292,7 +8286,6 @@ není to spíš způsobová věta?</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary o dva roky později</discourse_comment>
 <children>
 <LM id="t-lnd94103-086-p1s29Bw3">
 <a>
@@ -8869,7 +8862,6 @@ není to spíš způsobová věta?</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Entailment</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-lnd94103-086-p1s31w2</LM>

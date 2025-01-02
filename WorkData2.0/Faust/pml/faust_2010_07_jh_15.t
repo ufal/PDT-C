@@ -321,7 +321,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->#Neg ~ ale; CONN_CHANGE ale->#Neg ~ ale; RETYPED opp->corr</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_jh_15-SCzechT-p1531-s1-roota1</LM>
@@ -710,7 +709,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_jh_15-SCzechT-p1538-s1-w4</LM>
@@ -1240,7 +1238,6 @@
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>PHASE:3 RETYPED opp->restr; RETYPED conj->opp</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_jh_15-SCzechT-p1542-s1-w4</LM>
@@ -2077,7 +2074,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_jh_15-SCzechT-p1554-s1-w3</LM>
@@ -2474,7 +2470,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_jh_15-SCzechT-p1556-s1-w24</LM>
@@ -2849,7 +2844,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_jh_15-SCzechT-p1562-s1-w7</LM>
@@ -4079,7 +4073,6 @@
 <target_range>0</target_range>
 <discourse_type>f_cond</discourse_type>
 <sense_PDTB3>Contingency.Condition+SpeechAct</sense_PDTB3>
-<comment>PHASE:3 RETYPED cond->f_cond</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_jh_15-SCzechA-p1586-s1-w13</LM>
@@ -5166,7 +5159,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_jh_15-SCzechA-p1612-s1-w11</LM>

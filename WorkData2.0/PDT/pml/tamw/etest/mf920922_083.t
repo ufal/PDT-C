@@ -2008,8 +2008,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>divně užité 
-navzdory tomu</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-083-p1s8w1</LM>

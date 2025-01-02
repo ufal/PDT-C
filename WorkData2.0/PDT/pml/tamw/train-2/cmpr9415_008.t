@@ -1733,7 +1733,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary v případě zájmu</discourse_comment>
 <children>
 <LM id="t-cmpr9415-008-p9s6w5">
 <a>

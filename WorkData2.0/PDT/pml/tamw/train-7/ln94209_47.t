@@ -647,7 +647,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94209-47-p2s2w13</LM>
@@ -2061,7 +2060,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-47-p3s1w2</LM>
@@ -5682,7 +5680,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-47-p4s5a0</LM>
@@ -7433,7 +7430,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-47-p4s10w1">
 <a>
@@ -9016,7 +9012,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v41gtiA</val_frame.rf>
 <children>
 <LM id="t-ln94209-47-p4s14w14">

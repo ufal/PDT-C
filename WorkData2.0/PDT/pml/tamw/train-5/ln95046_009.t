@@ -6071,7 +6071,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41fobA</val_frame.rf>
 <children>
 <LM id="t-ln95046-009-p4s9w3">
@@ -6168,7 +6167,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln95046-009-p4s9w6</LM>

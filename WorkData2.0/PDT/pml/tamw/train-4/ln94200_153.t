@@ -4464,7 +4464,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>wrong TR, tady není COND věta</discourse_comment>
 <val_frame.rf>v#v41dhaA</val_frame.rf>
 <children>
 <LM id="t-ln94200-153-p4s4w4">
@@ -10339,9 +10338,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>adept na hypertéma,
-adept na seznam
-v rámci 1 věty  -33</discourse_comment>
 <children>
 <LM id="t-ln94200-153-p6s3w5">
 <a>
@@ -11064,7 +11060,6 @@ v rámci 1 věty  -33</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-153-p6s6w4</LM>

@@ -1526,7 +1526,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-027-p2s4w23</LM>
@@ -1656,10 +1655,6 @@
 </LM>
 </quot>
 <deepord>25</deepord>
-<discourse_comment>divna forma, ale EXPLICAT 
-je dle meho nazoru nejblize
-(vysvetleni, proc je to neumerne 
-vysoke)</discourse_comment>
 <children>
 <LM id="t-mf920922-027-p2s4w28">
 <a>
@@ -5331,9 +5326,6 @@ vysoke)</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>totiž zde může znamenat
-i něco jako "jak možná nevíte",
-pak by se jednalo o one_arg </discourse_comment>
 <val_frame.rf>v#v41relA</val_frame.rf>
 <children>
 <LM id="t-mf920922-027-p3s3w9">
@@ -6800,7 +6792,6 @@ pak by se jednalo o one_arg </discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-mf920922-027-p3s6Aw3">
 <a>

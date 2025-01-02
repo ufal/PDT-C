@@ -1481,7 +1481,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94208-45-p3s2w4</LM>
@@ -3055,7 +3054,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>presupozice  -kdyby tohle řešilo ústavním zákonem, tak zdanení by se muselo řešit stejně  -vztah s NP</discourse_comment>
 </LM>
 <LM id="t-ln94208-45-p4s2w9">
 <a>

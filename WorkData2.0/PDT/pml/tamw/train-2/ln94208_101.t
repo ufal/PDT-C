@@ -10448,7 +10448,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>Zvazovala jsem i corr.</discourse_comment>
 <val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94208-101-p5s14w16">
@@ -10772,7 +10771,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-101-p5s15w1</LM>

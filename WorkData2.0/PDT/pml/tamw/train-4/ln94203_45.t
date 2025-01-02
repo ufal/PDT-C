@@ -809,8 +809,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>MANN
-koreferenční k celé 4</discourse_comment>
 </LM>
 <LM id="t-ln94203-45-p2s2w7">
 <a>
@@ -2202,7 +2200,6 @@ koreferenční k celé 4</discourse_comment>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-45-p3s4w2</LM>
@@ -3359,7 +3356,6 @@ koreferenční k celé 4</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-45-p4s3w9</LM>
@@ -5449,7 +5445,6 @@ koreferenční k celé 4</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem ani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-45-p5s6w3</LM>

@@ -4492,7 +4492,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930709-119-p8s1w1">
 <a>
@@ -5797,7 +5796,6 @@
 <discourse_type>f_opp</discourse_type>
 <sense_PDTB3>Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct</sense_PDTB3_manual>
-<comment>speech act, metakomentář k textu</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-mf930709-119-p9s1w1</LM>
@@ -7335,7 +7333,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>10</deepord>
-<discourse_comment>nezda se mi jako diskurzni konektor</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -7382,7 +7379,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>13</deepord>
-<discourse_comment>nezda se mi jako diskurzni konektor</discourse_comment>
 </LM>
 </children>
 </LM>

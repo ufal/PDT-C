@@ -833,7 +833,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41qsnE</val_frame.rf>
 <children>
 <LM id="t-ln94210-54-p2s3w3">
@@ -4307,7 +4306,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>argumenty jsou jen infinitivy</discourse_comment>
 </LM>
 <LM id="t-ln94210-54-p4s5a5">
 <nodetype>qcomplex</nodetype>

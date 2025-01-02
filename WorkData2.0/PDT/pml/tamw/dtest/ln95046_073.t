@@ -50,7 +50,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95046-073-p1s1w4">
 <a>
@@ -485,7 +484,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor+secondary</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-073-p2s2w13</LM>
@@ -4826,10 +4824,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>25</deepord>
-<discourse_comment>wrongTR,
-chybí dokopírované
-sloveso  -rozhodující
-otázkou je, zda...</discourse_comment>
 <val_frame.rf>v#v41pjiA</val_frame.rf>
 <children>
 <LM id="t-ln95046-073-p5s3w3">
@@ -8841,7 +8835,6 @@ otázkou je, zda...</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln95046-073-p7s6w1</LM>

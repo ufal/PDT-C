@@ -1280,7 +1280,6 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-140-p2s3a2">
 <nodetype>qcomplex</nodetype>
@@ -1349,7 +1348,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-140-p2s3w6</LM>
@@ -2202,8 +2200,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>slabá OPP, ale
-CONJ nesedí</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-140-p3s2w13</LM>
@@ -2484,10 +2480,6 @@ CONJ nesedí</comment>
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>spíš než CONFR je 
-to něco jako
-"ve srovnání s" -
-bližší vztah nemáme</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-140-p4s1w5</LM>
@@ -2627,9 +2619,6 @@ bližší vztah nemáme</comment>
 <functor>APPS</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>13</deepord>
-<discourse_comment>wrongTR?
-proč to není značeno
-jako vsuvka?</discourse_comment>
 <children>
 <LM id="t-ln94206-140-p4s1w15">
 <a>
@@ -3944,8 +3933,6 @@ jako vsuvka?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>v těch konektorech
-je i postoj</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-140-p5s2w1</LM>
@@ -5166,12 +5153,6 @@ je i postoj</comment>
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>10</deepord>
-<discourse_comment>spojuje NP a VP,
-v tom NP "knížka
-textů Hymny světa" je
-predikát přítomen 
-jen latentně, proto
-neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln94206-140-p7s1w16">
 <a>
@@ -8043,9 +8024,6 @@ neanotováno</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<discourse_comment>wrongTR?
-tohle není vsuvka, tak
-proč je to šedé</discourse_comment>
 <children>
 <LM id="t-ln94206-140-p11s2w14">
 <a>

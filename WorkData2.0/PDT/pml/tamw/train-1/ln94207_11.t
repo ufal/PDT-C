@@ -457,7 +457,6 @@
 <tfa>f</tfa>
 <deepord>9</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41rvuB</val_frame.rf>
 <children>
 <LM id="t-ln94207-11-p3s1w2">
@@ -812,7 +811,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <children>
 <LM id="t-ln94207-11-p4s1w2">
 <a>

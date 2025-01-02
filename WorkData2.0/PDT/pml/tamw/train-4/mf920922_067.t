@@ -178,9 +178,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR?
-proč je tu ten nadpis 
-dvakrát?</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf920922-067-p1s1w3</target_node.rf>

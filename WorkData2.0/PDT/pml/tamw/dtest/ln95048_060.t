@@ -1029,7 +1029,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>24</deepord>
-<discourse_comment>divné užití taky</discourse_comment>
 </LM>
 <LM id="t-ln95048-060-p2s3w42">
 <a>

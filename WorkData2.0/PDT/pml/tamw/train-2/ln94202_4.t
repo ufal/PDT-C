@@ -2465,7 +2465,6 @@
 <target_range>4</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94202-4-p6s1w6</LM>
@@ -2479,7 +2478,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94202-4-p6s1w16">
@@ -8868,7 +8866,6 @@
 <tfa>f</tfa>
 <deepord>8</deepord>
 <secondary_NP_type>explicat</secondary_NP_type>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41rmoB</val_frame.rf>
 <children>
 <LM id="t-ln94202-4-p14s3w9">

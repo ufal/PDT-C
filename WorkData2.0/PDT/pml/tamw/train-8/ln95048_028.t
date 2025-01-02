@@ -9039,7 +9039,6 @@
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Conjunction</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED conc->conj; CONN_CHANGE ->aniž</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-028-p9s5w1</LM>

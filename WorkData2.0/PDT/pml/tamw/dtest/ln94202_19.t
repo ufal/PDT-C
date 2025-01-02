@@ -5558,7 +5558,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary k tomu se připojuje</discourse_comment>
 <val_frame.rf>v#v41iwhA</val_frame.rf>
 <children>
 <LM id="t-ln94202-19-p6s2w2">

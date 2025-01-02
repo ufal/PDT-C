@@ -2454,9 +2454,6 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>nemá dva slovesné argumenty,
-dá se vypustit, one_arg to
-uplne neni</discourse_comment>
 </LM>
 <LM id="t-ln94200-172-p3s1w9">
 <a>

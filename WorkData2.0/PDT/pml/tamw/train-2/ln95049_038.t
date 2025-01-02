@@ -6114,9 +6114,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>7</deepord>
-<discourse_comment>wrongTR,
-tohle je CAUS,
-ne COND</discourse_comment>
 <children>
 <LM id="t-ln95049-038-p3s14w6">
 <a>

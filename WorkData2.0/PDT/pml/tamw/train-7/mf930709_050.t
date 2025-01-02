@@ -1599,7 +1599,6 @@
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-050-p3s6w2</LM>
@@ -1846,9 +1845,6 @@
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>má něco ze spec,
-ale moc nezřetelné
-na anotaci</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930709-050-p3s6w1</LM>

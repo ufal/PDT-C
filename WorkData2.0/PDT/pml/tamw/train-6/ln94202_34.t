@@ -1550,12 +1550,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>vztah mezi 8 a 9+10
-je REASON  -například
-tu dělá EXEMPL toho 
-REASON  -konektor pro
-REASON není, proto 
-neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln94202-34-p4s2w4">
 <a>

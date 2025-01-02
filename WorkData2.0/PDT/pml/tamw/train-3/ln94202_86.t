@@ -2188,8 +2188,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>není čistá reason -
-široké vyplývání</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-86-p3s3w6</LM>
@@ -17269,7 +17267,6 @@
 <tfa>f</tfa>
 <deepord>9</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41kzmA</val_frame.rf>
 <children>
 <LM id="t-ln94202-86-p16s5w8">

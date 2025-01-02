@@ -813,7 +813,6 @@
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
 <sense_PDTB3_manual>Temporal.Asynchronous.Succession</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE poté->a poté</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-90-p2s1Cw22</LM>
@@ -827,7 +826,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-90-p2s1Cw19</LM>
@@ -2650,10 +2648,6 @@
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>wrongTR? tady by mělo
-být dokopírované druhé sloveso
-nebyl zvolen  -byl zvolen, anotace
-se proto nedá udělat úplně dobře</discourse_comment>
 <val_frame.rf>v#v41sciA</val_frame.rf>
 <children>
 <LM id="t-ln94205-90-p3s3w5">
@@ -9153,7 +9147,6 @@ se proto nedá udělat úplně dobře</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94205-90-p8s3w2">
 <a>
@@ -16298,10 +16291,6 @@ se proto nedá udělat úplně dobře</discourse_comment>
 <LM>
 <type>list</type>
 <start_range>0</start_range>
-<comment>vypadá to jako seznam,
-ale druhá položka není
-v textu uvedena, možná
-stylistická chyba _PJ</comment>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94205-90-p12s4w1</LM>
@@ -18505,7 +18494,6 @@ stylistická chyba _PJ</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-90-p14s3w18</LM>

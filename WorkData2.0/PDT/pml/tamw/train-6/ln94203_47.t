@@ -1743,9 +1743,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>29</deepord>
-<discourse_comment>arg1 je NP 
-pro přílišnou obecnost,
-proto neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln94203-47-p3s1a2">
 <nodetype>complex</nodetype>

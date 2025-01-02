@@ -54,7 +54,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<discourse_comment>bez nadpisu</discourse_comment>
 <val_frame.rf>v#v41nzbB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-010-p1s1w2">
@@ -1459,8 +1458,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>osm dní specifikuje
-konektor, nakonec nepřidáno</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-010-p1s5w19</LM>

@@ -677,7 +677,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94208-124-p2s2w2">
 <a>
@@ -3006,9 +3005,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>premyslela jsem i nad grad, 
-ale neprislo mi to jako 
-tak silna gradace</discourse_comment>
 <val_frame.rf>v#v41irhA</val_frame.rf>
 <children>
 <LM id="t-ln94208-124-p4s2w1">

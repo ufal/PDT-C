@@ -606,7 +606,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_jh_05-SCzechT-p0436-s1-w19</LM>
@@ -659,7 +658,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE , tak->tak</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_jh_05-SCzechT-p0436-s1-w24</LM>
@@ -916,7 +914,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE jenom->#Neg</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_jh_05-SCzechT-p0436-s1B-roota1</LM>
@@ -6791,7 +6788,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_jh_05-SCzechA-p0518-s1-w14</LM>

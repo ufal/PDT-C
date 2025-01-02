@@ -3335,8 +3335,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>Arg2 je pouze NP
-"své nadšení" atd.</discourse_comment>
 </LM>
 <LM id="t-ln94200-37-p3s5a0">
 <nodetype>complex</nodetype>

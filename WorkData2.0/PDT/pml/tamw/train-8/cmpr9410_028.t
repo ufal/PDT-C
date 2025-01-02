@@ -27,7 +27,6 @@
 <functor>APPS</functor>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>metatext</discourse_comment>
 <children>
 <LM id="t-cmpr9410-028-p2s1w1">
 <a>
@@ -7638,7 +7637,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE a->a dále</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-028-p14s3w31</LM>
@@ -18128,7 +18126,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-028-p31s4a2">
@@ -19772,7 +19769,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-028-p33s5a2">
@@ -32269,10 +32265,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>mohlo by byt vnimano i 
-jako GRAD, ale pro 
-me to neni dostatecne 
-gradujici</discourse_comment>
 <val_frame.rf>v#v41chlQ</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-028-p49s1w18">

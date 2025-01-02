@@ -1318,7 +1318,6 @@
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>PHASE:2 MANUAL; MANUALLY-FROM-PDTB</comment>
 <a-connectors.rf>
 <LM>a#a-wsj0902-001-p1s5W10-Ta</LM>
 <LM>a#a-wsj0902-001-p1s5W11-Ta</LM>

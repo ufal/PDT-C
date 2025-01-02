@@ -27,8 +27,6 @@
 <tfa>t</tfa>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR?
-špatná segmentace</discourse_comment>
 <children>
 <LM id="t-lnd94103-004-p1s1w1">
 <a>

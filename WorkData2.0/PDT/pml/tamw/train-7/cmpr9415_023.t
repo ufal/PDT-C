@@ -1805,7 +1805,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-cmpr9415-023-p6s1w4</target_node.rf>
@@ -2637,7 +2636,6 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR? nemaji byt 13 a 14 jeden strom?</discourse_comment>
 <children>
 <LM id="t-cmpr9415-023-p7s4w3">
 <a>

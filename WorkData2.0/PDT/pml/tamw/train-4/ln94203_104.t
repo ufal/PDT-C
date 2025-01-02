@@ -5369,7 +5369,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-104-p4s9w7">
 <a>

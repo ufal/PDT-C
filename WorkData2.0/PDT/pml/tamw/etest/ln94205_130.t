@@ -8924,7 +8924,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41jsP</val_frame.rf>
 <children>
 <LM id="t-ln94205-130-p5s6w3">
@@ -14216,8 +14215,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>proc se jako konektor zobrazuje "nejde", kdyz jsem
-zkopirovala jen negaci?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-130-p9s8a0</LM>

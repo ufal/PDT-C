@@ -1229,7 +1229,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>divná formulace   -i tak můžeme už říct, že</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-99-p2s4w8</LM>

@@ -3040,8 +3040,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR,
-MANN, ne PREC</discourse_comment>
 </LM>
 <LM id="t-ln94211-69-p3s4w1">
 <a>
@@ -3296,7 +3294,6 @@ MANN, ne PREC</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-69-p3s6w3">
 <a>
@@ -4870,7 +4867,6 @@ MANN, ne PREC</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94211-69-p5s4w3</LM>

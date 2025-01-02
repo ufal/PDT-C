@@ -1983,11 +1983,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary? možná
-spíš normální 
-konektor, jde
-o vztah NP,VP,
-proto neanotováno</discourse_comment>
 </LM>
 <LM id="t-mf930713-064-p3s5w5">
 <a>

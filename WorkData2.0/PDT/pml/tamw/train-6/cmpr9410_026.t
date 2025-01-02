@@ -1122,9 +1122,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>má i rysy SPEC,
-lze zřejmě nechat
-i bez anotace</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-026-p4s4w2</LM>

@@ -1641,7 +1641,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94208-34-p2s5w19">
@@ -2025,7 +2024,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-34-p2s6a1">
 <nodetype>qcomplex</nodetype>

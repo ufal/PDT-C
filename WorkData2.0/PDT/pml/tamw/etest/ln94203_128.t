@@ -420,7 +420,6 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary? maximálně</discourse_comment>
 </LM>
 <LM id="t-ln94203-128-p2s2a0">
 <nodetype>qcomplex</nodetype>
@@ -1799,7 +1798,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>arg1 je infinitiv</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-128-p4s2w5</target_node.rf>

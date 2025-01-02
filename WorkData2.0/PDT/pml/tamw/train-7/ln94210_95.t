@@ -14393,11 +14393,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>nelze přidat
-jen uzel
-Neg jako u
-ostatních 
-případů corr</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-95-p7s6w9</LM>
@@ -18299,7 +18294,6 @@ případů corr</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-ln94210-95-p8s6w9">
@@ -26309,8 +26303,6 @@ případů corr</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC, 
-ale MANN</discourse_comment>
 </LM>
 <LM id="t-ln94210-95-p12s6w5">
 <a>
@@ -31986,7 +31978,6 @@ ale MANN</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Entailment</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94210-95-p13s4w4</LM>
@@ -32354,7 +32345,6 @@ ale MANN</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>secondary  -vyplyvani</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-ln94210-95-p13s4w3">

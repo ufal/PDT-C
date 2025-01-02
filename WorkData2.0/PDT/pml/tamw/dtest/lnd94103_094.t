@@ -3959,7 +3959,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>secondary? prvé konstatování</discourse_comment>
 <val_frame.rf>v#v41bqlA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-094-p1s12a1">
@@ -4141,7 +4140,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>secondary? druhé konstatování</discourse_comment>
 <val_frame.rf>v#v41bqlA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-094-p1s13a4">
@@ -4780,7 +4778,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41quuB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-094-p1s14w1">
@@ -6570,8 +6567,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>tohle sloveso
-je vyjádření ATT</discourse_comment>
 <val_frame.rf>v#v41kapB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-094-p1s17a0">

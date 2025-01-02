@@ -1508,9 +1508,6 @@
 </LM>
 </quot>
 <deepord>9</deepord>
-<discourse_comment>wrongTR? na "ale" bych povesila "a" a na nej "Mel
-jsem pocit, ze motor je obsahem handicapovan" a 
-"nasadil dvojite zapalovani"</discourse_comment>
 <children>
 <LM id="t-mf920925-044-p2s7w9">
 <a>
@@ -10236,7 +10233,6 @@ jsem pocit, ze motor je obsahem handicapovan" a
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-044-p2s38w7</LM>

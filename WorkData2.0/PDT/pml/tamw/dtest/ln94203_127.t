@@ -729,7 +729,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-127-p2s1Bw14</target_node.rf>
@@ -1960,9 +1959,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC,
-wrongTR,
-MANN</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-127-p3s1w23</target_node.rf>

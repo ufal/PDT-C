@@ -203,7 +203,6 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>6</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <children>
 <LM id="t-ln94210-8-p2s1w1">
 <a>

@@ -1525,10 +1525,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>neni to tolik explicitni 
-(v podstate: v opacnem 
-pripade by to znamenalo, 
-ze si to vymyslel)</discourse_comment>
 <val_frame.rf>v#v41oljC</val_frame.rf>
 <children>
 <LM id="t-ln94211-46-p2s5w3">

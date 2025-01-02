@@ -138,8 +138,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>katafora k nejvyššímu
-uzlu následující věty</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-cmpr9413-032-p3s1Aw6">
@@ -1146,7 +1144,6 @@ uzlu následující věty</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<discourse_comment>CM, ne CNCS</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-032-p4s1w20">
 <a>
@@ -1999,7 +1996,6 @@ uzlu následující věty</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-032-p6s2w12</LM>
@@ -4408,7 +4404,6 @@ uzlu následující věty</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE a přímo->a</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-032-p10s1w13</LM>
@@ -5090,8 +5085,6 @@ uzlu následující věty</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>hodně zastřený vztah
-kvůli modalitě</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-032-p12s2w1</LM>
@@ -5104,7 +5097,6 @@ kvůli modalitě</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-032-p13s1w7</LM>
@@ -5467,7 +5459,6 @@ kvůli modalitě</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>poměrně implicitní</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-032-p13s3Aw1</LM>

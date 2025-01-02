@@ -815,7 +815,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary z tohoto důvodu</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-143-p2s2w10</target_node.rf>
@@ -1071,9 +1070,6 @@
 <target_range>2</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem např.
-divný vztah, není jisté, 
-kam odkazuje</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-143-p3s2w1</LM>

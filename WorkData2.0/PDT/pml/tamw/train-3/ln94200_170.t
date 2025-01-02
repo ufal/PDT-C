@@ -1038,8 +1038,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg
-</discourse_comment>
 </LM>
 <LM id="t-ln94200-170-p2s5w2">
 <a>
@@ -3976,7 +3974,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->raději však</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-170-p4s4w18</LM>
@@ -5294,8 +5291,6 @@
 <target_range>5</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>konektor je 
-typický paragraph</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-170-p6s1w3</LM>

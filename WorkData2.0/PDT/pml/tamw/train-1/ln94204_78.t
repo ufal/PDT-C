@@ -2946,7 +2946,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE přesto že->i přesto že</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-78-p3s3w4</LM>

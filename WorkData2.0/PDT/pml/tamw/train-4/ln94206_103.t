@@ -2257,9 +2257,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>je tam i něco z CONFR,
-ale je to málo syntakticky 
-paralelní</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p2s7w13</LM>
@@ -2756,7 +2753,6 @@ paralelní</comment>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p2s8w1</LM>
@@ -3051,7 +3047,6 @@ paralelní</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-103-p3s1w6">
 <a>
@@ -4103,7 +4098,6 @@ paralelní</comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-103-p4s2w4</LM>
@@ -4459,7 +4453,6 @@ paralelní</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-103-p4s3w2">
 <a>

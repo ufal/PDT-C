@@ -4175,7 +4175,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>PS</src>
 </LM>
 </discourse>
@@ -4484,7 +4483,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-122-p3s10w16</LM>
@@ -4753,7 +4751,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>PHASE:2 RESTARTED; RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-122-p3s10w34</LM>
@@ -4889,7 +4886,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE a->a i; RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-122-p3s10w26</LM>
@@ -5894,7 +5890,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-122-p3s12w12</LM>
@@ -6955,8 +6950,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse_comment>wrongTR? nemá tu 
-být tak TWHEN.nr?</discourse_comment>
 <val_frame.rf>v#v41gumA</val_frame.rf>
 <children>
 <LM id="t-ln94206-122-p4s3w17">
@@ -8483,7 +8476,6 @@ být tak TWHEN.nr?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>odstin preced</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-122-p4s5w16</LM>

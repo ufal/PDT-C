@@ -10128,7 +10128,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln95048-116-p7s1w3">

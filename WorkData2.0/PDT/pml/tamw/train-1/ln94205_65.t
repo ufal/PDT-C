@@ -3373,7 +3373,6 @@
 <target_range>5</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-65-p4s3w4</LM>

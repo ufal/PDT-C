@@ -1862,7 +1862,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>16</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln94207-116-p2s5w27">
 <a>

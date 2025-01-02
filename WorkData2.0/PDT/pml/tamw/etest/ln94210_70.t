@@ -91,7 +91,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41qurD</val_frame.rf>
 <children>
 <LM id="t-ln94210-70-p2s1w2">

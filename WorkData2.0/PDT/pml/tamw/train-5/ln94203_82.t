@@ -2254,8 +2254,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>31</deepord>
-<discourse_comment>nějaký typ zeugmatu v textu,
-wrongTR</discourse_comment>
 <val_frame.rf>v#v41dfuC</val_frame.rf>
 <children>
 <LM id="t-ln94203-82-p2s5w27">
@@ -2810,8 +2808,6 @@ wrongTR</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>velmi slabá REASON, 
-ale sém. snad nejblíž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-82-p3s2w2</LM>
@@ -4522,10 +4518,6 @@ ale sém. snad nejblíž</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>připojuje (11)
-k podstromu uzlu poskytnout v (10)-
-nejedná se o VF, proto
-neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln94203-82-p3s4w3">
 <a>

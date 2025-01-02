@@ -5572,7 +5572,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41pisA</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-053-p10s5w11">
@@ -7541,7 +7540,6 @@
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE a->a tím; RETYPED conj->reason</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-053-p13s3w16</LM>

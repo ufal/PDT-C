@@ -577,8 +577,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC,
-anafora</discourse_comment>
 </LM>
 <LM id="t-ln94204-138-p3s1w1">
 <a>
@@ -3975,8 +3973,6 @@ anafora</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>není PREC,
-anafora</discourse_comment>
 </LM>
 <LM id="t-ln94204-138-p6s2w2">
 <a>
@@ -6580,7 +6576,6 @@ anafora</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94204-138-p8s1w7">
 <a>
@@ -10291,9 +10286,6 @@ anafora</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>nejsem si jista rozsahem 
-prvniho argumentu (A1), 
-ani kam presne to vede </discourse_comment>
 <val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln94204-138-p10s7w1">
@@ -10682,7 +10674,6 @@ ani kam presne to vede </discourse_comment>
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v41hddB</val_frame.rf>
 <children>
 <LM id="t-ln94204-138-p10s9w18">

@@ -3413,8 +3413,6 @@
 <target_range>group</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>rétorická gener,
-f_gener nemáme</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-043-p8s3w2</LM>
@@ -6773,7 +6771,6 @@ f_gener nemáme</comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-043-p11s2w1">
@@ -7157,8 +7154,6 @@ f_gener nemáme</comment>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>poměrně nezřetelný
-vztah</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-043-p12s2w1</LM>
@@ -11734,7 +11729,6 @@ vztah</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-043-p16s1w12</LM>
@@ -13461,8 +13455,6 @@ vztah</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR?
-tohle tam fakt bylo?</discourse_comment>
 <children>
 <LM id="t-cmpr9410-043-p19s1w2">
 <a>
@@ -13506,7 +13498,6 @@ tohle tam fakt bylo?</discourse_comment>
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>nadpis grafu</discourse_comment>
 <children>
 <LM id="t-cmpr9410-043-p20s1Aw3">
 <a>

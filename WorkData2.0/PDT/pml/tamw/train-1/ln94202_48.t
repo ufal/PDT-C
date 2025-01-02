@@ -3540,7 +3540,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-48-p4s3w8</LM>
@@ -4120,9 +4119,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg1-as-cond</sense_PDTB3>
-<comment>dvojitá závislost-
-v rámci jedné struktury
-a zaroven textove</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94202-48-p4s2w1</LM>
@@ -5833,7 +5829,6 @@ a zaroven textove</comment>
 <tfa>c</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>neustálený atlex</discourse_comment>
 <children>
 <LM id="t-ln94202-48-p4s7w3">
 <a>

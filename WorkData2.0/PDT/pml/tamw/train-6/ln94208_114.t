@@ -2388,7 +2388,6 @@
 <t_lemma>tak</t_lemma>
 <functor>CM</functor>
 <deepord>21</deepord>
-<discourse_comment>neanotuji, MANN, nebo vztah mezi neskončit a stát se > cond</discourse_comment>
 </LM>
 <LM id="t-ln94208-114-p3s5w26">
 <a>

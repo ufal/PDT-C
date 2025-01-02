@@ -3421,7 +3421,6 @@
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41rmoB</val_frame.rf>
 <children>
 <LM id="t-ln94211-81-p5s3w3">

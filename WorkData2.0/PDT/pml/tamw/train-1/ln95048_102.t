@@ -4177,7 +4177,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-102-p2s8w4</LM>
@@ -9208,7 +9207,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-102-p7s2w9">
 <a>
@@ -11003,8 +11001,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>muzu byt i vztah 
-mezi 33-39 a 40</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-102-p9s8w4</LM>

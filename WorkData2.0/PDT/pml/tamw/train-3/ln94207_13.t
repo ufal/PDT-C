@@ -523,7 +523,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<discourse_comment>wrongTR? spatny funktor?</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -607,7 +606,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
-<discourse_comment>wrongTR? spatny funktor?</discourse_comment>
 </LM>
 <LM id="t-ln94207-13-p2s1Cw22">
 <a>
@@ -626,7 +624,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>22</deepord>
-<discourse_comment>wrongTR? spatny funktor?</discourse_comment>
 </LM>
 </children>
 </LM>

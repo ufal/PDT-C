@@ -4206,8 +4206,6 @@
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>IGNORE</sense_PDTB3>
 <sense_PDTB3_manual>IGNORE</sense_PDTB3_manual>
-<comment>první položka nemá slovesný uzel,
-ostatní ho mají doplněný</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-118-p5s1w10</LM>

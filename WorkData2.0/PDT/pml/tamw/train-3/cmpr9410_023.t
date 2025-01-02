@@ -35,9 +35,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>kolekce, představení
-dvou knih z ekonomické
-oblasti</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -172,12 +169,6 @@ oblasti</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<discourse_comment>dvojtečka na konci této věty
-neanotována jako diskurzní 
-konektor, vztahy mezi touto
-strukturou a následujícími
-dvěma jsou již příliš 
-implicitní</discourse_comment>
 <val_frame.rf>v#v41cyqA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-023-p4s1Aw1">
@@ -1606,7 +1597,6 @@ implicitní</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-023-p5s1w3</LM>

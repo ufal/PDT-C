@@ -2209,7 +2209,6 @@
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-034-p4s2w2</LM>
@@ -2761,7 +2760,6 @@
 <target_range>2</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem též</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-034-p4s4w3</LM>
@@ -3088,7 +3086,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse_comment>secondary  -novy vztah?</discourse_comment>
 <children>
 <LM id="t-cmpr9410-034-p4s5w15">
 <a>
@@ -3119,7 +3116,6 @@
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-034-p4s5w11</LM>
@@ -3381,7 +3377,6 @@
 <target_range>9</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem ani</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-034-p4s7w1</LM>

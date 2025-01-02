@@ -6508,7 +6508,6 @@
 <t_lemma>Dolorosa</t_lemma>
 <functor>FPHR</functor>
 <deepord>1</deepord>
-<discourse_comment>wrongTR, část předchozí věty</discourse_comment>
 </LM>
 <LM id="t-ln94207-89-p7s3w1">
 <a>
@@ -6614,8 +6613,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR, také část věty 19,
-ne samostatná struktura</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94207-89-p7s2w10</target_node.rf>
@@ -7579,10 +7576,6 @@ ne samostatná struktura</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>24</deepord>
-<discourse_comment>wrongTR, nejspíš chyba
-zobrazení, tahle větev 
-patří k předchozímu stromu,
-co ta červená čára?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94207-89-p5s2w11</target_node.rf>

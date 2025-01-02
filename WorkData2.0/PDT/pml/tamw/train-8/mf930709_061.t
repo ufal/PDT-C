@@ -3335,7 +3335,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<discourse_comment>wrongTR, CM</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf930709-061-p2s14w1</target_node.rf>

@@ -1528,8 +1528,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>typické pomezí
-s explicat</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-25-p4s1w13</LM>
@@ -2565,7 +2563,6 @@ s explicat</comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ale->ale také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-25-p5s1w14</LM>

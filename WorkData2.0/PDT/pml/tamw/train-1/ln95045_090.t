@@ -971,9 +971,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>wrongTR, závislá věta rozvíjí
-obě větve koordinace, proto
-anotováno takto</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95045-090-p3s2w19</LM>

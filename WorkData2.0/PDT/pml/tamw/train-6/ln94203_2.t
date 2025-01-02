@@ -39,8 +39,6 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>může být i 
-is_photo description</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94203-2-p1s1w2">

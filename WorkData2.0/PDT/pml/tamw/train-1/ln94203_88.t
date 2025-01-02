@@ -6918,9 +6918,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC,
-ale MANN,
-wrongTR</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-88-p6s3w12</target_node.rf>
@@ -7172,9 +7169,6 @@ wrongTR</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC, 
-ale MANN,
-wrongTR</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-88-p6s4w2</target_node.rf>

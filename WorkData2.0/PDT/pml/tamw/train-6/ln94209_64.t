@@ -5518,7 +5518,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR  -nema byt odkaz na "bychom"?</discourse_comment>
 <val_frame.rf>v#v41dzhA</val_frame.rf>
 <children>
 <LM id="t-ln94209-64-p5s10w7">
@@ -8164,7 +8163,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-64-p6s2w6</LM>
@@ -9561,8 +9559,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
-to neni PREC</discourse_comment>
 </LM>
 <LM id="t-ln94209-64-p6s8a0">
 <nodetype>complex</nodetype>

@@ -4612,11 +4612,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>sporná anotace -
-vazba takový  -aby
-ukazuje spíš na 
-způsobovou větu,
-wrongTR?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-134-p4s5w21</LM>

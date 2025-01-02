@@ -1493,9 +1493,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem dokonce,
-GRAD tak nejasná, že jako
-přesnější vnímám CONJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-142-p2s6w5</LM>

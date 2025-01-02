@@ -819,9 +819,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>podmínkově-přípustkový
-vztah, podle PMČ neúčinná
-otevřená podmínka (s. 473)</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-138-p3s1w1</LM>
@@ -859,7 +856,6 @@ otevřená podmínka (s. 473)</comment>
 <t_lemma>nebo</t_lemma>
 <functor>DISJ</functor>
 <deepord>3</deepord>
-<discourse_comment>wrongTR, tady má být jen nebo</discourse_comment>
 <children>
 <LM id="t-ln94207-138-p3s1a1">
 <a>
@@ -1498,7 +1494,6 @@ otevřená podmínka (s. 473)</comment>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
 <sense_PDTB3_manual>Temporal.Asynchronous.Succession</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED conj->preced; CONN_CHANGE a i->a nakonec i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-138-p3s2w31</LM>

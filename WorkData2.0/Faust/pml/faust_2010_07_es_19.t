@@ -2441,7 +2441,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->a</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_19-SCzechT-p2018-s1-w14</LM>
@@ -2625,7 +2624,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_19-SCzechA-p2018-s1-w29</LM>
@@ -2836,7 +2834,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->nejprve ~ a potom; CONN_CHANGE a potom->nejprve ~ a potom</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_19-SCzechT-p2020-s1-w1</LM>
@@ -3163,7 +3160,6 @@
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE že->to znamená že; RESTARTED; RETYPED reason->equiv; CONN_CHANGE ->to znamená že; RETARGETED</comment>
 <src>PS</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_19-SCzechA-p2021-s1-w12</LM>
@@ -3181,7 +3177,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_19-SCzechT-p2021-s1-roota2</LM>
@@ -3651,7 +3646,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_19-SCzechA-p2026-s1-w3</LM>
@@ -4889,7 +4883,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->preced</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_19-SCzechT-p2034-s1-w42</LM>
@@ -4902,7 +4895,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->a</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_19-SCzechT-p2034-s1-w21</LM>
@@ -4938,7 +4930,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_19-SCzechA-p2034-s1-w24</LM>
@@ -5221,7 +5212,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_19-SCzechT-p2034-s1-w37</LM>
@@ -5520,7 +5510,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#faust_2010_07_es_19-SCzechA-p2034-s1-w60</LM>
@@ -5802,7 +5791,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_19-SCzechT-p2035-s1-w13</LM>
@@ -6371,7 +6359,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 MANUAL</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_19-SCzechT-p2041-s1-w11</LM>
@@ -9327,7 +9314,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>PHASE:3 RETYPED conj->reason</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>faust_2010_07_es_19-SCzechT-p2080-s1-roota12</LM>

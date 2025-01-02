@@ -7144,8 +7144,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>smíšený vztah,
-nařídit a VP</discourse_comment>
 </LM>
 <LM id="t-ln94204-146-p2s16a0">
 <nodetype>qcomplex</nodetype>
@@ -7427,7 +7425,6 @@ nařídit a VP</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>smíšený vztah</discourse_comment>
 </LM>
 <LM id="t-ln94204-146-p2s17Aw1">
 <a>

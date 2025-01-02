@@ -372,7 +372,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>Arg1 je jen NP</discourse_comment>
 </LM>
 <LM id="t-ln94207-84-p2s2Bw1">
 <a>
@@ -8030,7 +8029,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>arg1 je infinitiv</discourse_comment>
 </LM>
 <LM id="t-ln94207-84-p6s3w2">
 <a>
@@ -13477,9 +13475,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>chybí sloveso
-např. myslet
-nebo říci</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-84-p9s2w12</LM>
@@ -19320,9 +19315,6 @@ nebo říci</comment>
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>rhem na začátku věty,
-ale připojuje jen NP,
-necháno být</discourse_comment>
 </LM>
 <LM id="t-ln94207-84-p12s7w2">
 <a>
@@ -25662,9 +25654,6 @@ necháno být</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR, 
-nevhodný funktor
-CNCS</discourse_comment>
 <val_frame.rf>v#v41djkA</val_frame.rf>
 <children>
 <LM id="t-ln94207-84-p17s3w6">

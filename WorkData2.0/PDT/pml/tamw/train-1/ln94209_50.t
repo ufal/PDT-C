@@ -2997,8 +2997,6 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>18</deepord>
-<discourse_comment>wrongTR? koordinace
-má mít 2 patra</discourse_comment>
 <children>
 <LM id="t-ln94209-50-p3s7w2">
 <a>
@@ -4202,7 +4200,6 @@ má mít 2 patra</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary pravda je</discourse_comment>
 </LM>
 <LM id="t-ln94209-50-p5s1w8">
 <a>
@@ -7058,7 +7055,6 @@ má mít 2 patra</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE sice ~ zato->sice ~ zato ale</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-50-p5s11w2</LM>

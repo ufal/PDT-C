@@ -407,9 +407,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR?-
-proc je to zachycene
-jinak nez prime reci?</discourse_comment>
 <val_frame.rf>v#v41rxdA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-035-p3s1w16">
@@ -1001,7 +998,6 @@ jinak nez prime reci?</discourse_comment>
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
 <deepord>6</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-cmpr9410-035-p4s1a0">
 <nodetype>complex</nodetype>
@@ -3013,8 +3009,6 @@ jinak nez prime reci?</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>není prec,
-koreferenční tak</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-035-p6s3w4">
 <a>
@@ -3282,8 +3276,6 @@ koreferenční tak</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>dá se interpretovat
-i jako CONJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-035-p6s4w12</LM>

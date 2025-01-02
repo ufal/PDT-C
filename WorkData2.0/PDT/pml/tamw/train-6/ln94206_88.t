@@ -6870,7 +6870,6 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>nepravý účel</discourse_comment>
 <val_frame.rf>v#v41qfcA</val_frame.rf>
 <children>
 <LM id="t-ln94206-88-p5s8w11">

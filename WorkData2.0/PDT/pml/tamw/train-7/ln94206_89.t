@@ -1553,7 +1553,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41djcK</val_frame.rf>
 <children>
 <LM id="t-ln94206-89-p2s5w23">
@@ -7181,8 +7180,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>nenalezen důvod
-pro anotaci OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-89-p5s8w15</LM>

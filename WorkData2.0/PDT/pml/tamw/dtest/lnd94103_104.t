@@ -51,8 +51,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>možná špatně segmentovaný
-text, wrongTR?</discourse_comment>
 <val_frame.rf>v#v41ldnA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-104-p1s1w2">

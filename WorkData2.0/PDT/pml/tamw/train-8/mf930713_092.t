@@ -933,7 +933,6 @@
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>mf920922_028</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-092-p2s4w10</LM>
@@ -3075,7 +3074,6 @@
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>mf920922_028</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-092-p2s12w13</LM>

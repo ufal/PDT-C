@@ -540,7 +540,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-85-p2s3w11</LM>
@@ -5261,7 +5260,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg1-as-subst</sense_PDTB3>
-<comment>konektor rhem ne</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-85-p7s3w10</LM>
@@ -8586,8 +8584,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse_comment>wrongTR  -součást
-konektoru VV</discourse_comment>
 </LM>
 <LM id="t-ln94207-85-p10s3w24">
 <a>
@@ -9942,7 +9938,6 @@ konektoru VV</discourse_comment>
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>20</deepord>
-<discourse_comment>rhem v ramci vety</discourse_comment>
 </LM>
 <LM id="t-ln94207-85-p11s4a0">
 <nodetype>atom</nodetype>
@@ -14780,7 +14775,6 @@ konektoru VV</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-85-p14s1w8</LM>
@@ -16173,7 +16167,6 @@ konektoru VV</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-85-p15s3w1</LM>
@@ -18926,8 +18919,6 @@ konektoru VV</discourse_comment>
 <functor>APPS</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>9</deepord>
-<discourse_comment>wrongTR? nema tento podstrom byt samostatny strom?
-(za soucast nadpisu to nepovazuju)</discourse_comment>
 <children>
 <LM id="t-ln94207-85-p16s1w9">
 <a>
@@ -19432,7 +19423,6 @@ konektoru VV</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>konektor rhem zároveň</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-85-p16s2w12</LM>
@@ -19454,8 +19444,6 @@ konektoru VV</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse_comment>wrongTR? spatny funktor? veta 118 je dost podobna
-a "zaroven" tam ma funktor TWHEN</discourse_comment>
 </LM>
 <LM id="t-ln94207-85-p16s2w15">
 <a>
@@ -22472,7 +22460,6 @@ a "zaroven" tam ma funktor TWHEN</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-85-p16s14w1</LM>
@@ -22838,7 +22825,6 @@ a "zaroven" tam ma funktor TWHEN</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-85-p16s14w3</LM>
@@ -23130,7 +23116,6 @@ a "zaroven" tam ma funktor TWHEN</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-85-p16s16w1</LM>
@@ -23752,7 +23737,6 @@ a "zaroven" tam ma funktor TWHEN</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94207-85-p16s18w1">
 <a>
@@ -24110,7 +24094,6 @@ a "zaroven" tam ma funktor TWHEN</discourse_comment>
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>rhem v ramci vety</discourse_comment>
 </LM>
 <LM id="t-ln94207-85-p16s19w7">
 <a>
@@ -26288,9 +26271,6 @@ a "zaroven" tam ma funktor TWHEN</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>vztah NP vlastnosti
-a NP v tom stromě, 
-parcelace</discourse_comment>
 </LM>
 <LM id="t-ln94207-85-p18s2a2">
 <nodetype>complex</nodetype>
@@ -26984,7 +26964,6 @@ parcelace</discourse_comment>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94207-85-p18s4w12">
 <a>
@@ -27264,8 +27243,6 @@ parcelace</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>reason mi v tom
-vidět nejde vůbec</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-85-p18s5w1</LM>
@@ -28728,7 +28705,6 @@ vidět nejde vůbec</comment>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Conjunction</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED synchr->conj</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-85-p19s4w10</LM>
@@ -30124,7 +30100,6 @@ vidět nejde vůbec</comment>
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<discourse_comment>rhem v ramci vety</discourse_comment>
 </LM>
 <LM id="t-ln94207-85-p20s3a0">
 <nodetype>atom</nodetype>
@@ -30274,7 +30249,6 @@ vidět nejde vůbec</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE a-> -a; RETARGETED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-85-p20s3w24</LM>
@@ -32451,7 +32425,6 @@ vidět nejde vůbec</comment>
 <functor>CNCS</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
-<discourse_comment>wrongTR? nema zde byt odkaz na "i kdyz"?</discourse_comment>
 <children>
 <LM id="t-ln94207-85-p21s9w10">
 <a>
@@ -32467,7 +32440,6 @@ vidět nejde vůbec</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse_comment>wrongTR? proc tento uzel odkazuje na "i kdyz"?</discourse_comment>
 <children>
 <LM id="t-ln94207-85-p21s9a5">
 <a>
@@ -33630,7 +33602,6 @@ vidět nejde vůbec</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-85-p22s3w17</LM>

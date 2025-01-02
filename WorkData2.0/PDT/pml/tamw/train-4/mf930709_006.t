@@ -37,9 +37,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>kolekce
-Tohle vypada jako konec nakeho clanku, neni
-jasne, o cem se mluvi.</discourse_comment>
 <val_frame.rf>v#v41oczA</val_frame.rf>
 <children>
 <LM id="t-mf930709-006-p2s2w1">

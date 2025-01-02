@@ -4844,7 +4844,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-080-p6s3w5</LM>
@@ -5504,7 +5503,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-ln95047-080-p6s3w29">
@@ -8105,7 +8103,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>naprosto nejasné, z textu nic nevyplývá, bez kontextu</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-080-p8s4w10</LM>

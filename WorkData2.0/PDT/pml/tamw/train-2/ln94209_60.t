@@ -175,7 +175,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41iovA</val_frame.rf>
 <children>
 <LM id="t-ln94209-60-p2s1Bw5">

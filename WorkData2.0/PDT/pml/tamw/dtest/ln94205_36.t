@@ -907,8 +907,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse_comment>wrongTR  -spatna 
-segmentace textu</discourse_comment>
 <val_frame.rf>v#v41kifA</val_frame.rf>
 <children>
 <LM id="t-ln94205-36-p2s4w5">

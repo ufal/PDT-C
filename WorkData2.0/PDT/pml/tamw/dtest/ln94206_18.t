@@ -2322,7 +2322,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>implicitní složka argumentu  -je v tom chaos a je potřeba ho řešit</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-18-p3s3w5</LM>

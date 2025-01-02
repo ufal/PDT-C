@@ -689,7 +689,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94204-141-p2s2w4">
 <a>
@@ -2394,7 +2393,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>10</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94204-141-p3s5w13">
 <a>
@@ -3441,7 +3439,6 @@
 <t_lemma>přičemž</t_lemma>
 <functor>CONJ</functor>
 <deepord>6</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94204-141-p3s9w3">
 <a>
@@ -14053,9 +14050,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>korereferenční
-šipka má podle
-mého vést výše</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94204-141-p9s5w21</target_node.rf>
@@ -22308,7 +22302,6 @@ mého vést výše</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>neumělost autora</discourse_comment>
 <children>
 <LM id="t-ln94204-141-p12s10w8">
 <a>
@@ -23302,7 +23295,6 @@ mého vést výše</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94204-141-p12s12w19">

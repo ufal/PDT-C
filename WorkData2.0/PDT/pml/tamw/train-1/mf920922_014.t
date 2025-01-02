@@ -671,7 +671,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>4</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <compl.rf>
 <LM>t-mf920922-014-p2s4w24</LM>
 </compl.rf>

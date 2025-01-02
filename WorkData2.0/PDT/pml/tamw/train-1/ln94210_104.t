@@ -3204,10 +3204,6 @@
 <target_range>group</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>kus informace je
-v presupozici, ale
-nepravá mi ta 
-reason nepřijde</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94210-104-p2s13w16</LM>

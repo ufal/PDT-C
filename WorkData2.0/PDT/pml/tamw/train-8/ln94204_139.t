@@ -900,7 +900,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-139-p3s1w4</LM>
@@ -5943,7 +5942,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>arg1 je infinitivní fráze</discourse_comment>
 </LM>
 <LM id="t-ln94204-139-p6s1w1">
 <a>

@@ -1718,9 +1718,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>uvádí se jeden
-z důvodů, ne
-jediný</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-083-p4s2w2</LM>

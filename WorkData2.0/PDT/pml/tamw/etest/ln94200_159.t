@@ -3232,8 +3232,6 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary? pravda
-CM vztahu ADVS</discourse_comment>
 </LM>
 <LM id="t-ln94200-159-p3s2w3">
 <a>
@@ -7347,7 +7345,6 @@ CM vztahu ADVS</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 EXCONN_CHANGE jen ~ , že->jen v případě že</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-159-p5s5w16</LM>

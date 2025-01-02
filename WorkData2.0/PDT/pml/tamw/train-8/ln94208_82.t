@@ -939,9 +939,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>8</deepord>
-<discourse_comment>
-wrongTR,
-není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94208-82-p3s2w9">
 <a>
@@ -2234,8 +2231,6 @@ není PREC</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>13</deepord>
-<discourse_comment>secondary
-někteří  -podle jiných</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94208-82-p6s2w1</target_node.rf>

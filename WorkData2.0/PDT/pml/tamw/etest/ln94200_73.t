@@ -2738,7 +2738,6 @@
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>konektor k NP nepředvídatelnost rozpočtu</discourse_comment>
 </LM>
 <LM id="t-ln94200-73-p2s8w18">
 <a>
@@ -3195,8 +3194,6 @@
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>není PREC, 
-ale MANN/MEANS</discourse_comment>
 </LM>
 <LM id="t-ln94200-73-p2s9w5">
 <a>

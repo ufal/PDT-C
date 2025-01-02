@@ -514,7 +514,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-101-p3s2w5">
 <a>
@@ -1082,8 +1081,6 @@
 <discourse_type>f_opp</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Contrast</sense_PDTB3_manual>
-<comment>místo toho = však?,
-velká mezera mezi argumenty</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-101-p4s2w23</LM>

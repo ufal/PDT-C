@@ -7261,7 +7261,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>23</deepord>
-<discourse_comment>wrongTR? nema "dosud" viset na "být"?</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -7784,8 +7783,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>sporná anotace,
-wrongTR? způsobová věta?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-6-p6s2w25</LM>
@@ -10792,8 +10789,6 @@ wrongTR? způsobová věta?</comment>
 <id>2</id>
 </LM>
 </discourse_groups>
-<discourse_comment>wrongTR? opravdu ma byt cely tento podstrom
-anotovan jako parenteze?</discourse_comment>
 <val_frame.rf>v#v41bikX</val_frame.rf>
 <children>
 <LM id="t-ln94205-6-p6s12w9">
@@ -10937,7 +10932,6 @@ anotovan jako parenteze?</discourse_comment>
 <id>2</id>
 </LM>
 </discourse_groups>
-<discourse_comment>wrongTR? nema parenteze zacinat az tady?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94205-6-p6s12w4</target_node.rf>

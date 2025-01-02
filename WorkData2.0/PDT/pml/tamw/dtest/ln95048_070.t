@@ -8395,10 +8395,6 @@
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>záleží na interpretaci
-EmpVerb, zda jde o 
-vztah mezi VP, nebo
-ne</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-070-p5s12w2</LM>
@@ -14383,7 +14379,6 @@ ne</comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>přechod k explicat</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95048-070-p6s11w8">

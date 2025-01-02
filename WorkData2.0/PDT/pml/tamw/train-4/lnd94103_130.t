@@ -66,7 +66,6 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>text bez nadpisu</discourse_comment>
 <children>
 <LM id="t-lnd94103-130-p1s1w2">
 <a>

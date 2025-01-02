@@ -762,7 +762,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
-<discourse_comment>wrongTR  -má být PAT (viz Vallex)</discourse_comment>
 <val_frame.rf>v#v41afzD</val_frame.rf>
 <children>
 <LM id="t-ln94207-136-p2s2w24">
@@ -1147,7 +1146,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Entailment</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94207-136-p3s1w4</LM>
@@ -2009,7 +2007,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RESTARTED; RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-136-p3s1w3</LM>

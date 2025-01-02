@@ -3932,7 +3932,6 @@
 <target_range>1</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>arg1 má implicitní složku</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-075-p5s3w2</LM>
@@ -5775,7 +5774,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-075-p7s2w1</LM>

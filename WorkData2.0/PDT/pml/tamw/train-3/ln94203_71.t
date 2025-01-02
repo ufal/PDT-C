@@ -3970,7 +3970,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>6</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-71-p5s2w11">
 <a>
@@ -4221,7 +4220,6 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>21</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-71-p5s2a3">
 <nodetype>qcomplex</nodetype>
@@ -5764,10 +5762,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod, lze vnímat
-i jako vztah
-s vedlejší větou
-v předchozím stromě  -pak by to byla explicat</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-71-p7s2w2</LM>
@@ -6279,7 +6273,6 @@ v předchozím stromě  -pak by to byla explicat</comment>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>second_rel PRECED až</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-71-p7s3w8</LM>

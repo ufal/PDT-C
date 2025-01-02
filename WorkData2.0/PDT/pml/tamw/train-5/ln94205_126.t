@@ -276,7 +276,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41nemH</val_frame.rf>
 <children>
 <LM id="t-ln94205-126-p2s1Cw3">

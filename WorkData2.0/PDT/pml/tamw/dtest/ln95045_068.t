@@ -6032,7 +6032,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse_comment>one_arg?</discourse_comment>
 </LM>
 <LM id="t-ln95045-068-p3s11a0">
 <nodetype>atom</nodetype>
@@ -6740,7 +6739,6 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-ln95045-068-p3s13w3">
 <a>

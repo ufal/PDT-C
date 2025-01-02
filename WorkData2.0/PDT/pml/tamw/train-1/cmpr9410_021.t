@@ -27,7 +27,6 @@
 <functor>APPS</functor>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>is_photo</discourse_comment>
 <children>
 <LM id="t-cmpr9410-021-p2s1w1">
 <a>

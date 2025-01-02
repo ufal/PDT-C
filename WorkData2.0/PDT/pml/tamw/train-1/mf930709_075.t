@@ -1191,8 +1191,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>prvním "argumentem"
-je NP </discourse_comment>
 </LM>
 <LM id="t-mf930709-075-p2s4w15">
 <a>
@@ -1916,8 +1914,6 @@ je NP </discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>prvním "argumentem"
-je NP</discourse_comment>
 </LM>
 <LM id="t-mf930709-075-p2s7w7">
 <a>
@@ -8504,7 +8500,6 @@ je NP</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930709-075-p2s30w2">
 <a>

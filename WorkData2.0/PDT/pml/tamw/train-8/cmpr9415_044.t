@@ -3240,8 +3240,6 @@
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>12</deepord>
-<discourse_comment>vztah NP a VP,
-spec</discourse_comment>
 <children>
 <LM id="t-cmpr9415-044-p13s4w1">
 <a>
@@ -14270,7 +14268,6 @@ spec</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->protože</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9415-044-p29s1w1</LM>

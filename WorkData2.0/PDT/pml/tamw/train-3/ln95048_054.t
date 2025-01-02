@@ -1164,7 +1164,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>19</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-054-p2s3w27">
 <a>
@@ -1371,8 +1370,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>čas tam není,
-dávám conj</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-054-p2s4w9</LM>
@@ -6146,7 +6143,6 @@ dávám conj</comment>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-054-p4s3w3</LM>
@@ -6406,7 +6402,6 @@ dávám conj</comment>
 <tfa>c</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95048-054-p4s4w3">
 <a>

@@ -3953,10 +3953,6 @@
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>šlo by uvažovat i o tom,
-že se jedná o vztah mezi NPs,
-ale tomu brání předložková 
-vazba (se státy)</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-019-p10s4w1</LM>
@@ -8998,7 +8994,6 @@ vazba (se státy)</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-019-p18s4a0">
 <nodetype>complex</nodetype>
@@ -9368,8 +9363,6 @@ vazba (se státy)</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg
-</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-019-p19s1w5">
 <a>
@@ -12180,7 +12173,6 @@ vazba (se státy)</comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>siroke vyplyvani (reason)</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-019-p26s1w9">
@@ -12514,7 +12506,6 @@ vazba (se státy)</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>25</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-019-p26s1w27">
 <a>
@@ -17490,7 +17481,6 @@ vazba (se státy)</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-019-p35s1a1">
 <nodetype>complex</nodetype>

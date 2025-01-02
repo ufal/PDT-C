@@ -905,9 +905,6 @@
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>široce vyplývací vztah,
-vlastně stejná informace
-2x trochu jinak</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-067-p1s2w26</LM>
@@ -2076,7 +2073,6 @@ vlastně stejná informace
 <tfa>f</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-lnd94103-067-p1s5w1</target_node.rf>

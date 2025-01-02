@@ -4011,8 +4011,6 @@
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>jako reason mi
-to vidět nejde</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-097-p8s1w3</LM>

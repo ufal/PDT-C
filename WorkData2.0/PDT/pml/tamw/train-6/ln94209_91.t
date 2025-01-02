@@ -27,8 +27,6 @@
 <tfa>t</tfa>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>kolekce  -znaky kolekce ma hlavne konec clanku
--vety 22-30</discourse_comment>
 <children>
 <LM id="t-ln94209-91-p1s1w1">
 <a>
@@ -8509,7 +8507,6 @@
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
 <sense_PDTB3_manual>Temporal.Asynchronous.Succession</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED conj->preced; CONN_CHANGE a->a naposledy</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-91-p5s4w36</LM>

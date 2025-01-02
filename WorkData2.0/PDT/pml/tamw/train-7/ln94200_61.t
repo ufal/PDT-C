@@ -5722,7 +5722,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94200-61-p6s1w17">
 <a>
@@ -9608,7 +9607,6 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94200-61-p10s4w2">
 <a>

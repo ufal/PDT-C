@@ -1044,7 +1044,6 @@
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Concession.Arg2-as-denier</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED conc->opp</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-95-p2s4w1</LM>
@@ -5284,8 +5283,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>wrontTR? spatné t-lemma? v textu je "vykradači", ne
-"vykrádači"</discourse_comment>
 <children>
 <LM id="t-ln94211-95-p5s6w15">
 <a>
@@ -14885,16 +14882,6 @@
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>6</deepord>
-<discourse_comment>wrongTR? nema na doplnenem "následovat" viset "a" a na nem "zakaz" a "zakaz"? 
-nema nejvyssim uzlem stromu
-byt comma? tim 
-padem by byl zachycen (podle me specifikacni)
-vztah mezi "Nasledovalo 
-potlacovani irskeho zemedelstvi" a "(nasledoval)
-zakaz vyvozu obili a pozdeji i vlny". (stejne by 
-tam pro nas nebylo co anotovat, kdyz by tam nebyl
-konektor, ale tak, jak je ted, se mi ten strom
-nezda)</discourse_comment>
 <children>
 <LM id="t-ln94211-95-p11s12w2">
 <a>

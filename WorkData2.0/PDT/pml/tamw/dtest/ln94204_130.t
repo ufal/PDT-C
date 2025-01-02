@@ -513,7 +513,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-130-p2s1Cw23</LM>
@@ -3042,7 +3041,6 @@
 <tfa>c</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94204-130-p3s5w4">
 <a>
@@ -8879,8 +8877,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<discourse_comment>one_arg; wrongTR  -neni PREC, 
-ale ATT</discourse_comment>
 </LM>
 <LM id="t-ln94204-130-p4s22a0">
 <nodetype>complex</nodetype>

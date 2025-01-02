@@ -655,7 +655,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>17</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95048-066-p2s3w9">
 <a>
@@ -5517,7 +5516,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>19</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln95048-066-p5s2w25">
@@ -5929,7 +5927,6 @@
 <tfa>t</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95048-066-p5s4w4">
 <a>

@@ -2633,8 +2633,6 @@
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>secondary předpokládá,
-což předpokládá?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-036-p6s4w18</LM>
@@ -8964,7 +8962,6 @@ což předpokládá?</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>27</deepord>
-<discourse_comment>pokud však má vztah jen k NP</discourse_comment>
 <val_frame.rf>v#v41dikA</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-036-p14s2w34">
@@ -9207,8 +9204,6 @@ což předpokládá?</comment>
 <target_range>group</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>ke konektoru patří
-i secondary v tomto případě</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-036-p14s3w29</LM>
@@ -9229,11 +9224,6 @@ i secondary v tomto případě</comment>
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>konektor+secondary
-wrongTR,
-má tu být souřadná 
-důsledková 
-struktura</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-036-p14s3w5">

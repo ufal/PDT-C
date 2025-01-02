@@ -3474,7 +3474,6 @@
 <tfa>f</tfa>
 <deepord>18</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>neustálený altex</discourse_comment>
 <children>
 <LM id="t-ln94210-135-p4s1w23">
 <a>

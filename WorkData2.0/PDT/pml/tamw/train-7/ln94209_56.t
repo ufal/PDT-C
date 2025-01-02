@@ -7948,7 +7948,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>second_rel COND pak</comment>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94209-56-p5s10w6</LM>
@@ -8647,8 +8646,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>prvním argumentem je
-nepřímá otázka</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-56-p5s14w7</LM>
@@ -8863,8 +8860,6 @@ nepřímá otázka</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>prvním argumentem 
-je nepřímá otázka</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-56-p5s15w1</LM>
@@ -17970,7 +17965,6 @@ je nepřímá otázka</comment>
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-56-p7s23w1">
 <a>
@@ -20108,7 +20102,6 @@ je nepřímá otázka</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrong TR</discourse_comment>
 </LM>
 <LM id="t-ln94209-56-p7s37w9">
 <a>

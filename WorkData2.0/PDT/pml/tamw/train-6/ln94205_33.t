@@ -1060,7 +1060,6 @@
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-33-p3s1w3</LM>
@@ -1342,7 +1341,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary  -novy vztah?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94205-33-p2s4w14</target_node.rf>

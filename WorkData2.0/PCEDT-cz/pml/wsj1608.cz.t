@@ -209,7 +209,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj1608-001-p1s0a1</LM>
@@ -332,7 +331,6 @@
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>MP</src>
 <a-connectors.rf>
 <LM>a#a-wsj1608-001-p1s0W28-Ta</LM>
@@ -801,7 +799,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj1608-001-p1s2a1</LM>

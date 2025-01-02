@@ -1982,7 +1982,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>příklad vyvození</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-lnd94103-107-p1s4w4</LM>

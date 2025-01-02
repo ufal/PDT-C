@@ -6530,7 +6530,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-025-p2s23w5</LM>
@@ -7809,7 +7808,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-025-p2s26w7">
 <a>
@@ -9097,7 +9095,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>secondary krátce předtím</discourse_comment>
 <children>
 <LM id="t-mf930713-025-p2s30w3">
 <a>

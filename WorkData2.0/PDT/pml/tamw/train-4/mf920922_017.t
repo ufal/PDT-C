@@ -510,7 +510,6 @@
 <t_lemma>tak</t_lemma>
 <functor>CM</functor>
 <deepord>23</deepord>
-<discourse_comment>MANN</discourse_comment>
 </LM>
 <LM id="t-mf920922-017-p2s1w29">
 <a>

@@ -2229,7 +2229,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->protože; vysvětlení</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-84-p3s4w1</LM>
@@ -2760,7 +2759,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>9</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94206-84-p4s1w5">
 <a>
@@ -4231,8 +4229,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>rekla bych ze to je rhem a ze pusobi jen v ramci
-vety</discourse_comment>
 </LM>
 <LM id="t-ln94206-84-p4s6w7">
 <a>
@@ -4678,8 +4674,6 @@ vety</discourse_comment>
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>rekla bych ze to je rhem a ze pusobi jen v ramci
-vety</discourse_comment>
 </LM>
 <LM id="t-ln94206-84-p4s7w5">
 <a>
@@ -5361,7 +5355,6 @@ vety</discourse_comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>chybějící kus  -např. a je to v jejich vlastním zájmu</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94206-84-p5s2w1</LM>
@@ -7477,7 +7470,6 @@ vety</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-84-p6s4w11</LM>

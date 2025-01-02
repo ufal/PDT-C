@@ -9216,11 +9216,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg;
-ale mohlo by byt GENER,
-nemam zde ale 100% jistotu, 
-tak davam one_arg [protoze to 
-v otazkach casto davame]</discourse_comment>
 </LM>
 <LM id="t-ln94211-9-p11s1w1">
 <a>
@@ -10809,7 +10804,6 @@ v otazkach casto davame]</discourse_comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>implikace  -to je zcela chybná formulace</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94211-9-p13s2w2</LM>
@@ -13426,10 +13420,6 @@ v otazkach casto davame]</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<discourse_comment>wrongTR: chybí uzly pro
-pohyblivý úrokový sazba,
-jsou špatně připojené
-o dva stromy dál (40)</discourse_comment>
 <val_frame.rf>v#v41ibiA</val_frame.rf>
 <children>
 <LM id="t-ln94211-9-p15s3w14">
@@ -13575,8 +13565,6 @@ o dva stromy dál (40)</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>22</deepord>
-<discourse_comment>wrongTR: chybějící uzly
-z (38) špatně připojené zde</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94211-9-p13s5w26</target_node.rf>
@@ -13808,9 +13796,6 @@ z (38) špatně připojené zde</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>vztah s presupozicí,
-u tohoto typu ale
-podle mého normální</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-9-p15s5w2</LM>
@@ -18463,9 +18448,6 @@ podle mého normální</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse_comment>wrongTR: "na vysvětlenou"
-je v koordinaci s "pro
-pochopení"</discourse_comment>
 <val_frame.rf>v#v41ccxA</val_frame.rf>
 <children>
 <LM id="t-ln94211-9-p22s1w3">
@@ -18476,7 +18458,6 @@ pochopení"</discourse_comment>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>4</deepord>
-<discourse_comment>není PREC</discourse_comment>
 <children>
 <LM id="t-ln94211-9-p22s1w2">
 <a>
@@ -19039,7 +19020,6 @@ pochopení"</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-9-p23s1w1">
 <a>
@@ -20595,7 +20575,6 @@ pochopení"</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>divné použití, moc málo provázané informace</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94211-9-p24s2w1</LM>
@@ -22777,7 +22756,6 @@ pochopení"</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-9-p30s1a0">
 <nodetype>complex</nodetype>

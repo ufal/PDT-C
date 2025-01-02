@@ -252,7 +252,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>taktéž CONJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-15-p2s2Bw4</LM>

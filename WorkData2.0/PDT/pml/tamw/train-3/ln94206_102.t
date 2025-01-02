@@ -179,13 +179,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>adept na hypertéma,
-adept na seznam 
-polozka1 3
-polozka2 4-8
-polozka3 9-12
-polozka4 13-14
-</discourse_comment>
 <val_frame.rf>v#v41zdL</val_frame.rf>
 <children>
 <LM id="t-ln94206-102-p2s1w2">
@@ -1591,7 +1584,6 @@ polozka4 13-14
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-102-p3s3w6</LM>

@@ -7572,7 +7572,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>25</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v41mexA</val_frame.rf>
 <children>
 <LM id="t-ln94208-85-p6s1w29">

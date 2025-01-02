@@ -2076,7 +2076,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94200-68-p3s5w6">
 <a>

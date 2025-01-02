@@ -4475,9 +4475,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>velmi málo 
-specifická
-exempl</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-18-p8s1w6</LM>
@@ -4490,7 +4487,6 @@ exempl</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-18-p8s2w11</LM>

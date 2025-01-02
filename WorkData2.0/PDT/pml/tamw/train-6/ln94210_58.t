@@ -3938,8 +3938,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
-to je spis MANN</discourse_comment>
 </LM>
 <LM id="t-ln94210-58-p8s1a0">
 <nodetype>complex</nodetype>

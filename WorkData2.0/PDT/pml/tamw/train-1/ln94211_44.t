@@ -708,8 +708,6 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>spíš k NP než 
-k diskurzním argumentům</discourse_comment>
 </LM>
 <LM id="t-ln94211-44-p2s5w4">
 <a>

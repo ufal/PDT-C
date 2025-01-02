@@ -2756,9 +2756,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC,
-ale MANN,
-wrongTR</discourse_comment>
 </LM>
 <LM id="t-ln94204-103-p4s3a0">
 <nodetype>qcomplex</nodetype>
@@ -6661,7 +6658,6 @@ wrongTR</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-103-p10s2w7</LM>

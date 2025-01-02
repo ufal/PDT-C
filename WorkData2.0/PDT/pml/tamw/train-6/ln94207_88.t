@@ -1680,7 +1680,6 @@
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-88-p3s1w27</LM>
@@ -5117,7 +5116,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->dále</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94207-88-p5s3w9</LM>
@@ -7472,7 +7470,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94207-88-p6s7w11</LM>
@@ -11516,7 +11513,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-88-p8s3w5">
 <a>

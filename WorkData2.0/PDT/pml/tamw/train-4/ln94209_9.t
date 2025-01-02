@@ -2652,7 +2652,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE a ne->#Neg; RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-9-p4s2a1</LM>
@@ -3062,7 +3061,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 RETARGETED; důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-9-p4s4w4</LM>
@@ -3684,7 +3682,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94209-9-p5s1w3">
 <a>
@@ -6725,7 +6722,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>nejistota o typu vztahu</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-9-p7s1w9</LM>

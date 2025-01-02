@@ -3193,8 +3193,6 @@
 <t_lemma>#Neg</t_lemma>
 <functor>CM</functor>
 <deepord>10</deepord>
-<discourse_comment>wrongTR? nema tato Neg viset na prvnim 
-"propagovat"?</discourse_comment>
 </LM>
 <LM id="t-ln94204-145-p6s1w2">
 <a>

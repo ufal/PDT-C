@@ -564,7 +564,6 @@
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE na->až na; RESTARTED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-001-p4s2w1</LM>
@@ -1090,7 +1089,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-001-p4s3w4</LM>
@@ -1591,7 +1589,6 @@
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-001-p8s1w10</LM>
@@ -1604,7 +1601,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-001-p10s1w4</LM>
@@ -3026,10 +3022,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC,
-asi zesiluje vztah
-CONC v této větě,
-nadbytečné užití</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-001-p10s2w2">
 <a>

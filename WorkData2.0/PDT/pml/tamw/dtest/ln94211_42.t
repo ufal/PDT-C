@@ -2036,9 +2036,6 @@
 <t_lemma>#Comma</t_lemma>
 <functor>APPS</functor>
 <deepord>4</deepord>
-<discourse_comment>wrongTR? strukturně stejné věty
-jsou někdy anotovány s VV závislou
-na dnes</discourse_comment>
 <children>
 <LM id="t-ln94211-42-p2s6w1">
 <a>
@@ -2072,8 +2069,6 @@ na dnes</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>second_rel PRECED kdy, příčinné
-čtení není jisté</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-42-p2s6w3</LM>

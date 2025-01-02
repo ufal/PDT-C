@@ -9951,7 +9951,6 @@
 <functor>CONJ</functor>
 <is_member>1</is_member>
 <deepord>23</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94206-85-p2s37w15">
 <a>
@@ -11090,7 +11089,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>second_rel PRECED dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-85-p2s39w18</LM>

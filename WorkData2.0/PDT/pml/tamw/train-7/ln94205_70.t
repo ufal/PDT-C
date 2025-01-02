@@ -3334,7 +3334,6 @@
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED disjalt->conjalt</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-70-p3s7w37</LM>

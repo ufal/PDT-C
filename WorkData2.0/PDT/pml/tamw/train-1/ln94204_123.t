@@ -36,8 +36,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrong TR,
-špatná segmentace!</discourse_comment>
 </LM>
 </children>
 </LM>

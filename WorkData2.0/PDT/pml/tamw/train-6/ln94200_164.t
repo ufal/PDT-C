@@ -1982,7 +1982,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>nezakládá MVV</discourse_comment>
 </LM>
 <LM id="t-ln94200-164-p3s2w2">
 <a>

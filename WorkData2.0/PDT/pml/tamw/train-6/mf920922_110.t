@@ -1507,10 +1507,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>mezera mezi argumenty-
-musí to prosazovat ODS, 
-protože SN a SL to na 
-program nezařadily</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-110-p2s4w3</LM>

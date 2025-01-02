@@ -740,7 +740,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod, ironie</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-128-p2s3w1</LM>

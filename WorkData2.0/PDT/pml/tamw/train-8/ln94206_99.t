@@ -2199,11 +2199,6 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>8</deepord>
-<discourse_comment>wrongTR?
-chybí doplněné hostovat,
-OPP mezi upoutali a hostovali, 
-ale hostovali s jiným 
-představením</discourse_comment>
 </LM>
 <LM id="t-ln94206-99-p3s2w16">
 <a>

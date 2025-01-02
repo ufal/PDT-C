@@ -27,8 +27,6 @@
 <functor>CONJ</functor>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>kolekce  -posledni veta vypada jako nadpis k
-jinemu clanku</discourse_comment>
 <children>
 <LM id="t-ln94207-94-p1s1w1">
 <a>
@@ -4539,7 +4537,6 @@ jinemu clanku</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-94-p5s4w10</LM>
@@ -6998,7 +6995,6 @@ jinemu clanku</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-94-p8s1w1</LM>

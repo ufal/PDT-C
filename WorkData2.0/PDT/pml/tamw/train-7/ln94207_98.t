@@ -4587,8 +4587,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse_comment>adept na seznam 
-v rámci jedné věty</discourse_comment>
 <children>
 <LM id="t-ln94207-98-p4s2Bw11">
 <a>
@@ -5961,8 +5959,6 @@ v rámci jedné věty</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>silná presupoziční 
-složka významu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-98-p4s6w10</LM>

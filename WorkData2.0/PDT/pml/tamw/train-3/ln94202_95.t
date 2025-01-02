@@ -4281,9 +4281,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>v "tak" je i hodně MEANS,
-vyplývání spíš než čistá
-REASON</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-95-p4s7w3</LM>
@@ -5017,7 +5014,6 @@ REASON</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>10</deepord>
-<discourse_comment>MANN spíše než PREC</discourse_comment>
 </LM>
 <LM id="t-ln94202-95-p4s9w14">
 <a>
@@ -6585,7 +6581,6 @@ REASON</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94202-95-p4s14w3">
 <a>
@@ -9227,7 +9222,6 @@ REASON</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>Konektor "na druhe strane" se obsahove prilis nehodi.</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-95-p6s2w29</LM>

@@ -4913,7 +4913,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>vztah mezi NP (nejlepší absolventi) a VP (splní požadavky)</discourse_comment>
 </LM>
 <LM id="t-ln95047-140-p7s6w4">
 <a>

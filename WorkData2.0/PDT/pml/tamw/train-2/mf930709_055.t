@@ -35,7 +35,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>kolekce?</discourse_comment>
 <children>
 <LM id="t-mf930709-055-p1s1Aa0">
 <nodetype>list</nodetype>

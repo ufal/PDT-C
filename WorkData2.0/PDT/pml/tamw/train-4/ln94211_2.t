@@ -42,8 +42,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>wrongTR  -nechybi tomuto textu zacatek, nebo 
-aspon nadpis?</discourse_comment>
 <val_frame.rf>v#v41nrhA</val_frame.rf>
 <children>
 <LM id="t-ln94211-2-p1s1a4">

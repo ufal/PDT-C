@@ -2177,8 +2177,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>6</deepord>
-<discourse_comment>wrongTR? proc "ještě před čtvrtstoletím" nerozviji
-oba predikaty?</discourse_comment>
 </LM>
 <LM id="t-mf930709-142-p4s1w9">
 <a>
@@ -6212,8 +6210,6 @@ oba predikaty?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse_comment>wrongTR? nema tento podstrom viset jako spolecne
-rozviti uzlu "hranice" a "tvar"?</discourse_comment>
 <val_frame.rf>v#v41qdeC</val_frame.rf>
 <children>
 <LM id="t-mf930709-142-p7s1w12">
@@ -8894,9 +8890,6 @@ rozviti uzlu "hranice" a "tvar"?</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>lze chapat i jako CONFR, ale 
-ja tu vidim spise CONC 
-(ackoli si nekteri mysli ... je o ...)</discourse_comment>
 <val_frame.rf>v#v41ckmA</val_frame.rf>
 <children>
 <LM id="t-mf930709-142-p9s2w9">

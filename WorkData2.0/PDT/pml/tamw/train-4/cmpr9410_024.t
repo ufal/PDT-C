@@ -1487,8 +1487,6 @@
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>parcelace jednoho
-koordinačního souvětí</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p4s5w2</LM>
@@ -3054,7 +3052,6 @@ koordinačního souvětí</comment>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>second_rel PRECED dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-024-p10s2w6</LM>
@@ -5083,8 +5080,6 @@ koordinačního souvětí</comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem třeba,
-parcelace jedné struktury</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p12s3w1</LM>
@@ -5750,7 +5745,6 @@ parcelace jedné struktury</comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-024-p12s4w19">
@@ -6841,7 +6835,6 @@ parcelace jedné struktury</comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p14s3w1</LM>
@@ -8184,7 +8177,6 @@ parcelace jedné struktury</comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p16s2w4</LM>
@@ -8614,9 +8606,6 @@ parcelace jedné struktury</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem i
-target by mohl být
-i backward</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-024-p16s3w2</LM>

@@ -6344,7 +6344,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->což</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94206-55-p6s3Bw8</LM>
@@ -6770,7 +6769,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41jsP</val_frame.rf>
 <children>
 <LM id="t-ln94206-55-p6s4w2">

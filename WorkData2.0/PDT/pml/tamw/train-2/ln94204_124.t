@@ -3702,10 +3702,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR
-špatně nasegmentovaný text,
-16, 17 a 18 tvoří
-dohromady evidentně jednu větu</discourse_comment>
 <children>
 <LM id="t-ln94204-124-p4s2Aw1">
 <a>
@@ -3746,10 +3742,6 @@ dohromady evidentně jednu větu</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR
-špatně nasegmentovaný text,
-16, 17 a 18 tvoří
-dohromady evidentně jednu větu</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -3780,10 +3772,6 @@ dohromady evidentně jednu větu</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR
-špatně nasegmentovaný text,
-16, 17 a 18 tvoří
-dohromady evidentně jednu větu</discourse_comment>
 <val_frame.rf>v#v41chlQ</val_frame.rf>
 <children>
 <LM id="t-ln94204-124-p4s2Cw1">
@@ -4920,8 +4908,6 @@ dohromady evidentně jednu větu</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>slabá OPP, ale čistá CONJ
-to není</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-124-p4s7w6</LM>

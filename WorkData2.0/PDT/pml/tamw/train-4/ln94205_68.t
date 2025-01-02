@@ -1300,8 +1300,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>není zcela jasný start range,
-lze interpretova různě</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-68-p3s4w1</LM>
@@ -1652,7 +1650,6 @@ lze interpretova různě</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-68-p2s7w3</LM>

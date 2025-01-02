@@ -6613,9 +6613,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>neanotuji, vztah exempl je 
-mezi NP "mnozstvi potencionalnich 
-ekologickych bomb" a vetou (23)</discourse_comment>
 </LM>
 <LM id="t-ln94203-1-p7s1w2">
 <a>
@@ -7694,8 +7691,6 @@ ekologickych bomb" a vetou (23)</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>kromě celých ponorek...
-odkaz k NP, neanotováno</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln94203-1-p8s1w5">

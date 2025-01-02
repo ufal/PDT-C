@@ -2534,9 +2534,6 @@
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>wrongTR? nemaji uzly "snažit_se" a "dávat" viset
-ještě na comma? takhle to vypadá, že mezi "snažit_se"
-a "dávat" je vztah REAS</discourse_comment>
 <val_frame.rf>v#v41psR</val_frame.rf>
 <children>
 <LM id="t-mf930713-001-p3s9a2">
@@ -2726,7 +2723,6 @@ a "dávat" je vztah REAS</discourse_comment>
 <target_range>group</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-001-p3s9w15</LM>

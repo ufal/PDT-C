@@ -645,7 +645,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>implikace  -a mají pravdu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-86-p2s2w1</LM>
@@ -8062,7 +8061,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->i když</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-86-p7s5w1</LM>

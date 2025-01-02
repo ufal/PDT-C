@@ -8892,7 +8892,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>vztah k předchozí větě zřejmý, ale jen vztah k Vinf, proto neanotováno  -ani exempl, ani spec (to znamená, že)</discourse_comment>
 </LM>
 <LM id="t-ln94204-83-p8s5w12">
 <a>

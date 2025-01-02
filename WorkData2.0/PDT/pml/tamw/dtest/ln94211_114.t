@@ -1579,9 +1579,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<discourse_comment>není to secondary?
-je mylný + vysvětleni
-proč v další větě?</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-114-p3s3w1">
@@ -2371,10 +2368,6 @@ proč v další větě?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>anotuju grad
-ve shodě s grad
-u nejen ale i
-všude v PDT</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-114-p4s2a0</LM>

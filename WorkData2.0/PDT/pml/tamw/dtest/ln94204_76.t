@@ -4484,7 +4484,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>second_rel SYNCHR zatimco</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94204-76-p4s3w1</LM>
@@ -5590,7 +5589,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-ln94204-76-p4s4w15</LM>

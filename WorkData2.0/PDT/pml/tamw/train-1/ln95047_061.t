@@ -9235,10 +9235,6 @@
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>neanotuju,
-NP (stejně jako
-v Oseku i v Jeníkově...)
-</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p4s4w2">
 <a>
@@ -9748,11 +9744,6 @@ v Oseku i v Jeníkově...)
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>neanotuju, NP 
-(stejně jako lidé 
-v Oseku i lidé 
-z okolních domů 
-v Duchcově...)</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p5s2w2">
 <a>
@@ -16434,7 +16425,6 @@ v Duchcově...)</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p5s28Bw1">
 <a>
@@ -18073,8 +18063,6 @@ v Duchcově...)</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC,
-ale MEANS</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p5s33a1">
 <nodetype>complex</nodetype>
@@ -23897,8 +23885,6 @@ ale MEANS</discourse_comment>
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC,
-spíš ATT</discourse_comment>
 </LM>
 <LM id="t-ln95047-061-p9s3w2">
 <a>

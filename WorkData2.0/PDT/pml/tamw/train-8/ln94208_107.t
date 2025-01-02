@@ -7307,8 +7307,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Negative-cause.NegResult</sense_PDTB3>
-<comment>sporná anotace,
-wrongTR? způsobová věta?</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-107-p4s23w8</LM>

@@ -5230,7 +5230,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE pokud->jen tehdy pokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-59-p4s5w21</LM>
@@ -5503,8 +5502,6 @@
 <tfa>f</tfa>
 <deepord>5</deepord>
 <secondary_NP_type>conc</secondary_NP_type>
-<discourse_comment>free compositional phrase
-konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41rmoB</val_frame.rf>
 <children>
 <LM id="t-ln94208-59-p5s1w3">

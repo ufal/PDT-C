@@ -1531,7 +1531,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary bude navazovat</discourse_comment>
 <val_frame.rf>v#v41dfuC</val_frame.rf>
 <children>
 <LM id="t-ln95049-066-p3s4w2">
@@ -5904,8 +5903,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC, 
-ale MANN</discourse_comment>
 </LM>
 <LM id="t-ln95049-066-p8s3a0">
 <nodetype>complex</nodetype>
@@ -6505,8 +6502,6 @@ ale MANN</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>prvním argumentem
-je jenom NP</discourse_comment>
 </LM>
 <LM id="t-ln95049-066-p9s2w7">
 <a>
@@ -8046,7 +8041,6 @@ je jenom NP</discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>15</deepord>
-<discourse_comment>wrong TR,smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95049-066-p12s1w7">
 <a>
@@ -8475,16 +8469,12 @@ je jenom NP</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>second_rel CONFR zatímco </comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-066-p12s1w31</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>
-
-</discourse_comment>
 <val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln95049-066-p12s1w33">

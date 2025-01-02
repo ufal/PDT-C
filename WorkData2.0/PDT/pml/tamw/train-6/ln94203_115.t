@@ -785,7 +785,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>popisek tabulky</discourse_comment>
 <children>
 <LM id="t-ln94203-115-p3s20w4">
 <a>

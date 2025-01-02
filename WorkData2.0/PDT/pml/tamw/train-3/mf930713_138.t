@@ -1893,7 +1893,6 @@
 <target_range>2</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>možná taky one_arg u totiž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-138-p4s1w10</LM>
@@ -3893,7 +3892,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrong_TR segmentace vět</discourse_comment>
 <val_frame.rf>v#v41gdbA</val_frame.rf>
 <children>
 <LM id="t-mf930713-138-p5s2w22">
@@ -5352,7 +5350,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-138-p7s1w3</LM>

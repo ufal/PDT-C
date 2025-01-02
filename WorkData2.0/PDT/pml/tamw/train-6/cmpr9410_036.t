@@ -27,9 +27,6 @@
 <functor>APPS</functor>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>text složený ze dvou
-textů  -normálně 
-koherentních</discourse_comment>
 <children>
 <LM id="t-cmpr9410-036-p2s1w1">
 <a>
@@ -2105,9 +2102,6 @@ koherentních</discourse_comment>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>36</deepord>
-<discourse_comment>wrongTR?
-neměly by tu být dvě "a"
-ve stromě nad sebou?</discourse_comment>
 <children>
 <LM id="t-cmpr9410-036-p7s1w16">
 <a>
@@ -2465,7 +2459,6 @@ ve stromě nad sebou?</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>25</deepord>
-<discourse_comment>PREC v rámci téhle struktury</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-036-p7s1a7">
 <nodetype>qcomplex</nodetype>
@@ -3437,9 +3430,6 @@ ve stromě nad sebou?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>kdyby nebylo ve 14
-vyjádření "v tom případě,"
-jednalo by se o COND</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-036-p8s2w4</LM>
@@ -4010,7 +4000,6 @@ jednalo by se o COND</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-036-p9s1w3</LM>
@@ -5015,7 +5004,6 @@ jednalo by se o COND</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary z tohoto důvodu</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-cmpr9410-036-p9s1w19</target_node.rf>
@@ -8738,9 +8726,6 @@ jednalo by se o COND</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>CONJ snad přesnější, 
-OPP je s nevyjádřeným
-"nezaplatil mi"</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-036-p18s2w6</LM>

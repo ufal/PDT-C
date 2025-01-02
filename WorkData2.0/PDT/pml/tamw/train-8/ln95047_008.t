@@ -8486,7 +8486,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>secondary NP_VP, free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41embA</val_frame.rf>
 <children>
 <LM id="t-ln95047-008-p8s3a2">

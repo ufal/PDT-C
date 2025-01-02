@@ -688,7 +688,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>příklad důvodu</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-mf930713-148-p3s1w3</LM>
@@ -3671,7 +3670,6 @@
 <target_range>backward</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-148-p6s1w19</LM>

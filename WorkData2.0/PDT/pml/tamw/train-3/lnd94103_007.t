@@ -692,7 +692,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41emcA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s4w2">
@@ -1654,10 +1653,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrong TR? 
-nemá to tečku,
-může to být nadpis
-nebo součást 6</discourse_comment>
 <val_frame.rf>v#v41dmsB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-007-p1s6Bw1">

@@ -1353,7 +1353,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>konektor+secondary</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-085-p2s4w2</LM>
@@ -1498,7 +1497,6 @@
 <target_range>3</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95049-085-p2s5w7</LM>
@@ -2848,7 +2846,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>chybějící kus informace  -něco jako: je to potřebný krok (stejně jako zrušení elitní jednotky)</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln95049-085-p3s4w1</LM>
@@ -5635,8 +5632,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>lze vnímat i jako
-SPEC NP "co"_PJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-085-p3s12w21</LM>
@@ -5966,10 +5961,6 @@ SPEC NP "co"_PJ</comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>o korune se tu mluvi poprve, proto 
-je to trochu nesrozumitelne; 
-zaroven si nejsem jista rozsahem 
-prvniho argumentu</discourse_comment>
 <val_frame.rf>v#v41eqpB</val_frame.rf>
 <children>
 <LM id="t-ln95049-085-p3s14w7">

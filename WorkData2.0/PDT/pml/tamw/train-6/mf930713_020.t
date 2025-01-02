@@ -2819,7 +2819,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE spíš->tím spíš že; EXCONN_CHANGE tím spíš že->spíš; EXCONN_CHANGE spíš , že->tím spíš že</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-020-p3s13w5</LM>

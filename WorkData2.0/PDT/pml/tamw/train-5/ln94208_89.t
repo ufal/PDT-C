@@ -925,7 +925,6 @@
 <discourse_type>f_opp</discourse_type>
 <sense_PDTB3>Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->ale</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94208-89-p2s3w4</LM>
@@ -972,7 +971,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause+SpeechAct.Reason+SpeechAct</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause+SpeechAct.Reason+SpeechAct</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->aby</comment>
 <src>PS</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-89-p2s3w1</LM>
@@ -1115,7 +1113,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->proto že proto že</comment>
 <src>PS</src>
 <a-connectors.rf>
 <LM>a#a-ln94208-89-p2s3w10</LM>
@@ -1765,7 +1762,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>10</deepord>
-<discourse_comment>wrongTR  -tohle je spíš REG, ne?</discourse_comment>
 <val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-ln94208-89-p2s4w10">
@@ -2301,7 +2297,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-89-p2s5w8</LM>
@@ -4592,7 +4587,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Result+Belief</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause+Belief.Result+Belief</sense_PDTB3_manual>
-<comment>PHASE:2 EXCONN_CHANGE přeloženo->přeloženo :; CONN_CHANGE ->přeloženo</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94208-89-p3s8w1</LM>

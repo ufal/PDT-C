@@ -51,7 +51,6 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>může být i popisek fotky</discourse_comment>
 <val_frame.rf>v#v41frxA</val_frame.rf>
 <children>
 <LM id="t-ln94202-138-p1s1Aw4">

@@ -2843,7 +2843,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3_manual>
-<comment>f kvůli implikaci  -a určitě by ji zvládli</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94203-13-p4s4w1</LM>
@@ -3134,7 +3133,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94203-13-p4s5w17">

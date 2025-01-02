@@ -441,7 +441,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>18</deepord>
-<discourse_comment>není PREC</discourse_comment>
 </LM>
 <LM id="t-mf920925-059-p2s1w24">
 <a>

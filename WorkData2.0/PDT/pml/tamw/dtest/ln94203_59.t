@@ -1697,7 +1697,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41aobA</val_frame.rf>
 <children>
 <LM id="t-ln94203-59-p3s1a2">
@@ -2493,7 +2492,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>vztah NP a VP</discourse_comment>
 </LM>
 <LM id="t-ln94203-59-p3s2w2">
 <a>
@@ -6027,7 +6025,6 @@
 <t_lemma>zvlášť</t_lemma>
 <functor>CM</functor>
 <deepord>29</deepord>
-<discourse_comment>wrong TR: tohle má být taky MANN</discourse_comment>
 </LM>
 <LM id="t-ln94203-59-p5s3a5">
 <a>
@@ -10834,7 +10831,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-59-p8s1w3">
 <a>
@@ -11295,7 +11291,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94203-59-p8s2w5">
 <a>

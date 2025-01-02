@@ -48,7 +48,6 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>zároveň is_photo description</discourse_comment>
 <val_frame.rf>v#v41fjzE</val_frame.rf>
 <children>
 <LM id="t-ln94205-95-p1s1Aw2">

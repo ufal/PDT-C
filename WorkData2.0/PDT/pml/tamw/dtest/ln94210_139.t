@@ -3158,7 +3158,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR? nemaji 22 a 23 byt jeden strom?</discourse_comment>
 <val_frame.rf>v#v41fgkC</val_frame.rf>
 <children>
 <LM id="t-ln94210-139-p4s2w3">
@@ -3536,7 +3535,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>wrongTR? nemaji vety 24 a 25 byt jeden strom?</discourse_comment>
 <val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94210-139-p4s4a1">
@@ -5225,7 +5223,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94210-139-p4s8w17">
 <a>

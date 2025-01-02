@@ -1647,8 +1647,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>lze vnímat i jako
-SPEC NP "co"_PJ</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-114-p2s8w1</LM>

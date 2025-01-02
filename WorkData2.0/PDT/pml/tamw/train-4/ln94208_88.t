@@ -1269,8 +1269,6 @@
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>19</deepord>
-<discourse_comment>spec pouze NP, tedy
-?wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94208-88-p3s1w18">
 <a>
@@ -5223,7 +5221,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94208-88-p4s7w2">
 <a>
@@ -6623,9 +6620,6 @@
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem ještě
-sémantiku GRAD nese jistě
-i sloveso</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s12w3</LM>
@@ -7302,9 +7296,6 @@ i sloveso</comment>
 <target_range>4</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>široké vyplývání,
-nejistá sémantika,
-snad nejblíž je EQUIV</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-88-p4s15w3</LM>
@@ -7441,10 +7432,6 @@ snad nejblíž je EQUIV</comment>
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
 <deepord>4</deepord>
-<discourse_comment>wrongTR
-mělo by být rozděleno jinak,
-srov. s ostatními řádky dál, 
-zejména s (26)</discourse_comment>
 <children>
 <LM id="t-ln94208-88-p4s16Aw4">
 <a>

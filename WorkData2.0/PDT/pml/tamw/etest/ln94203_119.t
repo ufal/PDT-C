@@ -3051,7 +3051,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>nevím, co ta věta znamená, ale nevypadá to na subjektivní soud, jen je to možná spec</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-119-p2s9w16</LM>

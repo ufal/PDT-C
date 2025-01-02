@@ -1130,10 +1130,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg
-
-urcita presupozice? 
-drive se o Jugoslavii nemluvi</discourse_comment>
 </LM>
 <LM id="t-mf920925-086-p4s2w3">
 <a>
@@ -1905,7 +1901,6 @@ drive se o Jugoslavii nemluvi</discourse_comment>
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-086-p4s5w4">
 <a>

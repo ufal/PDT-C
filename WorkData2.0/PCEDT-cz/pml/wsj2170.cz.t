@@ -313,7 +313,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A MP</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s2W1-Ta</LM>
@@ -955,7 +954,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A MP</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s3W16-Ta</LM>
@@ -1097,7 +1095,6 @@
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s4a1</LM>
@@ -1236,7 +1233,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s4a11</LM>
@@ -1582,7 +1578,6 @@
 <target_range>0</target_range>
 <discourse_type>f_cond</discourse_type>
 <sense_PDTB3>Contingency.Condition+SpeechAct</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A MP</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s6W4-Ta</LM>
@@ -2274,7 +2269,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s8a1</LM>
@@ -2467,7 +2461,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s8a3</LM>
@@ -2911,7 +2904,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s11a2</LM>
@@ -3045,7 +3037,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s11W12-Ta</LM>
@@ -3765,7 +3756,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s13a6</LM>
@@ -4676,7 +4666,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s16a4</LM>
@@ -4787,7 +4776,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s16a12</LM>
@@ -5012,7 +5000,6 @@
 <target_range>0</target_range>
 <discourse_type>purp</discourse_type>
 <sense_PDTB3>Contingency.Purpose.Arg2-as-goal</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s16W30-Ta</LM>
@@ -5157,7 +5144,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_I_A</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s17a4</LM>
@@ -5314,7 +5300,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A MP</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s17W16-Ta</LM>
@@ -5733,7 +5718,6 @@
 <target_range>0</target_range>
 <discourse_type>f_opp</discourse_type>
 <sense_PDTB3>Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s19a1</LM>
@@ -5790,7 +5774,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s19W2-Ta</LM>
@@ -5876,7 +5859,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s19W13-Ta</LM>
@@ -6297,7 +6279,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s21a1</LM>
@@ -6862,7 +6843,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s23a1</LM>
@@ -7419,7 +7399,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 RETARGETED; FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s25a17</LM>
@@ -7699,7 +7678,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s26a1</LM>
@@ -7956,7 +7934,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s27W1-Ta</LM>
@@ -8150,7 +8127,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s28a2</LM>
@@ -8368,7 +8344,6 @@
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A MP</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s28W18-Ta</LM>
@@ -8792,7 +8767,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s30W8-Ta</LM>
@@ -8895,7 +8869,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s31a1</LM>
@@ -9317,7 +9290,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_I_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s34a4</LM>
@@ -9383,7 +9355,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s33W2-Ta</LM>
@@ -10014,7 +9985,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s34W15-Ta</LM>
@@ -11233,7 +11203,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_I_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s38a2</LM>
@@ -12523,7 +12492,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_I_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s43a1</LM>
@@ -13191,7 +13159,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s45W15-Ta</LM>
@@ -13551,7 +13518,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_I_A MP</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s46W16-Ta</LM>
@@ -13862,7 +13828,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s48W2-Ta</LM>
@@ -13947,7 +13912,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s48a1</LM>
@@ -13979,7 +13943,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s48W12-Ta</LM>
@@ -14121,7 +14084,6 @@
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_I_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s49a9</LM>
@@ -14194,7 +14156,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s49W3-Ta</LM>
@@ -14372,7 +14333,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_H_A</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s49a2</LM>
@@ -14645,7 +14605,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_I_A MP</src>
 <t-connectors.rf>
 <LM>T-wsj2170-001-p1s52a1</LM>
@@ -14765,7 +14724,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_I_A MP</src>
 <a-connectors.rf>
 <LM>a#a-wsj2170-001-p1s51W10-Ta</LM>

@@ -2067,7 +2067,6 @@
 <target_range>0</target_range>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE zato->zato však</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-061-p4s3w33</LM>
@@ -4445,7 +4444,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-061-p6s1w2">
 <a>
@@ -6403,7 +6401,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-061-p7s6a0">
 <nodetype>complex</nodetype>
@@ -7642,7 +7639,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-061-p8s4w24</LM>
@@ -7889,7 +7885,6 @@
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Conjunction</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->a</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln95048-061-p8s4w15</LM>
@@ -8018,7 +8013,6 @@
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE a->zkrátka; RETYPED conj->gener; RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-061-p8s4w23</LM>
@@ -8236,7 +8230,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->protože</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-061-p8s5w1</LM>

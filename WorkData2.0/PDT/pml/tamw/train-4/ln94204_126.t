@@ -810,7 +810,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-126-p2s3w1</LM>
@@ -3476,8 +3475,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>může být i preced, 
-zřejmé to není</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-126-p4s2w5</LM>
@@ -3486,7 +3483,6 @@ zřejmé to není</comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94204-126-p4s2w2">

@@ -1176,7 +1176,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-171-p2s6w14</LM>
@@ -1850,8 +1849,6 @@
 <functor>APPS</functor>
 <is_member>1</is_member>
 <deepord>7</deepord>
-<discourse_comment>neanotuji, 
-vztah mezi NP a NP</discourse_comment>
 <children>
 <LM id="t-ln94200-171-p2s8a0">
 <a>
@@ -3568,7 +3565,6 @@ vztah mezi NP a NP</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94200-171-p2s12w11">
@@ -3832,7 +3828,6 @@ vztah mezi NP a NP</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-171-p2s13w2</LM>

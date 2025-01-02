@@ -1754,8 +1754,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<discourse_comment>nejistota, zda se jedná
-o vztah VP  -neanotováno</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95048-071-p2s4a2">
@@ -2799,7 +2797,6 @@ o vztah VP  -neanotováno</discourse_comment>
 <tfa>t</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>exempl</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95048-071-p2s7Bw1">
 <a>
@@ -4688,7 +4685,6 @@ o vztah VP  -neanotováno</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Reason+Belief</sense_PDTB3>
-<comment>není úplně jasné, co tím myslí, tak necháno jako explicat, subjektivní se mi to zdá a jako detaily taky</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-071-p2s13w4</LM>
@@ -9848,7 +9844,6 @@ o vztah VP  -neanotováno</discourse_comment>
 <target_range>2</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-071-p4s4w13</LM>
@@ -12604,7 +12599,6 @@ o vztah VP  -neanotováno</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>12</deepord>
-<discourse_comment>druhy argument je NP</discourse_comment>
 </LM>
 <LM id="t-ln95048-071-p5s6a2">
 <nodetype>complex</nodetype>

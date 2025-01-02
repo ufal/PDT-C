@@ -3077,8 +3077,6 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase
-Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-ln94211-108-p4s2w5">
@@ -5528,7 +5526,6 @@ Vyplývání (vyvození výsledků)</discourse_comment>
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>17</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94211-108-p6s2w6">
 <a>

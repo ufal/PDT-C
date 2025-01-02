@@ -914,8 +914,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse_comment>wrongTR? proč se ukazuje i na i když?
-Neni zde spatny funktor?</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -8187,7 +8185,6 @@ Neni zde spatny funktor?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94210-74-p7s3Aa1">
@@ -10327,7 +10324,6 @@ Neni zde spatny funktor?</discourse_comment>
 <target_range>-7</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94210-74-p8s3w1</LM>

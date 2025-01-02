@@ -1939,8 +1939,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem taky
-slabá conj</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-005-p2s6w3</LM>
@@ -2432,8 +2430,6 @@ slabá conj</comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>RESTR jako další možnost,
-ale OPP mi přijde přesnější</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-005-p2s7a1</LM>

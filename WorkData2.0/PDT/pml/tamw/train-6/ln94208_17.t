@@ -11383,7 +11383,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<discourse_comment>wrong TR</discourse_comment>
 <val_frame.rf>v#v41ccxA</val_frame.rf>
 <children>
 <LM id="t-ln94208-17-p14s2a0">

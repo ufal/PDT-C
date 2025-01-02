@@ -2708,12 +2708,6 @@
 <target_range>1</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>něco jako pragmatická
-equiv  -jinými slovy, říkáte, že
-jste nominaci stáhli teď, 
-ale před nominací jste 
-se o hospodaření banky
-nezajímali, že?</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-50-p6s1w9</LM>

@@ -2163,7 +2163,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>8</deepord>
-<discourse_comment>secondary od té doby</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94211-11-p3s5w6</target_node.rf>

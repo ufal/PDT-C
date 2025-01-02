@@ -1501,9 +1501,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>19</deepord>
-<discourse_comment>wrongTR?,
-proč to není schované
-u slovesa?</discourse_comment>
 </LM>
 <LM id="t-ln94202-117-p2s4a2">
 <nodetype>qcomplex</nodetype>

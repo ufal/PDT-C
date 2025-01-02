@@ -7232,9 +7232,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>adept na seznam,
-obě položky 
-v následujícím stromě</discourse_comment>
 <val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-040-p14s3w4">
@@ -7337,7 +7334,6 @@ v následujícím stromě</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<discourse_comment>secondary ze dvou důvodů</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-cmpr9410-040-p14s4w6</target_node.rf>

@@ -4603,8 +4603,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>Neznacim, neni diskurzni 
-vztah (anafora).</discourse_comment>
 </LM>
 <LM id="t-ln94211-3-p5s2a0">
 <nodetype>qcomplex</nodetype>
@@ -9853,7 +9851,6 @@ vztah (anafora).</discourse_comment>
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Contrast</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED opp->confr</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94211-3-p6s6w7</LM>
@@ -10578,10 +10575,6 @@ vztah (anafora).</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>myslim, ze to odkazuje spis 
-na NP (jako Tezaurus, proste 
-nazvy tech funkci), proto 
-neanotuji neustaleny secondary</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-ln94211-3-p6s9w2">
@@ -17166,7 +17159,6 @@ neanotuji neustaleny secondary</discourse_comment>
 <tfa>f</tfa>
 <deepord>7</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>negativní vztah</discourse_comment>
 <children>
 <LM id="t-ln94211-3-p10s1a4">
 <nodetype>qcomplex</nodetype>

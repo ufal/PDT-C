@@ -8560,7 +8560,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920922-103-p2s24Ba2">
 <nodetype>qcomplex</nodetype>
@@ -10477,9 +10476,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<discourse_comment>wrongTR? je v poradku funktor? nema to byt PAT
-jako v prvnim podstromu? a nema zde byt 
-doplneny uzel "konfederace"?</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920922-103-p2s29a2">
@@ -11401,8 +11397,6 @@ doplneny uzel "konfederace"?</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>nepatri tam ta negace 
-(aby byla celni unie ...)</discourse_comment>
 <val_frame.rf>v#v41nlfH</val_frame.rf>
 <children>
 <LM id="t-mf920922-103-p2s31a3">

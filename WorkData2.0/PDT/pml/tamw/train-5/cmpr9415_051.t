@@ -4925,9 +4925,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>zkratkovitá,
-ne zcela vhodná
-formulace</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-051-p9s6w10</LM>

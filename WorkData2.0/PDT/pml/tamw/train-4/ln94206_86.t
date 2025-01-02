@@ -887,10 +887,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>wrongTR?
-není elipsa jít,
-CORR, konektor nýbrž
-a negace </discourse_comment>
 <val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-ln94206-86-p3s1w3">
@@ -1477,7 +1473,6 @@ a negace </discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41acrC</val_frame.rf>
 <children>
 <LM id="t-ln94206-86-p4s1w2">
@@ -3767,7 +3762,6 @@ a negace </discourse_comment>
 <target_range>2</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>CONJ silnější než OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-86-p6s3w4</LM>
@@ -6159,7 +6153,6 @@ a negace </discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-ln94206-86-p9s2w41">

@@ -990,9 +990,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>chyba v článku,
-informátor
-není uveden</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-032-p2s4w2</LM>

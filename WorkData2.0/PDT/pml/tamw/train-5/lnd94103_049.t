@@ -1086,7 +1086,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<discourse_comment>wrongTR? nema byt is_parenthesis=1?</discourse_comment>
 </LM>
 <LM id="t-lnd94103-049-p1s3w8">
 <a>
@@ -1482,7 +1481,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>33</deepord>
-<discourse_comment>wrongTR? nema byt is_parenthesis=1?</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -1882,7 +1880,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>56</deepord>
-<discourse_comment>wrongTR? nema byt is_parenthesis=1?</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -9145,8 +9142,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>lze vnímat i jako
-SPEC NP "to"</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-049-p1s24w8</LM>

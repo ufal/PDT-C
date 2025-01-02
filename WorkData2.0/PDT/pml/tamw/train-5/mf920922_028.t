@@ -537,7 +537,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf920922-028-p2s2w7</target_node.rf>
@@ -4418,7 +4417,6 @@
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>PHASE:2 RESTARTED; CONN_CHANGE však nejde->však</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-028-p2s17w4</LM>
@@ -4454,7 +4452,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdt30</src>
 <t-connectors.rf>
 <LM>t-mf920922-028-p2s17w18</LM>

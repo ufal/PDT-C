@@ -1542,7 +1542,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>parcelace</discourse_comment>
 <val_frame.rf>v#v41iogA</val_frame.rf>
 <children>
 <LM id="t-mf930713-110-p2s8a1">
@@ -8865,7 +8864,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>second_rel SYNCHR dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-110-p2s29w1</LM>

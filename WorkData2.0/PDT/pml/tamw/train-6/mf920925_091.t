@@ -6438,7 +6438,6 @@
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Contrast</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED conj->confr</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-091-p8s11w13</LM>
@@ -6642,7 +6641,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-091-p8s12a0">
 <nodetype>qcomplex</nodetype>

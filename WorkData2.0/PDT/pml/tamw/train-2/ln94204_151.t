@@ -2934,7 +2934,6 @@
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-151-p3s7w5</LM>
@@ -7364,7 +7363,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse_comment>wrongTR? nema byt funktor CAUS?</discourse_comment>
 <val_frame.rf>v#v41dhjB</val_frame.rf>
 <children>
 <LM id="t-ln94204-151-p7s3w10">
@@ -7422,7 +7420,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR? nema byt funktor CAUS?</discourse_comment>
 <val_frame.rf>v#v41chlO</val_frame.rf>
 <children>
 <LM id="t-ln94204-151-p7s3w14">
@@ -11487,7 +11484,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<discourse_comment>rhem v ramci vety</discourse_comment>
 </LM>
 <LM id="t-ln94204-151-p10s10w17">
 <a>

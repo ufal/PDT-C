@@ -105,9 +105,6 @@
 <functor>CONJ</functor>
 <deepord>5</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR,
-sémanticky hypotaktické souvětí
-s asyndetickou podmínkovou klauzí</discourse_comment>
 <children>
 <LM id="t-cmpr9410-022-p3s1a0">
 <nodetype>complex</nodetype>
@@ -2280,10 +2277,6 @@ s asyndetickou podmínkovou klauzí</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR,
-apozice mezi co
-a navrhnout
-</discourse_comment>
 <children>
 <LM id="t-cmpr9410-022-p10s1w3">
 <a>
@@ -2818,7 +2811,6 @@ a navrhnout
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>implicitní  -a je to správné/pochopitelné</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-022-p10s3w1</LM>

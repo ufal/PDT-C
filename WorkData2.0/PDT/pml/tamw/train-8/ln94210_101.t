@@ -1309,10 +1309,6 @@
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>IGNORE</sense_PDTB3_manual>
-<comment>jednotícím prvkem seznamů
-v celém souboru (a svým 
-způsobem konektory) jsou
-letopočty a data událostí</comment>
 <src>pdit10</src>
 </LM>
 <LM>
@@ -1404,10 +1400,6 @@ letopočty a data událostí</comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR,
-špatná segmentace,
-konec roku už patří
-k další větě</discourse_comment>
 <children>
 <LM id="t-ln94210-101-p3s1w8">
 <a>
@@ -15345,10 +15337,6 @@ k další větě</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>wrongTR,
-špatná segmentace,
-60 a 61 jsou jedna
-věta</discourse_comment>
 <val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94210-101-p33s4w2">
@@ -22121,10 +22109,6 @@ věta</discourse_comment>
 <target_node.rf>t-ln94210-101-p45s1w5</target_node.rf>
 <type>list</type>
 <start_range>0</start_range>
-<comment>nemusí být bráno 
-jako samostatná
-položka, může patřit
-k předchozí</comment>
 <src>pdit10</src>
 </LM>
 </discourse>

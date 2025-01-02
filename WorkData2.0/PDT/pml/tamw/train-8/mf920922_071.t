@@ -1030,8 +1030,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>může být vnímáno
-i jako SPEC NP "co"</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-071-p2s2w26</LM>
@@ -3004,7 +3002,6 @@ i jako SPEC NP "co"</comment>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg1-as-excpt</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Exception.Arg1-as-excpt</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ale->ale jinak; RETYPED opp->restr</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-071-p2s7w20</LM>

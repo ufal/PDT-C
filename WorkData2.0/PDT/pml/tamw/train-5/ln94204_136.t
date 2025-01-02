@@ -1458,8 +1458,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>zastřená sémantika,
-nejde odvodit z kontextu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-136-p2s3w9</LM>

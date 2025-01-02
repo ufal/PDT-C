@@ -2464,11 +2464,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR?,
-špatná segmentace?,
-nepatří tato věta
-k předchozímu
-stromu</discourse_comment>
 </LM>
 <LM id="t-ln95048-053-p3s10w4">
 <a>
@@ -3530,10 +3525,6 @@ stromu</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR?,
-špatná segmentace?,
-nepatří dohromady
-s předchozí větou?</discourse_comment>
 </LM>
 <LM id="t-ln95048-053-p4s8a0">
 <nodetype>complex</nodetype>

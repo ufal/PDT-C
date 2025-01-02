@@ -2343,8 +2343,6 @@
 </quot>
 <is_dsp_root>1</is_dsp_root>
 <deepord>29</deepord>
-<discourse_comment>wrongTR? nebylo by lepsi povesit "dash" na "a" 
-a na "dash" povesit "být" a "vést"?</discourse_comment>
 <children>
 <LM id="t-ln95046-018-p3s3w6">
 <a>
@@ -4275,7 +4273,6 @@ a na "dash" povesit "být" a "vést"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR? nemaji stromy 14 a 15 byt jeden strom?</discourse_comment>
 <children>
 <LM id="t-ln95046-018-p4s1Aw1">
 <a>

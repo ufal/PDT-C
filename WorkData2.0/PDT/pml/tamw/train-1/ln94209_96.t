@@ -1249,8 +1249,6 @@
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>
-</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-96-p2s4w6</LM>

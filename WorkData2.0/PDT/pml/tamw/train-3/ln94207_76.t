@@ -1355,7 +1355,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-76-p2s5w11</LM>
@@ -8716,7 +8715,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-76-p4s1a0">
 <nodetype>complex</nodetype>
@@ -12549,7 +12547,6 @@
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
 <sense_PDTB3_manual>Temporal.Asynchronous.Precedence</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->když</comment>
 <src>PS</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-76-p6s1w11</LM>
@@ -16674,10 +16671,6 @@
 <t_lemma>také</t_lemma>
 <functor>CM</functor>
 <deepord>7</deepord>
-<discourse_comment>wrong TR,
-spíše modifikuje
-konektivní prostředek
-VV</discourse_comment>
 </LM>
 <LM id="t-ln94207-76-p7s8a1">
 <a>
@@ -23316,7 +23309,6 @@ VV</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:3 RETYPED disjalt->conjalt</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-76-p9s2w5</LM>
@@ -25982,7 +25974,6 @@ VV</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>konektor rhem aspoň</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-76-p9s9w4</LM>
@@ -29824,9 +29815,6 @@ VV</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>wrongTR?,
-proč to není schované
-u slovesa?</discourse_comment>
 </LM>
 <LM id="t-ln94207-76-p10s1a2">
 <nodetype>complex</nodetype>
@@ -35703,7 +35691,6 @@ u slovesa?</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94207-76-p12s5w1">
@@ -40206,7 +40193,6 @@ u slovesa?</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary přibližně v téže době</discourse_comment>
 <children>
 <LM id="t-ln94207-76-p13s3w3">
 <a>

@@ -3061,10 +3061,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
-<discourse_comment>wrongTR?,
-souvětné  -být a elidované být
-mezi nimi vztah CORR, konektor
-ale a negace</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94205-107-p3s8w17">
@@ -5330,10 +5326,6 @@ ale a negace</discourse_comment>
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
 <deepord>11</deepord>
-<discourse_comment>wrongTR?
-dvě vedlejší objektové
-klauze by snad byla přesnější
-interpretace</discourse_comment>
 <children>
 <LM id="t-ln94205-107-p4s7w1">
 <a>
@@ -6216,8 +6208,6 @@ interpretace</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>wrongTR?
-není vidět parcelace</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94205-107-p4s10w1">

@@ -1377,9 +1377,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>kolekce,
-špatné dělení
-textu</discourse_comment>
 <val_frame.rf>v#v41eaeA</val_frame.rf>
 <children>
 <LM id="t-mf920922-053-p2s3Bw1">

@@ -2672,13 +2672,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR?  -chybi dokopirovane ridici klauze?
-(podle me "tezko rici" (strom 12) a "pokud v tom
-nejsou stare dobre zvyky (strom 13)); pak by se
-"přesvědčit" (věta 14) neanotovalo jako PRED  
-Po doplneni klauzi bych anotovala bud spec, 
-nebo bych to videla jako vztah mezi NP a neanotovala
-bych nic</discourse_comment>
 </LM>
 <LM id="t-ln94211-30-p4s3w3">
 <a>
@@ -4356,10 +4349,6 @@ bych nic</discourse_comment>
 <t_lemma>či</t_lemma>
 <functor>DISJ</functor>
 <deepord>4</deepord>
-<discourse_comment>wrongTR? nema byt dokopirovany nejaky ridici 
-uzel? nemaji mit "být" a doplnene "být" jiny
-funtor nez PRED? nema doplnene "byt" odkazovat jen
-na prvni "zda" a ne na obe? </discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94211-30-p5s4w9</target_node.rf>
@@ -6455,7 +6444,6 @@ na prvni "zda" a ne na obe? </discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->protože</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-30-p6s3w1</LM>

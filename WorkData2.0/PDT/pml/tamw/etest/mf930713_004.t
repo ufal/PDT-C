@@ -2172,7 +2172,6 @@
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Concession.Arg2-as-denier</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->ale</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-mf930713-004-p3s8w24</LM>

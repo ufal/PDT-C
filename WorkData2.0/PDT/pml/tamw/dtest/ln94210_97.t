@@ -506,8 +506,6 @@
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<discourse_comment>prvním argumentem
-je NP</discourse_comment>
 </LM>
 <LM id="t-ln94210-97-p2s2a0">
 <nodetype>complex</nodetype>
@@ -5859,7 +5857,6 @@ je NP</discourse_comment>
 <is_parenthesis>1</is_parenthesis>
 <tfa>f</tfa>
 <deepord>12</deepord>
-<discourse_comment>secondary? pravda</discourse_comment>
 </LM>
 <LM id="t-ln94210-97-p5s3w21">
 <a>

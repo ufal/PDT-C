@@ -1309,7 +1309,6 @@
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
 <deepord>6</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94208-132-p3s2w1">
 <a>

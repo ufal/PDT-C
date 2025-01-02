@@ -945,7 +945,6 @@
 <tfa>f</tfa>
 <deepord>6</deepord>
 <secondary_NP_type>exempl</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94204-54-p2s3w8">
 <a>
@@ -1164,8 +1163,6 @@
 <t_lemma>tak</t_lemma>
 <functor>CM</functor>
 <deepord>18</deepord>
-<discourse_comment>wrongTR? nema byt jiny funktor  -treba MANN?
-A nema tento uzel viset jinde?</discourse_comment>
 </LM>
 <LM id="t-ln94204-54-p2s3w24">
 <a>

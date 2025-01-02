@@ -13126,9 +13126,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>neznacim, je v tom 
-spise nejaky postoj, 
-modifikace vypovedi</discourse_comment>
 </LM>
 <LM id="t-ln94206-91-p10s4a0">
 <nodetype>complex</nodetype>

@@ -1605,8 +1605,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary popřel
-(CORR)</discourse_comment>
 <val_frame.rf>v#v41gibA</val_frame.rf>
 <children>
 <LM id="t-ln95046-072-p2s4a1">

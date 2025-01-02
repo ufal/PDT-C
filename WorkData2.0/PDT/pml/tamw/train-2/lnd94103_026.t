@@ -90,8 +90,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse_comment>to vypadá jako 
-špatně rozdělený text</discourse_comment>
 <val_frame.rf>v#v41bevA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-026-p1s1w4">

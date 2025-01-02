@@ -1372,8 +1372,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>
-</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94210-113-p3s2w1</LM>

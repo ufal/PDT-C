@@ -3679,7 +3679,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94203-76-p6s1w3</LM>
@@ -11746,8 +11745,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>jeden argument je vsuvka,
-úplně proto nesedí modalita</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94203-76-p11s5w12</LM>

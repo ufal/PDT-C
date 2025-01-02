@@ -1475,7 +1475,6 @@
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 <children>
 <LM id="t-mf930713-082-p3s3w4">
 <a>
@@ -1538,7 +1537,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>secondary dalším</discourse_comment>
 </LM>
 </children>
 </LM>

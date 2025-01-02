@@ -2831,8 +2831,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>27</deepord>
-<discourse_comment>wrongTR? nema "produkt" viset na dash? nema dash
-viset na "procento"?</discourse_comment>
 <children>
 <LM id="t-ln94206-87-p3s3w35">
 <a>
@@ -3188,9 +3186,6 @@ viset na "procento"?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<discourse_comment>wrongTR? nema "naakumulovat" viset na "fakt"?
-nema "a" viset na "dluh"  -a na "a" by viselo 
-"blížit se" a "překročit"?</discourse_comment>
 <val_frame.rf>v#v41ckvA</val_frame.rf>
 <children>
 <LM id="t-ln94206-87-p3s4w9">
@@ -6046,8 +6041,6 @@ nema "a" viset na "dluh"  -a na "a" by viselo
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>23</deepord>
-<discourse_comment>wrongTR, má viset
-na uzlu s tedy</discourse_comment>
 <children>
 <LM id="t-ln94206-87-p4s7w15">
 <a>
@@ -6154,8 +6147,6 @@ na uzlu s tedy</discourse_comment>
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR? nemela by tato vedlejsi veta rozvijet
-vsechny pritomne vety hlavni?</discourse_comment>
 <val_frame.rf>v#v41lioA</val_frame.rf>
 <children>
 <LM id="t-ln94206-87-p4s7w5">
@@ -6781,9 +6772,6 @@ vsechny pritomne vety hlavni?</discourse_comment>
 <id>3</id>
 </LM>
 </discourse_groups>
-<discourse_comment>je to vubec PREC?,
-tady je rozhodně 
-CONJ_PJ</discourse_comment>
 </LM>
 <LM id="t-ln94206-87-p4s7w43">
 <a>
@@ -7490,7 +7478,6 @@ CONJ_PJ</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p5s2w2</LM>
@@ -8311,10 +8298,6 @@ CONJ_PJ</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>equiv</discourse_type>
 <sense_PDTB3>Expansion.Equivalence</sense_PDTB3>
-<comment>lze vnímat i jako
-explicat, ale bez
-konektoru je těžké
-jasně rozhodnout</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p6s1w22</LM>
@@ -9034,7 +9017,6 @@ jasně rozhodnout</comment>
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>9</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94206-87-p6s4w6">
 <a>
@@ -9640,7 +9622,6 @@ jasně rozhodnout</comment>
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-ln94206-87-p6s5w4">
 <a>
@@ -9860,7 +9841,6 @@ jasně rozhodnout</comment>
 <target_range>group</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94206-87-p6s5w14</LM>
@@ -10849,8 +10829,6 @@ jasně rozhodnout</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<discourse_comment>wrongTR? nemaji mit vyrazy v zavorce 
-is_parenthesis = 1?</discourse_comment>
 <val_frame.rf>v#v41bfcA</val_frame.rf>
 <children>
 <LM id="t-ln94206-87-p7s1a2">
@@ -12723,7 +12701,6 @@ is_parenthesis = 1?</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-87-p8s5w16">
 <a>

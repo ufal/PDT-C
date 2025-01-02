@@ -921,7 +921,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94202-78-p2s2a1">
 <nodetype>complex</nodetype>
@@ -3177,7 +3176,6 @@
 <target_range>0</target_range>
 <discourse_type>restr</discourse_type>
 <sense_PDTB3>Expansion.Exception.Arg2-as-excpt</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->ovšem</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94202-78-p4s1w12</LM>
@@ -3256,7 +3254,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94202-78-p4s1w15</LM>
@@ -5144,9 +5141,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>do tohoto vztahu patří 
-i širší kontext, ale tato
-anotace mi přijde nepřesnější</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-78-p5s2w4</LM>
@@ -5664,7 +5658,6 @@ anotace mi přijde nepřesnější</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-78-p5s3w1</LM>
@@ -5759,8 +5752,6 @@ anotace mi přijde nepřesnější</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>součást konektoru
-když tak</discourse_comment>
 </LM>
 <LM id="t-ln94202-78-p5s3w11">
 <a>
@@ -8431,7 +8422,6 @@ když tak</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94202-78-p8s1w6">
 <a>

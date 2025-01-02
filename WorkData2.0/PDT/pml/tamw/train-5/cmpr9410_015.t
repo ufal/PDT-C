@@ -3831,8 +3831,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>
-</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -7731,8 +7729,6 @@
 <target_range>0</target_range>
 <discourse_type>disjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>disjalt s podmínkou,
-sémanticky bohatý konektor</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-015-p17s3w1</LM>
@@ -7750,8 +7746,6 @@ sémanticky bohatý konektor</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>
-</discourse_comment>
 </LM>
 <LM id="t-cmpr9410-015-p17s3w4">
 <a>
@@ -7895,11 +7889,6 @@ sémanticky bohatý konektor</comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>má i rysy CONC, ale
-očekávání, že výrobci
-budou mít zájem hradit 
-školení, které vyžadují, 
-je příliš slabé</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9410-015-p17s4w1</LM>
@@ -9750,7 +9739,6 @@ je příliš slabé</comment>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>second_rel PRECED jakmile</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9410-015-p20s2w1</LM>

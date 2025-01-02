@@ -336,9 +336,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>následnost explicitně 
-ukazují také
-časová určení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-160-p2s2w6</LM>

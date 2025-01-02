@@ -4417,7 +4417,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>second_rel PRECED dokud</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930709-140-p5s3w7</LM>
@@ -8766,7 +8765,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>10</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930709-140-p10s1w10">
 <a>

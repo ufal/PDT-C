@@ -1021,7 +1021,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41emcA</val_frame.rf>
 <children>
 <LM id="t-ln94207-57-p3s1w19">

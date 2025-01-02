@@ -1966,8 +1966,6 @@
 <t_lemma>#Dash</t_lemma>
 <functor>APPS</functor>
 <deepord>9</deepord>
-<discourse_comment>wrongTR? velmi podobna struktura je ve vete 21
-a je zachycena jinak</discourse_comment>
 <children>
 <LM id="t-ln94209-16-p5s1w7">
 <a>

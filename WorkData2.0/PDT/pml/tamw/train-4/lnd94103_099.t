@@ -1525,14 +1525,12 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-lnd94103-099-p1s7w2</LM>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR  -nema na "aniž" viset "Neg"?</discourse_comment>
 <children>
 <LM id="t-lnd94103-099-p1s7w3">
 <a>

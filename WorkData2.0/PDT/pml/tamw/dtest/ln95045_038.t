@@ -4447,9 +4447,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>26</deepord>
-<discourse_comment>modifikuje význam
-COND spojky,
-zdůraznění</discourse_comment>
 </LM>
 <LM id="t-ln95045-038-p3s5w21">
 <a>
@@ -5653,7 +5650,6 @@ zdůraznění</discourse_comment>
 <tfa>t</tfa>
 <deepord>7</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95045-038-p4s4w1">
 <a>
@@ -6358,7 +6354,6 @@ zdůraznění</discourse_comment>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95045-038-p5s2w9</LM>

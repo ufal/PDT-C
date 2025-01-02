@@ -33,8 +33,6 @@
 <t_lemma>#Separ</t_lemma>
 <functor>CONJ</functor>
 <deepord>2</deepord>
-<discourse_comment>kolekce
-wrongTR chybna segmentace</discourse_comment>
 <children>
 <LM id="t-mf920922-030-p1s1Aw1">
 <a>

@@ -2087,7 +2087,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>příklad toho, co konkrétně oceňuje</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-mf920925-081-p2s6w19</LM>

@@ -2336,11 +2336,6 @@
 <target_range>group</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>přemýšlela jsem
-i o reason, ale
-ta je podle mého
-v tomto kontextu
-příliš slabá</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln95046-023-p2s4w23</LM>

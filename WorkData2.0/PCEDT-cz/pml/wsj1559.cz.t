@@ -640,7 +640,6 @@
 <sempos>v</sempos>
 </gram>
 <deepord>20</deepord>
-<discourse_comment>chyba na TR – špatně závislost</discourse_comment>
 <val_frame.rf>v#v41kzdA</val_frame.rf>
 <children>
 <LM id="T-wsj1559-001-p1s1a44">

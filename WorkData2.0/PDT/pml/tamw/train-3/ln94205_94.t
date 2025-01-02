@@ -3561,9 +3561,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>je v tom i CONJ,
-sém OPP posiluje 
-slovo "původně" v 13</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-94-p5s2w3</LM>
@@ -3807,7 +3804,6 @@ slovo "původně" v 13</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94205-94-p5s3w3</LM>
@@ -4448,8 +4444,6 @@ slovo "původně" v 13</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>součást konektoru
-kdyby tak</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p6s1w8">
 <a>
@@ -7417,8 +7411,6 @@ kdyby tak</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>parcelace; navic 
-A1 by byla NP</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p7s2a2">
 <nodetype>complex</nodetype>
@@ -8999,7 +8991,6 @@ A1 by byla NP</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p9s4w4">
 <a>
@@ -10514,7 +10505,6 @@ A1 by byla NP</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>parcelace</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p11s3a1">
 <nodetype>complex</nodetype>
@@ -14415,10 +14405,6 @@ A1 by byla NP</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR
-proč je to tady
-najednou segmentováno
-jinak než ve zbytku textu? </discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94205-94-p12s1w2</target_node.rf>
@@ -14631,9 +14617,6 @@ jinak než ve zbytku textu? </discourse_comment>
 <src>pdit10</src>
 </LM>
 </discourse>
-<discourse_comment>wrongTR?
-proč tu není
-EmpVerb?</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln94205-94-p14s1Bw7</target_node.rf>
@@ -15827,8 +15810,6 @@ EmpVerb?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<discourse_comment>adept na hypertéma,
-63-65 adept na seznam</discourse_comment>
 <val_frame.rf>v#v41kslD</val_frame.rf>
 <children>
 <LM id="t-ln94205-94-p16s1a0">
@@ -17303,7 +17284,6 @@ EmpVerb?</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>16</deepord>
-<discourse_comment>wrong TR</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p16s4w23">
 <a>
@@ -17584,10 +17564,6 @@ EmpVerb?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>adept na hypertéma,
-adept na seznam 1položka
-68-77, 2položka 78-84,
-nezřetelné</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94205-94-p18s1w5">
@@ -17788,9 +17764,6 @@ nezřetelné</discourse_comment>
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>neznacim, protoze 
-A1 by byla NP 
-("tzv. patologie treti generace")</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p18s3w7">
 <a>
@@ -18938,7 +18911,6 @@ A1 by byla NP
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE poněvadž ~ pak->poněvadž</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-94-p18s5w9</LM>
@@ -18952,7 +18924,6 @@ A1 by byla NP
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
 <sense_PDTB3_manual>Temporal.Asynchronous.Succession</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE ->pak</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94205-94-p18s5w22</LM>
@@ -19837,7 +19808,6 @@ A1 by byla NP
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<discourse_comment>není MANN</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p20s1w12">
 <a>
@@ -20831,7 +20801,6 @@ A1 by byla NP
 <tfa>f</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>conj</secondary_NP_type>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41kzmA</val_frame.rf>
 <children>
 <LM id="t-ln94205-94-p22s2w1">
@@ -21229,7 +21198,6 @@ A1 by byla NP
 </gram>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p23s1w6">
 <a>
@@ -21484,10 +21452,6 @@ A1 by byla NP
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>wrongTR?
-proč tu není 
-druhé hledat jako
-EmpVerb?</discourse_comment>
 <val_frame.rf>v#v41avoB</val_frame.rf>
 <children>
 <LM id="t-ln94205-94-p23s3a2">
@@ -21684,12 +21648,6 @@ EmpVerb?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>opět lze diskutovat,
-zda se jedná o vztah
-diskurzní nebo jen 
-mezi NP
-
-konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-94-p23s5w1</LM>
@@ -23241,7 +23199,6 @@ konektor rhem například</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<discourse_comment>wrongTR, tohle je TIME</discourse_comment>
 </LM>
 <LM id="t-ln94205-94-p24s5w11">
 <a>
@@ -23954,7 +23911,6 @@ konektor rhem například</comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>komplikováno vztahem otázky a odpovědi</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94205-94-p27s2w26</LM>

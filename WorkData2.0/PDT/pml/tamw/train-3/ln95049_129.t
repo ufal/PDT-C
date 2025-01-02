@@ -3013,7 +3013,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95049-129-p4s3w4">
 <a>
@@ -3112,7 +3111,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<discourse_comment>secondary následující</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -3788,7 +3786,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>14</deepord>
-<discourse_comment>one_arg (odkazuje do jineho textu)</discourse_comment>
 </LM>
 <LM id="t-ln95049-129-p5s1w21">
 <a>
@@ -4539,7 +4536,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>vztah NP a VP</discourse_comment>
 </LM>
 <LM id="t-ln95049-129-p5s3w5">
 <a>
@@ -4864,7 +4860,6 @@
 <discourse_type>confr</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Contrast</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED conj->confr; RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-129-p5s3w20</LM>
@@ -5353,7 +5348,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>secondary Jiným důležitým poznatkem je...</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95049-129-p6s1w3">
@@ -5959,7 +5953,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95049-129-p6s2w16">

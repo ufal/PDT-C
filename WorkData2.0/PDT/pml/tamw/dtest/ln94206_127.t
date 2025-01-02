@@ -1424,7 +1424,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41qztA</val_frame.rf>
 <children>
 <LM id="t-ln94206-127-p3s2w21">
@@ -1839,7 +1838,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-127-p3s3Aw21</LM>
@@ -3106,7 +3104,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->:</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94206-127-p3s5w7</LM>

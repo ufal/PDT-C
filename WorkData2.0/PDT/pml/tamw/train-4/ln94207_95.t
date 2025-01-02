@@ -44,9 +44,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR?
-tohle je přece autor článku,
-ne jeho nadpis</discourse_comment>
 <children>
 <LM id="t-ln94207-95-p1s1w1">
 <a>
@@ -2232,8 +2229,6 @@ ne jeho nadpis</discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>17</deepord>
-<discourse_comment>wrongTR,
-celé by to mělo viset na ale </discourse_comment>
 <children>
 <LM id="t-ln94207-95-p3s2w13">
 <a>
@@ -2907,7 +2902,6 @@ celé by to mělo viset na ale </discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary druhá</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -4581,7 +4575,6 @@ celé by to mělo viset na ale </discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>secondary to je důvod</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94207-95-p4s5w2">
@@ -8157,8 +8150,6 @@ celé by to mělo viset na ale </discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>4</deepord>
-<discourse_comment>wrong TR, smisena apozice
-</discourse_comment>
 <children>
 <LM id="t-ln94207-95-p6s5w2">
 <a>
@@ -9801,9 +9792,6 @@ celé by to mělo viset na ale </discourse_comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>CONFR, ale syntakticky
-úplně jiné, proto raději
-anotováno OPP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94207-95-p7s4w1</LM>
@@ -10213,7 +10201,6 @@ anotováno OPP</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-95-p7s5w12">
 <a>

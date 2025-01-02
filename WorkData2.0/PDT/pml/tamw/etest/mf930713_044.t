@@ -1567,7 +1567,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p4s1w6">
 <a>
@@ -6592,7 +6591,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p8s1w15">
 <a>
@@ -11765,7 +11763,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p12s1w5">
 <a>
@@ -14786,7 +14783,6 @@
 </quot>
 <is_dsp_root>1</is_dsp_root>
 <deepord>8</deepord>
-<discourse_comment>wrong_TR</discourse_comment>
 <children>
 <LM id="t-mf930713-044-p17s4w2">
 <a>
@@ -22380,7 +22376,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE tím že->jenom tím že</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf930713-044-p23s3w34</LM>
@@ -26464,7 +26459,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p28s1a6">
 <nodetype>qcomplex</nodetype>
@@ -34767,7 +34761,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-044-p36s1w4">
 <a>
@@ -37146,7 +37139,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>9</deepord>
-<discourse_comment>wrong_TR</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf930713-044-p39s4a3">

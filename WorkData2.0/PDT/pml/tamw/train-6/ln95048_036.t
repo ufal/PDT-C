@@ -1339,7 +1339,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41gaaB</val_frame.rf>
 <children>
 <LM id="t-ln95048-036-p2s5w1">
@@ -6444,7 +6443,6 @@
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
 <deepord>9</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95048-036-p5s5a0">
 <nodetype>complex</nodetype>
@@ -7900,7 +7898,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-ln95048-036-p5s9w5</target_node.rf>

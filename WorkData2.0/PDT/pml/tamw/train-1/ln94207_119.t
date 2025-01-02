@@ -1197,8 +1197,6 @@
 <t_lemma>tak</t_lemma>
 <functor>CM</functor>
 <deepord>19</deepord>
-<discourse_comment>wrongTR  -ma byt MANN
-a u "a" CONJ</discourse_comment>
 </LM>
 <LM id="t-ln94207-119-p2s3w22">
 <a>

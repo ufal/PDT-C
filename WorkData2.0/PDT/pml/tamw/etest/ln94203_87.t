@@ -60,7 +60,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>článek bez nadpisu</discourse_comment>
 <val_frame.rf>v#v41oxyC</val_frame.rf>
 <children>
 <LM id="t-ln94203-87-p1s1w2">

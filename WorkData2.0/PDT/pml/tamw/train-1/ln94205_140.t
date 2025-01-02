@@ -574,8 +574,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>špatná segmentace?
-wrongTR?</discourse_comment>
 </LM>
 <LM id="t-ln94205-140-p2s4w5">
 <a>

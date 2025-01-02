@@ -28,7 +28,6 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>text bez nadpisu</discourse_comment>
 <children>
 <LM id="t-cmpr9415-011-p1s1w1">
 <a>

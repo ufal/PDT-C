@@ -3647,8 +3647,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>silná pragmatická
-složka významu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-049-p8s4w1</LM>

@@ -5601,11 +5601,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR?
-měl by sem
-být nakopírován
-i RHEM ne, aby
-to dávalo smysl</discourse_comment>
 <val_frame.rf>v#v41aobA</val_frame.rf>
 <children>
 <LM id="t-ln94205-139-p10s4a1">

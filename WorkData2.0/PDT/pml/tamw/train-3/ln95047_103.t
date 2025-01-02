@@ -1044,7 +1044,6 @@
 <tfa>f</tfa>
 <deepord>7</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln95047-103-p3s1w13">
 <a>

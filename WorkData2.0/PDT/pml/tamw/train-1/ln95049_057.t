@@ -2212,10 +2212,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR, 
-špatný tvar
-t-lemmatu,
-má být Krolop</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln95049-057-p3s4a1</target_node.rf>

@@ -643,8 +643,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC, 
-spíš MANN</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94208-134-p2s1Bw17</target_node.rf>

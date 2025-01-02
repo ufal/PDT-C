@@ -1934,8 +1934,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>wrongTR? proc tento podstrom nevisi na "a_to"
-a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <val_frame.rf>v#v41mexA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p3s1w1">
@@ -5046,7 +5044,6 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>wrongTR? proc ma tento podstrom is_parenthesis=1?</discourse_comment>
 <val_frame.rf>v#v41cobA</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w24">
@@ -5606,7 +5603,6 @@ a nerozviji "nakoupit" i doplnene "nakoupit"?</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41wzD</val_frame.rf>
 <children>
 <LM id="t-ln95045-005-p5s3w48">

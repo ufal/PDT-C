@@ -5034,8 +5034,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>konektor rhem ne
-</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-068-p8s1w18</LM>
@@ -8493,7 +8491,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem taky</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-068-p12s2w1</LM>

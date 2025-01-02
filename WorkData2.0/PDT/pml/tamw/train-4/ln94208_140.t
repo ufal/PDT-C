@@ -98,12 +98,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrong TR,
-k podnadpisu je omylem
-přilepena první věta
-samostatného textu
-"Před námi bude zajímavý
-rok."</discourse_comment>
 <children>
 <LM id="t-ln94208-140-p2s1w4">
 <a>
@@ -2250,7 +2244,6 @@ rok."</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>23</deepord>
-<discourse_comment>spíš CM než TWHEN</discourse_comment>
 </LM>
 <LM id="t-ln94208-140-p2s7a4">
 <a>
@@ -3338,7 +3331,6 @@ rok."</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>konektor rhem Neg, jenom</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-140-p3s3a0</LM>
@@ -6991,7 +6983,6 @@ rok."</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RETARGETED; konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-140-p4s10w3</LM>

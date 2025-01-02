@@ -2832,8 +2832,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>spíš anafora než 
-diskurzní konektor</discourse_comment>
 </LM>
 <LM id="t-ln94202-101-p4s1w2">
 <a>
@@ -4504,10 +4502,6 @@ diskurzní konektor</discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>APPS</functor>
 <deepord>9</deepord>
-<discourse_comment>wrongTR
-ve druhé části apozice
-je obsah mluvení uvedeného
-v první části</discourse_comment>
 <children>
 <LM id="t-ln94202-101-p4s4w9">
 <a>
@@ -5106,8 +5100,6 @@ v první části</discourse_comment>
 <target_range>2</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>široké vyplývání,
-zde snad nejblíže EQUIV</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-101-p4s6w4</LM>
@@ -5621,7 +5613,6 @@ zde snad nejblíže EQUIV</comment>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-101-p4s9w3</LM>
@@ -6503,8 +6494,6 @@ zde snad nejblíže EQUIV</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>paragraph
-3-19</discourse_comment>
 </LM>
 <LM id="t-ln94202-101-p5s1w3">
 <a>

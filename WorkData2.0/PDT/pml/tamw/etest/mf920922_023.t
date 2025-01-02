@@ -25,8 +25,6 @@
 <functor>CONJ</functor>
 <deepord>7</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR?,
-špatná segmentace</discourse_comment>
 <children>
 <LM id="t-mf920922-023-p1s1w5">
 <a>
@@ -19309,7 +19307,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-mf920922-023-p4s24w1">
@@ -19733,7 +19730,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920922-023-p4s26w2">
 <a>

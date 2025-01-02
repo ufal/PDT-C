@@ -3305,7 +3305,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41fqiA</val_frame.rf>
 <children>
 <LM id="t-mf930713-145-p2s11w8">

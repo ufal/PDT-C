@@ -2136,7 +2136,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-105-p4s3w12</LM>
@@ -3502,13 +3501,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>poměrně implicitní vztah,
-vyrozumívá se, že policie
-nezasáhla, nebyl tedy ohrožen  
-majetek ani život a chování
-lze proto vnímat
-jen jako přestupek proti
-návštěvnímu řádu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-105-p4s6w6</LM>
@@ -5691,7 +5683,6 @@ návštěvnímu řádu</comment>
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem dokonce</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94209-105-p5s6w4</LM>

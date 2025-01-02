@@ -2710,9 +2710,6 @@
 <target_range>1</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>konektor může mít 
-i větší rozsah,
-nejasný paragraph</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s8w4</LM>
@@ -3278,7 +3275,6 @@ nejasný paragraph</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-116-p4s10w1</LM>

@@ -2866,8 +2866,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>další možnost: 
-wrong TR  -tohle je přívlastková VV</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-6-p4s4w19</LM>

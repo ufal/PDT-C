@@ -4586,7 +4586,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>příklad důvodu (implicitního)</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln95047-087-p5s2w12</LM>
@@ -6026,7 +6025,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln95047-087-p5s4a1">

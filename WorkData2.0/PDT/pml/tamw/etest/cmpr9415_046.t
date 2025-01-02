@@ -5410,7 +5410,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <children>
 <LM id="t-cmpr9415-046-p13s1w2">
 <a>
@@ -10312,7 +10311,6 @@
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED conj->spec</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-046-p20s3w21</LM>

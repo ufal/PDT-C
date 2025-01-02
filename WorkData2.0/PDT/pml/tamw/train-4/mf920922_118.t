@@ -120,8 +120,6 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR?
-dvakrát stejný nadpis</discourse_comment>
 <children>
 <LM id="t-mf920922-118-p3s1w2">
 <a>
@@ -711,8 +709,6 @@ dvakrát stejný nadpis</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>OPP je silnější
-než CONC</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920922-118-p4s4w2</LM>

@@ -3240,8 +3240,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>součást konektoru 
-pokud  -pak, ne PREC</discourse_comment>
 </LM>
 <LM id="t-mf920922-046-p2s10w7">
 <a>

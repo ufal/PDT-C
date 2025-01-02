@@ -1127,8 +1127,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>obsah toho naopak
-je v 7</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-125-p2s4w14</LM>

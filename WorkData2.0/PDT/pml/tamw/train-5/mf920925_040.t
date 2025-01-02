@@ -917,8 +917,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>17</deepord>
-<discourse_comment>parcelace  -ptali jsme 
-se: na co</discourse_comment>
 <val_frame.rf>v#v41garB</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p3s1w4">
@@ -2264,10 +2262,6 @@ se: na co</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR? nema se to anotovat jako elipsa? 
-(nema byt dokopirovano "jít"?)
-pak bych anotovala corr mezi "nejde tedy o
-rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</discourse_comment>
 <val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p4s4w2">
@@ -4056,12 +4050,6 @@ rozkol" a "o vyrovnání se s volebními výsledky" s doplněným "jít")</disco
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR? nema se to anotovat jako elipsa? 
-(nema byt dokopirovano "být", "výsledek"?)
-pak bych anotovala corr mezi "nemohou být
-výsledkem nějakých osobních přání" a
-"demokratických tajných voleb na našich
-konferencích" s doplněným "být", "výsledek")</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p6s3w7">
@@ -7654,7 +7642,6 @@ konferencích" s doplněným "být", "výsledek")</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<discourse_comment>wrongTR? neni spatne funktor?</discourse_comment>
 <val_frame.rf>v#v41iecA</val_frame.rf>
 <children>
 <LM id="t-mf920925-040-p9s1w11">
@@ -8711,10 +8698,6 @@ konferencích" s doplněným "být", "výsledek")</discourse_comment>
 <is_parenthesis>1</is_parenthesis>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<discourse_comment>tento PREC neni pripojen k zadne sipce  -zda se 
-mi to jako vztah NP (návrat k autentickým hodnotám 
-konzervatismu) + věta (a v tom je blízko
-klasickým liberálům)</discourse_comment>
 </LM>
 <LM id="t-mf920925-040-p10s3a0">
 <nodetype>complex</nodetype>
@@ -13663,10 +13646,6 @@ klasickým liberálům)</discourse_comment>
 </LM>
 </quot>
 <deepord>9</deepord>
-<discourse_comment>wrongTR? nema se to anotovat jako elipsa? 
-(nema byt dokopirovano "jít"?)
-pak bych anotovala corr mezi "nejde vůbec o nějaký posun ke středu či doleva" a
-"o postup vpřed" s doplněným "jít")</discourse_comment>
 <children>
 <LM id="t-mf920925-040-p14s5w5">
 <a>

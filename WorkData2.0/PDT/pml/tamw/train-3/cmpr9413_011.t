@@ -2827,8 +2827,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>přechod ke grad 
-"gradující reason"</discourse_comment>
 <children>
 <LM id="t-cmpr9413-011-p8s2a1">
 <nodetype>complex</nodetype>
@@ -5537,7 +5535,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-cmpr9413-011-p15s2a1</target_node.rf>
@@ -6202,7 +6199,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem také</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-011-p15s5w3</LM>
@@ -6503,7 +6499,6 @@
 <functor>MOD</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR? spatny funktor?</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-011-p16s1w4">
 <a>
@@ -7080,7 +7075,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-011-p16s3w1</LM>
@@ -8623,7 +8617,6 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR  -nema byt funktor CNCS?</discourse_comment>
 <val_frame.rf>v#v41aisA</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-011-p20s4a2">
@@ -11448,7 +11441,6 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR  -nema byt funktor CNCS?</discourse_comment>
 <val_frame.rf>v#v41gsyB</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-011-p24s3a0">

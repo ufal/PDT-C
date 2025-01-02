@@ -2985,7 +2985,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>není PREC</discourse_comment>
 </LM>
 <LM id="t-ln94202-59-p4s2w3">
 <a>
@@ -6217,9 +6216,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>nejistota v interpretaci,
-v tom "tak" je zároveň
-MEANS i něco z důsledku</discourse_comment>
 <val_frame.rf>v#v41hbiA</val_frame.rf>
 <children>
 <LM id="t-ln94202-59-p6s6w4">
@@ -6729,8 +6725,6 @@ MEANS i něco z důsledku</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>koreferenční interpretace
-se mi zde zdá nejpřesnější</discourse_comment>
 </LM>
 <LM id="t-ln94202-59-p6s7w2">
 <a>
@@ -6883,9 +6877,6 @@ se mi zde zdá nejpřesnější</discourse_comment>
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
 <deepord>15</deepord>
-<discourse_comment>wrongTR?
-věta je tu 2x,
-může se jednat o titulek</discourse_comment>
 <children>
 <LM id="t-ln94202-59-p7s1w4">
 <a>
@@ -7243,10 +7234,6 @@ může se jednat o titulek</discourse_comment>
 <t_lemma>#Dash</t_lemma>
 <functor>CONJ</functor>
 <deepord>15</deepord>
-<discourse_comment>wrongTR?
-věta je tu 2x,
-může se jednat
-o titulek</discourse_comment>
 <children>
 <LM id="t-ln94202-59-p7s2w4">
 <a>
@@ -8602,7 +8589,6 @@ o titulek</discourse_comment>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-59-p7s6w13</LM>

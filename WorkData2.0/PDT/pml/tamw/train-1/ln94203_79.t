@@ -825,10 +825,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Precedence</sense_PDTB3>
-<comment>semantika PRECED 
-je dána lexikálně,
-konektorem jen
-částečně</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-79-p2s4w1</LM>
@@ -4954,7 +4950,6 @@ konektorem jen
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>divné užití konektoru</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94203-79-p4s6w1</LM>
@@ -7350,10 +7345,6 @@ konektorem jen
 <functor>ADVS</functor>
 <is_member>1</is_member>
 <deepord>15</deepord>
-<discourse_comment>podle smyslu
-by celý strom měl
-viset na tomhle
-jenže, wrongTR</discourse_comment>
 <children>
 <LM id="t-ln94203-79-p7s6w7">
 <a>
@@ -8588,7 +8579,6 @@ jenže, wrongTR</discourse_comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>implicitní  -to je pochopitelné</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94203-79-p8s4w10</LM>

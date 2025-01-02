@@ -93,7 +93,6 @@
 <sentmod>enunc</sentmod>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR chybna segmentace</discourse_comment>
 <children>
 <LM id="t-ln94203-57-p2s1w1">
 <a>
@@ -6013,8 +6012,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>7</deepord>
-<discourse_comment>neznacim, dle meho 
-nazoru to tu znamena "timto zpusobem"</discourse_comment>
 </LM>
 <LM id="t-ln94203-57-p3s5w11">
 <a>

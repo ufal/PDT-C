@@ -4044,8 +4044,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>Neznacim, "tim" zde znamena 
-"timto zpusobem", tj. tou likvidaci</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-84-p4s2w2</target_node.rf>
@@ -4516,8 +4514,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>lze vnímat i jako
-specifikaci NP "to"</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94203-84-p4s4w8</LM>
@@ -5256,8 +5252,6 @@ specifikaci NP "to"</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>neznacim, nezaklada vyznamovy 
-diskurzni vztah ("timto zpusobem")</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-ln94203-84-p5s2w12</target_node.rf>

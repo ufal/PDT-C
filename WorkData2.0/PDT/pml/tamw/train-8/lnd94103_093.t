@@ -3216,10 +3216,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>13</deepord>
-<discourse_comment>wrongTR,
-H je tu určitě
-zkratka za Harmonie,
-ne hodina</discourse_comment>
 <children>
 <LM id="t-lnd94103-093-p1s11w15">
 <a>
@@ -4973,9 +4969,6 @@ ne hodina</discourse_comment>
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR  -má viset 
-na dokopírovaném
-vyloučit</discourse_comment>
 <val_frame.rf>v#v41cqeC</val_frame.rf>
 <children>
 <LM id="t-lnd94103-093-p1s15a7">
@@ -5322,10 +5315,6 @@ vyloučit</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>8</deepord>
-<discourse_comment>one_arg,
-wrongTR,
-není TWHEN, 
-ale ATT</discourse_comment>
 </LM>
 <LM id="t-lnd94103-093-p1s16w3">
 <a>

@@ -1174,7 +1174,6 @@
 <functor>MOD</functor>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-lnd94103-102-p1s4w13">
 <a>
@@ -2902,8 +2901,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR? nema se po kliknuti na tento uzel v textu
-zvyraznit slovo, ze ktereho je zkopirovany?</discourse_comment>
 <val_frame.rf>v#v41kwuA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-102-p1s10a1">
@@ -3046,8 +3043,6 @@ zvyraznit slovo, ze ktereho je zkopirovany?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrongTR? nema se po kliknuti na tento uzel v textu
-zvyraznit slovo, ze ktereho je zkopirovany?</discourse_comment>
 <val_frame.rf>v#v41kwuA</val_frame.rf>
 <children>
 <LM id="t-lnd94103-102-p1s11a2">
@@ -3555,10 +3550,6 @@ zvyraznit slovo, ze ktereho je zkopirovany?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>wrongTR? nemelo by byt dokopirovano jeste jedno
-patro? a nemel by se po kliknuti na tento uzel
-v textu zvyraznit vyraz, ze ktereho je uzel
-zkopirovany?</discourse_comment>
 <val_frame.rf>v#v41reG</val_frame.rf>
 <children>
 <LM id="t-lnd94103-102-p1s13a2">
@@ -6921,8 +6912,6 @@ zkopirovany?</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR? nema se v textu po kliknuti na tento uzel
-zvyraznit slovo, ze ktereho je to zkopirovane?</discourse_comment>
 <val_frame.rf>v#v41duzB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-102-p1s24w1">
@@ -6987,8 +6976,6 @@ zvyraznit slovo, ze ktereho je to zkopirovane?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>8</deepord>
-<discourse_comment>wrongTR? nema se v textu po kliknuti na tento uzel
-zvyraznit slovo, ze ktereho je to zkopirovane?</discourse_comment>
 <val_frame.rf>v#v41duzB</val_frame.rf>
 <children>
 <LM id="t-lnd94103-102-p1s24w5">

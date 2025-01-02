@@ -4195,10 +4195,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>neexplicitní,
-zda jmenované
-firmy jsou 
-v likvidaci</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94205-8-p6s3w13</LM>

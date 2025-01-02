@@ -1806,7 +1806,6 @@
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>wrongTR</discourse_comment>
 <val_frame.rf>v#v41nihC</val_frame.rf>
 <children>
 <LM id="t-ln94206-133-p5s1a0">

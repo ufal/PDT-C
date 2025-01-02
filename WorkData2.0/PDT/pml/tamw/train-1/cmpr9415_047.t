@@ -4210,8 +4210,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>silná pragmatická 
-složka významu</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-047-p13s4Aw2</LM>
@@ -7891,9 +7889,6 @@ složka významu</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>adept na seznam, 
-35 hypertéma,
-36-38 polozky</discourse_comment>
 <children>
 <LM id="t-cmpr9415-047-p19s1w5">
 <a>

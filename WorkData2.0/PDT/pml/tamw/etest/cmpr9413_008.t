@@ -876,7 +876,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>2</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <coref_special>segm</coref_special>
 <children>
 <LM id="t-cmpr9413-008-p4s4w3">
@@ -1697,7 +1696,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9413-008-p5s2w8</LM>
@@ -3685,9 +3683,6 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR? visi tato klauze na spravnem ridicim 
-uzlu a ma spravny funktor? Nebylo by na miste
-doplnit EmpVerb.COMPL a povesit ji na nej?</discourse_comment>
 <val_frame.rf>v#v41mjmA</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-008-p5s10w17">
@@ -5376,9 +5371,6 @@ doplnit EmpVerb.COMPL a povesit ji na nej?</discourse_comment>
 <t_lemma>ale</t_lemma>
 <functor>GRAD</functor>
 <deepord>12</deepord>
-<discourse_comment>wrongTR? nebylo by lepsi doplnit sloveso (byt
-ochotny) a anotovat tohle jako vztah mezi klauzemi?
-pak bych anotovala diskurzni vztah corr.</discourse_comment>
 <children>
 <LM id="t-cmpr9413-008-p9s1a0">
 <nodetype>atom</nodetype>
@@ -6471,7 +6463,6 @@ pak bych anotovala diskurzni vztah corr.</discourse_comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR? nema tento uzel odkazovat na "je"?</discourse_comment>
 <val_frame.rf>v#v41rcnA</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-008-p12s1w17">

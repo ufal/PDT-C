@@ -2093,7 +2093,6 @@
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE a->a tak; RETYPED conj->reason</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-026-p3s5w14</LM>
@@ -3676,7 +3675,6 @@
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Result</sense_PDTB3_manual>
-<comment>PHASE:2 CONN_CHANGE a->a tak; RETYPED conj->reason</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-026-p4s6w5</LM>
@@ -6116,8 +6114,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>17</deepord>
-<discourse_comment>patří ke konektoru
-v této větě</discourse_comment>
 </LM>
 <LM id="t-ln95049-026-p5s3w22">
 <a>

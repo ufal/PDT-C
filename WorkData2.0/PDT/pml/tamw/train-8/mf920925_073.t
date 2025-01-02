@@ -51,11 +51,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR,
-špatná segmentace,
-jsou to dvě 
-samostatné
-struktury</discourse_comment>
 <children>
 <LM id="t-mf920925-073-p1s1w4">
 <a>

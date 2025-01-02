@@ -3445,8 +3445,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>tento PREC neni pripojen k zadne sipce  -podle me
-to neni diskurzni konektor</discourse_comment>
 </LM>
 <LM id="t-ln94211-22-p4s5w1">
 <a>

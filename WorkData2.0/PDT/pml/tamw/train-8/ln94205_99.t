@@ -3695,7 +3695,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94205-99-p5s1w2">
 <a>
@@ -5658,7 +5657,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln94205-99-p6s7w3">
 <a>
@@ -5716,8 +5714,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>neznacim, prec nezaklada 
-vyznamovy diskurzni vztah</discourse_comment>
 </LM>
 <LM id="t-ln94205-99-p6s7w4">
 <a>

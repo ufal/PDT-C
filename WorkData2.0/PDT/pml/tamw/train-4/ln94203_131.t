@@ -38,7 +38,6 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>hraničí s kolekcí</discourse_comment>
 <val_frame.rf>v#v41dngA</val_frame.rf>
 <children>
 <LM id="t-ln94203-131-p1s1w1">

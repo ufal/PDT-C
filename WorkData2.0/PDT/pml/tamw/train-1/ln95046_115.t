@@ -994,9 +994,6 @@
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>veta 6 by se mohla pripojit i k vete 3, vete 4
-nebo ke skupine 3-5
-uvazovala jsem take o conj</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95046-115-p3s3w3</LM>

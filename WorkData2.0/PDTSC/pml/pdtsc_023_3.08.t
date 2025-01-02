@@ -205,7 +205,6 @@
          <discourse_type>f_opp</discourse_type>
          <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
          <sense_PDTB3_manual>Comparison.Concession.Arg2-as-denier</sense_PDTB3_manual>
-         <comment>PHASE:3 RETYPED conc->f_opp; RETYPED opp->conc; CONN_CHANGE ale->ale přesto</comment>
          <src>A_H_A</src>
          <t-connectors.rf>
           <LM>hs_002.08-SCzechT-m-d1t2351-9</LM>

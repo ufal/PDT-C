@@ -4912,11 +4912,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>adept na seznam,
-hypertéma zde,
-2 položky v 
-následujícím 
-stromě</discourse_comment>
 <val_frame.rf>v#v41dsuA</val_frame.rf>
 <children>
 <LM id="t-ln95047-042-p5s1w4">
@@ -6346,8 +6341,6 @@ stromě</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>wrongTR?, proč
-to není COND?</discourse_comment>
 <children>
 <LM id="t-ln95047-042-p5s6w12">
 <a>
@@ -8065,7 +8058,6 @@ to není COND?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln95047-042-p6s1w1</LM>
@@ -8081,9 +8073,6 @@ to není COND?</discourse_comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>wrongTR?, přesnější
-je to vnímat jako
-CAUS, podle mého</discourse_comment>
 <val_frame.rf>v#v41lilM</val_frame.rf>
 <children>
 <LM id="t-ln95047-042-p6s1w8">

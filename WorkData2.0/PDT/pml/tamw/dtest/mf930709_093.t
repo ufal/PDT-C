@@ -2034,7 +2034,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>APPS</functor>
 <deepord>4</deepord>
-<discourse_comment>vztah NP a EmpVerb</discourse_comment>
 <children>
 <LM id="t-mf930709-093-p2s9a3">
 <nodetype>qcomplex</nodetype>

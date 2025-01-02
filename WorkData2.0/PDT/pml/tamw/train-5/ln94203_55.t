@@ -281,7 +281,6 @@
 <tfa>c</tfa>
 <deepord>2</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94203-55-p2s2w2">
 <a>

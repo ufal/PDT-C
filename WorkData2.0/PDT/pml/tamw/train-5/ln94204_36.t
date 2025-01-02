@@ -5009,9 +5009,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>mezera (např.): bylo to
-rozhodnutí, které
-zachránilo Evropu </comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-36-p4s7w5</LM>

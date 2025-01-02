@@ -3860,7 +3860,6 @@
 </quot>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf930713-006-p2s11w6">
 <a>
@@ -10080,7 +10079,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause+SpeechAct.Result+SpeechAct</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause+SpeechAct.Result+SpeechAct</sense_PDTB3_manual>
-<comment>speech act</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-006-p2s34w5</LM>

@@ -72,8 +72,6 @@
 <tfa>f</tfa>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR spatna segmentace 
-textu</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94207-83-p2s1Aw2">
@@ -1494,7 +1492,6 @@ textu</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94207-83-p3s1w4">
 <a>
@@ -2237,7 +2234,6 @@ textu</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->protože</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-83-p3s4w1</LM>
@@ -4372,8 +4368,6 @@ textu</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-<comment>kombinováno s cond, ale
-čas silnější</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-83-p5s2w13</LM>
@@ -5384,7 +5378,6 @@ textu</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Regard</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94207-83-p6s4w5</LM>
@@ -7687,7 +7680,6 @@ textu</discourse_comment>
 <functor>RHEM</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>konektor rhem teprve</discourse_comment>
 </LM>
 <LM id="t-ln94207-83-p7s5w2">
 <a>

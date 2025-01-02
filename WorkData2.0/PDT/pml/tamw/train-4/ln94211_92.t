@@ -9126,7 +9126,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>důvod</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln94211-92-p7s2w1</LM>
@@ -13056,7 +13055,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Entailment</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-ln94211-92-p9s1w3</LM>
@@ -13296,7 +13294,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>secondary  -vyplyvani</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94211-92-p9s1w3">
@@ -15136,12 +15133,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>wrongTR?, čárka
-naznačuje, že je
-tam elipsa:
-může unikat,
-může unikat 
-třeba tak...</discourse_comment>
 <val_frame.rf>v#v41mqiC</val_frame.rf>
 <children>
 <LM id="t-ln94211-92-p10s5w1">
@@ -16034,7 +16025,6 @@ třeba tak...</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-92-p11s1w14">
 <a>
@@ -16045,7 +16035,6 @@ třeba tak...</discourse_comment>
 <functor>INTF</functor>
 <tfa>t</tfa>
 <deepord>12</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94211-92-p11s1a2">
 <nodetype>complex</nodetype>
@@ -18933,11 +18922,6 @@ třeba tak...</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>adept na seznam,
-hypertema zde,
-5 polozek v druhé
-větvi
-</discourse_comment>
 <val_frame.rf>v#v41bjqA</val_frame.rf>
 <children>
 <LM id="t-ln94211-92-p12s1Bw3">
@@ -30401,7 +30385,6 @@ větvi
 </gram>
 <tfa>t</tfa>
 <deepord>13</deepord>
-<discourse_comment>wrongTR? Nemá být u slovesa?</discourse_comment>
 </LM>
 <LM id="t-ln94211-92-p16s3a4">
 <nodetype>complex</nodetype>

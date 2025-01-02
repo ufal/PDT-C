@@ -2365,12 +2365,6 @@
 <id>1</id>
 </LM>
 </discourse_groups>
-<discourse_comment>wrongTR,
-dvě souřadné 
-vedlejší objektové klauze
-z uzlu na této úrovni, ne
-níž
-</discourse_comment>
 <val_frame.rf>v#v41msnA</val_frame.rf>
 <children>
 <LM id="t-mf920922-097-p2s6Bw6">
@@ -3237,8 +3231,6 @@ níž
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>je mozne to chapat 
-i jako RESTR</discourse_comment>
 <val_frame.rf>v#v41navA</val_frame.rf>
 <children>
 <LM id="t-mf920922-097-p2s8w15">

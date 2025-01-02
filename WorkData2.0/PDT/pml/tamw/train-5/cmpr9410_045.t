@@ -1704,7 +1704,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-045-p5s2w3">
@@ -4848,7 +4847,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary jde o</discourse_comment>
 <val_frame.rf>v#v41bikAV</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-045-p11s2w6">

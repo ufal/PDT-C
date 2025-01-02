@@ -1263,7 +1263,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>5</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <children>
 <LM id="t-ln94211-17-p4s1w2">
 <a>

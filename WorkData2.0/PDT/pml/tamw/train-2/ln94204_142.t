@@ -2689,8 +2689,6 @@
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>nadbytečný konektor,
-divné užití</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-142-p2s8w2</LM>
@@ -2927,10 +2925,6 @@ divné užití</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>12</deepord>
-<discourse_comment>zde to není následnost po ději
-první části struktury,
-ale "po uplynutí 48 hodin," proto
-neanotováno</discourse_comment>
 </LM>
 <LM id="t-ln94204-142-p2s8w17">
 <a>

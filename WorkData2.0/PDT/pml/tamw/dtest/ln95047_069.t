@@ -1161,10 +1161,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR?,
-nechybí tu
-dokopírovaná
-řídící klauze?</discourse_comment>
 <children>
 <LM id="t-ln95047-069-p2s3w1">
 <a>
@@ -4079,8 +4075,6 @@ dokopírovaná
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR?,
-proč je to PAR?</discourse_comment>
 <val_frame.rf>v#v41kgjA</val_frame.rf>
 <children>
 <LM id="t-ln95047-069-p4s2w22">
@@ -5326,7 +5320,6 @@ proč je to PAR?</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary? nikdo  -jediný</discourse_comment>
 </LM>
 <LM id="t-ln95047-069-p4s6w6">
 <a>
@@ -6722,10 +6715,6 @@ proč je to PAR?</discourse_comment>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>20</deepord>
-<discourse_comment>wrongTR?,
-proč tohle
-není anotováno
-jako APPS?</discourse_comment>
 <children>
 <LM id="t-ln95047-069-p5s1w13">
 <a>
@@ -7718,7 +7707,6 @@ jako APPS?</discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>17</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95047-069-p6s1w9">
 <a>
@@ -10363,8 +10351,6 @@ jako APPS?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>wrongTR?, nemá
-být APPS?</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln95047-069-p6s6w9">

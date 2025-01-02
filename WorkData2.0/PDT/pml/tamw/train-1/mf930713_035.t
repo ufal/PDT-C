@@ -27,7 +27,6 @@
 <functor>CONJ</functor>
 <deepord>2</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>adept na seznam?</discourse_comment>
 <children>
 <LM id="t-mf930713-035-p1s1w1">
 <a>

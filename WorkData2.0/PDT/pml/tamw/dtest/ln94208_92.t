@@ -1334,8 +1334,6 @@
 <t_lemma>#Amp</t_lemma>
 <functor>CONJ</functor>
 <deepord>25</deepord>
-<discourse_comment>tento znak neni v textu zleva oddelen mezerou 
-(na m-rovine mezera je)</discourse_comment>
 <children>
 <LM id="t-ln94208-92-p3s1w25">
 <a>
@@ -1538,7 +1536,6 @@
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41prbC</val_frame.rf>
 <children>
 <LM id="t-ln94208-92-p3s2w3">
@@ -1795,8 +1792,6 @@
 <t_lemma>#Amp</t_lemma>
 <functor>CONJ</functor>
 <deepord>19</deepord>
-<discourse_comment>tento znak neni v textu zleva oddelen mezerou
-(na m-rovine mezera je)</discourse_comment>
 <children>
 <LM id="t-ln94208-92-p3s2w24">
 <a>

@@ -17118,10 +17118,6 @@
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>12</deepord>
-<discourse_comment>wrongTR?
-celé by podle
-smyslu mělo viset
-na ale</discourse_comment>
 <children>
 <LM id="t-ln95048-051-p7s1w8">
 <a>
@@ -18612,7 +18608,6 @@ na ale</discourse_comment>
 <tfa>c</tfa>
 <deepord>1</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-ln95048-051-p7s6w11">
 <a>
@@ -18811,7 +18806,6 @@ na ale</discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>7</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95048-051-p8s1w2">
 <a>
@@ -23102,7 +23096,6 @@ na ale</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>14</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-051-p8s23w14">
 <a>
@@ -23113,7 +23106,6 @@ na ale</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-051-p8s23w16">
 <a>
@@ -26504,7 +26496,6 @@ na ale</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-051-p8s32w2">
 <a>
@@ -26515,7 +26506,6 @@ na ale</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95048-051-p8s32w5">
 <a>
@@ -28832,7 +28822,6 @@ na ale</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>PHASE:2 RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-051-p8s38w9</LM>
@@ -32720,7 +32709,6 @@ na ale</discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>8</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95048-051-p10s7w1">
 <a>
@@ -34552,7 +34540,6 @@ na ale</discourse_comment>
 <target_range>3</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:2 RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-051-p11s8w1</LM>
@@ -34599,7 +34586,6 @@ na ale</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>synchr</discourse_type>
 <sense_PDTB3>Temporal.Synchronous</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->když</comment>
 <src>PS</src>
 <a-connectors.rf>
 <LM>a#a-ln95048-051-p11s8w2</LM>
@@ -34733,7 +34719,6 @@ na ale</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conjalt</discourse_type>
 <sense_PDTB3>Expansion.Disjunction</sense_PDTB3>
-<comment>PHASE:2 RESTARTED; RETARGETED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-051-p11s9w1</LM>
@@ -34991,7 +34976,6 @@ na ale</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 RETARGETED; RESTARTED</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-051-p11s9w16</LM>

@@ -3583,8 +3583,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
-<discourse_comment>wrongTR? nemá být
-při tom?</discourse_comment>
 </LM>
 <LM id="t-ln94206-34-p4s1w16">
 <a>

@@ -52,9 +52,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>kolekce
-wrongTR  -nema tato veta byt rozdelena do dvou
-stromu?</discourse_comment>
 <children>
 <LM id="t-mf920925-020-p1s1w3">
 <a>
@@ -2273,7 +2270,6 @@ stromu?</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-020-p3s3w2">
 <a>
@@ -2654,10 +2650,6 @@ stromu?</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>tento PREC neni pripojen k zadne sipce  -vztah by
-podle me byl mezi NP ("určeného k omlazení milionáře
-v 21. století", veta 10) a vetou "Při transportu však 
-takzvaný "freejack" uprchne" (podstrom 11)</discourse_comment>
 </LM>
 <LM id="t-mf920925-020-p3s5w2">
 <a>

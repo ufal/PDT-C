@@ -3941,7 +3941,6 @@
 <functor>ATT</functor>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-mf920925-019-p4s7w5">
 <a>
@@ -7005,11 +7004,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>tak zde lze
-nahradit podobně
-nebo zájmenem, 
-nemusí být součástí
-konektoru</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf920925-019-p5s9w1</LM>
@@ -7017,7 +7011,6 @@ konektoru</comment>
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41gbkB</val_frame.rf>
 <children>
 <LM id="t-mf920925-019-p5s9w1">

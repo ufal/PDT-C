@@ -4032,7 +4032,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE sice ~ ale zároveň->sice ~ ale zároveň dodal; RETARGETED; RESTARTED; CONN_CHANGE ale zároveň->sice ~ ale zároveň</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94209-93-p3s6w4</LM>

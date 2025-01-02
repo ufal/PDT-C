@@ -5410,7 +5410,6 @@
 <target_range>0</target_range>
 <discourse_type>grad</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 EXCONN_CHANGE na to , že->nehledě na to že</comment>
 <src>pdit20</src>
 <a-connectors.rf>
 <LM>a#a-lnd94103-039-p1s18w8</LM>
@@ -5813,9 +5812,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>9</deepord>
-<discourse_comment>wrongTR? pri kliknuti mezernikem pro zapamatovani
-se slovo reprezentovane timto uzlem v textu nezbarvi
-cervene</discourse_comment>
 </LM>
 <LM id="t-lnd94103-039-p1s19a1">
 <nodetype>atom</nodetype>
@@ -6293,7 +6289,6 @@ cervene</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>19</deepord>
-<discourse_comment>wrongTR  -spatne t-lemma</discourse_comment>
 </LM>
 </children>
 </LM>

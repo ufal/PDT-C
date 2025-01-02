@@ -1165,7 +1165,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-mf930713-105-p2s5w2</LM>
@@ -4745,8 +4744,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>28</deepord>
-<discourse_comment>patří ke konektoru
-CONJ</discourse_comment>
 </LM>
 <LM id="t-mf930713-105-p2s16w35">
 <a>

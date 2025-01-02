@@ -748,10 +748,6 @@
 <t_lemma>#Comma</t_lemma>
 <functor>APPS</functor>
 <deepord>7</deepord>
-<discourse_comment>wrongTR?,
-tohle je normálně
-anotováno jako CONJ,
-proč tady jinak? </discourse_comment>
 <children>
 <LM id="t-mf930713-033-p2s3w7">
 <a>

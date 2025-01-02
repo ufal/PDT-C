@@ -640,10 +640,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<discourse_comment>Text na TR spatne clenen, 
-napr. seznamova sipka od 4 k 3 
-by mela mit konektor pomlcku z 
-konce vety 3</discourse_comment>
 <val_frame.rf>v#v41hacD</val_frame.rf>
 <children>
 <LM id="t-ln94204-3-p2s2w2">

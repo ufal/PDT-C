@@ -1020,9 +1020,6 @@
 <target_range>0</target_range>
 <discourse_type>corr</discourse_type>
 <sense_PDTB3>Expansion.Substitution.Arg2-as-subst</sense_PDTB3>
-<comment>přítomna i sémantika
-CONFR, kvůli negaci
-anotováno jako CORR</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-16-p3s2w11</LM>
@@ -3554,7 +3551,6 @@ anotováno jako CORR</comment>
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln94202-16-p7s2w18">

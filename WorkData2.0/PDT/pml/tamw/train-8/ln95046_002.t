@@ -2385,11 +2385,6 @@
 <functor>ADDR</functor>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>wrongTR,
-větev patří 
-k předchozímu 
-stromu
-</discourse_comment>
 </LM>
 <LM id="t-ln95046-002-p4s2w8">
 <a>
@@ -4863,11 +4858,6 @@ stromu
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR,
-není anotována
-ACMP závislá klauze
-jako obvykle,
-proč?</discourse_comment>
 <val_frame.rf>v#v41mtC</val_frame.rf>
 <children>
 <LM id="t-ln95046-002-p7s2w9">
@@ -6221,10 +6211,6 @@ proč?</discourse_comment>
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>wrongTR,
-má viset 
-určitě někde
-níž</discourse_comment>
 </LM>
 <LM id="t-ln95046-002-p9s1w8">
 <a>
@@ -7911,7 +7897,6 @@ níž</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41wuE</val_frame.rf>
 <children>
 <LM id="t-ln95046-002-p10s4a1">

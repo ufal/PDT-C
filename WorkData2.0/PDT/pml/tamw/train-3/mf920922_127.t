@@ -2812,8 +2812,6 @@
 <t_lemma>ale</t_lemma>
 <functor>GRAD</functor>
 <deepord>7</deepord>
-<discourse_comment>wrongTR?
-proč tady není EmpVerb?</discourse_comment>
 <children>
 <LM id="t-mf920922-127-p6s1a0">
 <nodetype>atom</nodetype>

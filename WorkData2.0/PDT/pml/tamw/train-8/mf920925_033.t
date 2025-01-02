@@ -44,9 +44,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>wrongTR,
-špatná 
-segmentace</discourse_comment>
 <children>
 <LM id="t-mf920925-033-p1s1w1">
 <a>

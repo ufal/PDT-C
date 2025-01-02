@@ -7542,7 +7542,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->:</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94209-99-p4s8w10</LM>

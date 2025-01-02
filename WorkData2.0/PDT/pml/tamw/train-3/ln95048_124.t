@@ -2141,8 +2141,6 @@
 <discourse_type>f_opp</discourse_type>
 <sense_PDTB3>Comparison.Contrast</sense_PDTB3>
 <sense_PDTB3_manual>Comparison.Contrast</sense_PDTB3_manual>
-<comment>ironie: Baudys je nevojak a
-chce byt ministrem obrany</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-124-p3s8w15</LM>

@@ -4712,8 +4712,6 @@
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>sporné, zda nejde
-jen o vztah NP a VP</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-033-p9s2w5</LM>
@@ -6812,7 +6810,6 @@ jen o vztah NP a VP</comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>15</deepord>
-<discourse_comment>není PREC</discourse_comment>
 </LM>
 </children>
 </LM>
@@ -7463,7 +7460,6 @@ jen o vztah NP a VP</comment>
 <is_secondary>1</is_secondary>
 </LM>
 </discourse>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41gbkD</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-033-p11s2a4">

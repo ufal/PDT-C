@@ -387,8 +387,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>wrongTR? neni to rhem? fungujici jen v ramci 
-vety?</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-021-p4s2a0">
 <nodetype>qcomplex</nodetype>
@@ -417,7 +415,6 @@ vety?</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<discourse_comment>secondary souběžně s tím</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-cmpr9413-021-p4s1w5</target_node.rf>
@@ -845,7 +842,6 @@ vety?</discourse_comment>
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<discourse_comment>neustalený secondary</discourse_comment>
 <bridging>
 <LM>
 <target_node.rf>t-cmpr9413-021-p4s3w4</target_node.rf>
@@ -2446,7 +2442,6 @@ vety?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9413-021-p5s2w13</LM>
@@ -3833,7 +3828,6 @@ vety?</discourse_comment>
 <t_lemma>#Colon</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-cmpr9413-021-p8s4w4">
 <a>

@@ -1875,7 +1875,6 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>grad</secondary_NP_type>
-<discourse_comment>konektor+secondary</discourse_comment>
 <val_frame.rf>v#v41kzmA</val_frame.rf>
 <children>
 <LM id="t-ln95049-014-p1s7w3">
@@ -6790,7 +6789,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>4</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln95049-014-p3s1w1">
 <a>

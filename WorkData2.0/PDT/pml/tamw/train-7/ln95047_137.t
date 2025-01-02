@@ -4559,7 +4559,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg1-as-cond</sense_PDTB3>
-<comment>do konektoru by asi mělo patřit i slovo kdekoliv, ale je to anomálie, divná formulace, proto necháno být</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln95047-137-p7s3w5</LM>

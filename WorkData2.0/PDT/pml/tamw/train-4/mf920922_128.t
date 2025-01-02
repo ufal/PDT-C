@@ -27,12 +27,6 @@
 <functor>CONJ</functor>
 <deepord>3</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>článek strukturován
-jako výroky státníků
-o francouzském referendu,
-špatný adept na 
-seznam, ale něco takového
-tam je</discourse_comment>
 <children>
 <LM id="t-mf920922-128-p1s1w1">
 <a>
@@ -6285,8 +6279,6 @@ tam je</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>čas tu je o hodně slabší 
-než u podobných vztahů</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920922-128-p12s3w8</LM>

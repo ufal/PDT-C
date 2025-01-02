@@ -27,7 +27,6 @@
 <tfa>t</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>krátce</discourse_comment>
 <children>
 <LM id="t-ln94202-87-p1s1w1">
 <a>

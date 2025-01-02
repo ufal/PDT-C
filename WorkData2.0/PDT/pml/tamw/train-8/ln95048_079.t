@@ -2803,7 +2803,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41qzvA</val_frame.rf>
 <children>
 <LM id="t-ln95048-079-p4s3w1">

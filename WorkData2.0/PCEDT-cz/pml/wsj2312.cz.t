@@ -728,7 +728,6 @@
 <target_range>0</target_range>
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
-<comment>PHASE:3 FILE_NOT_IN_PDTB3</comment>
 <src>A_V_A MP</src>
 <a-connectors.rf>
 <LM>a#a-wsj2312-001-p1s3W13-Ta</LM>

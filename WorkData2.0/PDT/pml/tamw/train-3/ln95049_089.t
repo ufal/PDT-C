@@ -365,7 +365,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>secondary vyplynulo</discourse_comment>
 <val_frame.rf>v#v41opiA</val_frame.rf>
 <children>
 <LM id="t-ln95049-089-p2s2w3">
@@ -433,8 +432,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>odebral, ale (oproti ocekavani)
-nezaplatil</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95049-089-p2s2w25</LM>

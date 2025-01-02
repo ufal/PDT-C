@@ -3809,8 +3809,6 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>17</deepord>
-<discourse_comment>wrongTR? nema "navstivit" viset na "a" a to cele
-na "comma"?</discourse_comment>
 <children>
 <LM id="t-ln94204-7-p6s3w1">
 <a>

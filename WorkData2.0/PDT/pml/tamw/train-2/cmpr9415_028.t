@@ -3323,7 +3323,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-cmpr9415-028-p10s4w1">
 <a>
@@ -4254,7 +4253,6 @@
 <target_range>0</target_range>
 <discourse_type>conc</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg1-as-denier</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->třebaže</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-cmpr9415-028-p10s7w1</LM>
@@ -4433,7 +4431,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>konektor rhem například</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-cmpr9415-028-p11s1w2</LM>
@@ -6046,9 +6043,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg
-
-možná kauzalita k části předcházející věty</discourse_comment>
 </LM>
 <LM id="t-cmpr9415-028-p12s3a1">
 <nodetype>qcomplex</nodetype>

@@ -1237,8 +1237,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>6</deepord>
-<discourse_comment>wrongTR,
-součást konektoru</discourse_comment>
 </LM>
 <LM id="t-ln94204-56-p3s1w12">
 <a>
@@ -3976,7 +3974,6 @@ součást konektoru</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>divný slovosled</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-56-p6s4w2</LM>
@@ -4814,12 +4811,6 @@ součást konektoru</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>mezi 21 a 22
-je REASON smíšená
-s EXEMPL, ale
-REASON nemá konektor,
-EXEMPL samotná to zase
-není, proto neanotováno</discourse_comment>
 <val_frame.rf>v#v41ismA</val_frame.rf>
 <children>
 <LM id="t-ln94204-56-p7s1w2">

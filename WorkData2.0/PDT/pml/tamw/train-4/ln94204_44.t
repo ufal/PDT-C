@@ -53,7 +53,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>zárovň is_photo description</discourse_comment>
 <children>
 <LM id="t-ln94204-44-p1s1Aw4">
 <a>

@@ -11001,7 +11001,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>implikace  -a je to z jejich pohledu jasné</comment>
 <src>PS</src>
 </LM>
 </discourse>

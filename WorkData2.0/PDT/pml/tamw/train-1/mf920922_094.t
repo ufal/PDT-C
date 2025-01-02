@@ -4079,9 +4079,6 @@
 </quot>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>prvním "argumentem"
-je jmenná fráze 
-z předchozí věty</discourse_comment>
 </LM>
 <LM id="t-mf920922-094-p2s11w3">
 <a>

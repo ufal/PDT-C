@@ -2251,9 +2251,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>neanotuji  -je to anafora, 
-nezaklada vyznamovy 
-diskurzni vztah</discourse_comment>
 <coref_text>
 <LM>
 <target_node.rf>t-mf930713-038-p2s9w21</target_node.rf>

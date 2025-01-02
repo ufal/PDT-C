@@ -3509,7 +3509,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41gbkB</val_frame.rf>
 <children>
 <LM id="t-cmpr9415-059-p8s5w2">

@@ -2153,8 +2153,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>neni pripojeno k zadne sipce  -zda se mi to jako 
-NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discourse_comment>
 </LM>
 <LM id="t-lnd94103-079-p1s8w13">
 <a>
@@ -2165,8 +2163,6 @@ NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discou
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>neni pripojeno k zadne sipce  -zda se mi to jako 
-NP  („zvyšující se počet obyvatel důchodového věku“) + veta 9</discourse_comment>
 </LM>
 <LM id="t-lnd94103-079-p1s8w1">
 <a>

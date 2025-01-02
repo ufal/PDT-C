@@ -967,7 +967,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrong_TR cond na vadit</discourse_comment>
 <val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln95047-093-p3s1Bw18">
@@ -3917,8 +3916,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>11</deepord>
-<discourse_comment>wrongTR?  -nemá tu 
-být funktor ACT?</discourse_comment>
 <val_frame.rf>v#v41jsU</val_frame.rf>
 <children>
 <LM id="t-ln95047-093-p3s12Bw16">

@@ -4292,7 +4292,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrong TR, smisena apozice</discourse_comment>
 <children>
 <LM id="t-ln95048-165-p4s1w5">
 <a>
@@ -4781,7 +4780,6 @@
 </gram>
 <tfa>t</tfa>
 <deepord>25</deepord>
-<discourse_comment>wrong TR</discourse_comment>
 </LM>
 <LM id="t-ln95048-165-p4s1w37">
 <a>

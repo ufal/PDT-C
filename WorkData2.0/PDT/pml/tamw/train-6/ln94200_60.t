@@ -5239,7 +5239,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení, poměrně nezřetelný vztah</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-60-p5s6w3</LM>

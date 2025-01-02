@@ -995,7 +995,6 @@
 <tfa>f</tfa>
 <deepord>4</deepord>
 <secondary_NP_type>explicat</secondary_NP_type>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41rmoB</val_frame.rf>
 <children>
 <LM id="t-ln94205-73-p2s3w1">

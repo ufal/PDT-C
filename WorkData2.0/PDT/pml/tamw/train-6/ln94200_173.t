@@ -8447,8 +8447,6 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR, tohle je spíš
-nezávislá věta než závislá klauze </discourse_comment>
 <val_frame.rf>v#v41ocbH</val_frame.rf>
 <children>
 <LM id="t-ln94200-173-p5s2a0">
@@ -8615,8 +8613,6 @@ nezávislá věta než závislá klauze </discourse_comment>
 <t_lemma>ale</t_lemma>
 <functor>ADVS</functor>
 <deepord>27</deepord>
-<discourse_comment>
-</discourse_comment>
 <children>
 <LM id="t-ln94200-173-p5s3w8">
 <a>

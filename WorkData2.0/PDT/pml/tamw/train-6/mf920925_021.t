@@ -1667,7 +1667,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE  -a nakonec-> -a nakonec i</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-mf920925-021-p3s1w34</LM>

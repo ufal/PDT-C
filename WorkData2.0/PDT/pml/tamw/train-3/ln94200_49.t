@@ -8213,8 +8213,6 @@
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>REASON oslabená tím,
-že v tom "tak" je i MANN</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-49-p10s2w3</LM>

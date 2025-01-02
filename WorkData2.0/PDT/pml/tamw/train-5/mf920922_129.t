@@ -3813,7 +3813,6 @@
 <target_range>0</target_range>
 <discourse_type>gener</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg1-as-detail</sense_PDTB3>
-<comment>Conclusion</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-mf920922-129-p5s2w2</LM>
@@ -3847,7 +3846,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<discourse_comment>secondary  -novy vztah?</discourse_comment>
 <children>
 <LM id="t-mf920922-129-p5s2w1">
 <a>
@@ -5500,7 +5498,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>35</deepord>
-<discourse_comment>wrongTR? nema byt t-lemma velkymi pismeny?</discourse_comment>
 </LM>
 </children>
 </LM>

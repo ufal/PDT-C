@@ -1241,7 +1241,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41mpoA</val_frame.rf>
 <children>
 <LM id="t-ln94204-16-p4s1w2">
@@ -2301,10 +2300,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>wrong TR?,
-významově coordinace
-mezi zakazky z Malajsie, SRN, Nizozemi, 
-na tepelnou elekt. pro Australii atd.</discourse_comment>
 <val_frame.rf>v#v41dnkA</val_frame.rf>
 <children>
 <LM id="t-ln94204-16-p5s1w3">
@@ -3689,7 +3684,6 @@ na tepelnou elekt. pro Australii atd.</discourse_comment>
 <tfa>c</tfa>
 <deepord>11</deepord>
 <secondary_NP_type>reason</secondary_NP_type>
-<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 </LM>
 <LM id="t-ln94204-16-p7s2w16">
 <a>

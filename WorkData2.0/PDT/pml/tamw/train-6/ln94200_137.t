@@ -777,10 +777,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<discourse_comment>adept na seznam,
-hypertéma zde,
-položky věty 
-8, 9, 10</discourse_comment>
 <val_frame.rf>v#v41gsxA</val_frame.rf>
 <children>
 <LM id="t-ln94200-137-p3s2w2">
@@ -910,7 +906,6 @@ položky věty
 </gram>
 <tfa>t</tfa>
 <deepord>5</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94200-137-p3s2w12">
 <a>
@@ -2509,8 +2504,6 @@ položky věty
 <target_range>0</target_range>
 <discourse_type>spec</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
-<comment>anotováno analogicky
-jako struktury s a_to</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-137-p3s6w8</LM>

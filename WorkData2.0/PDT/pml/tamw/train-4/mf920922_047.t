@@ -45,7 +45,6 @@
 <tfa>f</tfa>
 <deepord>1</deepord>
 <discourse_feature>heading</discourse_feature>
-<discourse_comment>tabulka převedená do textu?</discourse_comment>
 <children>
 <LM id="t-mf920922-047-p1s1w1">
 <a>

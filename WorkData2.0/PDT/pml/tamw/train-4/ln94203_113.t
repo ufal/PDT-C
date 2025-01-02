@@ -34,7 +34,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>popis obrázku</discourse_comment>
 <children>
 <LM id="t-ln94203-113-p1s1a0">
 <nodetype>qcomplex</nodetype>

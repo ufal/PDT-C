@@ -3184,7 +3184,6 @@
 <tfa>f</tfa>
 <deepord>3</deepord>
 <secondary_NP_type>gener</secondary_NP_type>
-<discourse_comment>Vyplývání (vyvození výsledků)</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-ln95046-077-p3s1w4">

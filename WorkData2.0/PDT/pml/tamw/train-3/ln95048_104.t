@@ -7154,7 +7154,6 @@
 <discourse_type>preced</discourse_type>
 <sense_PDTB3>Temporal.Asynchronous.Succession</sense_PDTB3>
 <sense_PDTB3_manual>Temporal.Asynchronous.Succession</sense_PDTB3_manual>
-<comment>PHASE:3 RETYPED conj->preced; CONN_CHANGE a->a nakonec i</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln95048-104-p9s1w16</LM>
@@ -8292,7 +8291,6 @@
 <target_range>0</target_range>
 <discourse_type>exempl</discourse_type>
 <sense_PDTB3>Expansion.Instantiation.Arg2-as-instance</sense_PDTB3>
-<comment>exempl důvodu, proč mají přijít</comment>
 <src>PS</src>
 <t-connectors.rf>
 <LM>t-ln95048-104-p9s4Aw8</LM>
@@ -12033,7 +12031,6 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <deepord>10</deepord>
-<discourse_comment>wrongTR</discourse_comment>
 <children>
 <LM id="t-ln95048-104-p14s3w1">
 <a>

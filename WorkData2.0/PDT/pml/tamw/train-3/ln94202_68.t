@@ -2143,11 +2143,6 @@
 <t_lemma>však</t_lemma>
 <functor>ADVS</functor>
 <deepord>13</deepord>
-<discourse_comment>wrongTR sémanticky
-zvláštní struktura,
-"však" vyjadřuje OPP 
-s presupozicí, ne s první
-částí struktury</discourse_comment>
 <children>
 <LM id="t-ln94202-68-p5s1w2">
 <a>

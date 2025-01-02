@@ -1129,8 +1129,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>2</deepord>
-<discourse_comment>není PREC, 
-ale MANN</discourse_comment>
 <coref_special>segm</coref_special>
 </LM>
 <LM id="t-ln94205-7-p3s2w5">

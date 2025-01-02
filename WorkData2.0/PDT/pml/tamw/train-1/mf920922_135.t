@@ -2006,7 +2006,6 @@
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>secondary když vezme člověk v úvahu tyto skutečnosti</discourse_comment>
 <val_frame.rf>v#v41pmaAO</val_frame.rf>
 <children>
 <LM id="t-mf920922-135-p2s7w3">
@@ -3165,7 +3164,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>adept na seznam</discourse_comment>
 <val_frame.rf>v#v41chlQ</val_frame.rf>
 <children>
 <LM id="t-mf920922-135-p2s11w1">

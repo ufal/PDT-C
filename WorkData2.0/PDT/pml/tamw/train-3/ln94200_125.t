@@ -1295,12 +1295,6 @@
 <target_range>0</target_range>
 <discourse_type>cond</discourse_type>
 <sense_PDTB3>Contingency.Condition.Arg2-as-cond</sense_PDTB3>
-<comment>silná časová složka významu
-
-wrongTR? nemělo by být v druhé
-větvi dokopírované sloveso? visí VV 
-dobře na kdy?
-</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-125-p2s4w7</LM>
@@ -6042,8 +6036,6 @@ dobře na kdy?
 <t_lemma>však</t_lemma>
 <functor>ADVS</functor>
 <deepord>28</deepord>
-<discourse_comment>stylistiky hodně
-neobratné vyjádření</discourse_comment>
 <children>
 <LM id="t-ln94200-125-p4s2w33">
 <a>
@@ -6492,16 +6484,12 @@ neobratné vyjádření</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
-<comment>PHASE:2 CONN_CHANGE ->protože; důvod</comment>
 <src>pdit10</src>
 <a-connectors.rf>
 <LM>a#a-ln94200-125-p5s2w1</LM>
 </a-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>wrongTR
-měla by být elipsa 
-řídící klauze</discourse_comment>
 <children>
 <LM id="t-ln94200-125-p5s2a6">
 <nodetype>qcomplex</nodetype>
@@ -7138,8 +7126,6 @@ měla by být elipsa
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>paragraph
-6-17</discourse_comment>
 </LM>
 <LM id="t-ln94200-125-p6s1w2">
 <a>
@@ -7921,7 +7907,6 @@ měla by být elipsa
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>stylisticky velmi neobratné</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p6s2w4</LM>
@@ -8598,8 +8583,6 @@ měla by být elipsa
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>v konektoru je v tomto
-případě i hodně hodnocení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p6s5w1</LM>
@@ -12060,8 +12043,6 @@ případě i hodně hodnocení</comment>
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause+Belief.Result+Belief</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause+Belief.Result+Belief</sense_PDTB3_manual>
-<comment>dost nejasný vztah, ironie?
-</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p8s4w3</LM>
@@ -12294,7 +12275,6 @@ případě i hodně hodnocení</comment>
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>nepříliš jasné</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94200-125-p8s3w1</LM>

@@ -6956,7 +6956,6 @@
 <target_range>0</target_range>
 <discourse_type>conj</discourse_type>
 <sense_PDTB3>Expansion.Conjunction</sense_PDTB3>
-<comment>konektor rhem rovněž</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-79-p6s3w2</LM>
@@ -8122,10 +8121,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>wrongTR,
-přebytečný otazník na konci
-věty  -nemá to být dvojtečka
-nebo středník?</discourse_comment>
 <val_frame.rf>v#v41njvC</val_frame.rf>
 <children>
 <LM id="t-ln94208-79-p7s2w3">
@@ -9226,7 +9221,6 @@ nebo středník?</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Result</sense_PDTB3>
-<comment>Entailment</comment>
 <src>pdit20</src>
 <t-connectors.rf>
 <LM>t-ln94208-79-p7s7w1</LM>
@@ -9250,7 +9244,6 @@ nebo středník?</discourse_comment>
 <functor>APPS</functor>
 <is_member>1</is_member>
 <deepord>7</deepord>
-<discourse_comment>větná APPS</discourse_comment>
 <children>
 <LM id="t-ln94208-79-p7s6w2">
 <a>
@@ -11025,9 +11018,6 @@ nebo středník?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<discourse_comment>adept na hypertéma, adept na seznam
-(31)-(34), hlavní uzly jsou
-ale DENOMy</discourse_comment>
 <val_frame.rf>v#v41qryA</val_frame.rf>
 <children>
 <LM id="t-ln94208-79-p8s3w2">
@@ -12457,7 +12447,6 @@ ale DENOMy</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>součást textu v závorce</discourse_comment>
 <val_frame.rf>v#v41jsM</val_frame.rf>
 <children>
 <LM id="t-ln94208-79-p8s5w1">
@@ -13763,10 +13752,6 @@ ale DENOMy</discourse_comment>
 <target_range>0</target_range>
 <discourse_type>opp</discourse_type>
 <sense_PDTB3>Comparison.Concession.Arg2-as-denier</sense_PDTB3>
-<comment>je v tom i postoj-
-plán je drahý, je ale třeba realizovat,
-protože máme důkazy, co se
-stane, kdyby se nic neřešilo</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-79-p9s2w2</LM>

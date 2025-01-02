@@ -1394,7 +1394,6 @@
 <functor>RHEM</functor>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<discourse_comment>divně užitý RHEM</discourse_comment>
 </LM>
 <LM id="t-ln95049-037-p3s1w14">
 <a>

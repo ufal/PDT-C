@@ -6134,8 +6134,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>1</deepord>
-<discourse_comment>Adept na seznam, 
-puvodne asi tabulka.</discourse_comment>
 <children>
 <LM id="t-cmpr9413-050-p10s1w2">
 <a>
@@ -17862,8 +17860,6 @@ puvodne asi tabulka.</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg nebo 
-wrongTR</discourse_comment>
 </LM>
 <LM id="t-cmpr9413-050-p35s1w3">
 <a>

@@ -327,7 +327,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<discourse_comment>one_arg</discourse_comment>
 <val_frame.rf>v#v41gbkB</val_frame.rf>
 <children>
 <LM id="t-ln94202-55-p3s1Bw1">
@@ -2248,9 +2247,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>4</deepord>
-<discourse_comment>wrongTR,
-proč je u tohoto
-uzlu skryto může?</discourse_comment>
 <val_frame.rf>v#v41kebA</val_frame.rf>
 <children>
 <LM id="t-ln94202-55-p5s1a2">
@@ -8995,12 +8991,6 @@ uzlu skryto může?</discourse_comment>
 <t_lemma>neboť</t_lemma>
 <functor>REAS</functor>
 <deepord>29</deepord>
-<discourse_comment>wrongTR?
-nepatří tohle nebot
-pouze ke 3.vetvi
-CONJ? nema byt
-tedy hierarchie
-opacne?</discourse_comment>
 <children>
 <LM id="t-ln94202-55-p9s4w25">
 <a>
@@ -12374,7 +12364,6 @@ opacne?</discourse_comment>
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94202-55-p11s7w2</LM>

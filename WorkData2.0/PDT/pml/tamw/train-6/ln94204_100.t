@@ -5627,7 +5627,6 @@
 <discourse_type>explicat</discourse_type>
 <sense_PDTB3>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3>
 <sense_PDTB3_manual>Expansion.Level-of-detail.Arg2-as-detail</sense_PDTB3_manual>
-<comment>vysvětlení</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94204-100-p4s4w2</LM>
@@ -6966,7 +6965,6 @@
 </t-connectors.rf>
 </LM>
 </discourse>
-<discourse_comment>secondary což dokumentuje</discourse_comment>
 <val_frame.rf>v#v41aaiA</val_frame.rf>
 <children>
 <LM id="t-ln94204-100-p4s7w8">
@@ -8752,7 +8750,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94204-100-p5s6w3">
 <a>

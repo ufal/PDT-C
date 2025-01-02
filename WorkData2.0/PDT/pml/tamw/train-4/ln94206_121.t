@@ -815,9 +815,6 @@
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>11</deepord>
-<discourse_comment>nejasné, zda vůbec
-někam odkazuje,
-možná one_arg</discourse_comment>
 </LM>
 <LM id="t-ln94206-121-p2s2w14">
 <a>
@@ -1293,8 +1290,6 @@ možná one_arg</discourse_comment>
 <functor>PREC</functor>
 <tfa>t</tfa>
 <deepord>1</deepord>
-<discourse_comment>spojuje jen dve NP, lze
-nahradit např. především</discourse_comment>
 <children>
 <LM id="t-ln94206-121-p3s2w2">
 <a>
@@ -4111,10 +4106,6 @@ nahradit např. především</discourse_comment>
 <functor>CONJ</functor>
 <is_dsp_root>1</is_dsp_root>
 <deepord>10</deepord>
-<discourse_comment>náznak REASON, 
-ale moc slabé na to,
-aby to mohlo být 
-bezpečně anotováno</discourse_comment>
 <children>
 <LM id="t-ln94206-121-p4s6w6">
 <a>

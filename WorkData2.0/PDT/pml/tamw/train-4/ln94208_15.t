@@ -676,7 +676,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>2</deepord>
-<discourse_comment>free compositional phrase</discourse_comment>
 <val_frame.rf>v#v41opmA</val_frame.rf>
 <children>
 <LM id="t-ln94208-15-p3s1w3">
@@ -2671,10 +2670,6 @@
 <discourse_type>f_reason</discourse_type>
 <sense_PDTB3>Contingency.Cause.Reason</sense_PDTB3>
 <sense_PDTB3_manual>Contingency.Cause.Reason</sense_PDTB3_manual>
-<comment>velká mezera mezi
-argumenty  -zřejmě
-prodá i navíc spoustu
-dalších, protože...</comment>
 <src>pdit10</src>
 <t-connectors.rf>
 <LM>t-ln94208-15-p5s3w5</LM>
