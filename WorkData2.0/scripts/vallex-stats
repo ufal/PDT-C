@@ -1,0 +1,74 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+
+use List::Util qw{ max min sum };
+use Text::Table;
+use XML::LibXML;
+
+my $F = '%.3f';
+
+my $vallex = shift or die 'Vallex xml file expected as argument';
+
+my $tt = 'Text::Table'->new;
+
+my $dom = 'XML::LibXML'->load_xml(location => $vallex);
+my $all_words = $dom->findvalue('count(//word)');
+$tt->add('All words', $all_words);
+
+my %frame_count;
+my %word_by_pos;
+my %frame_count_by_pos;
+for my $word ($dom->findnodes('//word')) {
+    ++$word_by_pos{ $word->{POS} };
+    ++$frame_count{ $word->findvalue('count(.//frame)') };
+    $frame_count_by_pos{ $word->{POS} } += $word->findvalue('count(.//frame)');
+}
+
+for my $pos (sort { $word_by_pos{$b} <=> $word_by_pos{$a} } keys %word_by_pos) {
+    $tt->add($pos, $word_by_pos{$pos});
+}
+$tt->add('-');
+
+
+
+my $frame_count = sum(map $_ * $frame_count{$_}, keys %frame_count);
+$tt->add('Frame count', $frame_count);
+my $min = min(keys %frame_count);
+$tt->add('Min frames/word', $min);
+$tt->add('Freq of min', $frame_count{$min});
+my $max = max(keys %frame_count);
+$tt->add('Max frames/word', $max);
+$tt->add('Freq of max', $frame_count{$max});
+
+my $avg = $frame_count / $all_words;
+$tt->add('Avg frames/word', sprintf $F, $avg);
+
+for my $pos (sort { $frame_count_by_pos{$b} <=> $frame_count_by_pos{$a} }
+             keys %frame_count_by_pos
+) {
+    $tt->add($pos, $frame_count_by_pos{$pos});
+}
+$tt->add('-');
+
+my %frame_usage;
+for my $frame ($dom->findnodes('//frame')) {
+    for my $used (qw( pcedt_used pdt_used faust_used pdtsc_used used )) {
+        $frame_usage{$used} += $frame->{$used};
+    }
+}
+for my $corpus (sort { $frame_usage{$b} <=> $frame_usage{$a} }
+                keys %frame_usage
+) {
+    $tt->add($corpus, $frame_usage{$corpus});
+}
+
+
+
+for my $line ($tt->table) {
+    if ($line =~ /^-/) {
+        print $tt->rule('-');
+    } else {
+        print $line;
+    }
+}
