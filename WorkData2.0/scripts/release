@@ -1,6 +1,8 @@
 #!/bin/bash
 set -eu -o pipefail
 
+target_dir=$PWD
+
 dir=$(readlink -f "${0%/*}/..")
 cd "$dir"
 
@@ -16,17 +18,28 @@ find .  -name '*.[amtw]' \
     path=${file%/*}
     if [[ ! -d $pdtc20/$path ]] ; then
         mkdir -p "$pdtc20/$path"
+        mkdir -p "$pdtc20/${path/pml/treex}"
     fi
     echo "$file"
     cp "$file" "$pdtc20/$path"
+    if [[ $file = *.m ]] ; then
+        cp "${file%.m}".treex.gz "$pdtc20/${path/pml/treex}"
+        basename=${file##*/}
+        ls "$pdtc20/${path/pml/treex}"/"${basename%.m}".treex.gz
+    fi
 done
+
+# TODO: resources, mrp
 
 cp "$dir"/../publication/PDTSC-2.0/data/pdtsc_???.ogg "$pdtc20"/PDTSC/pml/
 ls "$pdtc20"/PDTSC/pml/pdtsc_???.ogg
 
 cp "$dir"/../vallex.changes "$pdtc20"/dictionaries/
+ls "$pdtc20"/dictionaries/vallex.changes
+
 cp "$dir"/../pdtsc.map "$pdtc20"/PDTSC/
+ls "$dir"/../pdtsc.map "$pdtc20"/PDTSC/pdtsc.map
 
-tar -cz "$pdtc20"
+cd "$tmp"
+tar -f "$target_dir"/pdtc20.tgz -cz PDT-C-2.0
 rm -rf "$tmp"
-
