@@ -54,13 +54,14 @@ my $dir = $FindBin::Bin . "/..";
 
 my %counts;
 
-my @corpora = qw( Faust PCEDT-cz PDT PDTSC );
+my @corpora = qw( Faust PCEDT-cz PDT/pml/mw PDT/pml/amw PDT/pml/tamw PDTSC );
 for my $corpus (@corpora) {
     say {*STDERR} $corpus;
     $counts{$corpus} = path($dir, $corpus)->visit(\&count, {recurse => 1});
 }
 my $tt = 'Text::Table'->new('Corpus', 'Layer', 'Files', 'Sentences', 'Nodes');
-for my $corpus (sort keys %counts) {
+for my $corpus (@corpora) {
+    print $tt->rule;
     for my $layer (sort by_layer keys %{ $counts{$corpus}{file} }) {
         $tt->add($corpus, $layer, $counts{$corpus}{file}{$layer},
                  $counts{$corpus}{sentence}{$layer},
