@@ -1,0 +1,32 @@
+#!/bin/bash
+set -eu -o pipefail
+
+dir=$(readlink -f "${0%/*}/..")
+cd "$dir"
+
+tmp=$(mktemp -d)
+pdtc20="$tmp"/PDT-C-2.0
+mkdir "$pdtc20"
+
+find .  -name '*.[amtw]' \
+     -o -name '*.[zwm]data' \
+     -o -name '*.ogg' \
+     -o -name 'pdtvallex-4.5.xml' \
+    | while read file ; do
+    path=${file%/*}
+    if [[ ! -d $pdtc20/$path ]] ; then
+        mkdir -p "$pdtc20/$path"
+    fi
+    echo "$file"
+    cp "$file" "$pdtc20/$path"
+done
+
+cp "$dir"/../publication/PDTSC-2.0/data/pdtsc_???.ogg "$pdtc20"/PDTSC/pml/
+ls "$pdtc20"/PDTSC/pml/pdtsc_???.ogg
+
+cp "$dir"/../vallex.changes "$pdtc20"/dictionaries/
+cp "$dir"/../pdtsc.map "$pdtc20"/PDTSC/
+
+tar -cz "$pdtc20"
+rm -rf "$tmp"
+
