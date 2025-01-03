@@ -2,7 +2,6 @@
 use warnings;
 use strict;
 use experimental qw( signatures );
-use feature qw{ say };
 
 use FindBin ();
 use Path::Tiny qw( path );
@@ -54,18 +53,24 @@ my $dir = $FindBin::Bin . "/..";
 
 my %counts;
 
-my @corpora = qw( Faust PCEDT-cz PDT/pml/mw PDT/pml/amw PDT/pml/tamw PDTSC );
+my @corpora = qw( Faust PDTSC PCEDT-cz PDT/pml/mw PDT/pml/amw PDT/pml/tamw );
 for my $corpus (@corpora) {
-    say {*STDERR} $corpus;
+    print {*STDERR} $corpus, "\r";
     $counts{$corpus} = path($dir, $corpus)->visit(\&count, {recurse => 1});
 }
 my $tt = 'Text::Table'->new('Corpus', 'Layer', 'Files', 'Sentences', 'Nodes');
 for my $corpus (@corpora) {
-    print $tt->rule;
+    $tt->add('-');
     for my $layer (sort by_layer keys %{ $counts{$corpus}{file} }) {
         $tt->add($corpus, $layer, $counts{$corpus}{file}{$layer},
                  $counts{$corpus}{sentence}{$layer},
                  $counts{$corpus}{node}{$layer});
     }
 }
-print $tt;
+for my $line ($tt->table) {
+    if ($line =~ /^-/) {
+        print $tt->rule('-');
+    } else {
+        print $line;
+    }
+}
