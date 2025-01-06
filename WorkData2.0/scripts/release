@@ -53,7 +53,7 @@ cp "$dir"/../vallex.changes "$pdtc20"/dictionaries/
 ls "$pdtc20"/dictionaries/vallex.changes
 
 cp "$dir"/../pdtsc.map "$pdtc20"/PDTSC/
-ls "$dir"/../pdtsc.map "$pdtc20"/PDTSC/pdtsc.map
+ls "$pdtc20"/PDTSC/pdtsc.map
 
 cd "$tmp"
 tar -f "$target_dir"/pdtc20.tgz -cz PDT-C-2.0
