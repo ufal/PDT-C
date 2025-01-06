@@ -1,7 +1,9 @@
 #!/bin/bash
 set -eu -o pipefail
+shopt -s extglob
 
 target_dir=$PWD
+mrp_dir=/net/work/people/zeman/mrp-data/mrp-pdtc20
 
 dir=$(readlink -f "${0%/*}/..")
 cd "$dir"
@@ -19,17 +21,23 @@ find .  -name '*.[amtw]' \
     if [[ ! -d $pdtc20/$path ]] ; then
         mkdir -p "$pdtc20/$path"
         mkdir -p "$pdtc20/${path/pml/treex}"
+        mkdir -p "$pdtc20/${path/pml/mrp}"
     fi
-    echo "$file"
     cp "$file" "$pdtc20/$path"
+    basename=${file##*/}
+    ls "$pdtc20/$path/$basename"
     if [[ $file = *.m ]] ; then
         cp "${file%.m}".treex.gz "$pdtc20/${path/pml/treex}"
-        basename=${file##*/}
         ls "$pdtc20/${path/pml/treex}"/"${basename%.m}".treex.gz
+    elif [[ $file = *.t ]] ; then
+        cp "$mrp_dir"/"${path/\/pml?(\/tamw)}"/"${basename%.t}".mrp \
+           "$pdtc20/${path/pml/mrp}"
+        ls "$pdtc20/${path/pml/mrp}"/"${basename%.t}".mrp
     fi
+
 done
 
-# TODO: resources, mrp
+# TODO: resources
 
 cp "$dir"/../publication/PDTSC-2.0/data/pdtsc_???.ogg "$pdtc20"/PDTSC/pml/
 ls "$pdtc20"/PDTSC/pml/pdtsc_???.ogg
