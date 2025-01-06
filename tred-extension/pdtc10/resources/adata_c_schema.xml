@@ -2,7 +2,7 @@
 <pml_schema
   xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/"
   version="1.1">
-  <revision>1.0.0</revision>
+  <revision>2.0.0</revision>
   <description>PDT-C analytical trees</description>
   <reference name="mdata" readas="pml"/>
 
@@ -84,23 +84,16 @@
       <value>Obj</value>
       <value>Atr</value>
       <value>Adv</value>
-      <value>AtrAdv</value>
-      <value>AdvAtr</value>
       <value>Coord</value>
-      <value>AtrObj</value>
-      <value>ObjAtr</value>
-      <value>AtrAtr</value>
       <value>AuxT</value>
       <value>AuxR</value>
       <value>AuxP</value>
       <value>Apos</value>
-      <value>ExD</value>
       <value>Denom</value>
       <value>Vocat</value>
       <value>Partl</value>
       <value>AuxC</value>
       <value>Atv</value>
-      <value>AtvV</value>
       <value>AuxO</value>
       <value>AuxZ</value>
       <value>AuxY</value>
@@ -111,7 +104,7 @@
   </type>
 
   <type name="a-comments.type">
-    <list type="a-comment.type"/>
+    <list type="a-comment.type" ordered="0"/>
   </type>
 
   <type name="a-comment.type">
