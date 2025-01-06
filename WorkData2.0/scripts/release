@@ -21,7 +21,9 @@ find .  -name '*.[amtw]' \
     if [[ ! -d $pdtc20/$path ]] ; then
         mkdir -p "$pdtc20/$path"
         mkdir -p "$pdtc20/${path/pml/treex}"
-        mkdir -p "$pdtc20/${path/pml/mrp}"
+        if [[ $path != */pml/[am]* ]] ; then
+            mkdir -p "$pdtc20/${path/pml/mrp}"
+        fi
     fi
     cp "$file" "$pdtc20/$path"
     basename=${file##*/}
@@ -30,11 +32,14 @@ find .  -name '*.[amtw]' \
         cp "${file%.m}".treex.gz "$pdtc20/${path/pml/treex}"
         ls "$pdtc20/${path/pml/treex}"/"${basename%.m}".treex.gz
     elif [[ $file = *.t ]] ; then
-        cp "$mrp_dir"/"${path/\/pml?(\/tamw)}"/"${basename%.t}".mrp \
-           "$pdtc20/${path/pml/mrp}"
+        if [[ $path = */PDT/* ]] ; then
+            src="$mrp_dir"/"${path/\/pml\/tamw}"/"${basename%.t}".mrp
+        else
+            src="$mrp_dir"/"${path/\/pml*}"/"${basename%.t}".mrp
+        fi
+        cp  "$src" "$pdtc20/${path/pml/mrp}"
         ls "$pdtc20/${path/pml/mrp}"/"${basename%.t}".mrp
     fi
-
 done
 
 # TODO: resources
