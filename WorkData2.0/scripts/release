@@ -42,7 +42,9 @@ find .  -name '*.[amtw]' \
     fi
 done
 
-# TODO: resources
+mkdir "$pdtc20/resources"
+cp "$dir"/../tred-extension/pdtc10/resources/*schema.xml "$pdtc20"/resources/
+ls "$pdtc20"/resources/
 
 cp "$dir"/../publication/PDTSC-2.0/data/pdtsc_???.ogg "$pdtc20"/PDTSC/pml/
 ls "$pdtc20"/PDTSC/pml/pdtsc_???.ogg
