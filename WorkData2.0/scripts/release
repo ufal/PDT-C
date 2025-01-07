@@ -12,9 +12,11 @@ tmp=$(mktemp -d)
 pdtc20="$tmp"/PDT-C-2.0
 mkdir "$pdtc20"
 
+pdtsc20="$dir"/../publication/PDTSC-2.0/data
+workdata10="$dir"/../WorkData
+
 find .  -name '*.[amtw]' \
      -o -name '*.[zwm]data' \
-     -o -name '*.ogg' \
      -o -name 'pdtvallex-4.5.xml' \
     | while read file ; do
     path=${file%/*}
@@ -39,15 +41,23 @@ find .  -name '*.[amtw]' \
         fi
         cp  "$src" "$pdtc20/${path/pml/mrp}"
         ls "$pdtc20/${path/pml/mrp}"/"${basename%.t}".mrp
+    elif [[ $file = *.mdata ]] ; then
+        doc=${basename%_?.mdata}
+        for v in 1 2 3 ; do
+            if [[ "$doc"_$v.mdata != $basename && -f "$workdata10"/PDTSC/data/"$doc"_$v.mdata ]] ; then
+                cp  "$workdata10"/PDTSC/data/"$doc"_$v.mdata "$pdtc20/$path"
+                ls "$pdtc20/$path"/"$doc"_$v.mdata
+            fi
+        done
+        [[ -d "$pdtc20"/${path/pml/ogg} ]] || mkdir -p "$pdtc20"/"${path/pml/ogg}"
+        cp "$pdtsc20"/"$doc".ogg "$pdtc20"/"${path/pml/ogg}"
+        ls "$pdtc20"/"${path/pml/ogg}"/$doc.ogg
     fi
 done
 
 mkdir "$pdtc20/resources"
 cp "$dir"/../tred-extension/pdtc10/resources/*schema.xml "$pdtc20"/resources/
 ls "$pdtc20"/resources/
-
-cp "$dir"/../publication/PDTSC-2.0/data/pdtsc_???.ogg "$pdtc20"/PDTSC/pml/
-ls "$pdtc20"/PDTSC/pml/pdtsc_???.ogg
 
 cp "$dir"/../vallex.changes "$pdtc20"/dictionaries/
 ls "$pdtc20"/dictionaries/vallex.changes
