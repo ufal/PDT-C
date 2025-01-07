@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <pml_schema xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/" version="1.1">
-  <revision>1.0.0</revision>
+  <revision>2.0.0</revision>
   <description>PDT-C tectogrammatic trees</description>
   <reference name="adata" readas="trees"/>
 
@@ -146,7 +146,6 @@
       <member name="deepord" role="#ORDER" required="1">
         <cdata format="nonNegativeInteger"/>
       </member>
-      <member name="discourse_special" type="t-discourse-special.type" required="0"/>  <!-- obsolete, replaced by discourse_feature and discourse_macrostructure -->
       <member name="discourse_feature" type="t-discourse-feature.type" required="0"/>
       <member name="discourse_macrostructure" type="t-discourse-macrostructure.type" required="0"/>
       <member name="secondary_NP_type" type="t-discourse-type.type" required="0"/> <!-- a provisional attribute for annotating disc. type of secondary connectives connecting a non-verbal argument -->
@@ -556,14 +555,6 @@
       <value>TTILL</value>
       <value>TWHEN</value>
       <value>VOCAT</value>
-    </choice>
-  </type>
-
-  <type name="t-discourse-special.type"> <!-- obsolete, replaced by discourse_feature and discourse_macrostructure -->
-    <choice>
-      <value>caption</value>
-      <value>heading</value>
-      <value>metatext</value>
     </choice>
   </type>
 
