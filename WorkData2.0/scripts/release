@@ -65,6 +65,9 @@ ls "$pdtc20"/dictionaries/vallex.changes
 cp "$dir"/../pdtsc.map "$pdtc20"/PDTSC/
 ls "$pdtc20"/PDTSC/pdtsc.map
 
+cp "$dir"/README.txt "$pdtc20"/
+ls "$pdtc20"/README.txt
+
 cd "$tmp"
 tar -f "$target_dir"/pdtc20.tgz -cz PDT-C-2.0
 rm -rf "$tmp"
