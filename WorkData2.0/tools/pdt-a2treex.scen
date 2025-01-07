@@ -1,0 +1,3 @@
+# Convert pdt data into treex.
+Read::PDT top_layer=a schema_dir=/home/stepanek/links/work/umr/data/stepanek language=cs from=!/home/stepanek/links/pdt-c/WorkData2.0/PDT/pml/amw/*/*.a
+Write::Treex
