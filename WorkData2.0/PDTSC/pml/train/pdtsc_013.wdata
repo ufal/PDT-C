@@ -53,7 +53,6 @@
     </audio.rf>
     <events>
      <speaker id="spk-d1e7">
-      <speaker.rf></speaker.rf>
      </speaker>
      <sync id="d1e9">
       <audio.rf>
