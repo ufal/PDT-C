@@ -14,6 +14,7 @@ mkdir "$pdtc20"
 
 pdtsc20="$dir"/../publication/PDTSC-2.0/data
 workdata10="$dir"/../WorkData
+tred_extensions=/net/work/people/stepanek/tred/extensions.git
 
 find .  -name '*.[amtw]' \
      -o -name '*.[zwm]data' \
@@ -57,7 +58,8 @@ done
 
 mkdir "$pdtc20/resources"
 cp "$dir"/../tred-extension/pdtc10/resources/*schema.xml "$pdtc20"/resources/
-ls "$pdtc20"/resources/
+cp "$tred_extensions"/pdt_vallex/resources/vallex.dtd "$pdtc20"/resources/
+ls -1 "$pdtc20"/resources/
 
 cp "$dir"/../vallex.changes "$pdtc20"/dictionaries/
 ls "$pdtc20"/dictionaries/vallex.changes
