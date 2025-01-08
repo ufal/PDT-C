@@ -62,6 +62,9 @@ ls "$pdtc20"/resources/
 cp "$dir"/../vallex.changes "$pdtc20"/dictionaries/
 ls "$pdtc20"/dictionaries/vallex.changes
 
+cp "$dir"/../czech-morfflex-2.1.tsv.xz "$pdtc20"/dictionaries/
+ls "$pdtc20"/dictionaries/czech-morfflex-2.1.tsv.xz
+
 cp "$dir"/../pdtsc.map "$pdtc20"/PDTSC/
 ls "$pdtc20"/PDTSC/pdtsc.map
 
