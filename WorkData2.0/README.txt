@@ -34,5 +34,6 @@ are 2 or three such texts, only one is used for further annotation.
 
 * dictionaries/
 
-Contains the PDT Valency Lexicon version 4.5. The file "vallex.changes"
-maps the version 4.0 identifiers to the new identifiers used in 4.5.
+Contains the PDT Valency Lexicon version 4.5 (the file "vallex.changes"
+maps the version 4.0 identifiers to the new identifiers used in 4.5)
+and the Czech morphological dictionary (morfflex) version 2.1.
