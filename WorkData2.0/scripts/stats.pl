@@ -6,10 +6,11 @@ use feature qw{ say };
 use XML::LibXML;
 use Text::Table;
 
-my @globs = qw( WorkData2.0/PCEDT-cz/pml/*.m
-                WorkData2.0/PDTSC/pml/*.m
+my @globs = qw( WorkData2.0/PCEDT-cz/pml/*/*.m
+                WorkData2.0/PDTSC/pml/*/*.m
                 WorkData2.0/PDT/pml/tamw/*/*.m
-                WorkData2.0/PDT/pml/amw/*/*.m );
+                WorkData2.0/PDT/pml/amw/*/*.m
+                WorkData2.0/PDT/pml/mw/*/*.m );
 
 my $tt = 'Text::Table'->new("corp\n&left", map { \'|', "$_\n&right" }
                             'avg', 'avg(avg per file)',
