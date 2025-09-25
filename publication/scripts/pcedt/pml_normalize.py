@@ -7,9 +7,11 @@ import argparse
 parser = argparse.ArgumentParser(description="A script to adjust PML file")
 parser.add_argument("--style", choices=['pdt_a', 'pdt_t', 'pedt_a', 'pedt_t'], default=None, help="the style of the input PML document; multiple normalization steps are applied")
 parser.add_argument("--src", choices=['orig', 'treex'], default='orig', help="the source of the input PML document; multiple normalization steps are applied")
-parser.add_argument("--no-clear-reffile", action='store_true', help="do not clear file references in 'reffile' elements")
-parser.add_argument("--no-sort-id-elems", action='store_true', help="do not sort subelements of the element with an 'id' attribute alphabetically")
-parser.add_argument("--no-remove-extra-lm", action='store_true', help="do not remove LM element if reduntant")
+
+parser.add_argument("--clear-reffile", action='store_true', help="clear file references in 'reffile' elements")
+parser.add_argument("--sort-id-elems", action='store_true', help="sort subelements of the element with an 'id' attribute alphabetically")
+parser.add_argument("--remove-extra-lm", action='store_true', help="remove LM element if reduntant")
+
 parser.add_argument("--remove-meta", action='store_true', help="remove 'meta' element under the root")
 parser.add_argument("--remove-lang-sentence", action='store_true', help="remove '[eng,cze]_sentence' element")
 parser.add_argument("--remove-root-nodetype", action='store_true', help="remove 'nodetype' element under '/tdata/trees/LM'")
@@ -20,6 +22,7 @@ parser.add_argument("--remove-pcedt-elem", action='store_true', help="remove 'pc
 parser.add_argument("--remove-functor-change", action='store_true', help="remove the 'functor_change' elements")
 parser.add_argument("--remove-anot-error", action='store_true', help="remove 'anot_error' elements")
 parser.add_argument("--tidy-coref", action='store_true', help="tidy the result of coreferencen annotation process")
+
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
 parser.add_argument("--keep-tree", type=str, default=None, help="only the specified tree will be kept; format: [apt]")
 args = parser.parse_args()
@@ -56,13 +59,13 @@ ns = { "pml" : m.group(1) }
 root = ET.fromstring(xmlstring)
 
 ######## clear file references in 'reffile' elements #########
-if not args.no_clear_reffile:
+if args.clear_reffile:
     for reffile in root.findall('.//pml:reffile', ns):
         reffile.attrib["href"] = ""
 
 
 ######## sort subelements of elements with ID #########
-if not args.no_sort_id_elems:
+if args.sort_id_elems:
     for id_elem in root.findall('.//*[@id]', ns):
         subelems = id_elem.getchildren()
         #print("BEFORE: " + str(lm.getchildren()))
@@ -75,7 +78,7 @@ if not args.no_sort_id_elems:
 
 ########## delete redundant isolated LMs ###########
 
-if not args.no_remove_extra_lm:
+if args.remove_extra_lm:
     for par in root.findall('.//*[pml:LM]', ns):
         lms = par.findall('pml:LM', ns)
         if len(lms) == 1:
