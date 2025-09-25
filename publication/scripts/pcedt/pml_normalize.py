@@ -17,6 +17,8 @@ parser.add_argument("--remove-lang-sentence", action='store_true', help="remove 
 parser.add_argument("--remove-root-nodetype", action='store_true', help="remove 'nodetype' element under '/tdata/trees/LM'")
 parser.add_argument("--remove-p", action='store_true', help="remove phrase trees under 'p' elements")
 parser.add_argument("--remove-annot-comment", action='store_true', help="remove 'annot_comment' elements")
+parser.add_argument("--remove-m-alt-tag", action='store_true', help="remove 'm/alt_tag' elements")
+parser.add_argument("--remove-functions", action='store_true', help="remove 'functions' elements")
 parser.add_argument("--remove-empty", action='store_true', help="remove empty elements")
 parser.add_argument("--remove-pcedt-elem", action='store_true', help="remove 'pcedt' elements")
 parser.add_argument("--remove-functor-change", action='store_true', help="remove the 'functor_change' elements")
@@ -32,6 +34,8 @@ if args.style is not None:
         if args.src == 'orig':
             args.remove_p = True
             args.remove_annot_comment = True
+            args.remove_m_alt_tag = True
+            args.remove_functions = True
     if args.style == 'pedt_t':
         if args.src == 'orig':
             args.remove_lang_sentence = True
@@ -136,6 +140,21 @@ if args.remove_p:
 if args.remove_annot_comment:
     for par in root.findall('.//*[pml:annot_comment]', ns):
         for ch in par.findall('./pml:annot_comment', ns):
+            par.remove(ch)
+
+############### delete m/alt_tag elements #####################
+
+if args.remove_m_alt_tag:
+    for par in root.findall('.//*[pml:alt_tag]', ns):
+        if par.tag == "{" + ns["pml"] + "}m":
+            for ch in par.findall('./pml:alt_tag', ns):
+                par.remove(ch)
+
+############### delete functions elements #####################
+
+if args.remove_functions:
+    for par in root.findall('.//*[pml:functions]', ns):
+        for ch in par.findall('./pml:functions', ns):
             par.remove(ch)
 
 ############### delete empty struct elements (a, gram) #################
