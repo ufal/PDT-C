@@ -8,9 +8,14 @@ parser = argparse.ArgumentParser(description="A script to adjust PML file")
 parser.add_argument("--style", choices=['pdt_a', 'pdt_t', 'pedt_a', 'pedt_t'], default=None, help="the style of the input PML document; multiple normalization steps are applied")
 parser.add_argument("--src", choices=['orig', 'treex'], default='orig', help="the source of the input PML document; multiple normalization steps are applied")
 
+parser.add_argument("--no-add", action='store_true', help="do not add anything, just remove")
+
 parser.add_argument("--clear-reffile", action='store_true', help="clear file references in 'reffile' elements")
 parser.add_argument("--sort-id-elems", action='store_true', help="sort subelements of the element with an 'id' attribute alphabetically")
 parser.add_argument("--remove-extra-lm", action='store_true', help="remove LM element if reduntant")
+
+parser.add_argument("--remove-empty", action='store_true', help="remove empty elements")
+parser.add_argument("--remove-is-0", action='store_true', help="remove elements 'is_...' with the 0 value")
 
 parser.add_argument("--remove-meta", action='store_true', help="remove 'meta' element under the root")
 parser.add_argument("--remove-lang-sentence", action='store_true', help="remove '[eng,cze]_sentence' element")
@@ -19,11 +24,11 @@ parser.add_argument("--remove-p", action='store_true', help="remove phrase trees
 parser.add_argument("--remove-annot-comment", action='store_true', help="remove 'annot_comment' elements")
 parser.add_argument("--remove-m-alt-tag", action='store_true', help="remove 'm/alt_tag' elements")
 parser.add_argument("--remove-functions", action='store_true', help="remove 'functions' elements")
-parser.add_argument("--remove-empty", action='store_true', help="remove empty elements")
 parser.add_argument("--remove-pcedt-elem", action='store_true', help="remove 'pcedt' elements")
 parser.add_argument("--remove-functor-change", action='store_true', help="remove the 'functor_change' elements")
 parser.add_argument("--remove-anot-error", action='store_true', help="remove 'anot_error' elements")
 parser.add_argument("--tidy-coref", action='store_true', help="tidy the result of coreferencen annotation process")
+
 
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
 parser.add_argument("--keep-tree", type=str, default=None, help="only the specified tree will be kept; format: [apt]")
@@ -166,6 +171,14 @@ if args.remove_empty:
                 if not ch.getchildren():
                     par.remove(ch)
 
+############### delete elements (a, gram) #################
+
+if args.remove_is_0:
+    for name in ['is_generated', 'is_member', 'is_parenthesis']:
+        for par in root.findall(f'.//*[pml:{name}]', ns):
+            for ch in par.findall(f'./pml:{name}', ns):
+                if ch.text.strip() == '0':
+                    par.remove(ch)
 
 ############ tidy the artefacts of coreference annotation process #############
 
@@ -187,13 +200,13 @@ if args.tidy_coref:
         # add informal-type elements with the SPEC value to the coref_text element, if missing
         for par in coref_elem.findall('.//pml:target-node.rf/..', ns):
             type_elems = par.findall('./pml:informal-type', ns)
-            if not type_elems:
+            if not args.no_add and not type_elems:
                 typeelem = ET.Element("informal-type")
                 typeelem.text = "SPEC"
                 par.append(typeelem)
         for par in coref_elem.findall('.//pml:target_node.rf/..', ns):
             type_elems = par.findall('./pml:type', ns)
-            if not type_elems:
+            if not args.no_add and not type_elems:
                 typeelem = ET.Element("type")
                 typeelem.text = "SPEC"
                 par.append(typeelem)
