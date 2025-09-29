@@ -27,7 +27,12 @@ parser.add_argument("--remove-functions", action='store_true', help="remove 'fun
 parser.add_argument("--remove-pcedt-elem", action='store_true', help="remove 'pcedt' elements")
 parser.add_argument("--remove-functor-change", action='store_true', help="remove the 'functor_change' elements")
 parser.add_argument("--remove-anot-error", action='store_true', help="remove 'anot_error' elements")
+parser.add_argument("--remove-form-change", action='store_true', help="remove the 'form_change' elements")
 parser.add_argument("--tidy-coref", action='store_true', help="tidy the result of coreferencen annotation process")
+
+parser.add_argument("--clear-m-form", action='store_true', help="clear the m/form value")
+parser.add_argument("--clear-m-tag", action='store_true', help="clear the m/tag value")
+parser.add_argument("--clear-m-lemma", action='store_true', help="clear the m/lemma value")
 
 
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
@@ -235,6 +240,33 @@ if args.remove_anot_error:
     for par in root.findall('.//*[pml:anot_error]', ns):
         for ch in par.findall('./pml:anot_error', ns):
             par.remove(ch)
+
+####### remove 'form_change' elements #########
+if args.remove_form_change:
+    for par in root.findall('.//*[pml:form_change]', ns):
+        for ch in par.findall('./pml:form_change', ns):
+            par.remove(ch)
+
+############ clear m/form ###########
+if args.clear_m_form:
+    for m in root.findall('.//pml:m', ns):
+        form_elems = m.findall('./pml:form', ns)
+        for form_elem in form_elems:
+            form_elem.text = ""
+
+############ clear m/tag ###########
+if args.clear_m_tag:
+    for m in root.findall('.//pml:m', ns):
+        tag_elems = m.findall('./pml:tag', ns)
+        for tag_elem in tag_elems:
+            tag_elem.text = ""
+
+############ clear m/lemma ###########
+if args.clear_m_lemma:
+    for m in root.findall('.//pml:m', ns):
+        lemma_elems = m.findall('./pml:lemma', ns)
+        for lemma_elem in lemma_elems:
+            lemma_elem.text = ""
 
 ############### keep zone #####################
 
