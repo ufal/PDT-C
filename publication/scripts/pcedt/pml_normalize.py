@@ -16,6 +16,7 @@ parser.add_argument("--remove-extra-lm", action='store_true', help="remove LM el
 
 parser.add_argument("--remove-empty", action='store_true', help="remove empty elements")
 parser.add_argument("--remove-is-0", action='store_true', help="remove elements 'is_...' with the 0 value")
+parser.add_argument("--remove-is-1", action='store_true', help="remove elements 'is_...' with the 1 value")
 
 parser.add_argument("--remove-meta", action='store_true', help="remove 'meta' element under the root")
 parser.add_argument("--remove-lang-sentence", action='store_true', help="remove '[eng,cze]_sentence' element")
@@ -33,6 +34,9 @@ parser.add_argument("--tidy-coref", action='store_true', help="tidy the result o
 parser.add_argument("--clear-m-form", action='store_true', help="clear the m/form value")
 parser.add_argument("--clear-m-tag", action='store_true', help="clear the m/tag value")
 parser.add_argument("--clear-m-lemma", action='store_true', help="clear the m/lemma value")
+parser.add_argument("--clear-afun", action='store_true', help="clear the afun value in elements with id attribute")
+
+parser.add_argument("--flatten-trees", action='store_true', help="flatten the trees (put all nodes directly under the root element)")
 
 
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
@@ -185,6 +189,15 @@ if args.remove_is_0:
                 if ch.text.strip() == '0':
                     par.remove(ch)
 
+############ delete elements (a, gram) with the 1 value #################
+
+if args.remove_is_1:
+    for name in ['is_member', 'is_extra_dependency', 'is_parenthesis_root']:
+        for par in root.findall(f'.//*[pml:{name}]', ns):
+            for ch in par.findall(f'./pml:{name}', ns):
+                if ch.text.strip() == '1':
+                    par.remove(ch)
+
 ############ tidy the artefacts of coreference annotation process #############
 
 if args.tidy_coref:
@@ -267,6 +280,43 @@ if args.clear_m_lemma:
         lemma_elems = m.findall('./pml:lemma', ns)
         for lemma_elem in lemma_elems:
             lemma_elem.text = ""
+
+############ clear afun ###########
+if args.clear_afun:
+    for elem in root.findall('.//*[@id]', ns):
+        afun_elems = elem.findall('./pml:afun', ns)
+        for afun_elem in afun_elems:
+            afun_elem.text = ""
+
+############ flatten trees #####################
+if args.flatten_trees:
+    # Iterate over all tree roots
+    trees_elems = root.findall('.//pml:LM[pml:s.rf]', ns)
+    for trees_elem in trees_elems:
+        # get all nodes in the tree
+        nodes = trees_elem.findall('.//pml:LM[@id]', ns)
+        # remove all their current children nodes
+        for node in nodes:
+            for ch in node.findall('./pml:children', ns):
+                node.remove(ch)
+        # replace the current children of the tree root with all nodes
+        for ch in trees_elem.findall('./pml:children', ns):
+            trees_elem.remove(ch)
+        children_elem = ET.Element("children")
+        # sort nodes by their 'ord' subelement value
+        def get_ord_value(node):
+            ord_elem = node.find('./pml:ord', ns)
+            if ord_elem is not None and ord_elem.text is not None:
+                try:
+                    return int(ord_elem.text)
+                except ValueError:
+                    return float('inf')  # put nodes with invalid ord values at the end
+            return float('inf')  # put nodes without ord at the end
+        
+        sorted_nodes = sorted(nodes, key=get_ord_value)
+        for node in sorted_nodes:
+            children_elem.append(node)
+        trees_elem.append(children_elem)
 
 ############### keep zone #####################
 
