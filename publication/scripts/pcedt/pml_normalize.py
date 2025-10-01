@@ -11,6 +11,7 @@ parser.add_argument("--src", choices=['orig', 'treex'], default='orig', help="th
 parser.add_argument("--no-add", action='store_true', help="do not add anything, just remove")
 
 parser.add_argument("--clear-reffile", action='store_true', help="clear file references in 'reffile' elements")
+parser.add_argument("--clear-schema", action='store_true', help="clear file references in the 'schema' element")
 parser.add_argument("--sort-id-elems", action='store_true', help="sort subelements of the element with an 'id' attribute alphabetically")
 parser.add_argument("--remove-extra-lm", action='store_true', help="remove LM element if reduntant")
 
@@ -29,14 +30,24 @@ parser.add_argument("--remove-pcedt-elem", action='store_true', help="remove 'pc
 parser.add_argument("--remove-functor-change", action='store_true', help="remove the 'functor_change' elements")
 parser.add_argument("--remove-anot-error", action='store_true', help="remove 'anot_error' elements")
 parser.add_argument("--remove-form-change", action='store_true', help="remove the 'form_change' elements")
+parser.add_argument("--remove-proto-lemma", action='store_true', help="remove 'proto_lemma' elements")
+parser.add_argument("--remove-sentmod", action='store_true', help="remove 'sentmod' elements")
+parser.add_argument("--remove-gram-sempos", action='store_true', help="remove 'gram/sempos' elements")
+parser.add_argument("--discourse", choices=['collapse', 'remove'], default=None, help="handle discourse elements: 'collapse' replaces content with descendant element names, 'remove' deletes the element")
+parser.add_argument("--remove-discourse-groups", action='store_true', help="remove 'discourse_group' elements")
 parser.add_argument("--tidy-coref", action='store_true', help="tidy the result of coreferencen annotation process")
 
 parser.add_argument("--clear-m-form", action='store_true', help="clear the m/form value")
 parser.add_argument("--clear-m-tag", action='store_true', help="clear the m/tag value")
 parser.add_argument("--clear-m-lemma", action='store_true', help="clear the m/lemma value")
 parser.add_argument("--clear-afun", action='store_true', help="clear the afun value in elements with id attribute")
+parser.add_argument("--clear-val-frame", action='store_true', help="clear the 'val_frame.rf' value in elements with id attribute")
+parser.add_argument("--clear-t-lemma", action='store_true', help="clear the t_lemma value in elements with id attribute")
+parser.add_argument("--clear-functor", action='store_true', help="clear the functor value in elements with id attribute")
+parser.add_argument("--clear-deepord", action='store_true', help="clear the deepord value in elements with id attribute")
+parser.add_argument("--clear-nodetype", action='store_true', help="clear the nodetype value in elements with id attribute")
 
-parser.add_argument("--flatten-trees", action='store_true', help="flatten the trees (put all nodes directly under the root element)")
+parser.add_argument("--flatten-trees", choices=['ord', 'id'], default=None, help="flatten the trees (put all nodes directly under the root element), sorted by 'ord' or 'id'")
 
 
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
@@ -81,6 +92,10 @@ if args.clear_reffile:
     for reffile in root.findall('.//pml:reffile', ns):
         reffile.attrib["href"] = ""
 
+######## clear file references in the 'schema' element #########
+if args.clear_schema:
+    for schemafile in root.findall('.//pml:schema', ns):
+        schemafile.attrib["href"] = ""
 
 ######## sort subelements of elements with ID #########
 if args.sort_id_elems:
@@ -260,6 +275,59 @@ if args.remove_form_change:
         for ch in par.findall('./pml:form_change', ns):
             par.remove(ch)
 
+########## remove 'proto_lemma' elements #########
+if args.remove_proto_lemma:
+    for par in root.findall('.//*[pml:proto_lemma]', ns):
+        for ch in par.findall('./pml:proto_lemma', ns):
+            par.remove(ch)
+
+############ remove sentmod elements ###########
+if args.remove_sentmod:
+    for par in root.findall('.//*[pml:sentmod]', ns):
+        for ch in par.findall('./pml:sentmod', ns):
+            par.remove(ch)
+
+############ remove gram elements that only contain sempos ###########
+if args.remove_gram_sempos:
+    for par in root.findall('.//*[pml:gram]', ns):
+        for gram_elem in par.findall('./pml:gram', ns):
+            # Get all children of the gram element
+            children = gram_elem.getchildren()
+            # Check if gram only contains a sempos element and nothing else
+            if len(children) == 1 and children[0].tag == f"{{{ns['pml']}}}sempos":
+                par.remove(gram_elem)
+
+############ handle discourse elements ###########
+if args.discourse is not None:
+    for par in root.findall('.//*[pml:discourse]', ns):
+        for discourse_elem in par.findall('./pml:discourse', ns):
+            if args.discourse == 'remove':
+                # Simply remove the entire discourse element
+                par.remove(discourse_elem)
+            elif args.discourse == 'collapse':
+                # Get all descendant element names (excluding namespace prefix)
+                descendant_names = set()
+                for desc in discourse_elem.findall('.//*', ns):
+                    # Extract local name from namespaced tag
+                    if desc.tag.startswith(f"{{{ns['pml']}}}"):
+                        local_name = desc.tag[len(f"{{{ns['pml']}}}"):]
+                        descendant_names.add(local_name)
+                
+                # Clear all children and set text content to sorted descendant names
+                for child in discourse_elem.getchildren():
+                    discourse_elem.remove(child)
+                
+                if descendant_names:
+                    discourse_elem.text = ' '.join(sorted(descendant_names))
+                else:
+                    discourse_elem.text = ""
+
+############ remove discourse_group elements ###########
+if args.remove_discourse_groups:
+    for par in root.findall('.//*[pml:discourse_groups]', ns):
+        for ch in par.findall('./pml:discourse_groups', ns):
+            par.remove(ch)
+
 ############ clear m/form ###########
 if args.clear_m_form:
     for m in root.findall('.//pml:m', ns):
@@ -288,10 +356,39 @@ if args.clear_afun:
         for afun_elem in afun_elems:
             afun_elem.text = ""
 
+############ clear val_frame.rf ###########
+if args.clear_val_frame:
+    for elem in root.findall('.//*[@id]', ns):
+        val_frame_elems = elem.findall('./pml:val_frame.rf', ns)
+        for val_frame_elem in val_frame_elems:
+            val_frame_elem.text = ""
+
+############ clear t_lemma ###########
+if args.clear_t_lemma:
+    for elem in root.findall('.//*[@id]', ns):
+        t_lemma_elems = elem.findall('./pml:t_lemma', ns)
+        for t_lemma_elem in t_lemma_elems:
+            t_lemma_elem.text = ""
+
+############ clear functor ###########
+if args.clear_functor:
+    for elem in root.findall('.//*[@id]', ns):
+        functor_elems = elem.findall('./pml:functor', ns)
+        for functor_elem in functor_elems:
+            functor_elem.text = ""
+
+############ clear nodetype ###########
+if args.clear_nodetype:
+    for elem in root.findall('.//*[@id]', ns):
+        nodetype_elems = elem.findall('./pml:nodetype', ns)
+        for nodetype_elem in nodetype_elems:
+            nodetype_elem.text = ""
+
 ############ flatten trees #####################
-if args.flatten_trees:
-    # Iterate over all tree roots
+if args.flatten_trees is not None:
+    # Iterate over all tree roots: elements with 's.rf' (a-files) or 'atree.rf' (t-files) subelement
     trees_elems = root.findall('.//pml:LM[pml:s.rf]', ns)
+    trees_elems.extend(root.findall('.//pml:LM[pml:atree.rf]', ns))
     for trees_elem in trees_elems:
         # get all nodes in the tree
         nodes = trees_elem.findall('.//pml:LM[@id]', ns)
@@ -303,9 +400,13 @@ if args.flatten_trees:
         for ch in trees_elem.findall('./pml:children', ns):
             trees_elem.remove(ch)
         children_elem = ET.Element("children")
-        # sort nodes by their 'ord' subelement value
+        
+        # Define sorting functions
         def get_ord_value(node):
             ord_elem = node.find('./pml:ord', ns)
+            # try 'deepord' (t-files) if 'ord' (a-files) is not present
+            if ord_elem is None:
+                ord_elem = node.find('./pml:deepord', ns)
             if ord_elem is not None and ord_elem.text is not None:
                 try:
                     return int(ord_elem.text)
@@ -313,10 +414,26 @@ if args.flatten_trees:
                     return float('inf')  # put nodes with invalid ord values at the end
             return float('inf')  # put nodes without ord at the end
         
-        sorted_nodes = sorted(nodes, key=get_ord_value)
+        def get_id_value(node):
+            id_attr = node.get('id', '')
+            return id_attr
+        
+        # Sort nodes based on the specified criterion
+        if args.flatten_trees == 'ord':
+            sorted_nodes = sorted(nodes, key=get_ord_value)
+        elif args.flatten_trees == 'id':
+            sorted_nodes = sorted(nodes, key=get_id_value)
+        
         for node in sorted_nodes:
             children_elem.append(node)
         trees_elem.append(children_elem)
+
+############ clear deepord (must be after flatten_trees) ###########
+if args.clear_deepord:
+    for elem in root.findall('.//*[@id]', ns):
+        deepord_elems = elem.findall('./pml:deepord', ns)
+        for deepord_elem in deepord_elems:
+            deepord_elem.text = ""
 
 ############### keep zone #####################
 
