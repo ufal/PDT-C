@@ -52,7 +52,7 @@ our %annotator;
 sub detect {
     my $suitable = ((PML::SchemaDescription() // "") =~ m/^PDT-C/
                     && (PML::SchemaName() // "") eq 'tdata') ? 1 : 0;
-    return 0 if $suitable && CurrentContext() =~ /PML_(?:.*_)T/;
+    return 0 if $suitable && CurrentContext() =~ /PML_(?:.*_)?T/;
     return $suitable
 }
 
