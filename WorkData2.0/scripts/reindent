@@ -6,6 +6,7 @@ use feature qw{ say };
 
 use Math::Prime::Util qw{ gcd };
 use Path::Tiny qw{ path };
+use Scope::Guard;
 
 my $BACKEND_CONF;
 
@@ -130,9 +131,38 @@ sub is_git() {
     0 == system 'git rev-parse --show-toplevel > /dev/null 2>&1'
 }
 
+
+sub create_backend($file) {
+    open my $out, '>', $file or die $!;
+    print {$out} << '__XML__';
+<?xml version="1.0" encoding="utf-8"?>
+<pmlbackend xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+  <head>
+    <schema href="pmlbackend_conf_schema.xml"/>
+  </head>
+  <options>
+    <load>
+      <validate_cdata>1</validate_cdata>
+      <use_resources>1</use_resources>
+    </load>
+    <save>
+      <indent>2</indent>
+      <validate_cdata>1</validate_cdata>
+      <write_single_LM>0</write_single_LM>
+    </save>
+  </options>
+</pmlbackend>
+__XML__
+    close $out or die $!;
+    return 'Scope::Guard'->new(sub {
+                                   unlink $file or warn "Cannot remove $file"})
+}
+
+
 $BACKEND_CONF = shift;
-$BACKEND_CONF =~ m{/pmlbackend_conf\.xml$} && -f $BACKEND_CONF
+$BACKEND_CONF =~ m{/pmlbackend_conf\.xml$}
     or die "Invalid backend config $BACKEND_CONF";
+my $guard = create_backend($BACKEND_CONF) unless -f $BACKEND_CONF;
 main(\*ARGV);
 
 
