@@ -88,6 +88,8 @@ for my $wfile (@files) {
     my @delete_ms;
     my @delete_mm;
     my $afile = $doc . '.a';
+    next unless -f $afile;
+
     my $adom = 'XML::LibXML'->load_xml(location => $afile);
     for my $anode ($xpc->findnodes('//pml:trees//@id/..', $adom)) {
         my $id = $anode->{id};
