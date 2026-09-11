@@ -9,6 +9,7 @@ use Path::Tiny qw{ path };
 use Scope::Guard;
 
 my $BACKEND_CONF;
+my %agenda;
 
 {   my %CHANGE = ('-' => 'OLD',
                   '+' => 'NEW',
@@ -43,12 +44,32 @@ my $BACKEND_CONF;
         }
         process($file, \@files, %change) if defined $file;
 
+        for my $old_indent (keys %agenda) {
+            for my $old_droplm (keys %{ $agenda{$old_indent} }) {
+                set_backend($old_indent, $old_droplm);
+
+                my @args = map $_->[0], @{ $agenda{$old_indent}{$old_droplm} };
+
+                say STDERR "Processing (i$old_indent l$old_droplm) @args";
+                my $status = system qw{ btred --allow-no-trees -QSe1 }, @args;
+                die $status if 0 != $status;
+
+                for my $arr (@{ $agenda{$old_indent}{$old_droplm} }) {
+                    my ($file, $old_end, $old_droplm) = @$arr;
+                    my $new_end = get_end($file);
+                    fix_end($file, $old_end, $new_end)
+                        if ($old_end // -1) != ($new_end // -1);
+                }
+            }
+        }
+
         if (@files) {
             my @cmd = is_git()
                 ? qw{ git diff }
                 : qw{ svn diff };
-            say 'Run 2';
+            say "Run 2 for @files";
             open my $run2, '-|', @cmd, @files or die $!;
+            %agenda = ();
             main($run2);
         }
     }
@@ -73,22 +94,13 @@ sub process($file, $afiles, %change) {
     if ($change{OLD}{INDENT} != $change{NEW}{INDENT}
         || ($change{OLD}{DROP_LM} // -1) != ($change{NEW}{DROP_LM} // -1)
     ) {
-        set_backend($change{OLD}{INDENT}, $change{OLD}{DROP_LM} ? 0 : 1);
-
         $change{OLD}{END} //= get_end($file);
-
         $change{OLD}{DROP_LM} //= 0;
-        say "$file: btred (i$change{OLD}{INDENT} l$change{OLD}{DROP_LM})";
-        my $status = system 'btred', '--allow-no-trees', '-QSe1', $file;
-        die $status if 0 != $status;
-
-        $change{NEW}{END} = get_end($file);
-
+        push @{
+            $agenda{ $change{OLD}{INDENT} }{ $change{OLD}{DROP_LM} ? 0 : 1 }
+        }, [$file, $change{OLD}{END}, $change{OLD}{DROP_LM}];
         push @$afiles, $file =~ s/t$/a/r if $file =~ /\.t$/;
     }
-
-    fix_end($file, $change{OLD}{END}, $change{NEW}{END})
-        if ($change{OLD}{END} // -1) != ($change{NEW}{END} // -1);
 }
 
 
